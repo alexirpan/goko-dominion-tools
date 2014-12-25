@@ -4,7 +4,7 @@ import datetime
 import sys
 
 # Project modules
-from gdt.model import db_manager
+#from gdt.model import db_manager
 from gdt.model.constants import *
 from gdt.model.domgame import GameResult
 from gdt.model.domgame import PlayerResult
@@ -25,6 +25,22 @@ RE_RESIGN = re.compile('(.*) - resigned')
 RE_PLACE = re.compile('([0-9]).. place: (.*)')
 RE_GUEST = re.compile('^guest.*', re.IGNORECASE)
 RE_GAMEOVER = re.compile('--* Game Over --*')
+
+# Regex added for replay system
+
+RE_DRAWS = re.compile('(.*) \- draws (.*)')
+RE_PLAYS = re.compile('(.*) \- plays (.*)')
+RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9] .*')
+RE_DISCARDS = re.compile('(.*) \- discards (.*)')
+RE_SHUFFLES = re.compile('(.*) \- shuffles deck$')
+# Reveal for current player only, like Cartographer
+RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
+RE_REVEALS = re.compile('(.*) \- reveals (.*)')
+# Hunting Party edge case (why does this have to be worded differently :( )
+RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand')
+
+
+
 
 # TODO: fix this
 # advopps = db_manager.get_advbot_names()
@@ -53,6 +69,65 @@ def scores_to_ranks(scores):
         ranks[i] = len(larger) + 1
     return(ranks)
 
+def get_cards_drawn(line):
+    line = line[line.index('-'):]
+    # Remove "- draws "
+    line = line[8:]
+    return line.split(', ')
+
+def handle_treasure_case(hand, line):
+    line = line[line.index('-'):]
+    # Remove "- plays "
+    line = line[8:]
+    treasure_names_and_num = line.split(', ')
+    for token in treasure_names_and_num:
+        print token
+        num, name = token.split(' ', 1)
+        num = int(num)
+        for _ in range(num):
+            hand.remove(name)
+
+def find_cleanup_phase_hands(log_lines):
+    # Okay so dealing with this is just so annoying
+    # the only way to differentiate hands drawn during cleanup is by where they are
+    # in the log, and there may be extraneous shuffle messages in the way too
+    # So to avoid dealing with that nonsense, preprocess all of it here
+    # This means we do another pass over the entire log text but that
+    # should be negligible compared to network times
+    # If you want to try to fit this into the other code, feel free...
+
+    # a list of the hands the next player draws during cleanup
+    # should handle Outpost, may not handle Possession
+    hands_for_each_turn = []
+    lines_to_remove = []
+    turn_line_indices = [i for i, line in enumerate(log_lines) if RE_TURNX.match(line)]
+    # skip the very first turn line (this is handled in the starting hands section
+    for ind in turn_line_indices[1:]:
+        cards = []
+        # we only expect to see draws or shuffles
+        start = ind - 1
+        while True:
+            line = log_lines[start]
+            m = RE_DRAWS.match(line)
+            if m:
+                pname = m.group(1)
+                cards.extend(get_cards_drawn(line))
+                if len(cards) == 5:
+                    break
+            elif RE_SHUFFLES.match(line):
+                pass
+            else:
+                break
+            start -= 1
+        lines_to_remove.append( (start, ind) )
+        hands_for_each_turn.append( (pname, cards, log_lines[start:ind]) )
+    cleaned = []
+    curr = 0
+    for start, end in lines_to_remove:
+        cleaned.extend(log_lines[curr:start])
+        curr = end
+    log_lines[:] = cleaned
+    return hands_for_each_turn
 
 # Parse a game log.  Create and return the resulting GameResult object
 def parse_goko_log(logtext):
@@ -319,6 +394,77 @@ def parse_goko_log(logtext):
                     print(presults)
                     print(pname, place)
                     raise WrongPlacesException()
+
+    # until I'm sure this code works, placing all replay system code
+    # at the end in an easy-to-comment-out block
+    def player_index(name):
+        return presults[name].order - 1
+
+
+    player_hands = [ [] for _ in range(pCount) ]
+    # log with all extra whitespace/lines removed
+    log_lines = [line.strip() for line in logtext.split('\n') if line.strip()]
+
+    # handles initializing starting hands for each player
+    # putting this in its own for loop is cleaner, kind of
+    for i, line in enumerate(log_lines):
+        m = RE_DRAWS.match(line)
+        if RE_DRAWS.match(line):
+            name = m.group(1)
+            player_hands[player_index(name)] = get_cards_drawn(line)
+            if player_index(name) == pCount - 1:
+                log_lines = log_lines[i+1:]
+                break
+    hands_for_next_turn = find_cleanup_phase_hands(log_lines)
+
+    # TODO this is the same structure as the above code (continue at the end of every case)
+    # Someone this design feels clunky but I can't think of anything better right now?
+    for line, next_line in zip(log_lines, log_lines[1:]):
+        # debug printing
+        for name in pnames:
+            print name
+            print player_hands[player_index(name)]
+        print 'Next line to parse: ', line
+        print ' '
+
+        # draw line is opening hand if the next line describes the next turn
+        # TODO some annoying Possession edge case?
+        m = RE_TURNX.match(next_line)
+        if m:
+            # TODO remove the skipped lines part after this works
+            pname, next_hand, skipped_lines = hands_for_next_turn[0]
+            player_hands[player_index(pname)][:] = next_hand
+            hands_for_next_turn[0:1] = []
+            print '    Applying the following cleanup lines:'
+            print ''.join('    ' + line + '\n' for line in skipped_lines)
+            continue
+        m = RE_TREASURE_PLAYS.match(line)
+        if m:
+            name = m.group(1)
+            handle_treasure_case(player_hands[player_index(name)], line)
+            continue
+        m = RE_PLAYS.match(line)
+        if m:
+            name = m.group(1)
+            player_hands[player_index(name)].remove(m.group(2))
+            continue
+        m = RE_DISCARDS.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            player_hands[player_index(pname)].remove(card)
+            continue
+        m = RE_DRAWS.match(line)
+        if m:
+            pname = m.group(1)
+            player_hands[player_index(pname)].extend(get_cards_drawn(line))
+            continue
+        m = RE_PLACES_IN_HAND.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            player_hands[player_index(pname)].append(card)
+            continue
 
     return GameResult(supply, gains, rets, rating, shelters, guest, bot,
                       pCount, colony, presults, adventure)
