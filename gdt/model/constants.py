@@ -33,3 +33,7 @@ for bot in BOT_NAMES:
         bot_copies.append('%s %s' % (bot, nth))
 BOT_NAMES += bot_copies
 
+# These help disambiguate actions taken based on the last action played
+GAIN_TO_HAND = ['Mine', 'Trading Post']
+
+DISCARD_FROM_REVEAL = ['Library', 'Hunting Party']

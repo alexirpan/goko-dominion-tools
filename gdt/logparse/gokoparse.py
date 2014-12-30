@@ -38,8 +38,9 @@ RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
 RE_REVEALS = re.compile('(.*) \- reveals (.*)')
 # Hunting Party edge case (why does this have to be worded differently :( )
 RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand')
-
-
+# Library edge case (urrrgh)
+RE_MOVES_TO_HAND = re.compile('(.*) \- moves (.*) to hand')
+RE_TRASHES = re.compile('(.*) \- trashes (.*) in hand')
 
 
 # TODO: fix this
@@ -73,6 +74,12 @@ def get_cards_drawn(line):
     line = line[line.index('-'):]
     # Remove "- draws "
     line = line[8:]
+    return line.split(', ')
+
+def get_cards_trashed(line):
+    line = line[line.index('-'):]
+    # Remove "- trashes "
+    line = line[10:]
     return line.split(', ')
 
 def handle_treasure_case(hand, line):
@@ -140,6 +147,9 @@ def generate_game_states(logtext):
     log_lines = logtext.split("\n")
     startcl = []
     turnl = []
+    # TEMP FIX, STORE LAST ACTION PLAYED
+    # PROBABLY DOESN'T WORK with TR/KC, just want to try something here
+    resolving_card = None
     pnames = set()
     playerInd = dict()
     pCount = 0
@@ -226,9 +236,10 @@ def generate_game_states(logtext):
         if m:
             name = m.group(1)
             player_hands[player_index(name)].remove(m.group(2))
+            resolving_card = m.group(2)
             continue
         m = RE_DISCARDS.match(line)
-        if m:
+        if m and resolving_card not in DISCARD_FROM_REVEAL:
             pname = m.group(1)
             card = m.group(2)
             player_hands[player_index(pname)].remove(card)
@@ -238,8 +249,26 @@ def generate_game_states(logtext):
             pname = m.group(1)
             player_hands[player_index(pname)].extend(get_cards_drawn(line))
             continue
+        m = RE_TRASHES.match(line)
+        if m:
+            pname = m.group(1)
+            for card in get_cards_trashed(line):
+                player_hands[player_index(pname)].remove(card)
+            continue
         m = RE_PLACES_IN_HAND.match(line)
         if m:
+            pname = m.group(1)
+            card = m.group(2)
+            player_hands[player_index(pname)].append(card)
+            continue
+        m = RE_MOVES_TO_HAND.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            player_hands[player_index(pname)].append(card)
+            continue
+        m = RE_GAINS.match(line)
+        if m and resolving_card in GAIN_TO_HAND:
             pname = m.group(1)
             card = m.group(2)
             player_hands[player_index(pname)].append(card)
