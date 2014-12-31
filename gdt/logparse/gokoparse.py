@@ -33,6 +33,7 @@ RE_PLAYS = re.compile('(.*) \- plays (.*)')
 RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9] .*')
 RE_DISCARDS = re.compile('(.*) \- discards (.*)')
 RE_SHUFFLES = re.compile('(.*) \- shuffles deck$')
+RE_TOPDECKS = re.compile('(.*) - places (.*) on top of deck')
 # Reveal for current player only, like Cartographer
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
 RE_REVEALS = re.compile('(.*) \- reveals (.*)')
@@ -240,6 +241,12 @@ def generate_game_states(logtext):
             continue
         m = RE_DISCARDS.match(line)
         if m and resolving_card not in DISCARD_FROM_REVEAL:
+            pname = m.group(1)
+            card = m.group(2)
+            player_hands[player_index(pname)].remove(card)
+            continue
+        m = RE_TOPDECKS.match(line)
+        if m:
             pname = m.group(1)
             card = m.group(2)
             player_hands[player_index(pname)].remove(card)
