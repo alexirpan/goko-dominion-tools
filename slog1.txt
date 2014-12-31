@@ -1,0 +1,673 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Moat, Chancellor, Remodel, Throne Room, Festival, Library, Adventurer, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: unrated
+soulnet - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+soulnet - shuffles deck
+Titandrake - shuffles deck
+soulnet - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- soulnet: turn 1 ----------
+soulnet - plays Copper
+soulnet - plays Copper
+soulnet - buys Chapel
+soulnet - gains Chapel
+soulnet - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- soulnet: turn 2 ----------
+soulnet - plays 4 Copper
+soulnet - buys Chancellor
+soulnet - gains Chancellor
+soulnet - shuffles deck
+soulnet - draws Copper, Copper, Copper, Chancellor, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- soulnet: turn 3 ----------
+soulnet - plays Chancellor
+soulnet - plays 3 Copper
+soulnet - buys Festival
+soulnet - gains Festival
+soulnet - draws Estate, Copper, Chapel, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Chapel, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate
+ 
+---------- soulnet: turn 4 ----------
+soulnet - plays Chapel
+soulnet - trashes Copper, Copper, Copper, Estate
+soulnet - draws Estate, Copper
+soulnet - shuffles deck
+soulnet - draws Estate, Festival, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Festival, Copper, Copper
+ 
+---------- soulnet: turn 5 ----------
+soulnet - plays Festival
+soulnet - plays 2 Copper
+soulnet - buys Throne Room
+soulnet - gains Throne Room
+soulnet - draws Chapel, Copper, Copper, Chancellor
+soulnet - shuffles deck
+soulnet - draws Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Festival
+Titandrake - plays 4 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Estate, Copper, Cellar, Silver
+Titandrake - shuffles deck
+Titandrake - draws Festival
+ 
+---------- soulnet: turn 6 ----------
+soulnet - plays Chapel
+soulnet - trashes Estate, Copper, Copper
+soulnet - draws Estate, Throne Room, Festival, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper
+Titandrake - plays Festival
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Library
+Titandrake - gains Library
+Titandrake - draws Chapel, Copper, Festival, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- soulnet: turn 7 ----------
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays 2 Copper
+soulnet - buys Festival
+soulnet - gains Festival
+soulnet - shuffles deck
+soulnet - draws Festival, Copper, Throne Room, Chapel, Festival
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Festival
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper, Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Copper, Cellar, Copper, Silver, Copper
+ 
+---------- soulnet: turn 8 ----------
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Chapel
+soulnet - trashes Copper
+soulnet - buys Library
+soulnet - gains Library
+soulnet - draws Estate, Chancellor, Copper
+soulnet - shuffles deck
+soulnet - draws Festival, Library
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Festival, Library
+Titandrake - shuffles deck
+Titandrake - draws Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Library
+Titandrake - moves Chapel to hand
+Titandrake - moves Cellar to hand
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Cellar, Throne Room, Copper, Chapel, Copper
+ 
+---------- soulnet: turn 9 ----------
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - moves Chapel to hand
+soulnet - moves Festival to hand
+soulnet - moves Throne Room to hand
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Chancellor
+soulnet - plays Chapel
+soulnet - trashes Estate
+soulnet - plays 1 Copper
+soulnet - buys Throne Room
+soulnet - gains Throne Room
+soulnet - buys Festival
+soulnet - gains Festival
+soulnet - shuffles deck
+soulnet - draws Throne Room, Festival, Chapel, Library, Festival
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Cellar
+Titandrake - discards Chapel
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Festival, Copper, Festival
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Festival
+Titandrake - discards Festival
+Titandrake - draws Cellar, Library, Silver
+Titandrake - plays Library
+Titandrake - moves Festival to hand
+Titandrake - shuffles deck
+Titandrake - moves Festival to hand
+Titandrake - moves Chapel to hand
+Titandrake - draws Copper
+Titandrake - discards Festival
+Titandrake - draws Copper
+Titandrake - discards Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper
+Titandrake - plays Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Festival, Chapel, Festival
+ 
+---------- soulnet: turn 10 ----------
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - moves Throne Room to hand
+soulnet - moves Festival to hand
+soulnet - draws Copper
+soulnet - moves Chancellor to hand
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Chancellor
+soulnet - plays 1 Copper
+soulnet - buys Library
+soulnet - gains Library
+soulnet - buys Festival
+soulnet - gains Festival
+soulnet - buys Chancellor
+soulnet - gains Chancellor
+soulnet - shuffles deck
+soulnet - draws Copper, Throne Room, Festival, Throne Room, Library
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - draws Festival, Throne Room, Library, Cellar, Cellar
+ 
+---------- soulnet: turn 11 ----------
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - moves Library to hand
+soulnet - moves Festival to hand
+soulnet - moves Festival to hand
+soulnet - moves Festival to hand
+soulnet - moves Chapel to hand
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - moves Chancellor to hand
+soulnet - moves Chancellor to hand
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Chancellor
+soulnet - plays Chancellor
+soulnet - plays Chapel
+soulnet - trashes Copper
+soulnet - buys Festival
+soulnet - gains Festival
+soulnet - buys Festival
+soulnet - gains Festival
+soulnet - buys Library
+soulnet - gains Library
+soulnet - shuffles deck
+soulnet - draws Festival, Festival, Festival, Library, Festival
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Library
+Titandrake - moves Festival to hand
+Titandrake - shuffles deck
+Titandrake - moves Festival to hand
+Titandrake - moves Throne Room to hand
+Titandrake - draws Silver
+Titandrake - moves Festival to hand
+Titandrake - plays Cellar
+Titandrake - discards Cellar
+Titandrake - discards Silver
+Titandrake - draws Copper, Chancellor
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Throne Room
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays Chancellor
+Titandrake - plays 1 Copper
+Titandrake - buys Library
+Titandrake - gains Library
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - shuffles deck
+Titandrake - draws Festival, Cellar, Chancellor, Festival, Library
+ 
+---------- soulnet: turn 12 ----------
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - moves Throne Room to hand
+soulnet - discards Chancellor
+soulnet - moves Library to hand
+soulnet - moves Chancellor to hand
+soulnet - moves Throne Room to hand
+soulnet - moves Festival to hand
+soulnet - discards Chapel
+soulnet - moves Festival to hand
+soulnet - moves Library to hand
+soulnet - discards: Chancellor, Chapel
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - shuffles deck
+soulnet - moves Chapel to hand
+soulnet - moves Chancellor to hand
+soulnet - plays Chancellor
+soulnet - plays Chancellor
+soulnet - buys Remodel
+soulnet - gains Remodel
+soulnet - buys Hoard
+soulnet - gains Hoard
+soulnet - buys Throne Room
+soulnet - gains Throne Room
+soulnet - buys Throne Room
+soulnet - gains Throne Room
+soulnet - buys Cellar
+soulnet - gains Cellar
+soulnet - shuffles deck
+soulnet - draws Throne Room, Festival, Remodel, Festival, Throne Room
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Chancellor
+Titandrake - plays Library
+Titandrake - moves Throne Room to hand
+Titandrake - discards Cellar
+Titandrake - moves Festival to hand
+Titandrake - draws Copper
+Titandrake - moves Throne Room to hand
+Titandrake - draws Silver
+Titandrake - discards Festival
+Titandrake - moves Library to hand
+Titandrake - discards: Cellar, Festival
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - draws Hoard, Chancellor
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Throne Room
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays Chancellor
+Titandrake - plays Library
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - moves Cellar to hand
+Titandrake - moves Chapel to hand
+Titandrake - moves Festival to hand
+Titandrake - draws Copper
+Titandrake - plays Festival
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver
+Titandrake - plays Hoard
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - shuffles deck
+Titandrake - draws Festival, Festival, Gold, Chapel, Throne Room
+ 
+---------- soulnet: turn 13 ----------
+soulnet - plays Throne Room
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Remodel
+soulnet - buys Library
+soulnet - gains Library
+soulnet - buys Chancellor
+soulnet - gains Chancellor
+soulnet - draws Hoard, Chancellor, Festival, Library, Festival
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Library, Province, Chancellor, Throne Room, Festival
+ 
+---------- soulnet: turn 14 ----------
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Chancellor
+soulnet - plays Library
+soulnet - discards Chancellor
+soulnet - moves Cellar to hand
+soulnet - moves Library to hand
+soulnet - moves Festival to hand
+soulnet - discards Chapel
+soulnet - moves Throne Room to hand
+soulnet - moves Throne Room to hand
+soulnet - moves Library to hand
+soulnet - discards: Chancellor, Chapel
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Cellar
+soulnet - discards Hoard
+soulnet - draws Festival
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - shuffles deck
+soulnet - moves Festival to hand
+soulnet - draws Hoard
+soulnet - discards Chapel
+soulnet - moves Chancellor to hand
+soulnet - moves Throne Room to hand
+soulnet - moves Chancellor to hand
+soulnet - moves Festival to hand
+soulnet - discards Chapel
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Chancellor
+soulnet - plays Library
+soulnet - moves Remodel to hand
+soulnet - moves Library to hand
+soulnet - moves Throne Room to hand
+soulnet - shuffles deck
+soulnet - moves Chapel to hand
+soulnet - plays Remodel
+soulnet - trashes Chapel
+soulnet - gains Remodel
+soulnet - plays Library
+soulnet - shuffles deck
+soulnet - moves Remodel to hand
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Remodel
+soulnet - trashes Chancellor
+soulnet - gains Library
+soulnet - plays Hoard
+soulnet - buys Duchy
+soulnet - gains Gold
+soulnet - gains Duchy
+soulnet - buys Duchy
+soulnet - gains Gold
+soulnet - gains Duchy
+soulnet - buys Duchy
+soulnet - gains Gold
+soulnet - gains Duchy
+soulnet - buys Cellar
+soulnet - gains Cellar
+soulnet - buys Province
+soulnet - gains Gold
+soulnet - gains Province
+soulnet - shuffles deck
+soulnet - draws Throne Room, Remodel, Duchy, Remodel, Library
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Chancellor
+Titandrake - plays Library
+Titandrake - draws Province
+Titandrake - moves Festival to hand
+Titandrake - discards Chancellor
+Titandrake - draws Gold
+Titandrake - draws Hoard
+Titandrake - moves Library to hand
+Titandrake - moves Cellar to hand
+Titandrake - discards Chancellor
+Titandrake - plays Festival
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Hoard
+Titandrake - draws Remodel, Silver, Cellar
+Titandrake - plays Remodel
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - plays Library
+Titandrake - shuffles deck
+Titandrake - moves Festival to hand
+Titandrake - draws Province
+Titandrake - moves Festival to hand
+Titandrake - moves Chancellor to hand
+Titandrake - draws Province
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Silver
+Titandrake - draws Throne Room, Gold, Province
+Titandrake - plays Festival
+Titandrake - plays Throne Room
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Festival, Festival, Province, Province, Estate
+ 
+---------- soulnet: turn 15 ----------
+soulnet - draws Gold, Gold, Chancellor, Duchy, Festival
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Cellar, Province, Province, Province, Chancellor
+ 
+---------- soulnet: turn 16 ----------
+soulnet - plays Festival
+soulnet - plays Chancellor
+soulnet - plays 2 Gold
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - draws Festival, Throne Room, Festival, Library, Throne Room
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - draws Throne Room, Library, Gold
+Titandrake - plays Chancellor
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Festival, Chancellor, Silver, Hoard
+ 
+---------- soulnet: turn 17 ----------
+soulnet - plays Throne Room
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - moves Festival to hand
+soulnet - moves Library to hand
+soulnet - moves Cellar to hand
+soulnet - moves Throne Room to hand
+soulnet - moves Chancellor to hand
+soulnet - draws Hoard
+soulnet - draws Gold
+soulnet - plays Chancellor
+soulnet - plays Cellar
+soulnet - discards Hoard
+soulnet - discards Gold
+soulnet - draws Province, Library
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - moves Library to hand
+soulnet - draws Duchy
+soulnet - moves Festival to hand
+soulnet - moves Festival to hand
+soulnet - draws Gold
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - moves Cellar to hand
+soulnet - shuffles deck
+soulnet - draws Duchy
+soulnet - draws Hoard
+soulnet - plays Cellar
+soulnet - discards Province
+soulnet - discards Duchy
+soulnet - discards Duchy
+soulnet - discards Hoard
+soulnet - draws Chancellor, Remodel, Library, Gold
+soulnet - plays Chancellor
+soulnet - plays Remodel
+soulnet - trashes Gold
+soulnet - gains Province
+soulnet - plays Library
+soulnet - moves Throne Room to hand
+soulnet - draws Duchy
+soulnet - moves Festival to hand
+soulnet - draws Duchy
+soulnet - draws Gold
+soulnet - plays Throne Room
+soulnet - plays Festival
+soulnet - plays Festival
+soulnet - plays Library
+soulnet - moves Remodel to hand
+soulnet - draws Gold
+soulnet - draws Duchy
+soulnet - plays 3 Gold
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - shuffles deck
+soulnet - draws Library, Estate, Gold, Festival, Library
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Festival, 2 Chancellor, 2 Cellar, 2 Throne Room, 2 Library, 1 Remodel, 1 Chapel, 1 Silver, 1 Hoard, 1 Gold, 6 Province, 3 Estate, 1 Duchy
+Titandrake - total victory points: 42
+Titandrake - turns: 17
+ 
+soulnet - cards: 6 Festival, 5 Library, 4 Throne Room, 2 Cellar, 2 Remodel, 2 Chancellor, 3 Gold, 1 Hoard, 7 Duchy, 5 Estate, 2 Province
+soulnet - total victory points: 38
+soulnet - turns: 17
+ 
+1st place: Titandrake
+2nd place: soulnet
+ 

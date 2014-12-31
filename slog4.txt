@@ -1,0 +1,495 @@
+------------ Game Setup ------------
+Supply cards: Village, Bureaucrat, Feast, Gardens, Moneylender, Smithy, Thief, Library, Mine, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+soulnet - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+soulnet - shuffles deck
+Titandrake - shuffles deck
+soulnet - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- soulnet: turn 1 ----------
+soulnet - plays Copper
+soulnet - plays 3 Copper
+soulnet - buys Bureaucrat
+soulnet - gains Bureaucrat
+soulnet - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Library
+Titandrake - gains Library
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- soulnet: turn 2 ----------
+soulnet - plays 3 Copper
+soulnet - buys Silver
+soulnet - gains Silver
+soulnet - shuffles deck
+soulnet - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Library, Estate, Copper, Copper
+ 
+---------- soulnet: turn 3 ----------
+soulnet - plays 3 Copper
+soulnet - buys Silver
+soulnet - gains Silver
+soulnet - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Library
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Library
+ 
+---------- soulnet: turn 4 ----------
+soulnet - plays 3 Copper, 1 Silver
+soulnet - buys Library
+soulnet - gains Library
+soulnet - draws Copper, Bureaucrat
+soulnet - shuffles deck
+soulnet - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Library
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - draws Estate
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Silver, Copper, Copper, Estate
+ 
+---------- soulnet: turn 5 ----------
+soulnet - plays Bureaucrat
+soulnet - gains Silver
+Titandrake - reveals Estate
+Titandrake - places Estate on top of deck
+soulnet - plays 3 Copper, 1 Silver
+soulnet - buys Library
+soulnet - gains Library
+soulnet - draws Silver, Copper, Library, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Bureaucrat
+Titandrake - gains Bureaucrat
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Library, Copper, Estate, Estate
+ 
+---------- soulnet: turn 6 ----------
+soulnet - plays Library
+soulnet - draws Copper
+soulnet - draws Estate
+soulnet - draws Silver
+soulnet - plays 3 Copper, 2 Silver
+soulnet - buys Gold
+soulnet - gains Gold
+soulnet - draws Copper, Estate
+soulnet - shuffles deck
+soulnet - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Library
+Titandrake - draws Copper
+Titandrake - discards Bureaucrat
+Titandrake - draws Silver
+Titandrake - draws Copper
+Titandrake - discards Bureaucrat
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- soulnet: turn 7 ----------
+soulnet - plays 3 Copper
+soulnet - buys Silver
+soulnet - gains Silver
+soulnet - draws Silver, Copper, Bureaucrat, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Gold
+ 
+---------- soulnet: turn 8 ----------
+soulnet - plays Bureaucrat
+soulnet - gains Silver
+Titandrake - reveals Gold, Copper, Copper, Copper, Gold
+soulnet - plays 2 Copper, 1 Silver
+soulnet - buys Bureaucrat
+soulnet - gains Bureaucrat
+soulnet - draws Silver, Silver, Gold, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Library, Estate, Estate, Estate, Silver
+ 
+---------- soulnet: turn 9 ----------
+soulnet - plays 2 Silver, 2 Copper, 1 Gold
+soulnet - buys Province
+soulnet - gains Province
+soulnet - draws Silver, Library, Library
+soulnet - shuffles deck
+soulnet - draws Estate, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Library
+Titandrake - discards Bureaucrat
+Titandrake - draws Copper
+Titandrake - draws Silver
+Titandrake - draws Copper
+Titandrake - discards Bureaucrat
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Bureaucrat, Estate
+ 
+---------- soulnet: turn 10 ----------
+soulnet - plays Library
+soulnet - discards Bureaucrat
+soulnet - draws Copper
+soulnet - draws Gold
+soulnet - draws Copper
+soulnet - discards Bureaucrat
+soulnet - plays 2 Silver, 2 Copper, 1 Gold
+soulnet - buys Province
+soulnet - gains Province
+soulnet - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bureaucrat
+Titandrake - gains Silver
+soulnet - reveals Estate
+soulnet - places Estate on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Silver, Copper, Library, Gold, Estate
+ 
+---------- soulnet: turn 11 ----------
+soulnet - plays 3 Copper, 1 Silver
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - draws Estate, Copper, Estate, Province, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Library
+Titandrake - draws Province
+Titandrake - draws Estate
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Gold, Silver, Copper, Copper
+ 
+---------- soulnet: turn 12 ----------
+soulnet - draws Bureaucrat, Silver, Silver
+soulnet - shuffles deck
+soulnet - draws Copper, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Gold, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Province
+ 
+---------- soulnet: turn 13 ----------
+soulnet - plays Bureaucrat
+soulnet - gains Silver
+Titandrake - reveals Province
+Titandrake - places Province on top of deck
+soulnet - plays 2 Silver, 1 Copper
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - draws Silver, Silver, Copper, Province, Library
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Gold, Copper, Copper, Estate
+ 
+---------- soulnet: turn 14 ----------
+soulnet - plays Library
+soulnet - draws Copper
+soulnet - draws Estate
+soulnet - discards Bureaucrat
+soulnet - discards Library
+soulnet - draws Copper
+soulnet - discards: Bureaucrat, Library
+soulnet - plays 3 Copper, 2 Silver
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - draws Gold, Estate, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Silver, Estate, Province, Province
+ 
+---------- soulnet: turn 15 ----------
+soulnet - plays 1 Gold, 1 Silver, 1 Copper
+soulnet - buys Nobles
+soulnet - gains Nobles
+soulnet - draws Duchy, Silver, Copper, Copper
+soulnet - shuffles deck
+soulnet - draws Bureaucrat
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Library
+Titandrake - gains Library
+Titandrake - draws Bureaucrat, Estate, Copper, Copper, Library
+ 
+---------- soulnet: turn 16 ----------
+soulnet - plays Bureaucrat
+soulnet - gains Silver
+Titandrake - reveals Estate
+Titandrake - places Estate on top of deck
+soulnet - plays 2 Copper, 1 Silver
+soulnet - buys Gardens
+soulnet - gains Gardens
+soulnet - draws Silver, Nobles, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Library
+Titandrake - draws Estate
+Titandrake - draws Silver
+Titandrake - draws Gardens
+Titandrake - draws Silver
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Gardens, Silver, Province, Bureaucrat
+ 
+---------- soulnet: turn 17 ----------
+soulnet - plays Nobles
+soulnet - draws Silver, Silver, Duchy
+soulnet - plays 4 Silver, 1 Copper
+soulnet - buys Province
+soulnet - gains Province
+soulnet - draws Library, Library, Bureaucrat, Copper, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Bureaucrat
+Titandrake - gains Silver
+soulnet - reveals Library, Library, Bureaucrat, Copper, Copper
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Silver, Silver, Copper, Silver, Duchy
+ 
+---------- soulnet: turn 18 ----------
+soulnet - plays Library
+soulnet - draws Province
+soulnet - draws Estate
+soulnet - draws Copper
+soulnet - plays 3 Copper
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - draws Silver, Gold, Silver, Duchy, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Copper, Gold, Estate, Copper, Silver
+ 
+---------- soulnet: turn 19 ----------
+soulnet - plays 2 Silver, 1 Gold
+soulnet - buys Nobles
+soulnet - gains Nobles
+soulnet - draws Copper, Province
+soulnet - shuffles deck
+soulnet - draws Library, Silver, Duchy
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Province, Copper, Library, Duchy, Estate
+ 
+---------- soulnet: turn 20 ----------
+soulnet - plays Library
+soulnet - draws Estate
+soulnet - draws Silver
+soulnet - draws Duchy
+soulnet - plays 2 Silver, 1 Copper
+soulnet - buys Gardens
+soulnet - gains Gardens
+soulnet - draws Silver, Copper, Silver, Silver, Library
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Library
+Titandrake - draws Province
+Titandrake - discards Library
+Titandrake - draws Gold
+Titandrake - draws Copper
+Titandrake - discards Library
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Estate, Copper, Copper, Gardens
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- soulnet: turn 21 ----------
+soulnet - plays Library
+soulnet - discards Bureaucrat
+soulnet - draws Copper
+soulnet - draws Copper
+soulnet - draws Duchy
+soulnet - discards Bureaucrat
+soulnet - plays 3 Silver, 3 Copper
+soulnet - buys Province
+soulnet - gains Province
+soulnet - draws Silver, Bureaucrat, Copper, Estate, Province
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Gardens, Province, Copper, Library
+ 
+---------- soulnet: turn 22 ----------
+soulnet - plays Bureaucrat
+soulnet - gains Silver
+Titandrake - reveals Province
+Titandrake - places Province on top of deck
+soulnet - plays 1 Silver, 1 Copper
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - draws Silver, Estate, Gardens, Copper, Province
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Library
+Titandrake - draws Province
+Titandrake - draws Silver
+Titandrake - draws Duchy
+Titandrake - draws Duchy
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Library, Province, Gardens, Province
+ 
+---------- soulnet: turn 23 ----------
+soulnet - plays 1 Silver, 1 Copper
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - draws Nobles, Estate, Gold, Copper, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Library
+Titandrake - draws Gardens
+Titandrake - draws Gardens
+Titandrake - draws Gold
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Bureaucrat, Copper, Gold, Gardens
+ 
+---------- soulnet: turn 24 ----------
+soulnet - plays 1 Gold, 1 Copper, 1 Silver
+soulnet - buys Duchy
+soulnet - gains Duchy
+soulnet - draws Nobles
+soulnet - shuffles deck
+soulnet - draws Copper, Silver, Duchy, Silver
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Bureaucrat
+Titandrake - gains Silver
+soulnet - reveals Duchy
+soulnet - places Duchy on top of deck
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Gold, Estate, Copper, Copper
+ 
+---------- soulnet: turn 25 ----------
+soulnet - plays Nobles
+soulnet - draws Duchy, Silver, Duchy
+soulnet - plays 3 Silver, 1 Copper
+soulnet - buys Nobles
+soulnet - gains Nobles
+soulnet - draws Silver, Province, Copper, Duchy, Copper
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Estate, Copper
+ 
+---------- soulnet: turn 26 ----------
+soulnet - plays 2 Copper, 1 Silver
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - draws Province, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Bureaucrat
+Titandrake - gains Bureaucrat
+Titandrake - draws Gardens, Copper, Bureaucrat, Duchy, Copper
+ 
+---------- soulnet: turn 27 ----------
+soulnet - plays 2 Copper, 1 Silver
+soulnet - buys Estate
+soulnet - gains Estate
+soulnet - draws Estate, Bureaucrat, Province, Estate, Nobles
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Bureaucrat
+Titandrake - gains Silver
+soulnet - reveals Nobles
+soulnet - places Nobles on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Copper, Estate, Duchy, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Bureaucrat, 2 Library, 1 Nobles, 7 Silver, 7 Copper, 3 Gold, 6 Estate, 6 Gardens, 4 Duchy, 3 Province
+Titandrake - total victory points: 62
+Titandrake - turns: 28
+ 
+soulnet - cards: 3 Nobles, 2 Bureaucrat, 2 Library, 8 Silver, 7 Copper, 1 Gold, 8 Estate, 4 Province, 4 Duchy, 2 Gardens
+soulnet - total victory points: 58
+soulnet - turns: 27
+ 
+1st place: Titandrake
+2nd place: soulnet
+ 
