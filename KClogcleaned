@@ -1,0 +1,594 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Scheme, Warehouse, Silk Road, Spice Merchant, Throne Room, Cache, Haggler, Trading Post, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Zephyrinius - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Zephyrinius - shuffles deck
+Titandrake - shuffles deck
+Zephyrinius - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Zephyrinius: turn 1 ----------
+Zephyrinius - plays 4 Copper
+Zephyrinius - buys Spice Merchant
+Zephyrinius - gains Spice Merchant
+Zephyrinius - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Zephyrinius: turn 2 ----------
+Zephyrinius - plays 3 Copper
+Zephyrinius - buys Silver
+Zephyrinius - gains Silver
+Zephyrinius - shuffles deck
+Zephyrinius - draws Copper, Spice Merchant, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Estate, Estate
+ 
+---------- Zephyrinius: turn 3 ----------
+Zephyrinius - plays Spice Merchant
+Zephyrinius - trashes Copper
+Zephyrinius - chooses two coins and one buy
+Zephyrinius - plays 1 Copper, 1 Silver
+Zephyrinius - buys Haggler
+Zephyrinius - gains Haggler
+Zephyrinius - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Spice Merchant, Copper, Copper, Copper, Copper
+ 
+---------- Zephyrinius: turn 4 ----------
+Zephyrinius - plays 3 Copper
+Zephyrinius - buys Scheme
+Zephyrinius - gains Scheme
+Zephyrinius - draws Copper, Copper
+Zephyrinius - shuffles deck
+Zephyrinius - draws Spice Merchant, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Throne Room, Copper, Spice Merchant, Copper, Copper
+ 
+---------- Zephyrinius: turn 5 ----------
+Zephyrinius - plays Spice Merchant
+Zephyrinius - trashes Copper
+Zephyrinius - chooses two cards and one action
+Zephyrinius - draws Copper, Scheme
+Zephyrinius - plays Scheme
+Zephyrinius - draws Copper
+Zephyrinius - plays 4 Copper
+Zephyrinius - buys Throne Room
+Zephyrinius - gains Throne Room
+Zephyrinius - Scheme choice: Spice Merchant
+Zephyrinius - draws Spice Merchant, Copper, Estate, Estate, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Estate
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - draws Silver, Estate, Estate, Scheme
+Titandrake - shuffles deck
+Titandrake - draws Throne Room
+ 
+---------- Zephyrinius: turn 6 ----------
+Zephyrinius - plays Spice Merchant
+Zephyrinius - trashes Copper
+Zephyrinius - chooses two cards and one action
+Zephyrinius - draws Haggler
+Zephyrinius - shuffles deck
+Zephyrinius - draws Copper
+Zephyrinius - plays Haggler
+Zephyrinius - plays 1 Silver, 1 Copper
+Zephyrinius - buys Haggler
+Zephyrinius - gains Scheme
+Zephyrinius - gains Haggler
+Zephyrinius - draws Throne Room, Copper, Copper, Estate, Scheme
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Throne Room
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Throne Room, Spice Merchant, Copper, Copper
+ 
+---------- Zephyrinius: turn 7 ----------
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Scheme
+Zephyrinius - draws Copper
+Zephyrinius - shuffles deck
+Zephyrinius - draws Silver
+Zephyrinius - plays 3 Copper, 1 Silver
+Zephyrinius - buys Warehouse
+Zephyrinius - gains Warehouse
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Throne Room
+Zephyrinius - draws Throne Room, Scheme, Copper, Haggler, Spice Merchant
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Chancellor
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Scheme
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Throne Room
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Throne Room
+Titandrake - draws Throne Room, Scheme
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Scheme
+ 
+---------- Zephyrinius: turn 8 ----------
+Zephyrinius - plays Spice Merchant
+Zephyrinius - trashes Copper
+Zephyrinius - chooses two cards and one action
+Zephyrinius - draws Scheme, Haggler
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Scheme
+Zephyrinius - draws Estate
+Zephyrinius - draws Estate
+Zephyrinius - plays Scheme
+Zephyrinius - shuffles deck
+Zephyrinius - draws Copper
+Zephyrinius - plays Haggler
+Zephyrinius - plays Haggler
+Zephyrinius - plays Copper
+Zephyrinius - buys Haggler
+Zephyrinius - gains Throne Room
+Zephyrinius - gains Scheme
+Zephyrinius - gains Haggler
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Throne Room
+Zephyrinius - Scheme choice: Haggler
+Zephyrinius - draws Haggler, Throne Room, Scheme, Estate, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - draws Spice Merchant
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, King's Court
+Titandrake - plays King's Court
+Titandrake - plays Scheme
+Titandrake - draws Chancellor
+Titandrake - draws Copper
+Titandrake - draws Estate
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 2 Copper
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - Scheme choice: King's Court
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Throne Room
+Titandrake - Scheme choice: Chancellor
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Chancellor, Throne Room, Scheme, King's Court
+ 
+---------- Zephyrinius: turn 9 ----------
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Scheme
+Zephyrinius - draws Copper
+Zephyrinius - draws Copper
+Zephyrinius - plays Haggler
+Zephyrinius - plays 2 Copper, 1 Silver
+Zephyrinius - buys Gold
+Zephyrinius - gains Warehouse
+Zephyrinius - gains Gold
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Throne Room
+Zephyrinius - draws Throne Room, Scheme, Warehouse
+Zephyrinius - shuffles deck
+Zephyrinius - draws Scheme, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Throne Room
+Titandrake - plays King's Court
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Chancellor
+Titandrake - draws Silver
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - draws Estate
+Titandrake - draws Estate
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays Chancellor
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - Scheme choice: King's Court
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Throne Room
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Throne Room, Scheme, King's Court
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Zephyrinius: turn 10 ----------
+Zephyrinius - plays Scheme
+Zephyrinius - draws Haggler
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Scheme
+Zephyrinius - draws Gold
+Zephyrinius - draws Estate
+Zephyrinius - plays Warehouse
+Zephyrinius - draws Throne Room, Spice Merchant, Haggler
+Zephyrinius - discards Estate
+Zephyrinius - discards Copper
+Zephyrinius - discards Spice Merchant
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Haggler
+Zephyrinius - plays Haggler
+Zephyrinius - plays Gold
+Zephyrinius - buys Province
+Zephyrinius - gains King's Court
+Zephyrinius - gains King's Court
+Zephyrinius - gains Province
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Throne Room
+Zephyrinius - Scheme choice: Warehouse
+Zephyrinius - draws Warehouse, Throne Room, Scheme, Scheme, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Throne Room
+Titandrake - plays King's Court
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - draws Chancellor
+Titandrake - draws Chancellor
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - draws Spice Merchant
+Titandrake - draws Estate
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Copper
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays Chancellor
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - Scheme choice: King's Court
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Throne Room
+Titandrake - Scheme choice: Chancellor
+Titandrake - draws Chancellor, Throne Room, Scheme, Scheme, King's Court
+ 
+---------- Zephyrinius: turn 11 ----------
+Zephyrinius - plays Scheme
+Zephyrinius - draws Haggler
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Scheme
+Zephyrinius - draws Warehouse
+Zephyrinius - draws Estate
+Zephyrinius - plays Warehouse
+Zephyrinius - draws Estate, Silver, Copper
+Zephyrinius - discards Estate
+Zephyrinius - discards Estate
+Zephyrinius - discards Copper
+Zephyrinius - plays Warehouse
+Zephyrinius - shuffles deck
+Zephyrinius - draws Throne Room, Haggler, Copper
+Zephyrinius - discards Copper
+Zephyrinius - discards Copper
+Zephyrinius - discards Silver
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Haggler
+Zephyrinius - plays Haggler
+Zephyrinius - buys Throne Room
+Zephyrinius - gains Scheme
+Zephyrinius - gains Scheme
+Zephyrinius - gains Throne Room
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Throne Room
+Zephyrinius - Scheme choice: Warehouse
+Zephyrinius - draws Warehouse, Throne Room, Scheme, Estate, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Throne Room
+Titandrake - plays King's Court
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - draws Spice Merchant
+Titandrake - draws Silver
+Titandrake - plays Scheme
+Titandrake - draws King's Court
+Titandrake - draws Haggler
+Titandrake - draws Estate
+Titandrake - plays King's Court
+Titandrake - plays Haggler
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - Scheme choice: King's Court
+Titandrake - Scheme choice: King's Court
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Haggler
+Titandrake - draws Haggler, Scheme, Scheme, King's Court, King's Court
+ 
+---------- Zephyrinius: turn 12 ----------
+Zephyrinius - plays Scheme
+Zephyrinius - draws Gold
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Warehouse
+Zephyrinius - draws Scheme, King's Court, King's Court
+Zephyrinius - discards Estate
+Zephyrinius - discards Estate
+Zephyrinius - discards Gold
+Zephyrinius - draws Copper, Haggler, Spice Merchant
+Zephyrinius - discards Copper
+Zephyrinius - discards Haggler
+Zephyrinius - discards Spice Merchant
+Zephyrinius - plays King's Court
+Zephyrinius - plays King's Court
+Zephyrinius - plays Scheme
+Zephyrinius - draws Estate
+Zephyrinius - draws Province
+Zephyrinius - shuffles deck
+Zephyrinius - draws Copper
+Zephyrinius - plays King's Court
+Zephyrinius - Scheme choice: King's Court
+Zephyrinius - Scheme choice: King's Court
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - draws Scheme, Scheme, King's Court, King's Court, Haggler
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - draws Chancellor
+Titandrake - draws Chancellor
+Titandrake - plays Scheme
+Titandrake - draws Spice Merchant
+Titandrake - draws Estate
+Titandrake - draws Gold
+Titandrake - plays Haggler
+Titandrake - trashes Gold
+Titandrake - chooses two coins and one buy
+Titandrake - moves deck to discards
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - buys Throne Room
+Titandrake - gains Scheme
+Titandrake - gains Throne Room
+Titandrake - Scheme choice: Spice Merchant
+Titandrake - Scheme choice: Haggler
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: King's Court
+Titandrake - Scheme choice: King's Court
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, King's Court, King's Court, Scheme, Haggler
+ 
+---------- Zephyrinius: turn 13 ----------
+Zephyrinius - plays King's Court
+Zephyrinius - plays Scheme
+Zephyrinius - draws Copper
+Zephyrinius - draws Scheme
+Zephyrinius - draws Silver
+Zephyrinius - plays Scheme
+Zephyrinius - draws Throne Room
+Zephyrinius - draws Gold
+Zephyrinius - draws Spice Merchant
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Scheme
+Zephyrinius - draws Estate
+Zephyrinius - draws Warehouse
+Zephyrinius - plays Spice Merchant
+Zephyrinius - trashes Copper
+Zephyrinius - chooses two coins and one buy
+Zephyrinius - plays Haggler
+Zephyrinius - draws Scheme, Estate, Haggler
+Zephyrinius - discards Estate
+Zephyrinius - discards Estate
+Zephyrinius - discards Scheme
+Zephyrinius - plays Haggler
+Zephyrinius - plays 1 Silver, 1 Gold
+Zephyrinius - buys Province
+Zephyrinius - gains Gold
+Zephyrinius - gains King's Court
+Zephyrinius - gains Province
+Zephyrinius - buys Duchy
+Zephyrinius - gains Scheme
+Zephyrinius - gains Scheme
+Zephyrinius - gains Duchy
+Zephyrinius - Scheme choice: King's Court
+Zephyrinius - Scheme choice: King's Court
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Throne Room
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Haggler
+Zephyrinius - draws Haggler, Scheme, Throne Room, Scheme, Scheme
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Scheme
+Titandrake - draws Spice Merchant
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Chancellor
+Titandrake - draws Chancellor
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Haggler
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays Chancellor
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two coins and one buy
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Silver
+Titandrake - gains Duchy
+Titandrake - Scheme choice: Haggler
+Titandrake - Scheme choice: Throne Room
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: King's Court
+Titandrake - Scheme choice: King's Court
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, King's Court, King's Court, Scheme, Throne Room
+ 
+---------- Zephyrinius: turn 14 ----------
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Scheme
+Zephyrinius - draws King's Court
+Zephyrinius - draws King's Court
+Zephyrinius - plays King's Court
+Zephyrinius - plays King's Court
+Zephyrinius - plays Scheme
+Zephyrinius - draws Throne Room
+Zephyrinius - draws Scheme
+Zephyrinius - draws Copper
+Zephyrinius - plays Scheme
+Zephyrinius - draws Haggler
+Zephyrinius - shuffles deck
+Zephyrinius - draws Scheme
+Zephyrinius - draws Warehouse
+Zephyrinius - plays Throne Room
+Zephyrinius - plays Scheme
+Zephyrinius - draws Warehouse
+Zephyrinius - draws Estate
+Zephyrinius - plays Haggler
+Zephyrinius - plays Haggler
+Zephyrinius - plays Scheme
+Zephyrinius - draws Estate
+Zephyrinius - plays Warehouse
+Zephyrinius - draws Silver, Estate, Duchy
+Zephyrinius - discards Estate
+Zephyrinius - discards Estate
+Zephyrinius - discards Estate
+Zephyrinius - plays Warehouse
+Zephyrinius - draws Scheme, King's Court, Gold
+Zephyrinius - discards Duchy
+Zephyrinius - discards Copper
+Zephyrinius - discards Silver
+Zephyrinius - plays King's Court
+Zephyrinius - plays Scheme
+Zephyrinius - draws Spice Merchant
+Zephyrinius - draws Copper
+Zephyrinius - draws Gold
+Zephyrinius - plays Spice Merchant
+Zephyrinius - trashes Copper
+Zephyrinius - chooses two coins and one buy
+Zephyrinius - plays 2 Gold
+Zephyrinius - buys Province
+Zephyrinius - gains King's Court
+Zephyrinius - gains King's Court
+Zephyrinius - gains Province
+Zephyrinius - buys Province
+Zephyrinius - gains King's Court
+Zephyrinius - gains King's Court
+Zephyrinius - gains Province
+Zephyrinius - Scheme choice: King's Court
+Zephyrinius - Scheme choice: King's Court
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Throne Room
+Zephyrinius - Scheme choice: Throne Room
+Zephyrinius - Scheme choice: King's Court
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - Scheme choice: Scheme
+Zephyrinius - draws Scheme, Scheme, King's Court, Throne Room, Throne Room
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Throne Room
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Scheme
+Titandrake - draws Haggler
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - draws Estate
+Titandrake - plays Scheme
+Titandrake - draws Province
+Titandrake - draws Chancellor
+Titandrake - draws Silver
+Titandrake - plays Haggler
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains King's Court
+Titandrake - gains Province
+Titandrake - Scheme choice: King's Court
+Titandrake - draws King's Court
+Titandrake - shuffles deck
+Titandrake - draws Province, King's Court, Scheme, Chancellor
+ 
+------------ Game Over ------------
+Zephyrinius - cards: 7 Scheme, 7 King's Court, 3 Throne Room, 3 Haggler, 2 Warehouse, 1 Spice Merchant, 2 Gold, 1 Copper, 1 Silver, 4 Province, 3 Estate, 1 Duchy
+Zephyrinius - total victory points: 30
+Zephyrinius - turns: 14
+ 
+Titandrake - cards: 3 King's Court, 3 Scheme, 2 Chancellor, 2 Throne Room, 1 Spice Merchant, 1 Haggler, 2 Silver, 2 Gold, 4 Province, 3 Estate, 1 Duchy
+Titandrake - total victory points: 30
+Titandrake - turns: 14
+ 
+1st place: Zephyrinius
+1st place: Titandrake
+ 

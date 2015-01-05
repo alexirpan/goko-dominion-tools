@@ -6,7 +6,7 @@ p.add_argument('name')
 args = p.parse_args()
 
 lines = open(args.name).read().split('\n')
-lines = [line for line in lines if RE_PLAYS.match(line)]
+lines = clean_play_lines(lines)
 
 for line in lines:
     print line

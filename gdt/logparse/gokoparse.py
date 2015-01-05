@@ -71,31 +71,53 @@ def scores_to_ranks(scores):
         ranks[i] = len(larger) + 1
     return(ranks)
 
+# helper function for clean_play_lines, DO NOT CALL ELSEWHERE
 def read_til_resolved(lines):
+    # make sure the while loop runs at least once
     line = lines[0]
     card = RE_PLAYS.match(line).group(2)
     lines[:1] = []
+
     if card == "Throne Room":
         first_play = read_til_resolved(lines)
         second_play = read_til_resolved(lines)
         # first line of 2nd play is extra
-        return [line] + first_play + second_play[1:]
+        second_play[0] = (second_play[0][0], False)
+        return [(line, True)] + first_play + second_play
     elif card == "King's Court":
         # TODO account for KC being optional
         first_play = read_til_resolved(lines)
         second_play = read_til_resolved(lines)
         third_play = read_til_resolved(lines)
         # same logic, first line of 2nd and 3rd plays are extra
-        return [line] + first_play + second_play[1:] + third_play[1:]
+        second_play[0] = (second_play[0][0], False)
+        third_play[0] = (third_play[0][0], False)
+        return [(line, True)] + first_play + second_play + third_play
     else:
-        return [line]
+        return [(line, True)]
 
-
-def clean_play_lines(next_lines, cleaned_lines):
-    # return a list of lines with all extra "plays X" lines removed
-    # modifies given list in place
-    # doing this recursively makes the logic easier
-    pass
+def clean_play_lines(log_lines):
+    # return the log with all extra "plays X" lines removed
+    # to do this, we first create a list of all lines that are of the form "X plays Y"
+    # this gets passed to the helper function which annotates which lines to keep
+    # then, go back to the original log and apply these annotations
+    # ideally, the method would operaate on the original log, instead of needing
+    # a sanitized version. Implement that if this becomes a bottleneck?
+    all_play_lines = [line for line in log_lines if RE_PLAYS.match(line)]
+    annotated = []
+    while all_play_lines:
+        annotated.extend(read_til_resolved(all_play_lines))
+    cleaned = []
+    for line in log_lines:
+        if not RE_PLAYS.match(line):
+            cleaned.append(line)
+        elif annotated[0][0] != line:
+            raise ValueError("Something weird happened - the annotations don't line up")
+        else:
+            if annotated[0][1]:
+                cleaned.append(line)
+            annotated[:1] = []
+    return cleaned
 
 def get_cards_drawn(line):
     line = line[line.index('-'):]
