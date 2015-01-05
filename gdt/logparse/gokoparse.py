@@ -71,6 +71,32 @@ def scores_to_ranks(scores):
         ranks[i] = len(larger) + 1
     return(ranks)
 
+def read_til_resolved(lines):
+    line = lines[0]
+    card = RE_PLAYS.match(line).group(2)
+    lines[:1] = []
+    if card == "Throne Room":
+        first_play = read_til_resolved(lines)
+        second_play = read_til_resolved(lines)
+        # first line of 2nd play is extra
+        return [line] + first_play + second_play[1:]
+    elif card == "King's Court":
+        # TODO account for KC being optional
+        first_play = read_til_resolved(lines)
+        second_play = read_til_resolved(lines)
+        third_play = read_til_resolved(lines)
+        # same logic, first line of 2nd and 3rd plays are extra
+        return [line] + first_play + second_play[1:] + third_play[1:]
+    else:
+        return [line]
+
+
+def clean_play_lines(next_lines, cleaned_lines):
+    # return a list of lines with all extra "plays X" lines removed
+    # modifies given list in place
+    # doing this recursively makes the logic easier
+    pass
+
 def get_cards_drawn(line):
     line = line[line.index('-'):]
     # Remove "- draws "
