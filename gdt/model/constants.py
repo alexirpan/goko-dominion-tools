@@ -290,13 +290,18 @@ GAIN_TO_HAND = ['Mine', 'Trading Post', 'Torturer', 'Explorer']
 # It's handled explicitly elsewhere
 TRASHES_FROM_PLAY = ['Feast', 'Mining Village']
 
-TRASHES_FROM_REVEAL = ['Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Lookout', 'Pirate Ship']
+TRASHES_FROM_REVEAL = ['Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Lookout', 'Pirate Ship', 'Loan']
 
 # TODO does Sea Hag need to be in a DISCARD_FROM_DECK list?
-DISCARD_FROM_REVEAL = ['Library', 'Hunting Party', 'Spy', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Sea Hag', 'Noble Brigand']
+DISCARD_FROM_REVEAL = ['Library', 'Hunting Party', 'Spy', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Sea Hag', 'Noble Brigand', 'Scrying Pool', 'Golem', 'Loan', 'Rabble', 'Venture']
 
-TOPDECKS_FROM_REVEAL = ['Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator']
+TOPDECKS_FROM_REVEAL = ['Spy', 'Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble']
 
-TOPDECKS_FROM_PLAY = ['Treasury']
+# TODO all of these cards are triggered in cleanup
+# So, they may not be the resolving action anymore
+# need to handle this properly
+TOPDECKS_FROM_PLAY = ['Treasury', 'Herbalist', 'Alchemist']
 
 SETS_ASIDE_FROM_DECK = ['Native Village']
+
+# TODO implement Watchtower, Mint on gain, Royal Seal topdeck

@@ -41,14 +41,15 @@ RE_DISCARDS = re.compile('(.*) \- discards (.*)')
 # revealed cards need to be discarded
 RE_DISCARDS_MULTIPLE = re.compile('(.*) \- discards: (.*)')
 RE_SHUFFLES = re.compile('(.*) \- shuffles deck$')
-RE_TOPDECKS = re.compile('(.*) - places (.*) on top of deck')
+# need this to catch multiple Alchemist case
+RE_TOPDECKS = re.compile('(.*) - places ([^,]*) on top of deck')
 RE_TRASHES = re.compile('(.*) \- trashes (.*)')
 RE_PASSES = re.compile('(.*) \- passes (.*)')
 RE_RETURN_TO_SUPPLY = re.compile('(.*) \- returns (.*) to the Supply')
 RE_SETS_ASIDE = re.compile('(.*) \- sets aside (.*)')
 # Reveal for current player only, like Cartographer
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
-RE_REVEALS = re.compile('(.*) \- reveals (.*)')
+RE_REVEALS = re.compile('(.*) \- reveals: (.*)')
 # Haven edge case (must be checked before edge case below)
 RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand')
 # wording for Hunting Party and Wishing Well
@@ -146,6 +147,23 @@ def read_til_resolved(lines):
         if third_play:
             third_play[0] = (third_play[0][0], False)
         return [(line, True)] + first_play + second_play + third_play
+    elif card == "Golem":
+        # both plays are from the revealed cards, so ignore the first line of both
+        # UNTESTED AND UNREFINED
+        first_play = read_til_resolved(lines)
+        second_play = read_til_resolved(lines)
+        if first_play:
+            first_play[0] = (first_play[0][0], False)
+        if second_play:
+            second_play[0] = (second_play[0][0], False)
+        return [(line, True)] + first_play + second_play
+    elif card == "Venture":
+        # TODO account for when Venture doesn't find a treasure
+        # the next played card comes from revealed cards and is ignorable
+        next_play = read_til_resolved(lines)
+        if next_play:
+            next_play[0] = (next_play[0][0], False)
+        return [(line, True)] + next_play
     else:
         return [(line, True)]
 
@@ -449,6 +467,23 @@ def generate_game_states(logtext):
             line = line.split(":")[1]
             cards = [card.strip() for card in line.split(",")]
             player_hands[player_index(pname)].extend(cards)
+        m = RE_REVEALS.match(line)
+        if m and resolving_card == 'Apothecary':
+            # Apothecary Copper pulling is not listed in the log
+            pname = m.group(1)
+            line = line.split(":")[1]
+            cards = [card.strip() for card in line.split(",")]
+            for card in cards:
+                if card == "Copper" or card == "Apothecary":
+                    player_hands[player_index(pname)].append(card)
+            continue
+        if m and resolving_card == 'Scrying Pool':
+            # Neither is Scrying Pool
+            pname = m.group(1)
+            line = line.split(":")[1]
+            cards = [card.strip() for card in line.split(",")]
+            player_hands[player_index(pname)].extend(cards)
+            continue
 
 # Parse a game log.  Create and return the resulting GameResult object
 def parse_goko_log(logtext):
