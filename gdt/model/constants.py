@@ -284,14 +284,19 @@ CARDNAME_TO_TYPE = {
 }
 
 # These help disambiguate actions taken based on the last action played
-GAIN_TO_HAND = ['Mine', 'Trading Post', 'Torturer']
+GAIN_TO_HAND = ['Mine', 'Trading Post', 'Torturer', 'Explorer']
 
+# Treasure Map is not in this list because it's an odd edge case
+# It's handled explicitly elsewhere
 TRASHES_FROM_PLAY = ['Feast', 'Mining Village']
 
-TRASHES_FROM_REVEAL = ['Thief', 'Swindler', 'Saboteur']
+TRASHES_FROM_REVEAL = ['Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Lookout', 'Pirate Ship']
 
-DISCARD_FROM_REVEAL = ['Library', 'Hunting Party', 'Spy', 'Thief', 'Adventurer', 'Saboteur', 'Tribute']
+# TODO does Sea Hag need to be in a DISCARD_FROM_DECK list?
+DISCARD_FROM_REVEAL = ['Library', 'Hunting Party', 'Spy', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Sea Hag', 'Noble Brigand']
 
-# Wishing Well does not make a log line for when you fail the reveal
-# But let's add it here for completion
-TOPDECKS_FROM_REVEAL = ['Wishing Well', 'Scout']
+TOPDECKS_FROM_REVEAL = ['Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator']
+
+TOPDECKS_FROM_PLAY = ['Treasury']
+
+SETS_ASIDE_FROM_DECK = ['Native Village']

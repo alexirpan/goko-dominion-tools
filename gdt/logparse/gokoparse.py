@@ -45,6 +45,7 @@ RE_TOPDECKS = re.compile('(.*) - places (.*) on top of deck')
 RE_TRASHES = re.compile('(.*) \- trashes (.*)')
 RE_PASSES = re.compile('(.*) \- passes (.*)')
 RE_RETURN_TO_SUPPLY = re.compile('(.*) \- returns (.*) to the Supply')
+RE_SETS_ASIDE = re.compile('(.*) \- sets aside (.*)')
 # Reveal for current player only, like Cartographer
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
 RE_REVEALS = re.compile('(.*) \- reveals (.*)')
@@ -59,6 +60,7 @@ RE_MOVES_TO_HAND = re.compile('(.*) \- moves (.*) to hand')
 # Apothecary doesn't log which cards go into your hand, despite using the
 # exact same kind of logic as Scout. Sighhhh
 RE_PLACE_MULTIPLE_IN_HAND = re.compile('(.*) \- places cards in hand: (.*)')
+RE_NATIVE_VILLAGE_PULL = re.compile('(.*) \- takes set aside cards: (.*)')
 
 
 # TODO: fix this
@@ -369,7 +371,7 @@ def generate_game_states(logtext):
             remove_if_in_list(player_hands[player_index(pname)], card)
             continue
         m = RE_TOPDECKS.match(line)
-        if m and resolving_card not in TOPDECKS_FROM_REVEAL:
+        if m and resolving_card not in TOPDECKS_FROM_REVEAL and resolving_card not in TOPDECKS_FROM_PLAY:
             pname = m.group(1)
             card = m.group(2)
             remove_if_in_list(player_hands[player_index(pname)], card)
@@ -382,7 +384,12 @@ def generate_game_states(logtext):
         m = RE_TRASHES.match(line)
         if m and resolving_card not in TRASHES_FROM_PLAY and resolving_card not in TRASHES_FROM_REVEAL:
             pname = m.group(1)
-            for card in get_cards_trashed(line):
+            cards = get_cards_trashed(line)
+            # the TM in play is always trashed, so remove one from the list
+            if resolving_card == 'Treasure Map':
+                cards.remove('Treasure Map')
+
+            for card in cards:
                 remove_if_in_list(player_hands[player_index(pname)], card)
             continue
         m = RE_HAVEN_DURATION.match(line)
@@ -430,6 +437,18 @@ def generate_game_states(logtext):
             card = m.group(2)
             remove_if_in_list(player_hands[player_index(pname)], card)
             continue
+        m = RE_SETS_ASIDE.match(line)
+        if m and resolving_card not in SETS_ASIDE_FROM_DECK:
+            pname = m.group(1)
+            card = m.group(2)
+            remove_if_in_list(player_hands[player_index(pname)], card)
+            continue
+        m = RE_NATIVE_VILLAGE_PULL.match(line)
+        if m:
+            pname = m.group(1)
+            line = line.split(":")[1]
+            cards = [card.strip() for card in line.split(",")]
+            player_hands[player_index(pname)].extend(cards)
 
 # Parse a game log.  Create and return the resulting GameResult object
 def parse_goko_log(logtext):
