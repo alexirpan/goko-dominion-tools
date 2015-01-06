@@ -48,7 +48,7 @@ RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand')
 RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand')
 # Library edge case (urrrgh)
 RE_MOVES_TO_HAND = re.compile('(.*) \- moves (.*) to hand')
-RE_TRASHES = re.compile('(.*) \- trashes (.*) in hand')
+RE_TRASHES = re.compile('(.*) \- trashes (.*)')
 
 
 # TODO: fix this
@@ -362,7 +362,7 @@ def generate_game_states(logtext):
             player_hands[player_index(pname)].extend(get_cards_drawn(line))
             continue
         m = RE_TRASHES.match(line)
-        if m:
+        if m and resolving_card not in TRASHES_FROM_PLAY and resolving_card not in TRASHES_FROM_REVEAL:
             pname = m.group(1)
             for card in get_cards_trashed(line):
                 remove_if_in_list(player_hands[player_index(pname)], card)
