@@ -286,4 +286,4 @@ CARDNAME_TO_TYPE = {
 # These help disambiguate actions taken based on the last action played
 GAIN_TO_HAND = ['Mine', 'Trading Post']
 
-DISCARD_FROM_REVEAL = ['Library', 'Hunting Party']
+DISCARD_FROM_REVEAL = ['Library', 'Hunting Party', 'Spy']

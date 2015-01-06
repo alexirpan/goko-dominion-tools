@@ -10,6 +10,11 @@ from gdt.model.domgame import GameResult
 from gdt.model.domgame import PlayerResult
 from gdt.model.domgame import GainRet
 
+# global testing hackery
+# REMOVE ME LATER
+debug = False
+
+
 # Regular expressions used to parse goko logs.  Precompiled for speed.
 RE_RATING = re.compile('Rating system: (.*)')
 RE_SUPPLY = re.compile('[sS]upply cards: (.*)')
@@ -37,6 +42,8 @@ RE_TOPDECKS = re.compile('(.*) - places (.*) on top of deck')
 # Reveal for current player only, like Cartographer
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
 RE_REVEALS = re.compile('(.*) \- reveals (.*)')
+# Haven edge case (must be checked before edge case below)
+RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand')
 # Hunting Party edge case (why does this have to be worded differently :( )
 RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand')
 # Library edge case (urrrgh)
@@ -80,15 +87,19 @@ def read_til_resolved(lines):
         return []
     # make sure the while loop runs at least once
     line = lines[0]
-    print line
-    card = RE_PLAYS.match(line).group(2)
+    m = RE_PLAYS.match(line)
+    player, card = m.group(1), m.group(2)
     lines[:1] = []
 
     if card == "Throne Room":
-        # check the next line to make sure it's an action
+        # check the next line to make sure it's an action by the same player
         # this handles the edge case where someone plays Throne Room,
         # but doesn't have any actions in hand to copy
-        next_card = RE_PLAYS.match(lines[0]).group(2)
+        # (might not handle all of it)
+        m = RE_PLAYS.match(lines[0])
+        next_player, next_card = m.group(1), m.group(2)
+        if next_player != player:
+            return [(line, True)]
         if next_card not in CARDNAME_TO_TYPE:
             return [(line, True)]
         cardtype = CARDNAME_TO_TYPE[next_card]
@@ -102,8 +113,11 @@ def read_til_resolved(lines):
             second_play[0] = (second_play[0][0], False)
         return [(line, True)] + first_play + second_play
     elif card == "King's Court":
-        # again check if card is an action
-        next_card = RE_PLAYS.match(lines[0]).group(2)
+        # again check same thing as TR
+        m = RE_PLAYS.match(lines[0])
+        next_player, next_card = m.group(1), m.group(2)
+        if next_player != player:
+            return [(line, True)]
         if next_card not in CARDNAME_TO_TYPE:
             return [(line, True)]
         cardtype = CARDNAME_TO_TYPE[next_card]
@@ -164,7 +178,6 @@ def handle_treasure_case(hand, line):
     line = line[8:]
     treasure_names_and_num = line.split(', ')
     for token in treasure_names_and_num:
-        print token
         num, name = token.split(' ', 1)
         num = int(num)
         for _ in range(num):
@@ -212,6 +225,16 @@ def find_cleanup_phase_hands(log_lines):
     cleaned.extend(log_lines[curr:])
     log_lines[:] = cleaned
     return hands_for_each_turn
+
+# On occasion it's impossible to disambiguate TR/KC chains
+# For now, there's a debug toggle on whether to check the card is in the hand or not
+# (The exception thrown is a good signal for bugs so we want to have the option to turn it back on)
+def remove_if_in_list(lst, element):
+    if debug:
+        lst.remove(element)
+    else:
+        if element in lst:
+            lst.remove(element)
 
 def generate_game_states(logtext):
     # until I'm sure this code works, placing all replay system code
@@ -312,26 +335,26 @@ def generate_game_states(logtext):
             continue
         m = RE_TREASURE_PLAYS.match(line)
         if m:
-            name = m.group(1)
-            handle_treasure_case(player_hands[player_index(name)], line)
+            pname = m.group(1)
+            handle_treasure_case(player_hands[player_index(pname)], line)
             continue
         m = RE_PLAYS.match(line)
         if m:
-            name = m.group(1)
-            player_hands[player_index(name)].remove(m.group(2))
+            pname = m.group(1)
             resolving_card = m.group(2)
+            remove_if_in_list(player_hands[player_index(pname)], resolving_card)
             continue
         m = RE_DISCARDS.match(line)
         if m and resolving_card not in DISCARD_FROM_REVEAL:
             pname = m.group(1)
             card = m.group(2)
-            player_hands[player_index(pname)].remove(card)
+            remove_if_in_list(player_hands[player_index(pname)], card)
             continue
         m = RE_TOPDECKS.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            player_hands[player_index(pname)].remove(card)
+            remove_if_in_list(player_hands[player_index(pname)], card)
             continue
         m = RE_DRAWS.match(line)
         if m:
@@ -342,7 +365,13 @@ def generate_game_states(logtext):
         if m:
             pname = m.group(1)
             for card in get_cards_trashed(line):
-                player_hands[player_index(pname)].remove(card)
+                remove_if_in_list(player_hands[player_index(pname)], card)
+            continue
+        m = RE_HAVEN_DURATION.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            player_hands[player_index(pname)].append(card)
             continue
         m = RE_PLACES_IN_HAND.match(line)
         if m:
