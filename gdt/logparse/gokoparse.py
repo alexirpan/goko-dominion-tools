@@ -37,19 +37,27 @@ RE_DRAWS = re.compile('(.*) \- draws (.*)')
 RE_PLAYS = re.compile('(.*) \- plays (.*)')
 RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9] .*')
 RE_DISCARDS = re.compile('(.*) \- discards (.*)')
+# This is used when discarding your entire hand, or when
+# revealed cards need to be discarded
+RE_DISCARDS_MULTIPLE = re.compile('(.*) \- discards: (.*)')
 RE_SHUFFLES = re.compile('(.*) \- shuffles deck$')
 RE_TOPDECKS = re.compile('(.*) - places (.*) on top of deck')
 RE_TRASHES = re.compile('(.*) \- trashes (.*)')
+RE_PASSES = re.compile('(.*) \- passes (.*)')
+RE_RETURN_TO_SUPPLY = re.compile('(.*) \- returns (.*) to the Supply')
 # Reveal for current player only, like Cartographer
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
 RE_REVEALS = re.compile('(.*) \- reveals (.*)')
 # Haven edge case (must be checked before edge case below)
 RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand')
-# Hunting Party edge case (why does this have to be worded differently :( )
+# wording for Hunting Party and Wishing Well
 RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand')
 # Library edge case (urrrgh)
 RE_MOVES_TO_HAND = re.compile('(.*) \- moves (.*) to hand')
-# Adventurer edge case (yep this too)
+# This wording is used when multiple revealed cards are put into
+# your hand. Examples are Adventurer, Scout. Oddly enough, not Apothecary
+# Apothecary doesn't log which cards go into your hand, despite using the
+# exact same kind of logic as Scout. Sighhhh
 RE_PLACE_MULTIPLE_IN_HAND = re.compile('(.*) \- places cards in hand: (.*)')
 
 
@@ -346,6 +354,14 @@ def generate_game_states(logtext):
             resolving_card = m.group(2)
             remove_if_in_list(player_hands[player_index(pname)], resolving_card)
             continue
+        m = RE_DISCARDS_MULTIPLE(line)
+        if m and resolving_card not in DISCARD_FROM_REVEAL:
+            pname = m.group(1)
+            line = line.split(":")[1]
+            cards = [card.strip() for card in line.split(",")]
+            for card in cards:
+                remove_if_in_list(player_hands[player_index(pname)], card)
+            continue
         m = RE_DISCARDS.match(line)
         if m and resolving_card not in DISCARD_FROM_REVEAL:
             pname = m.group(1)
@@ -353,7 +369,7 @@ def generate_game_states(logtext):
             remove_if_in_list(player_hands[player_index(pname)], card)
             continue
         m = RE_TOPDECKS.match(line)
-        if m:
+        if m and resolving_card not in TOPDECKS_FROM_REVEAL:
             pname = m.group(1)
             card = m.group(2)
             remove_if_in_list(player_hands[player_index(pname)], card)
@@ -400,6 +416,19 @@ def generate_game_states(logtext):
             pname = m.group(1)
             card = m.group(2)
             player_hands[player_index(pname)].append(card)
+            continue
+        m = RE_PASSES.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            remove_if_in_list(player_hands[player_index(pname)], card)
+            player_hands[(player_index(pname) + 1) % pCount].append(card)
+            continue
+        m = RE_RETURN_TO_SUPPLY.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            remove_if_in_list(player_hands[player_index(pname)], card)
             continue
 
 # Parse a game log.  Create and return the resulting GameResult object
