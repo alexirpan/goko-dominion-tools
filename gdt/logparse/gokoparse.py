@@ -354,7 +354,7 @@ def generate_game_states(logtext):
             resolving_card = m.group(2)
             remove_if_in_list(player_hands[player_index(pname)], resolving_card)
             continue
-        m = RE_DISCARDS_MULTIPLE(line)
+        m = RE_DISCARDS_MULTIPLE.match(line)
         if m and resolving_card not in DISCARD_FROM_REVEAL:
             pname = m.group(1)
             line = line.split(":")[1]
