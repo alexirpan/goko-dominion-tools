@@ -73,25 +73,52 @@ def scores_to_ranks(scores):
 
 # helper function for clean_play_lines, DO NOT CALL ELSEWHERE
 def read_til_resolved(lines):
+    # quick sanity check
+    # this can happen if the last action played is a giant TR chain, with
+    # no other actions in hand to copy
+    if not lines:
+        return []
     # make sure the while loop runs at least once
     line = lines[0]
+    print line
     card = RE_PLAYS.match(line).group(2)
     lines[:1] = []
 
     if card == "Throne Room":
+        # check the next line to make sure it's an action
+        # this handles the edge case where someone plays Throne Room,
+        # but doesn't have any actions in hand to copy
+        next_card = RE_PLAYS.match(lines[0]).group(2)
+        if next_card not in CARDNAME_TO_TYPE:
+            return [(line, True)]
+        cardtype = CARDNAME_TO_TYPE[next_card]
+        if 'action' not in cardtype.split('-'):
+            return [(line, True)]
+
         first_play = read_til_resolved(lines)
         second_play = read_til_resolved(lines)
-        # first line of 2nd play is extra
-        second_play[0] = (second_play[0][0], False)
+        # first line of 2nd play is extra, but we need to make sure there is a first line
+        if second_play:
+            second_play[0] = (second_play[0][0], False)
         return [(line, True)] + first_play + second_play
     elif card == "King's Court":
+        # again check if card is an action
+        next_card = RE_PLAYS.match(lines[0]).group(2)
+        if next_card not in CARDNAME_TO_TYPE:
+            return [(line, True)]
+        cardtype = CARDNAME_TO_TYPE[next_card]
+        if 'action' not in cardtype.split('-'):
+            return [(line, True)]
         # TODO account for KC being optional
+        # (distinguish between KC-action, action, and KC choose nothing, action, action)
         first_play = read_til_resolved(lines)
         second_play = read_til_resolved(lines)
         third_play = read_til_resolved(lines)
         # same logic, first line of 2nd and 3rd plays are extra
-        second_play[0] = (second_play[0][0], False)
-        third_play[0] = (third_play[0][0], False)
+        if second_play:
+            second_play[0] = (second_play[0][0], False)
+        if third_play:
+            third_play[0] = (third_play[0][0], False)
         return [(line, True)] + first_play + second_play + third_play
     else:
         return [(line, True)]
@@ -253,7 +280,14 @@ def generate_game_states(logtext):
             if start_hands_processed == pCount:
                 log_lines = log_lines[i+1:]
                 break
+    # finds starting hands for every other turn, removing the extra lines from the log
+    # TODO Right now I believe this removes shuffle message as well. Fix?
+    # Best way to do this may be to add a line saying "discards hand for cleanup"
+    # instead of doing this manual check
     hands_for_next_turn = find_cleanup_phase_hands(log_lines)
+
+    # remove extra play lines for TR/KC
+    log_lines = clean_play_lines(log_lines)
 
     # TODO this is the same structure as the above code (continue at the end of every case)
     # Someone this design feels clunky but I can't think of anything better right now?
