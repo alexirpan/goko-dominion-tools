@@ -12,7 +12,7 @@ from gdt.model.domgame import GainRet
 
 # global testing hackery
 # REMOVE ME LATER
-debug = False
+debug = True
 
 
 # Regular expressions used to parse goko logs.  Precompiled for speed.
@@ -39,6 +39,7 @@ RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9] .*')
 RE_DISCARDS = re.compile('(.*) \- discards (.*)')
 RE_SHUFFLES = re.compile('(.*) \- shuffles deck$')
 RE_TOPDECKS = re.compile('(.*) - places (.*) on top of deck')
+RE_TRASHES = re.compile('(.*) \- trashes (.*)')
 # Reveal for current player only, like Cartographer
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
 RE_REVEALS = re.compile('(.*) \- reveals (.*)')
@@ -48,7 +49,8 @@ RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand')
 RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand')
 # Library edge case (urrrgh)
 RE_MOVES_TO_HAND = re.compile('(.*) \- moves (.*) to hand')
-RE_TRASHES = re.compile('(.*) \- trashes (.*)')
+# Adventurer edge case (yep this too)
+RE_PLACE_MULTIPLE_IN_HAND = re.compile('(.*) \- places cards in hand: (.*)')
 
 
 # TODO: fix this
@@ -372,6 +374,14 @@ def generate_game_states(logtext):
             pname = m.group(1)
             card = m.group(2)
             player_hands[player_index(pname)].append(card)
+            continue
+        m = RE_PLACE_MULTIPLE_IN_HAND.match(line)
+        if m:
+            pname = m.group(1)
+            # get cards to put in hand
+            line = line.split(":")[-1]
+            cards = [card.strip() for card in line.split(",")]
+            player_hands[player_index(pname)].extend(cards)
             continue
         m = RE_PLACES_IN_HAND.match(line)
         if m:
