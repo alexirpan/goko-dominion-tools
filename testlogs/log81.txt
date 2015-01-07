@@ -1,0 +1,628 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Hamlet, Market Square, Watchtower, Festival, Jester, Market, Stables, Grand Market, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Temron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 4 Copper
+Temron - buys Watchtower
+Temron - gains Watchtower
+Temron - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - shuffles deck
+Temron - draws Estate, Watchtower, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hamlet, Copper, Copper, Estate
+ 
+---------- Temron: turn 3 ----------
+Temron - plays Watchtower
+Temron - draws Copper, Estate
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Stables
+Temron - gains Stables
+Temron - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Watchtower
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Estate, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Festival
+ 
+---------- Temron: turn 4 ----------
+Temron - plays 4 Copper
+Temron - buys Hamlet
+Temron - gains Hamlet
+Temron - shuffles deck
+Temron - draws Estate, Copper, Copper, Estate, Stables
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Festival
+Titandrake - plays 3 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper, Copper, Watchtower, Estate, Copper
+ 
+---------- Temron: turn 5 ----------
+Temron - plays Stables
+Temron - discards Copper
+Temron - draws Hamlet, Copper, Copper
+Temron - plays Hamlet
+Temron - draws Estate
+Temron - discards Estate
+Temron - receives one action
+Temron - discards Estate
+Temron - receives one buy
+Temron - plays 3 Copper
+Temron - buys Market Square
+Temron - gains Market Square
+Temron - draws Silver, Copper, Copper, Copper, Watchtower
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Estate, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Copper
+ 
+---------- Temron: turn 6 ----------
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Festival
+Temron - gains Festival
+Temron - applied Watchtower to place Festival on top of the deck
+Temron - draws Festival
+Temron - shuffles deck
+Temron - draws Copper, Watchtower, Stables, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Watchtower
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Copper, Estate, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Copper, Hamlet, Festival, Copper, Hamlet
+ 
+---------- Temron: turn 7 ----------
+Temron - plays Festival
+Temron - plays Watchtower
+Temron - draws Estate, Market Square, Hamlet
+Temron - plays Stables
+Temron - discards Copper
+Temron - draws Estate, Copper, Copper
+Temron - plays Hamlet
+Temron - draws Copper
+Temron - discards Estate
+Temron - receives one action
+Temron - discards Estate
+Temron - receives one buy
+Temron - plays Market Square
+Temron - draws Silver
+Temron - plays 3 Copper, 1 Silver
+Temron - buys King's Court
+Temron - gains King's Court
+Temron - draws Copper, Copper, Copper
+Temron - shuffles deck
+Temron - draws Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Watchtower
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Festival
+Titandrake - plays Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Jester, Copper, Copper
+Titandrake - plays Hamlet
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Jester
+Temron - reveals Estate
+Temron - discards Estate
+Temron - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Copper, Estate, Estate, Hamlet, Copper
+ 
+---------- Temron: turn 8 ----------
+Temron - plays 4 Copper
+Temron - buys Watchtower
+Temron - gains Watchtower
+Temron - draws Market Square, Copper, Hamlet, Stables, Festival
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Jester
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Stables
+Temron - discards Copper
+Temron - draws King's Court, Silver, Estate
+Temron - plays King's Court
+Temron - plays Hamlet
+Temron - draws Copper
+Temron - discards Estate
+Temron - receives one buy
+Temron - plays Hamlet
+Temron - draws Watchtower
+Temron - discards Copper
+Temron - receives one buy
+Temron - plays Hamlet
+Temron - draws Copper
+Temron - discards Copper
+Temron - receives one buy
+Temron - plays Festival
+Temron - plays 1 Silver
+Temron - buys Hamlet
+Temron - gains Hamlet
+Temron - buys Hamlet
+Temron - gains Hamlet
+Temron - applied Watchtower to place Hamlet on top of the deck
+Temron - buys Copper
+Temron - gains Copper
+Temron - applied Watchtower to trash Copper
+Temron - trashes Copper
+Temron - reveals reaction Market Square
+Temron - discards Market Square
+Temron - gains Gold
+Temron - applied Watchtower to place Gold on top of the deck
+Temron - draws Gold, Hamlet
+Temron - shuffles deck
+Temron - draws Estate, Stables, Hamlet
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Jester
+Temron - reveals King's Court
+Temron - discards King's Court
+Titandrake - gains King's Court
+Titandrake - applied Watchtower to place King's Court on top of the deck
+Titandrake - plays 2 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - applied Watchtower to place Market Square on top of the deck
+Titandrake - draws Market Square, King's Court, Estate, Copper, Hamlet
+ 
+---------- Temron: turn 10 ----------
+Temron - plays Hamlet
+Temron - draws Curse
+Temron - discards Curse
+Temron - receives one action
+Temron - discards Estate
+Temron - receives one buy
+Temron - plays Hamlet
+Temron - draws Copper
+Temron - plays Stables
+Temron - discards Copper
+Temron - draws Market Square, Copper, Copper
+Temron - plays 2 Copper, 1 Gold
+Temron - buys Jester
+Temron - gains Jester
+Temron - draws Estate, Silver, Copper, Hamlet, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Market Square
+Titandrake - draws Watchtower
+Titandrake - plays Hamlet
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Watchtower
+Titandrake - draws Festival, King's Court, Hamlet, Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Hamlet
+Titandrake - draws Watchtower
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays King's Court
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays King's Court
+Titandrake - plays Watchtower
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Jester, Copper
+Titandrake - plays Watchtower
+Titandrake - plays Watchtower
+Titandrake - plays Jester
+Temron - reveals Estate
+Temron - discards Estate
+Temron - gains Curse
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Estate, Copper, Copper, Watchtower, Estate
+ 
+---------- Temron: turn 11 ----------
+Temron - plays Hamlet
+Temron - draws Watchtower
+Temron - discards Estate
+Temron - receives one action
+Temron - discards Copper
+Temron - receives one buy
+Temron - plays Watchtower
+Temron - draws Copper, Festival, Watchtower, Copper
+Temron - plays Festival
+Temron - plays Watchtower
+Temron - shuffles deck
+Temron - draws Estate, Market Square
+Temron - plays Market Square
+Temron - draws Curse
+Temron - plays 3 Copper, 1 Silver
+Temron - buys King's Court
+Temron - gains King's Court
+Temron - draws Copper, Copper, Hamlet, Gold, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Festival
+Titandrake - plays 2 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws King's Court, Market Square, Hamlet, King's Court, Copper
+ 
+---------- Temron: turn 12 ----------
+Temron - plays Hamlet
+Temron - draws Curse
+Temron - discards Curse
+Temron - receives one action
+Temron - plays 3 Copper, 1 Gold
+Temron - buys Stables
+Temron - gains Stables
+Temron - draws Estate, Hamlet, Estate, Stables, King's Court
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Market Square
+Titandrake - draws Watchtower
+Titandrake - plays Market Square
+Titandrake - draws King's Court
+Titandrake - plays Market Square
+Titandrake - draws Watchtower
+Titandrake - plays King's Court
+Titandrake - plays Hamlet
+Titandrake - draws Market
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Hamlet
+Titandrake - draws Jester
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays King's Court
+Titandrake - plays Jester
+Temron - reveals Jester
+Temron - discards Jester
+Titandrake - gains Jester
+Titandrake - applied Watchtower to place Jester on top of the deck
+Titandrake - plays Jester
+Temron - reveals Copper
+Temron - discards Copper
+Temron - gains Copper
+Titandrake - plays Jester
+Temron - shuffles deck
+Temron - reveals King's Court
+Temron - discards King's Court
+Titandrake - gains King's Court
+Titandrake - applied Watchtower to place King's Court on top of the deck
+Titandrake - plays Watchtower
+Titandrake - draws King's Court, Jester, Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Hamlet
+Titandrake - draws Watchtower
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays King's Court
+Titandrake - plays Jester
+Temron - reveals Estate
+Temron - discards Estate
+Temron - gains Curse
+Titandrake - plays Jester
+Temron - reveals Silver
+Temron - discards Silver
+Temron - gains Silver
+Titandrake - plays Jester
+Temron - reveals Copper
+Temron - discards Copper
+Temron - gains Copper
+Titandrake - plays Watchtower
+Titandrake - draws Estate, Festival, Hamlet, Copper, Estate
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Festival
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Estate, Copper, Copper
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Market, Hamlet, King's Court
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Hamlet
+Temron - draws Copper
+Temron - discards Estate
+Temron - receives one action
+Temron - discards Estate
+Temron - receives one buy
+Temron - plays King's Court
+Temron - plays Stables
+Temron - discards Copper
+Temron - draws Copper, Watchtower, Gold
+Temron - plays Stables
+Temron - discards Copper
+Temron - draws Watchtower, Curse, Copper
+Temron - plays Stables
+Temron - discards Copper
+Temron - draws Copper, Copper, Curse
+Temron - plays Watchtower
+Temron - plays Watchtower
+Temron - draws Jester
+Temron - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Temron - plays 2 Copper, 1 Gold
+Temron - buys King's Court
+Temron - gains King's Court
+Temron - draws Festival, Copper, Copper, Hamlet, Market Square
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Grand Market
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays King's Court
+Titandrake - plays Grand Market
+Titandrake - draws Market Square
+Titandrake - plays Grand Market
+Titandrake - draws Hamlet
+Titandrake - plays Grand Market
+Titandrake - draws Jester
+Titandrake - plays Market Square
+Titandrake - draws Grand Market
+Titandrake - plays Hamlet
+Titandrake - draws Watchtower
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Jester
+Temron - reveals Hamlet
+Temron - discards Hamlet
+Titandrake - gains Hamlet
+Titandrake - applied Watchtower to place Hamlet on top of the deck
+Titandrake - plays Watchtower
+Titandrake - draws Hamlet, King's Court, King's Court, Watchtower, Festival
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays King's Court
+Titandrake - plays Watchtower
+Titandrake - draws Jester, Copper, King's Court, Hamlet, Market, Watchtower
+Titandrake - plays Watchtower
+Titandrake - plays Watchtower
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays King's Court
+Titandrake - plays Jester
+Temron - reveals Stables
+Temron - discards Stables
+Titandrake - gains Stables
+Titandrake - applied Watchtower to place Stables on top of the deck
+Titandrake - plays Jester
+Temron - shuffles deck
+Temron - reveals King's Court
+Temron - discards King's Court
+Titandrake - gains King's Court
+Titandrake - applied Watchtower to place King's Court on top of the deck
+Titandrake - plays Jester
+Temron - reveals Copper
+Temron - discards Copper
+Temron - gains Copper
+Titandrake - plays King's Court
+Titandrake - plays Hamlet
+Titandrake - draws King's Court
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - draws Stables
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Hamlet
+Titandrake - receives one buy
+Titandrake - plays King's Court
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Hamlet
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper, Estate
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper, Estate
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays 1 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Watchtower, King's Court, Watchtower, Watchtower
+ 
+------------ Game Over ------------
+Titandrake - cards: 8 Watchtower, 7 Hamlet, 5 King's Court, 2 Market, 2 Jester, 2 Grand Market, 1 Festival, 1 Market Square, 1 Stables, 8 Copper, 3 Estate
+Titandrake - total victory points: 3
+Titandrake - turns: 13
+ 
+Temron - cards: 3 Hamlet, 3 King's Court, 2 Watchtower, 2 Stables, 1 Festival, 10 Copper, 1 Market Square, 1 Jester, 2 Silver, 1 Gold, 3 Estate, 3 Curse
+Temron - total victory points: 0
+Temron - turns: 13
+ 
+1st place: Titandrake
+2nd place: Temron
+ 

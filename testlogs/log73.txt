@@ -1,0 +1,446 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Advisor, Caravan, Cutpurse, Moneylender, Trader, Cartographer, Graverobber, Hunting Grounds, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+HiveMindEmulator - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HiveMindEmulator - shuffles deck
+Titandrake - shuffles deck
+HiveMindEmulator - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- HiveMindEmulator: turn 1 ----------
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- HiveMindEmulator: turn 2 ----------
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Moneylender
+HiveMindEmulator - gains Moneylender
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Silver, Estate, Copper, Moneylender, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Moneylender, Copper
+ 
+---------- HiveMindEmulator: turn 3 ----------
+HiveMindEmulator - plays Moneylender
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - plays 1 Silver, 1 Copper
+HiveMindEmulator - buys Gold
+HiveMindEmulator - gains Gold
+HiveMindEmulator - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- HiveMindEmulator: turn 4 ----------
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Caravan
+HiveMindEmulator - gains Caravan
+HiveMindEmulator - draws Estate, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Caravan, Moneylender, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper, Estate, Copper, Estate, Cartographer
+ 
+---------- HiveMindEmulator: turn 5 ----------
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Moneylender
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - plays 1 Copper
+HiveMindEmulator - buys Caravan
+HiveMindEmulator - gains Caravan
+HiveMindEmulator - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Moneylender, Silver
+Titandrake - shuffles deck
+Titandrake - looks at Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Moneylender on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Moneylender, Silver, Silver, Estate, Copper
+ 
+---------- HiveMindEmulator: turn 6 ----------
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - draws Gold
+HiveMindEmulator - plays 3 Copper, 1 Silver, 1 Gold
+HiveMindEmulator - buys Expand
+HiveMindEmulator - gains Expand
+HiveMindEmulator - draws Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper, Estate, Copper, Expand
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Expand
+Titandrake - gains Expand
+Titandrake - draws Caravan
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Silver
+ 
+---------- HiveMindEmulator: turn 7 ----------
+HiveMindEmulator - plays Expand
+HiveMindEmulator - trashes Estate
+HiveMindEmulator - gains Cartographer
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Gold, Copper, Moneylender, Caravan, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Expand, Silver, Copper, Copper
+ 
+---------- HiveMindEmulator: turn 8 ----------
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Moneylender
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - plays 1 Gold, 1 Copper, 1 Silver
+HiveMindEmulator - buys Expand
+HiveMindEmulator - gains Expand
+HiveMindEmulator - draws Estate, Caravan, Estate
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Cartographer, Moneylender
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Expand
+Titandrake - trashes Estate
+Titandrake - gains Caravan
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Cartographer, Estate, Moneylender
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver
+ 
+---------- HiveMindEmulator: turn 9 ----------
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Cartographer
+HiveMindEmulator - draws Gold
+HiveMindEmulator - looks at Expand, Silver, Silver, Copper
+HiveMindEmulator - discards Copper
+HiveMindEmulator - places Silver on top of deck
+HiveMindEmulator - places Expand on top of deck
+HiveMindEmulator - places Silver on top of deck
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Silver
+HiveMindEmulator - plays Moneylender
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - plays 1 Gold, 1 Silver
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - draws Expand, Silver, Copper, Expand, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Silver, Copper, Expand, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Expand on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Silver, Expand, Caravan, Caravan, Copper
+ 
+---------- HiveMindEmulator: turn 10 ----------
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate
+HiveMindEmulator - plays Expand
+HiveMindEmulator - trashes Estate
+HiveMindEmulator - gains Cartographer
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Caravan
+HiveMindEmulator - gains Caravan
+HiveMindEmulator - draws Copper, Silver, Gold, Estate, Province
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays Expand
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Expand, Moneylender, Cartographer, Province
+ 
+---------- HiveMindEmulator: turn 11 ----------
+HiveMindEmulator - plays 1 Copper, 1 Silver, 1 Gold
+HiveMindEmulator - buys Cartographer
+HiveMindEmulator - gains Cartographer
+HiveMindEmulator - draws Cartographer, Moneylender, Caravan
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Province, Cartographer
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Cartographer
+Titandrake - draws Caravan
+Titandrake - looks at Copper, Caravan, Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Caravan on top of deck
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Province, Moneylender, Caravan
+ 
+---------- HiveMindEmulator: turn 12 ----------
+HiveMindEmulator - plays Cartographer
+HiveMindEmulator - draws Cartographer
+HiveMindEmulator - looks at Estate, Silver, Expand, Copper
+HiveMindEmulator - discards Estate
+HiveMindEmulator - discards Copper
+HiveMindEmulator - places Silver on top of deck
+HiveMindEmulator - places Expand on top of deck
+HiveMindEmulator - plays Cartographer
+HiveMindEmulator - draws Expand
+HiveMindEmulator - looks at Silver, Gold, Caravan, Copper
+HiveMindEmulator - discards Copper
+HiveMindEmulator - places Gold on top of deck
+HiveMindEmulator - places Silver on top of deck
+HiveMindEmulator - places Caravan on top of deck
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Caravan
+HiveMindEmulator - plays Cartographer
+HiveMindEmulator - draws Silver
+HiveMindEmulator - looks at Gold, Silver, Expand, Caravan
+HiveMindEmulator - places Expand on top of deck
+HiveMindEmulator - places Gold on top of deck
+HiveMindEmulator - places Silver on top of deck
+HiveMindEmulator - places Caravan on top of deck
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Caravan
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Silver
+HiveMindEmulator - plays Expand
+HiveMindEmulator - trashes Moneylender
+HiveMindEmulator - gains Gold
+HiveMindEmulator - plays 2 Silver
+HiveMindEmulator - buys Caravan
+HiveMindEmulator - gains Caravan
+HiveMindEmulator - draws Gold, Expand, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper, Cartographer
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Caravan
+Titandrake - draws Cartographer
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Cartographer
+Titandrake - draws Estate
+Titandrake - looks at Caravan, Copper, Province, Copper
+Titandrake - discards Copper
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - places Caravan on top of deck
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Graverobber
+Titandrake - gains Graverobber
+Titandrake - draws Expand, Silver, Caravan, Copper
+Titandrake - shuffles deck
+Titandrake - draws Moneylender
+ 
+---------- HiveMindEmulator: turn 13 ----------
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - draws Silver
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - draws Caravan
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - draws Cartographer
+HiveMindEmulator - plays Cartographer
+HiveMindEmulator - draws Gold
+HiveMindEmulator - looks at Province, Silver, Estate, Cartographer
+HiveMindEmulator - discards Estate
+HiveMindEmulator - discards Province
+HiveMindEmulator - places Silver on top of deck
+HiveMindEmulator - places Cartographer on top of deck
+HiveMindEmulator - plays Cartographer
+HiveMindEmulator - draws Cartographer
+HiveMindEmulator - looks at Silver, Copper, Expand
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - looks at Estate
+HiveMindEmulator - discards Estate
+HiveMindEmulator - discards Copper
+HiveMindEmulator - places Expand on top of deck
+HiveMindEmulator - places Silver on top of deck
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Silver
+HiveMindEmulator - plays Expand
+HiveMindEmulator - trashes Cartographer
+HiveMindEmulator - gains Province
+HiveMindEmulator - plays 2 Gold, 2 Copper, 2 Silver
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - draws Expand, Province
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Caravan, Province, Caravan
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - duration Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Graverobber
+Titandrake - plays Caravan
+Titandrake - draws Province
+Titandrake - plays Expand
+Titandrake - trashes Graverobber
+Titandrake - gains Province
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Cartographer, Estate, Caravan, Copper, Province
+ 
+---------- HiveMindEmulator: turn 14 ----------
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - draws Cartographer
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Caravan
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Gold
+HiveMindEmulator - plays Caravan
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Cartographer
+HiveMindEmulator - draws Copper
+HiveMindEmulator - looks at Province, Gold, Silver, Cartographer
+HiveMindEmulator - discards Province
+HiveMindEmulator - places Gold on top of deck
+HiveMindEmulator - places Silver on top of deck
+HiveMindEmulator - places Cartographer on top of deck
+HiveMindEmulator - plays Expand
+HiveMindEmulator - trashes Gold
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - plays 2 Copper
+HiveMindEmulator - buys Estate
+HiveMindEmulator - gains Estate
+HiveMindEmulator - draws Cartographer, Silver, Gold, Estate, Expand
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - looks at Moneylender, Silver, Duchy, Expand
+Titandrake - discards Silver
+Titandrake - places Expand on top of deck
+Titandrake - places Duchy on top of deck
+Titandrake - places Moneylender on top of deck
+Titandrake - plays Caravan
+Titandrake - draws Moneylender
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Expand, Province, Silver, Caravan
+ 
+---------- HiveMindEmulator: turn 15 ----------
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - draws Copper
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - draws Silver
+HiveMindEmulator - duration Caravan
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Expand
+HiveMindEmulator - trashes Cartographer
+HiveMindEmulator - gains Province
+HiveMindEmulator - plays 2 Silver, 2 Copper, 1 Gold
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - draws Copper, Caravan, Province, Cartographer, Province
+ 
+------------ Game Over ------------
+HiveMindEmulator - cards: 4 Caravan, 2 Expand, 1 Cartographer, 3 Copper, 2 Silver, 1 Gold, 5 Province, 2 Estate, 1 Duchy
+HiveMindEmulator - total victory points: 35
+HiveMindEmulator - turns: 15
+ 
+Titandrake - cards: 5 Caravan, 1 Expand, 1 Cartographer, 1 Moneylender, 3 Silver, 2 Copper, 3 Province, 2 Duchy, 2 Estate
+Titandrake - total victory points: 26
+Titandrake - turns: 15
+ 
+1st place: HiveMindEmulator
+2nd place: Titandrake
+ 

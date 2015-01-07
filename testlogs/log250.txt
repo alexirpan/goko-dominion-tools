@@ -1,0 +1,411 @@
+------------ Game Setup ------------
+Supply cards: JackOfAllTrades, Tournament, Cartographer, Haggler, Jester, Junk Dealer, Mine, Treasury, Altar, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys JackOfAllTrades
+SheCantSayNo - gains JackOfAllTrades
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, JackOfAllTrades, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Junk Dealer
+SheCantSayNo - gains Junk Dealer
+SheCantSayNo - draws Estate, Copper, Copper, JackOfAllTrades, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Silver on top of deck
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Estate
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays JackOfAllTrades
+SheCantSayNo - gains Silver
+SheCantSayNo - discards Copper
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate, JackOfAllTrades, Copper, Silver, Junk Dealer
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Copper, Estate, Copper, JackOfAllTrades, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Junk Dealer
+SheCantSayNo - draws Copper
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays JackOfAllTrades
+SheCantSayNo - gains Silver
+SheCantSayNo - discards Copper
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - buys Junk Dealer
+SheCantSayNo - gains Junk Dealer
+SheCantSayNo - draws Copper, Copper, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Silver on top of deck
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Junk Dealer, Silver
+Titandrake - shuffles deck
+Titandrake - draws JackOfAllTrades, Copper
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays 3 Copper, 2 Silver
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Gold
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Silver, Copper, JackOfAllTrades, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - plays 3 Silver
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Copper, Estate, Tournament
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays JackOfAllTrades
+SheCantSayNo - gains Silver
+SheCantSayNo - places Gold on top of deck
+SheCantSayNo - plays 2 Silver, 1 Gold
+SheCantSayNo - plays Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Junk Dealer, Estate, Copper, Copper, Junk Dealer
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Tournament, Copper, Estate
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Junk Dealer
+SheCantSayNo - draws Copper
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays Junk Dealer
+SheCantSayNo - draws Silver
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - buys Tournament
+SheCantSayNo - gains Tournament
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Tournament, Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tournament
+Titandrake - draws Junk Dealer
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Junk Dealer, Silver, Copper, Silver, JackOfAllTrades
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Tournament
+SheCantSayNo - draws Junk Dealer
+SheCantSayNo - plays Junk Dealer
+SheCantSayNo - draws Gold
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays 2 Silver, 1 Gold
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Copper, JackOfAllTrades, Silver, Province, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Tournament, Silver, Copper, Copper, Province
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays JackOfAllTrades
+SheCantSayNo - gains Silver
+SheCantSayNo - discards Copper
+SheCantSayNo - plays 2 Copper, 2 Silver
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Gold
+SheCantSayNo - draws Junk Dealer, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Province, Silver, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Tournament
+SheCantSayNo - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Trusty Steed
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Trusty Steed
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Grand Market, JackOfAllTrades
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Junk Dealer
+SheCantSayNo - draws Silver
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays 3 Silver
+SheCantSayNo - buys Grand Market
+SheCantSayNo - gains Grand Market
+SheCantSayNo - draws Gold, Silver, Tournament, Copper, Province
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Tournament
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 actions
+Titandrake - takes 2 coins
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Silver
+Titandrake - plays Tournament
+SheCantSayNo - reveals Province
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Silver
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Junk Dealer, Silver, Copper, Gold
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Tournament
+SheCantSayNo - reveals Province
+SheCantSayNo - discards Province
+SheCantSayNo - gains Followers
+SheCantSayNo - draws Followers
+SheCantSayNo - plays Followers
+SheCantSayNo - draws Junk Dealer, JackOfAllTrades
+SheCantSayNo - gains Estate
+Titandrake - gains Curse
+Titandrake - discards Copper
+Titandrake - discards Silver
+SheCantSayNo - plays 1 Gold, 1 Silver
+SheCantSayNo - buys Grand Market
+SheCantSayNo - gains Grand Market
+SheCantSayNo - draws Silver, Silver, Gold, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Province
+Titandrake - trashes Copper
+Titandrake - plays Gold
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Tournament, Silver, Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Silver, Grand Market
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays 2 Silver, 1 Gold
+SheCantSayNo - plays Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Grand Market, Silver, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Grand Market
+Titandrake - draws JackOfAllTrades
+Titandrake - plays Junk Dealer
+Titandrake - draws Gold
+Titandrake - trashes Silver
+Titandrake - plays Tournament
+Titandrake - draws Silver
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Trusty Steed, Tournament, Silver, Province
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Grand Market
+SheCantSayNo - draws Estate
+SheCantSayNo - plays 2 Silver
+SheCantSayNo - plays Copper
+SheCantSayNo - plays Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Silver, Copper, Silver, Province, JackOfAllTrades
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Tournament
+SheCantSayNo - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 actions
+Titandrake - draws Princess, Junk Dealer
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Curse
+Titandrake - plays Princess
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Silver, Silver, Silver, Copper
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays JackOfAllTrades
+SheCantSayNo - gains Silver
+SheCantSayNo - places Silver on top of deck
+SheCantSayNo - plays 3 Silver
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Gold, Junk Dealer, Silver, Grand Market, Junk Dealer
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Copper
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Grand Market
+SheCantSayNo - draws Province
+SheCantSayNo - plays Junk Dealer
+SheCantSayNo - draws Tournament
+SheCantSayNo - trashes Junk Dealer
+SheCantSayNo - plays Tournament
+SheCantSayNo - reveals Province
+Titandrake - reveals Province
+SheCantSayNo - discards Province
+SheCantSayNo - gains Duchy
+SheCantSayNo - plays 1 Gold, 1 Silver
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Duchy, Followers, Gold, Province
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Junk Dealer on top of deck
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Princess, Duchy, Silver, Grand Market, Copper
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Followers
+SheCantSayNo - draws Province, Silver
+SheCantSayNo - gains Estate
+Titandrake - gains Curse
+Titandrake - discards Duchy
+Titandrake - discards Copper
+SheCantSayNo - plays 2 Silver, 1 Gold
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Copper, Duchy, Junk Dealer, Copper, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Princess
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Tournament, Junk Dealer, Province, Silver, Duchy
+ 
+------------ Game Over ------------
+SheCantSayNo - cards: 2 Grand Market, 1 Junk Dealer, 1 Followers, 1 Tournament, 1 JackOfAllTrades, 7 Silver, 3 Copper, 2 Gold, 4 Duchy, 4 Province, 3 Estate
+SheCantSayNo - total victory points: 39
+SheCantSayNo - turns: 17
+ 
+Titandrake - cards: 3 Tournament, 2 Junk Dealer, 2 JackOfAllTrades, 1 Grand Market, 1 Princess, 1 Trusty Steed, 9 Silver, 4 Copper, 1 Gold, 4 Province, 4 Duchy, 3 Estate, 1 Curse
+Titandrake - total victory points: 38
+Titandrake - turns: 18
+ 
+1st place: SheCantSayNo
+2nd place: Titandrake
+ 

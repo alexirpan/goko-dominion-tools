@@ -21,7 +21,7 @@ if args.run:
     failing = []
     for i in range(1, 264):
         try:
-            generate_game_states(open('../mylogs/log%d.txt' % i).read())
+            generate_game_states(open('testlogs/log%d.txt' % i).read())
             passed += 1
         except:
             failed += 1

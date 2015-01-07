@@ -1,0 +1,495 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Urchin, Woodcutter, Scout, Spice Merchant, Talisman, Count, Mine, Witch, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+HiveMindEmulator - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HiveMindEmulator - shuffles deck
+Titandrake - shuffles deck
+HiveMindEmulator - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- HiveMindEmulator: turn 1 ----------
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- HiveMindEmulator: turn 2 ----------
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- HiveMindEmulator: turn 3 ----------
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Urchin
+HiveMindEmulator - gains Urchin
+HiveMindEmulator - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper, Urchin, Copper, Urchin, Estate
+ 
+---------- HiveMindEmulator: turn 4 ----------
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Urchin
+HiveMindEmulator - gains Urchin
+HiveMindEmulator - draws Silver, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Urchin, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+HiveMindEmulator - discards Estate
+Titandrake - plays Urchin
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Urchin, Copper, Copper, Estate, Copper
+ 
+---------- HiveMindEmulator: turn 5 ----------
+HiveMindEmulator - plays Urchin
+HiveMindEmulator - draws Silver
+Titandrake - discards Estate
+HiveMindEmulator - plays 2 Silver, 2 Copper
+HiveMindEmulator - buys Witch
+HiveMindEmulator - gains Witch
+HiveMindEmulator - draws Copper, Urchin, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+HiveMindEmulator - discards Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Mercenary, Estate, Urchin, Copper, Silver
+ 
+---------- HiveMindEmulator: turn 6 ----------
+HiveMindEmulator - plays Urchin
+HiveMindEmulator - draws Copper
+Titandrake - discards Copper
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Copper, Estate
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate, Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Urchin
+Titandrake - draws Estate
+HiveMindEmulator - discards Estate
+Titandrake - plays Mercenary
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - trashes Estate, Estate
+Titandrake - draws Copper, Copper
+HiveMindEmulator - discards Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - shuffles deck
+Titandrake - draws Copper, Mercenary, Copper, Copper, Spice Merchant
+ 
+---------- HiveMindEmulator: turn 7 ----------
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Silver, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Nobles
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Copper, Copper
+HiveMindEmulator - discards Copper
+HiveMindEmulator - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Copper, Silver, Mercenary, Urchin, Estate
+ 
+---------- HiveMindEmulator: turn 8 ----------
+HiveMindEmulator - plays 2 Silver, 1 Copper
+HiveMindEmulator - buys Witch
+HiveMindEmulator - gains Witch
+HiveMindEmulator - draws Copper, Copper, Estate, Urchin, Urchin
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Urchin
+Titandrake - shuffles deck
+Titandrake - draws Copper
+HiveMindEmulator - discards Estate
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Nobles, Mercenary
+HiveMindEmulator - discards Copper
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Witch, Copper, Spice Merchant, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- HiveMindEmulator: turn 9 ----------
+HiveMindEmulator - plays Urchin
+HiveMindEmulator - draws Witch
+Titandrake - discards Copper
+HiveMindEmulator - plays Urchin
+HiveMindEmulator - trashes Urchin
+HiveMindEmulator - gains Mercenary
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Mercenary
+HiveMindEmulator - plays Witch
+HiveMindEmulator - trashes Urchin
+HiveMindEmulator - gains Mercenary
+HiveMindEmulator - draws Silver, Witch
+Titandrake - gains Curse
+HiveMindEmulator - plays 1 Copper, 1 Silver
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Copper, Estate, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Silver, Urchin
+Titandrake - plays Urchin
+Titandrake - draws Mercenary
+HiveMindEmulator - discards Estate
+Titandrake - plays Witch
+Titandrake - draws Silver, Mercenary
+HiveMindEmulator - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Nobles
+Titandrake - shuffles deck
+Titandrake - draws Silver, Urchin, Mercenary, Copper
+ 
+---------- HiveMindEmulator: turn 10 ----------
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Copper, Estate, Silver, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Urchin
+Titandrake - draws Silver
+HiveMindEmulator - discards Estate
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Silver
+Titandrake - draws Spice Merchant, Witch
+HiveMindEmulator - discards Copper
+Titandrake - plays Witch
+Titandrake - draws Curse, Copper
+HiveMindEmulator - gains Curse
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Spice Merchant, Urchin, Silver
+ 
+---------- HiveMindEmulator: turn 11 ----------
+HiveMindEmulator - plays 2 Silver, 1 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Copper, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate, Silver, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Spice Merchant, Urchin
+Titandrake - draws Silver, Mercenary
+HiveMindEmulator - discards Estate
+HiveMindEmulator - discards Estate
+Titandrake - plays 3 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Nobles, Copper, Curse, Witch
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- HiveMindEmulator: turn 12 ----------
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Curse, Estate, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Witch
+Titandrake - draws Silver, Silver
+HiveMindEmulator - gains Curse
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Mercenary, Mercenary, Nobles
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- HiveMindEmulator: turn 13 ----------
+HiveMindEmulator - plays 2 Silver, 1 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Mercenary, Silver, Copper, Witch, Curse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Mercenary
+Titandrake - draws Witch, Curse
+HiveMindEmulator - discards Silver
+HiveMindEmulator - discards Witch
+Titandrake - plays Witch
+Titandrake - draws Silver, Nobles
+HiveMindEmulator - gains Curse
+Titandrake - plays 2 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Nobles, Silver
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Mercenary, Nobles
+ 
+---------- HiveMindEmulator: turn 14 ----------
+HiveMindEmulator - plays Mercenary
+HiveMindEmulator - trashes Curse, Copper
+HiveMindEmulator - draws Silver, Copper
+Titandrake - discards Mercenary
+Titandrake - discards Silver
+HiveMindEmulator - plays 1 Silver, 1 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Witch, Silver, Silver, Mercenary, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Witch, Nobles, Curse
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Witch
+Titandrake - draws Silver, Silver
+HiveMindEmulator - gains Curse
+Titandrake - plays Nobles
+Titandrake - shuffles deck
+Titandrake - draws Mercenary, Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Mercenary, Silver, Nobles, Curse
+ 
+---------- HiveMindEmulator: turn 15 ----------
+HiveMindEmulator - plays Witch
+HiveMindEmulator - draws Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Silver
+Titandrake - gains Curse
+HiveMindEmulator - plays 3 Silver, 2 Copper
+HiveMindEmulator - buys Nobles
+HiveMindEmulator - gains Nobles
+HiveMindEmulator - draws Silver, Curse, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Silver, Nobles, Nobles
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Witch, Nobles, Silver
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Witch
+Titandrake - shuffles deck
+Titandrake - draws Curse
+HiveMindEmulator - gains Curse
+Titandrake - plays Mercenary
+Titandrake - trashes Curse, Curse
+HiveMindEmulator - discards Copper
+HiveMindEmulator - discards Curse
+Titandrake - plays 3 Silver
+Titandrake - buys Woodcutter
+Titandrake - gains Woodcutter
+Titandrake - shuffles deck
+Titandrake - draws Silver, Witch, Mercenary, Nobles, Nobles
+ 
+---------- HiveMindEmulator: turn 16 ----------
+HiveMindEmulator - plays 3 Silver
+HiveMindEmulator - buys Nobles
+HiveMindEmulator - gains Nobles
+HiveMindEmulator - draws Mercenary, Silver, Estate, Estate, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Nobles, Woodcutter
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Witch
+Titandrake - draws Nobles, Silver
+HiveMindEmulator - gains Curse
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Silver
+Titandrake - plays Woodcutter
+Titandrake - plays 3 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Nobles, Nobles, Nobles, Nobles
+ 
+---------- HiveMindEmulator: turn 17 ----------
+HiveMindEmulator - plays Mercenary
+HiveMindEmulator - trashes Curse, Estate
+HiveMindEmulator - draws Estate, Silver
+Titandrake - discards Nobles
+Titandrake - discards Nobles
+HiveMindEmulator - plays 2 Silver
+HiveMindEmulator - buys Gold
+HiveMindEmulator - gains Gold
+HiveMindEmulator - draws Curse, Copper, Copper, Curse, Witch
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Silver, Nobles, Silver
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Silver, Mercenary, Witch
+Titandrake - plays Witch
+Titandrake - draws Woodcutter, Copper
+HiveMindEmulator - gains Curse
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Talisman
+Titandrake - gains Talisman
+Titandrake - shuffles deck
+Titandrake - draws Mercenary, Nobles, Nobles, Talisman, Nobles
+ 
+---------- HiveMindEmulator: turn 18 ----------
+HiveMindEmulator - plays Witch
+HiveMindEmulator - draws Silver, Copper
+HiveMindEmulator - plays 3 Copper, 1 Silver
+HiveMindEmulator - buys Cellar
+HiveMindEmulator - gains Cellar
+HiveMindEmulator - draws Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Silver, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Silver, Nobles, Nobles
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Silver, Silver, Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Silver
+Titandrake - draws Nobles, Woodcutter
+HiveMindEmulator - discards Copper
+HiveMindEmulator - discards Silver
+Titandrake - plays Woodcutter
+Titandrake - plays 2 Silver
+Titandrake - plays Talisman
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - gains Urchin
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - gains Urchin
+Titandrake - draws Witch
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Nobles, Nobles, Urchin
+ 
+---------- HiveMindEmulator: turn 19 ----------
+HiveMindEmulator - plays 3 Silver
+HiveMindEmulator - buys Duchy
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - draws Witch, Witch, Mercenary, Curse, Curse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Urchin
+Titandrake - draws Talisman
+HiveMindEmulator - discards Witch
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Witch
+Titandrake - draws Nobles, Woodcutter
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Urchin, Urchin
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Silver, Nobles, Mercenary
+Titandrake - plays Woodcutter
+Titandrake - plays 1 Silver
+Titandrake - plays Talisman
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Urchin, Silver
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Woodcutter, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Nobles, 5 Urchin, 1 Woodcutter, 1 Witch, 1 Mercenary, 2 Silver, 1 Talisman, 1 Estate
+Titandrake - total victory points: 13
+Titandrake - turns: 19
+ 
+HiveMindEmulator - cards: 2 Nobles, 2 Witch, 2 Mercenary, 10 Silver, 1 Cellar, 6 Copper, 1 Gold, 2 Estate, 1 Duchy, 6 Curse
+HiveMindEmulator - total victory points: 3
+HiveMindEmulator - turns: 19
+ 
+1st place: Titandrake
+2nd place: HiveMindEmulator
+ 

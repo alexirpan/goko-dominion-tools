@@ -1,0 +1,492 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Chancellor, Swindler, Philosopher's Stone, Horse Traders, JackOfAllTrades, Mining Village, Cartographer, Laboratory, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+jog - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jog - shuffles deck
+Titandrake - shuffles deck
+jog - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- jog: turn 1 ----------
+jog - plays 4 Copper
+jog - buys JackOfAllTrades
+jog - gains JackOfAllTrades
+jog - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- jog: turn 2 ----------
+jog - plays 3 Copper
+jog - buys Silver
+jog - gains Silver
+jog - shuffles deck
+jog - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, JackOfAllTrades, Copper, Estate, Copper
+ 
+---------- jog: turn 3 ----------
+jog - plays 5 Copper
+jog - buys Cartographer
+jog - gains Cartographer
+jog - draws Estate, JackOfAllTrades, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- jog: turn 4 ----------
+jog - plays JackOfAllTrades
+jog - gains Silver
+jog - places Silver on top of deck
+jog - trashes Estate
+jog - plays 1 Copper, 1 Silver
+jog - buys Silver
+jog - gains Silver
+jog - draws Copper
+jog - shuffles deck
+jog - draws Cartographer, Silver, JackOfAllTrades, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Mining Village, Estate
+ 
+---------- jog: turn 5 ----------
+jog - plays Cartographer
+jog - draws Estate
+jog - looks at Silver, Copper, Copper, Copper
+jog - discards Copper
+jog - discards Copper
+jog - discards Copper
+jog - places Silver on top of deck
+jog - plays JackOfAllTrades
+jog - gains Silver
+jog - places Silver on top of deck
+jog - trashes Estate
+jog - plays 2 Copper, 2 Silver
+jog - buys Laboratory
+jog - gains Laboratory
+jog - draws Estate, Silver, Copper, Copper
+jog - shuffles deck
+jog - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Mining Village
+Titandrake - draws JackOfAllTrades
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - trashes Estate
+Titandrake - plays Swindler
+jog - reveals Copper
+jog - trashes Copper
+jog - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- jog: turn 6 ----------
+jog - plays 3 Copper, 1 Silver
+jog - buys Laboratory
+jog - gains Laboratory
+jog - draws Copper, Silver, Silver, Laboratory, JackOfAllTrades
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Mining Village, Copper, Copper
+ 
+---------- jog: turn 7 ----------
+jog - plays Laboratory
+jog - draws Silver, Cartographer
+jog - plays Cartographer
+jog - draws Copper
+jog - looks at Copper
+jog - shuffles deck
+jog - looks at Copper, Silver, Copper
+jog - discards Copper
+jog - discards Copper
+jog - discards Silver
+jog - discards Copper
+jog - plays JackOfAllTrades
+jog - gains Silver
+jog - discards Copper
+jog - plays 3 Silver
+jog - buys Grand Market
+jog - gains Grand Market
+jog - draws Estate, Laboratory, Curse
+jog - shuffles deck
+jog - draws Cartographer, Grand Market
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - trashes Mining Village
+Titandrake - plays 2 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws JackOfAllTrades, Mining Village, Copper, Copper, Cartographer
+ 
+---------- jog: turn 8 ----------
+jog - plays Cartographer
+jog - draws Silver
+jog - looks at Silver, Copper, JackOfAllTrades, Silver
+jog - discards Copper
+jog - discards Silver
+jog - places JackOfAllTrades on top of deck
+jog - places Silver on top of deck
+jog - plays Laboratory
+jog - draws Silver, JackOfAllTrades
+jog - plays Grand Market
+jog - draws Copper
+jog - plays JackOfAllTrades
+jog - gains Silver
+jog - discards Copper
+jog - trashes Curse
+jog - plays 2 Silver
+jog - buys Grand Market
+jog - gains Grand Market
+jog - draws Silver, Copper, Laboratory, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Estate
+Titandrake - looks at Copper, Copper, Swindler, Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - places Swindler on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Swindler
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - discards Copper
+Titandrake - trashes Estate
+Titandrake - plays Swindler
+jog - reveals Copper
+jog - trashes Copper
+jog - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Copper, Grand Market, Copper, Copper, Silver
+ 
+---------- jog: turn 9 ----------
+jog - plays Laboratory
+jog - shuffles deck
+jog - draws Copper, Cartographer
+jog - plays Cartographer
+jog - draws Laboratory
+jog - looks at Curse, Estate, JackOfAllTrades, Silver
+jog - discards Curse
+jog - discards Estate
+jog - discards JackOfAllTrades
+jog - discards Silver
+jog - plays Laboratory
+jog - draws Silver, Silver
+jog - plays 4 Silver
+jog - buys Grand Market
+jog - gains Grand Market
+jog - draws Copper, Silver, Grand Market, Grand Market, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Grand Market
+ 
+---------- jog: turn 10 ----------
+jog - plays Grand Market
+jog - shuffles deck
+jog - draws Silver
+jog - plays Grand Market
+jog - draws Silver
+jog - plays 3 Silver
+jog - buys Cartographer
+jog - gains Cartographer
+jog - buys Laboratory
+jog - gains Laboratory
+jog - draws Silver, Copper, Silver, Laboratory, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Swindler
+Titandrake - plays Swindler
+jog - reveals Grand Market
+jog - trashes Grand Market
+jog - gains Gold
+Titandrake - plays 2 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, JackOfAllTrades, Grand Market, Copper, Laboratory
+ 
+---------- jog: turn 11 ----------
+jog - plays Laboratory
+jog - draws Cartographer, JackOfAllTrades
+jog - plays Cartographer
+jog - draws Copper
+jog - looks at Curse, Silver, Copper, Laboratory
+jog - discards Curse
+jog - discards Silver
+jog - discards Copper
+jog - places Laboratory on top of deck
+jog - plays JackOfAllTrades
+jog - gains Silver
+jog - places Laboratory on top of deck
+jog - trashes Estate
+jog - plays 2 Silver, 2 Copper
+jog - buys Laboratory
+jog - gains Laboratory
+jog - draws Laboratory
+jog - shuffles deck
+jog - draws Copper, JackOfAllTrades, Laboratory, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Silver, Mining Village, Copper
+Titandrake - shuffles deck
+Titandrake - looks at Vagrant
+Titandrake - discards Copper
+Titandrake - discards Vagrant
+Titandrake - discards Mining Village
+Titandrake - discards Silver
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Grand Market, Silver, Silver, Copper, Grand Market
+ 
+---------- jog: turn 12 ----------
+jog - plays Laboratory
+jog - draws Copper, Curse
+jog - plays Laboratory
+jog - draws Laboratory, Copper
+jog - plays Laboratory
+jog - draws Copper, Silver
+jog - plays JackOfAllTrades
+jog - gains Silver
+jog - discards Silver
+jog - trashes Curse
+jog - plays 4 Copper, 2 Silver
+jog - buys Province
+jog - gains Province
+jog - draws Silver, Silver, Silver, Cartographer, Laboratory
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Swindler
+Titandrake - plays Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - plays Swindler
+jog - reveals Grand Market
+jog - trashes Grand Market
+jog - gains Gold
+Titandrake - plays 2 Silver
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Mining Village, Grand Market, Silver, Copper
+ 
+---------- jog: turn 13 ----------
+jog - plays Cartographer
+jog - draws Gold
+jog - looks at Silver, Copper, Cartographer, Grand Market
+jog - discards Copper
+jog - discards Silver
+jog - places Grand Market on top of deck
+jog - places Cartographer on top of deck
+jog - plays Laboratory
+jog - draws Cartographer, Grand Market
+jog - plays Cartographer
+jog - shuffles deck
+jog - draws Copper
+jog - looks at Silver, Copper, Copper, Laboratory
+jog - discards Copper
+jog - discards Copper
+jog - discards Silver
+jog - places Laboratory on top of deck
+jog - plays Grand Market
+jog - draws Laboratory
+jog - plays Laboratory
+jog - draws Silver, Copper
+jog - plays 4 Silver, 1 Gold
+jog - plays Copper
+jog - plays Copper
+jog - buys Province
+jog - gains Province
+jog - buys Cartographer
+jog - gains Cartographer
+jog - draws JackOfAllTrades, Province, Silver, Gold, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Copper, Laboratory, Silver, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Laboratory on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Laboratory
+Titandrake - trashes Mining Village
+Titandrake - plays Laboratory
+Titandrake - draws Silver, Copper
+Titandrake - plays 3 Silver
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Vagrant, Copper, JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver
+ 
+---------- jog: turn 14 ----------
+jog - plays JackOfAllTrades
+jog - gains Silver
+jog - discards Laboratory
+jog - plays 2 Silver, 1 Gold
+jog - plays Copper
+jog - buys Province
+jog - gains Province
+jog - draws Laboratory, Silver
+jog - shuffles deck
+jog - draws Laboratory, Gold, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Swindler
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Swindler
+jog - reveals Copper
+jog - trashes Copper
+jog - gains Curse
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Copper, Province, Cartographer, Copper
+ 
+---------- jog: turn 15 ----------
+jog - plays Laboratory
+jog - draws Silver, Silver
+jog - plays Laboratory
+jog - draws Silver, Copper
+jog - plays 5 Silver, 1 Gold
+jog - buys Duchy
+jog - gains Duchy
+jog - draws Copper, Grand Market, Laboratory, Province, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Laboratory, Copper, Swindler, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Swindler on top of deck
+Titandrake - places Laboratory on top of deck
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Laboratory, Swindler, Grand Market, Grand Market, Duchy
+ 
+---------- jog: turn 16 ----------
+jog - plays Laboratory
+jog - draws Cartographer, Silver
+jog - plays Cartographer
+jog - draws JackOfAllTrades
+jog - looks at Province, Copper, Cartographer, Silver
+jog - discards Province
+jog - discards Copper
+jog - discards Silver
+jog - places Cartographer on top of deck
+jog - plays Grand Market
+jog - draws Cartographer
+jog - plays Cartographer
+jog - draws Province
+jog - looks at Laboratory, Silver, Cartographer, Silver
+jog - discards Silver
+jog - discards Silver
+jog - places Cartographer on top of deck
+jog - places Laboratory on top of deck
+jog - plays 2 Copper, 1 Silver
+jog - buys Duchy
+jog - gains Duchy
+jog - draws Laboratory, Cartographer, Gold
+jog - shuffles deck
+jog - draws Copper, Laboratory
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Province
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Province
+Titandrake - plays Swindler
+jog - reveals Province
+jog - trashes Province
+jog - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Province, Copper, Grand Market
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Grand Market, 2 Swindler, 1 Vagrant, 1 Cartographer, 1 JackOfAllTrades, 1 Laboratory, 7 Copper, 5 Silver, 4 Province, 3 Duchy
+Titandrake - total victory points: 33
+Titandrake - turns: 16
+ 
+jog - cards: 4 Laboratory, 3 Cartographer, 1 Grand Market, 1 JackOfAllTrades, 9 Silver, 4 Copper, 2 Gold, 3 Province, 2 Duchy, 1 Curse
+jog - total victory points: 23
+jog - turns: 16
+ 
+1st place: Titandrake
+2nd place: jog
+ 

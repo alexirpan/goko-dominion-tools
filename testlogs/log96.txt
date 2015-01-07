@@ -1,0 +1,417 @@
+------------ Game Setup ------------
+Supply cards: Great Hall, Hermit, Familiar, Trader, Walled Village, Cache, Inn, Torturer, Adventurer, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+dudeabides - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dudeabides - shuffles deck
+Titandrake - shuffles deck
+dudeabides - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- dudeabides: turn 1 ----------
+dudeabides - plays 3 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hermit, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 2 ----------
+dudeabides - plays 4 Copper
+dudeabides - buys Trader
+dudeabides - gains Trader
+dudeabides - shuffles deck
+dudeabides - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- dudeabides: turn 3 ----------
+dudeabides - plays 3 Copper, 1 Silver
+dudeabides - buys Torturer
+dudeabides - gains Torturer
+dudeabides - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Silver, Estate
+ 
+---------- dudeabides: turn 4 ----------
+dudeabides - plays 3 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Trader, Copper
+dudeabides - shuffles deck
+dudeabides - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper, Copper, Copper, Copper, Madman
+ 
+---------- dudeabides: turn 5 ----------
+dudeabides - plays Trader
+dudeabides - trashes Copper
+dudeabides - plays 3 Copper
+dudeabides - buys Hermit
+dudeabides - gains Hermit
+dudeabides - draws Copper, Torturer, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Copper, Torturer, Copper
+Titandrake - plays Torturer
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Madman, Estate
+dudeabides - discards Estate
+dudeabides - discards Copper
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Great Hall
+Titandrake - plays 7 Copper
+Titandrake - buys Forge
+Titandrake - gains Forge
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Madman, Copper
+ 
+---------- dudeabides: turn 6 ----------
+dudeabides - plays Torturer
+dudeabides - draws Silver, Estate, Estate
+Titandrake - gains Curse
+dudeabides - plays 2 Silver, 1 Copper
+dudeabides - buys Inn
+dudeabides - gains Inn
+dudeabides - places Trader, Hermit, Inn on top of deck
+dudeabides - shuffles deck
+dudeabides - draws Copper, Inn, Trader, Hermit
+dudeabides - shuffles deck
+dudeabides - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Torturer, Copper, Hermit, Copper
+Titandrake - plays Torturer
+Titandrake - draws Copper, Great Hall, Copper
+dudeabides - reveals reaction Trader
+dudeabides - gains Silver
+Titandrake - plays Great Hall
+Titandrake - draws Forge
+Titandrake - plays Forge
+Titandrake - trashes Curse, Estate, Silver, Copper, Copper, Copper
+Titandrake - gains Inn
+Titandrake - places Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - plays 4 Copper
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Inn
+Titandrake - shuffles deck
+Titandrake - draws Forge, Copper, Hermit, Copper
+ 
+---------- dudeabides: turn 7 ----------
+dudeabides - plays Inn
+dudeabides - draws Estate, Copper
+dudeabides - discards Estate
+dudeabides - discards Copper
+dudeabides - plays Hermit
+dudeabides - trashes Estate
+dudeabides - gains Hermit
+dudeabides - plays Trader
+dudeabides - trashes Copper
+dudeabides - trashes Hermit
+dudeabides - gains Madman
+dudeabides - draws Copper, Silver, Copper, Torturer, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Inn
+Titandrake - draws Copper, Trader
+Titandrake - discards Forge
+Titandrake - discards Copper
+Titandrake - plays Trader
+Titandrake - trashes Copper
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Torturer, Copper, Great Hall
+Titandrake - shuffles deck
+Titandrake - draws Madman, Forge
+ 
+---------- dudeabides: turn 8 ----------
+dudeabides - plays Torturer
+dudeabides - draws Silver, Estate, Copper
+Titandrake - gains Curse
+dudeabides - plays 3 Copper, 2 Silver
+dudeabides - buys Forge
+dudeabides - gains Forge
+dudeabides - shuffles deck
+dudeabides - draws Copper, Forge, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Hermit, Trader, Inn, Copper
+Titandrake - plays Trader
+Titandrake - trashes Great Hall
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays Inn
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Great Hall
+Titandrake - plays Torturer
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Great Hall, Copper
+dudeabides - gains Curse
+Titandrake - plays 3 Copper, 3 Silver
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - shuffles deck
+Titandrake - draws Forge, Hermit, Torturer, Silver, Great Hall
+ 
+---------- dudeabides: turn 9 ----------
+dudeabides - plays Forge
+dudeabides - trashes Copper, Copper, Silver, Silver, Curse
+dudeabides - gains Gold
+dudeabides - draws Inn, Torturer, Estate, Hermit, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Torturer, Silver, Trader
+dudeabides - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Cache
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - draws Inn, Silver, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- dudeabides: turn 10 ----------
+dudeabides - plays Inn
+dudeabides - draws Copper, Madman
+dudeabides - discards Estate
+dudeabides - discards Curse
+dudeabides - plays Torturer
+dudeabides - draws Estate, Trader, Silver
+Titandrake - gains Curse
+dudeabides - plays Madman
+dudeabides - draws Copper
+dudeabides - shuffles deck
+dudeabides - draws Forge, Curse, Gold, Estate
+dudeabides - plays Forge
+dudeabides - trashes Curse, Estate, Estate, Copper, Copper, Copper
+dudeabides - gains Walled Village
+dudeabides - plays Trader
+dudeabides - trashes Hermit
+dudeabides - gains Silver
+dudeabides - gains Silver
+dudeabides - gains Silver
+dudeabides - plays 1 Silver, 1 Gold
+dudeabides - buys Torturer
+dudeabides - gains Torturer
+dudeabides - shuffles deck
+dudeabides - draws Walled Village, Inn, Silver, Trader, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Inn
+Titandrake - draws Torturer, Copper
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - plays Torturer
+Titandrake - draws Silver, Silver, Great Hall
+dudeabides - reveals reaction Trader
+dudeabides - gains Silver
+Titandrake - plays Great Hall
+Titandrake - draws Trader
+Titandrake - plays Trader
+Titandrake - trashes Copper
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Torturer, Forge, Hermit
+Titandrake - shuffles deck
+Titandrake - draws Copper, Torturer
+ 
+---------- dudeabides: turn 11 ----------
+dudeabides - plays Walled Village
+dudeabides - draws Gold
+dudeabides - plays Inn
+dudeabides - draws Forge, Torturer
+dudeabides - discards Trader
+dudeabides - discards Forge
+dudeabides - plays Torturer
+dudeabides - draws Silver, Silver, Torturer
+Titandrake - gains Curse
+dudeabides - plays Torturer
+dudeabides - shuffles deck
+dudeabides - draws Silver, Forge, Trader
+Titandrake - gains Curse
+dudeabides - plays Forge
+dudeabides - trashes Silver, Silver
+dudeabides - gains Gold
+dudeabides - plays 3 Silver, 1 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - shuffles deck
+dudeabides - draws Walled Village, Inn, Gold, Silver, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Forge
+Titandrake - trashes Curse, Curse, Copper, Hermit, Torturer
+Titandrake - gains Province
+Titandrake - draws Copper, Province, Trader, Silver, Inn
+ 
+---------- dudeabides: turn 12 ----------
+dudeabides - plays Walled Village
+dudeabides - draws Province
+dudeabides - plays Inn
+dudeabides - draws Silver, Trader
+dudeabides - discards Province
+dudeabides - discards Trader
+dudeabides - plays 3 Silver, 1 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - places Walled Village on top of deck
+dudeabides - draws Walled Village, Torturer, Forge, Torturer, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Inn
+Titandrake - draws Silver, Curse
+Titandrake - discards Province
+Titandrake - discards Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Cache
+Titandrake - gains Cache
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Great Hall
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- dudeabides: turn 13 ----------
+dudeabides - plays Walled Village
+dudeabides - shuffles deck
+dudeabides - draws Silver
+dudeabides - plays Torturer
+dudeabides - draws Province, Silver, Trader
+Titandrake - gains Curse
+dudeabides - plays Torturer
+dudeabides - draws Inn, Gold, Silver
+Titandrake - gains Curse
+dudeabides - plays 3 Silver, 2 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Province
+dudeabides - shuffles deck
+dudeabides - draws Province, Gold, Forge, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Silver
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Province, Torturer, Curse, Cache
+ 
+---------- dudeabides: turn 14 ----------
+dudeabides - plays Forge
+dudeabides - trashes Province
+dudeabides - gains Province
+dudeabides - plays 1 Gold, 1 Silver
+dudeabides - buys Duchy
+dudeabides - gains Duchy
+dudeabides - draws Torturer, Gold, Province, Silver, Torturer
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Torturer
+Titandrake - draws Forge, Inn, Trader
+dudeabides - discards Torturer
+dudeabides - discards Province
+Titandrake - plays 1 Silver, 1 Cache
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Province
+Titandrake - shuffles deck
+Titandrake - draws Cache, Great Hall, Province
+ 
+---------- dudeabides: turn 15 ----------
+dudeabides - plays Torturer
+dudeabides - draws Walled Village, Silver, Trader
+Titandrake - discards Province
+Titandrake - discards Province
+dudeabides - plays 2 Silver, 1 Gold
+dudeabides - buys Duchy
+dudeabides - gains Duchy
+dudeabides - draws Inn
+dudeabides - shuffles deck
+dudeabides - draws Walled Village, Silver, Torturer, Trader
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Curse
+Titandrake - plays 1 Silver, 1 Cache
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Duchy, Forge, Silver, Inn
+ 
+---------- dudeabides: turn 16 ----------
+dudeabides - plays Walled Village
+dudeabides - draws Silver
+dudeabides - plays Torturer
+dudeabides - draws Gold, Duchy, Province
+Titandrake - discards Duchy
+Titandrake - discards Curse
+dudeabides - plays Inn
+dudeabides - draws Silver, Forge
+dudeabides - discards Duchy
+dudeabides - discards Province
+dudeabides - plays 3 Silver, 1 Gold
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Province, Province, Duchy, Gold, Torturer
+ 
+------------ Game Over ------------
+dudeabides - cards: 2 Torturer, 1 Walled Village, 1 Inn, 1 Trader, 1 Forge, 3 Silver, 2 Gold, 4 Province, 2 Duchy
+dudeabides - total victory points: 30
+dudeabides - turns: 16
+ 
+Titandrake - cards: 1 Great Hall, 1 Forge, 1 Inn, 1 Trader, 1 Torturer, 6 Silver, 1 Cache, 1 Copper, 3 Province, 2 Duchy, 3 Curse
+Titandrake - total victory points: 22
+Titandrake - turns: 16
+ 
+1st place: dudeabides
+2nd place: Titandrake
+ 

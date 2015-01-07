@@ -1,0 +1,360 @@
+------------ Game Setup ------------
+Supply cards: Moat, Pearl Diver, Sage, Warehouse, Conspirator, Moneylender, Navigator, Noble Brigand, Council Room, Pillage, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+florrat - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+florrat - shuffles deck
+Titandrake - shuffles deck
+florrat - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- florrat: turn 1 ----------
+florrat - plays 3 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- florrat: turn 2 ----------
+florrat - plays 4 Copper
+florrat - buys Moneylender
+florrat - gains Moneylender
+florrat - shuffles deck
+florrat - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - shuffles deck
+Titandrake - draws Moneylender, Copper, Estate, Copper, Copper
+ 
+---------- florrat: turn 3 ----------
+florrat - plays 5 Copper
+florrat - buys Council Room
+florrat - gains Council Room
+florrat - draws Silver, Estate, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Copper, Copper, Estate, Estate, Warehouse
+ 
+---------- florrat: turn 4 ----------
+florrat - plays 1 Silver, 1 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Copper, Moneylender
+florrat - shuffles deck
+florrat - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Moneylender
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Copper, Estate, Copper, Council Room
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- florrat: turn 5 ----------
+florrat - plays Moneylender
+florrat - trashes Copper
+florrat - plays 2 Copper, 1 Silver
+florrat - buys Gold
+florrat - gains Gold
+florrat - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Council Room
+Titandrake - draws Copper, Estate, Copper, Warehouse
+florrat - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Conspirator, Moneylender, Copper
+Titandrake - shuffles deck
+Titandrake - draws Pearl Diver, Copper
+ 
+---------- florrat: turn 6 ----------
+florrat - plays 4 Copper, 1 Silver
+florrat - buys Gold
+florrat - gains Gold
+florrat - draws Estate, Council Room, Estate
+florrat - shuffles deck
+florrat - draws Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Estate
+Titandrake - places Estate on bottom of deck
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Copper, Pearl Diver, Copper, Warehouse, Council Room
+ 
+---------- florrat: turn 7 ----------
+florrat - plays Council Room
+florrat - draws Silver, Moneylender, Gold, Copper
+Titandrake - draws Estate
+florrat - plays 3 Copper, 1 Silver, 1 Gold
+florrat - buys Province
+florrat - gains Province
+florrat - draws Copper, Copper, Silver, Estate, Gold
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Estate on bottom of deck
+Titandrake - plays Warehouse
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Conspirator, Pearl Diver
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Pearl Diver
+Titandrake - draws Moneylender
+Titandrake - places Estate on bottom of deck
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Council Room
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate
+florrat - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Estate, Council Room, Estate, Conspirator, Pearl Diver
+ 
+---------- florrat: turn 8 ----------
+florrat - plays 3 Copper, 1 Silver, 1 Gold
+florrat - buys Province
+florrat - gains Province
+florrat - shuffles deck
+florrat - draws Copper, Silver, Copper, Copper, Province
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Conspirator on bottom of deck
+Titandrake - plays Conspirator
+Titandrake - plays Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Estate, Moneylender, Copper, Warehouse, Warehouse
+ 
+---------- florrat: turn 9 ----------
+florrat - plays 3 Copper, 1 Silver
+florrat - buys Council Room
+florrat - gains Council Room
+florrat - draws Estate, Gold, Estate, Gold, Moneylender
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Conspirator, Copper, Pearl Diver
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Conspirator on top of deck
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Sage, Conspirator, Copper, Council Room, Estate
+ 
+---------- florrat: turn 10 ----------
+florrat - plays 2 Gold
+florrat - buys Gold
+florrat - gains Gold
+florrat - draws Silver, Copper, Province, Estate, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Pearl Diver, Warehouse
+Titandrake - places Warehouse in hand
+Titandrake - discards Pearl Diver
+Titandrake - plays Warehouse
+Titandrake - draws Moneylender, Pearl Diver, Copper
+Titandrake - discards Estate
+Titandrake - discards Moneylender
+Titandrake - discards Copper
+Titandrake - plays Pearl Diver
+Titandrake - draws Conspirator
+Titandrake - places Province on bottom of deck
+Titandrake - plays Conspirator
+Titandrake - draws Estate
+Titandrake - plays Conspirator
+Titandrake - draws Warehouse
+Titandrake - plays Warehouse
+Titandrake - draws Conspirator, Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Council Room
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Pearl Diver, Warehouse, Moneylender
+ 
+---------- florrat: turn 11 ----------
+florrat - plays 2 Copper, 1 Silver
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Council Room, Copper
+florrat - shuffles deck
+florrat - draws Copper, Moneylender, Council Room
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Conspirator
+Titandrake - places Estate on bottom of deck
+Titandrake - plays Warehouse
+Titandrake - draws Sage, Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Moneylender
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Council Room
+Titandrake - places Council Room in hand
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays 2 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Province, Pearl Diver, Warehouse, Conspirator, Conspirator
+ 
+---------- florrat: turn 12 ----------
+florrat - plays Council Room
+florrat - draws Copper, Silver, Silver, Gold
+Titandrake - draws Estate
+florrat - plays 3 Copper, 2 Silver, 1 Gold
+florrat - buys Province
+florrat - gains Province
+florrat - draws Estate, Estate, Estate, Gold, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - places Conspirator on top of deck
+Titandrake - plays Warehouse
+Titandrake - draws Conspirator, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - plays Conspirator
+Titandrake - draws Sage
+Titandrake - plays Conspirator
+Titandrake - draws Estate
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Sage
+Titandrake - reveals Warehouse
+Titandrake - places Warehouse in hand
+Titandrake - plays Warehouse
+Titandrake - draws Conspirator, Council Room, Moneylender
+Titandrake - discards Estate
+Titandrake - discards Council Room
+Titandrake - discards Copper
+Titandrake - plays Conspirator
+Titandrake - draws Pearl Diver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Conspirator, Conspirator, Warehouse, Sage
+ 
+---------- florrat: turn 13 ----------
+florrat - plays 1 Gold, 1 Silver
+florrat - buys Duchy
+florrat - gains Duchy
+florrat - draws Gold, Copper, Province, Copper, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Moneylender
+Titandrake - places Moneylender in hand
+Titandrake - discards Copper
+Titandrake - plays Warehouse
+Titandrake - draws Council Room, Estate, Province
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Pearl Diver, Conspirator, Estate, Copper, Pearl Diver
+ 
+---------- florrat: turn 14 ----------
+florrat - plays 2 Copper, 1 Gold
+florrat - buys Duchy
+florrat - gains Duchy
+florrat - draws Copper
+florrat - shuffles deck
+florrat - draws Province, Council Room, Province, Council Room
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Warehouse
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Conspirator, 2 Warehouse, 1 Pearl Diver, 1 Sage, 1 Moneylender, 1 Council Room, 2 Copper, 1 Gold, 3 Province, 2 Estate
+Titandrake - total victory points: 20
+Titandrake - turns: 13
+ 
+florrat - resigned
+florrat - cards: 2 Council Room, 1 Moneylender, 6 Copper, 3 Gold, 3 Silver, 3 Province, 3 Estate, 2 Duchy
+florrat - total victory points: 27
+florrat - turns: 14
+ 
+1st place: Titandrake
+2nd place: florrat
+ 

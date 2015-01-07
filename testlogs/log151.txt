@@ -1,0 +1,336 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Stonemason, Vagrant, Fishing Village, Loan, Scheme, JackOfAllTrades, Trader, Border Village, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+PeraPeraPrv - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+PeraPeraPrv - shuffles deck
+Titandrake - shuffles deck
+PeraPeraPrv - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- PeraPeraPrv: turn 1 ----------
+PeraPeraPrv - plays 3 Copper
+PeraPeraPrv - buys Loan
+PeraPeraPrv - gains Loan
+PeraPeraPrv - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Loan, Copper
+ 
+---------- PeraPeraPrv: turn 2 ----------
+PeraPeraPrv - plays 4 Copper
+PeraPeraPrv - buys JackOfAllTrades
+PeraPeraPrv - gains JackOfAllTrades
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Estate, Loan, JackOfAllTrades, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws JackOfAllTrades, Copper, Copper, Copper, Copper
+ 
+---------- PeraPeraPrv: turn 3 ----------
+PeraPeraPrv - plays JackOfAllTrades
+PeraPeraPrv - gains Silver
+PeraPeraPrv - discards Copper
+PeraPeraPrv - trashes Estate
+PeraPeraPrv - plays 2 Copper
+PeraPeraPrv - plays Loan
+PeraPeraPrv - reveals Copper
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - buys Fishing Village
+PeraPeraPrv - gains Fishing Village
+PeraPeraPrv - draws Copper, Copper, Copper, Estate
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Loan
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Estate on top of deck
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Loan, JackOfAllTrades, Copper, Silver, Copper
+ 
+---------- PeraPeraPrv: turn 4 ----------
+PeraPeraPrv - plays 3 Copper
+PeraPeraPrv - plays Loan
+PeraPeraPrv - reveals JackOfAllTrades, Estate, Copper
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - discards: JackOfAllTrades, Estate
+PeraPeraPrv - buys Fishing Village
+PeraPeraPrv - gains Fishing Village
+PeraPeraPrv - draws Copper, Fishing Village, Silver, Copper
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Estate on top of deck
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Copper, Fishing Village, Fishing Village, Copper, Estate
+ 
+---------- PeraPeraPrv: turn 5 ----------
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays 3 Copper, 1 Silver
+PeraPeraPrv - buys Border Village
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Fishing Village
+PeraPeraPrv - draws JackOfAllTrades, Loan, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, JackOfAllTrades
+ 
+---------- PeraPeraPrv: turn 6 ----------
+PeraPeraPrv - duration Fishing Village
+PeraPeraPrv - plays JackOfAllTrades
+PeraPeraPrv - gains Silver
+PeraPeraPrv - places Fishing Village on top of deck
+PeraPeraPrv - trashes Estate
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays 2 Copper
+PeraPeraPrv - plays Loan
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - reveals Estate, Border Village, Silver
+PeraPeraPrv - discards Silver
+PeraPeraPrv - discards: Estate, Border Village
+PeraPeraPrv - buys Stonemason
+PeraPeraPrv - overpays for Stonemason with 3 coins
+PeraPeraPrv - gains Fishing Village
+PeraPeraPrv - gains Fishing Village
+PeraPeraPrv - gains Stonemason
+PeraPeraPrv - draws Silver, Copper, Fishing Village, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Loan on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Loan
+Titandrake - reveals Scheme, Copper
+Titandrake - trashes Copper
+Titandrake - discards Scheme
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws JackOfAllTrades, Estate, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- PeraPeraPrv: turn 7 ----------
+PeraPeraPrv - duration Fishing Village
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays 3 Copper, 1 Silver
+PeraPeraPrv - buys Expand
+PeraPeraPrv - gains Expand
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Copper, Fishing Village, Silver, Border Village, Fishing Village
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Province
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Scheme, Silver, Fishing Village, Copper
+ 
+---------- PeraPeraPrv: turn 8 ----------
+PeraPeraPrv - duration Fishing Village
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Copper
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays 2 Copper, 1 Silver
+PeraPeraPrv - buys Border Village
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Fishing Village
+PeraPeraPrv - draws Copper, Expand, Stonemason, Copper, Loan
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scheme
+Titandrake - draws JackOfAllTrades
+Titandrake - plays Fishing Village
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Loan on top of deck
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - plays Loan
+Titandrake - shuffles deck
+Titandrake - reveals Silver
+Titandrake - discards Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: JackOfAllTrades
+Titandrake - draws JackOfAllTrades, Province, Silver, Fishing Village, Copper
+ 
+---------- PeraPeraPrv: turn 9 ----------
+PeraPeraPrv - duration Fishing Village
+PeraPeraPrv - duration Fishing Village
+PeraPeraPrv - plays Expand
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - gains Fool's Gold
+PeraPeraPrv - plays Stonemason
+PeraPeraPrv - trashes Loan
+PeraPeraPrv - gains Fool's Gold
+PeraPeraPrv - gains Fool's Gold
+PeraPeraPrv - plays Copper
+PeraPeraPrv - buys Fool's Gold
+PeraPeraPrv - gains Fool's Gold
+PeraPeraPrv - draws Fishing Village, JackOfAllTrades, Silver, Fishing Village, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province, Province, Copper, Silver
+ 
+---------- PeraPeraPrv: turn 10 ----------
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays JackOfAllTrades
+PeraPeraPrv - gains Silver
+PeraPeraPrv - discards Copper
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Silver
+PeraPeraPrv - plays 2 Silver, 2 Fool's Gold
+PeraPeraPrv - buys Province
+PeraPeraPrv - gains Province
+PeraPeraPrv - draws Copper, Copper, Copper, Stonemason, Expand
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 3 coins
+Titandrake - gains Fishing Village
+Titandrake - gains Scheme
+Titandrake - gains Stonemason
+Titandrake - draws Silver, JackOfAllTrades, Copper, Loan, Fishing Village
+ 
+---------- PeraPeraPrv: turn 11 ----------
+PeraPeraPrv - duration Fishing Village
+PeraPeraPrv - duration Fishing Village
+PeraPeraPrv - plays Expand
+PeraPeraPrv - trashes Stonemason
+PeraPeraPrv - gains Duchy
+PeraPeraPrv - plays 3 Copper
+PeraPeraPrv - buys Duchy
+PeraPeraPrv - gains Duchy
+PeraPeraPrv - draws Fishing Village, Fishing Village, Copper, Fool's Gold, Border Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Province
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Scheme, Silver, Copper, Silver, Silver
+ 
+---------- PeraPeraPrv: turn 12 ----------
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Fool's Gold
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays 2 Fool's Gold, 1 Copper
+PeraPeraPrv - buys Province
+PeraPeraPrv - gains Province
+PeraPeraPrv - draws Fishing Village, Silver, Fishing Village
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Fishing Village, Fool's Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+PeraPeraPrv - trashes Fool's Gold
+PeraPeraPrv - gains Gold
+Titandrake - Scheme choice: Fishing Village
+Titandrake - draws Fishing Village, JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Stonemason
+ 
+---------- PeraPeraPrv: turn 13 ----------
+PeraPeraPrv - duration Fishing Village
+PeraPeraPrv - duration Fishing Village
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays Fishing Village
+PeraPeraPrv - plays 1 Silver
+PeraPeraPrv - buys Border Village
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Duchy
+PeraPeraPrv - draws Gold, Copper, Province, JackOfAllTrades, Fool's Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Stonemason
+Titandrake - trashes Copper
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Copper, Copper, Province, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Fishing Village, 2 JackOfAllTrades, 2 Scheme, 10 Silver, 1 Stonemason, 3 Copper, 1 Loan, 6 Province
+Titandrake - total victory points: 36
+Titandrake - turns: 14
+ 
+PeraPeraPrv - cards: 6 Fishing Village, 3 Border Village, 1 JackOfAllTrades, 1 Expand, 4 Copper, 3 Fool's Gold, 3 Silver, 1 Gold, 3 Duchy, 2 Province, 1 Estate
+PeraPeraPrv - total victory points: 22
+PeraPeraPrv - turns: 13
+ 
+1st place: Titandrake
+2nd place: PeraPeraPrv
+ 

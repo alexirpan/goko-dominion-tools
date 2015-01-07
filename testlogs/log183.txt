@@ -1,0 +1,521 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Chancellor, Caravan, Horse Traders, Throne Room, Baker, Festival, Market, Rebuild, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Pinot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Pinot - shuffles deck
+Titandrake - shuffles deck
+Pinot - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Pinot: turn 1 ----------
+Pinot - plays 3 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Pinot: turn 2 ----------
+Pinot - plays 4 Copper
+Pinot - uses 1 coin token
+Pinot - buys Rebuild
+Pinot - gains Rebuild
+Pinot - shuffles deck
+Pinot - draws Copper, Estate, Rebuild, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Baker, Chapel, Estate
+ 
+---------- Pinot: turn 3 ----------
+Pinot - plays Rebuild
+Pinot - names Duchy
+Pinot - reveals Silver, Estate
+Pinot - discards Silver
+Pinot - trashes Estate
+Pinot - gains Duchy
+Pinot - buys Copper
+Pinot - gains Copper
+Pinot - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Pinot: turn 4 ----------
+Pinot - plays 5 Copper
+Pinot - buys Rebuild
+Pinot - gains Rebuild
+Pinot - shuffles deck
+Pinot - draws Rebuild, Silver, Copper, Copper, Duchy
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Estate, Copper, Throne Room
+ 
+---------- Pinot: turn 5 ----------
+Pinot - plays Rebuild
+Pinot - names Duchy
+Pinot - reveals Estate
+Pinot - trashes Estate
+Pinot - gains Duchy
+Pinot - plays 2 Copper, 1 Silver
+Pinot - buys Caravan
+Pinot - gains Caravan
+Pinot - draws Rebuild, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Baker
+Titandrake - shuffles deck
+Titandrake - draws Throne Room
+ 
+---------- Pinot: turn 6 ----------
+Pinot - plays Rebuild
+Pinot - names Duchy
+Pinot - reveals Copper, Estate
+Pinot - discards Copper
+Pinot - trashes Estate
+Pinot - gains Duchy
+Pinot - plays 4 Copper
+Pinot - buys Estate
+Pinot - gains Estate
+Pinot - draws Copper
+Pinot - shuffles deck
+Pinot - draws Estate, Duchy, Caravan, Duchy
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Chapel
+Titandrake - plays Chapel
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Baker, Copper, Market, Copper, Copper
+ 
+---------- Pinot: turn 7 ----------
+Pinot - plays Caravan
+Pinot - draws Copper
+Pinot - plays 2 Copper
+Pinot - buys Copper
+Pinot - gains Copper
+Pinot - draws Rebuild, Copper, Copper, Rebuild, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Market
+Titandrake - draws Chapel
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Market, Throne Room, Copper, Copper, Copper
+ 
+---------- Pinot: turn 8 ----------
+Pinot - duration Caravan
+Pinot - draws Copper
+Pinot - plays Rebuild
+Pinot - names Duchy
+Pinot - shuffles deck
+Pinot - reveals Duchy, Copper, Silver, Copper, Copper, Copper, Duchy, Duchy, Estate
+Pinot - discards: Duchy, Copper, Silver, Copper, Copper, Copper, Duchy, Duchy
+Pinot - trashes Estate
+Pinot - gains Duchy
+Pinot - plays Rebuild
+Pinot - names Province
+Pinot - shuffles deck
+Pinot - reveals Copper, Copper, Silver, Copper, Duchy
+Pinot - discards: Copper, Copper, Silver, Copper
+Pinot - trashes Duchy
+Pinot - gains Province
+Pinot - plays 4 Copper
+Pinot - buys Estate
+Pinot - gains Estate
+Pinot - draws Duchy, Duchy, Duchy, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Chapel
+Titandrake - plays Market
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - shuffles deck
+Titandrake - draws Baker, Market, Copper, Copper, Market
+ 
+---------- Pinot: turn 9 ----------
+Pinot - plays 2 Copper
+Pinot - buys Copper
+Pinot - gains Copper
+Pinot - shuffles deck
+Pinot - draws Duchy, Copper, Copper, Rebuild, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Market
+Titandrake - draws Baker
+Titandrake - plays Market
+Titandrake - draws Chapel
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - shuffles deck
+Titandrake - draws Copper, Baker, Throne Room, Chapel, Copper
+ 
+---------- Pinot: turn 10 ----------
+Pinot - plays Rebuild
+Pinot - names Province
+Pinot - reveals Copper, Copper, Province, Duchy
+Pinot - discards: Copper, Copper, Province
+Pinot - trashes Duchy
+Pinot - gains Province
+Pinot - plays 3 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Silver, Copper, Copper, Copper, Caravan
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Market
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 5 coin tokens
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - shuffles deck
+Titandrake - draws Baker, Baker, Chapel, Baker, Throne Room
+ 
+---------- Pinot: turn 11 ----------
+Pinot - plays Caravan
+Pinot - draws Copper
+Pinot - plays 4 Copper, 1 Silver
+Pinot - buys Rebuild
+Pinot - gains Rebuild
+Pinot - draws Estate, Rebuild, Duchy, Copper
+Pinot - shuffles deck
+Pinot - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Market
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Market
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - plays Market
+Titandrake - plays 2 Copper
+Titandrake - uses 4 coin tokens
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - shuffles deck
+Titandrake - draws Market, Copper, Copper, Baker, Market
+ 
+---------- Pinot: turn 12 ----------
+Pinot - duration Caravan
+Pinot - draws Copper
+Pinot - plays Rebuild
+Pinot - names Province
+Pinot - reveals Rebuild, Rebuild, Copper, Province, Duchy
+Pinot - discards: Rebuild, Rebuild, Copper, Province
+Pinot - trashes Duchy
+Pinot - gains Province
+Pinot - plays 3 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Copper, Silver, Copper, Province, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Market
+Titandrake - draws Throne Room
+Titandrake - plays Market
+Titandrake - draws Baker
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Chapel
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Baker, Baker, Baker, Baker, Copper
+ 
+---------- Pinot: turn 13 ----------
+Pinot - plays 3 Copper, 1 Silver
+Pinot - buys Rebuild
+Pinot - gains Rebuild
+Pinot - draws Silver, Copper, Copper, Copper
+Pinot - shuffles deck
+Pinot - draws Rebuild
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Chapel
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Market
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Throne Room
+Titandrake - plays Market
+Titandrake - plays 2 Copper
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - shuffles deck
+Titandrake - draws Copper, Throne Room, Throne Room, Baker, Market
+ 
+---------- Pinot: turn 14 ----------
+Pinot - plays Rebuild
+Pinot - names Province
+Pinot - reveals Estate
+Pinot - trashes Estate
+Pinot - gains Duchy
+Pinot - plays 3 Copper, 1 Silver
+Pinot - buys Duchy
+Pinot - gains Duchy
+Pinot - draws Copper, Copper, Silver, Rebuild, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Chapel
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Baker, Throne Room, Baker, Market, Copper
+ 
+---------- Pinot: turn 15 ----------
+Pinot - plays Rebuild
+Pinot - names Province
+Pinot - reveals Copper, Silver, Copper, Copper, Caravan, Province, Rebuild, Province, Rebuild, Copper, Duchy
+Pinot - discards: Copper, Silver, Copper, Copper, Caravan, Province, Rebuild, Province, Rebuild, Copper
+Pinot - trashes Duchy
+Pinot - gains Province
+Pinot - plays 3 Copper, 1 Silver
+Pinot - buys Duchy
+Pinot - gains Duchy
+Pinot - draws Province
+Pinot - shuffles deck
+Pinot - draws Rebuild, Duchy, Silver, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Market
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Chapel
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Throne Room
+Titandrake - plays Market
+Titandrake - draws Baker
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Market
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays Market
+Titandrake - plays 2 Copper
+Titandrake - uses 35 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Throne Room, Throne Room, Province, Baker, Chapel
+ 
+------------ Game Over ------------
+Pinot - cards: 4 Rebuild, 10 Copper, 1 Caravan, 3 Silver, 4 Province, 3 Duchy
+Pinot - total victory points: 33
+Pinot - turns: 15
+ 
+Titandrake - cards: 6 Baker, 4 Throne Room, 3 Market, 1 Chapel, 2 Copper, 4 Province, 1 Estate, 1 Duchy
+Titandrake - total victory points: 28
+Titandrake - turns: 15
+ 
+1st place: Pinot
+2nd place: Titandrake
+ 

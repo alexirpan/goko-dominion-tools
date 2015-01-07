@@ -1,0 +1,451 @@
+------------ Game Setup ------------
+Supply cards: Swindler, Wishing Well, Fortress, Militia, Golem, Duke, Soothsayer, Stables, Vault, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+The Imp - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+The Imp - shuffles deck
+Titandrake - shuffles deck
+The Imp - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- The Imp: turn 1 ----------
+The Imp - plays 3 Copper
+The Imp - buys Swindler
+The Imp - gains Swindler
+The Imp - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- The Imp: turn 2 ----------
+The Imp - plays 4 Copper
+The Imp - buys Fortress
+The Imp - gains Fortress
+The Imp - shuffles deck
+The Imp - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- The Imp: turn 3 ----------
+The Imp - plays 4 Copper
+The Imp - buys Fortress
+The Imp - gains Fortress
+The Imp - draws Fortress, Copper, Swindler, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Swindler, Copper, Silver, Copper
+ 
+---------- The Imp: turn 4 ----------
+The Imp - plays Fortress
+The Imp - draws Copper
+The Imp - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+The Imp - plays 2 Copper
+The Imp - buys Fortress
+The Imp - gains Fortress
+The Imp - draws Copper
+The Imp - shuffles deck
+The Imp - draws Fortress, Estate, Fortress, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Swindler
+The Imp - reveals Copper
+The Imp - trashes Copper
+The Imp - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Swindler, Copper, Copper
+ 
+---------- The Imp: turn 5 ----------
+The Imp - plays Fortress
+The Imp - draws Fortress
+The Imp - plays Fortress
+The Imp - draws Copper
+The Imp - plays Fortress
+The Imp - draws Copper
+The Imp - plays 3 Copper
+The Imp - buys Swindler
+The Imp - gains Swindler
+The Imp - draws Copper, Copper, Copper, Swindler, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Swindler
+The Imp - shuffles deck
+The Imp - reveals Estate
+The Imp - trashes Estate
+The Imp - gains Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - draws Estate, Copper, Copper, Silver, Soothsayer
+ 
+---------- The Imp: turn 6 ----------
+The Imp - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+The Imp - plays 3 Copper
+The Imp - buys Soothsayer
+The Imp - gains Soothsayer
+The Imp - draws Copper, Fortress, Swindler, Fortress, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+The Imp - gains Curse
+The Imp - draws Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate
+ 
+---------- The Imp: turn 7 ----------
+The Imp - plays Fortress
+The Imp - draws Fortress
+The Imp - plays Fortress
+The Imp - draws Copper
+The Imp - plays Fortress
+The Imp - draws Copper
+The Imp - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+The Imp - plays 3 Copper
+The Imp - buys Vault
+The Imp - gains Vault
+The Imp - shuffles deck
+The Imp - draws Soothsayer, Swindler, Vault, Curse, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - draws Copper, Swindler, Copper, Copper, Hoard
+ 
+---------- The Imp: turn 8 ----------
+The Imp - plays Soothsayer
+The Imp - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Soothsayer
+The Imp - draws Copper, Estate, Fortress, Curse, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+The Imp - gains Curse
+The Imp - draws Swindler
+Titandrake - plays 3 Copper
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Silver, Militia, Copper, Silver, Gold
+ 
+---------- The Imp: turn 9 ----------
+The Imp - plays Fortress
+The Imp - draws Copper
+The Imp - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+The Imp - plays 3 Copper
+The Imp - buys Duchy
+The Imp - gains Duchy
+The Imp - draws Estate, Fortress, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Militia
+The Imp - discards Estate
+The Imp - discards Estate
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Duchy, Estate, Hoard, Copper, Copper
+ 
+---------- The Imp: turn 10 ----------
+The Imp - plays Fortress
+The Imp - draws Fortress
+The Imp - plays Fortress
+The Imp - shuffles deck
+The Imp - draws Curse
+The Imp - plays 2 Copper
+The Imp - draws Estate, Swindler, Estate, Copper, Fortress
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hoard
+Titandrake - buys Estate
+Titandrake - gains Gold
+Titandrake - gains Estate
+Titandrake - draws Copper, Gold, Soothsayer, Curse, Copper
+ 
+---------- The Imp: turn 11 ----------
+The Imp - plays Fortress
+The Imp - draws Curse
+The Imp - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+The Imp - plays 1 Copper
+The Imp - buys Wishing Well
+The Imp - gains Wishing Well
+The Imp - draws Swindler, Gold, Duchy, Copper, Soothsayer
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+The Imp - gains Curse
+The Imp - draws Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Swindler, Gold, Curse, Estate
+Titandrake - shuffles deck
+Titandrake - draws Hoard
+ 
+---------- The Imp: turn 12 ----------
+The Imp - plays Swindler
+Titandrake - reveals Soothsayer
+Titandrake - trashes Soothsayer
+Titandrake - gains Vault
+The Imp - plays 1 Gold, 1 Copper
+The Imp - buys Hoard
+The Imp - gains Hoard
+The Imp - draws Estate, Copper, Vault, Copper
+The Imp - shuffles deck
+The Imp - draws Wishing Well
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Swindler
+The Imp - reveals Hoard
+The Imp - trashes Hoard
+The Imp - gains Gold
+Titandrake - plays 1 Gold
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Copper, Copper, Militia
+ 
+---------- The Imp: turn 13 ----------
+The Imp - plays Wishing Well
+The Imp - draws Gold
+The Imp - names Fortress
+The Imp - reveals Curse
+The Imp - plays Vault
+The Imp - draws Curse, Copper
+The Imp - discards Estate
+The Imp - discards Curse
+The Imp - plays 3 Copper, 1 Gold
+The Imp - buys Province
+The Imp - gains Province
+The Imp - draws Curse, Estate, Swindler, Curse, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Militia
+The Imp - discards Estate
+The Imp - discards Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Gold, Silver, Silver, Gold
+ 
+---------- The Imp: turn 14 ----------
+The Imp - plays Swindler
+Titandrake - reveals Curse
+Titandrake - trashes Curse
+Titandrake - gains Curse
+The Imp - plays Copper
+The Imp - buys Wishing Well
+The Imp - gains Wishing Well
+The Imp - draws Swindler, Fortress, Curse, Copper, Duchy
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Gold, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Province, Copper, Gold, Duchy
+ 
+---------- The Imp: turn 15 ----------
+The Imp - plays Fortress
+The Imp - draws Fortress
+The Imp - plays Fortress
+The Imp - draws Fortress
+The Imp - plays Fortress
+The Imp - draws Estate
+The Imp - plays Swindler
+Titandrake - reveals Gold
+Titandrake - trashes Gold
+Titandrake - gains Hoard
+The Imp - plays 1 Copper
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - draws Copper, Soothsayer
+The Imp - shuffles deck
+The Imp - draws Fortress, Copper, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Copper, Estate, Curse
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Gold
+ 
+---------- The Imp: turn 16 ----------
+The Imp - plays Fortress
+The Imp - draws Gold
+The Imp - plays Soothsayer
+The Imp - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Estate
+The Imp - plays 2 Copper, 1 Gold
+The Imp - buys Duchy
+The Imp - gains Duchy
+The Imp - draws Estate, Curse, Estate, Duchy, Fortress
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, Gold, Curse, Duchy, Hoard
+ 
+---------- The Imp: turn 17 ----------
+The Imp - plays Fortress
+The Imp - draws Wishing Well
+The Imp - plays Wishing Well
+The Imp - draws Fortress
+The Imp - names Silver
+The Imp - reveals Curse
+The Imp - plays Fortress
+The Imp - draws Curse
+The Imp - draws Copper, Wishing Well, Curse, Copper, Swindler
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Gold
+Titandrake - plays Hoard
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Gold, Duchy, Vault, Swindler, Province
+ 
+---------- The Imp: turn 18 ----------
+The Imp - plays Wishing Well
+The Imp - draws Silver
+The Imp - names Copper
+The Imp - reveals Province
+The Imp - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+The Imp - plays 2 Copper, 1 Silver
+The Imp - buys Duchy
+The Imp - gains Duchy
+The Imp - draws Province, Vault, Curse, Copper, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Vault
+Titandrake - draws Copper, Gold
+Titandrake - discards Duchy
+Titandrake - discards Province
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Militia, Estate, Copper, Estate, Province
+ 
+---------- The Imp: turn 19 ----------
+The Imp - plays Vault
+The Imp - draws Copper, Swindler
+The Imp - discards Province
+The Imp - discards Curse
+The Imp - discards Swindler
+Titandrake - discards Estate
+Titandrake - discards Estate
+The Imp - plays 2 Copper, 1 Gold
+The Imp - buys Province
+The Imp - gains Province
+The Imp - shuffles deck
+The Imp - draws Gold, Gold, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Militia
+The Imp - discards Copper
+The Imp - discards Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Hoard, Curse, Militia, Silver
+ 
+---------- The Imp: turn 20 ----------
+The Imp - plays 3 Gold
+The Imp - buys Province
+The Imp - gains Province
+The Imp - draws Curse, Duchy, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Militia
+The Imp - discards Duchy
+The Imp - discards Curse
+Titandrake - plays Hoard
+Titandrake - plays Copper
+Titandrake - buys Duke
+Titandrake - gains Gold
+Titandrake - gains Duke
+Titandrake - draws Duchy
+Titandrake - shuffles deck
+Titandrake - draws Province, Gold, Estate, Estate
+ 
+---------- The Imp: turn 21 ----------
+The Imp - plays Silver
+The Imp - buys Estate
+The Imp - gains Estate
+The Imp - draws Estate, Duchy, Swindler, Wishing Well, Fortress
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Duchy, Curse, Silver, Copper
+ 
+---------- The Imp: turn 22 ----------
+The Imp - plays Fortress
+The Imp - draws Curse
+The Imp - plays Wishing Well
+The Imp - draws Province
+The Imp - names Gold
+The Imp - reveals Soothsayer
+The Imp - plays Swindler
+Titandrake - reveals Curse
+Titandrake - trashes Curse
+Titandrake - gains Copper
+The Imp - buys Estate
+The Imp - gains Estate
+The Imp - draws Soothsayer, Curse, Copper, Fortress, Swindler
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Militia, 1 Swindler, 1 Vault, 7 Gold, 5 Copper, 3 Silver, 2 Hoard, 5 Duchy, 5 Estate, 4 Province, 1 Duke, 4 Curse
+Titandrake - total victory points: 45
+Titandrake - turns: 21
+ 
+The Imp - cards: 3 Fortress, 2 Swindler, 2 Wishing Well, 1 Soothsayer, 1 Vault, 6 Copper, 3 Gold, 1 Silver, 5 Estate, 3 Province, 3 Duchy, 4 Curse
+The Imp - total victory points: 28
+The Imp - turns: 22
+ 
+1st place: Titandrake
+2nd place: The Imp
+ 

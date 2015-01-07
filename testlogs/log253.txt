@@ -1,0 +1,798 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Pearl Diver, Trade Route, Familiar, Militia, Graverobber, Minion, Border Village, Harem, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Skullclamp - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Skullclamp - shuffles deck
+Titandrake - shuffles deck
+Skullclamp - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Skullclamp: turn 1 ----------
+Skullclamp - plays 3 Copper
+Skullclamp - buys Silver
+Skullclamp - gains Silver
+Skullclamp - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Skullclamp: turn 2 ----------
+Skullclamp - plays 4 Copper
+Skullclamp - buys Potion
+Skullclamp - gains Potion
+Skullclamp - shuffles deck
+Skullclamp - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper, Estate, Copper, Potion, Silver
+ 
+---------- Skullclamp: turn 3 ----------
+Skullclamp - plays 3 Copper
+Skullclamp - buys Trade Route
+Skullclamp - gains Trade Route
+Skullclamp - draws Potion, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver
+ 
+---------- Skullclamp: turn 4 ----------
+Skullclamp - plays 3 Copper, 1 Potion, 1 Silver
+Skullclamp - buys Familiar
+Skullclamp - gains Familiar
+Skullclamp - draws Estate, Copper
+Skullclamp - shuffles deck
+Skullclamp - draws Estate, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper, Estate, Copper, Trade Route, Familiar
+ 
+---------- Skullclamp: turn 5 ----------
+Skullclamp - plays 2 Copper
+Skullclamp - buys Pearl Diver
+Skullclamp - gains Pearl Diver
+Skullclamp - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Familiar
+Titandrake - draws Potion
+Skullclamp - gains Curse
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Trade Route, Estate
+ 
+---------- Skullclamp: turn 6 ----------
+Skullclamp - plays 4 Copper, 1 Silver
+Skullclamp - buys Border Village
+Skullclamp - gains Border Village
+Skullclamp - gains Minion
+Skullclamp - draws Familiar, Potion, Copper, Trade Route
+Skullclamp - shuffles deck
+Skullclamp - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Copper, Potion, Copper, Pearl Diver, Minion
+ 
+---------- Skullclamp: turn 7 ----------
+Skullclamp - plays Familiar
+Skullclamp - draws Silver
+Titandrake - gains Curse
+Skullclamp - plays Trade Route
+Skullclamp - trashes Copper
+Skullclamp - plays 1 Potion, 1 Copper, 1 Silver
+Skullclamp - buys Familiar
+Skullclamp - gains Familiar
+Skullclamp - draws Estate, Curse, Pearl Diver, Copper, Border Village
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Copper on bottom of deck
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Silver, Copper, Familiar, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Skullclamp: turn 8 ----------
+Skullclamp - plays Pearl Diver
+Skullclamp - draws Minion
+Skullclamp - places Estate on bottom of deck
+Skullclamp - plays Border Village
+Skullclamp - draws Copper
+Skullclamp - plays Minion
+Skullclamp - discards: Estate, Curse, Copper, Copper
+Skullclamp - draws Copper, Copper, Copper, Estate
+Titandrake - discards: Silver, Copper, Familiar, Copper, Estate
+Titandrake - draws Copper, Trade Route, Pearl Diver, Copper
+Skullclamp - plays 3 Copper
+Skullclamp - buys Peddler
+Skullclamp - gains Peddler
+Skullclamp - draws Estate
+Skullclamp - shuffles deck
+Skullclamp - draws Estate, Border Village, Minion, Trade Route
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Minion
+Titandrake - places Pearl Diver on top of deck
+Titandrake - plays Minion
+Titandrake - discards: Copper, Trade Route, Copper
+Titandrake - draws Pearl Diver, Curse, Copper, Copper
+Skullclamp - discards: Estate, Estate, Border Village, Minion, Trade Route
+Skullclamp - draws Peddler, Copper, Copper, Silver
+Titandrake - plays Pearl Diver
+Titandrake - draws Potion
+Titandrake - places Familiar on top of deck
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Familiar, Copper
+Titandrake - shuffles deck
+Titandrake - draws Trade Route, Pearl Diver, Curse
+ 
+---------- Skullclamp: turn 9 ----------
+Skullclamp - plays Peddler
+Skullclamp - draws Pearl Diver
+Skullclamp - plays Pearl Diver
+Skullclamp - draws Copper
+Skullclamp - places Estate on bottom of deck
+Skullclamp - plays 3 Copper, 1 Silver
+Skullclamp - buys Border Village
+Skullclamp - gains Border Village
+Skullclamp - gains Minion
+Skullclamp - draws Copper, Curse, Familiar, Copper, Familiar
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Familiar
+Titandrake - draws Minion
+Skullclamp - gains Curse
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Potion, Peddler, Copper, Copper
+ 
+---------- Skullclamp: turn 10 ----------
+Skullclamp - plays Familiar
+Skullclamp - draws Potion
+Titandrake - gains Curse
+Skullclamp - plays Familiar
+Skullclamp - draws Copper
+Titandrake - gains Curse
+Skullclamp - plays 3 Copper, 1 Potion
+Skullclamp - buys Familiar
+Skullclamp - gains Familiar
+Skullclamp - draws Estate
+Skullclamp - shuffles deck
+Skullclamp - draws Copper, Familiar, Estate, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Peddler
+Titandrake - draws Familiar
+Titandrake - plays Familiar
+Titandrake - draws Pearl Diver
+Skullclamp - gains Curse
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Copper on bottom of deck
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Silver, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Potion, Minion
+ 
+---------- Skullclamp: turn 11 ----------
+Skullclamp - plays Familiar
+Skullclamp - draws Curse
+Titandrake - gains Curse
+Skullclamp - plays 1 Copper
+Skullclamp - draws Minion, Copper, Copper, Copper, Familiar
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Minion
+Titandrake - discards: Silver, Estate, Copper, Potion
+Titandrake - draws Trade Route, Copper, Peddler, Pearl Diver
+Skullclamp - discards: Minion, Copper, Copper, Copper, Familiar
+Skullclamp - draws Border Village, Border Village, Copper, Curse
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Curse on top of deck
+Titandrake - plays Peddler
+Titandrake - draws Curse
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Curse, Copper, Minion, Familiar, Copper
+ 
+---------- Skullclamp: turn 12 ----------
+Skullclamp - plays Border Village
+Skullclamp - draws Minion
+Skullclamp - plays Border Village
+Skullclamp - draws Familiar
+Skullclamp - plays Familiar
+Skullclamp - draws Potion
+Titandrake - gains Curse
+Skullclamp - plays Minion
+Skullclamp - discards: Copper, Curse, Potion
+Skullclamp - draws Trade Route, Peddler, Silver, Copper
+Titandrake - discards: Curse, Copper, Minion, Familiar, Copper
+Titandrake - draws Pearl Diver, Copper, Militia, Copper
+Skullclamp - plays Peddler
+Skullclamp - draws Pearl Diver
+Skullclamp - plays Pearl Diver
+Skullclamp - shuffles deck
+Skullclamp - draws Estate
+Skullclamp - places Minion on top of deck
+Skullclamp - plays Trade Route
+Skullclamp - trashes Estate
+Skullclamp - plays 1 Silver, 1 Copper
+Skullclamp - buys Militia
+Skullclamp - gains Militia
+Skullclamp - buys Peddler
+Skullclamp - gains Peddler
+Skullclamp - draws Minion, Estate, Curse, Copper, Potion
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Peddler
+Titandrake - places Familiar on top of deck
+Titandrake - plays Peddler
+Titandrake - draws Familiar
+Titandrake - plays Familiar
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Skullclamp - gains Curse
+Titandrake - plays Militia
+Skullclamp - discards Curse
+Skullclamp - discards Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Graverobber
+Titandrake - draws Copper, Trade Route, Copper, Curse, Peddler
+ 
+---------- Skullclamp: turn 13 ----------
+Skullclamp - plays Minion
+Skullclamp - discards: Copper, Potion
+Skullclamp - draws Familiar, Copper, Estate, Copper
+Titandrake - discards: Copper, Trade Route, Copper, Curse, Peddler
+Titandrake - draws Copper, Minion, Familiar, Curse
+Skullclamp - plays Familiar
+Skullclamp - draws Copper
+Titandrake - gains Curse
+Skullclamp - plays 3 Copper
+Skullclamp - buys Trade Route
+Skullclamp - gains Trade Route
+Skullclamp - draws Copper, Curse, Familiar, Curse
+Skullclamp - shuffles deck
+Skullclamp - draws Potion
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Familiar
+Titandrake - draws Estate
+Titandrake - plays Minion
+Titandrake - discards: Copper, Curse, Estate
+Titandrake - draws Potion, Copper, Peddler, Silver
+Skullclamp - discards: Copper, Curse, Familiar, Curse, Potion
+Skullclamp - draws Minion, Curse, Peddler, Minion
+Titandrake - plays Peddler
+Titandrake - draws Pearl Diver
+Titandrake - plays Pearl Diver
+Titandrake - draws Curse
+Titandrake - places Silver on top of deck
+Titandrake - plays 1 Potion, 1 Copper, 1 Silver
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Silver, Minion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Curse
+ 
+---------- Skullclamp: turn 14 ----------
+Skullclamp - plays Peddler
+Skullclamp - draws Estate
+Skullclamp - plays Minion
+Skullclamp - takes 2 coins
+Skullclamp - plays Minion
+Skullclamp - discards: Curse, Estate
+Skullclamp - draws Copper, Trade Route, Silver, Copper
+Titandrake - discards: Silver, Minion, Copper, Copper, Curse
+Titandrake - draws Curse, Border Village, Copper, Minion
+Skullclamp - plays Trade Route
+Skullclamp - trashes Copper
+Skullclamp - plays 1 Copper, 1 Silver
+Skullclamp - buys Border Village
+Skullclamp - gains Border Village
+Skullclamp - gains Peddler
+Skullclamp - buys Peddler
+Skullclamp - gains Peddler
+Skullclamp - draws Copper, Trade Route, Border Village, Curse, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Border Village
+Titandrake - draws Curse
+Titandrake - plays Minion
+Titandrake - discards: Curse, Copper, Curse
+Titandrake - draws Potion, Silver, Peddler, Pearl Diver
+Skullclamp - discards: Copper, Trade Route, Border Village, Curse, Copper
+Skullclamp - draws Pearl Diver, Militia, Familiar, Familiar
+Titandrake - plays Pearl Diver
+Titandrake - draws Peddler
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Peddler
+Titandrake - draws Familiar
+Titandrake - plays Peddler
+Titandrake - draws Curse
+Titandrake - plays Familiar
+Titandrake - draws Militia
+Titandrake - plays Militia
+Skullclamp - discards Pearl Diver
+Titandrake - plays 1 Potion, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Trade Route
+Titandrake - draws Peddler, Pearl Diver, Copper, Trade Route, Graverobber
+ 
+---------- Skullclamp: turn 15 ----------
+Skullclamp - plays Familiar
+Skullclamp - draws Estate
+Skullclamp - plays Familiar
+Skullclamp - draws Copper
+Skullclamp - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Trade Route
+Skullclamp - plays 1 Copper
+Skullclamp - buys Peddler
+Skullclamp - gains Peddler
+Skullclamp - draws Border Village, Peddler
+Skullclamp - shuffles deck
+Skullclamp - draws Peddler, Minion, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Graverobber
+Titandrake - trashes Peddler
+Titandrake - gains Province
+Titandrake - draws Estate, Familiar, Copper, Peddler, Copper
+ 
+---------- Skullclamp: turn 16 ----------
+Skullclamp - plays Border Village
+Skullclamp - draws Familiar
+Skullclamp - plays Peddler
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Border Village
+Skullclamp - plays Peddler
+Skullclamp - draws Trade Route
+Skullclamp - plays Border Village
+Skullclamp - draws Trade Route
+Skullclamp - plays Familiar
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Copper
+Skullclamp - plays Trade Route
+Skullclamp - trashes Curse
+Skullclamp - plays Trade Route
+Skullclamp - trashes Copper
+Skullclamp - plays Minion
+Skullclamp - draws Silver, Copper, Familiar, Copper
+Titandrake - discards: Estate, Familiar, Copper, Peddler, Copper
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Copper, Minion, Estate
+Skullclamp - plays Familiar
+Skullclamp - draws Familiar
+Skullclamp - plays Familiar
+Skullclamp - draws Curse
+Skullclamp - plays 2 Copper, 1 Silver
+Skullclamp - buys Province
+Skullclamp - gains Province
+Skullclamp - buys Peddler
+Skullclamp - gains Peddler
+Skullclamp - buys Trade Route
+Skullclamp - gains Trade Route
+Skullclamp - draws Pearl Diver, Curse, Estate, Curse, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Border Village
+Titandrake - draws Minion
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Copper, Estate
+Titandrake - draws Curse, Silver, Militia, Copper
+Skullclamp - discards: Pearl Diver, Curse, Estate, Curse, Copper
+Skullclamp - draws Copper, Border Village, Potion, Militia
+Titandrake - plays Militia
+Skullclamp - discards Potion
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Duchy
+Titandrake - draws Familiar, Border Village, Copper, Graverobber, Silver
+ 
+---------- Skullclamp: turn 17 ----------
+Skullclamp - plays Border Village
+Skullclamp - draws Estate
+Skullclamp - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Silver
+Skullclamp - plays 1 Copper
+Skullclamp - buys Silver
+Skullclamp - gains Silver
+Skullclamp - draws Minion
+Skullclamp - shuffles deck
+Skullclamp - draws Trade Route, Peddler, Silver, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Graverobber
+Titandrake - trashes Familiar
+Titandrake - gains Border Village
+Titandrake - gains Duchy
+Titandrake - draws Familiar, Peddler, Potion, Curse, Trade Route
+ 
+---------- Skullclamp: turn 18 ----------
+Skullclamp - plays Peddler
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Copper
+Skullclamp - plays Minion
+Skullclamp - takes 2 coins
+Skullclamp - plays Trade Route
+Skullclamp - trashes Copper
+Skullclamp - plays 1 Silver, 1 Copper
+Skullclamp - buys Province
+Skullclamp - gains Province
+Skullclamp - draws Copper, Border Village, Trade Route, Estate, Familiar
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Familiar
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Curse
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - plays 1 Potion, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Curse, Copper, Peddler, Pearl Diver
+ 
+---------- Skullclamp: turn 19 ----------
+Skullclamp - plays Border Village
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Curse
+Skullclamp - plays Familiar
+Skullclamp - draws Province
+Skullclamp - plays Trade Route
+Skullclamp - trashes Curse
+Skullclamp - plays 1 Copper
+Skullclamp - buys Silver
+Skullclamp - gains Silver
+Skullclamp - draws Border Village, Border Village, Estate, Silver, Curse
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Trade Route
+Titandrake - places Pearl Diver on bottom of deck
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Pearl Diver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Minion, Copper, Copper
+ 
+---------- Skullclamp: turn 20 ----------
+Skullclamp - plays Border Village
+Skullclamp - draws Trade Route
+Skullclamp - plays Border Village
+Skullclamp - draws Pearl Diver
+Skullclamp - plays Trade Route
+Skullclamp - trashes Curse
+Skullclamp - plays Pearl Diver
+Skullclamp - draws Familiar
+Skullclamp - places Potion on bottom of deck
+Skullclamp - plays Familiar
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Familiar
+Skullclamp - plays Familiar
+Skullclamp - draws Curse
+Skullclamp - plays 1 Silver
+Skullclamp - buys Duchy
+Skullclamp - gains Duchy
+Skullclamp - draws Militia, Peddler, Copper, Peddler, Minion
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Estate
+Titandrake - places Peddler on top of deck
+Titandrake - plays Minion
+Titandrake - discards: Copper, Copper, Copper, Estate
+Titandrake - draws Peddler, Pearl Diver, Peddler, Duchy
+Skullclamp - discards: Militia, Peddler, Copper, Peddler, Minion
+Skullclamp - draws Potion
+Skullclamp - shuffles deck
+Skullclamp - draws Estate, Peddler, Pearl Diver
+Titandrake - plays Pearl Diver
+Titandrake - draws Curse
+Titandrake - places Graverobber on top of deck
+Titandrake - plays Peddler
+Titandrake - draws Graverobber
+Titandrake - plays Graverobber
+Titandrake - trashes Peddler
+Titandrake - gains Province
+Titandrake - draws Copper, Familiar, Duchy, Potion, Border Village
+ 
+---------- Skullclamp: turn 21 ----------
+Skullclamp - plays Pearl Diver
+Skullclamp - draws Silver
+Skullclamp - places Familiar on top of deck
+Skullclamp - plays Peddler
+Skullclamp - draws Familiar
+Skullclamp - plays Familiar
+Skullclamp - draws Copper
+Skullclamp - plays 1 Potion, 1 Silver, 1 Copper
+Skullclamp - buys Militia
+Skullclamp - gains Militia
+Skullclamp - draws Silver, Curse, Peddler, Border Village, Province
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Curse, Border Village, Silver, Minion, Minion
+ 
+---------- Skullclamp: turn 22 ----------
+Skullclamp - plays Peddler
+Skullclamp - draws Border Village
+Skullclamp - plays Border Village
+Skullclamp - draws Peddler
+Skullclamp - plays Border Village
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Copper
+Skullclamp - plays Peddler
+Skullclamp - draws Copper
+Skullclamp - plays 2 Copper, 1 Silver
+Skullclamp - buys Harem
+Skullclamp - gains Harem
+Skullclamp - draws Silver, Peddler, Border Village, Minion, Minion
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Duchy
+Titandrake - draws Peddler, Trade Route, Trade Route, Province, Duchy
+ 
+---------- Skullclamp: turn 23 ----------
+Skullclamp - plays Peddler
+Skullclamp - draws Duchy
+Skullclamp - plays Border Village
+Skullclamp - draws Familiar
+Skullclamp - plays Familiar
+Skullclamp - draws Familiar
+Skullclamp - plays Familiar
+Skullclamp - draws Estate
+Skullclamp - plays Minion
+Skullclamp - takes 2 coins
+Skullclamp - plays Minion
+Skullclamp - discards: Silver, Duchy, Estate
+Skullclamp - draws Trade Route, Province, Militia, Trade Route
+Titandrake - discards: Peddler, Trade Route, Trade Route, Province, Duchy
+Titandrake - draws Border Village, Militia, Border Village, Copper
+Skullclamp - plays Militia
+Titandrake - discards Copper
+Skullclamp - plays Trade Route
+Skullclamp - trashes Trade Route
+Skullclamp - buys Province
+Skullclamp - gains Province
+Skullclamp - draws Peddler, Trade Route
+Skullclamp - shuffles deck
+Skullclamp - draws Minion, Border Village, Pearl Diver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Border Village
+Titandrake - shuffles deck
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Curse
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Militia
+Skullclamp - discards Trade Route
+Skullclamp - discards Border Village
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Minion, Minion, Graverobber, Peddler, Copper
+ 
+---------- Skullclamp: turn 24 ----------
+Skullclamp - plays Peddler
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Duchy
+Skullclamp - plays Pearl Diver
+Skullclamp - draws Silver
+Skullclamp - places Familiar on top of deck
+Skullclamp - plays Minion
+Skullclamp - discards: Duchy, Silver
+Skullclamp - draws Familiar, Militia, Copper, Curse
+Titandrake - discards: Minion, Minion, Graverobber, Peddler, Copper
+Titandrake - draws Duchy, Familiar, Peddler, Border Village
+Skullclamp - plays Familiar
+Skullclamp - draws Province
+Skullclamp - plays Militia
+Titandrake - discards Duchy
+Skullclamp - plays 1 Copper
+Skullclamp - buys Duchy
+Skullclamp - gains Duchy
+Skullclamp - draws Militia, Potion, Familiar, Province, Estate
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Familiar
+Titandrake - draws Silver
+Titandrake - plays Peddler
+Titandrake - draws Trade Route
+Titandrake - plays Border Village
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Minion
+Titandrake - plays Trade Route
+Titandrake - trashes Silver
+Titandrake - plays Minion
+Titandrake - draws Estate, Pearl Diver, Duchy, Copper
+Skullclamp - discards: Militia, Potion, Familiar, Province, Estate
+Skullclamp - draws Harem, Estate, Peddler, Border Village
+Titandrake - plays Pearl Diver
+Titandrake - draws Trade Route
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Potion, Duchy, Province, Copper, Silver
+ 
+---------- Skullclamp: turn 25 ----------
+Skullclamp - plays Peddler
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Familiar
+Skullclamp - plays Border Village
+Skullclamp - draws Minion
+Skullclamp - plays Familiar
+Skullclamp - draws Copper
+Skullclamp - plays Minion
+Skullclamp - discards: Harem, Estate, Copper
+Skullclamp - draws Peddler, Silver, Silver, Peddler
+Titandrake - discards: Potion, Duchy, Province, Copper, Silver
+Titandrake - draws Copper, Copper, Trade Route, Curse
+Skullclamp - plays Peddler
+Skullclamp - draws Border Village
+Skullclamp - plays Peddler
+Skullclamp - draws Province
+Skullclamp - plays Border Village
+Skullclamp - draws Copper
+Skullclamp - plays 2 Silver, 1 Copper
+Skullclamp - buys Province
+Skullclamp - gains Province
+Skullclamp - draws Trade Route
+Skullclamp - shuffles deck
+Skullclamp - draws Pearl Diver, Peddler, Familiar, Copper
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Province, Pearl Diver, Duchy, Copper
+Titandrake - shuffles deck
+Titandrake - draws Border Village
+ 
+---------- Skullclamp: turn 26 ----------
+Skullclamp - plays Peddler
+Skullclamp - draws Familiar
+Skullclamp - plays Pearl Diver
+Skullclamp - draws Curse
+Skullclamp - places Peddler on top of deck
+Skullclamp - plays Familiar
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Peddler
+Skullclamp - plays Peddler
+Skullclamp - draws Estate
+Skullclamp - plays Familiar
+Skullclamp - draws Border Village
+Skullclamp - plays Border Village
+Skullclamp - draws Militia
+Skullclamp - plays Trade Route
+Skullclamp - trashes Curse
+Skullclamp - plays Militia
+Titandrake - discards Duchy
+Titandrake - discards Province
+Skullclamp - plays 1 Copper
+Skullclamp - buys Province
+Skullclamp - gains Province
+Skullclamp - buys Estate
+Skullclamp - gains Estate
+Skullclamp - draws Minion, Peddler, Militia, Province, Minion
+ 
+------------ Game Over ------------
+Skullclamp - cards: 6 Peddler, 3 Familiar, 3 Border Village, 2 Minion, 2 Militia, 2 Trade Route, 1 Pearl Diver, 3 Copper, 3 Silver, 1 Harem, 1 Potion, 5 Province, 3 Estate, 2 Duchy
+Skullclamp - total victory points: 41
+Skullclamp - turns: 26
+ 
+Titandrake - cards: 5 Border Village, 3 Minion, 3 Trade Route, 2 Pearl Diver, 2 Peddler, 1 Graverobber, 1 Familiar, 1 Militia, 6 Copper, 1 Harem, 1 Potion, 1 Silver, 4 Duchy, 3 Province, 2 Estate, 1 Curse
+Titandrake - total victory points: 33
+Titandrake - turns: 26
+ 
+1st place: Skullclamp
+2nd place: Titandrake
+ 

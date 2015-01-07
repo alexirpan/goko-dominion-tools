@@ -1,0 +1,704 @@
+------------ Game Setup ------------
+Supply cards: Apothecary, Alchemist, Feodum, Procession, Tournament, Golem, Counting House, Embassy, Harvest, Mountebank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+HarryPeteur - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HarryPeteur - shuffles deck
+Titandrake - shuffles deck
+HarryPeteur - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- HarryPeteur: turn 1 ----------
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Potion
+HarryPeteur - gains Potion
+HarryPeteur - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- HarryPeteur: turn 2 ----------
+HarryPeteur - plays 3 Copper
+HarryPeteur - buys Silver
+HarryPeteur - gains Silver
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Estate, Copper, Copper, Potion
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- HarryPeteur: turn 3 ----------
+HarryPeteur - plays 3 Copper, 1 Potion
+HarryPeteur - buys Alchemist
+HarryPeteur - gains Alchemist
+HarryPeteur - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Silver, Estate, Copper, Copper, Estate
+ 
+---------- HarryPeteur: turn 4 ----------
+HarryPeteur - plays 3 Copper
+HarryPeteur - buys Silver
+HarryPeteur - gains Silver
+HarryPeteur - draws Copper, Silver
+HarryPeteur - shuffles deck
+HarryPeteur - draws Alchemist, Estate, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Tournament, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- HarryPeteur: turn 5 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Potion
+HarryPeteur - plays 2 Copper, 2 Silver, 1 Potion
+HarryPeteur - buys Mountebank
+HarryPeteur - gains Mountebank
+HarryPeteur - places Alchemist on top of deck
+HarryPeteur - draws Alchemist, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Potion, Copper, Tournament, Estate
+ 
+---------- HarryPeteur: turn 6 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Copper
+HarryPeteur - plays 5 Copper
+HarryPeteur - buys Potion
+HarryPeteur - gains Potion
+HarryPeteur - draws Estate
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Copper, Mountebank, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Tournament
+Titandrake - draws Silver
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Mountebank, Potion
+ 
+---------- HarryPeteur: turn 7 ----------
+HarryPeteur - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+HarryPeteur - plays 2 Copper, 1 Silver
+HarryPeteur - buys Gold
+HarryPeteur - gains Gold
+HarryPeteur - draws Potion, Copper, Copper, Copper, Potion
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Mountebank
+HarryPeteur - gains Curse
+HarryPeteur - gains Copper
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - draws Copper, Copper, Estate, Copper, Alchemist
+ 
+---------- HarryPeteur: turn 8 ----------
+HarryPeteur - plays 3 Copper, 2 Potion
+HarryPeteur - buys Alchemist
+HarryPeteur - gains Alchemist
+HarryPeteur - draws Estate, Alchemist, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Estate, Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- HarryPeteur: turn 9 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Silver
+HarryPeteur - shuffles deck
+HarryPeteur - draws Potion
+HarryPeteur - plays 2 Copper, 1 Silver, 1 Potion
+HarryPeteur - buys Alchemist
+HarryPeteur - gains Alchemist
+HarryPeteur - places Alchemist on top of deck
+HarryPeteur - draws Alchemist, Copper, Alchemist, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Copper, Copper, Tournament, Estate
+ 
+---------- HarryPeteur: turn 10 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Estate, Mountebank
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Copper
+HarryPeteur - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+HarryPeteur - plays 5 Copper
+HarryPeteur - buys Tournament
+HarryPeteur - gains Tournament
+HarryPeteur - draws Silver, Curse, Potion, Copper, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Curse, Tournament, Copper, Mountebank, Potion
+ 
+---------- HarryPeteur: turn 11 ----------
+HarryPeteur - plays 1 Silver, 1 Potion, 1 Copper, 1 Gold
+HarryPeteur - buys Golem
+HarryPeteur - gains Golem
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Copper, Alchemist, Tournament, Mountebank
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Mountebank
+HarryPeteur - gains Curse
+HarryPeteur - gains Copper
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Golem
+Titandrake - gains Golem
+Titandrake - draws Alchemist, Alchemist, Mountebank
+Titandrake - shuffles deck
+Titandrake - draws Estate, Curse
+ 
+---------- HarryPeteur: turn 12 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Alchemist, Potion
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Estate, Copper
+HarryPeteur - plays Tournament
+HarryPeteur - draws Silver
+HarryPeteur - plays Mountebank
+Titandrake - discards Curse
+HarryPeteur - plays 3 Copper, 1 Potion, 1 Silver
+HarryPeteur - buys Alchemist
+HarryPeteur - gains Alchemist
+HarryPeteur - places Alchemist, Alchemist on top of deck
+HarryPeteur - draws Alchemist, Alchemist, Estate, Gold, Potion
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Golem, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Mountebank
+Titandrake - plays Golem
+Titandrake - reveals Potion, Tournament, Copper, Copper, Tournament
+Titandrake - discards: Potion, Copper, Copper
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Mountebank
+HarryPeteur - gains Curse
+HarryPeteur - gains Copper
+Titandrake - plays Mountebank
+HarryPeteur - gains Curse
+HarryPeteur - gains Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Estate, Copper, Copper, Copper
+ 
+---------- HarryPeteur: turn 13 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Alchemist, Curse
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Copper
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Silver
+HarryPeteur - plays 3 Copper, 1 Gold, 1 Potion, 1 Silver
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - places Alchemist, Alchemist, Alchemist on top of deck
+HarryPeteur - draws Alchemist, Alchemist, Alchemist, Estate, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Tournament, Silver
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper
+ 
+---------- HarryPeteur: turn 14 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Golem
+HarryPeteur - plays Alchemist
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Silver
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Gold, Copper
+HarryPeteur - plays Golem
+HarryPeteur - reveals Copper, Copper, Curse, Alchemist, Silver, Curse, Potion, Copper, Copper, Mountebank
+HarryPeteur - discards: Copper, Copper, Curse, Silver, Curse, Potion, Copper, Copper
+HarryPeteur - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Curse, Copper
+HarryPeteur - plays 5 Copper, 1 Silver, 1 Gold
+HarryPeteur - buys Colony
+HarryPeteur - gains Colony
+HarryPeteur - draws Estate, Tournament, Curse, Province, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Tournament
+HarryPeteur - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Princess, Curse, Copper, Copper, Tournament
+ 
+---------- HarryPeteur: turn 15 ----------
+HarryPeteur - plays Tournament
+HarryPeteur - reveals Province
+HarryPeteur - discards Province
+HarryPeteur - gains Trusty Steed
+HarryPeteur - draws Trusty Steed
+HarryPeteur - plays Trusty Steed
+HarryPeteur - takes 2 actions
+HarryPeteur - draws Copper, Copper
+HarryPeteur - plays 2 Copper
+HarryPeteur - draws Potion
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Copper, Curse, Alchemist
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Tournament
+Titandrake - draws Alchemist
+Titandrake - plays Alchemist
+Titandrake - draws Golem, Copper
+Titandrake - plays Golem
+Titandrake - reveals Copper, Curse, Silver, Copper, Estate, Copper, Copper, Tournament, Mountebank
+Titandrake - discards: Copper, Curse, Silver, Copper, Estate, Copper, Copper
+Titandrake - plays Mountebank
+HarryPeteur - discards Curse
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Potion
+Titandrake - plays Princess
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - places Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Mountebank, Estate, Copper
+ 
+---------- HarryPeteur: turn 16 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Gold, Curse
+HarryPeteur - plays 2 Copper, 1 Potion, 1 Gold
+HarryPeteur - buys Alchemist
+HarryPeteur - gains Alchemist
+HarryPeteur - places Alchemist on top of deck
+HarryPeteur - draws Alchemist, Colony, Copper, Curse, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Alchemist
+Titandrake - shuffles deck
+Titandrake - draws Potion, Tournament
+Titandrake - plays Alchemist
+Titandrake - draws Curse, Curse
+Titandrake - plays Tournament
+Titandrake - draws Golem
+Titandrake - plays Golem
+Titandrake - reveals Alchemist, Copper, Copper, Copper, Tournament
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Mountebank, Province
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Bag of Gold
+Titandrake - draws Bag of Gold
+Titandrake - plays Bag of Gold
+Titandrake - gains Gold
+Titandrake - plays Mountebank
+HarryPeteur - discards Curse
+Titandrake - plays Mountebank
+HarryPeteur - gains Curse
+HarryPeteur - gains Copper
+Titandrake - plays 1 Copper, 1 Potion
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - places Alchemist, Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Alchemist, Gold, Tournament
+ 
+---------- HarryPeteur: turn 17 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Curse, Copper
+HarryPeteur - plays 3 Copper
+HarryPeteur - draws Copper, Alchemist, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Tournament, Curse
+Titandrake - plays Alchemist
+Titandrake - draws Estate, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Copper
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Princess, Platinum, Copper, Silver, Copper
+ 
+---------- HarryPeteur: turn 18 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Estate
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Potion
+HarryPeteur - gains Potion
+HarryPeteur - draws Copper, Golem, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Princess
+Titandrake - plays 2 Copper, 1 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- HarryPeteur: turn 19 ----------
+HarryPeteur - plays Golem
+HarryPeteur - reveals Potion, Province, Alchemist, Silver, Alchemist
+HarryPeteur - discards: Potion, Province, Silver
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Mountebank, Trusty Steed
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Tournament
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper
+HarryPeteur - plays Trusty Steed
+HarryPeteur - takes 2 actions
+HarryPeteur - draws Copper, Copper
+HarryPeteur - plays Tournament
+HarryPeteur - draws Potion
+HarryPeteur - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+HarryPeteur - plays 5 Copper, 1 Silver, 1 Potion
+HarryPeteur - buys Golem
+HarryPeteur - gains Golem
+HarryPeteur - places Alchemist, Alchemist on top of deck
+HarryPeteur - draws Alchemist, Alchemist, Alchemist, Curse, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Mountebank, Potion, Mountebank, Silver, Golem
+ 
+---------- HarryPeteur: turn 20 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Potion
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Colony, Copper
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Estate, Copper
+HarryPeteur - plays 3 Copper, 1 Potion
+HarryPeteur - buys Alchemist
+HarryPeteur - gains Alchemist
+HarryPeteur - places Alchemist, Alchemist, Alchemist on top of deck
+HarryPeteur - draws Alchemist, Alchemist, Alchemist, Gold, Curse
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Golem
+Titandrake - reveals Estate, Alchemist, Tournament
+Titandrake - discards Estate
+Titandrake - plays Alchemist
+Titandrake - draws Alchemist, Copper
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Alchemist
+Titandrake - draws Province, Copper
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - draws Duchy
+Titandrake - plays Mountebank
+HarryPeteur - discards Curse
+Titandrake - plays Mountebank
+HarryPeteur - gains Curse
+HarryPeteur - gains Copper
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - places Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Estate, Bag of Gold, Copper
+ 
+---------- HarryPeteur: turn 21 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Curse, Copper
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Curse
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Potion, Alchemist
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Province
+HarryPeteur - plays 3 Copper, 1 Gold, 1 Potion
+HarryPeteur - buys Golem
+HarryPeteur - gains Golem
+HarryPeteur - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HarryPeteur - draws Alchemist, Alchemist, Alchemist, Alchemist, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Curse, Colony
+Titandrake - plays Alchemist
+Titandrake - draws Curse, Alchemist
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Copper
+Titandrake - plays Bag of Gold
+Titandrake - gains Gold
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, Copper, Platinum, Tournament, Platinum
+ 
+---------- HarryPeteur: turn 22 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Curse, Silver
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Alchemist
+HarryPeteur - shuffles deck
+HarryPeteur - draws Estate
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Golem, Silver
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Curse
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Colony
+HarryPeteur - plays Golem
+HarryPeteur - reveals Gold, Copper, Copper, Curse, Province, Copper, Mountebank, Potion, Potion, Golem, Estate, Golem, Copper, Potion, Curse, Copper, Alchemist
+HarryPeteur - discards: Gold, Copper, Copper, Curse, Province, Copper, Potion, Potion, Golem, Estate, Golem, Copper, Potion, Curse, Copper
+HarryPeteur - plays Mountebank
+Titandrake - gains Copper
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Copper
+HarryPeteur - plays 5 Copper, 2 Silver
+HarryPeteur - buys Colony
+HarryPeteur - gains Colony
+HarryPeteur - draws Copper, Tournament, Curse, Trusty Steed, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 2 Platinum, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Curse, Princess, Gold, Tournament, Copper
+ 
+---------- HarryPeteur: turn 23 ----------
+HarryPeteur - plays Trusty Steed
+HarryPeteur - takes 2 actions
+HarryPeteur - draws Estate, Copper
+HarryPeteur - plays Tournament
+HarryPeteur - draws Curse
+HarryPeteur - plays 3 Copper
+HarryPeteur - buys Potion
+HarryPeteur - gains Potion
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Potion, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Tournament
+Titandrake - draws Alchemist
+Titandrake - plays Alchemist
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - plays Princess
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Potion, Curse, Bag of Gold, Copper
+ 
+---------- HarryPeteur: turn 24 ----------
+HarryPeteur - plays 3 Copper, 1 Potion, 1 Gold
+HarryPeteur - buys Golem
+HarryPeteur - gains Golem
+HarryPeteur - draws Colony, Alchemist, Estate, Copper, Alchemist
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Bag of Gold
+Titandrake - gains Gold
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Gold, Copper, Copper, Copper, Platinum
+ 
+---------- HarryPeteur: turn 25 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Alchemist, Copper
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Estate, Copper
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Estate, Copper
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Tournament
+HarryPeteur - gains Tournament
+HarryPeteur - draws Potion, Curse, Copper, Golem, Curse
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays 3 Copper, 1 Gold, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Mountebank, Gold, Platinum, Alchemist, Curse
+ 
+---------- HarryPeteur: turn 26 ----------
+HarryPeteur - plays Golem
+HarryPeteur - reveals Curse, Copper, Alchemist, Mountebank
+HarryPeteur - discards: Curse, Copper
+HarryPeteur - plays Mountebank
+Titandrake - discards Curse
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Copper, Copper
+HarryPeteur - plays 3 Copper, 1 Potion
+HarryPeteur - buys Golem
+HarryPeteur - gains Golem
+HarryPeteur - places Alchemist on top of deck
+HarryPeteur - draws Alchemist, Tournament, Alchemist, Alchemist, Golem
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Mountebank, Golem
+Titandrake - plays Golem
+Titandrake - reveals Colony, Estate, Colony, Province, Province, Estate, Silver, Curse, Alchemist, Estate, Copper, Silver, Tournament
+Titandrake - discards: Colony, Estate, Colony, Province, Province, Estate, Silver, Curse, Estate, Copper, Silver
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Potion
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Mountebank
+HarryPeteur - gains Copper
+Titandrake - plays Mountebank
+HarryPeteur - gains Copper
+Titandrake - plays 2 Copper, 1 Gold, 1 Platinum, 1 Potion
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - places Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Silver, Tournament, Copper
+ 
+---------- HarryPeteur: turn 27 ----------
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Golem, Silver
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Colony, Silver
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Curse, Curse
+HarryPeteur - plays Golem
+HarryPeteur - shuffles deck
+HarryPeteur - reveals Potion, Trusty Steed, Copper, Copper, Province, Curse, Potion, Estate, Potion, Copper, Copper, Copper, Copper, Curse, Potion, Alchemist
+HarryPeteur - discards: Potion, Copper, Copper, Province, Curse, Potion, Estate, Potion, Copper, Copper, Copper, Copper, Curse, Potion
+HarryPeteur - plays Trusty Steed
+HarryPeteur - takes 2 coins
+HarryPeteur - draws Golem, Copper
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Estate, Copper
+HarryPeteur - plays Golem
+HarryPeteur - reveals Gold, Colony, Mountebank, Copper, Copper, Estate, Curse, Tournament
+HarryPeteur - discards: Gold, Colony, Copper, Copper, Estate, Curse
+HarryPeteur - plays Mountebank
+Titandrake - gains Copper
+HarryPeteur - plays Tournament
+HarryPeteur - draws Copper
+HarryPeteur - plays Tournament
+HarryPeteur - draws Alchemist
+HarryPeteur - plays Golem
+HarryPeteur - shuffles deck
+HarryPeteur - reveals Golem, Copper, Alchemist, Copper, Golem, Copper, Copper, Curse, Gold, Potion, Copper, Copper, Potion, Copper, Curse, Colony, Curse, Copper, Copper, Copper, Estate, Province, Copper, Copper, Potion, Curse, Estate, Potion
+HarryPeteur - discards: Golem, Copper, Copper, Golem, Copper, Copper, Curse, Gold, Potion, Copper, Copper, Potion, Copper, Curse, Colony, Curse, Copper, Copper, Copper, Estate, Province, Copper, Copper, Potion, Curse, Estate, Potion
+HarryPeteur - plays Alchemist
+HarryPeteur - shuffles deck
+HarryPeteur - draws Golem, Copper
+HarryPeteur - plays Alchemist
+HarryPeteur - draws Gold, Potion
+HarryPeteur - plays Golem
+HarryPeteur - reveals Estate, Potion, Curse, Curse, Copper, Copper, Copper, Province, Copper, Copper, Curse, Copper, Curse, Colony, Copper, Potion, Golem, Copper, Potion, Copper, Estate, Copper, Copper
+HarryPeteur - discards: Estate, Potion, Curse, Curse, Copper, Copper, Copper, Province, Copper, Copper, Curse, Copper, Curse, Colony, Copper, Potion, Golem, Copper, Potion, Copper, Estate, Copper, Copper
+HarryPeteur - plays 4 Copper, 2 Silver, 1 Gold, 1 Potion
+HarryPeteur - buys Colony
+HarryPeteur - gains Colony
+HarryPeteur - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HarryPeteur - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Duchy, Alchemist
+Titandrake - plays Alchemist
+Titandrake - draws Silver, Tournament
+Titandrake - plays Alchemist
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Silver
+Titandrake - plays Tournament
+Titandrake - draws Potion
+Titandrake - plays Tournament
+Titandrake - draws Gold
+Titandrake - plays Tournament
+Titandrake - draws Colony
+Titandrake - plays 3 Silver, 1 Copper, 1 Potion, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - places Alchemist, Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Alchemist, Copper, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Alchemist, 4 Tournament, 2 Mountebank, 13 Copper, 1 Apothecary, 1 Bag of Gold, 1 Golem, 1 Princess, 5 Silver, 3 Gold, 2 Potion, 2 Platinum, 5 Colony, 3 Estate, 3 Province, 1 Duchy, 4 Curse
+Titandrake - total victory points: 70
+Titandrake - turns: 27
+ 
+HarryPeteur - cards: 6 Alchemist, 5 Golem, 2 Tournament, 15 Copper, 1 Trusty Steed, 1 Mountebank, 4 Potion, 2 Silver, 1 Gold, 3 Estate, 3 Colony, 1 Province, 6 Curse
+HarryPeteur - total victory points: 33
+HarryPeteur - turns: 27
+ 
+1st place: Titandrake
+2nd place: HarryPeteur
+ 

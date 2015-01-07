@@ -1,0 +1,424 @@
+------------ Game Setup ------------
+Supply cards: University, Doctor, Bishop, Fortress, Remodel, Talisman, Bandit Camp, Council Room, Market, Merchant Ship, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+Titandrake - shuffles deck
+Monsieur X - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Doctor
+Monsieur X - gains Doctor
+Monsieur X - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Doctor
+Titandrake - gains Doctor
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Potion
+Monsieur X - gains Potion
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Copper, Potion, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays 3 Copper, 1 Potion
+Monsieur X - buys University
+Monsieur X - gains University
+Monsieur X - draws Estate, Copper, Doctor, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Potion, Copper, Copper, Estate, Estate
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays Doctor
+Monsieur X - names Estate
+Monsieur X - reveals: Estate, Copper
+Monsieur X - shuffles deck
+Monsieur X - reveals: Estate
+Monsieur X - trashes Estate, Estate
+Monsieur X - places Copper on top of deck
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Copper, Copper, Copper, University
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Doctor
+Titandrake - shuffles deck
+Titandrake - draws University, Bishop, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays University
+Monsieur X - gains Market
+Monsieur X - plays 4 Copper
+Monsieur X - buys Fortress
+Monsieur X - gains Fortress
+Monsieur X - draws Potion
+Monsieur X - shuffles deck
+Monsieur X - draws Estate, Silver, Fortress, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays University
+Titandrake - gains Market
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - reveals: Copper, Potion, Estate
+Titandrake - trashes Estate
+Titandrake - places Potion on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Monsieur X - trashes Estate
+Titandrake - draws Copper, Potion, Copper, Estate, Estate
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Fortress
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Copper
+Monsieur X - plays 2 Copper, 1 Potion, 1 Silver
+Monsieur X - buys University
+Monsieur X - gains University
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - draws Copper, Doctor, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Potion, Copper
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays Doctor
+Monsieur X - names Copper
+Monsieur X - reveals: Copper, University
+Monsieur X - shuffles deck
+Monsieur X - reveals: University
+Monsieur X - trashes Copper
+Monsieur X - places University on top of deck
+Monsieur X - places University on top of deck
+Monsieur X - plays 4 Copper
+Monsieur X - buys Talisman
+Monsieur X - gains Talisman
+Monsieur X - draws University, University, Copper, Silver, Market
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Talisman
+Titandrake - gains Talisman
+Titandrake - draws Estate, University, Estate, Copper, Bishop
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Market
+Monsieur X - draws Potion
+Monsieur X - plays University
+Monsieur X - gains Market
+Monsieur X - plays University
+Monsieur X - gains Council Room
+Monsieur X - plays 1 Copper, 1 Silver, 1 Potion
+Monsieur X - buys Bishop
+Monsieur X - gains Bishop
+Monsieur X - draws Copper, Silver, Fortress
+Monsieur X - shuffles deck
+Monsieur X - draws Doctor, University
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays University
+Titandrake - gains Council Room
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+Monsieur X - trashes Copper
+Titandrake - draws Market, Doctor, Copper, University
+Titandrake - shuffles deck
+Titandrake - draws Council Room
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays University
+Monsieur X - gains Market
+Monsieur X - plays Doctor
+Monsieur X - names Copper
+Monsieur X - reveals: Copper, Council Room, Copper
+Monsieur X - trashes Copper, Copper
+Monsieur X - places Council Room on top of deck
+Monsieur X - plays Fortress
+Monsieur X - draws Council Room
+Monsieur X - plays Council Room
+Monsieur X - draws Copper, Talisman, Copper, Market
+Titandrake - draws Copper
+Monsieur X - plays Market
+Monsieur X - draws University
+Monsieur X - plays University
+Monsieur X - gains Market
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - plays Talisman
+Monsieur X - buys Fortress
+Monsieur X - gains Fortress
+Monsieur X - gains Fortress
+Monsieur X - draws Copper, Silver, Bishop, Potion, Market
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays University
+Titandrake - gains Market
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Council Room
+Titandrake - draws Copper, University, Estate, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper
+Titandrake - plays University
+Titandrake - gains Fortress
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - reveals: Potion, Talisman, Bishop
+Titandrake - places Bishop on top of deck
+Titandrake - places Talisman on top of deck
+Titandrake - places Potion on top of deck
+Titandrake - plays 5 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Potion, Talisman, Bishop, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Market
+Monsieur X - draws Doctor
+Monsieur X - plays Bishop
+Monsieur X - trashes Doctor
+Monsieur X - receives 1 victory point chips
+Titandrake - trashes Copper
+Monsieur X - plays 2 Copper, 1 Silver, 1 Potion
+Monsieur X - buys University
+Monsieur X - gains University
+Monsieur X - buys Fortress
+Monsieur X - gains Fortress
+Monsieur X - draws University, Copper, Fortress, Market, Market
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+Monsieur X - trashes Copper
+Titandrake - plays 1 Potion
+Titandrake - plays Talisman
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Copper, Fortress, University, Market
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Market
+Monsieur X - draws University
+Monsieur X - plays Market
+Monsieur X - draws Silver
+Monsieur X - plays University
+Monsieur X - gains Council Room
+Monsieur X - plays University
+Monsieur X - gains Market
+Monsieur X - plays Fortress
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Talisman
+Monsieur X - plays 1 Silver
+Monsieur X - plays Talisman
+Monsieur X - buys Fortress
+Monsieur X - gains Fortress
+Monsieur X - gains Fortress
+Monsieur X - draws Council Room, Fortress, Fortress
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Fortress
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Fortress
+Titandrake - draws Doctor
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Council Room, University, Copper
+Titandrake - trashes Copper
+Titandrake - places University on top of deck
+Titandrake - places Council Room on top of deck
+Titandrake - plays University
+Titandrake - gains Fortress
+Titandrake - plays 3 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Council Room, University, Fortress, Copper, Market
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Fortress
+Monsieur X - draws Bishop
+Monsieur X - plays Fortress
+Monsieur X - draws Potion
+Monsieur X - plays Council Room
+Monsieur X - draws Fortress, Market, Market, Fortress
+Titandrake - shuffles deck
+Titandrake - draws University
+Monsieur X - plays Bishop
+Monsieur X - trashes Fortress
+Monsieur X - receives 2 victory point chips
+Titandrake - trashes Copper
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws University
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws Talisman
+Monsieur X - plays Fortress
+Monsieur X - draws Silver
+Monsieur X - plays Fortress
+Monsieur X - draws Council Room
+Monsieur X - plays Fortress
+Monsieur X - draws University
+Monsieur X - plays University
+Monsieur X - gains Bishop
+Monsieur X - plays University
+Monsieur X - gains Market
+Monsieur X - plays Council Room
+Monsieur X - draws Market, Silver, University, Copper
+Titandrake - draws Bishop
+Monsieur X - plays University
+Monsieur X - gains Market
+Monsieur X - plays Market
+Monsieur X - draws Fortress
+Monsieur X - plays Fortress
+Monsieur X - shuffles deck
+Monsieur X - draws Bishop
+Monsieur X - plays Bishop
+Monsieur X - trashes Copper
+Monsieur X - receives 0 victory point chips
+Monsieur X - plays 2 Silver, 1 Copper, 1 Potion
+Monsieur X - plays Talisman
+Monsieur X - buys University
+Monsieur X - gains University
+Monsieur X - buys Market
+Monsieur X - gains Market
+Monsieur X - buys Bandit Camp
+Monsieur X - gains Bandit Camp
+Monsieur X - draws Market, Market
+Monsieur X - shuffles deck
+Monsieur X - draws Council Room, Potion, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays University
+Titandrake - gains Council Room
+Titandrake - plays Council Room
+Titandrake - draws Fortress, Talisman, Fortress, Copper
+Monsieur X - draws Market
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays University
+Titandrake - gains Bishop
+Titandrake - plays Fortress
+Titandrake - draws Doctor
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: University, Fortress, Market
+Titandrake - places University on top of deck
+Titandrake - places Market on top of deck
+Titandrake - places Fortress on top of deck
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws University
+Titandrake - plays University
+Titandrake - gains Remodel
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Potion
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - plays Talisman
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - gains Remodel
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Talisman, Bishop, Fortress, University
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Market
+Monsieur X - draws Fortress
+Monsieur X - plays Market
+Monsieur X - draws Talisman
+Monsieur X - plays Market
+Monsieur X - draws Bishop
+Monsieur X - plays Fortress
+Monsieur X - draws Fortress
+Monsieur X - plays Bishop
+Monsieur X - trashes Fortress
+Monsieur X - receives 2 victory point chips
+Monsieur X - plays Fortress
+Monsieur X - draws University
+Monsieur X - plays Council Room
+Monsieur X - draws University, Fortress, Market, University
+Titandrake - draws Fortress
+Monsieur X - plays Market
+Monsieur X - draws Market
+Monsieur X - plays Market
+Monsieur X - draws University
+Monsieur X - plays Fortress
+Monsieur X - draws Copper
+Monsieur X - plays University
+Monsieur X - gains Bishop
+Monsieur X - plays University
+Monsieur X - gains Bishop
+Monsieur X - plays University
+Monsieur X - gains Bishop
+Monsieur X - plays University
+Monsieur X - gains Bishop
+Monsieur X - plays 1 Potion, 1 Silver, 1 Copper
+Monsieur X - plays Talisman
+Monsieur X - buys Bishop
+Monsieur X - gains Bishop
+Monsieur X - gains Bishop
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Market, Council Room, Fortress, Bishop, Fortress
+ 
+------------ Game Over ------------
+Monsieur X - cards: 8 Market, 8 Bishop, 6 Fortress, 4 University, 2 Council Room, 1 Bandit Camp, 2 Silver, 1 Potion, 1 Copper, 1 Talisman, 1 Duchy
+Monsieur X - victory point chips: 9
+Monsieur X - total victory points: 12
+Monsieur X - turns: 13
+ 
+Titandrake - cards: 4 Fortress, 4 University, 3 Remodel, 2 Bishop, 2 Council Room, 2 Market, 1 Doctor, 3 Copper, 1 Talisman, 1 Potion
+Titandrake - victory point chips: 8
+Titandrake - total victory points: 8
+Titandrake - turns: 12
+ 
+1st place: Monsieur X
+2nd place: Titandrake
+ 

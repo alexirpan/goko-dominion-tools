@@ -1,0 +1,418 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Duchess, Embargo, Squire, Island, Moneylender, Monument, Spy, Festival, Royal Seal, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+A Drowned Kernel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+A Drowned Kernel - shuffles deck
+Titandrake - shuffles deck
+A Drowned Kernel - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 1 ----------
+A Drowned Kernel - plays 5 Copper
+A Drowned Kernel - buys Royal Seal
+A Drowned Kernel - gains Royal Seal
+A Drowned Kernel - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 2 ----------
+A Drowned Kernel - plays 2 Copper
+A Drowned Kernel - buys Cellar
+A Drowned Kernel - gains Cellar
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper, Copper, Cellar, Copper, Royal Seal
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Royal Seal
+Titandrake - gains Royal Seal
+Titandrake - draws Island, Copper, Estate, Copper, Estate
+ 
+---------- A Drowned Kernel: turn 3 ----------
+A Drowned Kernel - plays Cellar
+A Drowned Kernel - discards Copper
+A Drowned Kernel - discards Copper
+A Drowned Kernel - discards Copper
+A Drowned Kernel - draws Estate, Copper, Copper
+A Drowned Kernel - plays 2 Copper, 1 Royal Seal
+A Drowned Kernel - buys Moneylender
+A Drowned Kernel - gains Moneylender
+A Drowned Kernel - applied Royal Seal to place Moneylender on top of the deck
+A Drowned Kernel - draws Moneylender, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Squire, Copper, Royal Seal
+ 
+---------- A Drowned Kernel: turn 4 ----------
+A Drowned Kernel - plays Moneylender
+A Drowned Kernel - trashes Copper
+A Drowned Kernel - plays 1 Copper
+A Drowned Kernel - buys Monument
+A Drowned Kernel - gains Monument
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper, Moneylender, Estate, Copper, Cellar
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 1 Silver, 1 Copper, 1 Royal Seal
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - applied Royal Seal to place Gold on top of the deck
+Titandrake - draws Gold, Estate, Copper, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 5 ----------
+A Drowned Kernel - plays Cellar
+A Drowned Kernel - discards Estate
+A Drowned Kernel - discards Copper
+A Drowned Kernel - discards Copper
+A Drowned Kernel - draws Copper, Copper, Royal Seal
+A Drowned Kernel - plays Moneylender
+A Drowned Kernel - trashes Copper
+A Drowned Kernel - plays 1 Copper, 1 Royal Seal
+A Drowned Kernel - buys Gold
+A Drowned Kernel - gains Gold
+A Drowned Kernel - applied Royal Seal to place Gold on top of the deck
+A Drowned Kernel - draws Gold, Estate, Copper, Estate, Monument
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- A Drowned Kernel: turn 6 ----------
+A Drowned Kernel - plays Monument
+A Drowned Kernel - receives 1 victory point chips
+A Drowned Kernel - plays 1 Gold, 1 Copper
+A Drowned Kernel - buys Gold
+A Drowned Kernel - gains Gold
+A Drowned Kernel - draws Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Moneylender, Estate, Gold, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - draws Silver, Copper, Estate, Royal Seal, Copper
+ 
+---------- A Drowned Kernel: turn 7 ----------
+A Drowned Kernel - plays Moneylender
+A Drowned Kernel - trashes Copper
+A Drowned Kernel - plays 1 Copper, 1 Gold
+A Drowned Kernel - buys Gold
+A Drowned Kernel - gains Gold
+A Drowned Kernel - draws Estate, Royal Seal, Cellar, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Royal Seal
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - applied Royal Seal to place Gold on top of the deck
+Titandrake - draws Gold, Gold, Squire, Gold, Estate
+ 
+---------- A Drowned Kernel: turn 8 ----------
+A Drowned Kernel - plays Cellar
+A Drowned Kernel - discards Estate
+A Drowned Kernel - discards Estate
+A Drowned Kernel - discards Copper
+A Drowned Kernel - draws Monument, Copper, Gold
+A Drowned Kernel - plays Monument
+A Drowned Kernel - receives 1 victory point chips
+A Drowned Kernel - plays 1 Royal Seal, 1 Copper, 1 Gold
+A Drowned Kernel - buys Gold
+A Drowned Kernel - gains Gold
+A Drowned Kernel - applied Royal Seal to place Gold on top of the deck
+A Drowned Kernel - draws Gold, Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Royal Seal, Gold, Moneylender
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 3 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Platinum, Royal Seal, Silver, Copper
+ 
+---------- A Drowned Kernel: turn 9 ----------
+A Drowned Kernel - plays Moneylender
+A Drowned Kernel - trashes Copper
+A Drowned Kernel - plays 2 Gold, 1 Royal Seal
+A Drowned Kernel - buys Platinum
+A Drowned Kernel - gains Platinum
+A Drowned Kernel - applied Royal Seal to place Platinum on top of the deck
+A Drowned Kernel - draws Platinum, Gold, Copper, Monument, Cellar
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Silver, 1 Platinum, 1 Royal Seal, 1 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - applied Royal Seal to place Platinum on top of the deck
+Titandrake - draws Platinum, Gold, Copper, Copper, Estate
+ 
+---------- A Drowned Kernel: turn 10 ----------
+A Drowned Kernel - plays Cellar
+A Drowned Kernel - discards Copper
+A Drowned Kernel - draws Estate
+A Drowned Kernel - plays Monument
+A Drowned Kernel - receives 1 victory point chips
+A Drowned Kernel - plays 1 Platinum, 1 Gold
+A Drowned Kernel - buys Platinum
+A Drowned Kernel - gains Platinum
+A Drowned Kernel - draws Gold, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Platinum, 1 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Silver, Gold, Copper, Estate, Copper
+ 
+---------- A Drowned Kernel: turn 11 ----------
+A Drowned Kernel - plays 2 Copper, 1 Gold
+A Drowned Kernel - buys Monument
+A Drowned Kernel - gains Monument
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Platinum, Gold, Cellar, Gold, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Squire, Gold, Monument, Copper
+ 
+---------- A Drowned Kernel: turn 12 ----------
+A Drowned Kernel - plays Cellar
+A Drowned Kernel - discards Estate
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays 2 Gold, 1 Platinum, 1 Copper
+A Drowned Kernel - buys Colony
+A Drowned Kernel - gains Colony
+A Drowned Kernel - draws Gold, Estate, Platinum, Copper, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Platinum, Copper, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 13 ----------
+A Drowned Kernel - plays 2 Gold, 1 Platinum, 1 Copper
+A Drowned Kernel - buys Colony
+A Drowned Kernel - gains Colony
+A Drowned Kernel - draws Monument, Estate, Copper, Moneylender, Monument
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 4 Copper, 1 Platinum
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Gold, Gold, Estate, Gold, Royal Seal
+ 
+---------- A Drowned Kernel: turn 14 ----------
+A Drowned Kernel - plays Moneylender
+A Drowned Kernel - trashes Copper
+A Drowned Kernel - buys Silver
+A Drowned Kernel - gains Silver
+A Drowned Kernel - draws Royal Seal
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate, Colony, Silver, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 3 Gold, 1 Royal Seal
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Estate, Province, Silver, Platinum, Platinum
+ 
+---------- A Drowned Kernel: turn 15 ----------
+A Drowned Kernel - plays 1 Royal Seal, 1 Silver, 1 Gold
+A Drowned Kernel - buys Gold
+A Drowned Kernel - gains Gold
+A Drowned Kernel - applied Royal Seal to place Gold on top of the deck
+A Drowned Kernel - draws Gold, Moneylender, Gold, Gold, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Monument, Silver, Gold, Copper
+ 
+---------- A Drowned Kernel: turn 16 ----------
+A Drowned Kernel - plays 3 Gold
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Monument, Colony, Copper, Platinum, Cellar
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Squire
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold
+ 
+---------- A Drowned Kernel: turn 17 ----------
+A Drowned Kernel - plays Cellar
+A Drowned Kernel - discards Colony
+A Drowned Kernel - discards Copper
+A Drowned Kernel - draws Estate, Copper
+A Drowned Kernel - plays Monument
+A Drowned Kernel - receives 1 victory point chips
+A Drowned Kernel - plays 1 Platinum, 1 Copper
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Gold, Monument, Platinum
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Gold, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Monument, Copper, Copper, Platinum, Gold
+ 
+---------- A Drowned Kernel: turn 18 ----------
+A Drowned Kernel - plays Monument
+A Drowned Kernel - receives 1 victory point chips
+A Drowned Kernel - plays 3 Gold, 1 Platinum
+A Drowned Kernel - buys Colony
+A Drowned Kernel - gains Colony
+A Drowned Kernel - draws Royal Seal, Platinum, Colony, Monument, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper, 1 Platinum, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Royal Seal, Copper, Copper, Platinum
+ 
+---------- A Drowned Kernel: turn 19 ----------
+A Drowned Kernel - plays Monument
+A Drowned Kernel - receives 1 victory point chips
+A Drowned Kernel - plays 1 Royal Seal, 1 Platinum
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Province, Province, Gold, Cellar, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Copper, 1 Royal Seal, 1 Platinum
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - gains Duchess
+Titandrake - applied Royal Seal to place Duchess on top of the deck
+Titandrake - draws Duchess, Estate, Silver, Province, Gold
+ 
+---------- A Drowned Kernel: turn 20 ----------
+A Drowned Kernel - plays Cellar
+A Drowned Kernel - discards Province
+A Drowned Kernel - discards Province
+A Drowned Kernel - discards Copper
+A Drowned Kernel - draws Gold, Colony, Estate
+A Drowned Kernel - plays 2 Gold
+A Drowned Kernel - buys Duchy
+A Drowned Kernel - gains Duchy
+A Drowned Kernel - draws Silver, Estate, Moneylender, Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Gold
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Duchess
+Titandrake - places Silver on top of deck
+A Drowned Kernel - discards Colony
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Province, Estate, Colony, Copper
+ 
+---------- A Drowned Kernel: turn 21 ----------
+A Drowned Kernel - plays Moneylender
+A Drowned Kernel - trashes Copper
+A Drowned Kernel - plays 1 Silver, 1 Gold
+A Drowned Kernel - buys Duchy
+A Drowned Kernel - gains Duchy
+A Drowned Kernel - draws Copper, Colony, Province, Monument, Estate
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Colony, Platinum, Platinum
+Titandrake - shuffles deck
+Titandrake - draws Royal Seal, Silver
+ 
+---------- A Drowned Kernel: turn 22 ----------
+A Drowned Kernel - plays Monument
+A Drowned Kernel - receives 1 victory point chips
+A Drowned Kernel - plays 1 Copper
+A Drowned Kernel - buys Estate
+A Drowned Kernel - gains Estate
+A Drowned Kernel - draws Royal Seal, Estate, Gold, Gold, Cellar
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 2 Platinum, 1 Royal Seal, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Gold, Estate, Copper, Platinum
+ 
+---------- A Drowned Kernel: turn 23 ----------
+A Drowned Kernel - plays Cellar
+A Drowned Kernel - discards Estate
+A Drowned Kernel - draws Province
+A Drowned Kernel - plays 2 Gold, 1 Royal Seal
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Province, Platinum, Platinum, Monument, Duchy
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 2 Gold, 1 Copper, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Duchess, Copper, Silver, Duchy, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Island, 1 Duchess, 1 Monument, 1 Squire, 7 Copper, 4 Silver, 4 Platinum, 4 Gold, 1 Royal Seal, 5 Colony, 4 Estate, 3 Province, 2 Duchy
+Titandrake - victory point chips: 3
+Titandrake - total victory points: 83
+Titandrake - turns: 24
+ 
+A Drowned Kernel - cards: 2 Monument, 1 Moneylender, 1 Cellar, 5 Gold, 2 Platinum, 1 Silver, 1 Copper, 1 Royal Seal, 4 Province, 4 Estate, 3 Colony, 2 Duchy
+A Drowned Kernel - victory point chips: 7
+A Drowned Kernel - total victory points: 71
+A Drowned Kernel - turns: 23
+ 
+1st place: Titandrake
+2nd place: A Drowned Kernel
+ 

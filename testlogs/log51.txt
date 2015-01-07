@@ -1,0 +1,586 @@
+------------ Game Setup ------------
+Supply cards: Pearl Diver, Apothecary, Chancellor, Scheme, Warehouse, Workshop, Bureaucrat, Mining Village, Smithy, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+DG - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+DG - shuffles deck
+Titandrake - shuffles deck
+DG - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- DG: turn 1 ----------
+DG - plays 3 Copper
+DG - buys Silver
+DG - gains Silver
+DG - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- DG: turn 2 ----------
+DG - plays 4 Copper
+DG - buys Workshop
+DG - gains Workshop
+DG - shuffles deck
+DG - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Copper, Copper, Copper, Estate
+ 
+---------- DG: turn 3 ----------
+DG - plays 4 Copper
+DG - buys Smithy
+DG - gains Smithy
+DG - draws Copper, Estate, Workshop, Silver, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Copper, Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- DG: turn 4 ----------
+DG - plays Workshop
+DG - gains Mining Village
+DG - plays 2 Copper, 1 Silver
+DG - buys Warehouse
+DG - gains Warehouse
+DG - draws Estate, Copper
+DG - shuffles deck
+DG - draws Workshop, Mining Village, Smithy
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Workshop
+Titandrake - plays Workshop
+Titandrake - gains Mining Village
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Copper, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- DG: turn 5 ----------
+DG - plays Mining Village
+DG - draws Copper
+DG - plays Smithy
+DG - draws Warehouse, Copper, Estate
+DG - plays Warehouse
+DG - draws Estate, Copper, Copper
+DG - discards Estate
+DG - discards Estate
+DG - discards Estate
+DG - plays Workshop
+DG - gains Mining Village
+DG - plays 5 Copper
+DG - buys Wharf
+DG - gains Wharf
+DG - draws Copper, Copper, Silver
+DG - shuffles deck
+DG - draws Copper, Wharf
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Mining Village, Wharf, Workshop, Copper, Wharf
+ 
+---------- DG: turn 6 ----------
+DG - plays Wharf
+DG - draws Estate, Copper
+DG - plays 4 Copper, 1 Silver
+DG - buys Wharf
+DG - gains Wharf
+DG - draws Mining Village, Copper, Estate, Copper, Mining Village
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays Wharf
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Scheme, Estate, Copper, Copper
+ 
+---------- DG: turn 7 ----------
+DG - duration Wharf
+DG - draws Estate, Smithy
+DG - plays Mining Village
+DG - draws Workshop
+DG - plays Mining Village
+DG - draws Warehouse
+DG - plays Workshop
+DG - gains Mining Village
+DG - plays Smithy
+DG - draws Copper
+DG - shuffles deck
+DG - draws Copper, Wharf
+DG - plays Warehouse
+DG - draws Copper, Copper, Mining Village
+DG - discards Estate
+DG - discards Estate
+DG - discards Copper
+DG - plays Mining Village
+DG - draws Estate
+DG - plays Wharf
+DG - draws Silver, Copper
+DG - plays 6 Copper, 1 Silver
+DG - buys Wharf
+DG - gains Wharf
+DG - buys Scheme
+DG - gains Scheme
+DG - shuffles deck
+DG - draws Copper, Copper, Scheme, Copper, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Wharf
+Titandrake - duration Wharf
+Titandrake - draws Mining Village, Estate
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Workshop
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Workshop
+Titandrake - gains Mining Village
+Titandrake - plays 6 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - Scheme choice: Wharf
+Titandrake - draws Wharf, Copper
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Estate, Mining Village
+ 
+---------- DG: turn 8 ----------
+DG - duration Wharf
+DG - draws Mining Village, Copper
+DG - plays Scheme
+DG - draws Warehouse
+DG - plays Mining Village
+DG - draws Workshop
+DG - plays Warehouse
+DG - draws Copper, Wharf, Estate
+DG - discards Estate
+DG - discards Copper
+DG - discards Copper
+DG - plays Wharf
+DG - draws Copper, Wharf
+DG - plays Workshop
+DG - gains Mining Village
+DG - plays 4 Copper, 1 Silver
+DG - buys Mining Village
+DG - gains Mining Village
+DG - buys Pearl Diver
+DG - gains Pearl Diver
+DG - Scheme choice: Wharf
+DG - draws Wharf, Estate, Estate, Smithy, Mining Village
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Workshop, Gold
+Titandrake - plays Mining Village
+Titandrake - draws Estate
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Mining Village, Copper, Copper, Copper, Scheme
+ 
+---------- DG: turn 9 ----------
+DG - duration Wharf
+DG - draws Mining Village, Copper
+DG - plays Mining Village
+DG - shuffles deck
+DG - draws Copper
+DG - plays Wharf
+DG - draws Copper, Pearl Diver
+DG - plays Pearl Diver
+DG - draws Mining Village
+DG - places Copper on bottom of deck
+DG - plays Mining Village
+DG - draws Silver
+DG - plays Smithy
+DG - draws Copper, Mining Village, Estate
+DG - plays Mining Village
+DG - draws Warehouse
+DG - plays Mining Village
+DG - draws Copper
+DG - plays Warehouse
+DG - draws Copper, Mining Village, Workshop
+DG - discards Estate
+DG - discards Estate
+DG - discards Estate
+DG - plays Mining Village
+DG - draws Wharf
+DG - plays Workshop
+DG - gains Mining Village
+DG - plays Wharf
+DG - draws Scheme, Copper
+DG - plays 7 Copper, 1 Silver
+DG - buys Mining Village
+DG - gains Mining Village
+DG - buys Wharf
+DG - gains Wharf
+DG - shuffles deck
+DG - draws Mining Village, Copper, Workshop, Copper, Smithy
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Workshop, Mining Village
+Titandrake - duration Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Estate
+Titandrake - plays Mining Village
+Titandrake - draws Warehouse
+Titandrake - plays Warehouse
+Titandrake - draws Gold, Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays Workshop
+Titandrake - gains Scheme
+Titandrake - plays 6 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Mining Village
+Titandrake - draws Mining Village, Wharf, Copper
+Titandrake - shuffles deck
+Titandrake - draws Scheme, Estate
+ 
+---------- DG: turn 10 ----------
+DG - duration Wharf
+DG - draws Wharf, Estate
+DG - duration Wharf
+DG - draws Silver, Pearl Diver
+DG - plays Pearl Diver
+DG - draws Scheme
+DG - places Copper on bottom of deck
+DG - plays Scheme
+DG - draws Copper
+DG - plays Mining Village
+DG - draws Mining Village
+DG - plays Mining Village
+DG - draws Mining Village
+DG - plays Mining Village
+DG - draws Warehouse
+DG - plays Wharf
+DG - draws Mining Village, Mining Village
+DG - plays Mining Village
+DG - draws Copper
+DG - plays Mining Village
+DG - draws Mining Village
+DG - plays Smithy
+DG - draws Copper, Estate, Copper
+DG - plays Mining Village
+DG - draws Mining Village
+DG - plays Mining Village
+DG - draws Wharf
+DG - plays Wharf
+DG - draws Estate, Copper
+DG - plays Workshop
+DG - gains Silver
+DG - plays Warehouse
+DG - shuffles deck
+DG - draws Silver
+DG - discards Estate
+DG - discards Estate
+DG - discards Estate
+DG - plays 7 Copper, 2 Silver
+DG - buys Wharf
+DG - gains Wharf
+DG - buys Gold
+DG - gains Gold
+DG - Scheme choice: Wharf
+DG - draws Wharf
+DG - shuffles deck
+DG - draws Copper, Copper, Estate, Pearl Diver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Warehouse, Mining Village
+Titandrake - plays Scheme
+Titandrake - draws Wharf
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays Warehouse
+Titandrake - draws Scheme, Scheme, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Scheme
+Titandrake - draws Gold
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays 5 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Mining Village
+Titandrake - Scheme choice: Mining Village
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Mining Village, Mining Village, Gold, Workshop
+ 
+---------- DG: turn 11 ----------
+DG - duration Wharf
+DG - draws Mining Village, Copper
+DG - duration Wharf
+DG - draws Mining Village, Estate
+DG - plays Pearl Diver
+DG - draws Mining Village
+DG - places Wharf on top of deck
+DG - plays Mining Village
+DG - draws Wharf
+DG - plays Mining Village
+DG - draws Gold
+DG - plays Mining Village
+DG - draws Estate
+DG - plays Wharf
+DG - draws Copper, Silver
+DG - plays Wharf
+DG - draws Copper, Warehouse
+DG - plays Warehouse
+DG - draws Mining Village, Copper, Smithy
+DG - discards Estate
+DG - discards Estate
+DG - discards Estate
+DG - plays Mining Village
+DG - draws Mining Village
+DG - plays Mining Village
+DG - draws Mining Village
+DG - plays Smithy
+DG - draws Workshop, Wharf, Mining Village
+DG - plays Mining Village
+DG - draws Scheme
+DG - plays Scheme
+DG - draws Silver
+DG - plays Mining Village
+DG - draws Copper
+DG - plays Workshop
+DG - gains Silver
+DG - plays Wharf
+DG - shuffles deck
+DG - draws Silver, Estate
+DG - plays 7 Copper, 3 Silver, 1 Gold
+DG - buys Province
+DG - gains Province
+DG - buys Province
+DG - gains Province
+DG - Scheme choice: Wharf
+DG - draws Wharf, Estate, Estate
+DG - shuffles deck
+DG - draws Warehouse, Mining Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Wharf
+Titandrake - duration Wharf
+Titandrake - draws Mining Village, Estate
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Estate
+Titandrake - plays Workshop
+Titandrake - gains Warehouse
+Titandrake - plays 5 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Mining Village
+Titandrake - draws Mining Village, Scheme, Warehouse, Scheme, Copper
+ 
+---------- DG: turn 12 ----------
+DG - duration Wharf
+DG - draws Silver, Scheme
+DG - duration Wharf
+DG - draws Mining Village, Copper
+DG - duration Wharf
+DG - draws Silver, Copper
+DG - plays Scheme
+DG - draws Wharf
+DG - plays Mining Village
+DG - draws Copper
+DG - trashes Mining Village
+DG - plays Wharf
+DG - draws Workshop, Mining Village
+DG - plays Mining Village
+DG - draws Mining Village
+DG - trashes Mining Village
+DG - plays Wharf
+DG - draws Estate, Province
+DG - plays Warehouse
+DG - draws Copper, Copper, Mining Village
+DG - discards Estate
+DG - discards Estate
+DG - discards Estate
+DG - plays Mining Village
+DG - draws Province
+DG - trashes Mining Village
+DG - plays Mining Village
+DG - draws Silver
+DG - trashes Mining Village
+DG - plays Mining Village
+DG - draws Mining Village
+DG - plays Mining Village
+DG - draws Mining Village
+DG - plays Mining Village
+DG - draws Copper
+DG - plays Workshop
+DG - gains Warehouse
+DG - plays 6 Copper, 3 Silver
+DG - buys Province
+DG - gains Province
+DG - buys Province
+DG - gains Province
+DG - buys Estate
+DG - gains Estate
+DG - buys Estate
+DG - gains Estate
+DG - Scheme choice: Mining Village
+DG - draws Mining Village, Smithy, Copper, Gold, Pearl Diver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Wharf
+Titandrake - draws Gold, Province
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Warehouse
+Titandrake - draws Scheme, Province, Warehouse
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays Scheme
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Workshop
+Titandrake - trashes Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Wharf
+Titandrake - trashes Mining Village
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Mining Village, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - trashes Mining Village
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - Scheme choice: Warehouse
+Titandrake - Scheme choice: Warehouse
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Warehouse, Warehouse, Wharf, Copper
+ 
+---------- DG: turn 13 ----------
+DG - duration Wharf
+DG - shuffles deck
+DG - draws Copper, Mining Village
+DG - duration Wharf
+DG - draws Copper, Province
+DG - plays Pearl Diver
+DG - draws Mining Village
+DG - places Wharf on top of deck
+DG - plays Mining Village
+DG - draws Wharf
+DG - trashes Mining Village
+DG - plays Mining Village
+DG - draws Estate
+DG - trashes Mining Village
+DG - plays Mining Village
+DG - draws Warehouse
+DG - trashes Mining Village
+DG - plays Smithy
+DG - draws Wharf, Estate, Copper
+DG - plays Wharf
+DG - draws Province, Silver
+DG - plays Wharf
+DG - draws Estate, Warehouse
+DG - plays Warehouse
+DG - draws Scheme, Silver, Silver
+DG - discards Estate
+DG - discards Estate
+DG - discards Estate
+DG - plays Scheme
+DG - draws Copper
+DG - plays Warehouse
+DG - draws Estate, Wharf, Province
+DG - discards Province
+DG - discards Province
+DG - discards Province
+DG - plays Wharf
+DG - draws Province, Copper
+DG - plays 6 Copper, 3 Silver, 1 Gold
+DG - buys Province
+DG - gains Province
+DG - buys Duchy
+DG - gains Duchy
+DG - buys Duchy
+DG - gains Duchy
+DG - buys Estate
+DG - gains Estate
+DG - Scheme choice: Wharf
+DG - draws Wharf, Workshop, Copper, Estate
+DG - shuffles deck
+DG - draws Duchy
+ 
+------------ Game Over ------------
+DG - cards: 5 Wharf, 2 Warehouse, 1 Workshop, 1 Pearl Diver, 1 Smithy, 1 Scheme, 7 Copper, 3 Silver, 1 Gold, 6 Estate, 5 Province, 2 Duchy
+DG - total victory points: 42
+DG - turns: 13
+ 
+Titandrake - cards: 3 Scheme, 3 Wharf, 2 Warehouse, 1 Workshop, 7 Copper, 2 Gold, 1 Silver, 3 Estate, 3 Province, 1 Duchy
+Titandrake - total victory points: 24
+Titandrake - turns: 12
+ 
+1st place: DG
+2nd place: Titandrake
+ 

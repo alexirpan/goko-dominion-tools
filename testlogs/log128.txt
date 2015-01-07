@@ -1,0 +1,638 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Tunnel, Noble Brigand, Treasure Map, Wandering Minstrel, Worker's Village, Embassy, Mine, Royal Seal, Upgrade, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+HarryPeteur - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HarryPeteur - shuffles deck
+Titandrake - shuffles deck
+HarryPeteur - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- HarryPeteur: turn 1 ----------
+HarryPeteur - plays 3 Copper
+HarryPeteur - buys Tunnel
+HarryPeteur - gains Tunnel
+HarryPeteur - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Estate, Silver
+ 
+---------- HarryPeteur: turn 2 ----------
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Wandering Minstrel
+HarryPeteur - gains Wandering Minstrel
+HarryPeteur - shuffles deck
+HarryPeteur - draws Tunnel, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Silver
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- HarryPeteur: turn 3 ----------
+HarryPeteur - plays 2 Copper
+HarryPeteur - buys Vagrant
+HarryPeteur - gains Vagrant
+HarryPeteur - draws Wandering Minstrel, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper
+ 
+---------- HarryPeteur: turn 4 ----------
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Copper
+HarryPeteur - reveals: Copper
+HarryPeteur - shuffles deck
+HarryPeteur - reveals: Tunnel, Copper
+HarryPeteur - discards: Copper, Tunnel, Copper
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Worker's Village
+HarryPeteur - gains Worker's Village
+HarryPeteur - draws Estate, Estate, Copper, Vagrant
+HarryPeteur - shuffles deck
+HarryPeteur - draws Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - draws Silver, Copper, Copper, Estate, Upgrade
+ 
+---------- HarryPeteur: turn 5 ----------
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Wandering Minstrel
+HarryPeteur - reveals: Copper
+HarryPeteur - places Copper on top of deck
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Copper
+HarryPeteur - reveals: Copper, Copper, Copper
+HarryPeteur - discards: Copper, Copper, Copper
+HarryPeteur - plays 2 Copper
+HarryPeteur - buys Vagrant
+HarryPeteur - gains Vagrant
+HarryPeteur - draws Copper, Copper, Gold, Tunnel, Worker's Village
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Vagrant
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+HarryPeteur - gains Silver
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Copper, Estate
+ 
+---------- HarryPeteur: turn 6 ----------
+HarryPeteur - plays Worker's Village
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper
+HarryPeteur - plays 3 Copper, 1 Gold
+HarryPeteur - buys Upgrade
+HarryPeteur - gains Upgrade
+HarryPeteur - draws Copper, Copper, Wandering Minstrel, Vagrant, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Copper, Silver, Copper, Embassy
+ 
+---------- HarryPeteur: turn 7 ----------
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Estate
+HarryPeteur - reveals: Vagrant
+HarryPeteur - places Vagrant on top of deck
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Vagrant
+HarryPeteur - reveals: Copper, Silver, Estate
+HarryPeteur - discards: Copper, Silver, Estate
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Copper
+HarryPeteur - shuffles deck
+HarryPeteur - reveals: Tunnel
+HarryPeteur - places Tunnel in hand
+HarryPeteur - plays 3 Copper
+HarryPeteur - buys Tunnel
+HarryPeteur - gains Tunnel
+HarryPeteur - draws Copper, Copper, Worker's Village, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Embassy
+Titandrake - draws Upgrade, Silver, Silver, Wandering Minstrel, Copper
+Titandrake - discards Upgrade
+Titandrake - discards Wandering Minstrel
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 3 Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - shuffles deck
+Titandrake - draws Platinum, Estate, Copper, Vagrant, Copper
+ 
+---------- HarryPeteur: turn 8 ----------
+HarryPeteur - plays Worker's Village
+HarryPeteur - draws Silver
+HarryPeteur - plays 3 Copper, 1 Silver
+HarryPeteur - buys Embassy
+HarryPeteur - gains Embassy
+Titandrake - gains Silver
+HarryPeteur - draws Copper, Gold, Upgrade
+HarryPeteur - shuffles deck
+HarryPeteur - draws Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Copper, 1 Platinum
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Silver, Silver, Copper, Copper, Silver
+ 
+---------- HarryPeteur: turn 9 ----------
+HarryPeteur - plays Upgrade
+HarryPeteur - draws Tunnel
+HarryPeteur - trashes Estate
+HarryPeteur - gains Tunnel
+HarryPeteur - plays 2 Copper, 1 Gold
+HarryPeteur - buys Wandering Minstrel
+HarryPeteur - gains Wandering Minstrel
+HarryPeteur - draws Embassy, Wandering Minstrel, Copper, Estate, Vagrant
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Upgrade, Copper, Wandering Minstrel, Estate, Vagrant
+ 
+---------- HarryPeteur: turn 10 ----------
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Copper
+HarryPeteur - reveals: Tunnel
+HarryPeteur - places Tunnel in hand
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Vagrant
+HarryPeteur - reveals: Copper, Copper, Copper
+HarryPeteur - discards: Copper, Copper, Copper
+HarryPeteur - plays Embassy
+HarryPeteur - draws Worker's Village, Estate, Silver
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Gold
+HarryPeteur - discards Estate
+HarryPeteur - discards Estate
+HarryPeteur - discards Tunnel
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Tunnel
+HarryPeteur - reveals: Tunnel
+HarryPeteur - places Tunnel in hand
+HarryPeteur - plays Worker's Village
+HarryPeteur - draws Copper
+HarryPeteur - plays 4 Copper, 1 Silver, 1 Gold
+HarryPeteur - buys Platinum
+HarryPeteur - gains Platinum
+HarryPeteur - draws Upgrade, Copper, Copper, Copper, Wandering Minstrel
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - reveals: Embassy
+Titandrake - shuffles deck
+Titandrake - reveals: Estate, Copper
+Titandrake - places Embassy on top of deck
+Titandrake - discards: Estate, Copper
+Titandrake - plays Vagrant
+Titandrake - draws Embassy
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Embassy
+Titandrake - draws Gold, Platinum, Silver, Copper, Vagrant
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Silver
+Titandrake - gains Worker's Village
+Titandrake - plays 2 Copper, 1 Gold, 1 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Upgrade, Silver, Copper, Silver
+ 
+---------- HarryPeteur: turn 11 ----------
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - shuffles deck
+HarryPeteur - draws Platinum
+HarryPeteur - reveals: Tunnel, Tunnel, Silver
+HarryPeteur - discards: Tunnel, Tunnel, Silver
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - plays Upgrade
+HarryPeteur - draws Gold
+HarryPeteur - trashes Copper
+HarryPeteur - plays 2 Copper, 1 Platinum, 1 Gold
+HarryPeteur - buys Platinum
+HarryPeteur - gains Platinum
+HarryPeteur - draws Wandering Minstrel, Vagrant, Embassy, Estate, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Platinum
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 1 Copper, 1 Platinum
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Copper, Copper, Copper, Gold, Silver
+ 
+---------- HarryPeteur: turn 12 ----------
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Tunnel
+HarryPeteur - reveals: Estate, Gold, Copper
+HarryPeteur - discards: Estate, Gold, Copper
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Copper
+HarryPeteur - reveals: Vagrant
+HarryPeteur - places Vagrant on top of deck
+HarryPeteur - plays Embassy
+HarryPeteur - draws Vagrant, Copper, Worker's Village
+HarryPeteur - shuffles deck
+HarryPeteur - draws Wandering Minstrel, Gold
+HarryPeteur - discards Estate
+HarryPeteur - discards Tunnel
+HarryPeteur - discards Copper
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - plays Worker's Village
+HarryPeteur - draws Tunnel
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Platinum
+HarryPeteur - reveals: Gold, Copper, Tunnel
+HarryPeteur - discards: Gold, Copper, Tunnel
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Copper
+HarryPeteur - reveals: Gold
+HarryPeteur - places Gold on top of deck
+HarryPeteur - plays 3 Copper, 1 Gold, 1 Platinum
+HarryPeteur - buys Embassy
+HarryPeteur - gains Embassy
+Titandrake - gains Silver
+HarryPeteur - buys Worker's Village
+HarryPeteur - gains Worker's Village
+HarryPeteur - draws Gold, Platinum, Gold, Silver, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+HarryPeteur - gains Silver
+Titandrake - draws Vagrant, Wandering Minstrel, Embassy, Copper, Copper
+ 
+---------- HarryPeteur: turn 13 ----------
+HarryPeteur - plays 2 Gold, 1 Platinum, 1 Silver, 1 Copper
+HarryPeteur - buys Colony
+HarryPeteur - gains Colony
+HarryPeteur - draws Estate, Upgrade
+HarryPeteur - shuffles deck
+HarryPeteur - draws Gold, Tunnel, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Estate
+Titandrake - reveals: Colony, Upgrade, Estate
+Titandrake - places Upgrade on top of deck
+Titandrake - discards: Colony, Estate
+Titandrake - plays Vagrant
+Titandrake - draws Upgrade
+Titandrake - reveals: Worker's Village
+Titandrake - places Worker's Village on top of deck
+Titandrake - plays Upgrade
+Titandrake - draws Worker's Village
+Titandrake - trashes Estate
+Titandrake - gains Tunnel
+Titandrake - plays Worker's Village
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - reveals: Embassy
+Titandrake - places Embassy on top of deck
+Titandrake - plays Embassy
+Titandrake - draws Embassy, Copper, Estate, Silver, Tunnel
+Titandrake - discards Tunnel
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Embassy
+Titandrake - draws Colony, Upgrade, Platinum, Copper, Copper
+Titandrake - discards Colony
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays 3 Silver, 1 Copper, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Copper, Platinum, Silver
+Titandrake - shuffles deck
+Titandrake - draws Tunnel
+ 
+---------- HarryPeteur: turn 14 ----------
+HarryPeteur - plays Upgrade
+HarryPeteur - draws Worker's Village
+HarryPeteur - trashes Estate
+HarryPeteur - gains Tunnel
+HarryPeteur - plays Worker's Village
+HarryPeteur - draws Tunnel
+HarryPeteur - plays 2 Gold
+HarryPeteur - buys Embassy
+HarryPeteur - gains Embassy
+Titandrake - gains Silver
+HarryPeteur - draws Embassy, Gold, Copper, Wandering Minstrel, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 1 Gold, 1 Copper, 1 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Silver, Colony, Copper, Copper, Worker's Village
+ 
+---------- HarryPeteur: turn 15 ----------
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Silver
+HarryPeteur - reveals: Tunnel, Vagrant, Copper
+HarryPeteur - places Vagrant on top of deck
+HarryPeteur - discards: Tunnel, Copper
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - plays Embassy
+HarryPeteur - draws Vagrant, Copper, Gold, Platinum, Copper
+HarryPeteur - discards Vagrant
+HarryPeteur - discards Copper
+HarryPeteur - discards Copper
+HarryPeteur - plays 2 Gold, 2 Copper, 1 Silver, 1 Platinum
+HarryPeteur - buys Colony
+HarryPeteur - gains Colony
+HarryPeteur - draws Colony, Copper, Platinum, Wandering Minstrel, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Embassy
+Titandrake - reveals: Colony
+Titandrake - places Colony in hand
+Titandrake - plays Embassy
+Titandrake - draws Upgrade, Embassy, Copper, Platinum, Copper
+Titandrake - discards Colony
+Titandrake - discards Colony
+Titandrake - discards Copper
+Titandrake - plays Upgrade
+Titandrake - draws Gold
+Titandrake - trashes Copper
+Titandrake - plays Embassy
+Titandrake - draws Silver, Vagrant, Wandering Minstrel, Silver, Estate
+Titandrake - discards Estate
+Titandrake - discards Wandering Minstrel
+Titandrake - discards Vagrant
+Titandrake - plays 3 Silver, 2 Copper, 1 Platinum, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Colony, Colony, Silver, Worker's Village
+ 
+---------- HarryPeteur: turn 16 ----------
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Silver
+HarryPeteur - reveals: Embassy, Vagrant, Worker's Village
+HarryPeteur - places Embassy on top of deck
+HarryPeteur - places Vagrant on top of deck
+HarryPeteur - places Worker's Village on top of deck
+HarryPeteur - plays 1 Copper, 1 Platinum, 1 Gold, 1 Silver
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - draws Worker's Village, Vagrant, Embassy, Gold, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Colony
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Vagrant, Wandering Minstrel, Silver, Silver, Tunnel
+ 
+---------- HarryPeteur: turn 17 ----------
+HarryPeteur - plays Worker's Village
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Copper
+HarryPeteur - reveals: Colony
+HarryPeteur - places Colony in hand
+HarryPeteur - plays Embassy
+HarryPeteur - draws Worker's Village, Vagrant, Silver, Copper, Platinum
+HarryPeteur - discards Estate
+HarryPeteur - discards Colony
+HarryPeteur - discards Copper
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Tunnel
+HarryPeteur - reveals: Tunnel
+HarryPeteur - places Tunnel in hand
+HarryPeteur - plays Worker's Village
+HarryPeteur - draws Copper
+HarryPeteur - plays 3 Copper, 1 Gold, 1 Silver, 1 Platinum
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - buys Duchy
+HarryPeteur - gains Duchy
+HarryPeteur - draws Gold, Wandering Minstrel, Tunnel, Gold, Embassy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Gold
+Titandrake - reveals: Platinum, Gold, Platinum
+Titandrake - discards: Platinum, Gold, Platinum
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Vagrant, Embassy, Embassy
+ 
+---------- HarryPeteur: turn 18 ----------
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Platinum
+HarryPeteur - reveals: Upgrade, Copper, Province
+HarryPeteur - places Upgrade on top of deck
+HarryPeteur - discards: Copper, Province
+HarryPeteur - plays Embassy
+HarryPeteur - draws Upgrade, Embassy, Silver, Tunnel, Copper
+HarryPeteur - discards Tunnel
+HarryPeteur - discards Tunnel
+HarryPeteur - discards Copper
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - plays Upgrade
+HarryPeteur - draws Gold
+HarryPeteur - trashes Silver
+HarryPeteur - gains Worker's Village
+HarryPeteur - plays Embassy
+HarryPeteur - draws Gold, Wandering Minstrel, Colony, Gold, Gold
+HarryPeteur - discards Wandering Minstrel
+HarryPeteur - discards Colony
+HarryPeteur - discards Gold
+HarryPeteur - plays 5 Gold, 1 Platinum
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - shuffles deck
+HarryPeteur - draws Duchy, Vagrant, Platinum, Gold, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Embassy
+Titandrake - draws Copper, Worker's Village, Silver, Upgrade, Colony
+Titandrake - discards Colony
+Titandrake - discards Vagrant
+Titandrake - discards Upgrade
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Wandering Minstrel, Duchy, Embassy, Silver
+ 
+---------- HarryPeteur: turn 19 ----------
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Vagrant
+HarryPeteur - reveals: Platinum
+HarryPeteur - places Platinum on top of deck
+HarryPeteur - plays Vagrant
+HarryPeteur - draws Platinum
+HarryPeteur - reveals: Embassy
+HarryPeteur - places Embassy on top of deck
+HarryPeteur - plays 2 Platinum, 1 Gold
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - draws Embassy, Gold, Copper, Wandering Minstrel, Embassy
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Province
+Titandrake - reveals: Copper, Colony, Tunnel
+Titandrake - discards: Copper, Colony, Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Embassy
+Titandrake - draws Platinum, Vagrant, Worker's Village, Silver, Copper
+Titandrake - discards Province
+Titandrake - discards Duchy
+Titandrake - discards Estate
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Colony
+Titandrake - places Colony in hand
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays 3 Silver, 1 Platinum, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Worker's Village, Silver, Embassy, Upgrade, Gold
+ 
+---------- HarryPeteur: turn 20 ----------
+HarryPeteur - plays Wandering Minstrel
+HarryPeteur - draws Copper
+HarryPeteur - reveals: Tunnel, Gold, Tunnel
+HarryPeteur - discards: Tunnel, Gold, Tunnel
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - reveals reaction Tunnel
+HarryPeteur - gains Gold
+HarryPeteur - plays Embassy
+HarryPeteur - draws Gold, Silver, Copper, Copper, Gold
+HarryPeteur - discards Embassy
+HarryPeteur - discards Copper
+HarryPeteur - discards Copper
+HarryPeteur - plays 3 Gold, 2 Copper, 1 Silver
+HarryPeteur - buys Colony
+HarryPeteur - gains Colony
+HarryPeteur - draws Gold, Gold, Copper, Gold, Worker's Village
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Platinum
+Titandrake - plays Embassy
+Titandrake - draws Colony, Colony, Silver, Estate, Copper
+Titandrake - discards Colony
+Titandrake - discards Colony
+Titandrake - discards Estate
+Titandrake - plays 2 Silver, 1 Gold, 1 Platinum, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Upgrade, Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Embassy, Colony
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Upgrade, 2 Vagrant, 2 Embassy, 2 Worker's Village, 1 Wandering Minstrel, 5 Silver, 3 Copper, 3 Gold, 2 Platinum, 5 Colony, 3 Estate, 2 Province, 2 Duchy, 1 Tunnel
+Titandrake - total victory points: 73
+Titandrake - turns: 21
+ 
+HarryPeteur - cards: 3 Worker's Village, 3 Embassy, 2 Vagrant, 2 Wandering Minstrel, 11 Gold, 1 Upgrade, 6 Copper, 2 Platinum, 1 Silver, 4 Province, 4 Tunnel, 3 Colony, 1 Duchy, 1 Estate
+HarryPeteur - total victory points: 66
+HarryPeteur - turns: 20
+ 
+1st place: Titandrake
+2nd place: HarryPeteur
+ 

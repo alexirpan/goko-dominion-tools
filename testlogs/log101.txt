@@ -1,0 +1,466 @@
+------------ Game Setup ------------
+Supply cards: Warehouse, Woodcutter, Fortress, Militia, Mining Village, Tournament, Graverobber, Haggler, Laboratory, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Monsieur X - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Monsieur X - shuffles deck
+Titandrake - shuffles deck
+Monsieur X - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 1 ----------
+Monsieur X - plays 4 Copper
+Monsieur X - buys Militia
+Monsieur X - gains Militia
+Monsieur X - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- Monsieur X: turn 2 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Silver
+Monsieur X - gains Silver
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Copper, Militia, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Estate, Militia, Copper, Copper, Copper
+ 
+---------- Monsieur X: turn 3 ----------
+Monsieur X - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Haggler
+Monsieur X - gains Haggler
+Monsieur X - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Haggler, Tournament, Estate
+ 
+---------- Monsieur X: turn 4 ----------
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Tournament
+Monsieur X - gains Tournament
+Monsieur X - draws Copper, Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Silver, Tournament, Haggler
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper
+Titandrake - buys Laboratory
+Titandrake - gains Tournament
+Titandrake - gains Laboratory
+Titandrake - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Monsieur X: turn 5 ----------
+Monsieur X - plays Tournament
+Monsieur X - draws Copper
+Monsieur X - plays Haggler
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Gold
+Monsieur X - gains Laboratory
+Monsieur X - gains Gold
+Monsieur X - draws Copper, Copper, Copper, Estate, Militia
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Militia, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- Monsieur X: turn 6 ----------
+Monsieur X - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+Monsieur X - plays 3 Copper
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Copper, Estate, Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Militia
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Haggler, Estate, Laboratory, Tournament, Copper
+ 
+---------- Monsieur X: turn 7 ----------
+Monsieur X - plays 3 Copper
+Monsieur X - buys Warehouse
+Monsieur X - gains Warehouse
+Monsieur X - draws Copper, Silver, Tournament, Laboratory, Laboratory
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Laboratory
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Estate
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays Haggler
+Titandrake - plays 3 Copper
+Titandrake - buys Gold
+Titandrake - gains Laboratory
+Titandrake - gains Gold
+Titandrake - draws Copper, Tournament
+Titandrake - shuffles deck
+Titandrake - draws Silver, Militia, Laboratory
+ 
+---------- Monsieur X: turn 8 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Copper
+Monsieur X - plays Laboratory
+Monsieur X - draws Militia, Copper
+Monsieur X - plays Tournament
+Monsieur X - draws Estate
+Monsieur X - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Militia
+Monsieur X - plays 4 Copper, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Province
+Monsieur X - draws Haggler, Gold
+Monsieur X - shuffles deck
+Monsieur X - draws Militia, Laboratory, Warehouse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Gold
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Laboratory, Haggler, Tournament
+ 
+---------- Monsieur X: turn 9 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Laboratory, Silver
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Copper
+Monsieur X - plays Warehouse
+Monsieur X - draws Estate, Copper, Estate
+Monsieur X - discards Estate
+Monsieur X - discards Estate
+Monsieur X - discards Militia
+Monsieur X - plays Haggler
+Monsieur X - plays 3 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Province
+Monsieur X - gains Tournament
+Monsieur X - gains Province
+Monsieur X - draws Copper, Copper, Tournament, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Laboratory, Copper
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Estate
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Haggler
+Titandrake - plays 5 Copper
+Titandrake - buys Province
+Titandrake - gains Graverobber
+Titandrake - gains Province
+Titandrake - draws Laboratory, Estate
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Copper, Tournament
+ 
+---------- Monsieur X: turn 10 ----------
+Monsieur X - plays Tournament
+Monsieur X - draws Province
+Monsieur X - plays 4 Copper
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Estate
+Monsieur X - shuffles deck
+Monsieur X - draws Haggler, Estate, Tournament, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Laboratory, Graverobber
+Titandrake - plays Laboratory
+Titandrake - draws Haggler, Copper
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays Graverobber
+Titandrake - trashes Haggler
+Titandrake - gains Province
+Titandrake - plays 3 Copper
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Laboratory, Copper, Laboratory, Copper, Gold
+ 
+---------- Monsieur X: turn 11 ----------
+Monsieur X - plays Tournament
+Monsieur X - draws Tournament
+Monsieur X - plays Tournament
+Monsieur X - draws Laboratory
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Militia
+Monsieur X - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+Monsieur X - plays 1 Copper
+Monsieur X - buys Graverobber
+Monsieur X - gains Graverobber
+Monsieur X - draws Laboratory, Gold, Province, Silver, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Estate
+Titandrake - plays Laboratory
+Titandrake - draws Militia, Copper
+Titandrake - plays Militia
+Monsieur X - discards Copper
+Monsieur X - discards Province
+Titandrake - plays Gold
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Gold, Province, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Laboratory
+ 
+---------- Monsieur X: turn 12 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Copper
+Monsieur X - plays 2 Copper, 1 Gold, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Laboratory
+Monsieur X - draws Copper, Estate, Warehouse, Laboratory, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Tournament, Laboratory
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Followers
+Titandrake - draws Followers
+Titandrake - plays Laboratory
+Titandrake - draws Laboratory, Copper
+Titandrake - plays Laboratory
+Titandrake - draws Estate, Copper
+Titandrake - plays Followers
+Titandrake - draws Graverobber, Militia
+Titandrake - gains Estate
+Monsieur X - gains Curse
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Laboratory, Province, Copper, Copper, Tournament
+ 
+---------- Monsieur X: turn 13 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper
+Monsieur X - shuffles deck
+Monsieur X - draws Graverobber
+Monsieur X - plays Warehouse
+Monsieur X - draws Estate, Copper, Curse
+Monsieur X - discards Curse
+Monsieur X - discards Estate
+Monsieur X - discards Copper
+Monsieur X - plays Graverobber
+Monsieur X - gains Haggler
+Monsieur X - plays 2 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Haggler, Copper, Copper, Militia, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - draws Princess
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Laboratory
+Titandrake - plays Laboratory
+Titandrake - draws Haggler, Estate
+Titandrake - plays Princess
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Gold, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Graverobber, Estate
+ 
+---------- Monsieur X: turn 14 ----------
+Monsieur X - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Graverobber
+Monsieur X - plays 2 Copper, 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Copper, Province, Laboratory, Haggler, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Tournament, Copper, Haggler, Estate
+ 
+---------- Monsieur X: turn 15 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Tournament, Copper
+Monsieur X - plays Tournament
+Monsieur X - reveals Province
+Monsieur X - discards Province
+Monsieur X - gains Trusty Steed
+Monsieur X - draws Trusty Steed
+Monsieur X - plays Trusty Steed
+Monsieur X - takes 2 actions
+Monsieur X - draws Estate, Silver
+Monsieur X - plays Haggler
+Monsieur X - plays 2 Copper, 1 Silver
+Monsieur X - buys Laboratory
+Monsieur X - gains Mining Village
+Monsieur X - gains Laboratory
+Monsieur X - draws Laboratory, Laboratory, Estate, Tournament
+Monsieur X - shuffles deck
+Monsieur X - draws Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Tournament
+Titandrake - draws Laboratory
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Followers
+Titandrake - plays Followers
+Titandrake - draws Province, Warehouse
+Titandrake - gains Estate
+Monsieur X - gains Curse
+Monsieur X - discards Curse
+Monsieur X - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Militia, Tournament, Silver, Province
+ 
+---------- Monsieur X: turn 16 ----------
+Monsieur X - plays Laboratory
+Monsieur X - draws Province, Mining Village
+Monsieur X - plays Laboratory
+Monsieur X - draws Copper, Laboratory
+Monsieur X - plays Tournament
+Monsieur X - reveals Province
+Titandrake - reveals Province
+Monsieur X - discards Province
+Monsieur X - gains Bag of Gold
+Monsieur X - plays Mining Village
+Monsieur X - draws Bag of Gold
+Monsieur X - trashes Mining Village
+Monsieur X - plays Bag of Gold
+Monsieur X - gains Gold
+Monsieur X - plays Laboratory
+Monsieur X - draws Gold, Copper
+Monsieur X - plays 2 Copper, 1 Gold
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Warehouse, Silver, Militia, Copper, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Tournament
+Monsieur X - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - plays Militia
+Monsieur X - discards Warehouse
+Monsieur X - discards Province
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Laboratory, Copper, Estate, Copper
+ 
+---------- Monsieur X: turn 17 ----------
+Monsieur X - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Duchy
+Monsieur X - plays 1 Silver, 1 Copper
+Monsieur X - buys Duchy
+Monsieur X - gains Duchy
+Monsieur X - draws Copper, Haggler, Copper, Graverobber, Haggler
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Duchy, Princess
+Titandrake - plays Princess
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Gold, Laboratory, Laboratory, Laboratory
+ 
+---------- Monsieur X: turn 18 ----------
+Monsieur X - plays Graverobber
+Monsieur X - trashes Haggler
+Monsieur X - gains Province
+Monsieur X - plays 2 Copper
+Monsieur X - buys Estate
+Monsieur X - gains Estate
+Monsieur X - draws Laboratory, Copper, Laboratory, Estate, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Laboratory
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Copper
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - draws Duchy
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Followers, Estate, Copper, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Laboratory, 2 Tournament, 1 Followers, 1 Haggler, 1 Graverobber, 1 Princess, 1 Warehouse, 1 Militia, 7 Copper, 2 Gold, 1 Silver, 9 Estate, 5 Duchy, 3 Province
+Titandrake - total victory points: 42
+Titandrake - turns: 19
+ 
+Monsieur X - cards: 5 Laboratory, 2 Tournament, 1 Bag of Gold, 1 Warehouse, 1 Militia, 1 Graverobber, 1 Haggler, 1 Trusty Steed, 7 Copper, 2 Gold, 1 Silver, 5 Estate, 3 Province, 3 Duchy, 2 Curse
+Monsieur X - total victory points: 30
+Monsieur X - turns: 18
+ 
+1st place: Titandrake
+2nd place: Monsieur X
+ 

@@ -1,0 +1,327 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Pawn, Pearl Diver, Loan, Oasis, Bridge, Worker's Village, Harvest, Tactician, Trading Post, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+silverspawn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn - shuffles deck
+Titandrake - shuffles deck
+silverspawn - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- silverspawn: turn 1 ----------
+silverspawn - plays 5 Copper
+silverspawn - buys Trading Post
+silverspawn - gains Trading Post
+silverspawn - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 2 ----------
+silverspawn - plays 2 Copper
+silverspawn - buys Pawn
+silverspawn - gains Pawn
+silverspawn - shuffles deck
+silverspawn - draws Copper, Trading Post, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Loan, Bridge, Estate, Copper, Copper
+ 
+---------- silverspawn: turn 3 ----------
+silverspawn - plays Trading Post
+silverspawn - trashes Estate, Estate
+silverspawn - gains Silver
+silverspawn - plays 2 Copper, 1 Silver
+silverspawn - buys Bridge
+silverspawn - gains Bridge
+silverspawn - draws Pawn, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - plays Loan
+Titandrake - reveals Estate, Copper
+Titandrake - trashes Copper
+Titandrake - discards Estate
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Loan, Copper, Copper
+ 
+---------- silverspawn: turn 4 ----------
+silverspawn - plays Pawn
+silverspawn - takes 1 coin
+silverspawn - draws Copper
+silverspawn - plays 4 Copper
+silverspawn - buys Tactician
+silverspawn - gains Tactician
+silverspawn - draws Copper
+silverspawn - shuffles deck
+silverspawn - draws Copper, Tactician, Pawn, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - plays Loan
+Titandrake - reveals Estate, Copper
+Titandrake - trashes Copper
+Titandrake - discards Estate
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - draws Tactician, Estate, Copper, Bridge, Bridge
+ 
+---------- silverspawn: turn 5 ----------
+silverspawn - plays Tactician
+silverspawn - discards: Copper, Copper, Pawn, Copper
+silverspawn - draws Trading Post, Copper, Bridge, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Estate, Copper, Bridge, Bridge
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Loan, Estate, Bridge
+ 
+---------- silverspawn: turn 6 ----------
+silverspawn - duration Tactician
+silverspawn - draws Copper, Copper, Silver
+silverspawn - shuffles deck
+silverspawn - draws Pawn, Copper
+silverspawn - plays Pawn
+silverspawn - takes 1 action
+silverspawn - draws Copper
+silverspawn - plays Trading Post
+silverspawn - trashes Estate, Copper
+silverspawn - gains Silver
+silverspawn - plays Bridge
+silverspawn - plays 5 Copper, 2 Silver
+silverspawn - buys Worker's Village
+silverspawn - gains Worker's Village
+silverspawn - buys Tactician
+silverspawn - gains Tactician
+silverspawn - buys Worker's Village
+silverspawn - gains Worker's Village
+silverspawn - draws Copper
+silverspawn - shuffles deck
+silverspawn - draws Copper, Trading Post, Copper, Worker's Village
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Tactician
+Titandrake - draws Copper, Copper, Loan, Estate, Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays 4 Copper
+Titandrake - plays Loan
+Titandrake - reveals Estate, Copper
+Titandrake - trashes Copper
+Titandrake - discards Estate
+Titandrake - plays Loan
+Titandrake - shuffles deck
+Titandrake - reveals Estate
+Titandrake - discards Estate
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - shuffles deck
+Titandrake - draws Worker's Village, Copper, Estate, Estate, Estate
+ 
+---------- silverspawn: turn 7 ----------
+silverspawn - plays Worker's Village
+silverspawn - draws Copper
+silverspawn - plays Trading Post
+silverspawn - trashes Copper, Copper
+silverspawn - gains Silver
+silverspawn - plays 2 Copper, 1 Silver
+silverspawn - buys Bridge
+silverspawn - gains Bridge
+silverspawn - draws Worker's Village, Pawn, Silver, Tactician, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Loan
+Titandrake - plays Copper
+Titandrake - plays Loan
+Titandrake - reveals Bridge, Tactician, Bridge, Bridge, Copper
+Titandrake - trashes Copper
+Titandrake - discards: Bridge, Tactician, Bridge, Bridge
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Copper, Bridge, Bridge, Loan
+ 
+---------- silverspawn: turn 8 ----------
+silverspawn - plays Tactician
+silverspawn - discards: Worker's Village, Pawn, Silver, Copper
+silverspawn - draws Bridge, Tactician, Copper, Silver
+silverspawn - shuffles deck
+silverspawn - draws Pawn
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - plays Loan
+Titandrake - shuffles deck
+Titandrake - reveals Worker's Village, Loan
+Titandrake - discards Loan
+Titandrake - discards Worker's Village
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Tactician, Estate, Copper, Bridge, Pawn
+ 
+---------- silverspawn: turn 9 ----------
+silverspawn - duration Tactician
+silverspawn - draws Bridge, Worker's Village, Silver, Copper, Copper
+silverspawn - plays Worker's Village
+silverspawn - draws Copper
+silverspawn - plays Pawn
+silverspawn - takes 1 action
+silverspawn - draws Trading Post
+silverspawn - plays Trading Post
+silverspawn - trashes Copper, Copper
+silverspawn - gains Silver
+silverspawn - plays Bridge
+silverspawn - plays Tactician
+silverspawn - discards: Bridge, Copper, Silver, Silver, Copper, Silver
+silverspawn - buys Pawn
+silverspawn - gains Pawn
+silverspawn - draws Silver, Worker's Village
+silverspawn - shuffles deck
+silverspawn - draws Bridge, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Estate
+Titandrake - plays Tactician
+Titandrake - discards: Estate, Copper, Bridge, Estate
+Titandrake - draws Estate, Bridge, Bridge
+Titandrake - shuffles deck
+Titandrake - draws Bridge, Estate
+ 
+---------- silverspawn: turn 10 ----------
+silverspawn - duration Tactician
+silverspawn - draws Worker's Village, Copper, Trading Post, Tactician, Silver
+silverspawn - plays Worker's Village
+silverspawn - draws Pawn
+silverspawn - plays Worker's Village
+silverspawn - draws Silver
+silverspawn - plays Pawn
+silverspawn - takes 1 action
+silverspawn - draws Bridge
+silverspawn - plays Trading Post
+silverspawn - trashes Copper, Copper
+silverspawn - gains Silver
+silverspawn - plays Bridge
+silverspawn - plays Bridge
+silverspawn - plays 5 Silver
+silverspawn - buys Bridge
+silverspawn - gains Bridge
+silverspawn - buys Bridge
+silverspawn - gains Bridge
+silverspawn - buys Bridge
+silverspawn - gains Bridge
+silverspawn - buys Worker's Village
+silverspawn - gains Worker's Village
+silverspawn - buys Worker's Village
+silverspawn - gains Worker's Village
+silverspawn - buys Worker's Village
+silverspawn - gains Worker's Village
+silverspawn - draws Pawn
+silverspawn - shuffles deck
+silverspawn - draws Pawn, Bridge, Silver, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Tactician
+Titandrake - draws Loan, Copper, Worker's Village, Estate, Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays 3 Copper
+Titandrake - plays Loan
+Titandrake - reveals Bridge, Pawn, Pawn, Bridge, Loan
+Titandrake - trashes Loan
+Titandrake - discards: Bridge, Pawn, Pawn, Bridge
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Bridge, Worker's Village, Bridge, Pawn
+ 
+---------- silverspawn: turn 11 ----------
+silverspawn - plays Pawn
+silverspawn - takes 1 action
+silverspawn - draws Tactician
+silverspawn - plays Tactician
+silverspawn - discards: Pawn, Bridge, Silver, Silver
+silverspawn - draws Tactician, Silver, Worker's Village, Worker's Village, Bridge
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Bridge
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Copper, Province, Estate, Tactician
+ 
+------------ Game Over ------------
+Titandrake - cards: 8 Pawn, 5 Worker's Village, 5 Bridge, 1 Tactician, 3 Copper, 1 Loan, 6 Estate, 1 Province
+Titandrake - total victory points: 12
+Titandrake - turns: 12
+ 
+silverspawn - cards: 5 Worker's Village, 5 Bridge, 2 Tactician, 2 Pawn, 1 Trading Post, 5 Silver
+silverspawn - total victory points: 0
+silverspawn - turns: 11
+ 
+1st place: Titandrake
+2nd place: silverspawn
+ 

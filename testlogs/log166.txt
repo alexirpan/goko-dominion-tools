@@ -1,0 +1,539 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Swindler, Farming Village, Scavenger, Bazaar, Hunting Party, Library, Market, Mine, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dereeder - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dereeder - shuffles deck
+Titandrake - shuffles deck
+dereeder - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- dereeder: turn 1 ----------
+dereeder - plays 3 Copper
+dereeder - buys Swindler
+dereeder - gains Swindler
+dereeder - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- dereeder: turn 2 ----------
+dereeder - plays 4 Copper
+dereeder - buys Silver
+dereeder - gains Silver
+dereeder - shuffles deck
+dereeder - draws Swindler, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Swindler, Copper, Copper, Copper
+ 
+---------- dereeder: turn 3 ----------
+dereeder - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+dereeder - plays 2 Copper
+dereeder - buys Scavenger
+dereeder - gains Scavenger
+dereeder - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Swindler
+dereeder - reveals Copper
+dereeder - trashes Copper
+dereeder - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper
+ 
+---------- dereeder: turn 4 ----------
+dereeder - plays 4 Copper, 1 Silver
+dereeder - buys Hunting Party
+dereeder - gains Hunting Party
+dereeder - draws Estate
+dereeder - shuffles deck
+dereeder - draws Copper, Scavenger, Curse, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Swindler, Hunting Party, Copper, Copper
+ 
+---------- dereeder: turn 5 ----------
+dereeder - plays Scavenger
+dereeder - plays 2 Copper
+dereeder - buys Farming Village
+dereeder - gains Farming Village
+dereeder - draws Hunting Party, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Swindler, Copper, Copper, Silver
+Titandrake - reveals Copper, Estate
+Titandrake - places Estate in hand
+Titandrake - discards Copper
+Titandrake - plays Swindler
+dereeder - reveals Silver
+dereeder - trashes Silver
+dereeder - gains Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Swindler, Hunting Party, Copper, Copper
+ 
+---------- dereeder: turn 6 ----------
+dereeder - plays Hunting Party
+dereeder - draws Estate
+dereeder - reveals hand: Copper, Copper, Estate, Copper, Estate
+dereeder - reveals Copper, Swindler
+dereeder - places Swindler in hand
+dereeder - discards Copper
+dereeder - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+dereeder - plays 3 Copper
+dereeder - buys Hunting Party
+dereeder - gains Hunting Party
+dereeder - shuffles deck
+dereeder - draws Farming Village, Copper, Estate, Curse, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Hunting Party, Swindler, Copper, Copper, Copper
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Swindler, Copper, Copper, Copper, Silver, Copper
+Titandrake - reveals Copper, Copper, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Swindler, Copper, Copper, Copper, Silver, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Swindler, Copper, Copper, Estate, Copper
+Titandrake - discards: Estate, Swindler, Copper, Copper, Estate, Copper
+Titandrake - plays Swindler
+dereeder - reveals Estate
+dereeder - trashes Estate
+dereeder - gains Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Estate, Hunting Party, Copper, Swindler, Hunting Party
+ 
+---------- dereeder: turn 7 ----------
+dereeder - plays Farming Village
+dereeder - reveals Copper
+dereeder - places Copper in hand
+dereeder - plays 2 Copper
+dereeder - buys Duchess
+dereeder - gains Duchess
+dereeder - draws Swindler, Copper, Scavenger, Hunting Party, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Estate, Hunting Party, Copper, Swindler, Copper
+Titandrake - reveals Estate, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Estate
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Estate, Copper, Swindler, Copper, Silver, Estate
+Titandrake - reveals Swindler, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Swindler
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Estate, Copper, Swindler, Copper, Silver, Estate, Copper
+Titandrake - reveals Copper, Market
+Titandrake - places Market in hand
+Titandrake - discards Copper
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Swindler
+dereeder - reveals Copper
+dereeder - trashes Copper
+dereeder - gains Curse
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Hunting Party, Estate
+ 
+---------- dereeder: turn 8 ----------
+dereeder - plays Hunting Party
+dereeder - draws Copper
+dereeder - reveals hand: Swindler, Copper, Scavenger, Copper, Copper
+dereeder - reveals Hunting Party
+dereeder - places Hunting Party in hand
+dereeder - plays Hunting Party
+dereeder - draws Silver
+dereeder - reveals hand: Swindler, Copper, Scavenger, Copper, Copper, Silver
+dereeder - shuffles deck
+dereeder - reveals Copper, Duchess
+dereeder - places Duchess in hand
+dereeder - discards Copper
+dereeder - plays Swindler
+Titandrake - reveals Hunting Party
+Titandrake - trashes Hunting Party
+Titandrake - gains Duchy
+dereeder - plays 3 Copper, 1 Silver
+dereeder - buys Hunting Party
+dereeder - gains Hunting Party
+dereeder - draws Estate, Estate, Curse, Copper, Farming Village
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Farming Village
+Titandrake - reveals hand: Copper, Copper, Hunting Party, Estate, Farming Village
+Titandrake - reveals Hunting Party, Copper, Copper, Market
+Titandrake - places Market in hand
+Titandrake - discards: Hunting Party, Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Copper, Copper, Estate, Farming Village, Market, Estate
+Titandrake - reveals Swindler
+Titandrake - places Swindler in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Swindler
+dereeder - reveals Estate
+dereeder - trashes Estate
+dereeder - gains Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Swindler, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party
+ 
+---------- dereeder: turn 9 ----------
+dereeder - plays Farming Village
+dereeder - shuffles deck
+dereeder - reveals Curse, Copper
+dereeder - places Copper in hand
+dereeder - discards Curse
+dereeder - draws Hunting Party, Copper, Copper, Duchess, Hunting Party
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Swindler, Estate, Copper, Copper, Hunting Party
+Titandrake - reveals Swindler, Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - discards Swindler
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Estate
+Titandrake - plays Swindler
+dereeder - reveals Hunting Party
+dereeder - trashes Hunting Party
+dereeder - gains Duchy
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Estate, Copper, Copper, Copper, Copper
+Titandrake - reveals Copper, Duchy
+Titandrake - places Duchy in hand
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Market, Copper, Copper, Hunting Party, Estate
+ 
+---------- dereeder: turn 10 ----------
+dereeder - plays Hunting Party
+dereeder - draws Scavenger
+dereeder - reveals hand: Hunting Party, Copper, Copper, Duchess, Scavenger
+dereeder - reveals Silver
+dereeder - places Silver in hand
+dereeder - plays Hunting Party
+dereeder - draws Swindler
+dereeder - reveals hand: Copper, Copper, Duchess, Scavenger, Silver, Swindler
+dereeder - reveals Estate
+dereeder - places Estate in hand
+dereeder - plays Swindler
+Titandrake - reveals Hunting Party
+Titandrake - trashes Hunting Party
+Titandrake - gains Duchy
+dereeder - plays 2 Copper, 1 Silver
+dereeder - buys Hunting Party
+dereeder - gains Hunting Party
+dereeder - draws Copper
+dereeder - shuffles deck
+dereeder - draws Farming Village, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Market, Copper, Copper, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - discards Silver
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Hunting Party, Swindler, Copper, Hunting Party, Estate
+ 
+---------- dereeder: turn 11 ----------
+dereeder - plays Farming Village
+dereeder - reveals Curse, Duchy, Estate, Hunting Party
+dereeder - places Hunting Party in hand
+dereeder - discards: Curse, Duchy, Estate
+dereeder - plays Hunting Party
+dereeder - draws Estate
+dereeder - reveals hand: Copper, Curse, Copper, Copper, Estate
+dereeder - reveals Estate, Hunting Party
+dereeder - places Hunting Party in hand
+dereeder - discards Estate
+dereeder - plays Hunting Party
+dereeder - draws Silver
+dereeder - reveals hand: Copper, Curse, Copper, Copper, Estate, Silver
+dereeder - reveals Duchess
+dereeder - places Duchess in hand
+dereeder - plays Duchess
+dereeder - places Hunting Party on top of deck
+Titandrake - discards Copper
+dereeder - plays 3 Copper, 1 Silver
+dereeder - buys Market
+dereeder - gains Market
+dereeder - draws Hunting Party, Copper, Copper, Scavenger, Swindler
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Hunting Party, Swindler, Copper, Estate, Hunting Party
+Titandrake - reveals Copper, Copper, Duchy
+Titandrake - places Duchy in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Duchy
+Titandrake - reveals hand: Hunting Party, Swindler, Copper, Estate, Duchy, Duchy
+Titandrake - shuffles deck
+Titandrake - reveals Swindler, Market
+Titandrake - places Market in hand
+Titandrake - discards Swindler
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Swindler, Copper, Estate, Duchy, Duchy, Market, Copper
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Market
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Swindler
+dereeder - shuffles deck
+dereeder - reveals Curse
+dereeder - trashes Curse
+dereeder - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Hunting Party, Estate, Silver, Copper
+ 
+---------- dereeder: turn 12 ----------
+dereeder - plays Hunting Party
+dereeder - draws Duchess
+dereeder - reveals hand: Copper, Copper, Scavenger, Swindler, Duchess
+dereeder - reveals Hunting Party
+dereeder - places Hunting Party in hand
+dereeder - plays Hunting Party
+dereeder - draws Estate
+dereeder - reveals hand: Copper, Copper, Scavenger, Swindler, Duchess, Estate
+dereeder - reveals Curse
+dereeder - places Curse in hand
+dereeder - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+dereeder - plays 2 Copper
+dereeder - buys Farming Village
+dereeder - gains Farming Village
+dereeder - draws Copper, Hunting Party, Farming Village, Duchy, Market
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Copper, Estate, Silver, Copper, Estate
+Titandrake - reveals Copper, Market
+Titandrake - places Market in hand
+Titandrake - discards Copper
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Market, Silver, Swindler, Hunting Party, Copper
+ 
+---------- dereeder: turn 13 ----------
+dereeder - plays Market
+dereeder - draws Estate
+dereeder - plays Hunting Party
+dereeder - draws Copper
+dereeder - reveals hand: Copper, Farming Village, Duchy, Estate, Copper
+dereeder - reveals Silver
+dereeder - places Silver in hand
+dereeder - plays Farming Village
+dereeder - reveals Estate, Copper
+dereeder - places Copper in hand
+dereeder - discards Estate
+dereeder - plays 3 Copper, 1 Silver
+dereeder - buys Market
+dereeder - gains Market
+dereeder - shuffles deck
+dereeder - draws Curse, Copper, Copper, Swindler, Scavenger
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Duchy
+Titandrake - reveals hand: Market, Silver, Swindler, Copper, Duchy
+Titandrake - reveals Market, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Market
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Market, Silver, Swindler, Copper, Duchy, Copper
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Swindler
+Titandrake - places Swindler in hand
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Swindler
+dereeder - reveals Estate
+dereeder - trashes Estate
+dereeder - gains Estate
+Titandrake - plays Swindler
+dereeder - reveals Hunting Party
+dereeder - trashes Hunting Party
+dereeder - gains Duchy
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Hunting Party, Estate, Curse, Copper, Copper
+ 
+---------- dereeder: turn 14 ----------
+dereeder - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Farming Village
+Titandrake - trashes Farming Village
+Titandrake - gains Scavenger
+dereeder - plays 2 Copper
+dereeder - buys Farming Village
+dereeder - gains Farming Village
+dereeder - draws Hunting Party, Duchess, Duchy, Market, Farming Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Estate, Curse, Copper, Copper, Silver
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Estate, Curse, Copper, Copper, Silver, Copper
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Market
+Titandrake - reveals hand: Estate, Curse, Copper, Copper, Silver, Copper, Market
+Titandrake - reveals Estate, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Estate
+Titandrake - plays Hunting Party
+Titandrake - draws Swindler
+Titandrake - reveals hand: Estate, Curse, Copper, Copper, Silver, Copper, Market, Swindler
+Titandrake - reveals Copper, Copper, Swindler, Duchy
+Titandrake - places Duchy in hand
+Titandrake - discards: Copper, Copper, Swindler
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Swindler
+dereeder - reveals Silver
+dereeder - trashes Silver
+dereeder - gains Silver
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Market, Province, Swindler, Market
+ 
+---------- dereeder: turn 15 ----------
+dereeder - plays Farming Village
+dereeder - reveals Estate, Copper
+dereeder - places Copper in hand
+dereeder - discards Estate
+dereeder - plays Market
+dereeder - draws Curse
+dereeder - plays Hunting Party
+dereeder - draws Copper
+dereeder - reveals hand: Duchess, Duchy, Copper, Curse, Copper
+dereeder - reveals Market
+dereeder - places Market in hand
+dereeder - plays Market
+dereeder - draws Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Market, 4 Hunting Party, 3 Swindler, 1 Scavenger, 6 Copper, 3 Silver, 4 Estate, 2 Province, 2 Duchy, 1 Curse
+Titandrake - total victory points: 21
+Titandrake - turns: 15
+ 
+dereeder - resigned
+dereeder - cards: 2 Farming Village, 1 Duchess, 1 Swindler, 1 Scavenger, 1 Hunting Party, 5 Copper, 1 Silver, 3 Estate, 2 Duchy, 2 Curse
+dereeder - total victory points: 7
+dereeder - turns: 14
+ 
+1st place: Titandrake
+2nd place: dereeder
+ 

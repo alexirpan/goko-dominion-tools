@@ -1,0 +1,532 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Embargo, Ambassador, Forager, Scheme, Watchtower, Familiar, Island, Scout, Young Witch, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Embargo
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Ambassador
+SM.SM - gains Ambassador
+SM.SM - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Forager
+SM.SM - gains Forager
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 2 Copper
+SM.SM - buys Beggar
+SM.SM - gains Beggar
+SM.SM - draws Forager, Copper, Ambassador, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Forager
+SM.SM - trashes Copper
+SM.SM - plays Ambassador
+SM.SM - reveals Copper
+SM.SM - returns Copper to the Supply
+SM.SM - returns Copper to the Supply
+Titandrake - gains Copper
+SM.SM - draws Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper, Ambassador
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Ambassador, Forager
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Ambassador
+SM.SM - reveals Copper
+SM.SM - returns Copper to the Supply
+SM.SM - returns Copper to the Supply
+Titandrake - gains Copper
+SM.SM - draws Copper, Estate, Forager, Estate, Beggar
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Ambassador
+SM.SM - reveals reaction Beggar
+SM.SM - discards Beggar
+SM.SM - gains Silver
+SM.SM - gains Silver
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+SM.SM - gains Copper
+Titandrake - draws Estate, Scheme, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Forager
+SM.SM - trashes Estate
+SM.SM - draws Silver
+SM.SM - shuffles deck
+SM.SM - draws Ambassador, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Copper, Forager, Copper, Estate
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Ambassador
+SM.SM - reveals Estate
+SM.SM - returns Estate to the Supply
+Titandrake - gains Estate
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Scheme
+SM.SM - gains Scheme
+SM.SM - draws Copper, Estate, Beggar, Forager, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - Scheme choice: Forager
+Titandrake - draws Forager, Copper, Estate, Ambassador, Copper
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Forager
+SM.SM - trashes Estate
+SM.SM - plays 2 Copper
+SM.SM - buys Scheme
+SM.SM - gains Scheme
+SM.SM - shuffles deck
+SM.SM - draws Forager, Silver, Silver, Copper, Scheme
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+SM.SM - gains Copper
+Titandrake - draws Scheme, Estate, Forager, Copper, Copper
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Scheme
+SM.SM - draws Copper
+SM.SM - plays Forager
+SM.SM - trashes Copper
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Hoard
+SM.SM - gains Hoard
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme, Ambassador, Copper, Scheme, Beggar
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Watchtower, Scheme, Ambassador, Forager
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Scheme
+SM.SM - shuffles deck
+SM.SM - draws Copper
+SM.SM - plays Scheme
+SM.SM - draws Hoard
+SM.SM - plays Ambassador
+SM.SM - reveals Copper
+SM.SM - returns Copper to the Supply
+SM.SM - returns Copper to the Supply
+Titandrake - gains Copper
+Titandrake - applied Watchtower to trash Copper
+Titandrake - trashes Copper
+SM.SM - plays Hoard
+SM.SM - buys Estate
+SM.SM - gains Gold
+SM.SM - gains Estate
+SM.SM - Scheme choice: Scheme
+SM.SM - Scheme choice: Ambassador
+SM.SM - draws Ambassador, Scheme, Silver, Silver, Forager
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Forager, Copper, Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Watchtower
+Titandrake - Scheme choice: Forager
+Titandrake - draws Forager, Watchtower, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Scheme
+SM.SM - draws Copper
+SM.SM - plays Ambassador
+SM.SM - reveals Copper
+SM.SM - returns Copper to the Supply
+Titandrake - gains Copper
+Titandrake - applied Watchtower to trash Copper
+Titandrake - trashes Copper
+SM.SM - plays 2 Silver
+SM.SM - buys Island
+SM.SM - gains Island
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme
+SM.SM - shuffles deck
+SM.SM - draws Hoard, Island, Forager, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Scheme, Copper, Ambassador
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - draws Forager, Silver, Scheme
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Copper
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Scheme
+SM.SM - draws Estate
+SM.SM - plays Island
+SM.SM - sets aside Estate
+SM.SM - plays 1 Silver
+SM.SM - plays Hoard
+SM.SM - buys Island
+SM.SM - gains Gold
+SM.SM - gains Island
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme, Scheme, Silver, Gold, Ambassador
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Scheme
+Titandrake - draws Hoard
+Titandrake - plays Forager
+Titandrake - trashes Silver
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+SM.SM - gains Copper
+Titandrake - plays Hoard
+Titandrake - buys Island
+Titandrake - gains Gold
+Titandrake - gains Island
+Titandrake - Scheme choice: Forager
+Titandrake - draws Forager, Copper, Silver, Forager, Watchtower
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Scheme
+SM.SM - draws Beggar
+SM.SM - plays Scheme
+SM.SM - shuffles deck
+SM.SM - draws Hoard
+SM.SM - plays Ambassador
+SM.SM - reveals Beggar
+SM.SM - returns Beggar to the Supply
+Titandrake - gains Beggar
+Titandrake - applied Watchtower to trash Beggar
+Titandrake - trashes Beggar
+SM.SM - plays 1 Silver, 1 Gold
+SM.SM - plays Hoard
+SM.SM - buys Island
+SM.SM - gains Gold
+SM.SM - gains Island
+SM.SM - Scheme choice: Scheme
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme, Scheme, Silver, Forager, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Forager
+Titandrake - trashes Silver
+Titandrake - plays Watchtower
+Titandrake - draws Scheme, Copper
+Titandrake - shuffles deck
+Titandrake - draws Island, Hoard, Scheme, Ambassador
+Titandrake - plays 1 Copper
+Titandrake - plays Hoard
+Titandrake - buys Island
+Titandrake - gains Gold
+Titandrake - gains Island
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Watchtower, Hoard, Forager
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Scheme
+SM.SM - draws Gold
+SM.SM - plays Scheme
+SM.SM - draws Island
+SM.SM - plays Forager
+SM.SM - trashes Copper
+SM.SM - plays 1 Silver, 1 Gold
+SM.SM - buys Hoard
+SM.SM - gains Hoard
+SM.SM - Scheme choice: Forager
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme, Forager
+SM.SM - shuffles deck
+SM.SM - draws Silver, Gold, Ambassador
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Forager
+Titandrake - trashes Ambassador
+Titandrake - plays Watchtower
+Titandrake - draws Forager, Island, Scheme, Copper
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - plays Hoard
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Gold, Scheme, Island, Scheme
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Scheme
+SM.SM - draws Island
+SM.SM - plays Forager
+SM.SM - trashes Ambassador
+SM.SM - plays 1 Silver, 1 Gold
+SM.SM - buys Hoard
+SM.SM - gains Hoard
+SM.SM - Scheme choice: Forager
+SM.SM - draws Forager, Silver, Gold, Scheme, Island
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Scheme
+Titandrake - draws Forager
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - Scheme choice: Forager
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Forager, Forager, Province, Island
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Scheme
+SM.SM - draws Hoard
+SM.SM - plays Forager
+SM.SM - trashes Island
+SM.SM - plays 1 Silver, 1 Gold
+SM.SM - plays Hoard
+SM.SM - buys Province
+SM.SM - gains Gold
+SM.SM - gains Province
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme, Gold, Hoard
+SM.SM - shuffles deck
+SM.SM - draws Province, Forager
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Scheme
+Titandrake - draws Hoard
+Titandrake - plays Island
+Titandrake - sets aside Province
+Titandrake - plays Hoard
+Titandrake - buys Estate
+Titandrake - gains Gold
+Titandrake - gains Estate
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Watchtower, Gold, Scheme
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Scheme
+SM.SM - draws Island
+SM.SM - plays Island
+SM.SM - sets aside Province
+SM.SM - plays 1 Gold
+SM.SM - plays Hoard
+SM.SM - buys Island
+SM.SM - gains Gold
+SM.SM - gains Island
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme, Gold, Gold, Hoard, Scheme
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Scheme
+Titandrake - draws Province
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Island
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - Scheme choice: Watchtower
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Watchtower, Gold, Forager, Gold
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Scheme
+SM.SM - draws Hoard
+SM.SM - plays Scheme
+SM.SM - draws Gold
+SM.SM - plays 3 Gold
+SM.SM - plays Hoard
+SM.SM - plays Hoard
+SM.SM - buys Province
+SM.SM - gains Gold
+SM.SM - gains Gold
+SM.SM - gains Province
+SM.SM - Scheme choice: Scheme
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme, Scheme, Silver, Silver
+SM.SM - shuffles deck
+SM.SM - draws Hoard
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Scheme
+Titandrake - draws Scheme
+Titandrake - plays Scheme
+Titandrake - draws Hoard
+Titandrake - plays 2 Gold
+Titandrake - plays Hoard
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - applied Watchtower to place Gold on top of the deck
+Titandrake - gains Province
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Gold, Forager
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Scheme
+SM.SM - draws Hoard
+SM.SM - plays Scheme
+SM.SM - draws Gold
+SM.SM - plays 2 Silver, 1 Gold
+SM.SM - plays Hoard
+SM.SM - plays Hoard
+SM.SM - buys Province
+SM.SM - gains Gold
+SM.SM - gains Gold
+SM.SM - gains Province
+SM.SM - Scheme choice: Scheme
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme, Scheme, Gold, Province, Island
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Scheme
+Titandrake - draws Hoard
+Titandrake - plays Forager
+Titandrake - trashes Scheme
+Titandrake - plays 1 Gold
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Gold
+Titandrake - gains Estate
+Titandrake - Scheme choice: Forager
+Titandrake - draws Forager, Province, Watchtower, Estate, Scheme
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - plays Scheme
+SM.SM - draws Gold
+SM.SM - plays Scheme
+SM.SM - draws Gold
+SM.SM - plays Island
+SM.SM - sets aside Province
+SM.SM - plays 3 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - Scheme choice: Scheme
+SM.SM - Scheme choice: Scheme
+SM.SM - draws Scheme, Scheme, Forager, Gold, Gold
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Scheme
+Titandrake - draws Island
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Gold, Gold, Gold
+Titandrake - plays 3 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Province, Forager, Gold
+Titandrake - shuffles deck
+Titandrake - draws Island, Forager
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Island, 2 Forager, 2 Scheme, 1 Watchtower, 7 Gold, 1 Hoard, 1 Copper, 4 Province, 2 Duchy, 1 Estate
+Titandrake - total victory points: 37
+Titandrake - turns: 20
+ 
+SM.SM - cards: 3 Island, 2 Scheme, 1 Forager, 9 Gold, 3 Hoard, 2 Silver, 4 Province, 1 Estate
+SM.SM - total victory points: 31
+SM.SM - turns: 20
+ 
+1st place: Titandrake
+2nd place: SM.SM
+ 

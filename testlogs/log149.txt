@@ -1,0 +1,537 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Doctor, Shanty Town, Warehouse, Feodum, Sea Hag, Treasure Map, Young Witch, Duke, Trading Post, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Shanty Town
+Rating system: pro
+HarryPeteur - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HarryPeteur - shuffles deck
+Titandrake - shuffles deck
+HarryPeteur - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- HarryPeteur: turn 1 ----------
+HarryPeteur - plays 3 Copper
+HarryPeteur - buys Shanty Town
+HarryPeteur - gains Shanty Town
+HarryPeteur - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- HarryPeteur: turn 2 ----------
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Doctor
+HarryPeteur - overpays for Doctor with 1 coin
+HarryPeteur - shuffles deck
+HarryPeteur - looks at Estate
+HarryPeteur - trashes Estate
+HarryPeteur - gains Doctor
+HarryPeteur - draws Copper, Estate, Shanty Town, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Doctor
+Titandrake - overpays for Doctor with 1 coin
+Titandrake - shuffles deck
+Titandrake - looks at Copper
+Titandrake - trashes Copper
+Titandrake - gains Doctor
+Titandrake - draws Estate, Silver, Estate, Copper, Copper
+ 
+---------- HarryPeteur: turn 3 ----------
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Copper, Estate, Copper, Copper
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Estate
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Sea Hag
+HarryPeteur - gains Sea Hag
+HarryPeteur - draws Doctor, Copper, Copper, Copper
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Estate, Doctor, Estate, Copper, Copper
+ 
+---------- HarryPeteur: turn 4 ----------
+HarryPeteur - plays Doctor
+HarryPeteur - names Copper
+HarryPeteur - reveals: Estate, Copper, Copper
+HarryPeteur - trashes Copper, Copper
+HarryPeteur - places Estate on top of deck
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Shanty Town
+HarryPeteur - gains Shanty Town
+HarryPeteur - draws Estate, Sea Hag, Copper, Estate, Shanty Town
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Copper, Copper, Copper
+Titandrake - trashes Copper, Copper, Copper
+Titandrake - draws Warehouse, Copper, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- HarryPeteur: turn 5 ----------
+HarryPeteur - plays Sea Hag
+Titandrake - discards Doctor
+Titandrake - gains Curse
+HarryPeteur - plays 1 Copper
+HarryPeteur - buys Poor House
+HarryPeteur - gains Poor House
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Estate, Doctor, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Curse, Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Trading Post
+ 
+---------- HarryPeteur: turn 6 ----------
+HarryPeteur - plays Doctor
+HarryPeteur - names Copper
+HarryPeteur - reveals: Shanty Town, Copper, Shanty Town
+HarryPeteur - trashes Copper
+HarryPeteur - places Shanty Town on top of deck
+HarryPeteur - places Shanty Town on top of deck
+HarryPeteur - plays 2 Copper
+HarryPeteur - buys Poor House
+HarryPeteur - gains Poor House
+HarryPeteur - draws Shanty Town, Shanty Town, Poor House, Sea Hag, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse, Estate, Doctor, Warehouse, Silver
+ 
+---------- HarryPeteur: turn 7 ----------
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Shanty Town, Poor House, Sea Hag, Copper
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Poor House, Sea Hag, Copper
+HarryPeteur - plays Sea Hag
+Titandrake - discards Estate
+Titandrake - gains Curse
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Copper
+HarryPeteur - plays 1 Copper
+HarryPeteur - buys Warehouse
+HarryPeteur - gains Warehouse
+HarryPeteur - draws Copper
+HarryPeteur - shuffles deck
+HarryPeteur - draws Poor House, Shanty Town, Warehouse, Shanty Town
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Silver, Trading Post
+Titandrake - discards Estate
+Titandrake - discards Doctor
+Titandrake - discards Silver
+Titandrake - plays Trading Post
+Titandrake - trashes Curse, Curse
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Copper, Estate, Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Feodum
+ 
+---------- HarryPeteur: turn 8 ----------
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Estate, Doctor, Sea Hag
+HarryPeteur - discards Copper
+HarryPeteur - discards Estate
+HarryPeteur - discards Sea Hag
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Poor House, Shanty Town, Doctor
+HarryPeteur - plays Doctor
+HarryPeteur - names Copper
+HarryPeteur - reveals: Poor House, Estate, Copper
+HarryPeteur - trashes Copper
+HarryPeteur - places Estate on top of deck
+HarryPeteur - places Poor House on top of deck
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Shanty Town
+HarryPeteur - buys Warehouse
+HarryPeteur - gains Warehouse
+HarryPeteur - draws Poor House, Estate, Copper, Copper
+HarryPeteur - shuffles deck
+HarryPeteur - draws Shanty Town
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Trading Post, Doctor, Silver
+ 
+---------- HarryPeteur: turn 9 ----------
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Estate, Copper, Copper, Shanty Town
+HarryPeteur - buys Poor House
+HarryPeteur - gains Poor House
+HarryPeteur - draws Warehouse, Doctor, Shanty Town, Sea Hag, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - reveals: Estate, Warehouse
+Titandrake - shuffles deck
+Titandrake - reveals: Silver
+Titandrake - trashes Estate
+Titandrake - places Silver on top of deck
+Titandrake - places Warehouse on top of deck
+Titandrake - plays 3 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Warehouse, Silver, Silver, Feodum, Copper
+ 
+---------- HarryPeteur: turn 10 ----------
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Warehouse, Doctor, Sea Hag, Estate
+HarryPeteur - plays Doctor
+HarryPeteur - names Copper
+HarryPeteur - reveals: Copper, Poor House, Warehouse
+HarryPeteur - trashes Copper
+HarryPeteur - places Poor House on top of deck
+HarryPeteur - places Warehouse on top of deck
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Warehouse, Poor House
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper
+HarryPeteur - discards Copper
+HarryPeteur - discards Estate
+HarryPeteur - discards Sea Hag
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Copper, Poor House, Estate
+HarryPeteur - discards Estate
+HarryPeteur - discards Copper
+HarryPeteur - discards Poor House
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: 
+HarryPeteur - buys Shanty Town
+HarryPeteur - gains Shanty Town
+HarryPeteur - draws Poor House, Shanty Town
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Sea Hag, Poor House
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Trading Post
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Silver
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Feodum, Silver, Doctor, Silver, Silver
+ 
+---------- HarryPeteur: turn 11 ----------
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Poor House, Copper, Sea Hag, Poor House
+HarryPeteur - plays Sea Hag
+Titandrake - shuffles deck
+Titandrake - discards Trading Post
+Titandrake - gains Curse
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Poor House, Copper
+HarryPeteur - plays 1 Copper
+HarryPeteur - buys Shanty Town
+HarryPeteur - gains Shanty Town
+HarryPeteur - draws Shanty Town, Copper, Warehouse, Poor House, Shanty Town
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Doctor
+Titandrake - names Curse
+Titandrake - reveals: Curse, Warehouse, Silver
+Titandrake - trashes Curse
+Titandrake - places Silver on top of deck
+Titandrake - places Warehouse on top of deck
+Titandrake - plays 3 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Warehouse, Silver, Silver, Silver, Silver
+ 
+---------- HarryPeteur: turn 12 ----------
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Warehouse, Doctor, Estate
+HarryPeteur - discards Copper
+HarryPeteur - discards Doctor
+HarryPeteur - discards Warehouse
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Shanty Town, Poor House, Estate
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Shanty Town, Estate
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Estate
+HarryPeteur - draws Estate
+HarryPeteur - shuffles deck
+HarryPeteur - draws Warehouse
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Poor House, Doctor, Sea Hag
+HarryPeteur - discards Estate
+HarryPeteur - discards Estate
+HarryPeteur - discards Doctor
+HarryPeteur - plays Sea Hag
+Titandrake - discards Silver
+Titandrake - gains Curse
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: 
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - draws Shanty Town, Shanty Town, Copper, Copper, Poor House
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Curse, Copper, Feodum
+Titandrake - discards Curse
+Titandrake - discards Feodum
+Titandrake - discards Copper
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Curse, Silver, Silver
+ 
+---------- HarryPeteur: turn 13 ----------
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Shanty Town, Copper, Copper, Poor House
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Shanty Town, Copper, Copper
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Copper, Copper
+HarryPeteur - shuffles deck
+HarryPeteur - draws Shanty Town, Estate
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Estate, Copper, Copper
+HarryPeteur - draws Estate, Province
+HarryPeteur - plays 2 Copper
+HarryPeteur - buys Warehouse
+HarryPeteur - gains Warehouse
+HarryPeteur - draws Doctor, Sea Hag, Warehouse, Poor House, Warehouse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Silver, Warehouse, Feodum, Trading Post, Feodum
+ 
+---------- HarryPeteur: turn 14 ----------
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Poor House, Shanty Town
+HarryPeteur - shuffles deck
+HarryPeteur - draws Estate
+HarryPeteur - discards Sea Hag
+HarryPeteur - discards Doctor
+HarryPeteur - discards Warehouse
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Poor House, Poor House, Estate
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Poor House, Estate
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Estate
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - draws Shanty Town, Estate, Warehouse, Shanty Town, Shanty Town
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Province, Feodum, Doctor
+Titandrake - discards Doctor
+Titandrake - discards Province
+Titandrake - discards Feodum
+Titandrake - plays Trading Post
+Titandrake - trashes Feodum, Feodum
+Titandrake - applies the 'when you trash ability' of Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - applies the 'when you trash ability' of Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Copper, Silver, Silver, Silver, Silver
+ 
+---------- HarryPeteur: turn 15 ----------
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Copper, Copper, Province
+HarryPeteur - discards Province
+HarryPeteur - discards Estate
+HarryPeteur - discards Shanty Town
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Shanty Town, Copper, Copper
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Copper, Copper
+HarryPeteur - draws Poor House
+HarryPeteur - shuffles deck
+HarryPeteur - draws Warehouse
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Shanty Town, Sea Hag, Warehouse
+HarryPeteur - discards Copper
+HarryPeteur - discards Copper
+HarryPeteur - discards Warehouse
+HarryPeteur - plays Sea Hag
+Titandrake - discards Silver
+Titandrake - gains Curse
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Shanty Town
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals 
+HarryPeteur - draws Province, Poor House
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Province
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - draws Doctor, Poor House, Shanty Town, Province, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Feodum, Silver, Copper, Silver
+ 
+---------- HarryPeteur: turn 16 ----------
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Doctor, Poor House, Province, Estate
+HarryPeteur - plays Doctor
+HarryPeteur - names Copper
+HarryPeteur - reveals: Estate
+HarryPeteur - shuffles deck
+HarryPeteur - reveals: Shanty Town, Copper
+HarryPeteur - trashes Copper
+HarryPeteur - places Estate on top of deck
+HarryPeteur - places Shanty Town on top of deck
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Province, Estate
+HarryPeteur - buys Poor House
+HarryPeteur - gains Poor House
+HarryPeteur - draws Shanty Town, Estate, Warehouse, Shanty Town, Sea Hag
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Silver, Silver, Silver, Province, Silver
+ 
+---------- HarryPeteur: turn 17 ----------
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Warehouse, Warehouse, Shanty Town
+HarryPeteur - discards Estate
+HarryPeteur - discards Shanty Town
+HarryPeteur - discards Warehouse
+HarryPeteur - plays Sea Hag
+Titandrake - discards Silver
+Titandrake - gains Curse
+HarryPeteur - draws Copper, Province, Poor House, Province, Poor House
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Silver, Province, Curse, Doctor
+ 
+---------- HarryPeteur: turn 18 ----------
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Copper, Province, Poor House, Province
+HarryPeteur - buys Shanty Town
+HarryPeteur - gains Shanty Town
+HarryPeteur - shuffles deck
+HarryPeteur - draws Province, Estate, Doctor, Poor House, Shanty Town
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Doctor
+Titandrake - names Curse
+Titandrake - reveals: Silver, Silver, Trading Post
+Titandrake - places Trading Post on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Silver, Trading Post, Silver, Silver
+ 
+---------- HarryPeteur: turn 19 ----------
+HarryPeteur - plays Shanty Town
+HarryPeteur - reveals Province, Estate, Doctor, Poor House
+HarryPeteur - plays Doctor
+HarryPeteur - names Copper
+HarryPeteur - reveals: Sea Hag, Warehouse, Province
+HarryPeteur - places Sea Hag on top of deck
+HarryPeteur - places Warehouse on top of deck
+HarryPeteur - places Province on top of deck
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Province, Estate
+HarryPeteur - buys Feodum
+HarryPeteur - gains Feodum
+HarryPeteur - draws Province, Warehouse, Sea Hag, Province, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Silver, Feodum, Warehouse, Feodum
+ 
+---------- HarryPeteur: turn 20 ----------
+HarryPeteur - plays Warehouse
+HarryPeteur - draws Shanty Town, Shanty Town, Poor House
+HarryPeteur - discards Province
+HarryPeteur - discards Province
+HarryPeteur - discards Sea Hag
+HarryPeteur - plays Poor House
+HarryPeteur - reveals hand: Estate, Shanty Town, Shanty Town
+HarryPeteur - buys Estate
+HarryPeteur - gains Estate
+HarryPeteur - draws Shanty Town, Poor House, Copper, Poor House, Shanty Town
+ 
+---------- Titandrake: turn 20 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 16 Silver, 1 Warehouse, 1 Doctor, 1 Trading Post, 1 Copper, 4 Feodum, 4 Province, 2 Estate, 3 Curse
+Titandrake - total victory points: 43
+Titandrake - turns: 19
+ 
+HarryPeteur - resigned
+HarryPeteur - cards: 5 Shanty Town, 4 Poor House, 3 Warehouse, 1 Doctor, 1 Sea Hag, 1 Copper, 3 Province, 3 Estate, 1 Feodum
+HarryPeteur - total victory points: 21
+HarryPeteur - turns: 20
+ 
+1st place: Titandrake
+2nd place: HarryPeteur
+ 

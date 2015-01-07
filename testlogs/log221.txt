@@ -1,0 +1,448 @@
+------------ Game Setup ------------
+Supply cards: University, Sage, Horse Traders, Mining Village, Monument, Rats, Salvager, Sea Hag, Junk Dealer, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Fergesser - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Fergesser - shuffles deck
+Titandrake - shuffles deck
+Fergesser - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Fergesser: turn 1 ----------
+Fergesser - plays 4 Copper
+Fergesser - buys Monument
+Fergesser - gains Monument
+Fergesser - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Monument, Estate
+ 
+---------- Fergesser: turn 2 ----------
+Fergesser - plays 3 Copper
+Fergesser - buys Silver
+Fergesser - gains Silver
+Fergesser - shuffles deck
+Fergesser - draws Copper, Copper, Estate, Monument, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper
+Titandrake - buys Rats
+Titandrake - gains Rats
+Titandrake - draws Copper, Copper, Copper, Estate, Sage
+ 
+---------- Fergesser: turn 3 ----------
+Fergesser - plays Monument
+Fergesser - receives 1 victory point chips
+Fergesser - plays 3 Copper
+Fergesser - buys Junk Dealer
+Fergesser - gains Junk Dealer
+Fergesser - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Monument
+Titandrake - places Monument in hand
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 3 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Rats, Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Fergesser: turn 4 ----------
+Fergesser - plays 3 Copper, 1 Silver
+Fergesser - buys Junk Dealer
+Fergesser - gains Junk Dealer
+Fergesser - draws Copper, Estate
+Fergesser - shuffles deck
+Fergesser - draws Junk Dealer, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Monument, Copper, Junk Dealer, Copper
+ 
+---------- Fergesser: turn 5 ----------
+Fergesser - plays Junk Dealer
+Fergesser - draws Silver
+Fergesser - trashes Estate
+Fergesser - plays 3 Copper, 1 Silver
+Fergesser - buys Gold
+Fergesser - gains Gold
+Fergesser - draws Junk Dealer, Copper, Estate, Estate, Monument
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 3 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Estate, Sage
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Monument
+ 
+---------- Fergesser: turn 6 ----------
+Fergesser - plays Junk Dealer
+Fergesser - draws Copper
+Fergesser - trashes Estate
+Fergesser - plays Monument
+Fergesser - receives 1 victory point chips
+Fergesser - plays 2 Copper
+Fergesser - buys Venture
+Fergesser - gains Venture
+Fergesser - draws Copper, Copper
+Fergesser - shuffles deck
+Fergesser - draws Silver, Copper, Junk Dealer
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Junk Dealer
+Titandrake - places Junk Dealer in hand
+Titandrake - discards Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Rats, Junk Dealer, Copper
+ 
+---------- Fergesser: turn 7 ----------
+Fergesser - plays Junk Dealer
+Fergesser - draws Junk Dealer
+Fergesser - trashes Copper
+Fergesser - plays Junk Dealer
+Fergesser - draws Gold
+Fergesser - trashes Copper
+Fergesser - plays 1 Copper, 1 Silver, 1 Gold
+Fergesser - buys Venture
+Fergesser - gains Venture
+Fergesser - draws Copper, Monument, Copper, Venture, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Rats
+Titandrake - draws Rats
+Titandrake - plays Rats
+Titandrake - shuffles deck
+Titandrake - draws Sage
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Monument, Estate, Junk Dealer, Copper, Copper
+ 
+---------- Fergesser: turn 8 ----------
+Fergesser - plays Monument
+Fergesser - receives 1 victory point chips
+Fergesser - plays 3 Copper
+Fergesser - plays Venture
+Fergesser - reveals Copper
+Fergesser - plays Copper
+Fergesser - buys Venture
+Fergesser - gains Venture
+Fergesser - draws Estate
+Fergesser - shuffles deck
+Fergesser - draws Monument, Copper, Junk Dealer, Venture
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Estate
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Gold, Copper, Copper, Sage
+ 
+---------- Fergesser: turn 9 ----------
+Fergesser - plays Junk Dealer
+Fergesser - draws Copper
+Fergesser - trashes Estate
+Fergesser - plays Monument
+Fergesser - receives 1 victory point chips
+Fergesser - plays 2 Copper
+Fergesser - plays Venture
+Fergesser - reveals Copper
+Fergesser - plays Copper
+Fergesser - buys Venture
+Fergesser - gains Venture
+Fergesser - draws Venture, Silver, Gold, Junk Dealer, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Sage
+Titandrake - reveals Junk Dealer
+Titandrake - places Junk Dealer in hand
+Titandrake - plays Junk Dealer
+Titandrake - draws Junk Dealer
+Titandrake - trashes Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - draws Monument, Salvager, Rats, Gold, Rats
+ 
+---------- Fergesser: turn 10 ----------
+Fergesser - plays Junk Dealer
+Fergesser - draws Copper
+Fergesser - trashes Copper
+Fergesser - plays 1 Silver, 1 Gold, 1 Copper
+Fergesser - plays Venture
+Fergesser - reveals Venture
+Fergesser - plays Venture
+Fergesser - shuffles deck
+Fergesser - reveals Junk Dealer, Venture
+Fergesser - discards Junk Dealer
+Fergesser - plays Venture
+Fergesser - reveals Copper
+Fergesser - plays Copper
+Fergesser - buys Platinum
+Fergesser - gains Platinum
+Fergesser - draws Copper, Monument, Copper, Venture
+Fergesser - shuffles deck
+Fergesser - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Rats
+Titandrake - draws Copper
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Sage, Salvager, Copper, Rats
+ 
+---------- Fergesser: turn 11 ----------
+Fergesser - plays Monument
+Fergesser - receives 1 victory point chips
+Fergesser - plays 3 Copper
+Fergesser - plays Venture
+Fergesser - reveals Venture
+Fergesser - plays Venture
+Fergesser - reveals Silver
+Fergesser - plays Silver
+Fergesser - buys Platinum
+Fergesser - gains Platinum
+Fergesser - draws Copper, Junk Dealer, Platinum, Venture, Junk Dealer
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Salvager
+Titandrake - trashes Rats
+Titandrake - draws Sage
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Copper, Gold, Junk Dealer, Venture, Monument
+ 
+---------- Fergesser: turn 12 ----------
+Fergesser - plays Junk Dealer
+Fergesser - draws Gold
+Fergesser - trashes Copper
+Fergesser - plays 1 Platinum, 1 Gold
+Fergesser - plays Venture
+Fergesser - reveals Venture
+Fergesser - plays Venture
+Fergesser - shuffles deck
+Fergesser - reveals Copper
+Fergesser - plays Copper
+Fergesser - buys Colony
+Fergesser - gains Colony
+Fergesser - draws Copper, Copper, Monument, Venture, Platinum
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - plays Venture
+Titandrake - reveals Venture
+Titandrake - plays Venture
+Titandrake - shuffles deck
+Titandrake - reveals Junk Dealer, Salvager, Sage, Gold
+Titandrake - discards: Junk Dealer, Salvager, Sage
+Titandrake - plays Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Sage, Copper, Platinum
+Titandrake - shuffles deck
+Titandrake - draws Sage
+ 
+---------- Fergesser: turn 13 ----------
+Fergesser - plays Monument
+Fergesser - receives 1 victory point chips
+Fergesser - plays 2 Copper, 1 Platinum
+Fergesser - plays Venture
+Fergesser - reveals Silver
+Fergesser - plays Silver
+Fergesser - buys Colony
+Fergesser - gains Colony
+Fergesser - draws Venture
+Fergesser - shuffles deck
+Fergesser - draws Copper, Platinum, Silver, Colony
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Junk Dealer
+Titandrake - places Junk Dealer in hand
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Platinum, 1 Gold, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Junk Dealer, Colony, Venture, Salvager
+ 
+---------- Fergesser: turn 14 ----------
+Fergesser - plays 1 Copper, 1 Platinum, 1 Silver
+Fergesser - plays Venture
+Fergesser - reveals Copper
+Fergesser - plays Copper
+Fergesser - buys Province
+Fergesser - gains Province
+Fergesser - draws Venture, Junk Dealer, Colony, Platinum, Venture
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Junk Dealer
+Titandrake - plays Gold
+Titandrake - plays Venture
+Titandrake - reveals Monument, Venture
+Titandrake - discards Monument
+Titandrake - plays Venture
+Titandrake - shuffles deck
+Titandrake - reveals Monument, Sage, Colony, Sage, Silver
+Titandrake - discards: Monument, Sage, Colony, Sage
+Titandrake - plays Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Copper, Junk Dealer, Platinum
+Titandrake - shuffles deck
+Titandrake - draws Colony
+ 
+---------- Fergesser: turn 15 ----------
+Fergesser - plays Platinum
+Fergesser - plays Venture
+Fergesser - reveals Junk Dealer, Gold
+Fergesser - discards Junk Dealer
+Fergesser - plays Gold
+Fergesser - plays Venture
+Fergesser - reveals Copper
+Fergesser - plays Copper
+Fergesser - buys Colony
+Fergesser - gains Colony
+Fergesser - draws Monument, Venture
+Fergesser - shuffles deck
+Fergesser - draws Junk Dealer, Silver, Colony
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Salvager
+Titandrake - trashes Copper
+Titandrake - plays 1 Gold, 1 Platinum
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Venture, Silver, Sage, Gold, Colony
+ 
+---------- Fergesser: turn 16 ----------
+Fergesser - plays Monument
+Fergesser - receives 1 victory point chips
+Fergesser - plays 1 Silver
+Fergesser - plays Venture
+Fergesser - reveals Copper
+Fergesser - plays Copper
+Fergesser - buys Salvager
+Fergesser - gains Salvager
+Fergesser - draws Colony, Venture, Platinum, Venture, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Sage
+Titandrake - reveals Monument
+Titandrake - places Monument in hand
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - plays Venture
+Titandrake - reveals Venture
+Titandrake - plays Venture
+Titandrake - shuffles deck
+Titandrake - reveals Sage, Colony, Province, Platinum
+Titandrake - discards: Sage, Colony, Province
+Titandrake - plays Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Salvager, Junk Dealer, Gold, Colony
+Titandrake - shuffles deck
+Titandrake - draws Colony
+ 
+---------- Fergesser: turn 17 ----------
+Fergesser - plays 1 Platinum
+Fergesser - plays Venture
+Fergesser - reveals Copper
+Fergesser - plays Copper
+Fergesser - plays Venture
+Fergesser - reveals Platinum
+Fergesser - plays Platinum
+Fergesser - buys Colony
+Fergesser - gains Colony
+Fergesser - draws Colony, Gold, Copper, Junk Dealer, Venture
+ 
+------------ Game Over ------------
+Fergesser - cards: 2 Junk Dealer, 1 Salvager, 1 Monument, 4 Venture, 3 Copper, 2 Platinum, 1 Gold, 1 Silver, 4 Colony, 1 Province
+Fergesser - victory point chips: 7
+Fergesser - total victory points: 53
+Fergesser - turns: 17
+ 
+Titandrake - cards: 2 Sage, 1 Salvager, 1 Junk Dealer, 1 Monument, 2 Gold, 2 Venture, 1 Platinum, 1 Silver, 4 Colony, 1 Province
+Titandrake - victory point chips: 7
+Titandrake - total victory points: 53
+Titandrake - turns: 17
+ 
+1st place: Fergesser
+1st place: Titandrake
+ 

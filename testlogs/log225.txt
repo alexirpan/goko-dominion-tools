@@ -1,0 +1,195 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Pawn, Secret Chamber, Stonemason, Doctor, Shanty Town, Council Room, Counting House, Saboteur, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+scs - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+scs - shuffles deck
+Titandrake - shuffles deck
+scs - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Doctor
+Titandrake - overpays for Doctor with 1 coin
+Titandrake - looks at Estate
+Titandrake - trashes Estate
+Titandrake - gains Doctor
+Titandrake - draws Estate, Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- scs: turn 1 ----------
+scs - plays 4 Copper
+scs - buys Doctor
+scs - overpays for Doctor with 1 coin
+scs - looks at Copper
+scs - trashes Copper
+scs - gains Doctor
+scs - draws Copper, Estate, Estate, Copper
+scs - shuffles deck
+scs - draws Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Doctor, Copper
+ 
+---------- scs: turn 2 ----------
+scs - plays 3 Copper
+scs - buys Silver
+scs - gains Silver
+scs - draws Doctor, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Copper, Silver
+Titandrake - trashes Copper, Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- scs: turn 3 ----------
+scs - plays Doctor
+scs - names Estate
+scs - shuffles deck
+scs - reveals: Copper, Silver, Copper
+scs - places Copper on top of deck
+scs - places Silver on top of deck
+scs - places Copper on top of deck
+scs - plays 3 Copper
+scs - buys Silver
+scs - gains Silver
+scs - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Silver, Doctor
+ 
+---------- scs: turn 4 ----------
+scs - plays 3 Copper, 1 Silver
+scs - buys Council Room
+scs - gains Council Room
+scs - draws Estate
+scs - shuffles deck
+scs - draws Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Silver, Estate, Copper
+Titandrake - trashes Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 2 coins
+Titandrake - gains Pawn
+Titandrake - gains Pawn
+Titandrake - gains Stonemason
+Titandrake - draws Silver, Estate, Silver, Copper, Copper
+ 
+---------- scs: turn 5 ----------
+scs - plays 3 Copper
+scs - buys Shanty Town
+scs - gains Shanty Town
+scs - draws Silver, Copper, Copper, Silver, Doctor
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Silver, Stonemason, Estate
+ 
+---------- scs: turn 6 ----------
+scs - plays Doctor
+scs - names Copper
+scs - reveals: Council Room, Copper, Estate
+scs - trashes Copper
+scs - places Council Room on top of deck
+scs - places Estate on top of deck
+scs - plays 2 Silver, 2 Copper
+scs - buys Gold
+scs - gains Gold
+scs - draws Estate, Council Room
+scs - shuffles deck
+scs - draws Gold, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Pawn, Estate, Copper, Doctor, Silver
+ 
+---------- scs: turn 7 ----------
+scs - plays Council Room
+scs - draws Shanty Town, Doctor, Silver, Copper
+Titandrake - draws Pawn
+scs - plays 3 Copper, 1 Gold, 1 Silver
+scs - buys King's Court
+scs - gains King's Court
+scs - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Copper, Copper, Copper
+Titandrake - trashes Copper, Copper, Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - shuffles deck
+Titandrake - draws Silver, Pawn, Stonemason, Copper, King's Court
+ 
+---------- scs: turn 8 ----------
+scs - plays 2 Copper, 1 Silver
+scs - buys Stonemason
+scs - overpays for Stonemason with 2 coins
+scs - gains Pawn
+scs - gains Cellar
+scs - gains Stonemason
+scs - shuffles deck
+scs - draws Copper, Copper, Stonemason, Estate, Pawn
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays King's Court
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Cellar
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Pawn, 1 Stonemason, 1 Cellar, 1 Doctor, 3 Silver, 1 Copper, 1 Gold, 2 Estate
+Titandrake - total victory points: 2
+Titandrake - turns: 8
+ 
+scs - resigned
+scs - cards: 1 Stonemason, 1 Pawn, 1 Cellar, 1 Shanty Town, 1 Doctor, 1 Council Room, 1 King's Court, 5 Copper, 2 Silver, 1 Gold, 3 Estate
+scs - total victory points: 3
+scs - turns: 8
+ 
+1st place: Titandrake
+2nd place: scs
+ 

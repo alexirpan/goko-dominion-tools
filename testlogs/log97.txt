@@ -1,0 +1,615 @@
+------------ Game Setup ------------
+Supply cards: Scheme, Swindler, Workshop, Bridge, Feast, Monument, Remodel, Catacombs, Explorer, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Swindler
+lightbulb - gains Swindler
+lightbulb - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - shuffles deck
+lightbulb - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Monument, Copper, Estate
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - draws Copper, Swindler, Copper, Scheme, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Swindler, Copper, Copper, Estate, Copper
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+lightbulb - plays 3 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Copper
+lightbulb - shuffles deck
+lightbulb - draws Estate, Copper, Scheme
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Swindler
+lightbulb - reveals Copper
+lightbulb - trashes Copper
+lightbulb - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Explorer
+Titandrake - gains Explorer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Silver
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Swindler
+Titandrake - reveals Monument
+Titandrake - trashes Monument
+Titandrake - gains Monument
+lightbulb - plays 3 Copper
+lightbulb - buys Explorer
+lightbulb - gains Explorer
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Copper, Estate, Estate, Scheme
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Catacombs
+Titandrake - gains Catacombs
+Titandrake - draws Estate, Swindler, Copper, Estate, Copper
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Swindler
+Titandrake - reveals Explorer
+Titandrake - trashes Explorer
+Titandrake - gains Duchy
+lightbulb - plays 2 Copper
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Copper, Silver
+lightbulb - shuffles deck
+lightbulb - draws Scheme, Scheme
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Swindler
+lightbulb - reveals Copper
+lightbulb - trashes Copper
+lightbulb - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Catacombs, Swindler
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Scheme
+lightbulb - draws Estate
+lightbulb - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Scheme, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Estate, Silver, Monument
+Titandrake - discards: Estate, Silver, Monument
+Titandrake - draws Silver, Estate, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Duchy, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+lightbulb - plays 3 Copper
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Estate, Estate, Explorer, Scheme
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - draws Monument, Estate, Copper, Copper, Swindler
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays Scheme
+lightbulb - shuffles deck
+lightbulb - draws Copper
+lightbulb - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+lightbulb - plays 1 Copper
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Curse, Copper, Copper, Scheme
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Swindler
+lightbulb - reveals Copper
+lightbulb - trashes Copper
+lightbulb - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Curse, Silver, Silver, Catacombs
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Workshop
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Gold, Estate, Scheme, Curse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Curse, Estate, Monument
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+lightbulb - plays 1 Gold, 1 Copper
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Scheme
+lightbulb - shuffles deck
+lightbulb - draws Estate, Curse, Scheme
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - draws Copper, Duchy, Curse, Swindler, Copper
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays Scheme
+lightbulb - draws Scheme
+lightbulb - plays Scheme
+lightbulb - draws Curse
+lightbulb - plays Scheme
+lightbulb - draws Scheme
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+lightbulb - plays 1 Copper
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Scheme, Scheme, Scheme, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Swindler
+lightbulb - reveals Copper
+lightbulb - trashes Copper
+lightbulb - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Duchy, Curse, Copper
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Scheme
+lightbulb - draws Explorer
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Scheme
+lightbulb - draws Gold
+lightbulb - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Workshop
+lightbulb - plays 1 Silver, 1 Copper, 1 Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Scheme, Scheme, Copper, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Workshop, Catacombs, Monument, Copper, Copper
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Scheme
+lightbulb - draws Estate
+lightbulb - plays Scheme
+lightbulb - draws Scheme
+lightbulb - plays Scheme
+lightbulb - draws Gold
+lightbulb - plays Swindler
+Titandrake - reveals Curse
+Titandrake - trashes Curse
+Titandrake - gains Curse
+lightbulb - plays 2 Gold, 1 Copper
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Scheme, Scheme, Curse, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Copper, Gold, Silver
+Titandrake - places cards in hand:  Copper, Gold, Silver
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Estate, Monument, Estate, Silver
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays Scheme
+lightbulb - shuffles deck
+lightbulb - draws Copper
+lightbulb - plays Scheme
+lightbulb - draws Explorer
+lightbulb - plays Explorer
+lightbulb - gains Silver
+lightbulb - plays 1 Copper, 1 Silver
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Gold, Estate, Scheme
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Curse, Silver, Workshop, Province
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays Scheme
+lightbulb - draws Curse
+lightbulb - plays Scheme
+lightbulb - draws Curse
+lightbulb - plays Explorer
+lightbulb - gains Silver
+lightbulb - plays 1 Gold, 1 Silver
+lightbulb - buys Explorer
+lightbulb - gains Explorer
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Curse, Scheme, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Workshop
+Titandrake - gains Swindler
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Monument, Estate, Estate, Copper, Estate
+ 
+---------- lightbulb: turn 17 ----------
+lightbulb - plays Scheme
+lightbulb - draws Province
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Explorer
+lightbulb - gains Gold
+lightbulb - plays 1 Copper, 1 Gold
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Gold, Copper, Scheme
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Monument, Copper, Silver, Curse, Copper
+ 
+---------- lightbulb: turn 18 ----------
+lightbulb - plays Scheme
+lightbulb - draws Gold
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays Explorer
+lightbulb - gains Silver
+lightbulb - plays 2 Gold, 2 Silver, 1 Copper
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Scheme, Estate
+lightbulb - shuffles deck
+lightbulb - draws Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Silver, Workshop, Gold, Silver
+ 
+---------- lightbulb: turn 19 ----------
+lightbulb - plays Scheme
+lightbulb - draws Curse
+lightbulb - plays Scheme
+lightbulb - draws Curse
+lightbulb - plays Explorer
+lightbulb - gains Silver
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Gold, Curse, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Workshop
+Titandrake - gains Monument
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Silver, Copper, Catacombs
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- lightbulb: turn 20 ----------
+lightbulb - plays Scheme
+lightbulb - draws Province
+lightbulb - plays Explorer
+lightbulb - gains Gold
+lightbulb - plays 2 Gold, 1 Copper
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Scheme, Swindler, Scheme
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Workshop, Silver, Estate
+Titandrake - places cards in hand:  Workshop, Silver, Estate
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Duchy, Monument, Gold, Copper
+ 
+---------- lightbulb: turn 21 ----------
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Scheme
+lightbulb - draws Gold
+lightbulb - plays Scheme
+lightbulb - draws Explorer
+lightbulb - plays Explorer
+lightbulb - gains Silver
+lightbulb - plays 1 Copper, 1 Gold, 1 Silver
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Scheme, Province, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Silver, Silver, Silver, Copper
+ 
+---------- lightbulb: turn 22 ----------
+lightbulb - plays Scheme
+lightbulb - draws Gold
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays Explorer
+lightbulb - gains Gold
+lightbulb - plays 2 Gold, 1 Copper, 1 Silver
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Gold, Scheme, Estate
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Monument, Estate, Gold, Duchy, Estate
+ 
+---------- lightbulb: turn 23 ----------
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays Explorer
+lightbulb - gains Silver
+lightbulb - plays 3 Silver, 1 Gold
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Silver, Province, Scheme
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Workshop, Swindler, Curse, Monument
+ 
+---------- lightbulb: turn 24 ----------
+lightbulb - plays Scheme
+lightbulb - draws Scheme
+lightbulb - plays Scheme
+lightbulb - draws Estate
+lightbulb - plays Scheme
+lightbulb - shuffles deck
+lightbulb - draws Gold
+lightbulb - plays Explorer
+lightbulb - gains Gold
+lightbulb - plays 2 Gold, 1 Silver
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Explorer
+lightbulb - draws Explorer, Scheme, Scheme, Gold, Scheme
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Swindler
+lightbulb - reveals Scheme
+lightbulb - trashes Scheme
+lightbulb - gains Scheme
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Workshop
+ 
+---------- lightbulb: turn 25 ----------
+lightbulb - plays Scheme
+lightbulb - draws Gold
+lightbulb - plays Scheme
+lightbulb - draws Swindler
+lightbulb - plays Scheme
+lightbulb - draws Copper
+lightbulb - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+lightbulb - plays 2 Gold, 1 Copper
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Swindler
+lightbulb - draws Swindler, Scheme, Scheme, Gold, Duchy
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Workshop
+Titandrake - gains Estate
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse, Monument, Silver, Silver, Monument
+ 
+---------- lightbulb: turn 26 ----------
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays Scheme
+lightbulb - draws Province
+lightbulb - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+lightbulb - plays 1 Gold, 1 Silver
+lightbulb - buys Expand
+lightbulb - gains Expand
+lightbulb - Scheme choice: Scheme
+lightbulb - Scheme choice: Scheme
+lightbulb - draws Scheme, Scheme, Province, Gold, Silver
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Copper, Gold, Gold, Estate, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Monument, 2 Workshop, 1 Scheme, 1 Swindler, 1 Catacombs, 6 Silver, 4 Copper, 3 Gold, 7 Estate, 4 Duchy, 3 Province, 3 Curse
+Titandrake - victory point chips: 8
+Titandrake - total victory points: 42
+Titandrake - turns: 26
+ 
+lightbulb - cards: 8 Scheme, 2 Explorer, 1 Expand, 1 Swindler, 8 Gold, 7 Silver, 3 Copper, 4 Province, 4 Duchy, 3 Estate, 4 Curse
+lightbulb - victory point chips: 0
+lightbulb - total victory points: 35
+lightbulb - turns: 26
+ 
+1st place: Titandrake
+2nd place: lightbulb
+ 

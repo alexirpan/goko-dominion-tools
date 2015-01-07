@@ -1,0 +1,717 @@
+------------ Game Setup ------------
+Supply cards: Tunnel, Workshop, Herald, Noble Brigand, Haggler, Highway, Junk Dealer, Mint, Pillage, Trading Post, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Temron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Copper, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 3 Copper
+Temron - buys Workshop
+Temron - gains Workshop
+Temron - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 4 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - shuffles deck
+Temron - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Silver, Copper, Estate
+ 
+---------- Temron: turn 3 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Silver, Copper, Copper, Copper, Workshop
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- Temron: turn 4 ----------
+Temron - plays Workshop
+Temron - gains Herald
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Junk Dealer
+Temron - gains Junk Dealer
+Temron - draws Estate, Copper
+Temron - shuffles deck
+Temron - draws Copper, Estate, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Workshop, Silver
+ 
+---------- Temron: turn 5 ----------
+Temron - plays 2 Copper, 1 Silver
+Temron - buys Herald
+Temron - gains Herald
+Temron - draws Workshop, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Workshop
+Titandrake - gains Herald
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Silver, Copper, Estate, Estate, Copper
+ 
+---------- Temron: turn 6 ----------
+Temron - plays Workshop
+Temron - gains Herald
+Temron - draws Copper, Junk Dealer, Silver, Herald, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Copper, Junk Dealer, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Herald
+ 
+---------- Temron: turn 7 ----------
+Temron - plays Herald
+Temron - shuffles deck
+Temron - draws Herald
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Herald
+Temron - draws Copper
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Junk Dealer
+Temron - draws Copper
+Temron - trashes Copper
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Highway
+Temron - gains Highway
+Temron - draws Estate, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Junk Dealer
+Titandrake - draws Estate
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mint
+Titandrake - trashes Copper, Copper, Copper, Silver
+Titandrake - gains Mint
+Titandrake - draws Copper, Estate, Copper, Workshop, Herald
+ 
+---------- Temron: turn 8 ----------
+Temron - plays 2 Copper, 1 Silver
+Temron - buys Herald
+Temron - gains Herald
+Temron - draws Copper, Herald, Estate, Workshop
+Temron - shuffles deck
+Temron - draws Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Workshop
+Titandrake - gains Herald
+Titandrake - plays 3 Copper
+Titandrake - draws Silver, Estate, Herald, Copper
+Titandrake - shuffles deck
+Titandrake - draws Herald
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Herald
+Temron - draws Silver
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Workshop
+Temron - gains Herald
+Temron - plays 2 Copper, 1 Silver
+Temron - buys Herald
+Temron - gains Herald
+Temron - draws Copper, Silver, Copper, Highway, Herald
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Mint
+Titandrake - plays Mint
+Titandrake - reveals Silver
+Titandrake - gains Silver
+Titandrake - plays Herald
+Titandrake - draws Workshop
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Workshop
+Titandrake - gains Workshop
+Titandrake - draws Estate, Copper, Junk Dealer, Herald, Copper
+ 
+---------- Temron: turn 10 ----------
+Temron - plays Herald
+Temron - draws Herald
+Temron - reveals: Estate
+Temron - places Estate on top of deck
+Temron - plays Herald
+Temron - draws Estate
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Highway
+Temron - draws Copper
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Junk Dealer
+Temron - gains Junk Dealer
+Temron - draws Herald, Copper, Junk Dealer, Estate
+Temron - shuffles deck
+Temron - draws Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - shuffles deck
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Estate
+Titandrake - plays Herald
+Titandrake - draws Workshop
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Estate, Mint, Silver, Workshop
+ 
+---------- Temron: turn 11 ----------
+Temron - plays Herald
+Temron - draws Herald
+Temron - reveals: Highway
+Temron - plays Highway
+Temron - draws Copper
+Temron - plays Herald
+Temron - draws Copper
+Temron - reveals: Herald
+Temron - plays Herald
+Temron - draws Estate
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Junk Dealer
+Temron - draws Copper
+Temron - trashes Estate
+Temron - plays Silver
+Temron - plays Copper
+Temron - buys Highway
+Temron - gains Highway
+Temron - draws Estate, Workshop, Copper, Junk Dealer, Herald
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Herald, Copper, Herald
+Titandrake - shuffles deck
+Titandrake - draws Highway, Silver
+ 
+---------- Temron: turn 12 ----------
+Temron - plays Herald
+Temron - draws Copper
+Temron - reveals: Herald
+Temron - plays Herald
+Temron - draws Herald
+Temron - reveals: Silver
+Temron - places Silver on top of deck
+Temron - plays Herald
+Temron - draws Silver
+Temron - shuffles deck
+Temron - reveals: Herald
+Temron - plays Herald
+Temron - draws Copper
+Temron - reveals: Highway
+Temron - plays Highway
+Temron - draws Herald
+Temron - plays Herald
+Temron - draws Highway
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Highway
+Temron - draws Copper
+Temron - plays Junk Dealer
+Temron - draws Silver
+Temron - trashes Estate
+Temron - plays Workshop
+Temron - gains Highway
+Temron - plays 4 Copper, 2 Silver
+Temron - buys Province
+Temron - gains Province
+Temron - draws Herald, Copper, Junk Dealer, Estate, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Highway
+Titandrake - draws Herald
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Workshop
+Titandrake - plays Workshop
+Titandrake - gains Highway
+Titandrake - plays Herald
+Titandrake - draws Workshop
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Workshop
+Titandrake - gains Highway
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Silver, Mint, Copper, Workshop, Copper
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Herald
+Temron - shuffles deck
+Temron - draws Highway
+Temron - reveals: Herald
+Temron - plays Herald
+Temron - draws Copper
+Temron - reveals: Herald
+Temron - plays Herald
+Temron - draws Herald
+Temron - reveals: Silver
+Temron - places Silver on top of deck
+Temron - plays Herald
+Temron - draws Silver
+Temron - reveals: Herald
+Temron - plays Herald
+Temron - draws Highway
+Temron - reveals: Province
+Temron - places Province on top of deck
+Temron - plays Highway
+Temron - draws Province
+Temron - plays Highway
+Temron - draws Herald
+Temron - plays Herald
+Temron - draws Junk Dealer
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Junk Dealer
+Temron - draws Copper
+Temron - trashes Estate
+Temron - plays Junk Dealer
+Temron - draws Workshop
+Temron - trashes Copper
+Temron - plays Workshop
+Temron - gains Highway
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Province
+Temron - gains Province
+Temron - draws Silver, Copper, Copper, Highway
+Temron - shuffles deck
+Temron - draws Herald
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Herald, Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Highway, Copper, Estate
+ 
+---------- Temron: turn 14 ----------
+Temron - plays Highway
+Temron - draws Highway
+Temron - plays Herald
+Temron - draws Silver
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Highway
+Temron - draws Copper
+Temron - plays 3 Copper, 2 Silver
+Temron - buys Province
+Temron - gains Province
+Temron - draws Copper, Junk Dealer, Copper, Herald, Herald
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Highway
+Titandrake - draws Herald
+Titandrake - plays Junk Dealer
+Titandrake - draws Workshop
+Titandrake - trashes Estate
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - reveals: Mint
+Titandrake - plays Mint
+Titandrake - reveals Copper
+Titandrake - gains Copper
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Highway
+Titandrake - plays Highway
+Titandrake - draws Workshop
+Titandrake - plays Workshop
+Titandrake - gains Highway
+Titandrake - plays Workshop
+Titandrake - gains Highway
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Workshop, Highway, Herald, Copper, Silver
+ 
+---------- Temron: turn 15 ----------
+Temron - plays Herald
+Temron - draws Herald
+Temron - reveals: Herald
+Temron - plays Herald
+Temron - draws Highway
+Temron - reveals: Junk Dealer
+Temron - plays Junk Dealer
+Temron - draws Province
+Temron - trashes Copper
+Temron - plays Herald
+Temron - draws Highway
+Temron - reveals: Herald
+Temron - plays Herald
+Temron - draws Province
+Temron - reveals: Workshop
+Temron - plays Workshop
+Temron - gains Tunnel
+Temron - plays Herald
+Temron - shuffles deck
+Temron - draws Highway
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Highway
+Temron - draws Copper
+Temron - plays Highway
+Temron - draws Copper
+Temron - plays Highway
+Temron - draws Copper
+Temron - plays Junk Dealer
+Temron - draws Herald
+Temron - trashes Copper
+Temron - plays Herald
+Temron - draws Silver
+Temron - reveals: Province
+Temron - places Province on top of deck
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Province
+Temron - gains Province
+Temron - draws Province, Tunnel, Silver, Highway
+Temron - shuffles deck
+Temron - draws Herald
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Herald
+Titandrake - draws Highway
+Titandrake - reveals: Workshop
+Titandrake - plays Workshop
+Titandrake - gains Duchy
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Workshop
+Titandrake - plays Workshop
+Titandrake - gains Duchy
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Mint
+Titandrake - trashes Copper, Silver, Copper
+Titandrake - gains Mint
+Titandrake - draws Junk Dealer, Duchy, Copper, Junk Dealer, Highway
+ 
+---------- Temron: turn 16 ----------
+Temron - plays Highway
+Temron - draws Herald
+Temron - plays Herald
+Temron - draws Highway
+Temron - reveals: Workshop
+Temron - plays Workshop
+Temron - gains Duchy
+Temron - plays Herald
+Temron - draws Highway
+Temron - reveals: Province
+Temron - places Province on top of deck
+Temron - plays Highway
+Temron - draws Province
+Temron - plays Highway
+Temron - draws Herald
+Temron - plays Herald
+Temron - draws Junk Dealer
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Junk Dealer
+Temron - draws Copper
+Temron - trashes Copper
+Temron - plays 1 Silver
+Temron - buys Gold
+Temron - gains Gold
+Temron - draws Herald, Copper, Province, Herald, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Herald
+Titandrake - trashes Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Highway
+Titandrake - trashes Copper
+Titandrake - plays Highway
+Titandrake - draws Workshop
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Highway
+Titandrake - plays Highway
+Titandrake - draws Mint
+Titandrake - plays Workshop
+Titandrake - gains Workshop
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Highway
+Titandrake - shuffles deck
+Titandrake - draws Silver, Duchy, Workshop, Junk Dealer
+ 
+---------- Temron: turn 17 ----------
+Temron - plays Herald
+Temron - draws Junk Dealer
+Temron - reveals: Highway
+Temron - plays Highway
+Temron - draws Herald
+Temron - plays Herald
+Temron - draws Copper
+Temron - reveals: Province
+Temron - places Province on top of deck
+Temron - plays Herald
+Temron - draws Province
+Temron - shuffles deck
+Temron - reveals: Duchy
+Temron - places Duchy on top of deck
+Temron - plays Junk Dealer
+Temron - draws Duchy
+Temron - trashes Copper
+Temron - plays 1 Copper, 1 Silver
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Junk Dealer, Herald, Herald, Workshop, Highway
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Highway
+Titandrake - draws Herald
+Titandrake - plays Junk Dealer
+Titandrake - draws Highway
+Titandrake - trashes Silver
+Titandrake - plays Highway
+Titandrake - draws Workshop
+Titandrake - plays Herald
+Titandrake - draws Junk Dealer
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Duchy
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Province, Workshop, Highway, Highway, Highway
+ 
+---------- Temron: turn 18 ----------
+Temron - plays Herald
+Temron - draws Province
+Temron - reveals: Gold
+Temron - places Gold on top of deck
+Temron - plays Herald
+Temron - draws Gold
+Temron - reveals: Highway
+Temron - plays Highway
+Temron - draws Province
+Temron - plays Highway
+Temron - draws Highway
+Temron - plays Highway
+Temron - draws Silver
+Temron - plays Junk Dealer
+Temron - draws Herald
+Temron - trashes Silver
+Temron - plays Herald
+Temron - draws Tunnel
+Temron - shuffles deck
+Temron - reveals: Duchy
+Temron - places Duchy on top of deck
+Temron - plays Workshop
+Temron - gains Duchy
+Temron - plays 1 Gold
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Duchy, Silver, Duchy, Herald, Province
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Highway
+Titandrake - draws Workshop
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Herald
+Titandrake - plays Highway
+Titandrake - draws Mint
+Titandrake - plays Herald
+Titandrake - draws Workshop
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Mint
+Titandrake - shuffles deck
+Titandrake - reveals: Highway
+Titandrake - plays Highway
+Titandrake - draws Workshop
+Titandrake - plays Workshop
+Titandrake - gains Province
+Titandrake - plays Workshop
+Titandrake - gains Province
+Titandrake - plays Workshop
+Titandrake - gains Tunnel
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Junk Dealer, Herald, Workshop, Tunnel, Herald
+ 
+---------- Temron: turn 19 ----------
+Temron - plays Herald
+Temron - draws Highway
+Temron - reveals: Copper
+Temron - places Copper on top of deck
+Temron - plays Highway
+Temron - draws Copper
+Temron - plays 1 Silver, 1 Copper
+Temron - buys Tunnel
+Temron - gains Tunnel
+Temron - draws Herald, Junk Dealer, Province, Herald
+Temron - shuffles deck
+Temron - draws Herald
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Herald
+Titandrake - draws Junk Dealer
+Titandrake - reveals: Duchy
+Titandrake - places Duchy on top of deck
+Titandrake - plays Herald
+Titandrake - draws Duchy
+Titandrake - reveals: Highway
+Titandrake - plays Highway
+Titandrake - draws Duchy
+Titandrake - plays Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Mint
+Titandrake - trashes Mint
+Titandrake - plays Junk Dealer
+Titandrake - draws Tunnel
+Titandrake - trashes Workshop
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Herald, Highway, Workshop, Workshop, Highway
+ 
+---------- Temron: turn 20 ----------
+Temron - plays Herald
+Temron - draws Herald
+Temron - reveals: Duchy
+Temron - places Duchy on top of deck
+Temron - plays Herald
+Temron - draws Duchy
+Temron - reveals: Highway
+Temron - plays Highway
+Temron - draws Copper
+Temron - plays Herald
+Temron - draws Province
+Temron - reveals: Herald
+Temron - plays Herald
+Temron - draws Highway
+Temron - reveals: Junk Dealer
+Temron - plays Junk Dealer
+Temron - draws Highway
+Temron - trashes Copper
+Temron - plays Herald
+Temron - draws Province
+Temron - reveals: Tunnel
+Temron - places Tunnel on top of deck
+Temron - plays Highway
+Temron - draws Tunnel
+Temron - plays Highway
+Temron - draws Silver
+Temron - plays Junk Dealer
+Temron - draws Duchy
+Temron - trashes Silver
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Duchy, Tunnel, Province, Duchy, Gold
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Highway
+Titandrake - draws Mint
+Titandrake - plays Highway
+Titandrake - draws Province
+Titandrake - plays Herald
+Titandrake - draws Tunnel
+Titandrake - reveals: Workshop
+Titandrake - plays Workshop
+Titandrake - gains Tunnel
+Titandrake - plays Workshop
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Highway, Herald, Province, Workshop
+ 
+---------- Temron: turn 21 ----------
+Temron - plays 1 Gold
+Temron - buys Tunnel
+Temron - gains Tunnel
+Temron - draws Highway, Herald, Workshop
+Temron - shuffles deck
+Temron - draws Duchy, Duchy
+ 
+------------ Game Over ------------
+Temron - cards: 6 Herald, 4 Highway, 2 Junk Dealer, 1 Workshop, 1 Gold, 5 Duchy, 4 Province, 3 Tunnel
+Temron - total victory points: 45
+Temron - turns: 21
+ 
+Titandrake - cards: 6 Highway, 4 Herald, 4 Workshop, 2 Junk Dealer, 1 Mint, 5 Tunnel, 3 Province, 2 Duchy, 2 Estate
+Titandrake - total victory points: 36
+Titandrake - turns: 20
+ 
+1st place: Temron
+2nd place: Titandrake
+ 

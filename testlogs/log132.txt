@@ -1,0 +1,419 @@
+------------ Game Setup ------------
+Supply cards: Haven, Native Village, Vagrant, Menagerie, Workshop, Smithy, Counterfeit, Highway, Border Village, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+PeraPeraPrv - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+PeraPeraPrv - shuffles deck
+Titandrake - shuffles deck
+PeraPeraPrv - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- PeraPeraPrv: turn 1 ----------
+PeraPeraPrv - plays 4 Copper
+PeraPeraPrv - buys Smithy
+PeraPeraPrv - gains Smithy
+PeraPeraPrv - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Workshop, Copper, Smithy
+ 
+---------- PeraPeraPrv: turn 2 ----------
+PeraPeraPrv - plays 3 Copper
+PeraPeraPrv - buys Silver
+PeraPeraPrv - gains Silver
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Smithy, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Smithy
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Copper, Copper, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- PeraPeraPrv: turn 3 ----------
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Copper, Copper, Copper
+PeraPeraPrv - plays 6 Copper
+PeraPeraPrv - buys Border Village
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Counterfeit
+PeraPeraPrv - draws Estate, Silver, Copper, Estate
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Workshop, Copper, Copper, Estate, Copper
+ 
+---------- PeraPeraPrv: turn 4 ----------
+PeraPeraPrv - plays 2 Copper, 1 Silver
+PeraPeraPrv - buys Workshop
+PeraPeraPrv - gains Workshop
+PeraPeraPrv - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Workshop
+Titandrake - gains Smithy
+Titandrake - plays 3 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Copper, Counterfeit, Smithy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- PeraPeraPrv: turn 5 ----------
+PeraPeraPrv - plays 4 Copper
+PeraPeraPrv - buys Menagerie
+PeraPeraPrv - gains Menagerie
+PeraPeraPrv - draws Counterfeit, Border Village, Smithy, Copper
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Smithy
+Titandrake - draws Smithy, Copper, Native Village
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Counterfeit
+Titandrake - draws Menagerie, Estate, Estate, Estate, Workshop
+ 
+---------- PeraPeraPrv: turn 6 ----------
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Silver
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Menagerie, Copper, Copper
+PeraPeraPrv - plays Menagerie
+PeraPeraPrv - reveals hand: Counterfeit, Copper, Copper, Silver, Copper, Copper
+PeraPeraPrv - draws Estate
+PeraPeraPrv - plays Counterfeit
+PeraPeraPrv - plays Copper
+PeraPeraPrv - plays Copper
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - plays 3 Copper, 1 Silver
+PeraPeraPrv - buys Border Village
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Highway
+PeraPeraPrv - buys Native Village
+PeraPeraPrv - gains Native Village
+PeraPeraPrv - draws Estate, Copper, Estate, Copper, Workshop
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Estate, Estate, Workshop
+Titandrake - draws Copper
+Titandrake - plays Workshop
+Titandrake - gains Native Village
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Counterfeit, Native Village, Menagerie
+ 
+---------- PeraPeraPrv: turn 7 ----------
+PeraPeraPrv - plays Workshop
+PeraPeraPrv - gains Smithy
+PeraPeraPrv - plays 2 Copper
+PeraPeraPrv - buys Native Village
+PeraPeraPrv - gains Native Village
+PeraPeraPrv - draws Copper
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Copper, Estate, Menagerie, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Counterfeit, Native Village
+Titandrake - draws Estate
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Workshop, Smithy, Copper, Copper, Counterfeit
+ 
+---------- PeraPeraPrv: turn 8 ----------
+PeraPeraPrv - plays Menagerie
+PeraPeraPrv - reveals hand: Copper, Copper, Estate, Estate
+PeraPeraPrv - draws Copper
+PeraPeraPrv - plays 3 Copper
+PeraPeraPrv - buys Menagerie
+PeraPeraPrv - gains Menagerie
+PeraPeraPrv - draws Counterfeit, Smithy, Estate, Native Village, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Workshop
+Titandrake - gains Smithy
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Estate, Estate, Smithy, Border Village, Native Village
+ 
+---------- PeraPeraPrv: turn 9 ----------
+PeraPeraPrv - plays Native Village
+PeraPeraPrv - sets aside Border Village
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Copper, Highway, Copper
+PeraPeraPrv - plays Highway
+PeraPeraPrv - draws Border Village
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Silver
+PeraPeraPrv - plays Counterfeit
+PeraPeraPrv - plays Copper
+PeraPeraPrv - plays Copper
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - plays 2 Copper, 1 Silver
+PeraPeraPrv - buys Border Village
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Highway
+PeraPeraPrv - buys Menagerie
+PeraPeraPrv - gains Menagerie
+PeraPeraPrv - draws Smithy, Workshop, Native Village
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Copper, Smithy
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Smithy
+Titandrake - shuffles deck
+Titandrake - draws Counterfeit, Vagrant, Menagerie
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Counterfeit
+Titandrake - places Counterfeit on top of deck
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Estate, Native Village, Copper, Counterfeit, Copper
+Titandrake - draws Counterfeit
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Highway
+Titandrake - draws Haven, Estate, Copper, Smithy, Menagerie
+ 
+---------- PeraPeraPrv: turn 10 ----------
+PeraPeraPrv - plays Native Village
+PeraPeraPrv - takes set aside cards: Border Village
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Counterfeit, Copper, Copper
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Menagerie
+PeraPeraPrv - plays Menagerie
+PeraPeraPrv - reveals hand: Smithy, Workshop, Copper, Counterfeit, Copper, Copper
+PeraPeraPrv - draws Estate
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Native Village, Menagerie, Silver
+PeraPeraPrv - plays Native Village
+PeraPeraPrv - sets aside Highway
+PeraPeraPrv - plays Menagerie
+PeraPeraPrv - reveals hand: Estate, Workshop, Copper, Counterfeit, Copper, Copper, Silver
+PeraPeraPrv - draws Estate
+PeraPeraPrv - plays Workshop
+PeraPeraPrv - gains Smithy
+PeraPeraPrv - plays Counterfeit
+PeraPeraPrv - plays Copper
+PeraPeraPrv - plays Copper
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - plays 2 Copper, 1 Silver
+PeraPeraPrv - buys Border Village
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Highway
+PeraPeraPrv - draws Highway, Copper, Border Village, Border Village, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Haven, Estate, Copper, Smithy
+Titandrake - draws Workshop, Smithy
+Titandrake - shuffles deck
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Vagrant
+Titandrake - plays Smithy
+Titandrake - draws Menagerie, Highway, Border Village
+Titandrake - plays Border Village
+Titandrake - draws Counterfeit
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Haven
+Titandrake - draws Native Village
+Titandrake - sets aside Estate
+Titandrake - plays Workshop
+Titandrake - gains Highway
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Smithy, Estate, Copper, Vagrant, Counterfeit, Native Village
+Titandrake - draws Counterfeit, Smithy, Estate
+Titandrake - plays Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Highway
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Copper, Native Village
+Titandrake - plays Highway
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - shuffles deck
+Titandrake - draws Counterfeit, Highway, Highway, Native Village, Estate
+ 
+---------- PeraPeraPrv: turn 11 ----------
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Copper
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Menagerie
+PeraPeraPrv - plays Highway
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Smithy
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Menagerie, Border Village, Border Village
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Native Village
+PeraPeraPrv - plays Border Village
+PeraPeraPrv - draws Copper
+PeraPeraPrv - plays Menagerie
+PeraPeraPrv - reveals hand: Copper, Estate, Copper, Menagerie, Native Village, Copper
+PeraPeraPrv - draws Estate
+PeraPeraPrv - plays Menagerie
+PeraPeraPrv - reveals hand: Estate, Copper, Estate, Copper, Native Village, Copper
+PeraPeraPrv - draws Menagerie
+PeraPeraPrv - plays Menagerie
+PeraPeraPrv - reveals hand: Estate, Copper, Estate, Copper, Native Village, Copper
+PeraPeraPrv - draws Smithy
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Silver, Workshop, Smithy
+PeraPeraPrv - plays Native Village
+PeraPeraPrv - takes set aside cards: Highway
+PeraPeraPrv - plays Highway
+PeraPeraPrv - draws Counterfeit
+PeraPeraPrv - plays Workshop
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Highway
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Highway, Copper, Estate
+PeraPeraPrv - plays Highway
+PeraPeraPrv - draws Native Village
+PeraPeraPrv - plays Native Village
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - sets aside Highway
+PeraPeraPrv - plays Counterfeit
+PeraPeraPrv - plays Copper
+PeraPeraPrv - plays Copper
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - plays 3 Copper, 1 Silver
+PeraPeraPrv - buys Border Village
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Highway
+PeraPeraPrv - buys Border Village
+PeraPeraPrv - gains Border Village
+PeraPeraPrv - gains Highway
+PeraPeraPrv - draws Border Village
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Menagerie, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Estate in hand
+Titandrake - plays Highway
+Titandrake - draws Workshop
+Titandrake - plays Highway
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Menagerie
+Titandrake - reveals: Smithy
+Titandrake - places Smithy on top of deck
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Counterfeit, Native Village, Estate, Estate, Workshop
+Titandrake - draws Smithy
+Titandrake - plays Native Village
+Titandrake - sets aside Counterfeit
+Titandrake - plays Smithy
+Titandrake - draws Menagerie, Border Village, Highway
+Titandrake - plays Highway
+Titandrake - draws Smithy
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Smithy
+Titandrake - draws Highway, Border Village, Native Village
+Titandrake - plays Highway
+Titandrake - draws Smithy
+Titandrake - plays Border Village
+Titandrake - draws Haven
+Titandrake - plays Workshop
+Titandrake - gains Border Village
+Titandrake - gains Smithy
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Counterfeit
+Titandrake - plays Smithy
+Titandrake - shuffles deck
+Titandrake - draws Smithy, Border Village
+Titandrake - plays Counterfeit
+Titandrake - plays Counterfeit
+Titandrake - plays Counterfeit
+Titandrake - trashes Counterfeit
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Highway, Smithy, Estate, Smithy, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Smithy, 4 Highway, 3 Border Village, 2 Menagerie, 2 Haven, 2 Native Village, 1 Vagrant, 1 Workshop, 1 Counterfeit, 3 Estate, 1 Duchy
+Titandrake - total victory points: 6
+Titandrake - turns: 12
+ 
+PeraPeraPrv - cards: 7 Border Village, 6 Highway, 3 Menagerie, 3 Smithy, 2 Native Village, 1 Workshop, 3 Copper, 1 Silver, 1 Counterfeit, 3 Estate
+PeraPeraPrv - total victory points: 3
+PeraPeraPrv - turns: 11
+ 
+1st place: Titandrake
+2nd place: PeraPeraPrv
+ 

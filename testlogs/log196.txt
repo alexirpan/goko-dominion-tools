@@ -1,0 +1,457 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Steward, Workshop, Bishop, Feodum, Scavenger, Young Witch, Soothsayer, Treasury, Adventurer, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Bane card: Workshop
+Rating system: pro
+theblankman - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+theblankman - shuffles deck
+Titandrake - shuffles deck
+theblankman - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- theblankman: turn 1 ----------
+theblankman - plays 5 Copper
+theblankman - buys Soothsayer
+theblankman - gains Soothsayer
+theblankman - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- theblankman: turn 2 ----------
+theblankman - shuffles deck
+theblankman - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - shuffles deck
+Titandrake - draws Steward, Copper, Copper, Copper, Estate
+ 
+---------- theblankman: turn 3 ----------
+theblankman - plays 3 Copper
+theblankman - buys Steward
+theblankman - gains Steward
+theblankman - draws Copper, Soothsayer, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Steward
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Scavenger, Copper, Estate, Estate
+ 
+---------- theblankman: turn 4 ----------
+theblankman - plays Soothsayer
+theblankman - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+theblankman - plays 3 Copper
+theblankman - buys Silver
+theblankman - gains Silver
+theblankman - draws Copper
+theblankman - shuffles deck
+theblankman - draws Copper, Copper, Soothsayer, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Steward on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Steward
+Titandrake - shuffles deck
+Titandrake - draws Scavenger, Copper, Copper, Copper
+ 
+---------- theblankman: turn 5 ----------
+theblankman - plays Soothsayer
+theblankman - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+theblankman - plays 3 Copper
+theblankman - buys Silver
+theblankman - gains Silver
+theblankman - draws Estate, Silver, Copper, Copper, Steward
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Soothsayer on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Soothsayer
+Titandrake - shuffles deck
+Titandrake - draws Steward, Copper, Copper, Curse
+ 
+---------- theblankman: turn 6 ----------
+theblankman - plays Steward
+theblankman - trashes Estate, Copper
+theblankman - plays 1 Silver, 1 Copper
+theblankman - buys Silver
+theblankman - gains Silver
+theblankman - draws Copper, Gold, Estate, Copper
+theblankman - shuffles deck
+theblankman - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+theblankman - gains Curse
+theblankman - draws Silver
+Titandrake - draws Estate, Copper, Curse, Copper, Scavenger
+ 
+---------- theblankman: turn 7 ----------
+theblankman - plays 3 Copper, 1 Gold, 1 Silver
+theblankman - buys Goons
+theblankman - gains Goons
+theblankman - draws Copper, Estate, Silver, Gold, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Soothsayer on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Soothsayer
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Estate
+ 
+---------- theblankman: turn 8 ----------
+theblankman - plays 2 Silver, 1 Copper, 1 Gold
+theblankman - buys Gold
+theblankman - gains Gold
+theblankman - draws Copper, Copper, Steward, Soothsayer
+theblankman - shuffles deck
+theblankman - draws Gold
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+theblankman - gains Curse
+theblankman - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Gold, Gold, Curse, Scavenger
+ 
+---------- theblankman: turn 9 ----------
+theblankman - plays Steward
+theblankman - trashes Copper, Copper
+theblankman - plays 1 Gold, 1 Copper
+theblankman - buys Bishop
+theblankman - gains Bishop
+theblankman - draws Silver, Goons, Gold, Silver, Curse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Soothsayer on top of deck
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Soothsayer
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse, Copper, Gold
+ 
+---------- theblankman: turn 10 ----------
+theblankman - plays Goons
+Titandrake - discards Curse
+Titandrake - discards Copper
+theblankman - plays 2 Silver, 1 Gold
+theblankman - buys Platinum
+theblankman - receives 1 victory point chips
+theblankman - gains Platinum
+theblankman - draws Copper, Copper, Gold, Estate, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+theblankman - gains Curse
+theblankman - draws Estate
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Platinum, Silver, Copper, Copper, Copper
+ 
+---------- theblankman: turn 11 ----------
+theblankman - plays 2 Copper, 1 Gold, 1 Silver
+theblankman - buys Gold
+theblankman - gains Gold
+theblankman - draws Copper
+theblankman - shuffles deck
+theblankman - draws Steward, Gold, Gold, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper, 1 Platinum, 1 Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Silver, Scavenger, Steward, Estate, Estate
+ 
+---------- theblankman: turn 12 ----------
+theblankman - plays Steward
+theblankman - trashes Curse, Copper
+theblankman - plays 2 Gold
+theblankman - buys Goons
+theblankman - gains Goons
+theblankman - draws Curse, Silver, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Steward
+Titandrake - trashes Estate, Estate
+Titandrake - draws Curse, Gold, Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws Steward
+ 
+---------- theblankman: turn 13 ----------
+theblankman - plays 2 Silver, 2 Copper
+theblankman - buys Gold
+theblankman - gains Gold
+theblankman - draws Estate, Silver, Bishop, Copper, Platinum
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Curse
+Titandrake - plays 2 Gold
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Copper, Gold, Copper, Copper, Platinum
+ 
+---------- theblankman: turn 14 ----------
+theblankman - plays Bishop
+theblankman - trashes Estate
+theblankman - receives 1 victory point chips
+theblankman - plays 1 Silver, 1 Copper, 1 Platinum
+theblankman - buys Platinum
+theblankman - gains Platinum
+theblankman - draws Soothsayer, Gold, Gold, Estate, Goons
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Copper, 1 Gold, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Silver, Platinum, Scavenger, Gold, Soothsayer
+ 
+---------- theblankman: turn 15 ----------
+theblankman - plays Soothsayer
+theblankman - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+theblankman - plays 2 Gold
+theblankman - buys Gold
+theblankman - gains Gold
+theblankman - draws Curse
+theblankman - shuffles deck
+theblankman - draws Gold, Soothsayer, Goons, Platinum
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+theblankman - gains Curse
+theblankman - draws Estate
+Titandrake - plays 1 Silver, 1 Platinum, 1 Gold, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Silver, Silver, Curse
+Titandrake - shuffles deck
+Titandrake - draws Steward
+ 
+---------- theblankman: turn 16 ----------
+theblankman - plays Goons
+Titandrake - discards Silver
+Titandrake - discards Silver
+theblankman - plays 1 Gold, 1 Platinum
+theblankman - buys Platinum
+theblankman - receives 1 victory point chips
+theblankman - gains Platinum
+theblankman - draws Silver, Silver, Gold, Goons, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Steward
+Titandrake - trashes Curse, Copper
+Titandrake - draws Colony, Gold, Goons, Gold, Curse
+ 
+---------- theblankman: turn 17 ----------
+theblankman - plays Goons
+Titandrake - discards Colony
+Titandrake - discards Curse
+theblankman - plays 2 Silver, 2 Gold
+theblankman - buys Colony
+theblankman - receives 1 victory point chips
+theblankman - gains Colony
+theblankman - draws Gold, Gold, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Goons
+theblankman - discards Curse
+theblankman - discards Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - receives 1 victory point chips
+Titandrake - gains Province
+Titandrake - draws Gold, Copper, Copper, Silver, Scavenger
+ 
+---------- theblankman: turn 18 ----------
+theblankman - plays 2 Gold, 1 Copper
+theblankman - buys Goons
+theblankman - gains Goons
+theblankman - draws Platinum, Silver, Gold, Bishop, Steward
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Scavenger
+Titandrake - places Goons on top of deck
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Goons, Platinum, Copper, Platinum, Soothsayer
+ 
+---------- theblankman: turn 19 ----------
+theblankman - plays Bishop
+theblankman - trashes Steward
+theblankman - receives 1 victory point chips
+Titandrake - trashes Copper
+theblankman - plays 1 Platinum, 1 Silver, 1 Gold
+theblankman - buys Colony
+theblankman - gains Colony
+theblankman - draws Copper, Gold
+theblankman - shuffles deck
+theblankman - draws Bishop, Silver, Goons
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Goons
+theblankman - discards Copper
+theblankman - discards Bishop
+Titandrake - plays 2 Platinum
+Titandrake - buys Colony
+Titandrake - receives 1 victory point chips
+Titandrake - gains Colony
+Titandrake - buys Copper
+Titandrake - receives 1 victory point chips
+Titandrake - gains Copper
+Titandrake - draws Gold, Colony, Copper, Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- theblankman: turn 20 ----------
+theblankman - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Colony
+theblankman - plays 1 Gold, 1 Silver
+theblankman - buys Duchy
+theblankman - receives 1 victory point chips
+theblankman - gains Duchy
+theblankman - buys Estate
+theblankman - receives 1 victory point chips
+theblankman - gains Estate
+theblankman - draws Copper, Gold, Gold, Silver, Colony
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Goons, Platinum, Platinum, Copper
+ 
+---------- theblankman: turn 21 ----------
+theblankman - plays 2 Gold, 1 Copper, 1 Silver
+theblankman - buys Province
+theblankman - gains Province
+theblankman - draws Curse, Colony, Curse, Gold, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Goons
+theblankman - discards Curse
+theblankman - discards Curse
+Titandrake - plays 2 Platinum, 1 Silver, 1 Copper
+Titandrake - buys Colony
+Titandrake - receives 1 victory point chips
+Titandrake - gains Colony
+Titandrake - buys Feodum
+Titandrake - receives 1 victory point chips
+Titandrake - gains Feodum
+Titandrake - draws Soothsayer, Platinum, Silver, Silver, Gold
+ 
+---------- theblankman: turn 22 ----------
+theblankman - plays 1 Gold, 1 Copper
+theblankman - buys Bishop
+theblankman - gains Bishop
+theblankman - draws Curse, Platinum, Platinum, Gold, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+theblankman - gains Curse
+theblankman - draws Gold
+Titandrake - plays 2 Silver, 1 Platinum, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Steward, Copper, Copper, Gold, Colony
+ 
+---------- theblankman: turn 23 ----------
+theblankman - plays 3 Gold, 2 Platinum
+theblankman - buys Province
+theblankman - gains Province
+theblankman - draws Soothsayer, Goons, Platinum, Goons, Silver
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Steward
+Titandrake - draws Scavenger, Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Colony, Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Steward, Copper
+ 
+---------- theblankman: turn 24 ----------
+theblankman - plays Goons
+Titandrake - discards Province
+Titandrake - discards Colony
+theblankman - plays 1 Platinum, 1 Silver
+theblankman - buys Province
+theblankman - receives 1 victory point chips
+theblankman - gains Province
+theblankman - buys Copper
+theblankman - receives 1 victory point chips
+theblankman - gains Copper
+theblankman - draws Estate
+theblankman - shuffles deck
+theblankman - draws Silver, Gold, Province, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Platinum, Feodum, Platinum
+ 
+---------- theblankman: turn 25 ----------
+theblankman - plays 2 Silver, 1 Gold
+theblankman - buys Duchy
+theblankman - gains Duchy
+theblankman - draws Bishop, Soothsayer, Goons, Curse, Gold
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays 2 Copper, 2 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Colony, Curse, Silver, Silver, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Steward, 1 Goons, 1 Scavenger, 1 Soothsayer, 6 Gold, 4 Copper, 3 Silver, 3 Platinum, 6 Colony, 2 Province, 2 Duchy, 1 Feodum, 1 Curse
+Titandrake - victory point chips: 5
+Titandrake - total victory points: 83
+Titandrake - turns: 25
+ 
+theblankman - cards: 3 Goons, 2 Bishop, 1 Soothsayer, 7 Gold, 4 Copper, 3 Silver, 3 Platinum, 3 Province, 2 Duchy, 2 Estate, 2 Colony, 4 Curse
+theblankman - victory point chips: 11
+theblankman - total victory points: 53
+theblankman - turns: 25
+ 
+1st place: Titandrake
+2nd place: theblankman
+ 

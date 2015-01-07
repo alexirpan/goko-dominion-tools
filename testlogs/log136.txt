@@ -1,0 +1,393 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Moat, Chancellor, Masterpiece, Familiar, Armory, Scout, Ill-Gotten Gains, Inn, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+qDread - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+qDread - shuffles deck
+Titandrake - shuffles deck
+qDread - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- qDread: turn 1 ----------
+qDread - plays 3 Copper
+qDread - buys Silver
+qDread - gains Silver
+qDread - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- qDread: turn 2 ----------
+qDread - plays 4 Copper
+qDread - buys Chancellor
+qDread - gains Chancellor
+qDread - shuffles deck
+qDread - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Chancellor, Potion, Copper, Estate, Copper
+ 
+---------- qDread: turn 3 ----------
+qDread - plays 3 Copper
+qDread - buys Silver
+qDread - gains Silver
+qDread - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - shuffles deck
+Titandrake - draws Copper, Potion, Estate, Copper, Silver
+ 
+---------- qDread: turn 4 ----------
+qDread - plays 4 Copper, 1 Silver
+qDread - buys Ill-Gotten Gains
+qDread - gains Ill-Gotten Gains
+Titandrake - gains Curse
+qDread - draws Chancellor, Estate
+qDread - shuffles deck
+qDread - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Estate, Estate, Chancellor, Copper, Familiar
+ 
+---------- qDread: turn 5 ----------
+qDread - plays Chancellor
+qDread - moves deck to discards
+qDread - plays 3 Copper
+qDread - buys Ill-Gotten Gains
+qDread - gains Ill-Gotten Gains
+Titandrake - gains Curse
+qDread - shuffles deck
+qDread - draws Copper, Silver, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+qDread - gains Curse
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Familiar, Estate, Copper
+ 
+---------- qDread: turn 6 ----------
+qDread - plays 3 Copper, 2 Silver
+qDread - buys Masterpiece
+qDread - overpays for Masterpiece with 4 coins
+qDread - gains Silver
+qDread - gains Silver
+qDread - gains Silver
+qDread - gains Silver
+qDread - gains Masterpiece
+qDread - draws Ill-Gotten Gains, Estate, Copper, Estate, Ill-Gotten Gains
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Familiar
+Titandrake - draws Estate
+qDread - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse, Silver, Estate, Copper, Curse
+ 
+---------- qDread: turn 7 ----------
+qDread - plays 1 Copper
+qDread - plays Ill-Gotten Gains
+qDread - gains Copper
+qDread - plays Copper
+qDread - plays Ill-Gotten Gains
+qDread - gains Copper
+qDread - plays Copper
+qDread - buys Ill-Gotten Gains
+qDread - gains Ill-Gotten Gains
+Titandrake - gains Curse
+qDread - draws Chancellor, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Potion, Silver, Copper, Copper, Copper
+ 
+---------- qDread: turn 8 ----------
+qDread - plays Chancellor
+qDread - plays 3 Copper
+qDread - buys Ill-Gotten Gains
+qDread - gains Ill-Gotten Gains
+Titandrake - gains Curse
+qDread - shuffles deck
+qDread - draws Silver, Copper, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 1 Potion, 1 Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+qDread - gains Curse
+Titandrake - draws Chancellor, Familiar
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver
+ 
+---------- qDread: turn 9 ----------
+qDread - plays 2 Silver, 2 Copper
+qDread - buys Ill-Gotten Gains
+qDread - gains Ill-Gotten Gains
+Titandrake - gains Curse
+qDread - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Familiar
+Titandrake - draws Ill-Gotten Gains
+qDread - gains Curse
+Titandrake - plays Chancellor
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Curse, Copper, Estate, Curse
+ 
+---------- qDread: turn 10 ----------
+qDread - plays 4 Copper, 1 Silver
+qDread - buys Ill-Gotten Gains
+qDread - gains Ill-Gotten Gains
+Titandrake - gains Curse
+qDread - draws Ill-Gotten Gains, Ill-Gotten Gains, Silver, Copper, Masterpiece
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - draws Estate, Copper, Silver, Familiar, Estate
+ 
+---------- qDread: turn 11 ----------
+qDread - plays 1 Silver, 1 Copper, 1 Masterpiece
+qDread - plays Ill-Gotten Gains
+qDread - gains Copper
+qDread - plays Copper
+qDread - plays Ill-Gotten Gains
+qDread - gains Copper
+qDread - plays Copper
+qDread - buys Province
+qDread - gains Province
+qDread - draws Estate, Ill-Gotten Gains, Silver, Estate, Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Curse, Silver, Potion, Copper
+ 
+---------- qDread: turn 12 ----------
+qDread - plays 1 Silver
+qDread - plays Ill-Gotten Gains
+qDread - buys Silver
+qDread - gains Silver
+qDread - draws Silver, Copper, Copper, Ill-Gotten Gains, Curse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Potion
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Familiar, Silver, Familiar, Estate
+ 
+---------- qDread: turn 13 ----------
+qDread - plays 2 Copper, 1 Silver
+qDread - plays Ill-Gotten Gains
+qDread - gains Copper
+qDread - plays Copper
+qDread - buys Masterpiece
+qDread - overpays for Masterpiece with 3 coins
+qDread - gains Silver
+qDread - gains Silver
+qDread - gains Silver
+qDread - gains Masterpiece
+qDread - draws Chancellor
+qDread - shuffles deck
+qDread - draws Silver, Estate, Copper, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays Familiar
+Titandrake - draws Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Copper, Province, Copper
+ 
+---------- qDread: turn 14 ----------
+qDread - plays Chancellor
+qDread - plays 1 Silver, 1 Copper
+qDread - buys Duchy
+qDread - gains Duchy
+qDread - gains Duchess
+qDread - draws Province, Copper, Copper, Masterpiece, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Masterpiece
+Titandrake - overpays for Masterpiece with 2 coins
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Masterpiece
+Titandrake - draws Silver, Copper, Chancellor, Ill-Gotten Gains, Copper
+ 
+---------- qDread: turn 15 ----------
+qDread - plays 2 Copper, 1 Masterpiece
+qDread - buys Silver
+qDread - gains Silver
+qDread - draws Ill-Gotten Gains, Ill-Gotten Gains, Curse, Curse, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Chancellor
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Curse, Potion, Copper, Chancellor
+ 
+---------- qDread: turn 16 ----------
+qDread - plays Ill-Gotten Gains
+qDread - plays Ill-Gotten Gains
+qDread - buys Duchess
+qDread - gains Duchess
+qDread - draws Curse, Ill-Gotten Gains, Silver, Silver, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 1 Silver, 1 Potion, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - gains Duchess
+Titandrake - shuffles deck
+Titandrake - draws Familiar, Copper, Silver, Silver, Curse
+ 
+---------- qDread: turn 17 ----------
+qDread - plays 3 Silver
+qDread - plays Ill-Gotten Gains
+qDread - gains Copper
+qDread - plays Copper
+qDread - buys Province
+qDread - gains Province
+qDread - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Familiar
+Titandrake - draws Province
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Masterpiece, Silver, Copper, Curse, Curse
+ 
+---------- qDread: turn 18 ----------
+qDread - plays 5 Copper
+qDread - buys Duchy
+qDread - gains Duchy
+qDread - gains Duchess
+qDread - draws Ill-Gotten Gains, Ill-Gotten Gains, Copper, Silver, Masterpiece
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse, Estate, Copper, Copper, Copper
+ 
+---------- qDread: turn 19 ----------
+qDread - plays 1 Copper, 1 Silver, 1 Masterpiece
+qDread - plays Ill-Gotten Gains
+qDread - gains Copper
+qDread - plays Copper
+qDread - plays Ill-Gotten Gains
+qDread - gains Copper
+qDread - plays Copper
+qDread - buys Province
+qDread - gains Province
+qDread - draws Silver, Silver, Copper, Silver, Ill-Gotten Gains
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Duchy, Chancellor, Curse, Silver, Potion
+ 
+---------- qDread: turn 20 ----------
+qDread - plays 3 Silver, 1 Copper
+qDread - plays Ill-Gotten Gains
+qDread - buys Province
+qDread - gains Province
+qDread - draws Silver, Copper, Copper, Silver
+qDread - shuffles deck
+qDread - draws Ill-Gotten Gains
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Chancellor
+Titandrake - plays 1 Silver, 1 Potion
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Familiar, Duchess, Silver, Copper, Ill-Gotten Gains
+ 
+---------- qDread: turn 21 ----------
+qDread - plays 2 Silver, 2 Copper
+qDread - plays Ill-Gotten Gains
+qDread - gains Copper
+qDread - plays Copper
+qDread - buys Province
+qDread - gains Province
+qDread - draws Copper, Silver, Masterpiece, Silver, Estate
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays Duchess
+Titandrake - places Silver on top of deck
+qDread - places Ill-Gotten Gains on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Estate, Silver, Estate
+ 
+------------ Game Over ------------
+qDread - cards: 3 Duchess, 16 Copper, 11 Silver, 1 Chancellor, 6 Ill-Gotten Gains, 2 Masterpiece, 5 Province, 3 Estate, 2 Duchy, 4 Curse
+qDread - total victory points: 35
+qDread - turns: 21
+ 
+Titandrake - cards: 2 Familiar, 2 Chancellor, 10 Silver, 10 Copper, 1 Duchess, 1 Masterpiece, 1 Potion, 1 Ill-Gotten Gains, 5 Estate, 3 Province, 2 Duchy, 6 Curse
+Titandrake - total victory points: 23
+Titandrake - turns: 22
+ 
+1st place: qDread
+2nd place: Titandrake
+ 

@@ -1,0 +1,571 @@
+------------ Game Setup ------------
+Supply cards: Hermit, Oasis, Trade Route, Watchtower, Armory, Silk Road, Bandit Camp, Hunting Party, Adventurer, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Wandering Winder - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Wandering Winder - shuffles deck
+Titandrake - shuffles deck
+Wandering Winder - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Wandering Winder: turn 1 ----------
+Wandering Winder - plays 4 Copper
+Wandering Winder - buys Armory
+Wandering Winder - gains Armory
+Wandering Winder - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Wandering Winder: turn 2 ----------
+Wandering Winder - plays 3 Copper
+Wandering Winder - buys Oasis
+Wandering Winder - gains Oasis
+Wandering Winder - shuffles deck
+Wandering Winder - draws Copper, Armory, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Armory, Copper, Copper
+ 
+---------- Wandering Winder: turn 3 ----------
+Wandering Winder - plays Armory
+Wandering Winder - gains Silver
+Wandering Winder - plays 4 Copper
+Wandering Winder - buys Oasis
+Wandering Winder - gains Oasis
+Wandering Winder - draws Silver, Estate, Copper, Oasis, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Armory
+Titandrake - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Silver, Copper, Silver, Estate, Copper
+ 
+---------- Wandering Winder: turn 4 ----------
+Wandering Winder - plays Oasis
+Wandering Winder - draws Copper
+Wandering Winder - discards Estate
+Wandering Winder - plays 2 Copper, 1 Silver
+Wandering Winder - buys Hunting Party
+Wandering Winder - gains Hunting Party
+Wandering Winder - draws Copper, Estate
+Wandering Winder - shuffles deck
+Wandering Winder - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Copper
+ 
+---------- Wandering Winder: turn 5 ----------
+Wandering Winder - plays 3 Copper, 1 Silver
+Wandering Winder - buys Hunting Party
+Wandering Winder - gains Hunting Party
+Wandering Winder - draws Hunting Party, Copper, Copper, Oasis, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Estate, Copper, Copper, Copper, Silver
+Titandrake - reveals Copper, Copper, Copper, Armory
+Titandrake - places Armory in hand
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - plays Armory
+Titandrake - gains Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Silver, Copper, Trade Route, Estate, Silver
+ 
+---------- Wandering Winder: turn 6 ----------
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Armory
+Wandering Winder - reveals hand: Copper, Copper, Oasis, Estate, Armory
+Wandering Winder - shuffles deck
+Wandering Winder - reveals Estate, Copper, Copper, Oasis, Silver
+Wandering Winder - places Silver in hand
+Wandering Winder - discards: Estate, Copper, Copper, Oasis
+Wandering Winder - plays Oasis
+Wandering Winder - draws Copper
+Wandering Winder - discards Estate
+Wandering Winder - plays Armory
+Wandering Winder - gains Trade Route
+Wandering Winder - plays 3 Copper, 1 Silver
+Wandering Winder - buys Harem
+Wandering Winder - gains Harem
+Wandering Winder - draws Trade Route, Estate, Copper, Hunting Party, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Hunting Party
+ 
+---------- Wandering Winder: turn 7 ----------
+Wandering Winder - plays Hunting Party
+Wandering Winder - shuffles deck
+Wandering Winder - draws Oasis
+Wandering Winder - reveals hand: Trade Route, Estate, Copper, Copper, Oasis
+Wandering Winder - reveals Silver
+Wandering Winder - places Silver in hand
+Wandering Winder - plays Oasis
+Wandering Winder - draws Hunting Party
+Wandering Winder - discards Estate
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Estate
+Wandering Winder - reveals hand: Trade Route, Copper, Copper, Silver, Estate
+Wandering Winder - reveals Armory
+Wandering Winder - places Armory in hand
+Wandering Winder - plays Armory
+Wandering Winder - gains Oasis
+Wandering Winder - plays 2 Copper, 1 Silver
+Wandering Winder - buys Bandit Camp
+Wandering Winder - gains Bandit Camp
+Wandering Winder - draws Oasis, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Trade Route
+Titandrake - reveals hand: Estate, Copper, Silver, Copper, Trade Route
+Titandrake - reveals Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Estate, Copper, Silver, Copper, Trade Route, Silver
+Titandrake - reveals Silver, Estate, Copper, Copper, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Silver, Estate, Copper, Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Armory
+Titandrake - reveals hand: Estate, Copper, Silver, Copper, Trade Route, Silver, Armory
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Silver, Copper, Estate, Copper, Copper, Copper
+Titandrake - discards: Copper, Silver, Copper, Estate, Copper, Copper, Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Trade Route, Copper, Hunting Party, Bandit Camp, Estate
+ 
+---------- Wandering Winder: turn 8 ----------
+Wandering Winder - plays Oasis
+Wandering Winder - draws Copper
+Wandering Winder - discards Copper
+Wandering Winder - plays 4 Copper
+Wandering Winder - buys Hunting Party
+Wandering Winder - gains Hunting Party
+Wandering Winder - draws Oasis, Estate, Harem
+Wandering Winder - shuffles deck
+Wandering Winder - draws Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Trade Route, Copper, Estate, Copper, Copper
+Titandrake - reveals Copper, Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Hunting Party, Silver, Copper, Armory, Silver
+ 
+---------- Wandering Winder: turn 9 ----------
+Wandering Winder - plays Oasis
+Wandering Winder - draws Oasis
+Wandering Winder - discards Estate
+Wandering Winder - plays Oasis
+Wandering Winder - draws Estate
+Wandering Winder - discards Estate
+Wandering Winder - plays 2 Copper, 1 Harem
+Wandering Winder - buys Harem
+Wandering Winder - gains Harem
+Wandering Winder - draws Copper, Copper, Bandit Camp, Hunting Party, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Copper, Armory, Silver, Copper
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Copper, Armory, Silver, Copper, Copper
+Titandrake - reveals Copper, Silver, Copper, Copper, Trade Route
+Titandrake - places Trade Route in hand
+Titandrake - discards: Copper, Silver, Copper, Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Spoils, Hunting Party, Copper, Bandit Camp, Hunting Party
+ 
+---------- Wandering Winder: turn 10 ----------
+Wandering Winder - plays Bandit Camp
+Wandering Winder - draws Copper
+Wandering Winder - gains Spoils
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Hunting Party
+Wandering Winder - reveals hand: Copper, Copper, Copper, Copper, Hunting Party
+Wandering Winder - reveals Armory
+Wandering Winder - places Armory in hand
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Silver
+Wandering Winder - reveals hand: Copper, Copper, Copper, Copper, Armory, Silver
+Wandering Winder - reveals Copper, Oasis
+Wandering Winder - places Oasis in hand
+Wandering Winder - discards Copper
+Wandering Winder - plays Oasis
+Wandering Winder - draws Hunting Party
+Wandering Winder - discards Copper
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Trade Route
+Wandering Winder - reveals hand: Copper, Copper, Copper, Armory, Silver, Trade Route
+Wandering Winder - reveals Estate
+Wandering Winder - places Estate in hand
+Wandering Winder - plays Armory
+Wandering Winder - gains Oasis
+Wandering Winder - plays Trade Route
+Wandering Winder - trashes Copper
+Wandering Winder - plays 2 Copper, 1 Silver
+Wandering Winder - buys Harem
+Wandering Winder - gains Harem
+Wandering Winder - draws Oasis
+Wandering Winder - shuffles deck
+Wandering Winder - draws Oasis, Copper, Oasis, Harem
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - gains Spoils
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Spoils, Hunting Party, Copper, Silver, Silver
+Titandrake - reveals Trade Route
+Titandrake - places Trade Route in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Spoils, Copper, Silver, Silver, Trade Route, Copper
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Spoils, Copper, Silver, Silver, Trade Route, Copper, Hunting Party
+Titandrake - reveals Hunting Party, Copper, Copper, Copper, Armory
+Titandrake - places Armory in hand
+Titandrake - discards: Hunting Party, Copper, Copper, Copper
+Titandrake - plays Armory
+Titandrake - gains Silk Road
+Titandrake - plays Hunting Party
+Titandrake - draws Silk Road
+Titandrake - reveals hand: Spoils, Copper, Silver, Silver, Trade Route, Copper, Silk Road
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Silver, Copper, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Silver, Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Spoils, Copper, Silver, Silver, Trade Route, Copper, Silk Road, Copper
+Titandrake - shuffles deck
+Titandrake - reveals Spoils, Copper, Silver, Copper, Copper
+Titandrake - discards: Spoils, Copper, Silver, Copper, Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Silk Road
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Hunting Party, Copper, Hunting Party, Copper
+ 
+---------- Wandering Winder: turn 11 ----------
+Wandering Winder - plays Oasis
+Wandering Winder - draws Silver
+Wandering Winder - discards Copper
+Wandering Winder - plays Oasis
+Wandering Winder - draws Copper
+Wandering Winder - discards Copper
+Wandering Winder - plays Oasis
+Wandering Winder - draws Estate
+Wandering Winder - discards Estate
+Wandering Winder - plays 1 Harem, 1 Silver
+Wandering Winder - buys Harem
+Wandering Winder - gains Harem
+Wandering Winder - draws Hunting Party, Hunting Party, Trade Route, Spoils, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Hunting Party, Hunting Party, Copper, Copper, Silver
+Titandrake - reveals Spoils
+Titandrake - places Spoils in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Hunting Party, Copper, Copper, Silver, Spoils, Hunting Party
+Titandrake - reveals Copper, Spoils, Armory
+Titandrake - places Armory in hand
+Titandrake - discards: Copper, Spoils
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Hunting Party, Copper, Copper, Silver, Spoils, Armory, Copper
+Titandrake - reveals Copper, Copper, Bandit Camp
+Titandrake - places Bandit Camp in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws Silver
+Titandrake - gains Spoils
+Titandrake - plays Armory
+Titandrake - gains Silk Road
+Titandrake - plays Hunting Party
+Titandrake - draws Silk Road
+Titandrake - reveals hand: Copper, Copper, Silver, Spoils, Copper, Silver, Silk Road
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Trade Route, Hunting Party, Silver
+Titandrake - shuffles deck
+Titandrake - draws Armory, Province
+ 
+---------- Wandering Winder: turn 12 ----------
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Armory
+Wandering Winder - reveals hand: Hunting Party, Trade Route, Spoils, Estate, Armory
+Wandering Winder - reveals Copper
+Wandering Winder - places Copper in hand
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Copper
+Wandering Winder - reveals hand: Trade Route, Spoils, Estate, Armory, Copper, Copper
+Wandering Winder - reveals Hunting Party
+Wandering Winder - places Hunting Party in hand
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Bandit Camp
+Wandering Winder - reveals hand: Trade Route, Spoils, Estate, Armory, Copper, Copper, Bandit Camp
+Wandering Winder - reveals Copper, Copper, Oasis
+Wandering Winder - places Oasis in hand
+Wandering Winder - discards: Copper, Copper
+Wandering Winder - plays Bandit Camp
+Wandering Winder - draws Harem
+Wandering Winder - gains Spoils
+Wandering Winder - plays Oasis
+Wandering Winder - draws Estate
+Wandering Winder - discards Estate
+Wandering Winder - plays Armory
+Wandering Winder - gains Silk Road
+Wandering Winder - plays Trade Route
+Wandering Winder - trashes Copper
+Wandering Winder - plays 1 Harem, 1 Copper
+Wandering Winder - plays Spoils
+Wandering Winder - buys Province
+Wandering Winder - gains Province
+Wandering Winder - buys Estate
+Wandering Winder - gains Estate
+Wandering Winder - draws Silk Road, Harem
+Wandering Winder - shuffles deck
+Wandering Winder - draws Oasis, Oasis, Armory
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Trade Route, Silver, Armory, Province, Hunting Party
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Trade Route, Silver, Armory, Province, Copper, Silver
+Titandrake - reveals Silver, Spoils
+Titandrake - places Spoils in hand
+Titandrake - discards Silver
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Hunting Party, Copper, Spoils, Copper, Bandit Camp
+ 
+---------- Wandering Winder: turn 13 ----------
+Wandering Winder - plays Oasis
+Wandering Winder - draws Hunting Party
+Wandering Winder - discards Silk Road
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Harem
+Wandering Winder - reveals hand: Harem, Oasis, Armory, Harem
+Wandering Winder - reveals Harem, Hunting Party
+Wandering Winder - places Hunting Party in hand
+Wandering Winder - discards Harem
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Spoils
+Wandering Winder - reveals hand: Harem, Oasis, Armory, Harem, Spoils
+Wandering Winder - reveals Copper
+Wandering Winder - places Copper in hand
+Wandering Winder - plays Oasis
+Wandering Winder - draws Copper
+Wandering Winder - discards Spoils
+Wandering Winder - plays Armory
+Wandering Winder - gains Silk Road
+Wandering Winder - plays 2 Harem, 2 Copper
+Wandering Winder - buys Province
+Wandering Winder - gains Province
+Wandering Winder - draws Silk Road, Bandit Camp, Copper, Trade Route, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Spoils, Copper, Bandit Camp, Copper
+Titandrake - reveals Silk Road
+Titandrake - places Silk Road in hand
+Titandrake - plays Bandit Camp
+Titandrake - draws Hunting Party
+Titandrake - gains Spoils
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Spoils, Copper, Copper, Silk Road, Copper
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Province
+Titandrake - reveals hand: Copper, Spoils, Copper, Copper, Silk Road, Copper, Province
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Trade Route, Silver, Hunting Party, Trade Route
+ 
+---------- Wandering Winder: turn 14 ----------
+Wandering Winder - plays Bandit Camp
+Wandering Winder - draws Copper
+Wandering Winder - gains Spoils
+Wandering Winder - plays Trade Route
+Wandering Winder - trashes Copper
+Wandering Winder - buys Silk Road
+Wandering Winder - gains Silk Road
+Wandering Winder - draws Hunting Party, Copper, Oasis, Oasis, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Armory
+Titandrake - reveals hand: Silver, Trade Route, Silver, Trade Route, Armory
+Titandrake - reveals Spoils
+Titandrake - places Spoils in hand
+Titandrake - plays Trade Route
+Titandrake - trashes Armory
+Titandrake - plays 2 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Province, Hunting Party, Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Trade Route
+ 
+---------- Wandering Winder: turn 15 ----------
+Wandering Winder - plays Hunting Party
+Wandering Winder - draws Silver
+Wandering Winder - reveals hand: Copper, Oasis, Oasis, Estate, Silver
+Wandering Winder - reveals Province
+Wandering Winder - places Province in hand
+Wandering Winder - plays Oasis
+Wandering Winder - draws Harem
+Wandering Winder - discards Estate
+Wandering Winder - plays Oasis
+Wandering Winder - draws Estate
+Wandering Winder - discards Province
+Wandering Winder - plays Harem
+Wandering Winder - buys Silk Road
+Wandering Winder - gains Silk Road
+Wandering Winder - draws Estate
+Wandering Winder - shuffles deck
+Wandering Winder - draws Province, Oasis, Oasis, Harem
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Trade Route
+Titandrake - reveals hand: Province, Province, Silver, Trade Route, Trade Route
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Province, Province, Silver, Trade Route, Trade Route, Copper
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Silk Road
+Titandrake - reveals hand: Province, Province, Silver, Trade Route, Trade Route, Copper, Silk Road
+Titandrake - reveals Province, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Province, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Province
+Titandrake - reveals hand: Province, Province, Silver, Trade Route, Trade Route, Copper, Silk Road, Province
+Titandrake - reveals Copper, Silver, Province, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Silver, Province
+Titandrake - plays Hunting Party
+Titandrake - draws Trade Route
+Titandrake - reveals hand: Province, Province, Silver, Trade Route, Trade Route, Copper, Silk Road, Province, Trade Route
+Titandrake - reveals Bandit Camp
+Titandrake - places Bandit Camp in hand
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Trade Route
+Titandrake - trashes Trade Route
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Hunting Party, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Hunting Party, 2 Trade Route, 1 Bandit Camp, 4 Copper, 3 Silver, 1 Spoils, 6 Province, 1 Estate, 1 Silk Road
+Titandrake - total victory points: 39
+Titandrake - turns: 15
+ 
+Wandering Winder - cards: 4 Oasis, 3 Hunting Party, 1 Trade Route, 1 Armory, 1 Bandit Camp, 4 Harem, 4 Copper, 2 Spoils, 1 Silver, 4 Estate, 4 Silk Road, 2 Province
+Wandering Winder - total victory points: 36
+Wandering Winder - turns: 15
+ 
+1st place: Titandrake
+2nd place: Wandering Winder
+ 

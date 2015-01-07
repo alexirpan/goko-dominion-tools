@@ -1,0 +1,359 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, University, Steward, Philosopher's Stone, Procession, Silk Road, Wandering Minstrel, Bazaar, City, Ill-Gotten Gains, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+kiliana - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+kiliana - shuffles deck
+Titandrake - shuffles deck
+kiliana - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- kiliana: turn 1 ----------
+kiliana - plays 4 Copper
+kiliana - buys Potion
+kiliana - gains Potion
+kiliana - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- kiliana: turn 2 ----------
+kiliana - plays 3 Copper
+kiliana - buys Steward
+kiliana - gains Steward
+kiliana - shuffles deck
+kiliana - draws Copper, Copper, Steward, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - shuffles deck
+Titandrake - draws Steward, Copper, Estate, Estate, Copper
+ 
+---------- kiliana: turn 3 ----------
+kiliana - plays Steward
+kiliana - trashes Estate, Estate
+kiliana - draws Copper, Potion, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Steward
+Titandrake - trashes Estate, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- kiliana: turn 4 ----------
+kiliana - plays 4 Copper, 1 Potion
+kiliana - buys University
+kiliana - gains University
+kiliana - draws Estate, Copper
+kiliana - shuffles deck
+kiliana - draws Copper, Copper, Steward
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Steward, Copper, Potion, Copper
+ 
+---------- kiliana: turn 5 ----------
+kiliana - plays Steward
+kiliana - trashes Estate, Copper
+kiliana - draws Potion, Copper, Copper, University, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Steward
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Steward, Copper
+ 
+---------- kiliana: turn 6 ----------
+kiliana - plays University
+kiliana - gains Bazaar
+kiliana - plays 3 Copper, 1 Potion
+kiliana - buys University
+kiliana - gains University
+kiliana - draws Copper
+kiliana - shuffles deck
+kiliana - draws Bazaar, Copper, Copper, Potion
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - draws Estate, University, Copper, Potion, Copper
+ 
+---------- kiliana: turn 7 ----------
+kiliana - plays Bazaar
+kiliana - draws Copper
+kiliana - plays 4 Copper, 1 Potion
+kiliana - buys University
+kiliana - gains University
+kiliana - draws Copper, Steward, Copper, University, University
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays University
+Titandrake - gains Bazaar
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws University, Copper, Copper, Copper
+ 
+---------- kiliana: turn 8 ----------
+kiliana - plays University
+kiliana - gains Bazaar
+kiliana - plays University
+kiliana - gains Bazaar
+kiliana - plays Steward
+kiliana - shuffles deck
+kiliana - draws Bazaar, Bazaar
+kiliana - plays Bazaar
+kiliana - draws Potion
+kiliana - plays Bazaar
+kiliana - draws Bazaar
+kiliana - plays Bazaar
+kiliana - draws Copper
+kiliana - plays 3 Copper, 1 Potion
+kiliana - buys Bazaar
+kiliana - gains Bazaar
+kiliana - draws Copper, University, Copper, Copper
+kiliana - shuffles deck
+kiliana - draws Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays University
+Titandrake - gains City
+Titandrake - plays 4 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Potion, Bazaar, University, Steward, Copper
+ 
+---------- kiliana: turn 9 ----------
+kiliana - plays University
+kiliana - gains City
+kiliana - plays 4 Copper
+kiliana - buys Steward
+kiliana - gains Steward
+kiliana - draws Steward, Copper, Copper, Bazaar, Bazaar
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Estate
+Titandrake - plays University
+Titandrake - gains City
+Titandrake - plays Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper, City
+Titandrake - plays City
+Titandrake - draws City
+Titandrake - plays City
+Titandrake - draws Steward
+Titandrake - plays Steward
+Titandrake - trashes Estate, Copper
+Titandrake - plays 1 Potion, 1 Copper
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Copper, Copper, University
+Titandrake - shuffles deck
+Titandrake - draws University
+ 
+---------- kiliana: turn 10 ----------
+kiliana - plays Bazaar
+kiliana - draws Bazaar
+kiliana - plays Bazaar
+kiliana - draws Bazaar
+kiliana - plays Bazaar
+kiliana - draws University
+kiliana - plays Bazaar
+kiliana - draws Potion
+kiliana - plays Steward
+kiliana - draws University
+kiliana - shuffles deck
+kiliana - draws Copper
+kiliana - plays University
+kiliana - gains City
+kiliana - plays University
+kiliana - gains City
+kiliana - plays 3 Copper, 1 Potion
+kiliana - buys City
+kiliana - gains City
+kiliana - draws Copper, City, Copper, Copper, University
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays University
+Titandrake - gains City
+Titandrake - plays University
+Titandrake - gains City
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Potion, City, City, Steward, Steward
+ 
+---------- kiliana: turn 11 ----------
+kiliana - plays City
+kiliana - draws Steward
+kiliana - plays Steward
+kiliana - shuffles deck
+kiliana - draws Copper, University
+kiliana - plays University
+kiliana - gains City
+kiliana - plays University
+kiliana - gains City
+kiliana - plays 4 Copper
+kiliana - buys Steward
+kiliana - gains Steward
+kiliana - draws Bazaar, City, Copper, Bazaar, Bazaar
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays City
+Titandrake - draws Bazaar, Copper
+Titandrake - plays Bazaar
+Titandrake - draws University
+Titandrake - plays University
+Titandrake - gains Bazaar
+Titandrake - plays City
+Titandrake - shuffles deck
+Titandrake - draws University, City
+Titandrake - plays City
+Titandrake - draws City, Copper
+Titandrake - plays University
+Titandrake - gains Steward
+Titandrake - plays City
+Titandrake - draws Bazaar, Copper
+Titandrake - plays Bazaar
+Titandrake - draws University
+Titandrake - plays University
+Titandrake - gains Wandering Minstrel
+Titandrake - plays Steward
+Titandrake - draws Steward, Copper
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - shuffles deck
+Titandrake - draws University, University, Steward, Steward, City
+ 
+---------- kiliana: turn 12 ----------
+kiliana - plays Bazaar
+kiliana - draws University
+kiliana - plays Bazaar
+kiliana - draws Copper
+kiliana - plays Bazaar
+kiliana - draws City
+kiliana - plays City
+kiliana - draws Steward, City
+kiliana - plays Steward
+kiliana - draws Potion, Bazaar
+kiliana - plays Bazaar
+kiliana - shuffles deck
+kiliana - draws Copper
+kiliana - plays City
+kiliana - draws Steward, City
+kiliana - plays Steward
+kiliana - draws City, City
+kiliana - plays City
+kiliana - draws Copper, Steward
+kiliana - plays Steward
+kiliana - draws University, Copper
+kiliana - plays City
+kiliana - draws University, Copper
+kiliana - plays University
+kiliana - gains Steward
+kiliana - plays University
+kiliana - gains Steward
+kiliana - plays University
+kiliana - gains Steward
+kiliana - plays City
+kiliana - shuffles deck
+kiliana - draws Steward, Steward
+kiliana - plays City
+kiliana - draws Steward
+kiliana - plays Steward
+kiliana - trashes Copper, Copper
+kiliana - plays Steward
+kiliana - trashes Copper, Copper
+kiliana - plays Steward
+kiliana - takes 2 coins
+kiliana - plays 2 Copper, 1 Potion
+kiliana - buys Vineyard
+kiliana - gains Vineyard
+kiliana - buys Wandering Minstrel
+kiliana - gains Wandering Minstrel
+kiliana - buys Wandering Minstrel
+kiliana - gains Wandering Minstrel
+kiliana - shuffles deck
+kiliana - draws University, City, University, Steward, Steward
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays University
+Titandrake - gains Bazaar
+Titandrake - plays University
+Titandrake - gains Bazaar
+Titandrake - plays City
+Titandrake - draws City, Potion
+Titandrake - plays City
+Titandrake - draws Steward, City
+Titandrake - plays City
+Titandrake - draws Wandering Minstrel, Bazaar
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Steward
+Titandrake - reveals: University, Bazaar, Vineyard
+Titandrake - places Bazaar on top of deck
+Titandrake - places University on top of deck
+Titandrake - discards Vineyard
+Titandrake - plays Bazaar
+Titandrake - draws University
+Titandrake - plays University
+Titandrake - gains Bazaar
+Titandrake - plays Steward
+Titandrake - draws Bazaar, City
+Titandrake - plays City
+Titandrake - shuffles deck
+Titandrake - draws Vineyard, Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - plays Bazaar
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays Potion
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws City, Potion, Wandering Minstrel, Bazaar, Wandering Minstrel
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Bazaar, 4 City, 4 Steward, 3 Wandering Minstrel, 3 University, 1 Potion, 2 Vineyard, 1 Estate
+Titandrake - total victory points: 13
+Titandrake - turns: 12
+ 
+kiliana - cards: 6 City, 6 Steward, 4 Bazaar, 3 University, 2 Wandering Minstrel, 2 Copper, 1 Potion, 1 Vineyard
+kiliana - total victory points: 7
+kiliana - turns: 12
+ 
+1st place: Titandrake
+2nd place: kiliana
+ 

@@ -1,0 +1,819 @@
+------------ Game Setup ------------
+Supply cards: Sage, Alchemist, Familiar, Bureaucrat, Remodel, Bandit Camp, Cartographer, Duke, Venture, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+CryMeARiver - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+CryMeARiver - shuffles deck
+Titandrake - shuffles deck
+CryMeARiver - draws Estate, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- CryMeARiver: turn 1 ----------
+CryMeARiver - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- CryMeARiver: turn 2 ----------
+CryMeARiver - plays 5 Copper
+CryMeARiver - buys Bandit Camp
+CryMeARiver - gains Bandit Camp
+CryMeARiver - shuffles deck
+CryMeARiver - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Potion, Estate, Estate, Copper
+ 
+---------- CryMeARiver: turn 3 ----------
+CryMeARiver - plays 4 Copper
+CryMeARiver - buys Potion
+CryMeARiver - gains Potion
+CryMeARiver - draws Copper, Estate, Copper, Bandit Camp, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- CryMeARiver: turn 4 ----------
+CryMeARiver - plays Bandit Camp
+CryMeARiver - draws Estate
+CryMeARiver - gains Spoils
+CryMeARiver - plays 3 Copper
+CryMeARiver - buys Sage
+CryMeARiver - gains Sage
+CryMeARiver - shuffles deck
+CryMeARiver - draws Estate, Copper, Spoils, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Potion
+ 
+---------- CryMeARiver: turn 5 ----------
+CryMeARiver - plays 1 Copper
+CryMeARiver - plays Spoils
+CryMeARiver - buys Sage
+CryMeARiver - gains Sage
+CryMeARiver - draws Copper, Copper, Copper, Copper, Sage
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Copper, Bandit Camp, Copper, Copper, Estate
+ 
+---------- CryMeARiver: turn 6 ----------
+CryMeARiver - plays Sage
+CryMeARiver - reveals Bandit Camp
+CryMeARiver - places Bandit Camp in hand
+CryMeARiver - plays Bandit Camp
+CryMeARiver - draws Copper
+CryMeARiver - gains Spoils
+CryMeARiver - plays 5 Copper
+CryMeARiver - buys Potion
+CryMeARiver - gains Potion
+CryMeARiver - draws Potion, Copper
+CryMeARiver - shuffles deck
+CryMeARiver - draws Spoils, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays 4 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Bandit Camp, Estate
+ 
+---------- CryMeARiver: turn 7 ----------
+CryMeARiver - plays 3 Copper, 1 Potion
+CryMeARiver - buys Familiar
+CryMeARiver - gains Familiar
+CryMeARiver - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Sage
+Titandrake - gains Spoils
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Potion
+Titandrake - places Potion in hand
+Titandrake - discards: Copper, Copper
+Titandrake - draws Copper, Copper, Spoils, Copper, Copper
+ 
+---------- CryMeARiver: turn 8 ----------
+CryMeARiver - draws Sage, Copper, Bandit Camp, Copper, Sage
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Familiar
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp, Copper, Spoils
+ 
+---------- CryMeARiver: turn 9 ----------
+CryMeARiver - plays Bandit Camp
+CryMeARiver - draws Potion
+CryMeARiver - gains Spoils
+CryMeARiver - plays Sage
+CryMeARiver - shuffles deck
+CryMeARiver - reveals Potion
+CryMeARiver - places Potion in hand
+CryMeARiver - plays Sage
+CryMeARiver - reveals Estate, Copper, Estate, Copper, Familiar
+CryMeARiver - places Familiar in hand
+CryMeARiver - discards: Estate, Copper, Estate, Copper
+CryMeARiver - plays Familiar
+CryMeARiver - draws Copper
+Titandrake - gains Curse
+CryMeARiver - plays 3 Copper, 2 Potion
+CryMeARiver - buys Familiar
+CryMeARiver - gains Familiar
+CryMeARiver - draws Spoils, Estate, Copper, Copper, Spoils
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+CryMeARiver - gains Curse
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays 4 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Potion, Copper, Silver, Sage
+ 
+---------- CryMeARiver: turn 10 ----------
+CryMeARiver - plays Spoils
+CryMeARiver - plays Spoils
+CryMeARiver - buys Cartographer
+CryMeARiver - gains Cartographer
+CryMeARiver - shuffles deck
+CryMeARiver - draws Copper, Estate, Familiar, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Sage
+Titandrake - reveals Estate, Estate, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Estate, Estate
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Spoils, Estate, Bandit Camp
+Titandrake - places Bandit Camp in hand
+Titandrake - discards: Copper, Spoils, Estate
+Titandrake - plays Bandit Camp
+Titandrake - draws Familiar
+Titandrake - gains Spoils
+Titandrake - plays Familiar
+Titandrake - draws Copper
+CryMeARiver - gains Curse
+Titandrake - plays 3 Copper, 1 Potion, 1 Silver
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Copper, Estate, Curse, Spoils, Copper
+ 
+---------- CryMeARiver: turn 11 ----------
+CryMeARiver - plays Familiar
+CryMeARiver - draws Copper
+Titandrake - gains Curse
+CryMeARiver - plays 3 Copper
+CryMeARiver - buys Sage
+CryMeARiver - gains Sage
+CryMeARiver - draws Copper, Sage, Copper, Estate, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Spoils, Sage, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Sage
+ 
+---------- CryMeARiver: turn 12 ----------
+CryMeARiver - plays Sage
+CryMeARiver - reveals Copper, Copper, Sage
+CryMeARiver - places Sage in hand
+CryMeARiver - discards: Copper, Copper
+CryMeARiver - plays Sage
+CryMeARiver - reveals Familiar
+CryMeARiver - places Familiar in hand
+CryMeARiver - plays Familiar
+CryMeARiver - draws Potion
+Titandrake - gains Curse
+CryMeARiver - draws Cartographer, Potion, Bandit Camp
+CryMeARiver - shuffles deck
+CryMeARiver - draws Copper, Sage
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - reveals Potion
+Titandrake - places Potion in hand
+Titandrake - plays Sage
+Titandrake - reveals Estate, Estate, Familiar
+Titandrake - places Familiar in hand
+Titandrake - discards: Estate, Estate
+Titandrake - plays Familiar
+Titandrake - draws Copper
+CryMeARiver - gains Curse
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - plays Spoils
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - draws Bandit Camp, Silver, Curse, Familiar, Spoils
+ 
+---------- CryMeARiver: turn 13 ----------
+CryMeARiver - plays Cartographer
+CryMeARiver - draws Estate
+CryMeARiver - looks at Copper, Sage, Familiar, Copper
+CryMeARiver - discards Copper
+CryMeARiver - discards Copper
+CryMeARiver - places Sage on top of deck
+CryMeARiver - places Familiar on top of deck
+CryMeARiver - plays Bandit Camp
+CryMeARiver - draws Familiar
+CryMeARiver - gains Spoils
+CryMeARiver - plays Familiar
+CryMeARiver - draws Sage
+Titandrake - gains Curse
+CryMeARiver - plays Sage
+CryMeARiver - reveals Curse, Sage
+CryMeARiver - places Sage in hand
+CryMeARiver - discards Curse
+CryMeARiver - plays Sage
+CryMeARiver - reveals Potion
+CryMeARiver - places Potion in hand
+CryMeARiver - plays Sage
+CryMeARiver - reveals Copper, Copper, Estate, Familiar
+CryMeARiver - places Familiar in hand
+CryMeARiver - discards: Copper, Copper, Estate
+CryMeARiver - plays Familiar
+CryMeARiver - draws Curse
+Titandrake - gains Curse
+CryMeARiver - draws Copper, Copper, Estate
+CryMeARiver - shuffles deck
+CryMeARiver - draws Curse, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+CryMeARiver - gains Curse
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Cartographer, Copper, Curse, Spoils
+ 
+---------- CryMeARiver: turn 14 ----------
+CryMeARiver - plays 3 Copper
+CryMeARiver - buys Silver
+CryMeARiver - gains Silver
+CryMeARiver - draws Spoils, Sage, Curse, Familiar, Bandit Camp
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Sage
+Titandrake - looks at Copper
+Titandrake - shuffles deck
+Titandrake - looks at Familiar, Sage, Curse
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - places Sage on top of deck
+Titandrake - places Familiar on top of deck
+Titandrake - plays Sage
+Titandrake - reveals Familiar
+Titandrake - places Familiar in hand
+Titandrake - plays Familiar
+Titandrake - draws Sage
+CryMeARiver - gains Curse
+Titandrake - plays Sage
+Titandrake - reveals Copper, Estate, Copper, Copper, Estate, Familiar
+Titandrake - places Familiar in hand
+Titandrake - discards: Copper, Estate, Copper, Copper, Estate
+Titandrake - plays Familiar
+Titandrake - draws Curse
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Silver, Potion, Sage, Curse, Potion
+ 
+---------- CryMeARiver: turn 15 ----------
+CryMeARiver - plays Bandit Camp
+CryMeARiver - draws Copper
+CryMeARiver - gains Spoils
+CryMeARiver - plays Sage
+CryMeARiver - reveals Estate, Copper, Sage
+CryMeARiver - places Sage in hand
+CryMeARiver - discards: Estate, Copper
+CryMeARiver - plays Familiar
+CryMeARiver - draws Cartographer
+CryMeARiver - plays Cartographer
+CryMeARiver - draws Curse
+CryMeARiver - looks at Sage, Copper, Familiar, Copper
+CryMeARiver - discards Familiar
+CryMeARiver - discards Copper
+CryMeARiver - discards Copper
+CryMeARiver - places Sage on top of deck
+CryMeARiver - plays Sage
+CryMeARiver - reveals Sage
+CryMeARiver - places Sage in hand
+CryMeARiver - plays Sage
+CryMeARiver - reveals Estate, Potion
+CryMeARiver - places Potion in hand
+CryMeARiver - discards Estate
+CryMeARiver - plays 1 Copper, 1 Potion
+CryMeARiver - plays Spoils
+CryMeARiver - buys Alchemist
+CryMeARiver - gains Alchemist
+CryMeARiver - draws Potion
+CryMeARiver - shuffles deck
+CryMeARiver - draws Sage, Curse, Copper, Alchemist
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Sage
+Titandrake - reveals Bandit Camp
+Titandrake - places Bandit Camp in hand
+Titandrake - plays Bandit Camp
+Titandrake - draws Spoils
+Titandrake - gains Spoils
+Titandrake - plays 2 Potion, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - draws Alchemist, Copper, Curse, Spoils, Estate
+ 
+---------- CryMeARiver: turn 16 ----------
+CryMeARiver - plays Alchemist
+CryMeARiver - draws Estate, Copper
+CryMeARiver - plays Sage
+CryMeARiver - reveals Curse, Cartographer
+CryMeARiver - places Cartographer in hand
+CryMeARiver - discards Curse
+CryMeARiver - plays Cartographer
+CryMeARiver - draws Curse
+CryMeARiver - looks at Bandit Camp, Potion, Familiar, Copper
+CryMeARiver - discards Potion
+CryMeARiver - discards Familiar
+CryMeARiver - places Copper on top of deck
+CryMeARiver - places Bandit Camp on top of deck
+CryMeARiver - draws Bandit Camp, Copper, Familiar, Copper, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Alchemist
+Titandrake - shuffles deck
+Titandrake - draws Curse, Estate
+Titandrake - plays 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - draws Alchemist, Cartographer, Sage, Copper, Silver
+ 
+---------- CryMeARiver: turn 17 ----------
+CryMeARiver - plays Bandit Camp
+CryMeARiver - draws Sage
+CryMeARiver - gains Spoils
+CryMeARiver - plays Familiar
+CryMeARiver - draws Sage
+CryMeARiver - plays Sage
+CryMeARiver - reveals Estate, Spoils, Copper, Copper, Copper, Silver
+CryMeARiver - places Silver in hand
+CryMeARiver - discards: Estate, Spoils, Copper, Copper, Copper
+CryMeARiver - plays Sage
+CryMeARiver - shuffles deck
+CryMeARiver - reveals Curse, Estate, Alchemist
+CryMeARiver - places Alchemist in hand
+CryMeARiver - discards: Curse, Estate
+CryMeARiver - plays Alchemist
+CryMeARiver - draws Curse, Spoils
+CryMeARiver - plays 2 Copper, 1 Silver
+CryMeARiver - plays Spoils
+CryMeARiver - buys Gold
+CryMeARiver - gains Gold
+CryMeARiver - draws Cartographer, Familiar, Copper, Curse, Curse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Familiar
+Titandrake - looks at Curse, Estate, Sage, Familiar
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - discards Familiar
+Titandrake - places Sage on top of deck
+Titandrake - plays Alchemist
+Titandrake - draws Sage, Potion
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Spoils, Copper, Curse, Curse, Bandit Camp
+Titandrake - places Bandit Camp in hand
+Titandrake - discards: Spoils, Copper, Curse, Curse
+Titandrake - plays Bandit Camp
+Titandrake - draws Cartographer
+Titandrake - gains Spoils
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Copper, Copper, Copper, Potion
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Potion on top of deck
+Titandrake - plays 2 Copper, 1 Silver, 1 Potion
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - places Alchemist on top of deck
+Titandrake - draws Alchemist, Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Cartographer, Spoils
+ 
+---------- CryMeARiver: turn 18 ----------
+CryMeARiver - plays Cartographer
+CryMeARiver - draws Spoils
+CryMeARiver - looks at Sage, Copper, Potion, Estate
+CryMeARiver - discards Estate
+CryMeARiver - discards Copper
+CryMeARiver - places Sage on top of deck
+CryMeARiver - places Potion on top of deck
+CryMeARiver - plays Familiar
+CryMeARiver - draws Potion
+CryMeARiver - plays 1 Copper, 1 Potion
+CryMeARiver - plays Spoils
+CryMeARiver - buys Alchemist
+CryMeARiver - gains Alchemist
+CryMeARiver - draws Sage, Copper, Potion, Copper, Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Alchemist
+Titandrake - looks at Curse, Spoils, Copper, Copper
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Spoils on top of deck
+Titandrake - plays Alchemist
+Titandrake - draws Spoils, Sage
+Titandrake - plays Alchemist
+Titandrake - draws Silver, Familiar
+Titandrake - plays Sage
+Titandrake - reveals Copper, Curse, Bandit Camp
+Titandrake - places Bandit Camp in hand
+Titandrake - discards: Copper, Curse
+Titandrake - plays Bandit Camp
+Titandrake - draws Curse
+Titandrake - gains Spoils
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays Potion
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - places Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Curse, Estate, Sage
+ 
+---------- CryMeARiver: turn 19 ----------
+CryMeARiver - plays Sage
+CryMeARiver - shuffles deck
+CryMeARiver - reveals Copper, Curse, Familiar
+CryMeARiver - places Familiar in hand
+CryMeARiver - discards: Copper, Curse
+CryMeARiver - plays Familiar
+CryMeARiver - draws Curse
+CryMeARiver - draws Curse, Copper, Familiar, Sage, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Sage
+Titandrake - reveals Cartographer
+Titandrake - places Cartographer in hand
+Titandrake - plays Cartographer
+Titandrake - draws Familiar
+Titandrake - looks at Potion, Alchemist, Estate, Copper
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - places Alchemist on top of deck
+Titandrake - places Potion on top of deck
+Titandrake - plays Alchemist
+Titandrake - draws Potion, Alchemist
+Titandrake - plays Alchemist
+Titandrake - draws Curse, Sage
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Remodel
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Curse, Copper, Copper, Bandit Camp
+Titandrake - places Bandit Camp in hand
+Titandrake - discards: Estate, Curse, Copper, Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws Spoils
+Titandrake - gains Spoils
+Titandrake - plays Remodel
+Titandrake - trashes Familiar
+Titandrake - gains Alchemist
+Titandrake - plays 1 Potion, 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - places Alchemist, Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Alchemist, Familiar, Curse
+ 
+---------- CryMeARiver: turn 20 ----------
+CryMeARiver - plays Familiar
+CryMeARiver - draws Sage
+CryMeARiver - plays Sage
+CryMeARiver - reveals Alchemist
+CryMeARiver - places Alchemist in hand
+CryMeARiver - plays Alchemist
+CryMeARiver - draws Copper, Curse
+CryMeARiver - plays Sage
+CryMeARiver - reveals Curse, Silver
+CryMeARiver - places Silver in hand
+CryMeARiver - discards Curse
+CryMeARiver - plays 2 Copper, 1 Silver
+CryMeARiver - buys Remodel
+CryMeARiver - gains Remodel
+CryMeARiver - draws Copper, Gold, Estate, Bandit Camp, Potion
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Curse, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Estate, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Potion
+Titandrake - looks at Sage, Copper, Grand Market, Silver
+Titandrake - discards Copper
+Titandrake - places Sage on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Familiar
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Potion, 1 Silver
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - places Alchemist, Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Alchemist, Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- CryMeARiver: turn 21 ----------
+CryMeARiver - plays Bandit Camp
+CryMeARiver - draws Cartographer
+CryMeARiver - gains Spoils
+CryMeARiver - plays Cartographer
+CryMeARiver - draws Copper
+CryMeARiver - looks at Alchemist
+CryMeARiver - shuffles deck
+CryMeARiver - looks at Familiar, Sage, Potion
+CryMeARiver - discards Familiar
+CryMeARiver - places Alchemist on top of deck
+CryMeARiver - places Sage on top of deck
+CryMeARiver - places Potion on top of deck
+CryMeARiver - plays 2 Copper, 1 Gold, 1 Potion
+CryMeARiver - buys Alchemist
+CryMeARiver - gains Alchemist
+CryMeARiver - draws Potion, Sage, Alchemist, Estate, Sage
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Curse, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Copper, Curse
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Curse, Potion, Grand Market, Spoils
+Titandrake - discards Curse
+Titandrake - places Spoils on top of deck
+Titandrake - places Grand Market on top of deck
+Titandrake - places Potion on top of deck
+Titandrake - plays Alchemist
+Titandrake - draws Potion, Grand Market
+Titandrake - plays Alchemist
+Titandrake - draws Spoils, Familiar
+Titandrake - plays Grand Market
+Titandrake - draws Bandit Camp
+Titandrake - plays Bandit Camp
+Titandrake - draws Alchemist
+Titandrake - gains Spoils
+Titandrake - plays Alchemist
+Titandrake - draws Curse, Sage
+Titandrake - plays Familiar
+Titandrake - draws Estate
+Titandrake - plays Sage
+Titandrake - reveals Alchemist
+Titandrake - places Alchemist in hand
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Curse
+Titandrake - plays Potion
+Titandrake - plays Silver
+Titandrake - plays Spoils
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- CryMeARiver: turn 22 ----------
+CryMeARiver - plays Sage
+CryMeARiver - reveals Alchemist
+CryMeARiver - places Alchemist in hand
+CryMeARiver - plays Alchemist
+CryMeARiver - draws Estate, Curse
+CryMeARiver - plays Sage
+CryMeARiver - reveals Curse, Remodel
+CryMeARiver - places Remodel in hand
+CryMeARiver - discards Curse
+CryMeARiver - plays Alchemist
+CryMeARiver - draws Curse, Copper
+CryMeARiver - plays Remodel
+CryMeARiver - trashes Curse
+CryMeARiver - gains Estate
+CryMeARiver - plays 1 Potion, 1 Copper
+CryMeARiver - places Alchemist, Alchemist on top of deck
+CryMeARiver - draws Alchemist, Alchemist, Silver, Copper, Familiar
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Potion, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Alchemist, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Cartographer, Estate
+Titandrake - plays Cartographer
+Titandrake - draws Curse
+Titandrake - looks at Estate, Sage, Remodel
+Titandrake - shuffles deck
+Titandrake - looks at Potion
+Titandrake - discards Estate
+Titandrake - discards Potion
+Titandrake - places Remodel on top of deck
+Titandrake - places Sage on top of deck
+Titandrake - plays Alchemist
+Titandrake - draws Sage, Remodel
+Titandrake - plays Sage
+Titandrake - reveals Cartographer
+Titandrake - places Cartographer in hand
+Titandrake - plays Cartographer
+Titandrake - draws Sage
+Titandrake - looks at Grand Market, Bandit Camp, Silver, Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Bandit Camp on top of deck
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Alchemist
+Titandrake - draws Grand Market, Bandit Camp
+Titandrake - plays Alchemist
+Titandrake - draws Silver, Copper
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Grand Market
+Titandrake - draws Familiar
+Titandrake - plays Familiar
+Titandrake - draws Curse
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Remodel
+Titandrake - trashes Curse
+Titandrake - gains Estate
+Titandrake - plays 1 Potion, 1 Silver, 1 Gold
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- CryMeARiver: turn 23 ----------
+CryMeARiver - plays Alchemist
+CryMeARiver - draws Copper, Copper
+CryMeARiver - plays Alchemist
+CryMeARiver - draws Copper, Curse
+CryMeARiver - plays Familiar
+CryMeARiver - draws Curse
+CryMeARiver - plays 4 Copper, 1 Silver
+CryMeARiver - buys Venture
+CryMeARiver - gains Venture
+CryMeARiver - draws Spoils, Sage
+CryMeARiver - shuffles deck
+CryMeARiver - draws Copper, Copper, Potion
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Alchemist, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Sage, Spoils
+Titandrake - plays Sage
+Titandrake - reveals Estate, Alchemist
+Titandrake - places Alchemist in hand
+Titandrake - discards Estate
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Curse
+Titandrake - plays Alchemist
+Titandrake - draws Curse, Sage
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Curse, Copper, Grand Market
+Titandrake - places Grand Market in hand
+Titandrake - discards: Curse, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Copper
+Titandrake - plays Alchemist
+Titandrake - draws Estate, Bandit Camp
+Titandrake - plays Alchemist
+Titandrake - draws Cartographer, Gold
+Titandrake - plays Cartographer
+Titandrake - draws Estate
+Titandrake - looks at Colony, Estate, Silver, Potion
+Titandrake - discards Estate
+Titandrake - discards Colony
+Titandrake - discards Silver
+Titandrake - places Potion on top of deck
+Titandrake - plays Bandit Camp
+Titandrake - draws Potion
+Titandrake - gains Spoils
+Titandrake - plays Grand Market
+Titandrake - draws Estate
+Titandrake - plays 1 Gold, 1 Potion
+Titandrake - plays Spoils
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Titandrake - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- CryMeARiver: turn 24 ----------
+CryMeARiver - plays Sage
+CryMeARiver - reveals Alchemist
+CryMeARiver - places Alchemist in hand
+CryMeARiver - plays Alchemist
+CryMeARiver - draws Curse, Alchemist
+CryMeARiver - plays Alchemist
+CryMeARiver - draws Copper, Estate
+CryMeARiver - plays 3 Copper, 1 Potion
+CryMeARiver - buys Sage
+CryMeARiver - gains Sage
+CryMeARiver - places Alchemist, Alchemist on top of deck
+CryMeARiver - draws Alchemist, Alchemist, Cartographer, Familiar, Estate
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Alchemist, Alchemist
+Titandrake - plays Alchemist
+Titandrake - draws Copper, Potion
+Titandrake - plays Alchemist
+Titandrake - draws Remodel, Sage
+Titandrake - plays Remodel
+Titandrake - trashes Sage
+Titandrake - gains Sage
+Titandrake - draws Sage, Cartographer, Copper, Spoils, Familiar
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Alchemist, 5 Sage, 2 Cartographer, 1 Familiar, 1 Bandit Camp, 1 Grand Market, 1 Remodel, 7 Copper, 2 Spoils, 2 Potion, 1 Silver, 1 Gold, 4 Estate, 1 Colony, 1 Province, 4 Curse
+Titandrake - total victory points: 16
+Titandrake - turns: 24
+ 
+CryMeARiver - cards: 4 Sage, 3 Alchemist, 2 Familiar, 1 Cartographer, 1 Remodel, 1 Bandit Camp, 7 Copper, 2 Potion, 1 Spoils, 1 Gold, 1 Venture, 1 Silver, 4 Estate, 4 Curse
+CryMeARiver - total victory points: 0
+CryMeARiver - turns: 24
+ 
+1st place: Titandrake
+2nd place: CryMeARiver
+ 

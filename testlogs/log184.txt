@@ -1,0 +1,768 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Masquerade, Watchtower, Coppersmith, Scout, Silk Road, Golem, Market, Harem, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+daisuki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+daisuki - shuffles deck
+Titandrake - shuffles deck
+daisuki - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- daisuki: turn 1 ----------
+daisuki - plays 5 Copper
+daisuki - buys Market
+daisuki - gains Market
+daisuki - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Masquerade, Copper, Estate
+ 
+---------- daisuki: turn 2 ----------
+daisuki - shuffles deck
+daisuki - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Silver, Copper
+Titandrake - passes Estate
+daisuki - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- daisuki: turn 3 ----------
+daisuki - plays 3 Copper
+daisuki - buys Masquerade
+daisuki - gains Masquerade
+daisuki - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Masquerade, Market, Copper, Copper
+ 
+---------- daisuki: turn 4 ----------
+daisuki - plays 4 Copper
+daisuki - buys Potion
+daisuki - gains Potion
+daisuki - draws Market
+daisuki - shuffles deck
+daisuki - draws Copper, Potion, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays Masquerade
+Titandrake - draws Masquerade, Estate
+Titandrake - passes Estate
+daisuki - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- daisuki: turn 5 ----------
+daisuki - plays Market
+daisuki - draws Masquerade
+daisuki - plays Masquerade
+daisuki - draws Copper, Estate
+daisuki - passes Estate
+Titandrake - passes Copper
+daisuki - trashes Estate
+daisuki - plays 4 Copper, 1 Potion
+daisuki - buys Golem
+daisuki - gains Golem
+daisuki - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- daisuki: turn 6 ----------
+daisuki - plays 4 Copper
+daisuki - buys Silver
+daisuki - gains Silver
+daisuki - shuffles deck
+daisuki - draws Golem, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Masquerade, Copper, Copper, Masquerade, Estate
+ 
+---------- daisuki: turn 7 ----------
+daisuki - plays Golem
+daisuki - reveals Copper, Copper, Copper, Copper, Masquerade, Estate, Potion, Market
+daisuki - discards: Copper, Copper, Copper, Copper, Estate, Potion
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays Masquerade
+daisuki - shuffles deck
+daisuki - draws Copper, Copper
+daisuki - passes Copper
+Titandrake - passes Estate
+daisuki - trashes Estate
+daisuki - plays 5 Copper, 1 Silver
+daisuki - buys King's Court
+daisuki - gains King's Court
+daisuki - draws Copper, Copper, Potion, Estate
+daisuki - shuffles deck
+daisuki - draws Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Market, Potion
+Titandrake - passes Copper
+daisuki - passes Estate
+Titandrake - trashes Estate
+Titandrake - draws Copper, Market
+Titandrake - shuffles deck
+Titandrake - draws Market, Potion, Market
+ 
+---------- daisuki: turn 8 ----------
+daisuki - plays 4 Copper, 1 Potion
+daisuki - buys Golem
+daisuki - gains Golem
+daisuki - draws King's Court, Copper, Copper, Copper, Masquerade
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Golem
+Titandrake - gains Golem
+Titandrake - draws Copper, Copper, Masquerade, Copper, Silver
+ 
+---------- daisuki: turn 9 ----------
+daisuki - plays King's Court
+daisuki - plays Masquerade
+daisuki - draws Golem, Silver
+daisuki - passes Copper
+Titandrake - passes Copper
+daisuki - trashes Copper
+daisuki - plays Masquerade
+daisuki - draws Market, Copper
+daisuki - passes Copper
+Titandrake - passes Copper
+daisuki - trashes Copper
+daisuki - plays Masquerade
+daisuki - shuffles deck
+daisuki - draws Potion, Copper
+daisuki - passes Potion
+Titandrake - passes Copper
+daisuki - trashes Copper
+daisuki - plays 3 Copper, 1 Silver
+daisuki - buys Market
+daisuki - gains Market
+daisuki - draws Golem, Copper, Copper, Copper
+daisuki - shuffles deck
+daisuki - draws Market
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - passes Estate
+daisuki - passes Copper
+Titandrake - trashes Masquerade
+Titandrake - plays 3 Copper, 1 Silver, 1 Potion
+Titandrake - buys Golem
+Titandrake - gains Golem
+Titandrake - draws Copper, Market, Golem, Potion, Copper
+ 
+---------- daisuki: turn 10 ----------
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays Golem
+daisuki - reveals Copper, King's Court, Market
+daisuki - discards Copper
+daisuki - plays Market
+daisuki - draws Silver
+daisuki - plays King's Court
+daisuki - plays 3 Copper, 1 Silver
+daisuki - buys King's Court
+daisuki - gains King's Court
+daisuki - draws Golem, Masquerade, Copper
+daisuki - shuffles deck
+daisuki - draws Golem, Market
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Golem
+Titandrake - reveals Market, Market
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Potion
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 2 Potion
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Masquerade, Copper, Golem, Silver, Copper
+ 
+---------- daisuki: turn 11 ----------
+daisuki - plays Golem
+daisuki - reveals King's Court, Copper, Copper, Copper, Silver, Copper, Estate, Market
+daisuki - discards: Copper, Copper, Copper, Silver, Copper, Estate
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws King's Court
+daisuki - plays Market
+daisuki - shuffles deck
+daisuki - draws Estate
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays Masquerade
+daisuki - draws Silver, Copper
+daisuki - passes Estate
+Titandrake - passes Copper
+daisuki - trashes Copper
+daisuki - plays 4 Copper, 1 Silver
+daisuki - buys Market
+daisuki - gains Market
+daisuki - buys Market
+daisuki - gains Market
+daisuki - draws Copper
+daisuki - shuffles deck
+daisuki - draws Copper, King's Court, Golem, Market
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Golem
+Titandrake - shuffles deck
+Titandrake - reveals Golem, Copper, Market, Market
+Titandrake - discards: Golem, Copper
+Titandrake - plays Market
+Titandrake - draws King's Court
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays King's Court
+Titandrake - plays Masquerade
+Titandrake - draws Market, Copper
+Titandrake - passes Estate
+daisuki - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Potion
+Titandrake - passes Potion
+daisuki - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays Masquerade
+Titandrake - draws Potion
+Titandrake - shuffles deck
+Titandrake - draws Golem
+Titandrake - passes Potion
+daisuki - passes Potion
+Titandrake - trashes Potion
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - shuffles deck
+Titandrake - draws Golem, Silver, Masquerade, Chancellor, Market
+ 
+---------- daisuki: turn 12 ----------
+daisuki - plays Golem
+daisuki - reveals Golem, Market, King's Court
+daisuki - discards Golem
+daisuki - plays Market
+daisuki - draws Silver
+daisuki - plays King's Court
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws Market
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws Market
+daisuki - plays Market
+daisuki - draws Masquerade
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - shuffles deck
+daisuki - draws Golem
+daisuki - plays Market
+daisuki - plays Market
+daisuki - plays Masquerade
+daisuki - passes Potion
+Titandrake - passes Silver
+daisuki - trashes Copper
+daisuki - plays 3 Copper, 2 Silver
+daisuki - buys Market
+daisuki - gains Market
+daisuki - buys King's Court
+daisuki - gains King's Court
+daisuki - buys Market
+daisuki - gains Market
+daisuki - shuffles deck
+daisuki - draws Silver, Copper, Market, Market, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Golem
+Titandrake - reveals Copper, Copper, Copper, Copper, Market, King's Court
+Titandrake - discards: Copper, Copper, Copper, Copper
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws Golem
+Titandrake - plays Market
+Titandrake - draws King's Court
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - passes Potion
+daisuki - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays King's Court
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays 4 Copper
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - shuffles deck
+Titandrake - draws Market, Copper, King's Court, Market, Masquerade
+ 
+---------- daisuki: turn 13 ----------
+daisuki - plays Market
+daisuki - draws Silver
+daisuki - plays Market
+daisuki - draws King's Court
+daisuki - plays 2 Silver, 1 Copper, 1 Potion
+daisuki - buys Golem
+daisuki - gains Golem
+daisuki - buys Chancellor
+daisuki - gains Chancellor
+daisuki - draws Market, Market, Market, King's Court, Golem
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Market
+Titandrake - draws Chancellor
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Golem
+Titandrake - plays Market
+Titandrake - draws King's Court
+Titandrake - plays Golem
+Titandrake - reveals King's Court, Copper, Copper, Chancellor
+Titandrake - discards: Copper, Copper
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Masquerade
+Titandrake - draws Golem, Market
+Titandrake - passes Copper
+daisuki - passes Golem
+Titandrake - trashes Golem
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Market
+Titandrake - passes Copper
+daisuki - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - passes Copper
+daisuki - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays King's Court
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - plays Market
+Titandrake - plays Market
+Titandrake - plays Chancellor
+Titandrake - plays Market
+Titandrake - plays 2 Copper
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - shuffles deck
+Titandrake - draws King's Court, Chancellor, Chancellor, Market, Copper
+ 
+---------- daisuki: turn 14 ----------
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays Market
+daisuki - draws Golem
+daisuki - plays Market
+daisuki - draws Masquerade
+daisuki - plays Golem
+daisuki - reveals Market, King's Court
+daisuki - plays Market
+daisuki - shuffles deck
+daisuki - draws Market
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws Chancellor
+daisuki - plays Market
+daisuki - draws Golem
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays Golem
+daisuki - reveals Silver, Market, Potion, Silver, King's Court
+daisuki - discards: Silver, Potion, Silver
+daisuki - plays Market
+daisuki - shuffles deck
+daisuki - draws Silver
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws Silver
+daisuki - plays Market
+daisuki - draws Potion
+daisuki - plays Market
+daisuki - plays Masquerade
+daisuki - passes Potion
+Titandrake - passes Copper
+daisuki - trashes Copper
+daisuki - plays Market
+daisuki - plays Chancellor
+daisuki - plays 3 Copper, 2 Silver
+daisuki - buys Province
+daisuki - gains Province
+daisuki - buys Province
+daisuki - gains Province
+daisuki - buys Duchy
+daisuki - gains Duchy
+daisuki - shuffles deck
+daisuki - draws Chancellor, Silver, Golem, King's Court, Market
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws King's Court
+Titandrake - plays Market
+Titandrake - draws Masquerade
+Titandrake - plays Market
+Titandrake - draws Golem
+Titandrake - plays Golem
+Titandrake - reveals Market, Chancellor
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Chancellor
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws King's Court
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws King's Court
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays King's Court
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays King's Court
+Titandrake - plays Masquerade
+Titandrake - shuffles deck
+Titandrake - draws King's Court, Golem
+Titandrake - passes Potion
+daisuki - passes Silver
+Titandrake - plays Masquerade
+Titandrake - draws Market
+Titandrake - passes Copper
+daisuki - passes Potion
+Titandrake - plays Masquerade
+Titandrake - passes Potion
+daisuki - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - plays Market
+Titandrake - plays Market
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Chancellor, Golem, Market, King's Court, King's Court
+ 
+---------- daisuki: turn 15 ----------
+daisuki - plays Golem
+daisuki - reveals King's Court, Copper, Market
+daisuki - discards Copper
+daisuki - plays Market
+daisuki - draws Masquerade
+daisuki - plays King's Court
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws Province
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays Market
+daisuki - draws Market
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws King's Court
+daisuki - plays Market
+daisuki - draws Market
+daisuki - plays Market
+daisuki - draws Golem
+daisuki - plays King's Court
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws Silver
+daisuki - plays Market
+daisuki - draws Duchy
+daisuki - plays Market
+daisuki - draws Copper
+daisuki - plays King's Court
+daisuki - plays Masquerade
+daisuki - draws Market, Province
+daisuki - passes Potion
+Titandrake - passes Golem
+daisuki - plays Masquerade
+daisuki - draws Market
+daisuki - shuffles deck
+daisuki - draws Copper
+daisuki - passes Golem
+Titandrake - passes Potion
+daisuki - trashes Potion
+daisuki - plays Masquerade
+daisuki - passes Copper
+Titandrake - passes Golem
+daisuki - plays King's Court
+daisuki - plays Chancellor
+daisuki - plays Chancellor
+daisuki - plays Chancellor
+daisuki - plays Market
+daisuki - plays Market
+daisuki - plays 2 Copper, 1 Silver
+daisuki - buys Harem
+daisuki - gains Harem
+daisuki - buys Harem
+daisuki - gains Harem
+daisuki - buys Duchy
+daisuki - gains Duchy
+daisuki - buys Duchy
+daisuki - gains Duchy
+daisuki - shuffles deck
+daisuki - draws Golem, Duchy, Market, King's Court, Market
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws Duchy
+Titandrake - plays Market
+Titandrake - draws Chancellor
+Titandrake - plays Market
+Titandrake - draws Province
+Titandrake - plays King's Court
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays King's Court
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Market, Silver, Market, Chancellor, Province
+ 
+---------- daisuki: turn 16 ----------
+daisuki - plays King's Court
+daisuki - plays Market
+daisuki - draws Duchy
+daisuki - plays Market
+daisuki - draws Masquerade
+daisuki - plays Market
+daisuki - draws Province
+daisuki - plays Golem
+daisuki - reveals Copper, Harem, Golem, Chancellor, Market
+daisuki - discards: Copper, Harem, Golem
+daisuki - plays Market
+daisuki - draws Province
+daisuki - plays Chancellor
+daisuki - plays Market
+daisuki - draws King's Court
+daisuki - plays King's Court
+daisuki - plays Masquerade
+daisuki - draws Market, Duchy
+daisuki - passes Market
+Titandrake - passes Silver
+daisuki - plays Masquerade
+daisuki - draws Silver, Harem
+daisuki - passes Silver
+Titandrake - passes Chancellor
+daisuki - plays Masquerade
+daisuki - draws Copper, Market
+daisuki - passes Copper
+Titandrake - passes Silver
+daisuki - plays Market
+daisuki - draws Golem
+daisuki - plays Golem
+daisuki - reveals Market, King's Court
+daisuki - plays Market
+daisuki - shuffles deck
+daisuki - draws Golem
+daisuki - plays King's Court
+daisuki - plays Chancellor
+daisuki - moves deck to discards
+daisuki - plays Chancellor
+daisuki - plays Chancellor
+daisuki - plays Golem
+daisuki - shuffles deck
+daisuki - reveals Harem, Copper
+daisuki - discards: Harem, Copper
+daisuki - plays 2 Silver, 1 Harem
+daisuki - buys Duchy
+daisuki - gains Duchy
+daisuki - buys Province
+daisuki - gains Province
+daisuki - buys Province
+daisuki - gains Province
+daisuki - shuffles deck
+daisuki - draws Masquerade, Duchy, Market, Province, Chancellor
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Market
+Titandrake - draws Masquerade
+Titandrake - plays Market
+Titandrake - draws King's Court
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Golem
+Titandrake - plays Market
+Titandrake - draws Duchy
+Titandrake - plays Golem
+Titandrake - reveals King's Court, King's Court
+Titandrake - plays King's Court
+Titandrake - plays Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Silk Road, Silk Road
+Titandrake - passes Copper
+daisuki - passes Chancellor
+Titandrake - plays Masquerade
+Titandrake - draws Chancellor, King's Court
+Titandrake - passes Chancellor
+daisuki - passes Copper
+Titandrake - plays Masquerade
+Titandrake - draws Province, Market
+Titandrake - passes Copper
+daisuki - passes Chancellor
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws King's Court
+Titandrake - plays Market
+Titandrake - draws Province
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws Chancellor
+Titandrake - plays Market
+Titandrake - draws Duchy
+Titandrake - plays Market
+Titandrake - plays King's Court
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays King's Court
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays King's Court
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays Chancellor
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Silk Road, King's Court, Market, Chancellor, King's Court
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 King's Court, 5 Market, 3 Chancellor, 1 Golem, 1 Masquerade, 1 Copper, 7 Silk Road, 4 Province, 2 Duchy, 1 Estate
+Titandrake - total victory points: 52
+Titandrake - turns: 17
+ 
+daisuki - cards: 5 Market, 3 King's Court, 3 Golem, 1 Masquerade, 1 Chancellor, 2 Harem, 2 Copper, 2 Silver, 4 Duchy, 4 Province
+daisuki - total victory points: 40
+daisuki - turns: 16
+ 
+1st place: Titandrake
+2nd place: daisuki
+ 

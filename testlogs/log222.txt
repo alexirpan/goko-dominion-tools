@@ -1,0 +1,448 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Steward, Caravan, Moneylender, Smithy, Counting House, Explorer, Harvest, Ill-Gotten Gains, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Lotoreo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lotoreo - shuffles deck
+Titandrake - shuffles deck
+Lotoreo - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Lotoreo: turn 1 ----------
+Lotoreo - plays 3 Copper
+Lotoreo - buys Steward
+Lotoreo - gains Steward
+Lotoreo - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Steward, Estate, Copper
+ 
+---------- Lotoreo: turn 2 ----------
+Lotoreo - plays 4 Copper
+Lotoreo - buys Caravan
+Lotoreo - gains Caravan
+Lotoreo - shuffles deck
+Lotoreo - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Steward
+Titandrake - trashes Estate, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Estate, Copper, Caravan, Estate, Copper
+ 
+---------- Lotoreo: turn 3 ----------
+Lotoreo - plays 2 Copper
+Lotoreo - buys Vagrant
+Lotoreo - gains Vagrant
+Lotoreo - draws Copper, Caravan, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Steward, Silver
+ 
+---------- Lotoreo: turn 4 ----------
+Lotoreo - plays Caravan
+Lotoreo - draws Copper
+Lotoreo - plays 5 Copper
+Lotoreo - buys Ill-Gotten Gains
+Lotoreo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+Lotoreo - draws Steward
+Lotoreo - shuffles deck
+Lotoreo - draws Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Steward
+Titandrake - trashes Estate, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper, Copper, Vagrant, Estate, Copper
+ 
+---------- Lotoreo: turn 5 ----------
+Lotoreo - duration Caravan
+Lotoreo - draws Ill-Gotten Gains
+Lotoreo - plays Steward
+Lotoreo - trashes Estate, Estate
+Lotoreo - plays 2 Copper
+Lotoreo - plays Ill-Gotten Gains
+Lotoreo - gains Copper
+Lotoreo - plays Copper
+Lotoreo - buys Caravan
+Lotoreo - gains Caravan
+Lotoreo - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals: Caravan
+Titandrake - places Caravan on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Caravan, Curse, Caravan, Silver, Copper
+ 
+---------- Lotoreo: turn 6 ----------
+Lotoreo - plays 4 Copper
+Lotoreo - buys Caravan
+Lotoreo - gains Caravan
+Lotoreo - draws Copper, Vagrant
+Lotoreo - shuffles deck
+Lotoreo - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Caravan
+Titandrake - draws Steward
+Titandrake - plays Caravan
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Steward
+Titandrake - trashes Estate, Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Vagrant, Caravan, Copper, Copper, Copper
+ 
+---------- Lotoreo: turn 7 ----------
+Lotoreo - plays Vagrant
+Lotoreo - draws Copper
+Lotoreo - reveals: Caravan
+Lotoreo - places Caravan on top of deck
+Lotoreo - plays 4 Copper
+Lotoreo - buys Caravan
+Lotoreo - gains Caravan
+Lotoreo - draws Caravan, Copper, Ill-Gotten Gains, Caravan, Steward
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Steward
+Titandrake - places Steward on top of deck
+Titandrake - plays 5 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Steward
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Silver, Caravan
+ 
+---------- Lotoreo: turn 8 ----------
+Lotoreo - plays Caravan
+Lotoreo - draws Caravan
+Lotoreo - plays Caravan
+Lotoreo - draws Copper
+Lotoreo - plays Caravan
+Lotoreo - draws Copper
+Lotoreo - plays Steward
+Lotoreo - trashes Copper, Copper
+Lotoreo - plays 1 Copper
+Lotoreo - plays Ill-Gotten Gains
+Lotoreo - buys Vagrant
+Lotoreo - gains Vagrant
+Lotoreo - draws Copper
+Lotoreo - shuffles deck
+Lotoreo - draws Caravan, Vagrant, Copper, Vagrant
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Caravan
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Caravan
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Steward
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province, Steward, Gold
+ 
+---------- Lotoreo: turn 9 ----------
+Lotoreo - duration Caravan
+Lotoreo - draws Copper
+Lotoreo - duration Caravan
+Lotoreo - draws Copper
+Lotoreo - duration Caravan
+Lotoreo - draws Steward
+Lotoreo - plays Vagrant
+Lotoreo - draws Estate
+Lotoreo - reveals: Ill-Gotten Gains
+Lotoreo - places Ill-Gotten Gains on top of deck
+Lotoreo - plays Vagrant
+Lotoreo - draws Ill-Gotten Gains
+Lotoreo - reveals: Copper
+Lotoreo - places Copper on top of deck
+Lotoreo - plays Caravan
+Lotoreo - draws Copper
+Lotoreo - plays Steward
+Lotoreo - takes 2 coins
+Lotoreo - plays 5 Copper
+Lotoreo - buys Bank
+Lotoreo - gains Bank
+Lotoreo - draws Copper
+Lotoreo - shuffles deck
+Lotoreo - draws Copper, Vagrant, Bank, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Caravan
+Titandrake - draws Vagrant
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Caravan, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Lotoreo: turn 10 ----------
+Lotoreo - duration Caravan
+Lotoreo - draws Copper
+Lotoreo - plays Vagrant
+Lotoreo - draws Caravan
+Lotoreo - reveals: Estate
+Lotoreo - places Estate in hand
+Lotoreo - plays Caravan
+Lotoreo - draws Steward
+Lotoreo - plays Steward
+Lotoreo - takes 2 coins
+Lotoreo - plays 4 Copper
+Lotoreo - plays Bank
+Lotoreo - buys Province
+Lotoreo - gains Province
+Lotoreo - draws Copper, Caravan, Copper, Ill-Gotten Gains, Vagrant
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Explorer
+Titandrake - gains Explorer
+Titandrake - draws Gold, Caravan, Province, Gold, Steward
+ 
+---------- Lotoreo: turn 11 ----------
+Lotoreo - duration Caravan
+Lotoreo - draws Caravan
+Lotoreo - plays Vagrant
+Lotoreo - shuffles deck
+Lotoreo - draws Caravan
+Lotoreo - reveals: Estate
+Lotoreo - places Estate in hand
+Lotoreo - plays Caravan
+Lotoreo - draws Steward
+Lotoreo - plays Caravan
+Lotoreo - draws Vagrant
+Lotoreo - plays Caravan
+Lotoreo - draws Copper
+Lotoreo - plays Vagrant
+Lotoreo - draws Copper
+Lotoreo - reveals: Copper
+Lotoreo - places Copper on top of deck
+Lotoreo - plays Steward
+Lotoreo - takes 2 coins
+Lotoreo - plays 4 Copper
+Lotoreo - plays Ill-Gotten Gains
+Lotoreo - gains Copper
+Lotoreo - plays Copper
+Lotoreo - buys Province
+Lotoreo - gains Province
+Lotoreo - draws Copper, Copper, Bank, Province
+Lotoreo - shuffles deck
+Lotoreo - draws Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Vagrant
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Explorer
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Explorer
+Titandrake - gains Gold
+Titandrake - plays 3 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Province, Province
+ 
+---------- Lotoreo: turn 12 ----------
+Lotoreo - duration Caravan
+Lotoreo - draws Copper
+Lotoreo - duration Caravan
+Lotoreo - draws Estate
+Lotoreo - duration Caravan
+Lotoreo - draws Copper
+Lotoreo - plays 5 Copper
+Lotoreo - plays Bank
+Lotoreo - buys Province
+Lotoreo - gains Province
+Lotoreo - draws Caravan, Vagrant, Province, Copper, Vagrant
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Caravan
+Titandrake - draws Gold
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Caravan, Caravan, Gold, Silver
+ 
+---------- Lotoreo: turn 13 ----------
+Lotoreo - plays Vagrant
+Lotoreo - draws Ill-Gotten Gains
+Lotoreo - reveals: Steward
+Lotoreo - places Steward on top of deck
+Lotoreo - plays Vagrant
+Lotoreo - draws Steward
+Lotoreo - reveals: Copper
+Lotoreo - places Copper on top of deck
+Lotoreo - plays Caravan
+Lotoreo - draws Copper
+Lotoreo - plays Steward
+Lotoreo - takes 2 coins
+Lotoreo - plays 2 Copper
+Lotoreo - plays Ill-Gotten Gains
+Lotoreo - buys Duchy
+Lotoreo - gains Duchy
+Lotoreo - shuffles deck
+Lotoreo - draws Vagrant, Province, Caravan, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays Caravan
+Titandrake - draws Explorer
+Titandrake - plays Explorer
+Titandrake - gains Silver
+Titandrake - plays 2 Gold, 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Steward, Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Silver, Gold
+ 
+---------- Lotoreo: turn 14 ----------
+Lotoreo - duration Caravan
+Lotoreo - draws Copper
+Lotoreo - plays Vagrant
+Lotoreo - draws Caravan
+Lotoreo - reveals: Caravan
+Lotoreo - places Caravan on top of deck
+Lotoreo - plays Caravan
+Lotoreo - draws Caravan
+Lotoreo - plays Caravan
+Lotoreo - draws Estate
+Lotoreo - plays Caravan
+Lotoreo - draws Province
+Lotoreo - plays 3 Copper
+Lotoreo - buys Estate
+Lotoreo - gains Estate
+Lotoreo - draws Copper, Duchy, Bank, Vagrant, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Caravan
+Titandrake - draws Gold
+Titandrake - duration Caravan
+Titandrake - draws Duchy
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Silver, 2 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Gold, Province, Silver, Copper
+ 
+---------- Lotoreo: turn 15 ----------
+Lotoreo - duration Caravan
+Lotoreo - draws Ill-Gotten Gains
+Lotoreo - duration Caravan
+Lotoreo - draws Copper
+Lotoreo - duration Caravan
+Lotoreo - draws Steward
+Lotoreo - plays Vagrant
+Lotoreo - draws Province
+Lotoreo - reveals: Copper
+Lotoreo - places Copper on top of deck
+Lotoreo - plays Steward
+Lotoreo - takes 2 coins
+Lotoreo - plays 3 Copper
+Lotoreo - plays Bank
+Lotoreo - buys Province
+Lotoreo - gains Province
+Lotoreo - draws Copper
+Lotoreo - shuffles deck
+Lotoreo - draws Copper, Caravan, Province, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Caravan
+Titandrake - draws Explorer
+Titandrake - plays Explorer
+Titandrake - gains Gold
+Titandrake - plays 2 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Caravan, 1 Vagrant, 1 Explorer, 1 Steward, 4 Gold, 3 Copper, 3 Silver, 4 Province, 2 Duchy
+Titandrake - total victory points: 30
+Titandrake - turns: 16
+ 
+Lotoreo - cards: 4 Caravan, 2 Vagrant, 1 Steward, 7 Copper, 1 Ill-Gotten Gains, 1 Bank, 4 Province, 2 Estate, 1 Duchy
+Lotoreo - total victory points: 29
+Lotoreo - turns: 15
+ 
+1st place: Titandrake
+2nd place: Lotoreo
+ 

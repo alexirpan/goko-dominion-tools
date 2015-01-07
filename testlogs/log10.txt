@@ -1,0 +1,436 @@
+------------ Game Setup ------------
+Supply cards: Moat, Scheme, Shanty Town, Trade Route, Rats, Trader, Ghost Ship, Ill-Gotten Gains, Hoard, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Rats
+Titandrake - gains Rats
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Trader
+lightbulb - gains Trader
+lightbulb - shuffles deck
+lightbulb - draws Estate, Copper, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Rats, Estate, Copper
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Rats
+lightbulb - gains Rats
+lightbulb - draws Copper, Copper, Trader, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Rats
+Titandrake - draws Shanty Town
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Copper, Copper
+Titandrake - draws Copper, Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Copper, Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Rats
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Trader
+lightbulb - trashes Estate
+lightbulb - gains Silver
+lightbulb - gains Silver
+lightbulb - plays 3 Copper
+lightbulb - buys Shanty Town
+lightbulb - gains Shanty Town
+lightbulb - draws Copper, Copper
+lightbulb - shuffles deck
+lightbulb - draws Silver, Copper, Rats
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Copper, Copper, Copper, Shanty Town, Estate
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - buys Ghost Ship
+lightbulb - gains Ghost Ship
+lightbulb - draws Estate, Estate, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Copper, Copper, Estate
+Titandrake - draws Trader, Rats
+Titandrake - plays Rats
+Titandrake - shuffles deck
+Titandrake - draws Rats
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - plays Trader
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Trader, Copper, Rats
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Trader
+lightbulb - gains Trader
+lightbulb - draws Copper, Shanty Town, Trader, Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Rats
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - plays Trader
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Shanty Town, Copper, Silver, Silver
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Trader
+lightbulb - trashes Copper
+lightbulb - plays 1 Copper, 1 Silver
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - shuffles deck
+lightbulb - draws Shanty Town, Copper, Rats, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Silver, Copper, Silver, Silver
+Titandrake - draws Copper, Rats
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Trader, Rats
+Titandrake - shuffles deck
+Titandrake - draws Trader, Copper, Rats
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays Rats
+lightbulb - draws Trader
+lightbulb - reveals reaction Trader
+lightbulb - gains Silver
+lightbulb - trashes Copper
+lightbulb - plays Shanty Town
+lightbulb - reveals Copper, Estate, Trader
+lightbulb - plays Trader
+lightbulb - trashes Estate
+lightbulb - gains Silver
+lightbulb - gains Silver
+lightbulb - draws Silver, Copper, Silver, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Rats
+Titandrake - draws Silver
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - plays Trader
+Titandrake - trashes Rats
+Titandrake - draws Shanty Town
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Copper, Silver, Silver
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays 3 Silver, 2 Copper
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Copper, Silver, Ghost Ship, Copper, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Rats, Province, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Ghost Ship
+lightbulb - draws Trader
+lightbulb - shuffles deck
+lightbulb - draws Shanty Town
+Titandrake - places Rats on top of deck
+Titandrake - places Province on top of deck
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Scheme
+lightbulb - gains Scheme
+lightbulb - draws Silver, Silver, Province, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Province, Rats, Copper, Province, Silver
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays 2 Silver, 2 Copper
+lightbulb - buys Hoard
+lightbulb - gains Hoard
+lightbulb - draws Rats, Silver, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Rats
+Titandrake - draws Silver
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Silver, Trader, Trader
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays Rats
+lightbulb - draws Silver
+lightbulb - gains Rats
+lightbulb - trashes Copper
+lightbulb - plays 4 Silver
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Trader
+lightbulb - shuffles deck
+lightbulb - draws Estate, Copper, Copper, Hoard
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Silver, Silver, Shanty Town, Rats
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Trader
+lightbulb - trashes Copper
+lightbulb - plays 1 Copper
+lightbulb - plays Hoard
+lightbulb - buys Estate
+lightbulb - gains Gold
+lightbulb - gains Estate
+lightbulb - draws Trader, Province, Silver, Silver, Scheme
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Trader, Silver, Ghost Ship, Silver
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Scheme
+lightbulb - draws Silver
+lightbulb - plays 3 Silver
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - Scheme choice: Scheme
+lightbulb - draws Scheme, Rats, Silver, Copper, Rats
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Silver, Province
+lightbulb - places Rats on top of deck
+lightbulb - places Rats on top of deck
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Duchy, Silver, Silver, Rats, Silver
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays Scheme
+lightbulb - draws Rats
+lightbulb - plays Rats
+lightbulb - draws Rats
+lightbulb - gains Rats
+lightbulb - trashes Copper
+lightbulb - plays 1 Silver
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - Scheme choice: Scheme
+lightbulb - draws Scheme, Silver, Copper, Silver, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Rats, Rats, Duchy, Silver
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays Scheme
+lightbulb - draws Shanty Town
+lightbulb - plays Shanty Town
+lightbulb - reveals Silver, Copper, Silver, Province
+lightbulb - draws Silver, Ghost Ship
+lightbulb - plays Ghost Ship
+lightbulb - shuffles deck
+lightbulb - draws Province, Gold
+Titandrake - places Silver on top of deck
+Titandrake - places Rats on top of deck
+lightbulb - plays 3 Silver, 1 Copper, 1 Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - Scheme choice: Ghost Ship
+lightbulb - draws Ghost Ship, Estate, Silver, Rats, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - draws Rats, Silver, Silver, Silver, Copper
+ 
+---------- lightbulb: turn 17 ----------
+lightbulb - plays Ghost Ship
+lightbulb - draws Silver, Trader
+Titandrake - places Rats on top of deck
+Titandrake - places Silver on top of deck
+lightbulb - plays 3 Silver
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Duchy, Hoard, Rats, Silver, Trader
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Rats, Shanty Town, Silver, Silver
+ 
+---------- lightbulb: turn 18 ----------
+lightbulb - plays Trader
+lightbulb - trashes Rats
+lightbulb - draws Estate
+lightbulb - gains Silver
+lightbulb - gains Silver
+lightbulb - gains Silver
+lightbulb - gains Silver
+lightbulb - plays 1 Silver
+lightbulb - plays Hoard
+lightbulb - buys Estate
+lightbulb - gains Gold
+lightbulb - gains Estate
+lightbulb - draws Copper, Rats, Estate
+lightbulb - shuffles deck
+lightbulb - draws Estate, Duchy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Trader
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver, Silver, Duchy
+ 
+---------- lightbulb: turn 19 ----------
+lightbulb - plays Rats
+lightbulb - draws Estate
+lightbulb - gains Rats
+lightbulb - trashes Copper
+lightbulb - draws Hoard, Copper, Duchy, Ghost Ship, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Trader
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Rats, Duchy, Rats, Rats, Copper
+ 
+---------- lightbulb: turn 20 ----------
+lightbulb - plays Ghost Ship
+lightbulb - draws Silver, Silver
+Titandrake - places Copper on top of deck
+Titandrake - places Duchy on top of deck
+lightbulb - plays 2 Silver, 1 Copper
+lightbulb - plays Hoard
+lightbulb - buys Duchy
+lightbulb - gains Gold
+lightbulb - gains Duchy
+lightbulb - draws Gold, Silver, Estate, Silver, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - draws Duchy, Copper, Shanty Town, Silver, Silver
+ 
+---------- lightbulb: turn 21 ----------
+lightbulb - plays 3 Silver, 1 Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Rats, Province, Silver, Gold, Province
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Duchy, Copper, Silver, Silver
+Titandrake - draws Province, Trader
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+lightbulb - gains Curse
+Titandrake - draws Silver, Silver, Ghost Ship, Duchy, Silver
+ 
+---------- lightbulb: turn 22 ----------
+lightbulb - plays 1 Silver, 1 Gold
+lightbulb - buys Ill-Gotten Gains
+lightbulb - gains Ill-Gotten Gains
+Titandrake - gains Curse
+lightbulb - draws Silver, Silver, Shanty Town, Silver, Trader
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Silver, Province
+lightbulb - places Trader on top of deck
+lightbulb - places Silver on top of deck
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Silver, Duchy, Duchy, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Rats, 2 Trader, 14 Silver, 1 Shanty Town, 1 Ghost Ship, 1 Ill-Gotten Gains, 1 Copper, 5 Duchy, 4 Province, 1 Estate, 1 Curse
+Titandrake - total victory points: 39
+Titandrake - turns: 22
+ 
+lightbulb - cards: 3 Rats, 2 Trader, 11 Silver, 1 Shanty Town, 1 Ghost Ship, 1 Scheme, 3 Gold, 1 Copper, 1 Hoard, 1 Ill-Gotten Gains, 4 Estate, 4 Province, 3 Duchy, 1 Curse
+lightbulb - total victory points: 36
+lightbulb - turns: 22
+ 
+1st place: Titandrake
+2nd place: lightbulb
+ 

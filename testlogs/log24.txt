@@ -1,0 +1,425 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Scrying Pool, Warehouse, Workshop, Noble Brigand, Remake, Scavenger, Young Witch, Festival, Rogue, Royal Seal, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Workshop
+Rating system: pro
+nidzela - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nidzela - shuffles deck
+Titandrake - shuffles deck
+nidzela - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- nidzela: turn 1 ----------
+nidzela - plays 3 Copper
+nidzela - buys Warehouse
+nidzela - gains Warehouse
+nidzela - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- nidzela: turn 2 ----------
+nidzela - plays 4 Copper
+nidzela - buys Remake
+nidzela - gains Remake
+nidzela - shuffles deck
+nidzela - draws Copper, Estate, Remake, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Remake, Copper
+ 
+---------- nidzela: turn 3 ----------
+nidzela - plays Remake
+nidzela - trashes Estate
+nidzela - gains Warehouse
+nidzela - trashes Estate
+nidzela - gains Workshop
+nidzela - draws Warehouse, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- nidzela: turn 4 ----------
+nidzela - plays 4 Copper
+nidzela - buys Potion
+nidzela - gains Potion
+nidzela - draws Copper, Estate
+nidzela - shuffles deck
+nidzela - draws Copper, Copper, Warehouse
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Estate, Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Remake, Copper, Copper
+ 
+---------- nidzela: turn 5 ----------
+nidzela - plays Warehouse
+nidzela - draws Copper, Copper, Copper
+nidzela - discards Estate
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - plays 4 Copper
+nidzela - buys Remake
+nidzela - gains Remake
+nidzela - draws Potion, Remake, Copper, Warehouse, Workshop
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Warehouse
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - draws Potion, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Warehouse, Warehouse
+ 
+---------- nidzela: turn 6 ----------
+nidzela - plays Remake
+nidzela - trashes Potion
+nidzela - gains Festival
+nidzela - trashes Workshop
+nidzela - gains Potion
+nidzela - shuffles deck
+nidzela - draws Copper, Warehouse, Remake, Potion, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Warehouse
+Titandrake - draws Silver, Remake, Copper
+Titandrake - discards Remake
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 1 Potion, 1 Copper, 1 Silver
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Remake, Copper, Estate, Potion, Copper
+ 
+---------- nidzela: turn 7 ----------
+nidzela - plays Warehouse
+nidzela - draws Warehouse, Festival, Remake
+nidzela - discards Remake
+nidzela - discards Remake
+nidzela - discards Copper
+nidzela - plays Warehouse
+nidzela - draws Copper, Copper, Copper
+nidzela - discards Estate
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - plays Festival
+nidzela - plays Potion
+nidzela - buys Scrying Pool
+nidzela - gains Scrying Pool
+nidzela - draws Copper, Copper, Copper
+nidzela - shuffles deck
+nidzela - draws Festival, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Scrying Pool, Warehouse
+ 
+---------- nidzela: turn 8 ----------
+nidzela - plays Festival
+nidzela - plays 4 Copper
+nidzela - buys Stonemason
+nidzela - overpays for Stonemason with 4 coins
+nidzela - gains Remake
+nidzela - gains Remake
+nidzela - gains Stonemason
+nidzela - draws Copper, Remake, Copper, Potion, Remake
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Silver, Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Warehouse
+Titandrake - draws Remake, Potion, Copper
+Titandrake - discards Copper
+Titandrake - discards Remake
+Titandrake - discards Scrying Pool
+Titandrake - plays 2 Silver, 1 Potion
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 2 coins
+Titandrake - gains Stonemason
+Titandrake - gains Stonemason
+Titandrake - gains Stonemason
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Stonemason, Remake, Copper, Silver
+ 
+---------- nidzela: turn 9 ----------
+nidzela - plays 2 Copper, 1 Potion
+nidzela - buys Scrying Pool
+nidzela - gains Scrying Pool
+nidzela - draws Estate, Copper, Warehouse, Warehouse, Scrying Pool
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Stonemason on top of deck
+nidzela - shuffles deck
+nidzela - places Copper on top of deck
+Titandrake - reveals Stonemason, Warehouse, Stonemason, Warehouse, Silver
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Potion, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Remake
+Titandrake - trashes Stonemason
+Titandrake - gains Warehouse
+Titandrake - trashes Warehouse
+Titandrake - gains Remake
+Titandrake - plays 2 Silver, 1 Potion
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 2 coins
+Titandrake - overpays for Stonemason with 1 potion
+Titandrake - gains Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - gains Stonemason
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Stonemason, Copper
+ 
+---------- nidzela: turn 10 ----------
+nidzela - plays Scrying Pool
+nidzela - discards Copper
+Titandrake - places Silver on top of deck
+nidzela - reveals Scrying Pool, Copper
+nidzela - plays Scrying Pool
+nidzela - discards Copper
+Titandrake - places Silver on top of deck
+nidzela - reveals Remake, Copper
+nidzela - plays Warehouse
+nidzela - draws Copper, Remake, Stonemason
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - plays Warehouse
+nidzela - draws Remake, Potion, Remake
+nidzela - discards Estate
+nidzela - discards Remake
+nidzela - discards Remake
+nidzela - plays Remake
+nidzela - trashes Remake
+nidzela - gains Festival
+nidzela - trashes Stonemason
+nidzela - gains Warehouse
+nidzela - draws Festival, Copper
+nidzela - shuffles deck
+nidzela - draws Copper, Scrying Pool, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Silver, Potion, Scrying Pool, Stonemason, Scrying Pool
+ 
+---------- nidzela: turn 11 ----------
+nidzela - plays Scrying Pool
+nidzela - places Warehouse on top of deck
+Titandrake - discards Scrying Pool
+nidzela - reveals Warehouse, Potion
+nidzela - plays Warehouse
+nidzela - draws Remake, Copper, Remake
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - plays Festival
+nidzela - plays Remake
+nidzela - trashes Remake
+nidzela - gains Festival
+nidzela - trashes Copper
+nidzela - plays Potion
+nidzela - buys Scrying Pool
+nidzela - gains Scrying Pool
+nidzela - draws Warehouse, Copper, Estate, Festival, Warehouse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Stonemason on top of deck
+nidzela - discards Scrying Pool
+Titandrake - reveals Stonemason, Warehouse, Remake, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Remake on top of deck
+nidzela - places Copper on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Remake, Warehouse, Silver
+Titandrake - plays Warehouse
+Titandrake - draws Stonemason, Copper, Copper
+Titandrake - discards Stonemason
+Titandrake - discards Stonemason
+Titandrake - discards Copper
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Scrying Pool, Festival
+Titandrake - discards Scrying Pool
+Titandrake - discards Stonemason
+Titandrake - discards Silver
+Titandrake - plays Festival
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Silver
+Titandrake - gains Remake
+Titandrake - plays Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Remake, Remake, Stonemason, Potion, Festival
+ 
+---------- nidzela: turn 12 ----------
+nidzela - plays Warehouse
+nidzela - draws Copper, Copper, Remake
+nidzela - discards Estate
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - plays Warehouse
+nidzela - shuffles deck
+nidzela - draws Copper, Copper, Scrying Pool
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - plays Scrying Pool
+nidzela - discards Copper
+Titandrake - places Copper on top of deck
+nidzela - reveals Potion
+nidzela - plays Festival
+nidzela - plays Potion
+nidzela - buys Scrying Pool
+nidzela - gains Scrying Pool
+nidzela - draws Remake, Warehouse, Festival, Festival, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Festival
+Titandrake - plays Remake
+Titandrake - trashes Remake
+Titandrake - gains Festival
+Titandrake - trashes Stonemason
+Titandrake - gains Warehouse
+Titandrake - plays Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Remake, Warehouse, Warehouse, Scrying Pool
+ 
+---------- nidzela: turn 13 ----------
+nidzela - plays Warehouse
+nidzela - draws Scrying Pool, Estate, Scrying Pool
+nidzela - discards Copper
+nidzela - discards Remake
+nidzela - discards Festival
+nidzela - plays Scrying Pool
+nidzela - discards Copper
+Titandrake - discards Scrying Pool
+nidzela - shuffles deck
+nidzela - reveals Scrying Pool, Copper
+nidzela - plays Scrying Pool
+nidzela - places Remake on top of deck
+Titandrake - places Stonemason on top of deck
+nidzela - reveals Remake, Warehouse, Copper
+nidzela - plays Scrying Pool
+nidzela - discards Copper
+Titandrake - discards Stonemason
+nidzela - reveals Copper
+nidzela - plays Warehouse
+nidzela - draws Festival, Scrying Pool, Copper
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - discards Copper
+nidzela - plays Scrying Pool
+nidzela - places Remake on top of deck
+Titandrake - places Stonemason on top of deck
+nidzela - reveals Remake, Warehouse, Potion
+nidzela - plays Festival
+nidzela - plays Festival
+nidzela - plays Remake
+nidzela - trashes Estate
+nidzela - gains Warehouse
+nidzela - trashes Copper
+nidzela - plays 1 Potion
+nidzela - buys Scrying Pool
+nidzela - gains Scrying Pool
+nidzela - buys Stonemason
+nidzela - gains Stonemason
+nidzela - draws Festival, Copper
+nidzela - shuffles deck
+nidzela - draws Festival, Warehouse, Potion
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Stonemason on top of deck
+nidzela - discards Scrying Pool
+Titandrake - reveals Stonemason, Scrying Pool, Scrying Pool, Silver
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - places Warehouse on top of deck
+nidzela - places Copper on top of deck
+Titandrake - reveals Warehouse, Stonemason, Scrying Pool, Festival, Festival, Potion
+Titandrake - plays Festival
+Titandrake - plays Remake
+Titandrake - trashes Warehouse
+Titandrake - gains Remake
+Titandrake - trashes Silver
+Titandrake - gains Remake
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+nidzela - places Copper on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Scrying Pool, Remake, Remake, Remake
+Titandrake - plays Festival
+Titandrake - plays Remake
+Titandrake - trashes Warehouse
+Titandrake - gains Remake
+Titandrake - trashes Stonemason
+Titandrake - gains Warehouse
+Titandrake - plays Remake
+Titandrake - trashes Stonemason
+Titandrake - gains Warehouse
+Titandrake - trashes Potion
+Titandrake - gains Duchy
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Festival, Remake, Remake, Scrying Pool, Warehouse
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Remake, 5 Scrying Pool, 3 Warehouse, 2 Festival, 1 Copper, 2 Duchy
+Titandrake - total victory points: 6
+Titandrake - turns: 13
+ 
+nidzela - cards: 5 Scrying Pool, 4 Warehouse, 3 Festival, 2 Remake, 1 Stonemason, 5 Copper, 1 Potion
+nidzela - total victory points: 0
+nidzela - turns: 13
+ 
+1st place: Titandrake
+2nd place: nidzela
+ 

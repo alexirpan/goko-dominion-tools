@@ -1,0 +1,413 @@
+------------ Game Setup ------------
+Supply cards: Hermit, Advisor, Island, Procession, Treasure Map, Band of Misfits, Butcher, Duke, Outpost, Rebuild, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+HiveMindEmulator - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HiveMindEmulator - shuffles deck
+Titandrake - shuffles deck
+HiveMindEmulator - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- HiveMindEmulator: turn 1 ----------
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- HiveMindEmulator: turn 2 ----------
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Hermit
+HiveMindEmulator - gains Hermit
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper, Copper, Copper, Estate, Hermit
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- HiveMindEmulator: turn 3 ----------
+HiveMindEmulator - plays Hermit
+HiveMindEmulator - trashes Estate
+HiveMindEmulator - gains Silver
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Hermit, Copper, Copper, Silver
+ 
+---------- HiveMindEmulator: turn 4 ----------
+HiveMindEmulator - plays 4 Copper, 1 Silver
+HiveMindEmulator - buys Butcher
+HiveMindEmulator - gains Butcher
+HiveMindEmulator - draws Estate, Estate
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper, Silver, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- HiveMindEmulator: turn 5 ----------
+HiveMindEmulator - plays 2 Silver, 1 Copper
+HiveMindEmulator - buys Butcher
+HiveMindEmulator - gains Butcher
+HiveMindEmulator - draws Butcher, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Silver, Estate, Copper, Silver
+ 
+---------- HiveMindEmulator: turn 6 ----------
+HiveMindEmulator - plays Butcher
+HiveMindEmulator - receives 2 coin tokens
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - uses 1 coin token
+HiveMindEmulator - buys Rebuild
+HiveMindEmulator - gains Rebuild
+HiveMindEmulator - draws Copper, Silver, Hermit, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Copper, Silver, Hermit, Estate, Copper
+ 
+---------- HiveMindEmulator: turn 7 ----------
+HiveMindEmulator - plays Hermit
+HiveMindEmulator - gains Silver
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - uses 1 coin token
+HiveMindEmulator - buys Duchy
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver, Hermit, Silver
+ 
+---------- HiveMindEmulator: turn 8 ----------
+HiveMindEmulator - plays 3 Copper, 1 Silver
+HiveMindEmulator - buys Duchy
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - draws Butcher, Copper, Butcher, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Copper, Copper, Estate, Estate
+ 
+---------- HiveMindEmulator: turn 9 ----------
+HiveMindEmulator - plays Butcher
+HiveMindEmulator - receives 2 coin tokens
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - uses 1 coin token
+HiveMindEmulator - buys Duchy
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - draws Rebuild
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate, Silver, Duchy, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Silver, Silver, Copper, Silver, Copper
+ 
+---------- HiveMindEmulator: turn 10 ----------
+HiveMindEmulator - plays Rebuild
+HiveMindEmulator - names Duchy
+HiveMindEmulator - reveals Duchy, Copper, Copper, Estate
+HiveMindEmulator - discards: Duchy, Copper, Copper
+HiveMindEmulator - trashes Estate
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - plays 2 Silver
+HiveMindEmulator - uses 1 coin token
+HiveMindEmulator - buys Duchy
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - draws Silver, Hermit, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Rebuild, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Island
+ 
+---------- HiveMindEmulator: turn 11 ----------
+HiveMindEmulator - plays Hermit
+HiveMindEmulator - gains Silver
+HiveMindEmulator - plays 2 Silver, 2 Copper
+HiveMindEmulator - buys Duchy
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - draws Copper, Butcher, Copper, Duchy, Butcher
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - draws Copper, Duchy, Copper, Copper, Province
+ 
+---------- HiveMindEmulator: turn 12 ----------
+HiveMindEmulator - plays Butcher
+HiveMindEmulator - receives 2 coin tokens
+HiveMindEmulator - trashes Butcher
+HiveMindEmulator - gains Duke
+HiveMindEmulator - plays 2 Copper
+HiveMindEmulator - buys Estate
+HiveMindEmulator - gains Estate
+HiveMindEmulator - draws Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Butcher, Silver, Silver, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Silver, Hermit, Silver
+ 
+---------- HiveMindEmulator: turn 13 ----------
+HiveMindEmulator - plays Butcher
+HiveMindEmulator - receives 2 coin tokens
+HiveMindEmulator - trashes Estate
+HiveMindEmulator - uses 1 coin token
+HiveMindEmulator - uses 1 coin token
+HiveMindEmulator - uses 1 coin token
+HiveMindEmulator - gains Duke
+HiveMindEmulator - plays 2 Silver, 1 Copper
+HiveMindEmulator - buys Duke
+HiveMindEmulator - gains Duke
+HiveMindEmulator - draws Copper, Copper, Copper, Silver, Duchy
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Silver, Copper, Estate, Silver, Silver
+ 
+---------- HiveMindEmulator: turn 14 ----------
+HiveMindEmulator - plays 3 Copper, 1 Silver
+HiveMindEmulator - buys Duke
+HiveMindEmulator - gains Duke
+HiveMindEmulator - draws Duke, Duchy, Copper, Hermit, Duchy
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver
+ 
+---------- HiveMindEmulator: turn 15 ----------
+HiveMindEmulator - plays Hermit
+HiveMindEmulator - gains Hermit
+HiveMindEmulator - trashes Hermit
+HiveMindEmulator - gains Madman
+HiveMindEmulator - draws Duchy, Copper, Duchy, Duchy, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Silver, Copper, Silver, Copper
+ 
+---------- HiveMindEmulator: turn 16 ----------
+HiveMindEmulator - draws Estate, Silver, Rebuild, Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Duchy
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Hermit, Province, Rebuild, Copper, Estate
+ 
+---------- HiveMindEmulator: turn 17 ----------
+HiveMindEmulator - plays Rebuild
+HiveMindEmulator - names Duchy
+HiveMindEmulator - reveals Duke
+HiveMindEmulator - trashes Duke
+HiveMindEmulator - gains Province
+HiveMindEmulator - plays 2 Silver
+HiveMindEmulator - uses 1 coin token
+HiveMindEmulator - buys Duke
+HiveMindEmulator - gains Duke
+HiveMindEmulator - draws Duke, Silver, Copper, Copper, Butcher
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Copper, Duchy
+Titandrake - discards Copper
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Estate, Silver, Copper, Duchy, Copper
+ 
+---------- HiveMindEmulator: turn 18 ----------
+HiveMindEmulator - plays Butcher
+HiveMindEmulator - receives 2 coin tokens
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - uses 1 coin token
+HiveMindEmulator - buys Duke
+HiveMindEmulator - gains Duke
+HiveMindEmulator - draws Copper, Duchy, Copper, Hermit, Duchy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Gold, Silver, Rebuild
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province
+ 
+---------- HiveMindEmulator: turn 19 ----------
+HiveMindEmulator - plays Hermit
+HiveMindEmulator - gains Hermit
+HiveMindEmulator - trashes Hermit
+HiveMindEmulator - gains Madman
+HiveMindEmulator - draws Copper, Duke, Duchy, Madman, Duchy
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Province, Silver, Silver, Copper, Copper, Silver, Estate
+Titandrake - discards: Province, Silver, Silver, Copper, Copper, Silver
+Titandrake - trashes Estate
+Titandrake - gains Duke
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Silver, Silver, Copper, Duchy, Silver
+ 
+---------- HiveMindEmulator: turn 20 ----------
+HiveMindEmulator - plays Madman
+HiveMindEmulator - draws Copper, Copper, Silver, Duchy
+HiveMindEmulator - plays 3 Copper, 1 Silver
+HiveMindEmulator - buys Island
+HiveMindEmulator - gains Island
+HiveMindEmulator - draws Silver, Duke
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Duchy, Estate, Duchy
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Copper, Rebuild, Province, Estate, Madman
+ 
+---------- HiveMindEmulator: turn 21 ----------
+HiveMindEmulator - plays 1 Silver
+HiveMindEmulator - buys Estate
+HiveMindEmulator - gains Estate
+HiveMindEmulator - draws Duke, Duke, Duke, Copper, Duchy
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Copper, Hermit, Island
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Province, Silver, Copper, Duke
+Titandrake - discards: Province, Silver, Copper
+Titandrake - trashes Duke
+Titandrake - gains Province
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays Island
+Titandrake - sets aside Province
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Duke, Copper, Province, Silver, Silver
+ 
+---------- HiveMindEmulator: turn 22 ----------
+HiveMindEmulator - buys Copper
+HiveMindEmulator - gains Copper
+HiveMindEmulator - draws Rebuild, Duke, Duchy, Copper, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Silver, Copper, Silver, Silver, Gold
+ 
+---------- HiveMindEmulator: turn 23 ----------
+HiveMindEmulator - plays Rebuild
+HiveMindEmulator - names Duchy
+HiveMindEmulator - reveals Island
+HiveMindEmulator - trashes Island
+HiveMindEmulator - gains Island
+HiveMindEmulator - plays 2 Copper
+HiveMindEmulator - buys Estate
+HiveMindEmulator - gains Estate
+HiveMindEmulator - draws Silver, Madman, Copper, Duchy, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 3 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Silver, Island, Province, Silver
+ 
+---------- HiveMindEmulator: turn 24 ----------
+HiveMindEmulator - plays Madman
+HiveMindEmulator - draws Copper, Silver, Silver, Duchy
+HiveMindEmulator - plays 3 Silver, 3 Copper
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - draws Hermit, Butcher, Province, Silver, Copper
+ 
+------------ Game Over ------------
+HiveMindEmulator - cards: 1 Island, 1 Hermit, 1 Butcher, 1 Rebuild, 8 Copper, 5 Silver, 6 Duchy, 5 Duke, 3 Estate, 2 Province
+HiveMindEmulator - total victory points: 65
+HiveMindEmulator - turns: 24
+ 
+Titandrake - cards: 4 Island, 2 Rebuild, 1 Hermit, 9 Silver, 7 Copper, 1 Gold, 6 Province, 4 Estate, 1 Duke, 1 Duchy
+Titandrake - total victory points: 52
+Titandrake - turns: 23
+ 
+1st place: HiveMindEmulator
+2nd place: Titandrake
+ 

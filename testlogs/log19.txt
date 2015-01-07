@@ -1,0 +1,649 @@
+------------ Game Setup ------------
+Supply cards: Secret Chamber, Stonemason, Chancellor, Wishing Well, Marauder, Moneylender, Monument, Nomad Camp, Worker's Village, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Moneylender
+SM.SM - gains Moneylender
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Moneylender, Silver
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays Silver
+SM.SM - plays Copper
+SM.SM - buys Stonemason
+SM.SM - overpays for Stonemason with 4 coins
+SM.SM - gains Marauder
+SM.SM - gains Worker's Village
+SM.SM - gains Stonemason
+SM.SM - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - draws Moneylender, Copper, Estate, Copper, Estate
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Wishing Well
+SM.SM - gains Wishing Well
+SM.SM - draws Copper, Estate
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Wishing Well, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Moneylender, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Wishing Well
+SM.SM - gains Wishing Well
+SM.SM - draws Silver, Marauder, Estate, Moneylender, Stonemason
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Estate
+Titandrake - names Copper
+Titandrake - reveals Marauder
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - draws Marauder, Estate, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Marauder
+SM.SM - gains Spoils
+Titandrake - gains Survivors
+SM.SM - plays 1 Silver
+SM.SM - draws Copper, Wishing Well, Copper, Worker's Village, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+SM.SM - gains Ruined Library
+Titandrake - plays 3 Copper
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Worker's Village, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Spoils, Moneylender
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Wishing Well
+SM.SM - shuffles deck
+SM.SM - draws Marauder
+SM.SM - names Copper
+SM.SM - reveals Estate
+SM.SM - plays Worker's Village
+SM.SM - draws Estate
+SM.SM - plays Marauder
+SM.SM - gains Spoils
+Titandrake - gains Ruined Market
+SM.SM - plays 3 Copper
+SM.SM - buys Wishing Well
+SM.SM - gains Wishing Well
+SM.SM - draws Wishing Well, Spoils, Copper, Ruined Library, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Spoils
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Wishing Well, Estate, Estate, Marauder, Survivors
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Wishing Well
+SM.SM - draws Stonemason
+SM.SM - names Copper
+SM.SM - reveals Moneylender
+SM.SM - plays Stonemason
+SM.SM - trashes Ruined Library
+SM.SM - plays 1 Copper, 1 Silver
+SM.SM - plays Spoils
+SM.SM - buys Stonemason
+SM.SM - overpays for Stonemason with 4 coins
+SM.SM - gains Worker's Village
+SM.SM - gains Monument
+SM.SM - gains Stonemason
+SM.SM - draws Moneylender, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+SM.SM - gains Ruined Market
+Titandrake - draws Copper, Monument, Wishing Well
+Titandrake - shuffles deck
+Titandrake - draws Spoils, Grand Market
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays 1 Copper
+SM.SM - buys Worker's Village
+SM.SM - gains Worker's Village
+SM.SM - shuffles deck
+SM.SM - draws Moneylender, Stonemason, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Survivors
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Worker's Village
+Titandrake - reveals Copper
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Spoils
+Titandrake - plays Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 6 coins
+Titandrake - gains Grand Market
+Titandrake - gains Grand Market
+Titandrake - gains Stonemason
+Titandrake - draws Copper, Estate, Worker's Village, Marauder, Copper
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - buys Wishing Well
+SM.SM - gains Wishing Well
+SM.SM - draws Estate, Marauder, Stonemason, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Moneylender
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+SM.SM - gains Survivors
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Estate, Ruined Market, Wishing Well, Estate
+Titandrake - shuffles deck
+Titandrake - draws Marauder
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Marauder
+SM.SM - gains Spoils
+Titandrake - gains Ruined Village
+SM.SM - plays 1 Copper, 1 Silver
+SM.SM - buys Wishing Well
+SM.SM - gains Wishing Well
+SM.SM - draws Copper, Wishing Well, Wishing Well, Wishing Well, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Worker's Village
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+SM.SM - gains Survivors
+Titandrake - draws Copper, Spoils, Survivors, Monument, Worker's Village
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Wishing Well
+SM.SM - draws Spoils
+SM.SM - names Wishing Well
+SM.SM - reveals Copper
+SM.SM - plays Wishing Well
+SM.SM - draws Copper
+SM.SM - names Wishing Well
+SM.SM - reveals Worker's Village
+SM.SM - plays Wishing Well
+SM.SM - draws Worker's Village
+SM.SM - names Wishing Well
+SM.SM - reveals Monument
+SM.SM - plays Worker's Village
+SM.SM - draws Monument
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 3 Copper
+SM.SM - plays Spoils
+SM.SM - buys Stonemason
+SM.SM - overpays for Stonemason with 6 coins
+SM.SM - gains Grand Market
+SM.SM - gains Grand Market
+SM.SM - gains Stonemason
+SM.SM - draws Ruined Market, Worker's Village, Worker's Village
+SM.SM - shuffles deck
+SM.SM - draws Stonemason, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Wishing Well
+Titandrake - plays Survivors
+Titandrake - looks at Grand Market, Moneylender
+Titandrake - places Moneylender on top of deck
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Wishing Well
+Titandrake - draws Grand Market
+Titandrake - names Moneylender
+Titandrake - reveals Moneylender
+Titandrake - places Moneylender in hand
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Spoils
+Titandrake - plays Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 6 coins
+Titandrake - gains Grand Market
+Titandrake - gains Grand Market
+Titandrake - gains Stonemason
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Stonemason, Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Wishing Well, Stonemason, Worker's Village
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Worker's Village
+SM.SM - draws Wishing Well
+SM.SM - plays Wishing Well
+SM.SM - draws Estate
+SM.SM - names Wishing Well
+SM.SM - reveals Moneylender
+SM.SM - plays Worker's Village
+SM.SM - draws Moneylender
+SM.SM - plays Stonemason
+SM.SM - trashes Ruined Market
+SM.SM - draws Wishing Well, Spoils, Copper, Estate, Marauder
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Survivors
+Titandrake - plays Worker's Village
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Ruined Village
+Titandrake - plays Survivors
+Titandrake - looks at Spoils, Estate
+Titandrake - discards: Spoils, Estate
+Titandrake - plays Wishing Well
+Titandrake - draws Grand Market
+Titandrake - names Grand Market
+Titandrake - reveals Wishing Well
+Titandrake - plays Grand Market
+Titandrake - draws Wishing Well
+Titandrake - plays Wishing Well
+Titandrake - draws Estate
+Titandrake - names Grand Market
+Titandrake - reveals Estate
+Titandrake - plays Stonemason
+Titandrake - trashes Ruined Village
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Estate, Copper, Copper, Ruined Market, Monument
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Wishing Well
+SM.SM - draws Survivors
+SM.SM - names Wishing Well
+SM.SM - reveals Copper
+SM.SM - plays Marauder
+SM.SM - gains Spoils
+Titandrake - gains Survivors
+SM.SM - plays 1 Copper
+SM.SM - plays Spoils
+SM.SM - buys Monument
+SM.SM - gains Monument
+SM.SM - draws Copper, Wishing Well, Copper, Stonemason, Stonemason
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - draws Moneylender, Grand Market, Wishing Well, Worker's Village, Marauder
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Wishing Well
+SM.SM - draws Monument
+SM.SM - names Wishing Well
+SM.SM - reveals Copper
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 2 Copper
+SM.SM - buys Worker's Village
+SM.SM - gains Worker's Village
+SM.SM - draws Copper, Wishing Well, Survivors, Grand Market, Grand Market
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Stonemason
+Titandrake - plays Worker's Village
+Titandrake - draws Survivors
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Grand Market
+Titandrake - reveals Estate
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+SM.SM - gains Ruined Village
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Estate, Grand Market, Grand Market, Wishing Well
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Wishing Well
+SM.SM - draws Estate
+SM.SM - names Wishing Well
+SM.SM - reveals Worker's Village
+SM.SM - plays Grand Market
+SM.SM - draws Worker's Village
+SM.SM - plays Worker's Village
+SM.SM - draws Wishing Well
+SM.SM - plays Survivors
+SM.SM - shuffles deck
+SM.SM - looks at Ruined Village, Copper
+SM.SM - discards: Ruined Village, Copper
+SM.SM - plays Grand Market
+SM.SM - draws Wishing Well
+SM.SM - plays Wishing Well
+SM.SM - draws Worker's Village
+SM.SM - names Wishing Well
+SM.SM - reveals Moneylender
+SM.SM - plays Wishing Well
+SM.SM - draws Moneylender
+SM.SM - names Wishing Well
+SM.SM - reveals Monument
+SM.SM - plays Worker's Village
+SM.SM - draws Monument
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Estate, Estate, Survivors, Wishing Well, Spoils
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Survivors
+Titandrake - plays Grand Market
+Titandrake - draws Stonemason
+Titandrake - plays Wishing Well
+Titandrake - draws Wishing Well
+Titandrake - names Worker's Village
+Titandrake - reveals Copper
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Grand Market
+Titandrake - reveals Worker's Village
+Titandrake - plays Stonemason
+Titandrake - trashes Survivors
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Worker's Village, Spoils, Estate, Grand Market, Monument
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Wishing Well
+SM.SM - draws Silver
+SM.SM - names Wishing Well
+SM.SM - reveals Copper
+SM.SM - plays Survivors
+SM.SM - looks at Copper, Wishing Well
+SM.SM - discards: Copper, Wishing Well
+SM.SM - plays 1 Silver
+SM.SM - plays Spoils
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Copper, Stonemason, Worker's Village, Worker's Village, Stonemason
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Monument
+Titandrake - plays Grand Market
+Titandrake - draws Ruined Market
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Ruined Market, Worker's Village, Copper, Spoils, Moneylender
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Worker's Village
+SM.SM - draws Monument
+SM.SM - plays Worker's Village
+SM.SM - draws Marauder
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays Marauder
+SM.SM - gains Spoils
+Titandrake - gains Ruined Village
+SM.SM - plays Stonemason
+SM.SM - trashes Copper
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Stonemason
+SM.SM - shuffles deck
+SM.SM - draws Estate, Estate, Monument, Moneylender
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Estate
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Ruined Market
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Wishing Well, Monument, Grand Market, Marauder, Estate
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Stonemason, Ruined Village, Monument, Survivors, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Duchy
+Titandrake - plays Wishing Well
+Titandrake - draws Estate
+Titandrake - names Worker's Village
+Titandrake - reveals Wishing Well
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Wishing Well, Stonemason, Grand Market, Grand Market, Grand Market
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Grand Market, Marauder, Wishing Well, Worker's Village, Worker's Village
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Stonemason
+Titandrake - plays Stonemason
+Titandrake - trashes Grand Market
+Titandrake - gains Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Worker's Village, Monument, Survivors, Wishing Well, Province
+ 
+---------- SM.SM: turn 21 ----------
+SM.SM - plays Worker's Village
+SM.SM - draws Stonemason
+SM.SM - plays Worker's Village
+SM.SM - draws Spoils
+SM.SM - plays Wishing Well
+SM.SM - draws Province
+SM.SM - names Wishing Well
+SM.SM - reveals Survivors
+SM.SM - plays Grand Market
+SM.SM - draws Survivors
+SM.SM - plays Survivors
+SM.SM - looks at Wishing Well, Copper
+SM.SM - discards: Wishing Well, Copper
+SM.SM - plays Marauder
+SM.SM - gains Spoils
+SM.SM - plays Spoils
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Duchy, Grand Market, Worker's Village, Wishing Well, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Wishing Well
+Titandrake - plays Survivors
+Titandrake - looks at Grand Market, Estate
+Titandrake - places Estate on top of deck
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Wishing Well
+Titandrake - draws Grand Market
+Titandrake - names Estate
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays Grand Market
+Titandrake - draws Estate
+Titandrake - plays Wishing Well
+Titandrake - draws Province
+Titandrake - names Copper
+Titandrake - reveals Estate
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Estate, Marauder, Monument, Grand Market, Moneylender
+ 
+---------- SM.SM: turn 22 ----------
+SM.SM - plays Wishing Well
+SM.SM - draws Wishing Well
+SM.SM - names Wishing Well
+SM.SM - reveals Estate
+SM.SM - plays Worker's Village
+SM.SM - draws Estate
+SM.SM - plays Wishing Well
+SM.SM - draws Wishing Well
+SM.SM - names Wishing Well
+SM.SM - reveals Silver
+SM.SM - plays Wishing Well
+SM.SM - draws Silver
+SM.SM - names Wishing Well
+SM.SM - reveals Worker's Village
+SM.SM - plays Grand Market
+SM.SM - draws Worker's Village
+SM.SM - plays Worker's Village
+SM.SM - shuffles deck
+SM.SM - draws Worker's Village
+SM.SM - plays Worker's Village
+SM.SM - draws Moneylender
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays 1 Silver
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - buys Secret Chamber
+SM.SM - gains Secret Chamber
+SM.SM - draws Duchy, Monument, Wishing Well, Stonemason, Wishing Well
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Ruined Market
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Duchy, Estate, Estate, Duchy, Stonemason
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Grand Market, 5 Wishing Well, 2 Stonemason, 2 Worker's Village, 2 Monument, 1 Survivors, 1 Marauder, 1 Moneylender, 1 Ruined Market, 1 Ruined Village, 8 Estate, 3 Duchy, 2 Province
+Titandrake - victory point chips: 7
+Titandrake - total victory points: 36
+Titandrake - turns: 22
+ 
+SM.SM - cards: 5 Wishing Well, 4 Worker's Village, 3 Stonemason, 2 Monument, 2 Grand Market, 2 Survivors, 1 Secret Chamber, 1 Moneylender, 1 Marauder, 1 Ruined Village, 1 Silver, 1 Spoils, 1 Copper, 6 Estate, 3 Duchy, 1 Province
+SM.SM - victory point chips: 6
+SM.SM - total victory points: 27
+SM.SM - turns: 22
+ 
+1st place: Titandrake
+2nd place: SM.SM
+ 

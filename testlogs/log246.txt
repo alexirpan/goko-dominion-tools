@@ -1,0 +1,485 @@
+------------ Game Setup ------------
+Supply cards: Baron, Bureaucrat, Monument, Quarry, Rats, Smithy, Golem, Mine, Witch, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+HarryPeteur - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HarryPeteur - shuffles deck
+Titandrake - shuffles deck
+HarryPeteur - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- HarryPeteur: turn 1 ----------
+HarryPeteur - plays 3 Copper
+HarryPeteur - buys Silver
+HarryPeteur - gains Silver
+HarryPeteur - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- HarryPeteur: turn 2 ----------
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Quarry
+HarryPeteur - gains Quarry
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate, Copper, Estate
+ 
+---------- HarryPeteur: turn 3 ----------
+HarryPeteur - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- HarryPeteur: turn 4 ----------
+HarryPeteur - plays 4 Copper, 1 Silver
+HarryPeteur - buys Gold
+HarryPeteur - gains Gold
+HarryPeteur - draws Quarry, Copper
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Monument, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Copper
+ 
+---------- HarryPeteur: turn 5 ----------
+HarryPeteur - plays 3 Copper
+HarryPeteur - plays Quarry
+HarryPeteur - buys Potion
+HarryPeteur - gains Potion
+HarryPeteur - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- HarryPeteur: turn 6 ----------
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Silver
+HarryPeteur - gains Silver
+HarryPeteur - draws Estate, Silver, Gold
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Potion
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Estate, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- HarryPeteur: turn 7 ----------
+HarryPeteur - plays 1 Silver, 1 Gold, 1 Copper, 1 Potion
+HarryPeteur - buys Witch
+HarryPeteur - gains Witch
+HarryPeteur - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Estate, Witch, Monument
+ 
+---------- HarryPeteur: turn 8 ----------
+HarryPeteur - plays 3 Copper
+HarryPeteur - buys Silver
+HarryPeteur - gains Silver
+HarryPeteur - draws Silver, Quarry, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Witch
+Titandrake - draws Witch, Copper
+HarryPeteur - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- HarryPeteur: turn 9 ----------
+HarryPeteur - plays 3 Copper, 1 Silver
+HarryPeteur - plays Quarry
+HarryPeteur - buys King's Court
+HarryPeteur - gains King's Court
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Copper, King's Court, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Estate, Silver, Silver, Copper
+ 
+---------- HarryPeteur: turn 10 ----------
+HarryPeteur - plays 4 Copper
+HarryPeteur - buys Baron
+HarryPeteur - gains Baron
+HarryPeteur - draws Silver, Estate, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Copper, Witch, Copper
+ 
+---------- HarryPeteur: turn 11 ----------
+HarryPeteur - plays 2 Silver, 1 Copper
+HarryPeteur - buys Witch
+HarryPeteur - gains Witch
+HarryPeteur - draws Curse, Quarry, Gold, Silver, Potion
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Witch
+Titandrake - draws Estate, Monument
+HarryPeteur - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Witch
+Titandrake - shuffles deck
+Titandrake - draws Silver, Gold, Copper, Witch
+ 
+---------- HarryPeteur: turn 12 ----------
+HarryPeteur - plays 1 Gold, 1 Silver, 1 Potion
+HarryPeteur - buys Golem
+HarryPeteur - gains Golem
+HarryPeteur - draws Witch, Copper, Copper, Estate
+HarryPeteur - shuffles deck
+HarryPeteur - draws Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Silver
+HarryPeteur - gains Curse
+Titandrake - plays 3 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Monument, Copper, Copper, Copper, Estate
+ 
+---------- HarryPeteur: turn 13 ----------
+HarryPeteur - plays Witch
+HarryPeteur - draws King's Court, Baron
+Titandrake - gains Curse
+HarryPeteur - plays 2 Copper, 1 Silver
+HarryPeteur - buys Silver
+HarryPeteur - gains Silver
+HarryPeteur - draws Gold, Silver, Curse, Potion, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Province, Silver, Copper
+ 
+---------- HarryPeteur: turn 14 ----------
+HarryPeteur - plays 1 Gold, 1 Silver, 1 Potion, 1 Copper
+HarryPeteur - buys Golem
+HarryPeteur - gains Golem
+HarryPeteur - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- HarryPeteur: turn 15 ----------
+HarryPeteur - plays 3 Copper, 1 Silver
+HarryPeteur - buys Witch
+HarryPeteur - gains Witch
+HarryPeteur - draws Quarry, Witch, Golem, Copper, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - draws Copper, Witch, Monument, Silver, Copper
+ 
+---------- HarryPeteur: turn 16 ----------
+HarryPeteur - plays Golem
+HarryPeteur - shuffles deck
+HarryPeteur - reveals Curse, Copper, Silver, Copper, Witch, Silver, Curse, Gold, Copper, Curse, Witch
+HarryPeteur - discards: Curse, Copper, Silver, Copper, Silver, Curse, Gold, Copper, Curse
+HarryPeteur - plays Witch
+HarryPeteur - draws Potion, Baron
+Titandrake - gains Curse
+HarryPeteur - plays Witch
+HarryPeteur - draws Copper, Silver
+Titandrake - gains Curse
+HarryPeteur - plays 2 Copper, 1 Potion, 1 Silver
+HarryPeteur - buys Golem
+HarryPeteur - gains Golem
+HarryPeteur - draws Estate, King's Court, Golem, Copper, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Witch
+Titandrake - draws Gold, Silver
+HarryPeteur - gains Curse
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Copper, Gold, Silver, Witch
+ 
+---------- HarryPeteur: turn 17 ----------
+HarryPeteur - plays King's Court
+HarryPeteur - plays Golem
+HarryPeteur - shuffles deck
+HarryPeteur - reveals Estate, Copper, Witch, Copper, Golem, Estate, Silver, Copper, Curse, Curse, Curse, Copper, Baron
+HarryPeteur - discards: Estate, Copper, Copper, Golem, Estate, Silver, Copper, Curse, Curse, Curse, Copper
+HarryPeteur - plays Baron
+HarryPeteur - discards Estate
+HarryPeteur - plays Witch
+HarryPeteur - draws Witch, Gold
+Titandrake - gains Curse
+HarryPeteur - plays Golem
+HarryPeteur - shuffles deck
+HarryPeteur - reveals Copper, Silver, Witch, Potion, Quarry, Curse, Copper, Silver, Golem, Curse, Curse, Copper, Estate, Golem, Copper, Silver, Copper, Copper, Estate, Estate, Curse
+HarryPeteur - discards: Copper, Silver, Potion, Quarry, Curse, Copper, Silver, Golem, Curse, Curse, Copper, Estate, Golem, Copper, Silver, Copper, Copper, Estate, Estate, Curse
+HarryPeteur - plays Witch
+HarryPeteur - shuffles deck
+HarryPeteur - draws Copper, Silver
+Titandrake - gains Curse
+HarryPeteur - plays Golem
+HarryPeteur - reveals Copper, Potion, Golem, Curse, Copper, Estate, Estate, Curse, Silver, Copper, Curse, Silver, Quarry, Golem, Copper, Copper, Estate, Curse
+HarryPeteur - discards: Copper, Potion, Golem, Curse, Copper, Estate, Estate, Curse, Silver, Copper, Curse, Silver, Quarry, Golem, Copper, Copper, Estate, Curse
+HarryPeteur - plays 2 Copper, 2 Silver, 1 Gold
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - buys Duchy
+HarryPeteur - gains Duchy
+HarryPeteur - shuffles deck
+HarryPeteur - draws Golem, Silver, Quarry, Golem, Witch
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Silver
+HarryPeteur - gains Curse
+Titandrake - plays 3 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Silver, Copper, Province, Copper
+ 
+---------- HarryPeteur: turn 18 ----------
+HarryPeteur - plays Golem
+HarryPeteur - reveals Copper, Copper, Curse, Curse, Baron, Copper, Province, Gold, Copper, Silver, Silver, Estate, Golem, Potion, Witch
+HarryPeteur - discards: Copper, Copper, Curse, Curse, Copper, Province, Gold, Copper, Silver, Silver, Estate, Golem, Potion
+HarryPeteur - plays Baron
+HarryPeteur - gains Estate
+HarryPeteur - plays Witch
+HarryPeteur - draws Silver, Copper
+HarryPeteur - plays 2 Silver, 1 Copper
+HarryPeteur - plays Quarry
+HarryPeteur - buys King's Court
+HarryPeteur - gains King's Court
+HarryPeteur - draws Duchy, Copper, Copper, Estate, Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Estate, Silver
+ 
+---------- HarryPeteur: turn 19 ----------
+HarryPeteur - draws Estate, King's Court, Curse, Witch
+HarryPeteur - shuffles deck
+HarryPeteur - draws Golem
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Silver, Curse, Gold, Copper
+ 
+---------- HarryPeteur: turn 20 ----------
+HarryPeteur - plays King's Court
+HarryPeteur - plays Golem
+HarryPeteur - reveals Province, Potion, Silver, Quarry, Silver, Witch, King's Court
+HarryPeteur - discards: Province, Potion, Silver, Quarry, Silver
+HarryPeteur - plays Witch
+HarryPeteur - draws Curse, Golem
+HarryPeteur - plays King's Court
+HarryPeteur - plays Witch
+HarryPeteur - draws Witch, Copper
+HarryPeteur - plays Witch
+HarryPeteur - draws Copper, Estate
+HarryPeteur - plays Witch
+HarryPeteur - draws Estate, Silver
+HarryPeteur - plays Golem
+HarryPeteur - shuffles deck
+HarryPeteur - reveals Silver, Copper, Golem, Copper, Duchy, Copper, Copper, Curse, Curse, Curse, Copper, Baron, Gold, Estate, Quarry, Silver, Silver, Potion, Province
+HarryPeteur - discards: Silver, Copper, Golem, Copper, Duchy, Copper, Copper, Curse, Curse, Curse, Copper, Gold, Estate, Quarry, Silver, Silver, Potion, Province
+HarryPeteur - plays Baron
+HarryPeteur - discards Estate
+HarryPeteur - plays Golem
+HarryPeteur - shuffles deck
+HarryPeteur - reveals Golem, Copper, Duchy, Silver, Copper, Copper, Estate, Curse, Copper, Curse, Silver, Quarry, Potion, Gold, Estate, Silver, Province, Curse, Copper
+HarryPeteur - discards: Golem, Copper, Duchy, Silver, Copper, Copper, Estate, Curse, Copper, Curse, Silver, Quarry, Potion, Gold, Estate, Silver, Province, Curse, Copper
+HarryPeteur - plays 2 Copper, 1 Silver
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - shuffles deck
+HarryPeteur - draws Curse, Copper, Estate, Curse, Witch
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Curse, Copper, Silver, Estate
+ 
+---------- HarryPeteur: turn 21 ----------
+HarryPeteur - plays Witch
+HarryPeteur - draws Copper, Potion
+HarryPeteur - plays 2 Copper, 1 Potion
+HarryPeteur - buys Estate
+HarryPeteur - gains Estate
+HarryPeteur - draws Curse, Silver, Quarry, Golem, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - draws Silver, Curse, Witch, Curse, Curse
+ 
+---------- HarryPeteur: turn 22 ----------
+HarryPeteur - plays Golem
+HarryPeteur - reveals Silver, Copper, Duchy, Golem, Copper, Witch, King's Court
+HarryPeteur - discards: Silver, Copper, Duchy, Golem, Copper
+HarryPeteur - plays Witch
+HarryPeteur - draws Copper, Baron
+HarryPeteur - plays King's Court
+HarryPeteur - plays Baron
+HarryPeteur - gains Estate
+HarryPeteur - plays Baron
+HarryPeteur - gains Estate
+HarryPeteur - plays Baron
+HarryPeteur - gains Estate
+HarryPeteur - plays 2 Silver, 1 Copper
+HarryPeteur - plays Quarry
+HarryPeteur - buys Duchy
+HarryPeteur - gains Duchy
+HarryPeteur - draws Witch, Province, Copper, King's Court, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Witch
+Titandrake - draws Province, Province
+Titandrake - plays 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Copper, Copper, Silver, Monument
+ 
+---------- HarryPeteur: turn 23 ----------
+HarryPeteur - plays King's Court
+HarryPeteur - plays Witch
+HarryPeteur - draws Silver, Estate
+HarryPeteur - plays Witch
+HarryPeteur - draws Curse, Copper
+HarryPeteur - plays Witch
+HarryPeteur - draws Curse, Estate
+HarryPeteur - plays 2 Copper, 1 Gold, 1 Silver
+HarryPeteur - buys Duchy
+HarryPeteur - gains Duchy
+HarryPeteur - draws Estate, Province, Golem
+HarryPeteur - shuffles deck
+HarryPeteur - draws Estate, Silver
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Witch, Copper, Copper, Silver
+ 
+---------- HarryPeteur: turn 24 ----------
+HarryPeteur - plays Golem
+HarryPeteur - reveals Province, Witch, Silver, Copper, Silver, Estate, King's Court
+HarryPeteur - discards: Province, Silver, Copper, Silver, Estate
+HarryPeteur - plays Witch
+HarryPeteur - draws Golem, Silver
+HarryPeteur - plays King's Court
+HarryPeteur - plays Golem
+HarryPeteur - reveals Copper, Estate, Gold, Witch, Curse, King's Court
+HarryPeteur - discards: Copper, Estate, Gold, Curse
+HarryPeteur - plays King's Court
+HarryPeteur - plays Witch
+HarryPeteur - draws Witch, Curse
+HarryPeteur - plays Golem
+HarryPeteur - shuffles deck
+HarryPeteur - reveals Duchy, Curse, Curse, Copper, Estate, Curse, Copper, Golem, Copper, Estate, Estate, Quarry, Copper, Copper, Duchy, Potion, Baron, Estate, Duchy, Copper, Curse, Copper, Silver, Province, Estate, Gold, Estate, Silver
+HarryPeteur - discards: Duchy, Curse, Curse, Copper, Estate, Curse, Copper, Golem, Copper, Estate, Estate, Quarry, Copper, Copper, Duchy, Potion, Estate, Duchy, Copper, Curse, Copper, Silver, Province, Estate, Gold, Estate, Silver
+HarryPeteur - plays Baron
+HarryPeteur - discards Estate
+HarryPeteur - plays Golem
+HarryPeteur - shuffles deck
+HarryPeteur - reveals Golem, Copper, Duchy, Quarry, Estate, Province, Copper, Gold, Duchy, Silver, Copper, Curse, Copper, Estate, Copper, Estate, Curse, Estate, Estate, Copper, Curse, Silver, Duchy, Potion, Estate, Estate, Copper, Curse
+HarryPeteur - discards: Golem, Copper, Duchy, Quarry, Estate, Province, Copper, Gold, Duchy, Silver, Copper, Curse, Copper, Estate, Copper, Estate, Curse, Estate, Estate, Copper, Curse, Silver, Duchy, Potion, Estate, Estate, Copper, Curse
+HarryPeteur - plays 2 Silver
+HarryPeteur - buys Duchy
+HarryPeteur - gains Duchy
+HarryPeteur - buys Estate
+HarryPeteur - gains Estate
+HarryPeteur - shuffles deck
+HarryPeteur - draws Silver, Estate, Golem, Copper, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Witch
+Titandrake - shuffles deck
+Titandrake - draws Witch, Estate
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Gold, Monument, Province, Curse
+ 
+---------- HarryPeteur: turn 25 ----------
+HarryPeteur - plays Golem
+HarryPeteur - reveals King's Court, Estate, Witch
+HarryPeteur - discards Estate
+HarryPeteur - plays King's Court
+HarryPeteur - plays Witch
+HarryPeteur - draws Silver, Quarry
+HarryPeteur - plays 3 Silver, 1 Copper
+HarryPeteur - plays Quarry
+HarryPeteur - buys Province
+HarryPeteur - gains Province
+HarryPeteur - draws Curse, Gold, Witch, Curse, Potion
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Monument, 2 Witch, 7 Copper, 7 Silver, 3 Gold, 5 Province, 4 Estate, 3 Duchy, 5 Curse
+Titandrake - victory point chips: 3
+Titandrake - total victory points: 41
+Titandrake - turns: 24
+ 
+HarryPeteur - cards: 3 Witch, 3 Golem, 2 King's Court, 1 Baron, 7 Copper, 4 Silver, 1 Gold, 1 Potion, 1 Quarry, 9 Estate, 4 Duchy, 3 Province, 5 Curse
+HarryPeteur - victory point chips: 0
+HarryPeteur - total victory points: 34
+HarryPeteur - turns: 25
+ 
+1st place: Titandrake
+2nd place: HarryPeteur
+ 

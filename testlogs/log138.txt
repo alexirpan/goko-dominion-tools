@@ -1,0 +1,597 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Apothecary, University, Warehouse, Baron, Conspirator, Feast, Inn, Trading Post, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Temron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 3 Copper
+Temron - buys Warehouse
+Temron - gains Warehouse
+Temron - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 4 Copper
+Temron - buys Feast
+Temron - gains Feast
+Temron - shuffles deck
+Temron - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Trading Post, Copper, Copper, Copper, Copper
+ 
+---------- Temron: turn 3 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Warehouse, Copper, Copper, Copper, Feast
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Warehouse, Trading Post, Estate
+ 
+---------- Temron: turn 4 ----------
+Temron - plays Feast
+Temron - trashes Feast
+Temron - gains Trading Post
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Copper, Estate
+Temron - shuffles deck
+Temron - draws Warehouse, Estate, Trading Post
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Silver, Potion
+Titandrake - discards Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Estate
+Titandrake - gains Silver
+Titandrake - plays 1 Potion, 1 Silver
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Temron: turn 5 ----------
+Temron - plays Warehouse
+Temron - draws Copper, Copper, Copper
+Temron - discards Copper
+Temron - discards Copper
+Temron - discards Copper
+Temron - plays Trading Post
+Temron - trashes Estate, Estate
+Temron - gains Silver
+Temron - plays 1 Copper, 1 Silver
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Silver, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws University, Copper, Warehouse, Trading Post, Silver
+ 
+---------- Temron: turn 6 ----------
+Temron - plays 3 Copper, 2 Silver
+Temron - buys Inn
+Temron - gains Inn
+Temron - places Trading Post, Inn, Warehouse on top of deck
+Temron - shuffles deck
+Temron - draws Warehouse, Trading Post, Inn, Estate
+Temron - shuffles deck
+Temron - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays University
+Titandrake - gains Conspirator
+Titandrake - plays Warehouse
+Titandrake - draws Potion, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - discards Copper
+Titandrake - plays Trading Post
+Titandrake - trashes Potion, Copper
+Titandrake - gains Silver
+Titandrake - draws Copper, Conspirator, Copper, Estate, Conspirator
+ 
+---------- Temron: turn 7 ----------
+Temron - plays Inn
+Temron - draws Copper, Copper
+Temron - discards Copper
+Temron - discards Copper
+Temron - plays Trading Post
+Temron - trashes Estate, Copper
+Temron - gains Silver
+Temron - plays Warehouse
+Temron - draws Copper, Copper, Silver
+Temron - discards Copper
+Temron - discards Copper
+Temron - discards Silver
+Temron - draws Copper, Silver, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Conspirator
+Titandrake - plays 2 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Silver
+ 
+---------- Temron: turn 8 ----------
+Temron - plays 3 Silver
+Temron - buys Grand Market
+Temron - gains Grand Market
+Temron - shuffles deck
+Temron - draws Silver, Copper, Trading Post, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Silver, Conspirator, University, Warehouse, Conspirator
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Trading Post
+Temron - trashes Copper, Copper
+Temron - gains Silver
+Temron - plays 2 Silver, 1 Copper
+Temron - buys Conspirator
+Temron - gains Conspirator
+Temron - draws Silver, Silver, Inn, Grand Market, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Warehouse, Trading Post
+Titandrake - discards Copper
+Titandrake - discards Trading Post
+Titandrake - discards Silver
+Titandrake - plays Conspirator
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, University, Copper
+ 
+---------- Temron: turn 10 ----------
+Temron - plays Grand Market
+Temron - draws Silver
+Temron - plays 4 Silver
+Temron - buys Grand Market
+Temron - gains Grand Market
+Temron - buys Conspirator
+Temron - gains Conspirator
+Temron - draws Warehouse, Copper, Copper, Copper
+Temron - shuffles deck
+Temron - draws Grand Market
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays University
+Titandrake - gains Conspirator
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Conspirator, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Trading Post, Conspirator, Warehouse, Copper, Copper
+ 
+---------- Temron: turn 11 ----------
+Temron - plays Grand Market
+Temron - draws Grand Market
+Temron - plays Grand Market
+Temron - draws Silver
+Temron - plays Warehouse
+Temron - draws Silver, Inn, Copper
+Temron - discards Copper
+Temron - discards Copper
+Temron - discards Copper
+Temron - plays Inn
+Temron - draws Silver, Silver
+Temron - discards Copper
+Temron - discards Silver
+Temron - plays 3 Silver
+Temron - buys Grand Market
+Temron - gains Grand Market
+Temron - buys Conspirator
+Temron - gains Conspirator
+Temron - draws Silver, Conspirator, Conspirator, Silver, Trading Post
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Warehouse, Conspirator, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Trading Post
+Titandrake - plays Warehouse
+Titandrake - draws Silver, Conspirator, Inn
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - discards Inn
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Conspirator
+Titandrake - draws Silver
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Copper, Silver, Inn, University, Copper
+ 
+---------- Temron: turn 12 ----------
+Temron - plays Conspirator
+Temron - plays 2 Silver
+Temron - buys Grand Market
+Temron - gains Grand Market
+Temron - shuffles deck
+Temron - draws Trading Post, Conspirator, Silver, Grand Market, Conspirator
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Inn
+Titandrake - draws Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays University
+Titandrake - gains Inn
+Titandrake - places Grand Market, Warehouse, Warehouse, Conspirator, Conspirator, Conspirator, Conspirator, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Trading Post, Conspirator, Conspirator, Warehouse, Conspirator
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Grand Market
+Temron - draws Conspirator
+Temron - plays Conspirator
+Temron - plays 1 Silver
+Temron - buys Grand Market
+Temron - gains Grand Market
+Temron - draws Warehouse, Copper, Grand Market, Silver, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Inn, Conspirator, Warehouse
+Titandrake - discards Warehouse
+Titandrake - discards Trading Post
+Titandrake - discards Conspirator
+Titandrake - plays Inn
+Titandrake - draws Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Warehouse
+Titandrake - discards Warehouse
+Titandrake - discards Conspirator
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Conspirator
+Titandrake - draws University
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Trading Post, Silver, Copper, Silver, Inn
+ 
+---------- Temron: turn 14 ----------
+Temron - plays Grand Market
+Temron - draws Silver
+Temron - plays Warehouse
+Temron - draws Silver, Silver, Grand Market
+Temron - discards Copper
+Temron - discards Silver
+Temron - discards Silver
+Temron - plays Grand Market
+Temron - draws Copper
+Temron - plays 3 Silver
+Temron - buys Grand Market
+Temron - gains Grand Market
+Temron - buys Warehouse
+Temron - gains Warehouse
+Temron - draws Inn, Copper, Copper, Grand Market
+Temron - shuffles deck
+Temron - draws Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Inn
+Titandrake - draws Copper, Silver
+Titandrake - discards Trading Post
+Titandrake - discards Copper
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Copper, Conspirator, Estate
+Titandrake - shuffles deck
+Titandrake - draws Warehouse, Trading Post
+ 
+---------- Temron: turn 15 ----------
+Temron - plays Grand Market
+Temron - draws Copper
+Temron - plays Inn
+Temron - draws Grand Market, Grand Market
+Temron - discards Copper
+Temron - discards Copper
+Temron - plays Grand Market
+Temron - draws Grand Market
+Temron - plays Grand Market
+Temron - draws Silver
+Temron - plays Grand Market
+Temron - draws Grand Market
+Temron - plays Grand Market
+Temron - draws Warehouse
+Temron - plays Warehouse
+Temron - draws Grand Market, Warehouse, Trading Post
+Temron - discards Copper
+Temron - discards Trading Post
+Temron - discards Warehouse
+Temron - plays Grand Market
+Temron - draws Silver
+Temron - plays 3 Silver
+Temron - buys Grand Market
+Temron - gains Grand Market
+Temron - buys Province
+Temron - gains Province
+Temron - buys Conspirator
+Temron - gains Conspirator
+Temron - draws Silver, Conspirator, Conspirator, Conspirator, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Warehouse, Silver
+Titandrake - discards Estate
+Titandrake - discards Trading Post
+Titandrake - discards Copper
+Titandrake - plays Warehouse
+Titandrake - draws Conspirator, Silver, Conspirator
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - plays Conspirator
+Titandrake - draws Grand Market
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Inn
+Titandrake - plays Grand Market
+Titandrake - draws University
+Titandrake - plays Inn
+Titandrake - draws Conspirator, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Conspirator
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Inn
+Titandrake - plays Inn
+Titandrake - draws Grand Market, Silver
+Titandrake - discards Silver
+Titandrake - discards University
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Warehouse, Conspirator, Trading Post, Copper, Copper
+ 
+---------- Temron: turn 16 ----------
+Temron - plays Conspirator
+Temron - plays 2 Silver
+Temron - buys Inn
+Temron - gains Inn
+Temron - places Trading Post, Warehouse, Grand Market, Conspirator, Grand Market, Inn, Grand Market, Grand Market, Grand Market, Grand Market, Warehouse, Grand Market, Inn on top of deck
+Temron - shuffles deck
+Temron - draws Warehouse, Silver, Warehouse, Grand Market, Grand Market
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Province, Copper, University
+Titandrake - discards Province
+Titandrake - discards Trading Post
+Titandrake - discards Copper
+Titandrake - plays University
+Titandrake - gains Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Silver, Grand Market, Copper, Silver, Conspirator
+ 
+---------- Temron: turn 17 ----------
+Temron - plays Grand Market
+Temron - draws Conspirator
+Temron - plays Grand Market
+Temron - draws Trading Post
+Temron - plays Conspirator
+Temron - draws Grand Market
+Temron - plays Grand Market
+Temron - draws Inn
+Temron - plays Warehouse
+Temron - draws Inn, Grand Market, Grand Market
+Temron - discards Silver
+Temron - discards Trading Post
+Temron - discards Inn
+Temron - plays Grand Market
+Temron - draws Copper
+Temron - plays Grand Market
+Temron - draws Grand Market
+Temron - plays Grand Market
+Temron - draws Grand Market
+Temron - plays Grand Market
+Temron - shuffles deck
+Temron - draws Copper
+Temron - plays Warehouse
+Temron - draws Silver, Trading Post, Silver
+Temron - discards Inn
+Temron - discards Silver
+Temron - discards Silver
+Temron - plays Trading Post
+Temron - trashes Copper, Copper
+Temron - gains Silver
+Temron - plays 1 Silver
+Temron - buys Province
+Temron - gains Province
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Silver, Silver, Inn, Silver, Conspirator
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Province
+Titandrake - plays Conspirator
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Conspirator, Grand Market, Inn, Silver
+ 
+---------- Temron: turn 18 ----------
+Temron - plays Inn
+Temron - draws Silver, Conspirator
+Temron - discards Silver
+Temron - discards Silver
+Temron - plays Conspirator
+Temron - plays Conspirator
+Temron - draws Conspirator
+Temron - plays Conspirator
+Temron - draws Province
+Temron - plays 2 Silver
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Copper, Copper
+Temron - shuffles deck
+Temron - draws Silver, Grand Market, Grand Market
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Warehouse
+Titandrake - plays Warehouse
+Titandrake - draws Inn
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Conspirator
+Titandrake - discards Estate
+Titandrake - discards Silver
+Titandrake - discards Inn
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays Inn
+Titandrake - draws Province, University
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays University
+Titandrake - gains Inn
+Titandrake - places Inn, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Conspirator, Copper, Province, Inn, Province
+ 
+---------- Temron: turn 19 ----------
+Temron - plays Grand Market
+Temron - draws Silver
+Temron - plays Grand Market
+Temron - draws Warehouse
+Temron - plays Warehouse
+Temron - draws Silver, Conspirator, Grand Market
+Temron - discards Copper
+Temron - discards Copper
+Temron - discards Silver
+Temron - plays Grand Market
+Temron - draws Silver
+Temron - plays Conspirator
+Temron - draws Silver
+Temron - plays 4 Silver
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Conspirator, Grand Market, Province, Silver, Conspirator
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Inn
+Titandrake - draws Warehouse, Conspirator
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays Warehouse
+Titandrake - draws Trading Post, Grand Market, Silver
+Titandrake - discards Copper
+Titandrake - discards Trading Post
+Titandrake - discards Silver
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Conspirator
+Titandrake - draws Silver
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Inn, Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province, Conspirator
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Conspirator, 3 Inn, 3 Grand Market, 2 Warehouse, 1 Crossroads, 1 University, 1 Trading Post, 4 Silver, 4 Copper, 6 Province, 2 Estate, 1 Duchy
+Titandrake - total victory points: 41
+Titandrake - turns: 20
+ 
+Temron - cards: 7 Grand Market, 4 Conspirator, 2 Warehouse, 2 Inn, 1 Trading Post, 7 Silver, 2 Copper, 6 Duchy, 2 Province
+Temron - total victory points: 30
+Temron - turns: 19
+ 
+1st place: Titandrake
+2nd place: Temron
+ 

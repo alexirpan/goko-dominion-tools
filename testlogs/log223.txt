@@ -1,0 +1,71 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Swindler, Woodcutter, Coppersmith, Quarry, Remodel, Scout, Journeyman, Torturer, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+scs - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+scs - shuffles deck
+Titandrake - shuffles deck
+scs - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- scs: turn 1 ----------
+scs - plays 4 Copper
+scs - buys Quarry
+scs - gains Quarry
+scs - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- scs: turn 2 ----------
+scs - plays 3 Copper
+scs - buys Swindler
+scs - gains Swindler
+scs - shuffles deck
+scs - draws Estate, Copper, Swindler, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - shuffles deck
+Titandrake - draws Swindler, Copper, Estate, Copper, Copper
+ 
+---------- scs: turn 3 ----------
+scs - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+scs - plays 3 Copper
+scs - buys Torturer
+scs - gains Torturer
+scs - draws Copper, Estate, Copper, Quarry, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Swindler
+scs - reveals Copper
+scs - trashes Copper
+scs - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Copper, Copper, Copper, Swindler, Estate
+ 
+---------- scs: turn 4 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Swindler, 1 Torturer, 6 Copper, 3 Estate, 1 Curse
+Titandrake - total victory points: 2
+Titandrake - turns: 3
+ 
+scs - resigned
+scs - cards: 1 Torturer, 1 Swindler, 6 Copper, 1 Quarry, 3 Estate, 1 Curse
+scs - total victory points: 2
+scs - turns: 3
+ 
+1st place: Titandrake
+2nd place: scs
+ 

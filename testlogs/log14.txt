@@ -1,0 +1,486 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Chancellor, Loan, Sage, Shanty Town, Tunnel, Scout, Market, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Chapel
+lightbulb - gains Chapel
+lightbulb - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Chapel, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Tunnel
+lightbulb - gains Tunnel
+lightbulb - shuffles deck
+lightbulb - draws Copper, Tunnel, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper
+Titandrake - plays Silver
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Cellar
+lightbulb - gains Cellar
+lightbulb - draws Copper, Copper, Chapel, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Chapel
+lightbulb - trashes Estate, Estate, Copper, Copper
+lightbulb - draws Estate, Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Silver, Chapel, Tunnel, Copper, Copper
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Tunnel
+lightbulb - gains Tunnel
+lightbulb - draws Tunnel, Copper, Chapel, Cellar
+lightbulb - shuffles deck
+lightbulb - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Silver
+Titandrake - draws Cellar
+Titandrake - shuffles deck
+Titandrake - draws Copper, Cellar, Copper, Chapel
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays Cellar
+lightbulb - discards Tunnel
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - draws Copper
+lightbulb - plays Chapel
+lightbulb - trashes Copper, Copper, Copper
+lightbulb - draws Copper, Estate, Tunnel, Copper
+lightbulb - shuffles deck
+lightbulb - draws Tunnel
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Chapel
+Titandrake - draws Estate, Estate, Estate
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - draws Tunnel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Tunnel, Cellar, Chapel, Estate
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays 2 Copper
+lightbulb - buys Cellar
+lightbulb - gains Cellar
+lightbulb - draws Cellar, Chapel, Gold
+lightbulb - shuffles deck
+lightbulb - draws Cellar, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Tunnel
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - draws Cellar, Estate, Copper
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - draws Estate
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Tunnel, Copper, Estate, Cellar, Chapel
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays Cellar
+lightbulb - discards Copper
+lightbulb - discards Chapel
+lightbulb - draws Tunnel, Tunnel
+lightbulb - plays Cellar
+lightbulb - discards Tunnel
+lightbulb - discards Tunnel
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - draws Estate, Copper
+lightbulb - plays 1 Gold, 1 Copper
+lightbulb - buys Scout
+lightbulb - gains Scout
+lightbulb - shuffles deck
+lightbulb - draws Tunnel, Copper, Tunnel, Cellar, Chapel
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Cellar
+Titandrake - discards Tunnel
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Chapel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - draws Gold, Cellar, Copper
+Titandrake - shuffles deck
+Titandrake - draws Tunnel
+Titandrake - plays Cellar
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Gold, Chapel, Estate
+Titandrake - shuffles deck
+Titandrake - draws Gold, Market
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays Cellar
+lightbulb - discards Tunnel
+lightbulb - discards Tunnel
+lightbulb - discards Chapel
+lightbulb - discards Copper
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - draws Estate, Gold, Gold, Gold
+lightbulb - plays 3 Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Copper, Cellar, Scout
+lightbulb - shuffles deck
+lightbulb - draws Estate, Cellar
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Cellar, Gold, Cellar, Copper, Tunnel
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Scout
+lightbulb - reveals: Gold, Province, Gold, Tunnel
+lightbulb - places cards in hand:  Province, Tunnel
+lightbulb - places Gold on top of deck
+lightbulb - places Gold on top of deck
+lightbulb - plays Cellar
+lightbulb - discards Estate
+lightbulb - discards Province
+lightbulb - discards Tunnel
+lightbulb - discards Copper
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - draws Gold, Gold, Chapel, Gold
+lightbulb - plays 3 Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Gold, Tunnel, Copper, Gold
+lightbulb - shuffles deck
+lightbulb - draws Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Tunnel
+Titandrake - discards Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Cellar, Gold, Gold
+Titandrake - plays Cellar
+Titandrake - discards Cellar
+Titandrake - draws Tunnel
+Titandrake - plays 2 Gold
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Market, Gold, Copper, Chapel, Market
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays 2 Gold, 1 Copper
+lightbulb - buys Market
+lightbulb - gains Market
+lightbulb - draws Gold, Province, Gold, Chapel, Cellar
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - plays 3 Gold
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - draws Gold, Cellar, Cellar, Cellar, Tunnel
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays Cellar
+lightbulb - discards Chapel
+lightbulb - discards Province
+lightbulb - draws Cellar, Copper
+lightbulb - plays Cellar
+lightbulb - discards Copper
+lightbulb - draws Province
+lightbulb - plays 2 Gold
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Scout, Tunnel, Gold, Gold
+lightbulb - shuffles deck
+lightbulb - draws Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Cellar
+Titandrake - discards Tunnel
+Titandrake - discards Cellar
+Titandrake - discards Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Cellar, Gold
+Titandrake - plays Cellar
+Titandrake - discards Cellar
+Titandrake - draws Gold
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Market, Market, Market, Gold, Gold
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Scout
+lightbulb - reveals: Gold, Chapel, Market, Province
+lightbulb - places cards in hand:  Province
+lightbulb - places Market on top of deck
+lightbulb - places Chapel on top of deck
+lightbulb - places Gold on top of deck
+lightbulb - plays 2 Gold, 1 Copper
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Gold, Chapel, Market, Tunnel, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Market
+Titandrake - draws Hunting Grounds
+Titandrake - plays Market
+Titandrake - draws Chapel
+Titandrake - plays Market
+Titandrake - draws Shanty Town
+Titandrake - plays Shanty Town
+Titandrake - reveals Gold, Gold, Hunting Grounds, Chapel
+Titandrake - plays Hunting Grounds
+Titandrake - draws Tunnel, Shanty Town
+Titandrake - shuffles deck
+Titandrake - draws Cellar, Province
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Tunnel
+Titandrake - discards Chapel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - draws Cellar, Gold, Gold
+Titandrake - plays Cellar
+Titandrake - plays Shanty Town
+Titandrake - reveals Gold, Gold, Gold, Gold
+Titandrake - draws Gold, Cellar
+Titandrake - plays 5 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - shuffles deck
+Titandrake - draws Gold, Cellar, Hunting Grounds, Tunnel, Gold
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Market
+lightbulb - draws Gold
+lightbulb - plays 2 Gold
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - buys Cellar
+lightbulb - gains Cellar
+lightbulb - draws Cellar, Duchy, Gold, Gold, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Cellar
+Titandrake - discards Tunnel
+Titandrake - discards Gold
+Titandrake - discards Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - draws Province, Chapel, Cellar
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Chapel
+Titandrake - draws Shanty Town, Hunting Grounds
+Titandrake - plays Shanty Town
+Titandrake - reveals Hunting Grounds, Hunting Grounds
+Titandrake - plays Hunting Grounds
+Titandrake - draws Market, Cellar, Gold, Province
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Gold
+Titandrake - discards Gold
+Titandrake - draws Gold, Shanty Town, Market
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays Shanty Town
+Titandrake - reveals Hunting Grounds, Gold, Gold
+Titandrake - plays Hunting Grounds
+Titandrake - draws Shanty Town, Market
+Titandrake - shuffles deck
+Titandrake - draws Province, Tunnel
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays Shanty Town
+Titandrake - reveals Gold, Gold, Province, Tunnel, Gold
+Titandrake - draws Chapel, Gold
+Titandrake - plays 4 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Gold, Gold, Gold
+Titandrake - shuffles deck
+Titandrake - draws Cellar
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays Cellar
+lightbulb - discards Duchy
+lightbulb - discards Province
+lightbulb - draws Cellar, Copper
+lightbulb - plays Cellar
+lightbulb - discards Copper
+lightbulb - shuffles deck
+lightbulb - draws Estate
+lightbulb - plays 2 Gold
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Duchy, Gold, Province, Copper, Tunnel
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - draws Province
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Cellar, Gold, Cellar, Hunting Grounds, Shanty Town
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays 1 Gold, 1 Copper
+lightbulb - buys Tunnel
+lightbulb - gains Tunnel
+lightbulb - draws Gold, Gold, Tunnel, Duchy, Cellar
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Cellar, Gold, Cellar, Hunting Grounds
+Titandrake - plays Hunting Grounds
+Titandrake - draws Gold, Chapel, Market, Tunnel
+Titandrake - plays Market
+Titandrake - draws Duchy
+Titandrake - plays Cellar
+Titandrake - discards Duchy
+Titandrake - discards Tunnel
+Titandrake - discards Chapel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - draws Market, Hunting Grounds, Market
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays Market
+Titandrake - draws Shanty Town
+Titandrake - plays Shanty Town
+Titandrake - reveals Cellar, Gold, Gold, Hunting Grounds, Gold
+Titandrake - plays Hunting Grounds
+Titandrake - draws Shanty Town, Cellar, Gold, Province
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Cellar
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold
+Titandrake - plays Shanty Town
+Titandrake - reveals Gold, Gold, Gold, Gold, Gold, Gold
+Titandrake - draws Province, Province
+Titandrake - plays 6 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Tunnel, Chapel, Province, Cellar, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Cellar, 3 Shanty Town, 3 Market, 2 Hunting Grounds, 1 Chapel, 8 Gold, 6 Province, 2 Tunnel, 1 Estate, 1 Duchy
+Titandrake - total victory points: 44
+Titandrake - turns: 17
+ 
+lightbulb - cards: 3 Cellar, 1 Chapel, 1 Market, 1 Scout, 6 Gold, 2 Copper, 4 Duchy, 3 Tunnel, 2 Province, 1 Estate
+lightbulb - total victory points: 31
+lightbulb - turns: 16
+ 
+1st place: Titandrake
+2nd place: lightbulb
+ 

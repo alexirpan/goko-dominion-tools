@@ -1,0 +1,574 @@
+------------ Game Setup ------------
+Supply cards: Gardens, Talisman, Bazaar, Harvest, Horn of Plenty, Inn, Mystic, Farmland, King's Court, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+The Imp - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+The Imp - shuffles deck
+Titandrake - shuffles deck
+The Imp - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- The Imp: turn 1 ----------
+The Imp - plays 4 Copper
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- The Imp: turn 2 ----------
+The Imp - plays 3 Copper
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - shuffles deck
+The Imp - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Mystic, Estate, Copper, Copper, Copper
+ 
+---------- The Imp: turn 3 ----------
+The Imp - plays 3 Copper
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 4 Copper
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- The Imp: turn 4 ----------
+The Imp - plays 4 Copper, 1 Silver
+The Imp - buys Gold
+The Imp - gains Gold
+The Imp - draws Silver, Estate
+The Imp - shuffles deck
+The Imp - draws Silver, Silver, Gold
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- The Imp: turn 5 ----------
+The Imp - plays 3 Silver, 1 Gold
+The Imp - buys Farmland
+The Imp - trashes Estate
+The Imp - gains Talisman
+The Imp - gains Farmland
+The Imp - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - draws Copper, Copper, Mystic, Estate, Copper
+ 
+---------- The Imp: turn 6 ----------
+The Imp - plays 3 Copper
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - draws Copper, Copper, Copper, Copper
+The Imp - shuffles deck
+The Imp - draws Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Mystic
+Titandrake - names Estate
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays 3 Copper
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Bazaar, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Mystic, Bazaar, Copper, Inn
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- The Imp: turn 7 ----------
+The Imp - plays 4 Copper
+The Imp - buys Talisman
+The Imp - gains Talisman
+The Imp - draws Copper, Copper, Silver, Farmland, Talisman
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Copper
+Titandrake - plays Inn
+Titandrake - draws Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Mystic
+Titandrake - plays 3 Copper
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - draws Mystic, Copper, Silver, Estate, Copper
+ 
+---------- The Imp: turn 8 ----------
+The Imp - plays 2 Copper, 1 Silver
+The Imp - plays Talisman
+The Imp - buys Mystic
+The Imp - gains Mystic
+The Imp - draws Silver, Copper, Silver, Gold, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Bazaar, Copper, Estate, Mystic
+ 
+---------- The Imp: turn 9 ----------
+The Imp - plays 2 Silver, 1 Copper, 1 Gold
+The Imp - buys Farmland
+The Imp - trashes Estate
+The Imp - gains Talisman
+The Imp - gains Farmland
+The Imp - draws Silver
+The Imp - shuffles deck
+The Imp - draws Talisman, Farmland, Talisman, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Mystic
+Titandrake - names King's Court
+Titandrake - reveals Copper
+Titandrake - plays Bazaar
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Copper, Inn, Mystic, King's Court
+ 
+---------- The Imp: turn 10 ----------
+The Imp - plays 1 Silver, 1 Copper
+The Imp - plays Talisman
+The Imp - plays Talisman
+The Imp - buys Mystic
+The Imp - gains Mystic
+The Imp - draws Copper, Estate, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays King's Court
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Mystic
+Titandrake - names Mystic
+Titandrake - reveals Mystic
+Titandrake - places Mystic in hand
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Silver
+Titandrake - plays Mystic
+Titandrake - names Silver
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Inn
+Titandrake - draws Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province, Mystic, Copper
+ 
+---------- The Imp: turn 11 ----------
+The Imp - plays 3 Copper, 1 Gold
+The Imp - buys Inn
+The Imp - gains Inn
+The Imp - places Mystic, Inn on top of deck
+The Imp - shuffles deck
+The Imp - draws Copper, Inn, Mystic, Silver, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Peddler
+Titandrake - plays 2 Copper
+Titandrake - buys Talisman
+Titandrake - gains Talisman
+Titandrake - draws Peddler, Mystic, Inn, Copper, Copper
+ 
+---------- The Imp: turn 12 ----------
+The Imp - plays Inn
+The Imp - draws Copper, Silver
+The Imp - discards Copper
+The Imp - discards Copper
+The Imp - plays Mystic
+The Imp - names Estate
+The Imp - reveals Mystic
+The Imp - plays 3 Silver
+The Imp - buys Province
+The Imp - gains Province
+The Imp - draws Mystic, Copper, Talisman, Farmland
+The Imp - shuffles deck
+The Imp - draws Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Inn
+Titandrake - draws King's Court, Mystic
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays King's Court
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Copper
+Titandrake - plays Mystic
+Titandrake - names Estate
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays Mystic
+Titandrake - names Estate
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Inn, Province, Estate
+ 
+---------- The Imp: turn 13 ----------
+The Imp - plays Mystic
+The Imp - names Copper
+The Imp - reveals Silver
+The Imp - plays 2 Copper
+The Imp - plays Talisman
+The Imp - buys Talisman
+The Imp - gains Talisman
+The Imp - gains Talisman
+The Imp - draws Silver, Copper, Mystic, Province, Farmland
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Inn
+Titandrake - draws Mystic, Peddler
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Talisman
+Titandrake - plays Peddler
+Titandrake - draws Talisman
+Titandrake - plays 1 Silver
+Titandrake - plays Talisman
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Province, Copper, Bazaar, Copper
+ 
+---------- The Imp: turn 14 ----------
+The Imp - plays Mystic
+The Imp - names Copper
+The Imp - reveals Inn
+The Imp - plays 1 Silver, 1 Copper
+The Imp - buys Horn of Plenty
+The Imp - gains Horn of Plenty
+The Imp - draws Inn, Copper, Talisman, Silver, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Talisman
+Titandrake - gains Talisman
+Titandrake - draws Mystic, Copper, Mystic, Copper, Copper
+ 
+---------- The Imp: turn 15 ----------
+The Imp - plays Inn
+The Imp - draws Copper, Copper
+The Imp - discards Copper
+The Imp - discards Copper
+The Imp - plays Gold
+The Imp - plays Silver
+The Imp - plays Copper
+The Imp - buys Farmland
+The Imp - trashes Talisman
+The Imp - gains Peddler
+The Imp - gains Farmland
+The Imp - draws Estate, Talisman, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Mystic
+Titandrake - names King's Court
+Titandrake - reveals King's Court
+Titandrake - places King's Court in hand
+Titandrake - plays King's Court
+Titandrake - plays Mystic
+Titandrake - names Curse
+Titandrake - reveals Copper
+Titandrake - plays Mystic
+Titandrake - names Curse
+Titandrake - reveals Copper
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 4 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Peddler, Province, Talisman, Province, Copper
+ 
+---------- The Imp: turn 16 ----------
+The Imp - plays 2 Silver, 1 Copper
+The Imp - plays Talisman
+The Imp - buys Inn
+The Imp - gains Inn
+The Imp - places Mystic, Mystic, Peddler, Inn, Inn on top of deck
+The Imp - shuffles deck
+The Imp - draws Peddler, Inn, Inn, Mystic, Mystic
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Inn
+Titandrake - plays Inn
+Titandrake - draws Silver, Estate
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Talisman
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - gains Peddler
+Titandrake - draws Mystic, Copper, King's Court, Bazaar, Copper
+ 
+---------- The Imp: turn 17 ----------
+The Imp - plays Peddler
+The Imp - shuffles deck
+The Imp - draws Horn of Plenty
+The Imp - plays Mystic
+The Imp - names Copper
+The Imp - reveals Silver
+The Imp - plays Mystic
+The Imp - names Silver
+The Imp - reveals Silver
+The Imp - places Silver in hand
+The Imp - plays Inn
+The Imp - draws Copper, Copper
+The Imp - discards Copper
+The Imp - discards Inn
+The Imp - plays 1 Silver, 1 Copper
+The Imp - plays Horn of Plenty
+The Imp - gains Gold
+The Imp - buys Province
+The Imp - gains Province
+The Imp - draws Talisman, Farmland, Gold, Talisman, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Mystic
+Titandrake - plays King's Court
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Mystic
+Titandrake - plays Mystic
+Titandrake - names Mystic
+Titandrake - reveals Mystic
+Titandrake - places Mystic in hand
+Titandrake - plays Mystic
+Titandrake - names Estate
+Titandrake - reveals Copper
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Mystic
+Titandrake - names Province
+Titandrake - reveals Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Estate, Estate, Province, Copper
+ 
+---------- The Imp: turn 18 ----------
+The Imp - plays 1 Gold
+The Imp - plays Talisman
+The Imp - plays Talisman
+The Imp - buys Talisman
+The Imp - gains Talisman
+The Imp - gains Talisman
+The Imp - gains Talisman
+The Imp - draws Talisman, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Talisman
+Titandrake - shuffles deck
+Titandrake - draws Mystic, Copper, Mystic
+ 
+---------- The Imp: turn 19 ----------
+The Imp - plays 3 Copper, 1 Silver
+The Imp - plays Talisman
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - gains Silver
+The Imp - draws Farmland, Copper, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Mystic
+Titandrake - names Estate
+Titandrake - reveals Peddler
+Titandrake - plays Mystic
+Titandrake - names Estate
+Titandrake - reveals Peddler
+Titandrake - plays 2 Copper
+Titandrake - plays Talisman
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Peddler, Copper, Estate, Province, Copper
+ 
+---------- The Imp: turn 20 ----------
+The Imp - plays Silver
+The Imp - plays Silver
+The Imp - plays Copper
+The Imp - buys Gardens
+The Imp - gains Gardens
+The Imp - draws Farmland, Talisman, Estate
+The Imp - shuffles deck
+The Imp - draws Silver, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws King's Court, Estate, Copper, Mystic, Province
+ 
+---------- The Imp: turn 21 ----------
+The Imp - plays 1 Silver, 1 Copper
+The Imp - plays Talisman
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - gains Silver
+The Imp - draws Peddler, Copper, Gold, Copper, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays King's Court
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Bazaar
+Titandrake - plays Mystic
+Titandrake - names Bazaar
+Titandrake - reveals Bazaar
+Titandrake - places Bazaar in hand
+Titandrake - plays Mystic
+Titandrake - names Province
+Titandrake - reveals Estate
+Titandrake - plays Bazaar
+Titandrake - draws Estate
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Peddler, Peddler, Copper, Estate, Inn
+ 
+---------- The Imp: turn 22 ----------
+The Imp - plays Peddler
+The Imp - draws Talisman
+The Imp - plays Gold
+The Imp - plays Copper
+The Imp - plays Copper
+The Imp - buys Farmland
+The Imp - trashes Silver
+The Imp - gains Duchy
+The Imp - gains Farmland
+The Imp - draws Gardens, Talisman, Copper, Copper, Inn
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Peddler
+Titandrake - draws Silver
+Titandrake - plays Peddler
+Titandrake - draws Talisman
+Titandrake - plays Inn
+Titandrake - draws Province, Peddler
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - plays Peddler
+Titandrake - draws Province
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - buys Farmland
+Titandrake - trashes Talisman
+Titandrake - gains Farmland
+Titandrake - gains Farmland
+Titandrake - draws Peddler
+Titandrake - shuffles deck
+Titandrake - draws Bazaar, King's Court, Province, Copper
+ 
+---------- The Imp: turn 23 ----------
+The Imp - plays Inn
+The Imp - draws Copper, Horn of Plenty
+The Imp - discards Gardens
+The Imp - discards Copper
+The Imp - plays 2 Copper
+The Imp - plays Talisman
+The Imp - plays Horn of Plenty
+The Imp - gains Gardens
+The Imp - trashes Horn of Plenty
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - gains Silver
+The Imp - draws Province, Farmland, Inn, Gold, Talisman
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Peddler
+Titandrake - draws Estate
+Titandrake - plays King's Court
+Titandrake - plays Bazaar
+Titandrake - draws Farmland
+Titandrake - plays Bazaar
+Titandrake - draws Copper
+Titandrake - plays Bazaar
+Titandrake - draws Province
+Titandrake - plays 2 Copper
+Titandrake - buys Farmland
+Titandrake - trashes Farmland
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - draws Peddler, Copper, Farmland, Peddler, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Peddler, 3 Mystic, 1 King's Court, 1 Bazaar, 1 Inn, 7 Copper, 1 Silver, 1 Talisman, 6 Province, 4 Estate, 2 Farmland, 1 Duchy, 1 Gardens
+Titandrake - total victory points: 50
+Titandrake - turns: 23
+ 
+The Imp - cards: 2 Inn, 2 Mystic, 1 Peddler, 9 Silver, 7 Talisman, 7 Copper, 2 Gold, 4 Farmland, 2 Province, 2 Gardens, 1 Estate, 1 Duchy
+The Imp - total victory points: 32
+The Imp - turns: 23
+ 
+1st place: Titandrake
+2nd place: The Imp
+ 

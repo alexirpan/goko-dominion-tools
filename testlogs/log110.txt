@@ -1,0 +1,461 @@
+------------ Game Setup ------------
+Supply cards: Haven, Herbalist, Vagrant, Workshop, Cutpurse, Farming Village, Remodel, Spice Merchant, Butcher, Count, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Temron - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Copper, Copper, Copper, Overgrown Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Overgrown Estate, Copper, Hovel, Copper, Copper
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 4 Copper
+Temron - buys Spice Merchant
+Temron - gains Spice Merchant
+Temron - draws Copper, Hovel, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Hovel, Copper, Copper, Copper
+ 
+---------- Temron: turn 2 ----------
+Temron - plays Necropolis
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - shuffles deck
+Temron - draws Overgrown Estate, Copper, Copper, Necropolis, Spice Merchant
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Copper, Overgrown Estate, Copper, Necropolis, Copper
+ 
+---------- Temron: turn 3 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws Copper, Copper
+Temron - plays Necropolis
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Hovel, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Spice Merchant
+Titandrake - shuffles deck
+Titandrake - draws Copper, Overgrown Estate, Necropolis
+ 
+---------- Temron: turn 4 ----------
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Count
+Temron - gains Count
+Temron - shuffles deck
+Temron - draws Necropolis, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Silver, Butcher
+Titandrake - plays Necropolis
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Silver
+Titandrake - uses 1 coin token
+Titandrake - gains Vagrant
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Hovel, Copper, Copper, Copper, Copper
+ 
+---------- Temron: turn 5 ----------
+Temron - plays Necropolis
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Silver, Count, Spice Merchant, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Spice Merchant, Butcher, Spice Merchant, Copper
+ 
+---------- Temron: turn 6 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws Silver, Copper
+Temron - plays Count
+Temron - places Silver on top of deck
+Temron - takes 3 coins
+Temron - plays 2 Copper, 1 Silver
+Temron - buys Butcher
+Temron - gains Butcher
+Temron - draws Silver, Hovel
+Temron - shuffles deck
+Temron - draws Count, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Silver, Copper
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Silver
+Titandrake - uses 1 coin token
+Titandrake - gains Farming Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Copper, Butcher, Copper, Necropolis, Hovel
+ 
+---------- Temron: turn 7 ----------
+Temron - plays Count
+Temron - places Silver on top of deck
+Temron - takes 3 coins
+Temron - plays 1 Silver, 1 Copper
+Temron - buys Butcher
+Temron - gains Butcher
+Temron - draws Silver, Copper, Copper, Butcher, Necropolis
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Hovel
+Titandrake - uses 1 coin token
+Titandrake - gains Vagrant
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Spice Merchant, Silver, Copper, Butcher
+ 
+---------- Temron: turn 8 ----------
+Temron - plays Butcher
+Temron - receives 2 coin tokens
+Temron - trashes Necropolis
+Temron - uses 1 coin token
+Temron - gains Haven
+Temron - plays 2 Copper, 1 Silver
+Temron - buys Farming Village
+Temron - gains Farming Village
+Temron - draws Copper, Overgrown Estate, Spice Merchant, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Farming Village
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Vagrant
+Titandrake - places Vagrant in hand
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Butcher
+Titandrake - reveals: Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - plays Necropolis
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Silver
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Butcher
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays 2 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Copper, Spice Merchant, Butcher
+Titandrake - shuffles deck
+Titandrake - draws Copper, Vagrant
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - shuffles deck
+Temron - draws Haven, Butcher
+Temron - plays Haven
+Temron - draws Hovel
+Temron - sets aside Hovel
+Temron - plays Butcher
+Temron - receives 2 coin tokens
+Temron - trashes Overgrown Estate
+Temron - draws Copper
+Temron - uses 1 coin token
+Temron - gains Haven
+Temron - plays 2 Copper, 1 Silver
+Temron - uses 1 coin token
+Temron - buys Butcher
+Temron - gains Butcher
+Temron - draws Count, Butcher, Silver, Farming Village, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Spice Merchant, Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Vagrant
+Titandrake - places Vagrant in hand
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Butcher, Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - plays Vagrant
+Titandrake - draws Vagrant
+Titandrake - reveals: Butcher
+Titandrake - places Butcher on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Butcher
+Titandrake - reveals: Butcher
+Titandrake - places Butcher on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Butcher
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Necropolis
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - uses 4 coin tokens
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Butcher, Spice Merchant, Spice Merchant, Vagrant
+ 
+---------- Temron: turn 10 ----------
+Temron - duration Haven
+Temron - places set aside Hovel in hand
+Temron - plays Farming Village
+Temron - reveals Copper
+Temron - places Copper in hand
+Temron - plays Butcher
+Temron - receives 2 coin tokens
+Temron - plays Count
+Temron - places Silver on top of deck
+Temron - takes 3 coins
+Temron - plays 1 Silver, 1 Copper
+Temron - uses 2 coin tokens
+Temron - buys Province
+Temron - trashes Hovel
+Temron - gains Province
+Temron - draws Silver, Copper
+Temron - shuffles deck
+Temron - draws Spice Merchant, Butcher, Count
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Farming Village
+Titandrake - reveals: Farming Village
+Titandrake - places Farming Village on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Butcher
+Titandrake - places Butcher in hand
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Vagrant, Butcher
+Titandrake - plays Vagrant
+Titandrake - draws Butcher
+Titandrake - reveals: Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Spice Merchant
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Necropolis
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - draws Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Spice Merchant, Farming Village, Farming Village
+ 
+---------- Temron: turn 11 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws Butcher, Silver
+Temron - plays Butcher
+Temron - receives 2 coin tokens
+Temron - trashes Count
+Temron - uses 1 coin token
+Temron - uses 1 coin token
+Temron - uses 1 coin token
+Temron - gains Province
+Temron - plays 2 Silver
+Temron - buys Farming Village
+Temron - gains Farming Village
+Temron - draws Copper, Haven, Haven, Butcher, Farming Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Butcher
+Titandrake - places Butcher in hand
+Titandrake - discards Province
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Butcher
+Titandrake - places Butcher in hand
+Titandrake - discards Province
+Titandrake - plays Vagrant
+Titandrake - draws Butcher
+Titandrake - reveals: Butcher
+Titandrake - places Butcher on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Butcher
+Titandrake - reveals: Farming Village
+Titandrake - places Farming Village on top of deck
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Spice Merchant
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Butcher
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - draws Farming Village, Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Province, Farming Village, Butcher
+ 
+---------- Temron: turn 12 ----------
+Temron - plays Farming Village
+Temron - reveals Copper
+Temron - places Copper in hand
+Temron - plays Haven
+Temron - draws Copper
+Temron - sets aside Butcher
+Temron - plays Haven
+Temron - draws Silver
+Temron - sets aside Copper
+Temron - plays 2 Copper, 1 Silver
+Temron - buys Farming Village
+Temron - gains Farming Village
+Temron - draws Province
+Temron - shuffles deck
+Temron - draws Farming Village, Butcher, Province, Farming Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Butcher
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Vagrant
+Titandrake - places Vagrant in hand
+Titandrake - plays Vagrant
+Titandrake - draws Farming Village
+Titandrake - reveals: Butcher
+Titandrake - places Butcher on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Butcher
+Titandrake - places Butcher in hand
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Farming Village
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Province
+Titandrake - gains Province
+Titandrake - uses 2 coin tokens
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Province, Province, Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Butcher
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Vagrant, 3 Butcher, 2 Farming Village, 5 Province, 1 Estate
+Titandrake - total victory points: 31
+Titandrake - turns: 13
+ 
+Temron - cards: 3 Farming Village, 3 Butcher, 2 Haven, 1 Spice Merchant, 3 Silver, 3 Copper, 2 Province
+Temron - total victory points: 12
+Temron - turns: 12
+ 
+1st place: Titandrake
+2nd place: Temron
+ 

@@ -1,0 +1,375 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Squire, Steward, Woodcutter, Caravan, Cutpurse, Worker's Village, Inn, Trading Post, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+21echoes - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+21echoes - shuffles deck
+Titandrake - shuffles deck
+21echoes - draws Copper, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- 21echoes: turn 1 ----------
+21echoes - plays 3 Copper
+21echoes - buys Steward
+21echoes - gains Steward
+21echoes - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- 21echoes: turn 2 ----------
+21echoes - plays 4 Copper
+21echoes - buys Caravan
+21echoes - gains Caravan
+21echoes - shuffles deck
+21echoes - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Caravan, Estate, Copper
+ 
+---------- 21echoes: turn 3 ----------
+21echoes - plays 3 Copper
+21echoes - buys Silver
+21echoes - gains Silver
+21echoes - draws Copper, Copper, Copper, Caravan, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Steward, Estate, Copper, Copper, Copper
+ 
+---------- 21echoes: turn 4 ----------
+21echoes - plays Caravan
+21echoes - draws Copper
+21echoes - plays 4 Copper
+21echoes - buys Caravan
+21echoes - gains Caravan
+21echoes - draws Steward
+21echoes - shuffles deck
+21echoes - draws Estate, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Steward
+Titandrake - trashes Estate, Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- 21echoes: turn 5 ----------
+21echoes - duration Caravan
+21echoes - draws Copper
+21echoes - plays Steward
+21echoes - trashes Estate, Copper
+21echoes - plays 2 Copper, 1 Silver
+21echoes - buys Caravan
+21echoes - gains Caravan
+21echoes - draws Copper, Copper, Estate, Caravan, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - draws Estate, Caravan, Caravan, Copper, Copper
+ 
+---------- 21echoes: turn 6 ----------
+21echoes - plays Caravan
+21echoes - draws Copper
+21echoes - plays 3 Copper
+21echoes - buys Silver
+21echoes - gains Silver
+21echoes - draws Copper
+21echoes - shuffles deck
+21echoes - draws Steward, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Caravan
+Titandrake - draws Steward
+Titandrake - plays Steward
+Titandrake - trashes Copper, Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Steward, Copper, Squire
+ 
+---------- 21echoes: turn 7 ----------
+21echoes - duration Caravan
+21echoes - draws Caravan
+21echoes - plays Caravan
+21echoes - draws Caravan
+21echoes - plays Caravan
+21echoes - draws Silver
+21echoes - plays Steward
+21echoes - trashes Estate, Copper
+21echoes - plays 2 Copper, 1 Silver
+21echoes - buys Caravan
+21echoes - gains Caravan
+21echoes - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - draws Altar
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Steward
+Titandrake - draws Silver, Copper
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Caravan
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Squire, Altar, Steward
+ 
+---------- 21echoes: turn 8 ----------
+21echoes - duration Caravan
+21echoes - shuffles deck
+21echoes - draws Caravan
+21echoes - duration Caravan
+21echoes - draws Steward
+21echoes - plays Caravan
+21echoes - draws Copper
+21echoes - plays Steward
+21echoes - takes 2 coins
+21echoes - plays 4 Copper, 1 Silver
+21echoes - buys Province
+21echoes - gains Province
+21echoes - draws Caravan, Copper, Silver
+21echoes - shuffles deck
+21echoes - draws Caravan, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Steward
+Titandrake - draws Gold, Copper
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Caravan, Copper, Copper, Caravan
+ 
+---------- 21echoes: turn 9 ----------
+21echoes - duration Caravan
+21echoes - draws Copper
+21echoes - plays Caravan
+21echoes - draws Estate
+21echoes - plays Caravan
+21echoes - draws Copper
+21echoes - plays 3 Copper, 2 Silver
+21echoes - buys Gold
+21echoes - gains Gold
+21echoes - draws Copper, Province, Caravan, Steward, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Caravan
+Titandrake - draws Altar
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Caravan
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province, Steward, Silver, Squire, Copper
+ 
+---------- 21echoes: turn 10 ----------
+21echoes - duration Caravan
+21echoes - shuffles deck
+21echoes - draws Estate
+21echoes - duration Caravan
+21echoes - draws Caravan
+21echoes - plays Caravan
+21echoes - draws Silver
+21echoes - plays Caravan
+21echoes - draws Gold
+21echoes - plays Steward
+21echoes - trashes Estate, Copper
+21echoes - plays 1 Copper, 1 Silver, 1 Gold
+21echoes - buys Gold
+21echoes - gains Gold
+21echoes - draws Silver, Copper, Copper, Copper
+21echoes - shuffles deck
+21echoes - draws Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Caravan
+Titandrake - duration Caravan
+Titandrake - draws Altar
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Steward
+Titandrake - draws Gold, Gold
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Caravan
+Titandrake - plays 2 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Caravan, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Steward, Caravan
+ 
+---------- 21echoes: turn 11 ----------
+21echoes - duration Caravan
+21echoes - draws Gold
+21echoes - duration Caravan
+21echoes - draws Caravan
+21echoes - plays Caravan
+21echoes - draws Silver
+21echoes - plays 3 Copper, 2 Silver, 2 Gold
+21echoes - buys Province
+21echoes - gains Province
+21echoes - draws Caravan, Copper, Province, Steward
+21echoes - shuffles deck
+21echoes - draws Caravan
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Caravan
+Titandrake - draws Altar
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Province, Gold, Caravan, Silver
+ 
+---------- 21echoes: turn 12 ----------
+21echoes - duration Caravan
+21echoes - draws Copper
+21echoes - plays Caravan
+21echoes - draws Copper
+21echoes - plays Caravan
+21echoes - draws Caravan
+21echoes - plays Caravan
+21echoes - draws Silver
+21echoes - plays Steward
+21echoes - takes 2 coins
+21echoes - plays 3 Copper, 1 Silver
+21echoes - buys Duchy
+21echoes - gains Duchy
+21echoes - draws Gold, Gold, Silver, Copper, Province
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Squire
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - draws Province
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Caravan, Copper, Steward, Altar
+ 
+---------- 21echoes: turn 13 ----------
+21echoes - duration Caravan
+21echoes - shuffles deck
+21echoes - draws Caravan
+21echoes - duration Caravan
+21echoes - draws Copper
+21echoes - duration Caravan
+21echoes - draws Copper
+21echoes - plays Caravan
+21echoes - draws Copper
+21echoes - plays 4 Copper, 2 Gold, 1 Silver
+21echoes - buys Province
+21echoes - gains Province
+21echoes - draws Province, Duchy, Steward, Silver
+21echoes - shuffles deck
+21echoes - draws Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Duchy
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Province, Province, Province, Copper
+ 
+---------- 21echoes: turn 14 ----------
+21echoes - duration Caravan
+21echoes - draws Province
+21echoes - plays Steward
+21echoes - takes 2 coins
+21echoes - plays 1 Silver, 1 Gold
+21echoes - buys Duchy
+21echoes - gains Duchy
+21echoes - draws Province, Copper, Caravan, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Caravan
+Titandrake - duration Caravan
+Titandrake - draws Gold
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Squire
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province, Steward, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Caravan, 1 Squire, 1 Steward, 1 Altar, 2 Silver, 2 Gold, 2 Copper, 5 Province, 1 Duchy, 1 Estate
+Titandrake - total victory points: 34
+Titandrake - turns: 14
+ 
+21echoes - cards: 4 Caravan, 1 Steward, 4 Copper, 2 Silver, 2 Gold, 3 Province, 2 Duchy
+21echoes - total victory points: 24
+21echoes - turns: 14
+ 
+1st place: Titandrake
+2nd place: 21echoes
+ 

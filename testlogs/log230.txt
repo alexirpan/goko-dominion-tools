@@ -1,0 +1,470 @@
+------------ Game Setup ------------
+Supply cards: Scrying Pool, University, Farming Village, Island, Pirate Ship, Remodel, Tournament, Highway, Knights, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Breezy - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Breezy - shuffles deck
+Titandrake - shuffles deck
+Breezy - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Breezy: turn 1 ----------
+Breezy - plays 3 Copper
+Breezy - buys Silver
+Breezy - gains Silver
+Breezy - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Breezy: turn 2 ----------
+Breezy - plays 4 Copper
+Breezy - buys Tournament
+Breezy - gains Tournament
+Breezy - shuffles deck
+Breezy - draws Copper, Estate, Tournament, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Tournament, Copper, Copper, Estate
+ 
+---------- Breezy: turn 3 ----------
+Breezy - plays Tournament
+Breezy - draws Copper
+Breezy - plays 4 Copper
+Breezy - buys Sir Bailey
+Breezy - gains Sir Bailey
+Breezy - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Tournament
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper
+ 
+---------- Breezy: turn 4 ----------
+Breezy - plays 3 Copper, 1 Silver
+Breezy - buys Highway
+Breezy - gains Highway
+Breezy - draws Estate
+Breezy - shuffles deck
+Breezy - draws Copper, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - draws Copper, Tournament, Copper, Potion, Copper
+ 
+---------- Breezy: turn 5 ----------
+Breezy - plays 2 Copper, 1 Silver
+Breezy - buys Potion
+Breezy - gains Potion
+Breezy - draws Estate, Highway, Copper, Copper, Sir Bailey
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Tournament
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Potion, 1 Silver
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Estate, Altar
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- Breezy: turn 6 ----------
+Breezy - plays Highway
+Breezy - draws Copper
+Breezy - plays Sir Bailey
+Breezy - draws Tournament
+Titandrake - reveals: Copper, Copper
+Breezy - plays Tournament
+Breezy - draws Copper
+Breezy - plays 4 Copper
+Breezy - buys Altar
+Breezy - gains Altar
+Breezy - draws Copper
+Breezy - shuffles deck
+Breezy - draws Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Highway
+Titandrake - draws Estate, University, Potion, Copper, Copper
+ 
+---------- Breezy: turn 7 ----------
+Breezy - draws Copper, Sir Bailey, Copper, Tournament, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays University
+Titandrake - gains Sir Vander
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Silver, Tournament, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Breezy: turn 8 ----------
+Breezy - plays Sir Bailey
+Breezy - draws Estate
+Titandrake - reveals: Copper, Potion
+Titandrake - trashes Potion
+Titandrake - discards Copper
+Breezy - plays Tournament
+Breezy - draws Silver
+Breezy - plays 3 Copper, 1 Silver
+Breezy - buys Dame Natalie
+Breezy - gains Dame Natalie
+Breezy - draws Copper, Altar, Highway, Potion
+Breezy - shuffles deck
+Breezy - draws Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tournament
+Titandrake - draws Altar
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Highway
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws University, Estate, Copper, Copper, Sir Vander
+ 
+---------- Breezy: turn 9 ----------
+Breezy - plays Highway
+Breezy - draws Copper
+Breezy - plays Altar
+Breezy - trashes Estate
+Breezy - gains Highway
+Breezy - plays 2 Copper, 1 Potion
+Breezy - buys University
+Breezy - gains University
+Breezy - draws Dame Natalie, Copper, Tournament, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays University
+Titandrake - gains Highway
+Titandrake - plays Sir Vander
+Breezy - reveals: Silver, Sir Bailey
+Breezy - trashes Sir Bailey
+Breezy - discards Silver
+Titandrake - trashes Sir Vander
+Titandrake - gains Gold
+Titandrake - draws University, Estate, Copper, Highway
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Breezy: turn 10 ----------
+Breezy - plays Tournament
+Breezy - draws Estate
+Breezy - plays Dame Natalie
+Titandrake - reveals: Silver, Highway
+Titandrake - trashes Silver
+Titandrake - discards Highway
+Breezy - plays 3 Copper
+Breezy - buys Farming Village
+Breezy - gains Farming Village
+Breezy - draws Copper, Copper, Estate
+Breezy - shuffles deck
+Breezy - draws Estate, Highway
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Altar
+Titandrake - plays University
+Titandrake - gains Highway
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Highway
+Titandrake - plays 2 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Tournament, Estate, Highway, Copper, Copper
+ 
+---------- Breezy: turn 11 ----------
+Breezy - plays Highway
+Breezy - draws Tournament
+Breezy - plays Tournament
+Breezy - draws Dame Natalie
+Breezy - plays Dame Natalie
+Breezy - gains Tournament
+Titandrake - reveals: Copper, Gold
+Titandrake - trashes Gold
+Titandrake - discards Copper
+Breezy - plays 2 Copper
+Breezy - buys Farming Village
+Breezy - gains Farming Village
+Breezy - draws Silver, Highway, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws University
+Titandrake - plays University
+Titandrake - gains Highway
+Titandrake - plays 3 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - shuffles deck
+Titandrake - draws University, Highway, Copper, Highway, Estate
+ 
+---------- Breezy: turn 12 ----------
+Breezy - plays Highway
+Breezy - draws University
+Breezy - plays University
+Breezy - gains Dame Josephine
+Breezy - plays 3 Copper, 1 Silver
+Breezy - buys Dame Anna
+Breezy - gains Dame Anna
+Breezy - draws Copper, Farming Village, Copper, Altar, Potion
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays University
+Titandrake - gains Dame Molly
+Titandrake - plays 3 Copper
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - draws Highway, University, Highway, Highway, Copper
+ 
+---------- Breezy: turn 13 ----------
+Breezy - plays Farming Village
+Breezy - shuffles deck
+Breezy - reveals Estate, Tournament
+Breezy - places Tournament in hand
+Breezy - discards Estate
+Breezy - plays Tournament
+Breezy - draws Copper
+Breezy - plays Altar
+Breezy - trashes Copper
+Breezy - gains Sir Martin
+Breezy - plays 2 Copper, 1 Potion
+Breezy - buys Scrying Pool
+Breezy - gains Scrying Pool
+Breezy - draws Highway, Copper, Copper, Dame Natalie, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Tournament
+Titandrake - plays Highway
+Titandrake - draws Altar
+Titandrake - plays Tournament
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays University
+Titandrake - gains Tournament
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Province
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Highway, Copper, Highway
+ 
+---------- Breezy: turn 14 ----------
+Breezy - plays Highway
+Breezy - draws University
+Breezy - plays University
+Breezy - gains Dame Sylvia
+Breezy - plays Dame Natalie
+Breezy - gains Farming Village
+Titandrake - reveals: Tournament, Copper
+Titandrake - trashes Tournament
+Titandrake - discards Copper
+Breezy - plays 3 Copper
+Breezy - buys Farming Village
+Breezy - gains Farming Village
+Breezy - draws Dame Anna, Dame Josephine, Tournament, Farming Village, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Highway
+Titandrake - draws University
+Titandrake - plays Highway
+Titandrake - draws University
+Titandrake - plays University
+Titandrake - gains Sir Destry
+Titandrake - plays University
+Titandrake - gains Sir Michael
+Titandrake - plays 3 Copper
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Highway, Highway, Highway, Tournament, Dame Molly
+ 
+---------- Breezy: turn 15 ----------
+Breezy - plays Farming Village
+Breezy - reveals Estate, Highway
+Breezy - places Highway in hand
+Breezy - discards Estate
+Breezy - plays Tournament
+Breezy - draws Copper
+Breezy - plays Highway
+Breezy - shuffles deck
+Breezy - draws Sir Martin
+Breezy - plays Sir Martin
+Titandrake - reveals: Tournament, Province
+Titandrake - trashes Tournament
+Titandrake - discards Province
+Breezy - plays Dame Josephine
+Titandrake - reveals: Altar, Province
+Titandrake - trashes Altar
+Titandrake - discards Province
+Breezy - plays 1 Silver, 1 Copper
+Breezy - buys Duchy
+Breezy - gains Duchy
+Breezy - draws Farming Village, Dame Sylvia, Farming Village, Dame Natalie, Potion
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Tournament
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Altar
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Dame Molly
+Breezy - reveals: Farming Village, Estate
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Province
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Highway, Copper, University, Dame Molly
+ 
+---------- Breezy: turn 16 ----------
+Breezy - plays Farming Village
+Breezy - reveals Tournament
+Breezy - places Tournament in hand
+Breezy - plays Farming Village
+Breezy - reveals Altar
+Breezy - places Altar in hand
+Breezy - plays Tournament
+Breezy - draws Copper
+Breezy - plays Dame Sylvia
+Titandrake - reveals: Highway, Province
+Titandrake - trashes Highway
+Titandrake - discards Province
+Breezy - plays Dame Natalie
+Breezy - gains Estate
+Titandrake - reveals: Province, Highway
+Titandrake - trashes Highway
+Titandrake - discards Province
+Breezy - plays Altar
+Breezy - trashes Potion
+Breezy - gains Duchy
+Breezy - plays 1 Copper
+Breezy - buys Island
+Breezy - gains Island
+Breezy - draws Estate, Highway, Copper, Copper, University
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays University
+Titandrake - gains Island
+Titandrake - plays Dame Molly
+Breezy - reveals: Copper, Scrying Pool
+Titandrake - plays Highway
+Titandrake - draws Island
+Titandrake - plays Tournament
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Sir Michael
+Titandrake - plays Sir Michael
+Breezy - discards Estate
+Breezy - discards Copper
+Breezy - reveals: Copper
+Breezy - shuffles deck
+Breezy - reveals: Duchy
+Breezy - trashes Duchy
+Breezy - discards Copper
+Titandrake - plays Copper
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Province, Copper, Sir Destry, Island, Altar
+ 
+---------- Breezy: turn 17 ----------
+Breezy - plays Highway
+Breezy - draws Dame Sylvia
+Breezy - plays University
+Breezy - gains Remodel
+Breezy - plays Dame Sylvia
+Titandrake - reveals: Highway, Highway
+Titandrake - trashes Highway
+Titandrake - discards Highway
+Breezy - plays 1 Copper
+Breezy - buys Estate
+Breezy - gains Estate
+Breezy - draws Silver, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Island
+Titandrake - draws University, Copper, Copper, Copper, Highway
+ 
+---------- Breezy: turn 18 ----------
+Breezy - plays 2 Copper, 1 Silver
+Breezy - buys Island
+Breezy - gains Island
+Breezy - draws Farming Village, Tournament, Farming Village, Copper, Farming Village
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - plays University
+Titandrake - gains Island
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Highway, Sir Michael, Altar, Province, University
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Island, 5 Highway, 2 University, 1 Sir Michael, 1 Altar, 1 Dame Molly, 1 Sir Destry, 1 Tournament, 4 Copper, 3 Province, 1 Duchy
+Titandrake - total victory points: 33
+Titandrake - turns: 19
+ 
+Breezy - cards: 4 Farming Village, 2 Island, 2 Tournament, 2 Highway, 1 Dame Josephine, 1 Remodel, 1 University, 1 Dame Sylvia, 1 Dame Natalie, 1 Sir Martin, 1 Scrying Pool, 1 Dame Anna, 1 Altar, 6 Copper, 1 Silver, 4 Estate, 1 Duchy
+Breezy - total victory points: 13
+Breezy - turns: 18
+ 
+1st place: Titandrake
+2nd place: Breezy
+ 

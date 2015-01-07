@@ -1,0 +1,844 @@
+------------ Game Setup ------------
+Supply cards: Moat, Vagrant, Develop, Masquerade, Smithy, Spice Merchant, Bazaar, Market, Tactician, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Masquerade
+lightbulb - gains Masquerade
+lightbulb - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Spice Merchant
+lightbulb - gains Spice Merchant
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Copper, Spice Merchant, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Spice Merchant, Copper, Estate, Copper, Estate
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two cards and one action
+lightbulb - draws Copper, Masquerade
+lightbulb - plays Masquerade
+lightbulb - shuffles deck
+lightbulb - draws Copper, Silver
+lightbulb - passes Estate
+Titandrake - passes Estate
+lightbulb - trashes Estate
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - buys Bazaar
+lightbulb - gains Bazaar
+lightbulb - draws Copper, Copper, Copper, Estate
+lightbulb - shuffles deck
+lightbulb - draws Spice Merchant
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Masquerade
+Titandrake - plays Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - passes Estate
+lightbulb - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two cards and one action
+lightbulb - draws Copper, Bazaar
+lightbulb - plays Bazaar
+lightbulb - draws Silver
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - buys Tactician
+lightbulb - gains Tactician
+lightbulb - draws Copper, Estate, Masquerade, Copper
+lightbulb - shuffles deck
+lightbulb - draws Spice Merchant
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Develop
+Titandrake - gains Develop
+Titandrake - draws Copper, Copper, Copper, Spice Merchant, Silver
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two cards and one action
+lightbulb - draws Copper, Estate
+lightbulb - plays Masquerade
+lightbulb - draws Copper, Silver
+lightbulb - passes Estate
+Titandrake - passes Copper
+lightbulb - trashes Estate
+lightbulb - plays 4 Copper, 1 Silver
+lightbulb - buys Market
+lightbulb - gains Market
+lightbulb - draws Copper, Tactician, Bazaar
+lightbulb - shuffles deck
+lightbulb - draws Market, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Masquerade
+Titandrake - plays Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+Titandrake - passes Estate
+lightbulb - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - draws Estate, Copper, Develop, Estate
+Titandrake - shuffles deck
+Titandrake - draws Spice Merchant
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Bazaar
+lightbulb - draws Silver
+lightbulb - plays Market
+lightbulb - draws Copper
+lightbulb - plays Tactician
+lightbulb - discards: Copper, Estate, Silver, Copper
+lightbulb - buys Vagrant
+lightbulb - gains Vagrant
+lightbulb - draws Masquerade, Copper, Spice Merchant, Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Silver, Masquerade
+Titandrake - plays Masquerade
+Titandrake - draws Silver, Copper
+Titandrake - passes Estate
+lightbulb - passes Copper
+Titandrake - trashes Estate
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Bazaar, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - duration Tactician
+lightbulb - draws Copper, Estate, Silver, Market, Vagrant
+lightbulb - plays Market
+lightbulb - draws Bazaar
+lightbulb - plays Bazaar
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two coins and one buy
+lightbulb - plays Masquerade
+lightbulb - passes Estate
+Titandrake - passes Copper
+lightbulb - trashes Estate
+lightbulb - plays Vagrant
+lightbulb - plays Silver
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - shuffles deck
+lightbulb - draws Market, Copper, Vagrant, Silver, Spice Merchant
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Develop
+Titandrake - plays Develop
+Titandrake - trashes Estate
+Titandrake - gains Masquerade
+Titandrake - plays 3 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Masquerade, Silver, Spice Merchant, Tactician, Silver
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays Vagrant
+lightbulb - draws Tactician
+lightbulb - reveals: Grand Market
+lightbulb - places Grand Market on top of deck
+lightbulb - plays Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Copper
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two cards and one action
+lightbulb - draws Bazaar, Masquerade
+lightbulb - plays Bazaar
+lightbulb - draws Copper
+lightbulb - plays Masquerade
+lightbulb - passes Copper
+Titandrake - passes Silver
+lightbulb - trashes Copper
+lightbulb - plays 2 Silver
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Vagrant
+lightbulb - gains Vagrant
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - shuffles deck
+lightbulb - draws Market, Silver, Vagrant, Grand Market, Masquerade
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Tactician
+Titandrake - discards: Masquerade, Silver, Masquerade, Copper
+Titandrake - draws Bazaar, Spice Merchant, Copper, Copper, Develop
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Vagrant
+lightbulb - draws Copper
+lightbulb - reveals: Spice Merchant
+lightbulb - places Spice Merchant on top of deck
+lightbulb - plays Grand Market
+lightbulb - draws Spice Merchant
+lightbulb - plays Market
+lightbulb - draws Bazaar
+lightbulb - plays Bazaar
+lightbulb - draws Vagrant
+lightbulb - plays Vagrant
+lightbulb - draws Grand Market
+lightbulb - reveals: Tactician
+lightbulb - places Tactician on top of deck
+lightbulb - plays Grand Market
+lightbulb - draws Tactician
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two coins and one buy
+lightbulb - plays Tactician
+lightbulb - discards: Silver, Masquerade
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Vagrant
+lightbulb - gains Vagrant
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - draws Silver
+lightbulb - shuffles deck
+lightbulb - draws Masquerade, Bazaar, Grand Market, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Tactician
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Masquerade, Masquerade, Spice Merchant
+Titandrake - plays Develop
+Titandrake - trashes Spice Merchant
+Titandrake - gains Bazaar
+Titandrake - gains Masquerade
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Masquerade, Bazaar
+Titandrake - plays Bazaar
+Titandrake - plays Masquerade
+Titandrake - passes Copper
+lightbulb - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Bazaar
+Titandrake - plays Masquerade
+Titandrake - passes Copper
+lightbulb - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Masquerade
+Titandrake - passes Silver
+lightbulb - passes Copper
+Titandrake - trashes Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Tactician, Vagrant, Bazaar, Masquerade, Spice Merchant
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - duration Tactician
+lightbulb - draws Silver, Spice Merchant, Vagrant, Vagrant, Market
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Market
+lightbulb - draws Vagrant
+lightbulb - plays Vagrant
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - plays Grand Market
+lightbulb - plays Bazaar
+lightbulb - plays Masquerade
+lightbulb - passes Silver
+Titandrake - passes Spice Merchant
+lightbulb - plays Spice Merchant
+lightbulb - trashes Silver
+lightbulb - chooses two coins and one buy
+lightbulb - plays 1 Silver
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - shuffles deck
+lightbulb - draws Spice Merchant, Masquerade, Grand Market, Vagrant, Bazaar
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Masquerade
+Titandrake - reveals: Develop
+Titandrake - places Develop on top of deck
+Titandrake - plays Bazaar
+Titandrake - draws Develop
+Titandrake - plays Masquerade
+Titandrake - draws Bazaar, Masquerade
+Titandrake - passes Masquerade
+lightbulb - passes Vagrant
+Titandrake - plays Bazaar
+Titandrake - plays Develop
+Titandrake - trashes Tactician
+Titandrake - gains Grand Market
+Titandrake - gains Smithy
+Titandrake - plays Vagrant
+Titandrake - draws Smithy
+Titandrake - reveals: Grand Market
+Titandrake - places Grand Market on top of deck
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Masquerade, Vagrant, Silver, Vagrant
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays Bazaar
+lightbulb - draws Spice Merchant
+lightbulb - plays Grand Market
+lightbulb - draws Copper
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two cards and one action
+lightbulb - draws Market, Copper
+lightbulb - plays Market
+lightbulb - draws Vagrant
+lightbulb - plays Vagrant
+lightbulb - draws Grand Market
+lightbulb - reveals: Tactician
+lightbulb - places Tactician on top of deck
+lightbulb - plays Grand Market
+lightbulb - draws Tactician
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two cards and one action
+lightbulb - draws Grand Market, Silver
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Vagrant
+lightbulb - plays Vagrant
+lightbulb - draws Copper
+lightbulb - reveals: Grand Market
+lightbulb - places Grand Market on top of deck
+lightbulb - plays Tactician
+lightbulb - discards: Masquerade, Masquerade, Silver, Copper
+lightbulb - buys Bazaar
+lightbulb - gains Bazaar
+lightbulb - buys Market
+lightbulb - gains Market
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - draws Grand Market
+lightbulb - shuffles deck
+lightbulb - draws Copper, Grand Market, Vagrant, Bazaar
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Vagrant
+Titandrake - reveals: Bazaar
+Titandrake - places Bazaar on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Bazaar
+Titandrake - reveals: Smithy
+Titandrake - places Smithy on top of deck
+Titandrake - plays Bazaar
+Titandrake - draws Smithy
+Titandrake - plays Grand Market
+Titandrake - draws Bazaar
+Titandrake - plays Masquerade
+Titandrake - draws Develop, Masquerade
+Titandrake - passes Vagrant
+lightbulb - passes Copper
+Titandrake - plays Bazaar
+Titandrake - plays Develop
+Titandrake - trashes Smithy
+Titandrake - gains Bazaar
+Titandrake - gains Develop
+Titandrake - plays Masquerade
+Titandrake - draws Develop, Bazaar
+Titandrake - passes Copper
+lightbulb - passes Vagrant
+Titandrake - plays Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Bazaar, Bazaar, Grand Market, Masquerade, Grand Market
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - duration Tactician
+lightbulb - draws Masquerade, Grand Market, Grand Market, Copper, Vagrant
+lightbulb - plays Bazaar
+lightbulb - draws Spice Merchant
+lightbulb - plays Vagrant
+lightbulb - draws Masquerade
+lightbulb - reveals: Market
+lightbulb - places Market on top of deck
+lightbulb - plays Vagrant
+lightbulb - draws Market
+lightbulb - reveals: Copper
+lightbulb - places Copper on top of deck
+lightbulb - plays Grand Market
+lightbulb - draws Copper
+lightbulb - plays Grand Market
+lightbulb - draws Silver
+lightbulb - plays Grand Market
+lightbulb - draws Market
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Market
+lightbulb - draws Spice Merchant
+lightbulb - plays Market
+lightbulb - draws Bazaar
+lightbulb - plays Grand Market
+lightbulb - draws Copper
+lightbulb - plays Bazaar
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two coins and one buy
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two coins and one buy
+lightbulb - plays Masquerade
+lightbulb - passes Masquerade
+Titandrake - passes Masquerade
+lightbulb - plays 1 Silver
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Tactician
+lightbulb - gains Tactician
+lightbulb - buys Grand Market
+lightbulb - gains Grand Market
+lightbulb - buys Vagrant
+lightbulb - gains Vagrant
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - shuffles deck
+lightbulb - draws Grand Market, Silver, Masquerade, Tactician, Bazaar
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - draws Develop
+Titandrake - plays Grand Market
+Titandrake - draws Masquerade
+Titandrake - plays Develop
+Titandrake - trashes Masquerade
+Titandrake - gains Vagrant
+Titandrake - gains Smithy
+Titandrake - plays Bazaar
+Titandrake - draws Smithy
+Titandrake - plays Smithy
+Titandrake - draws Vagrant, Bazaar, Develop
+Titandrake - plays Bazaar
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Vagrant
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Develop
+Titandrake - trashes Vagrant
+Titandrake - gains Silver
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays 2 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Bazaar, Bazaar, Silver, Grand Market
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Grand Market
+lightbulb - draws Vagrant
+lightbulb - plays Bazaar
+lightbulb - draws Bazaar
+lightbulb - plays Vagrant
+lightbulb - draws Spice Merchant
+lightbulb - reveals: Market
+lightbulb - places Market on top of deck
+lightbulb - plays Bazaar
+lightbulb - draws Market
+lightbulb - plays Market
+lightbulb - draws Market
+lightbulb - plays Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Copper
+lightbulb - plays Masquerade
+lightbulb - draws Vagrant, Grand Market
+lightbulb - passes Copper
+Titandrake - passes Vagrant
+lightbulb - plays Grand Market
+lightbulb - draws Tactician
+lightbulb - plays Vagrant
+lightbulb - draws Spice Merchant
+lightbulb - reveals: Copper
+lightbulb - places Copper on top of deck
+lightbulb - plays Vagrant
+lightbulb - draws Copper
+lightbulb - reveals: Grand Market
+lightbulb - places Grand Market on top of deck
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two cards and one action
+lightbulb - draws Grand Market, Vagrant
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Vagrant
+lightbulb - draws Masquerade
+lightbulb - reveals: Grand Market
+lightbulb - places Grand Market on top of deck
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Copper
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two coins and one buy
+lightbulb - plays Tactician
+lightbulb - discards: Silver, Tactician, Masquerade
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Bazaar
+lightbulb - gains Bazaar
+lightbulb - buys Market
+lightbulb - gains Market
+lightbulb - buys Vagrant
+lightbulb - gains Vagrant
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Province, Vagrant, Grand Market, Vagrant
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Grand Market
+Titandrake - plays Bazaar
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Vagrant
+Titandrake - reveals: Grand Market
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Smithy
+Titandrake - plays Smithy
+Titandrake - draws Market, Develop, Masquerade
+Titandrake - plays Develop
+Titandrake - trashes Vagrant
+Titandrake - gains Develop
+Titandrake - plays Masquerade
+Titandrake - draws Develop, Develop
+Titandrake - passes Copper
+lightbulb - passes Copper
+Titandrake - plays Market
+Titandrake - plays Develop
+Titandrake - trashes Silver
+Titandrake - gains Smithy
+Titandrake - gains Vagrant
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Vagrant, Smithy
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Bazaar, Bazaar
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - duration Tactician
+lightbulb - draws Silver, Tactician, Grand Market, Masquerade, Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Vagrant
+lightbulb - plays Grand Market
+lightbulb - draws Vagrant
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Vagrant
+lightbulb - draws Vagrant
+lightbulb - reveals: Grand Market
+lightbulb - places Grand Market on top of deck
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Market
+lightbulb - plays Market
+lightbulb - draws Spice Merchant
+lightbulb - plays Vagrant
+lightbulb - draws Bazaar
+lightbulb - reveals: Bazaar
+lightbulb - places Bazaar on top of deck
+lightbulb - plays Bazaar
+lightbulb - draws Bazaar
+lightbulb - plays Bazaar
+lightbulb - draws Masquerade
+lightbulb - plays Vagrant
+lightbulb - draws Copper
+lightbulb - reveals: Bazaar
+lightbulb - places Bazaar on top of deck
+lightbulb - plays Vagrant
+lightbulb - draws Bazaar
+lightbulb - reveals: Market
+lightbulb - places Market on top of deck
+lightbulb - plays Bazaar
+lightbulb - draws Market
+lightbulb - plays Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Copper
+lightbulb - plays Vagrant
+lightbulb - draws Spice Merchant
+lightbulb - reveals: Market
+lightbulb - places Market on top of deck
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two coins and one buy
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two coins and one buy
+lightbulb - plays Masquerade
+lightbulb - draws Market
+lightbulb - passes Copper
+Titandrake - passes Vagrant
+lightbulb - plays Market
+lightbulb - plays Vagrant
+lightbulb - plays Tactician
+lightbulb - discards: Province, Silver, Masquerade
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - buys Copper
+lightbulb - gains Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Vagrant, Market, Grand Market, Grand Market
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Market
+Titandrake - plays Smithy
+Titandrake - draws Silver, Province, Masquerade
+Titandrake - plays Market
+Titandrake - draws Grand Market
+Titandrake - plays Bazaar
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Smithy
+Titandrake - reveals: Bazaar
+Titandrake - places Bazaar on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Bazaar
+Titandrake - plays Grand Market
+Titandrake - draws Develop
+Titandrake - plays Develop
+Titandrake - trashes Smithy
+Titandrake - gains Develop
+Titandrake - gains Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Bazaar
+Titandrake - plays Masquerade
+Titandrake - draws Develop, Develop
+Titandrake - passes Copper
+lightbulb - passes Copper
+Titandrake - plays Bazaar
+Titandrake - draws Duchy
+Titandrake - plays Develop
+Titandrake - trashes Copper
+Titandrake - plays Develop
+Titandrake - trashes Silver
+Titandrake - gains Smithy
+Titandrake - gains Vagrant
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Vagrant, Smithy, Develop, Copper, Grand Market
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - duration Tactician
+lightbulb - draws Copper, Silver, Bazaar, Bazaar, Province
+lightbulb - plays Grand Market
+lightbulb - draws Vagrant
+lightbulb - plays Grand Market
+lightbulb - draws Market
+lightbulb - plays Bazaar
+lightbulb - draws Vagrant
+lightbulb - plays Bazaar
+lightbulb - draws Copper
+lightbulb - plays Market
+lightbulb - draws Tactician
+lightbulb - plays Vagrant
+lightbulb - draws Bazaar
+lightbulb - reveals: Grand Market
+lightbulb - places Grand Market on top of deck
+lightbulb - plays Vagrant
+lightbulb - draws Grand Market
+lightbulb - reveals: Grand Market
+lightbulb - places Grand Market on top of deck
+lightbulb - plays Vagrant
+lightbulb - draws Grand Market
+lightbulb - reveals: Vagrant
+lightbulb - places Vagrant on top of deck
+lightbulb - plays Grand Market
+lightbulb - draws Vagrant
+lightbulb - plays Grand Market
+lightbulb - draws Vagrant
+lightbulb - plays Vagrant
+lightbulb - draws Grand Market
+lightbulb - reveals: Province
+lightbulb - places Province in hand
+lightbulb - plays Grand Market
+lightbulb - draws Province
+lightbulb - plays Vagrant
+lightbulb - draws Spice Merchant
+lightbulb - reveals: Masquerade
+lightbulb - places Masquerade on top of deck
+lightbulb - plays Bazaar
+lightbulb - draws Masquerade
+lightbulb - plays Market
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - draws Masquerade
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two coins and one buy
+lightbulb - plays Masquerade
+lightbulb - draws Spice Merchant, Copper
+lightbulb - passes Copper
+Titandrake - passes Copper
+lightbulb - plays Spice Merchant
+lightbulb - trashes Copper
+lightbulb - chooses two cards and one action
+lightbulb - draws Market, Vagrant
+lightbulb - plays Market
+lightbulb - draws Province
+lightbulb - plays Vagrant
+lightbulb - draws Grand Market
+lightbulb - plays Grand Market
+lightbulb - plays Masquerade
+lightbulb - passes Copper
+Titandrake - passes Copper
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - shuffles deck
+lightbulb - draws Tactician, Masquerade, Province, Vagrant, Bazaar
+ 
+------------ Game Over ------------
+lightbulb - cards: 7 Grand Market, 6 Vagrant, 3 Bazaar, 3 Market, 2 Tactician, 2 Masquerade, 2 Spice Merchant, 2 Copper, 1 Silver, 7 Province, 1 Estate
+lightbulb - total victory points: 43
+lightbulb - turns: 16
+ 
+Titandrake - cards: 4 Develop, 4 Bazaar, 3 Grand Market, 2 Vagrant, 2 Smithy, 1 Spice Merchant, 1 Market, 1 Masquerade, 2 Copper, 2 Duchy, 1 Province
+Titandrake - total victory points: 12
+Titandrake - turns: 15
+ 
+1st place: lightbulb
+2nd place: Titandrake
+ 

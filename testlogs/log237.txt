@@ -1,0 +1,504 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Native Village, Pearl Diver, Masquerade, Scheme, Coppersmith, Mining Village, Council Room, Highway, Merchant Guild, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+greens - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+greens - shuffles deck
+Titandrake - shuffles deck
+greens - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- greens: turn 1 ----------
+greens - plays 4 Copper
+greens - buys Mining Village
+greens - gains Mining Village
+greens - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- greens: turn 2 ----------
+greens - plays 3 Copper
+greens - buys Masquerade
+greens - gains Masquerade
+greens - shuffles deck
+greens - draws Copper, Mining Village, Copper, Copper, Masquerade
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- greens: turn 3 ----------
+greens - plays Mining Village
+greens - draws Estate
+greens - plays Masquerade
+greens - draws Estate, Copper
+greens - passes Estate
+Titandrake - passes Estate
+greens - trashes Estate
+greens - plays 4 Copper
+greens - buys Mining Village
+greens - gains Mining Village
+greens - draws Estate, Copper, Copper, Copper
+greens - shuffles deck
+greens - draws Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- greens: turn 4 ----------
+greens - plays 4 Copper
+greens - buys Silver
+greens - gains Silver
+greens - draws Copper, Masquerade, Mining Village, Mining Village, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Masquerade, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- greens: turn 5 ----------
+greens - plays Mining Village
+greens - draws Estate
+greens - plays Mining Village
+greens - draws Copper
+greens - plays Masquerade
+greens - shuffles deck
+greens - draws Copper, Copper
+greens - passes Estate
+Titandrake - passes Estate
+greens - trashes Estate
+greens - plays 5 Copper
+greens - buys Council Room
+greens - gains Council Room
+greens - draws Copper, Estate, Copper, Silver
+greens - shuffles deck
+greens - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Copper
+Titandrake - passes Estate
+greens - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays 5 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Estate, Copper, Council Room, Native Village, Copper
+ 
+---------- greens: turn 6 ----------
+greens - plays 3 Copper, 1 Silver
+greens - buys Merchant Guild
+greens - gains Merchant Guild
+greens - draws Copper, Masquerade, Mining Village, Copper, Council Room
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Estate
+Titandrake - plays Council Room
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Masquerade, Copper
+greens - draws Mining Village
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Highway
+Titandrake - passes Estate
+greens - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Native Village, Copper, Scheme
+ 
+---------- greens: turn 7 ----------
+greens - plays Mining Village
+greens - draws Copper
+greens - plays Masquerade
+greens - draws Copper
+greens - shuffles deck
+greens - draws Estate
+greens - passes Estate
+Titandrake - passes Copper
+greens - trashes Estate
+greens - plays Mining Village
+greens - draws Merchant Guild
+greens - plays Council Room
+greens - draws Copper, Silver, Copper, Copper
+Titandrake - draws Copper
+greens - plays Merchant Guild
+greens - plays 7 Copper, 1 Silver
+greens - buys Native Village
+greens - receives 1 coin token
+greens - gains Native Village
+greens - buys Native Village
+greens - receives 1 coin token
+greens - gains Native Village
+greens - buys Gold
+greens - receives 1 coin token
+greens - gains Gold
+greens - shuffles deck
+greens - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scheme
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Council Room
+Titandrake - plays Council Room
+Titandrake - draws Silver, Masquerade, Copper, Copper
+greens - draws Mining Village
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Estate
+Titandrake - plays Masquerade
+Titandrake - draws Highway, Copper
+Titandrake - passes Estate
+greens - passes Copper
+Titandrake - trashes Estate
+Titandrake - plays Highway
+Titandrake - plays 7 Copper, 1 Silver
+Titandrake - buys Merchant Guild
+Titandrake - gains Merchant Guild
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - Scheme choice: Mining Village
+Titandrake - draws Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Council Room, Copper, Merchant Guild, Scheme
+ 
+---------- greens: turn 8 ----------
+greens - plays Mining Village
+greens - draws Masquerade
+greens - plays Masquerade
+greens - draws Native Village, Council Room
+greens - passes Estate
+Titandrake - passes Copper
+greens - trashes Copper
+greens - plays Native Village
+greens - takes set aside cards: 
+greens - plays Council Room
+greens - draws Native Village, Merchant Guild, Copper, Mining Village
+Titandrake - draws Copper
+greens - plays Mining Village
+greens - draws Silver
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays Merchant Guild
+greens - plays 5 Copper, 1 Silver
+greens - uses 1 coin token
+greens - buys Native Village
+greens - receives 1 coin token
+greens - gains Native Village
+greens - buys Courtyard
+greens - receives 1 coin token
+greens - gains Courtyard
+greens - buys Merchant Guild
+greens - receives 1 coin token
+greens - gains Merchant Guild
+greens - draws Gold
+greens - shuffles deck
+greens - draws Masquerade, Copper, Mining Village, Courtyard
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Masquerade
+Titandrake - plays Council Room
+Titandrake - draws Copper, Mining Village, Native Village, Silver
+greens - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Copper
+Titandrake - passes Estate
+greens - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Scheme
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Merchant Guild
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - receives 1 coin token
+Titandrake - gains Highway
+Titandrake - buys Highway
+Titandrake - receives 1 coin token
+Titandrake - gains Highway
+Titandrake - buys Native Village
+Titandrake - receives 1 coin token
+Titandrake - gains Native Village
+Titandrake - Scheme choice: Council Room
+Titandrake - draws Council Room
+Titandrake - shuffles deck
+Titandrake - draws Copper, Mining Village, Copper, Copper
+ 
+---------- greens: turn 9 ----------
+greens - plays Mining Village
+greens - draws Copper
+greens - plays Masquerade
+greens - draws Copper, Native Village
+greens - passes Estate
+Titandrake - passes Copper
+greens - trashes Copper
+greens - plays Native Village
+greens - sets aside Native Village
+greens - plays Courtyard
+greens - draws Merchant Guild, Native Village, Copper
+greens - places Copper on top of deck
+greens - plays Native Village
+greens - takes set aside cards: Copper, Native Village
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays Merchant Guild
+greens - plays 4 Copper, 1 Gold
+greens - buys Native Village
+greens - receives 1 coin token
+greens - gains Native Village
+greens - buys Highway
+greens - receives 1 coin token
+greens - gains Highway
+greens - draws Merchant Guild, Mining Village, Council Room, Silver
+greens - shuffles deck
+greens - draws Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Highway
+Titandrake - plays Council Room
+Titandrake - draws Highway, Highway, Copper, Copper
+greens - draws Masquerade
+Titandrake - plays Highway
+Titandrake - draws Merchant Guild
+Titandrake - plays Highway
+Titandrake - draws Mining Village
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Mining Village
+Titandrake - draws Scheme
+Titandrake - plays Scheme
+Titandrake - draws Masquerade
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Native Village
+Titandrake - passes Estate
+greens - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Merchant Guild
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - receives 1 coin token
+Titandrake - gains Highway
+Titandrake - buys Highway
+Titandrake - receives 1 coin token
+Titandrake - gains Highway
+Titandrake - buys Merchant Guild
+Titandrake - receives 1 coin token
+Titandrake - gains Merchant Guild
+Titandrake - Scheme choice: Council Room
+Titandrake - draws Council Room, Native Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Mining Village, Highway
+ 
+---------- greens: turn 10 ----------
+greens - plays Mining Village
+greens - draws Native Village
+greens - plays Masquerade
+greens - draws Native Village, Merchant Guild
+greens - passes Estate
+Titandrake - passes Copper
+greens - plays Native Village
+greens - sets aside Courtyard
+greens - plays Council Room
+greens - draws Copper, Copper, Copper, Gold
+Titandrake - draws Scheme
+greens - plays Native Village
+greens - takes set aside cards: Copper, Courtyard
+greens - plays Courtyard
+greens - draws Highway, Mining Village, Native Village
+greens - places Copper on top of deck
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays Highway
+greens - draws Native Village
+greens - plays Merchant Guild
+greens - plays Merchant Guild
+greens - plays 4 Copper, 1 Silver, 1 Gold
+greens - buys Native Village
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - gains Native Village
+greens - buys Highway
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - gains Highway
+greens - buys Merchant Guild
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - gains Merchant Guild
+greens - buys Native Village
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - gains Native Village
+greens - shuffles deck
+greens - draws Mining Village, Native Village, Merchant Guild, Masquerade, Highway
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Native Village
+Titandrake - plays Council Room
+Titandrake - draws Highway, Highway, Merchant Guild, Highway
+greens - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Highway
+Titandrake - draws Mining Village
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Masquerade
+Titandrake - plays Mining Village
+Titandrake - draws Merchant Guild
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Copper
+Titandrake - passes Copper
+greens - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Highway
+Titandrake - plays Merchant Guild
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - receives 1 coin token
+Titandrake - receives 1 coin token
+Titandrake - gains Province
+Titandrake - buys Council Room
+Titandrake - receives 1 coin token
+Titandrake - receives 1 coin token
+Titandrake - gains Council Room
+Titandrake - buys Mining Village
+Titandrake - receives 1 coin token
+Titandrake - receives 1 coin token
+Titandrake - gains Mining Village
+Titandrake - buys Council Room
+Titandrake - receives 1 coin token
+Titandrake - receives 1 coin token
+Titandrake - gains Council Room
+Titandrake - Scheme choice: Council Room
+Titandrake - draws Council Room
+Titandrake - shuffles deck
+Titandrake - draws Estate, Council Room, Copper, Mining Village
+ 
+---------- greens: turn 11 ----------
+greens - plays Mining Village
+greens - draws Silver
+greens - plays Highway
+greens - draws Copper
+greens - plays Masquerade
+greens - draws Merchant Guild, Native Village
+greens - passes Copper
+Titandrake - passes Copper
+greens - plays Native Village
+greens - sets aside Courtyard
+greens - plays Native Village
+greens - takes set aside cards: Copper, Courtyard
+greens - plays Courtyard
+greens - draws Merchant Guild, Native Village, Native Village
+greens - places Copper on top of deck
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays Native Village
+greens - sets aside Gold
+greens - plays Merchant Guild
+greens - plays Merchant Guild
+greens - plays Merchant Guild
+greens - plays 2 Copper, 1 Silver
+greens - uses 14 coin tokens
+greens - buys Province
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - gains Province
+greens - buys Province
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - gains Province
+greens - buys Province
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - gains Province
+greens - buys Copper
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - receives 1 coin token
+greens - gains Copper
+greens - draws Native Village, Mining Village, Native Village, Highway, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Highway
+Titandrake - trashes Mining Village
+Titandrake - plays Council Room
+Titandrake - draws Native Village, Copper, Merchant Guild, Silver
+greens - draws Council Room
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Masquerade
+Titandrake - trashes Mining Village
+Titandrake - plays Council Room
+Titandrake - draws Native Village, Highway, Merchant Guild, Scheme
+greens - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Council Room
+Titandrake - plays Highway
+Titandrake - draws Province
+Titandrake - plays Native Village
+Titandrake - sets aside Mining Village
+Titandrake - plays Council Room
+Titandrake - draws Highway, Highway
+greens - shuffles deck
+greens - draws Silver
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Copper, Mining Village
+Titandrake - plays Mining Village
+Titandrake - trashes Mining Village
+Titandrake - plays Highway
+Titandrake - plays Highway
+Titandrake - plays Merchant Guild
+Titandrake - plays Merchant Guild
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Masquerade, 3 Copper, 1 Silver, 1 Estate, 1 Province
+Titandrake - total victory points: 7
+Titandrake - turns: 10
+ 
+greens - resigned
+greens - cards: 6 Native Village, 3 Merchant Guild, 2 Mining Village, 2 Highway, 1 Council Room, 1 Masquerade, 1 Courtyard, 6 Copper, 1 Silver, 1 Gold, 3 Province
+greens - total victory points: 18
+greens - turns: 11
+ 
+1st place: Titandrake
+2nd place: greens
+ 

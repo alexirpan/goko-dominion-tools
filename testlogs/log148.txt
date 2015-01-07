@@ -1,0 +1,749 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Doctor, Oracle, Trade Route, Woodcutter, Familiar, Scout, Smithy, Band of Misfits, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+PeraPeraPrv - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+PeraPeraPrv - shuffles deck
+Titandrake - shuffles deck
+PeraPeraPrv - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Doctor
+Titandrake - overpays for Doctor with 1 coin
+Titandrake - looks at Copper
+Titandrake - trashes Copper
+Titandrake - gains Doctor
+Titandrake - draws Estate, Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- PeraPeraPrv: turn 1 ----------
+PeraPeraPrv - plays 3 Copper
+PeraPeraPrv - buys Silver
+PeraPeraPrv - gains Silver
+PeraPeraPrv - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper, Copper, Copper, Doctor, Copper
+ 
+---------- PeraPeraPrv: turn 2 ----------
+PeraPeraPrv - plays 4 Copper
+PeraPeraPrv - buys Doctor
+PeraPeraPrv - overpays for Doctor with 1 coin
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - looks at Estate
+PeraPeraPrv - trashes Estate
+PeraPeraPrv - gains Doctor
+PeraPeraPrv - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - shuffles deck
+Titandrake - reveals: Estate, Hamlet, Copper
+Titandrake - trashes Estate
+Titandrake - places Copper on top of deck
+Titandrake - places Hamlet on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Hamlet, Copper, Estate, Estate, Copper
+ 
+---------- PeraPeraPrv: turn 3 ----------
+PeraPeraPrv - plays 3 Copper, 1 Silver
+PeraPeraPrv - buys Band of Misfits
+PeraPeraPrv - gains Band of Misfits
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Doctor, Copper, Copper, Copper, Band of Misfits
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Doctor, Copper, Silver, Copper, Copper
+ 
+---------- PeraPeraPrv: turn 4 ----------
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Hamlet
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Copper
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Copper
+PeraPeraPrv - reveals: Copper, Silver, Copper
+PeraPeraPrv - trashes Copper, Copper
+PeraPeraPrv - places Silver on top of deck
+PeraPeraPrv - plays 4 Copper
+PeraPeraPrv - buys Potion
+PeraPeraPrv - gains Potion
+PeraPeraPrv - draws Silver, Estate, Estate, Copper
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Potion
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - shuffles deck
+Titandrake - reveals: Hamlet, Estate, Copper
+Titandrake - trashes Estate
+Titandrake - places Copper on top of deck
+Titandrake - places Hamlet on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Band of Misfits
+Titandrake - gains Band of Misfits
+Titandrake - draws Hamlet, Copper, Copper, Copper, Silver
+ 
+---------- PeraPeraPrv: turn 5 ----------
+PeraPeraPrv - plays 1 Silver, 1 Copper, 1 Potion
+PeraPeraPrv - buys Familiar
+PeraPeraPrv - gains Familiar
+PeraPeraPrv - draws Copper, Copper, Copper, Copper, Doctor
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- PeraPeraPrv: turn 6 ----------
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Estate
+PeraPeraPrv - reveals: Band of Misfits
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - reveals: Copper, Potion
+PeraPeraPrv - places Copper on top of deck
+PeraPeraPrv - places Band of Misfits on top of deck
+PeraPeraPrv - places Potion on top of deck
+PeraPeraPrv - plays 4 Copper
+PeraPeraPrv - buys Smithy
+PeraPeraPrv - gains Smithy
+PeraPeraPrv - draws Potion, Band of Misfits, Copper, Familiar, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Oracle, Hamlet, Doctor, Silver, Hamlet
+ 
+---------- PeraPeraPrv: turn 7 ----------
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Estate
+Titandrake - gains Curse
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Doctor
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Copper
+PeraPeraPrv - reveals: Estate
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - reveals: Doctor, Copper
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - places Estate on top of deck
+PeraPeraPrv - places Doctor on top of deck
+PeraPeraPrv - plays 1 Potion, 1 Copper, 1 Silver
+PeraPeraPrv - buys Familiar
+PeraPeraPrv - gains Familiar
+PeraPeraPrv - draws Doctor, Estate, Copper, Copper, Smithy
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Band of Misfits
+Titandrake - discards Doctor
+Titandrake - receives one action
+Titandrake - plays Band of Misfits
+Titandrake - chooses Smithy
+Titandrake - plays Smithy
+Titandrake - draws Copper, Silver, Copper
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Copper
+Titandrake - discards: Copper, Copper
+PeraPeraPrv - reveals: Copper
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - reveals: Familiar
+PeraPeraPrv - discards: Copper, Familiar
+Titandrake - draws Copper, Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Doctor
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Curse, Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - trashes Copper, Copper
+Titandrake - places Curse on top of deck
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Curse, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- PeraPeraPrv: turn 8 ----------
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Estate
+PeraPeraPrv - reveals: Estate, Silver, Copper
+PeraPeraPrv - trashes Estate
+PeraPeraPrv - places Copper on top of deck
+PeraPeraPrv - places Silver on top of deck
+PeraPeraPrv - plays 2 Copper
+PeraPeraPrv - buys Hamlet
+PeraPeraPrv - gains Hamlet
+PeraPeraPrv - draws Silver, Copper, Band of Misfits, Familiar, Potion
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Hamlet, Doctor, Silver, Copper, Silver
+ 
+---------- PeraPeraPrv: turn 9 ----------
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Hamlet
+Titandrake - gains Curse
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Smithy
+PeraPeraPrv - discards Copper
+PeraPeraPrv - receives one action
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Estate, Copper, Copper
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Doctor
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Copper
+PeraPeraPrv - reveals: Familiar, Doctor, Copper
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - places Doctor on top of deck
+PeraPeraPrv - places Familiar on top of deck
+PeraPeraPrv - plays 2 Copper, 1 Silver, 1 Potion
+PeraPeraPrv - buys Familiar
+PeraPeraPrv - gains Familiar
+PeraPeraPrv - draws Familiar, Doctor
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Potion, Hamlet, Familiar
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Gold
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Oracle, Band of Misfits, Hamlet
+Titandrake - places Hamlet on top of deck
+Titandrake - places Band of Misfits on top of deck
+Titandrake - places Oracle on top of deck
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Oracle, Band of Misfits, Hamlet, Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- PeraPeraPrv: turn 10 ----------
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Copper
+Titandrake - gains Curse
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Estate
+PeraPeraPrv - discards Estate
+PeraPeraPrv - receives one action
+PeraPeraPrv - discards Potion
+PeraPeraPrv - receives one buy
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Copper
+PeraPeraPrv - reveals: Copper, Silver, Familiar
+PeraPeraPrv - trashes Copper
+PeraPeraPrv - places Silver on top of deck
+PeraPeraPrv - places Familiar on top of deck
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Familiar
+Titandrake - gains Curse
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Silver
+Titandrake - gains Curse
+PeraPeraPrv - plays 1 Copper, 1 Silver
+PeraPeraPrv - buys Silver
+PeraPeraPrv - gains Silver
+PeraPeraPrv - draws Copper, Band of Misfits, Smithy
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Familiar, Potion
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - plays Oracle
+Titandrake - reveals: Doctor, Hamlet
+Titandrake - places Hamlet on top of deck
+Titandrake - places Doctor on top of deck
+PeraPeraPrv - reveals: Familiar, Copper
+PeraPeraPrv - discards: Familiar, Copper
+Titandrake - draws Doctor, Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Curse
+Titandrake - discards Curse
+Titandrake - receives one action
+Titandrake - plays Band of Misfits
+Titandrake - chooses Smithy
+Titandrake - plays Smithy
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays Hamlet
+Titandrake - draws Gold
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - plays Doctor
+Titandrake - names Curse
+Titandrake - reveals: Grand Market, Copper, Silver
+Titandrake - places Copper on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Hamlet
+Titandrake - draws Grand Market
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Copper, Curse, Silver
+Titandrake - shuffles deck
+Titandrake - draws Oracle, Hamlet
+ 
+---------- PeraPeraPrv: turn 11 ----------
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Silver
+Titandrake - gains Curse
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Hamlet
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - discards Potion
+PeraPeraPrv - receives one action
+PeraPeraPrv - discards Copper
+PeraPeraPrv - receives one buy
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Estate
+Titandrake - gains Curse
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Hamlet, Doctor, Silver
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Potion
+PeraPeraPrv - discards Estate
+PeraPeraPrv - receives one action
+PeraPeraPrv - discards Potion
+PeraPeraPrv - receives one buy
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Copper
+PeraPeraPrv - reveals: Familiar, Copper, Copper
+PeraPeraPrv - trashes Copper, Copper
+PeraPeraPrv - places Familiar on top of deck
+PeraPeraPrv - plays 2 Silver
+PeraPeraPrv - buys Silver
+PeraPeraPrv - gains Silver
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Band of Misfits, Familiar, Potion, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Curse
+Titandrake - receives one action
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Grand Market
+Titandrake - places Grand Market on top of deck
+Titandrake - places Copper on top of deck
+PeraPeraPrv - reveals: Smithy, Familiar
+PeraPeraPrv - discards: Smithy, Familiar
+Titandrake - draws Copper, Grand Market
+Titandrake - plays Hamlet
+Titandrake - draws Grand Market
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Curse, Copper, Hamlet, Gold, Band of Misfits
+ 
+---------- PeraPeraPrv: turn 12 ----------
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Doctor
+Titandrake - gains Curse
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Hamlet
+Titandrake - gains Curse
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Silver
+PeraPeraPrv - discards Potion
+PeraPeraPrv - receives one action
+PeraPeraPrv - discards Estate
+PeraPeraPrv - receives one buy
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Smithy
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Silver, Silver
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Estate
+PeraPeraPrv - reveals: Smithy, Estate, Potion
+PeraPeraPrv - trashes Estate
+PeraPeraPrv - places Potion on top of deck
+PeraPeraPrv - places Smithy on top of deck
+PeraPeraPrv - plays 3 Silver
+PeraPeraPrv - buys Grand Market
+PeraPeraPrv - gains Grand Market
+PeraPeraPrv - draws Smithy, Potion
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Silver, Doctor, Hamlet
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Curse
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - plays Band of Misfits
+Titandrake - chooses Smithy
+Titandrake - plays Smithy
+Titandrake - draws Curse, Curse, Estate
+Titandrake - plays 1 Gold
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Hamlet, Doctor
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Curse
+ 
+---------- PeraPeraPrv: turn 13 ----------
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Silver
+PeraPeraPrv - discards Potion
+PeraPeraPrv - receives one action
+PeraPeraPrv - discards Silver
+PeraPeraPrv - receives one buy
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Familiar, Silver, Band of Misfits
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Grand Market
+Titandrake - gains Curse
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Potion
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Hamlet
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Silver
+PeraPeraPrv - discards Potion
+PeraPeraPrv - receives one action
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Potion
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - reveals: Potion
+PeraPeraPrv - trashes Potion
+PeraPeraPrv - plays 3 Silver
+PeraPeraPrv - buys Grand Market
+PeraPeraPrv - gains Grand Market
+PeraPeraPrv - buys Hamlet
+PeraPeraPrv - gains Hamlet
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Familiar, Smithy, Hamlet, Silver, Familiar
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Grand Market
+Titandrake - discards Curse
+Titandrake - receives one action
+Titandrake - discards Curse
+Titandrake - receives one buy
+Titandrake - plays Doctor
+Titandrake - names Curse
+Titandrake - reveals: Curse, Copper, Curse
+Titandrake - trashes Curse, Curse
+Titandrake - places Copper on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - draws Grand Market, Band of Misfits, Curse, Hamlet, Curse
+ 
+---------- PeraPeraPrv: turn 14 ----------
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Hamlet
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Silver
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - discards Hamlet
+PeraPeraPrv - receives one action
+PeraPeraPrv - discards Grand Market
+PeraPeraPrv - receives one buy
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Doctor, Familiar, Silver
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Band of Misfits
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Hamlet
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - discards Doctor
+PeraPeraPrv - receives one action
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Doctor
+PeraPeraPrv - plays Doctor
+PeraPeraPrv - names Silver
+PeraPeraPrv - reveals: Hamlet
+PeraPeraPrv - places Hamlet on top of deck
+PeraPeraPrv - plays 3 Silver
+PeraPeraPrv - buys Grand Market
+PeraPeraPrv - gains Grand Market
+PeraPeraPrv - buys Smithy
+PeraPeraPrv - gains Smithy
+PeraPeraPrv - draws Hamlet
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Hamlet, Silver, Smithy, Grand Market
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Gold
+Titandrake - discards Curse
+Titandrake - receives one action
+Titandrake - discards Curse
+Titandrake - receives one buy
+Titandrake - plays Band of Misfits
+Titandrake - chooses Doctor
+Titandrake - plays Doctor
+Titandrake - names Doctor
+Titandrake - reveals: Curse, Curse, Hamlet
+Titandrake - places Hamlet on top of deck
+Titandrake - places Curse on top of deck
+Titandrake - places Curse on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Curse
+Titandrake - plays Gold
+Titandrake - buys Band of Misfits
+Titandrake - gains Band of Misfits
+Titandrake - draws Curse, Hamlet, Copper, Oracle, Silver
+ 
+---------- PeraPeraPrv: turn 15 ----------
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Smithy
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - discards Silver
+PeraPeraPrv - receives one action
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Doctor
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Silver, Band of Misfits, Silver
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - discards Doctor
+PeraPeraPrv - receives one action
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Silver
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Doctor
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Woodcutter
+PeraPeraPrv - plays Woodcutter
+PeraPeraPrv - plays 3 Silver
+PeraPeraPrv - buys Grand Market
+PeraPeraPrv - gains Grand Market
+PeraPeraPrv - buys Province
+PeraPeraPrv - gains Province
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Grand Market, Band of Misfits, Silver, Familiar, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Grand Market
+Titandrake - discards Curse
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Oracle
+Titandrake - reveals: Trade Route, Copper
+Titandrake - discards: Trade Route, Copper
+PeraPeraPrv - reveals: Silver, Silver
+PeraPeraPrv - discards: Silver, Silver
+Titandrake - draws Silver, Curse
+Titandrake - plays Grand Market
+Titandrake - draws Estate
+Titandrake - plays 2 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Hamlet, Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Curse, Doctor, Curse
+ 
+---------- PeraPeraPrv: turn 16 ----------
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Hamlet
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Smithy
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - discards Province
+PeraPeraPrv - receives one action
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Hamlet
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Smithy, Doctor, Grand Market
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Province
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Silver
+PeraPeraPrv - discards Province
+PeraPeraPrv - receives one action
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Silver
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Province
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Trade Route
+PeraPeraPrv - plays Trade Route
+PeraPeraPrv - trashes Doctor
+PeraPeraPrv - plays 3 Silver
+PeraPeraPrv - buys Grand Market
+PeraPeraPrv - gains Grand Market
+PeraPeraPrv - buys Province
+PeraPeraPrv - gains Province
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Familiar, Silver, Familiar, Smithy, Band of Misfits
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - discards Curse
+Titandrake - receives one action
+Titandrake - plays Hamlet
+Titandrake - draws Curse
+Titandrake - discards Curse
+Titandrake - receives one action
+Titandrake - discards Curse
+Titandrake - receives one buy
+Titandrake - plays Doctor
+Titandrake - names Curse
+Titandrake - reveals: Hamlet, Curse, Band of Misfits
+Titandrake - trashes Curse
+Titandrake - places Band of Misfits on top of deck
+Titandrake - places Hamlet on top of deck
+Titandrake - plays Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Hamlet, Band of Misfits, Copper, Grand Market, Estate
+ 
+---------- PeraPeraPrv: turn 17 ----------
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Familiar
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Silver
+PeraPeraPrv - plays Familiar
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Smithy
+PeraPeraPrv - plays Band of Misfits
+PeraPeraPrv - chooses Hamlet
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - discards Silver
+PeraPeraPrv - receives one action
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Province
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Hamlet, Hamlet, Grand Market
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - draws Silver
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - draws Province
+PeraPeraPrv - discards Province
+PeraPeraPrv - receives one action
+PeraPeraPrv - plays Smithy
+PeraPeraPrv - draws Grand Market
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Silver, Province
+PeraPeraPrv - plays Grand Market
+PeraPeraPrv - plays Hamlet
+PeraPeraPrv - discards Province
+PeraPeraPrv - receives one action
+PeraPeraPrv - discards Province
+PeraPeraPrv - receives one buy
+PeraPeraPrv - plays 3 Silver
+PeraPeraPrv - buys Grand Market
+PeraPeraPrv - gains Grand Market
+PeraPeraPrv - buys Hamlet
+PeraPeraPrv - gains Hamlet
+PeraPeraPrv - buys Hamlet
+PeraPeraPrv - gains Hamlet
+PeraPeraPrv - buys Duchy
+PeraPeraPrv - gains Duchy
+PeraPeraPrv - shuffles deck
+PeraPeraPrv - draws Silver, Hamlet, Grand Market, Hamlet, Familiar
+ 
+------------ Game Over ------------
+PeraPeraPrv - cards: 6 Grand Market, 4 Hamlet, 3 Familiar, 2 Smithy, 1 Band of Misfits, 3 Silver, 2 Province, 1 Duchy
+PeraPeraPrv - total victory points: 15
+PeraPeraPrv - turns: 17
+ 
+Titandrake - cards: 6 Hamlet, 4 Grand Market, 2 Band of Misfits, 1 Doctor, 1 Trade Route, 1 Oracle, 1 Smithy, 4 Copper, 2 Silver, 1 Gold, 1 Estate, 7 Curse
+Titandrake - total victory points: -6
+Titandrake - turns: 17
+ 
+1st place: PeraPeraPrv
+2nd place: Titandrake
+ 

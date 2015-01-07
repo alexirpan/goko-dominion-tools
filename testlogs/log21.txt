@@ -1,0 +1,441 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Loan, Sage, Workshop, Silk Road, Treasure Map, Worker's Village, Tactician, Farmland, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Heisenberg - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Heisenberg - shuffles deck
+Titandrake - shuffles deck
+Heisenberg - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Heisenberg: turn 1 ----------
+Heisenberg - plays 3 Copper
+Heisenberg - buys Workshop
+Heisenberg - gains Workshop
+Heisenberg - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Heisenberg: turn 2 ----------
+Heisenberg - plays 4 Copper
+Heisenberg - buys Worker's Village
+Heisenberg - gains Worker's Village
+Heisenberg - shuffles deck
+Heisenberg - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Heisenberg: turn 3 ----------
+Heisenberg - plays 4 Copper
+Heisenberg - buys Workshop
+Heisenberg - gains Workshop
+Heisenberg - draws Copper, Estate, Estate, Copper, Worker's Village
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Copper, Workshop, Sage, Copper, Estate
+ 
+---------- Heisenberg: turn 4 ----------
+Heisenberg - plays Worker's Village
+Heisenberg - draws Copper
+Heisenberg - plays 3 Copper
+Heisenberg - buys Sage
+Heisenberg - gains Sage
+Heisenberg - draws Workshop
+Heisenberg - shuffles deck
+Heisenberg - draws Copper, Copper, Copper, Worker's Village
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Estate, Estate, Copper, Copper, Copper, Worker's Village
+Titandrake - places Worker's Village in hand
+Titandrake - discards: Copper, Estate, Estate, Copper, Copper, Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Workshop
+Titandrake - gains Workshop
+Titandrake - plays 3 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - shuffles deck
+Titandrake - draws Copper, Workshop, Worker's Village, Estate, Copper
+ 
+---------- Heisenberg: turn 5 ----------
+Heisenberg - plays Worker's Village
+Heisenberg - draws Copper
+Heisenberg - plays Workshop
+Heisenberg - gains Silk Road
+Heisenberg - plays 4 Copper
+Heisenberg - buys Silk Road
+Heisenberg - gains Silk Road
+Heisenberg - draws Copper, Workshop, Sage, Estate, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays Workshop
+Titandrake - gains Silk Road
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Sage, Copper, Copper, Estate
+ 
+---------- Heisenberg: turn 6 ----------
+Heisenberg - plays Sage
+Heisenberg - shuffles deck
+Heisenberg - reveals Copper, Estate, Copper, Silk Road
+Heisenberg - places Silk Road in hand
+Heisenberg - discards: Copper, Estate, Copper
+Heisenberg - plays Workshop
+Heisenberg - gains Silk Road
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - draws Copper, Copper, Worker's Village, Copper, Workshop
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sage
+Titandrake - reveals Workshop
+Titandrake - places Workshop in hand
+Titandrake - plays Workshop
+Titandrake - gains Silk Road
+Titandrake - plays 3 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Copper, Workshop
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Heisenberg: turn 7 ----------
+Heisenberg - plays Worker's Village
+Heisenberg - draws Silk Road
+Heisenberg - plays Workshop
+Heisenberg - gains Silk Road
+Heisenberg - plays 3 Copper
+Heisenberg - buys Estate
+Heisenberg - gains Estate
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - draws Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Estate, Sage, Estate, Workshop
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Workshop
+Titandrake - gains Silk Road
+Titandrake - plays 4 Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Estate, Estate, Workshop, Silk Road, Copper
+ 
+---------- Heisenberg: turn 8 ----------
+Heisenberg - plays Sage
+Heisenberg - reveals Estate, Copper, Silk Road
+Heisenberg - places Silk Road in hand
+Heisenberg - discards: Estate, Copper
+Heisenberg - plays Workshop
+Heisenberg - gains Estate
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - draws Copper, Workshop, Silk Road, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Workshop
+Titandrake - gains Estate
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Candlestick Maker, Estate, Workshop, Copper
+ 
+---------- Heisenberg: turn 9 ----------
+Heisenberg - plays Workshop
+Heisenberg - gains Estate
+Heisenberg - plays Copper
+Heisenberg - plays Copper
+Heisenberg - buys Estate
+Heisenberg - gains Estate
+Heisenberg - draws Worker's Village, Silk Road, Copper, Silk Road, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Workshop
+Titandrake - gains Estate
+Titandrake - plays 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Sage, Copper, Silk Road, Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Heisenberg: turn 10 ----------
+Heisenberg - plays Worker's Village
+Heisenberg - draws Copper
+Heisenberg - plays 2 Copper
+Heisenberg - buys Candlestick Maker
+Heisenberg - gains Candlestick Maker
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - draws Copper, Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Silk Road, Worker's Village, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Sage
+Titandrake - reveals Estate, Copper, Workshop
+Titandrake - places Workshop in hand
+Titandrake - discards: Estate, Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Workshop, Estate, Workshop, Estate, Estate
+ 
+---------- Heisenberg: turn 11 ----------
+Heisenberg - plays Worker's Village
+Heisenberg - draws Copper
+Heisenberg - plays 4 Copper
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - draws Sage, Copper, Copper, Estate, Workshop
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Silk Road
+ 
+---------- Heisenberg: turn 12 ----------
+Heisenberg - plays Sage
+Heisenberg - reveals Candlestick Maker, Copper, Estate, Copper, Copper, Silk Road
+Heisenberg - places Silk Road in hand
+Heisenberg - discards: Candlestick Maker, Copper, Estate, Copper, Copper
+Heisenberg - plays Workshop
+Heisenberg - gains Silver
+Heisenberg - plays 2 Copper
+Heisenberg - buys Candlestick Maker
+Heisenberg - gains Candlestick Maker
+Heisenberg - draws Estate, Workshop, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silk Road, Copper, Silk Road, Estate, Estate
+ 
+---------- Heisenberg: turn 13 ----------
+Heisenberg - plays Workshop
+Heisenberg - gains Silver
+Heisenberg - draws Estate, Estate, Estate, Silk Road, Silk Road
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Silk Road, Copper, Copper, Sage
+ 
+---------- Heisenberg: turn 14 ----------
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Copper, Silk Road, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Silk Road
+Titandrake - places Silk Road in hand
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Copper, Workshop, Copper, Silk Road
+ 
+---------- Heisenberg: turn 15 ----------
+Heisenberg - plays 3 Copper
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - draws Workshop, Workshop, Copper, Silk Road, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Silk Road, Estate, Candlestick Maker, Workshop, Estate
+ 
+---------- Heisenberg: turn 16 ----------
+Heisenberg - plays Workshop
+Heisenberg - gains Silver
+Heisenberg - draws Worker's Village, Copper, Copper, Candlestick Maker, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Workshop, Silver, Worker's Village, Copper, Estate
+ 
+---------- Heisenberg: turn 17 ----------
+Heisenberg - plays Worker's Village
+Heisenberg - draws Copper
+Heisenberg - plays Candlestick Maker
+Heisenberg - receives 1 coin token
+Heisenberg - plays 3 Copper, 1 Silver
+Heisenberg - uses 1 coin token
+Heisenberg - buys Farmland
+Heisenberg - gains Farmland
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - draws Silver, Estate, Copper, Silk Road, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays Workshop
+Titandrake - gains Candlestick Maker
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Silver, Copper, Silver, Estate
+ 
+---------- Heisenberg: turn 18 ----------
+Heisenberg - plays 2 Copper, 1 Silver
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - draws Copper, Sage, Estate, Candlestick Maker, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Workshop, Copper
+ 
+---------- Heisenberg: turn 19 ----------
+Heisenberg - plays Candlestick Maker
+Heisenberg - receives 1 coin token
+Heisenberg - plays Sage
+Heisenberg - reveals Silver
+Heisenberg - places Silver in hand
+Heisenberg - plays 2 Copper, 1 Silver
+Heisenberg - uses 1 coin token
+Heisenberg - buys Duchy
+Heisenberg - gains Duchy
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - draws Estate, Estate, Silk Road, Estate, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silk Road, Copper, Workshop, Estate, Candlestick Maker
+ 
+---------- Heisenberg: turn 20 ----------
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Sage, Estate, Copper, Estate, Silk Road
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Silk Road, Silver, Candlestick Maker, Estate
+ 
+---------- Heisenberg: turn 21 ----------
+Heisenberg - plays Sage
+Heisenberg - reveals Copper, Silver
+Heisenberg - places Silver in hand
+Heisenberg - discards Copper
+Heisenberg - plays 1 Copper, 1 Silver
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - draws Silk Road, Copper, Silk Road, Copper, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - uses 2 coin tokens
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Silk Road, Copper, Copper, Sage
+ 
+---------- Heisenberg: turn 22 ----------
+Heisenberg - plays 2 Copper, 1 Silver
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Sage
+Titandrake - reveals Estate, Workshop
+Titandrake - places Workshop in hand
+Titandrake - discards Estate
+Titandrake - plays Workshop
+Titandrake - gains Candlestick Maker
+Titandrake - plays 3 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Estate, Candlestick Maker, Silver, Silver
+ 
+---------- Heisenberg: turn 23 ----------
+Heisenberg - plays 4 Copper
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - draws Duchy, Candlestick Maker, Copper, Farmland, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - draws Estate, Copper, Candlestick Maker, Silk Road, Candlestick Maker
+ 
+------------ Game Over ------------
+Titandrake - cards: 8 Candlestick Maker, 3 Workshop, 13 Copper, 1 Sage, 1 Worker's Village, 8 Silver, 1 Loan, 7 Estate, 4 Silk Road, 3 Duchy
+Titandrake - total victory points: 28
+Titandrake - turns: 23
+ 
+Heisenberg - cards: 2 Candlestick Maker, 2 Workshop, 16 Copper, 1 Sage, 1 Worker's Village, 9 Silver, 7 Estate, 4 Silk Road, 1 Duchy, 1 Farmland
+Heisenberg - total victory points: 24
+Heisenberg - turns: 23
+ 
+1st place: Titandrake
+2nd place: Heisenberg
+ 

@@ -1,0 +1,532 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Lighthouse, Black Market, Great Hall, Baron, Nomad Camp, Thief, Saboteur, Torturer, Border Village, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Black market deck cards: Feodum, Highway, City, Cultist, Duchess, Crossroads, Death Cart, Scout, Journeyman, Pirate Ship, Hunting Grounds, JackOfAllTrades, Council Room, Trader, Bishop, Noble Brigand, Library, Cartographer, Scrying Pool, Native Village, Masquerade, Embargo, Wishing Well, Masterpiece, Vineyard
+Rating system: pro
+Wandering Winder - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Wandering Winder - shuffles deck
+Titandrake - shuffles deck
+Wandering Winder - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Baron
+Titandrake - gains Baron
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Wandering Winder: turn 1 ----------
+Wandering Winder - plays 3 Copper
+Wandering Winder - buys Lighthouse
+Wandering Winder - gains Lighthouse
+Wandering Winder - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Lighthouse, Copper, Copper, Copper
+ 
+---------- Wandering Winder: turn 2 ----------
+Wandering Winder - plays 4 Copper
+Wandering Winder - buys Baron
+Wandering Winder - gains Baron
+Wandering Winder - shuffles deck
+Wandering Winder - draws Baron, Estate, Copper, Copper, Lighthouse
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays 4 Copper
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Estate, Estate, Copper, Copper, Baron
+ 
+---------- Wandering Winder: turn 3 ----------
+Wandering Winder - plays Lighthouse
+Wandering Winder - plays Baron
+Wandering Winder - discards Estate
+Wandering Winder - plays 2 Copper
+Wandering Winder - buys Border Village
+Wandering Winder - gains Border Village
+Wandering Winder - gains Torturer
+Wandering Winder - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Torturer
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- Wandering Winder: turn 4 ----------
+Wandering Winder - duration Lighthouse
+Wandering Winder - plays 4 Copper
+Wandering Winder - buys Torturer
+Wandering Winder - gains Torturer
+Wandering Winder - draws Estate, Copper
+Wandering Winder - shuffles deck
+Wandering Winder - draws Copper, Torturer, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Copper, Estate, Estate, Border Village, Torturer
+ 
+---------- Wandering Winder: turn 5 ----------
+Wandering Winder - plays Torturer
+Wandering Winder - draws Border Village, Lighthouse, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Wandering Winder - plays Copper
+Wandering Winder - plays Copper
+Wandering Winder - buys Lighthouse
+Wandering Winder - gains Lighthouse
+Wandering Winder - draws Estate, Torturer, Copper, Estate, Baron
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Border Village
+Titandrake - draws Baron
+Titandrake - plays Torturer
+Titandrake - draws Copper, Lighthouse, Torturer
+Wandering Winder - discards Torturer
+Wandering Winder - discards Estate
+Titandrake - plays Lighthouse
+Titandrake - plays Torturer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+Wandering Winder - discards Baron
+Wandering Winder - discards Estate
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Black Market
+Titandrake - gains Black Market
+Titandrake - draws Lighthouse, Copper, Copper, Estate, Copper
+ 
+---------- Wandering Winder: turn 6 ----------
+Wandering Winder - draws Copper, Copper
+Wandering Winder - shuffles deck
+Wandering Winder - draws Border Village, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Torturer, Copper, Baron, Copper
+ 
+---------- Wandering Winder: turn 7 ----------
+Wandering Winder - plays Border Village
+Wandering Winder - draws Baron
+Wandering Winder - plays Baron
+Wandering Winder - discards Estate
+Wandering Winder - plays 3 Copper
+Wandering Winder - buys Border Village
+Wandering Winder - gains Border Village
+Wandering Winder - gains Torturer
+Wandering Winder - draws Estate, Lighthouse, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Torturer
+Titandrake - draws Torturer, Copper, Copper, Copper, Border Village
+ 
+---------- Wandering Winder: turn 8 ----------
+Wandering Winder - plays Lighthouse
+Wandering Winder - plays 2 Copper
+Wandering Winder - buys Hamlet
+Wandering Winder - gains Hamlet
+Wandering Winder - draws Torturer, Lighthouse, Torturer, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Border Village
+Titandrake - draws Black Market
+Titandrake - plays Torturer
+Titandrake - draws Copper, Estate, Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Lighthouse
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Lighthouse
+Titandrake - plays Black Market
+Titandrake - reveals Masterpiece, City, Wishing Well
+Titandrake - places Wishing Well on bottom of the Black Market deck
+Titandrake - places City on bottom of the Black Market deck
+Titandrake - places Masterpiece on bottom of the Black Market deck
+Titandrake - plays 4 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Torturer
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Torturer
+ 
+---------- Wandering Winder: turn 9 ----------
+Wandering Winder - duration Lighthouse
+Wandering Winder - plays Lighthouse
+Wandering Winder - plays Torturer
+Wandering Winder - shuffles deck
+Wandering Winder - draws Copper, Estate, Copper
+Wandering Winder - plays 4 Copper
+Wandering Winder - buys Border Village
+Wandering Winder - gains Border Village
+Wandering Winder - gains Torturer
+Wandering Winder - draws Torturer, Estate, Copper, Border Village, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Torturer
+Titandrake - draws Copper, Hamlet, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Torturer
+Titandrake - draws Border Village, Black Market, Torturer, Estate, Copper
+ 
+---------- Wandering Winder: turn 10 ----------
+Wandering Winder - duration Lighthouse
+Wandering Winder - plays Border Village
+Wandering Winder - draws Baron
+Wandering Winder - plays Torturer
+Wandering Winder - draws Copper, Hamlet, Border Village
+Titandrake - discards Estate
+Titandrake - discards Copper
+Wandering Winder - plays Border Village
+Wandering Winder - draws Estate
+Wandering Winder - plays Hamlet
+Wandering Winder - shuffles deck
+Wandering Winder - draws Copper
+Wandering Winder - discards Estate
+Wandering Winder - receives one buy
+Wandering Winder - plays Baron
+Wandering Winder - discards Estate
+Wandering Winder - plays 4 Copper
+Wandering Winder - buys Border Village
+Wandering Winder - gains Border Village
+Wandering Winder - gains Torturer
+Wandering Winder - buys Lighthouse
+Wandering Winder - gains Lighthouse
+Wandering Winder - draws Copper, Torturer, Torturer, Copper, Lighthouse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Border Village
+Titandrake - draws Baron
+Titandrake - plays Torturer
+Titandrake - draws Estate, Torturer, Torturer
+Wandering Winder - discards Copper
+Wandering Winder - discards Torturer
+Titandrake - plays Torturer
+Titandrake - draws Copper, Border Village, Lighthouse
+Wandering Winder - discards Torturer
+Wandering Winder - discards Copper
+Titandrake - draws Border Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Baron, Torturer, Torturer
+ 
+---------- Wandering Winder: turn 11 ----------
+Wandering Winder - plays Lighthouse
+Wandering Winder - draws Border Village, Estate, Copper, Torturer
+Wandering Winder - shuffles deck
+Wandering Winder - draws Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Estate, Border Village, Border Village
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Torturer
+Titandrake - draws Torturer, Copper, Hamlet
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Black Market, Border Village, Torturer
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Torturer
+Titandrake - draws Copper, Torturer, Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays Black Market
+Titandrake - reveals Scrying Pool, Highway, Scout
+Titandrake - plays 6 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - places Scout on bottom of the Black Market deck
+Titandrake - places Scrying Pool on bottom of the Black Market deck
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Hamlet
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Copper, Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Hamlet, Estate
+ 
+---------- Wandering Winder: turn 12 ----------
+Wandering Winder - duration Lighthouse
+Wandering Winder - plays Border Village
+Wandering Winder - draws Hamlet
+Wandering Winder - plays Torturer
+Wandering Winder - draws Lighthouse, Torturer, Copper
+Wandering Winder - plays Hamlet
+Wandering Winder - draws Torturer
+Wandering Winder - discards Estate
+Wandering Winder - receives one action
+Wandering Winder - plays Torturer
+Wandering Winder - draws Torturer, Estate, Baron
+Wandering Winder - plays Lighthouse
+Wandering Winder - plays Baron
+Wandering Winder - discards Estate
+Wandering Winder - plays 3 Copper
+Wandering Winder - buys Border Village
+Wandering Winder - gains Border Village
+Wandering Winder - gains Duchy
+Wandering Winder - buys Great Hall
+Wandering Winder - gains Great Hall
+Wandering Winder - draws Copper, Torturer, Border Village, Copper, Lighthouse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Hamlet
+Titandrake - draws Torturer
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - plays Torturer
+Titandrake - draws Copper, Border Village, Copper
+Titandrake - plays Border Village
+Titandrake - draws Torturer
+Titandrake - plays Torturer
+Titandrake - draws Estate, Copper, Copper
+Titandrake - plays Lighthouse
+Titandrake - plays 6 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Black Market, Torturer, Estate, Lighthouse, Highway
+ 
+---------- Wandering Winder: turn 13 ----------
+Wandering Winder - duration Lighthouse
+Wandering Winder - plays Border Village
+Wandering Winder - draws Copper
+Wandering Winder - plays Torturer
+Wandering Winder - draws Copper, Estate, Border Village
+Wandering Winder - plays Border Village
+Wandering Winder - draws Border Village
+Wandering Winder - plays Border Village
+Wandering Winder - shuffles deck
+Wandering Winder - draws Border Village
+Wandering Winder - plays Border Village
+Wandering Winder - draws Duchy
+Wandering Winder - plays Lighthouse
+Wandering Winder - plays 4 Copper
+Wandering Winder - buys Duchy
+Wandering Winder - gains Duchy
+Wandering Winder - draws Lighthouse, Estate, Torturer, Baron, Hamlet
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Highway
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Baron, Border Village, Torturer
+Titandrake - plays Border Village
+Titandrake - draws Torturer
+Titandrake - plays Torturer
+Titandrake - draws Border Village
+Titandrake - shuffles deck
+Titandrake - draws Torturer, Copper
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Torturer
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays Lighthouse
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 5 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Torturer, Lighthouse, Hamlet, Copper, Estate
+ 
+---------- Wandering Winder: turn 14 ----------
+Wandering Winder - duration Lighthouse
+Wandering Winder - plays Hamlet
+Wandering Winder - draws Torturer
+Wandering Winder - discards Estate
+Wandering Winder - receives one action
+Wandering Winder - plays Torturer
+Wandering Winder - draws Copper, Torturer, Torturer
+Wandering Winder - plays Lighthouse
+Wandering Winder - plays Torturer
+Wandering Winder - draws Border Village, Copper, Copper
+Wandering Winder - plays 3 Copper
+Wandering Winder - buys Duchy
+Wandering Winder - gains Duchy
+Wandering Winder - draws Estate, Great Hall
+Wandering Winder - shuffles deck
+Wandering Winder - draws Lighthouse, Duchy, Border Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Hamlet
+Titandrake - draws Border Village
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Border Village
+Titandrake - draws Hamlet
+Titandrake - plays Torturer
+Titandrake - draws Province, Border Village, Copper
+Titandrake - plays Lighthouse
+Titandrake - plays 2 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Highway, Duchy, Border Village, Lighthouse, Torturer
+ 
+---------- Wandering Winder: turn 15 ----------
+Wandering Winder - duration Lighthouse
+Wandering Winder - plays Border Village
+Wandering Winder - draws Baron
+Wandering Winder - plays Great Hall
+Wandering Winder - draws Torturer
+Wandering Winder - plays Torturer
+Wandering Winder - draws Border Village, Copper, Lighthouse
+Wandering Winder - plays Border Village
+Wandering Winder - draws Estate
+Wandering Winder - plays Lighthouse
+Wandering Winder - plays Lighthouse
+Wandering Winder - plays Baron
+Wandering Winder - discards Estate
+Wandering Winder - plays 1 Copper
+Wandering Winder - buys Province
+Wandering Winder - gains Province
+Wandering Winder - draws Hamlet, Torturer, Copper, Copper, Border Village
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Torturer
+Titandrake - plays Torturer
+Titandrake - draws Torturer, Copper, Estate
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Lighthouse
+Titandrake - plays Torturer
+Titandrake - draws Copper, Copper, Hamlet
+Titandrake - plays 4 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Baron, Torturer, Border Village, Estate
+ 
+---------- Wandering Winder: turn 16 ----------
+Wandering Winder - duration Lighthouse
+Wandering Winder - duration Lighthouse
+Wandering Winder - plays Border Village
+Wandering Winder - draws Duchy
+Wandering Winder - plays Torturer
+Wandering Winder - draws Copper, Copper, Torturer
+Wandering Winder - plays Hamlet
+Wandering Winder - draws Copper
+Wandering Winder - discards Duchy
+Wandering Winder - receives one action
+Wandering Winder - plays Torturer
+Wandering Winder - draws Estate, Border Village, Duchy
+Wandering Winder - plays Border Village
+Wandering Winder - draws Border Village
+Wandering Winder - plays Border Village
+Wandering Winder - draws Torturer
+Wandering Winder - plays Torturer
+Wandering Winder - draws Torturer, Copper
+Wandering Winder - shuffles deck
+Wandering Winder - draws Border Village
+Wandering Winder - plays Border Village
+Wandering Winder - draws Torturer
+Wandering Winder - plays Torturer
+Wandering Winder - draws Province, Border Village, Duchy
+Wandering Winder - plays Border Village
+Wandering Winder - draws Estate
+Wandering Winder - plays Torturer
+Wandering Winder - draws Baron, Duchy, Great Hall
+Wandering Winder - plays Great Hall
+Wandering Winder - draws Copper
+Wandering Winder - plays Baron
+Wandering Winder - discards Estate
+Wandering Winder - plays 7 Copper
+Wandering Winder - buys Province
+Wandering Winder - gains Province
+Wandering Winder - buys Duchy
+Wandering Winder - gains Duchy
+Wandering Winder - draws Lighthouse, Estate
+Wandering Winder - shuffles deck
+Wandering Winder - draws Duchy, Duchy, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Border Village, Estate, Black Market
+Wandering Winder - discards Estate
+Wandering Winder - discards Duchy
+Titandrake - plays Border Village
+Titandrake - draws Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays Black Market
+Titandrake - reveals Masquerade, Vineyard, Cultist
+Titandrake - places Cultist on bottom of the Black Market deck
+Titandrake - places Vineyard on bottom of the Black Market deck
+Titandrake - places Masquerade on bottom of the Black Market deck
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Torturer, Lighthouse, Copper, Hamlet
+ 
+------------ Game Over ------------
+Wandering Winder - cards: 5 Torturer, 5 Border Village, 3 Lighthouse, 1 Great Hall, 1 Hamlet, 1 Baron, 7 Copper, 4 Duchy, 3 Estate, 2 Province
+Wandering Winder - victory point chips: 0
+Wandering Winder - total victory points: 28
+Wandering Winder - turns: 16
+ 
+Titandrake - cards: 5 Torturer, 5 Lighthouse, 5 Border Village, 2 Hamlet, 1 Highway, 1 Baron, 1 Black Market, 7 Copper, 4 Duchy, 3 Estate, 2 Province
+Titandrake - victory point chips: 0
+Titandrake - total victory points: 27
+Titandrake - turns: 17
+ 
+1st place: Wandering Winder
+2nd place: Titandrake
+ 

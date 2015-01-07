@@ -1,0 +1,477 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Watchtower, Ironworks, Noble Brigand, Procession, Salvager, Silk Road, Mine, Harem, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Heisenberg - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Heisenberg - shuffles deck
+Titandrake - shuffles deck
+Heisenberg - draws Copper, Estate, Estate, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Heisenberg: turn 1 ----------
+Heisenberg - plays Copper
+Heisenberg - plays Copper
+Heisenberg - plays Copper
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - shuffles deck
+Titandrake - draws Estate, Salvager, Copper, Estate, Copper
+ 
+---------- Heisenberg: turn 2 ----------
+Heisenberg - plays 4 Copper
+Heisenberg - buys Ironworks
+Heisenberg - gains Ironworks
+Heisenberg - shuffles deck
+Heisenberg - draws Copper, Ironworks, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Copper, Estate, Copper, Pawn
+ 
+---------- Heisenberg: turn 3 ----------
+Heisenberg - plays Ironworks
+Heisenberg - gains Ironworks
+Heisenberg - plays 2 Copper, 1 Silver
+Heisenberg - buys Silk Road
+Heisenberg - gains Silk Road
+Heisenberg - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Procession, Pawn, Pawn, Salvager
+ 
+---------- Heisenberg: turn 4 ----------
+Heisenberg - plays 3 Copper
+Heisenberg - buys Silver
+Heisenberg - gains Silver
+Heisenberg - draws Copper, Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Silver, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Procession
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Estate
+Titandrake - trashes Pawn
+Titandrake - gains Watchtower
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Estate, Pawn, Copper, Copper, Copper
+ 
+---------- Heisenberg: turn 5 ----------
+Heisenberg - plays 3 Copper, 1 Silver
+Heisenberg - buys Mine
+Heisenberg - gains Mine
+Heisenberg - draws Estate, Silk Road, Copper, Copper, Ironworks
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Copper, Estate, Salvager
+ 
+---------- Heisenberg: turn 6 ----------
+Heisenberg - plays Ironworks
+Heisenberg - gains Silk Road
+Heisenberg - draws Estate
+Heisenberg - plays 2 Copper
+Heisenberg - buys Estate
+Heisenberg - gains Estate
+Heisenberg - draws Ironworks, Silver, Copper, Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Procession
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Copper, Pawn, Copper, Copper, Copper
+ 
+---------- Heisenberg: turn 7 ----------
+Heisenberg - plays Ironworks
+Heisenberg - gains Silk Road
+Heisenberg - draws Estate
+Heisenberg - plays 2 Silver, 2 Copper
+Heisenberg - buys Harem
+Heisenberg - gains Harem
+Heisenberg - draws Copper, Silk Road, Ironworks, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Watchtower
+Titandrake - plays Watchtower
+Titandrake - draws Pawn, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Peddler
+Titandrake - shuffles deck
+Titandrake - draws Copper, Procession, Watchtower, Pawn
+ 
+---------- Heisenberg: turn 8 ----------
+Heisenberg - plays Ironworks
+Heisenberg - gains Silk Road
+Heisenberg - draws Mine
+Heisenberg - plays 2 Copper
+Heisenberg - buys Estate
+Heisenberg - gains Estate
+Heisenberg - draws Silk Road, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Procession
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - trashes Pawn
+Titandrake - gains Watchtower
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Copper, Copper, Salvager
+Titandrake - plays Salvager
+Titandrake - trashes Peddler
+Titandrake - plays 4 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Pawn, Copper, Pawn, Peddler, Pawn
+ 
+---------- Heisenberg: turn 9 ----------
+Heisenberg - plays 2 Copper
+Heisenberg - buys Pawn
+Heisenberg - gains Pawn
+Heisenberg - draws Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Silk Road, Silk Road, Estate, Silk Road
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Salvager
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Procession
+Titandrake - plays Procession
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - trashes Pawn
+Titandrake - gains Watchtower
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - shuffles deck
+Titandrake - draws Procession, Salvager, Peddler, Pawn, Peddler
+ 
+---------- Heisenberg: turn 10 ----------
+Heisenberg - draws Copper, Mine, Copper, Estate, Harem
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Watchtower
+Titandrake - plays Procession
+Titandrake - plays Peddler
+Titandrake - draws Procession
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - trashes Peddler
+Titandrake - plays Watchtower
+Titandrake - draws Province, Copper
+Titandrake - plays Procession
+Titandrake - plays Salvager
+Titandrake - trashes Peddler
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - trashes Salvager
+Titandrake - gains Mine
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Peddler, Copper, Watchtower, Pawn, Watchtower
+ 
+---------- Heisenberg: turn 11 ----------
+Heisenberg - plays Mine
+Heisenberg - trashes Copper
+Heisenberg - gains Silver
+Heisenberg - plays Silver
+Heisenberg - plays Harem
+Heisenberg - buys Silk Road
+Heisenberg - gains Silk Road
+Heisenberg - draws Ironworks, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Watchtower
+Titandrake - draws Peddler, Copper, Peddler
+Titandrake - plays 3 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Copper, Peddler, Pawn, Salvager
+Titandrake - shuffles deck
+Titandrake - draws Watchtower
+ 
+---------- Heisenberg: turn 12 ----------
+Heisenberg - plays Ironworks
+Heisenberg - gains Silk Road
+Heisenberg - draws Estate
+Heisenberg - plays 2 Copper, 1 Silver
+Heisenberg - buys Silk Road
+Heisenberg - gains Silk Road
+Heisenberg - draws Silk Road, Copper, Silver, Pawn, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Salvager
+Titandrake - trashes Peddler
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Pawn, Watchtower, Copper, Peddler
+ 
+---------- Heisenberg: turn 13 ----------
+Heisenberg - plays Pawn
+Heisenberg - takes 1 coin
+Heisenberg - takes 1 buy
+Heisenberg - plays 1 Copper, 1 Silver
+Heisenberg - buys Silk Road
+Heisenberg - gains Silk Road
+Heisenberg - buys Copper
+Heisenberg - gains Copper
+Heisenberg - draws Ironworks, Copper
+Heisenberg - shuffles deck
+Heisenberg - draws Estate, Copper, Silk Road
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Province
+Titandrake - plays Watchtower
+Titandrake - draws Mine, Peddler
+Titandrake - plays 2 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Watchtower, Peddler, Copper, Pawn, Procession
+ 
+---------- Heisenberg: turn 14 ----------
+Heisenberg - plays Ironworks
+Heisenberg - gains Estate
+Heisenberg - draws Pawn
+Heisenberg - plays 2 Copper
+Heisenberg - buys Estate
+Heisenberg - gains Estate
+Heisenberg - draws Silver, Harem, Copper, Mine, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Procession
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Procession
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - trashes Pawn
+Titandrake - gains Watchtower
+Titandrake - applied Watchtower to place Watchtower on top of the deck
+Titandrake - plays Procession
+Titandrake - plays Watchtower
+Titandrake - draws Watchtower, Peddler, Salvager
+Titandrake - plays Watchtower
+Titandrake - trashes Watchtower
+Titandrake - gains Salvager
+Titandrake - applied Watchtower to place Salvager on top of the deck
+Titandrake - plays Peddler
+Titandrake - draws Salvager
+Titandrake - plays Salvager
+Titandrake - trashes Peddler
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - applied Watchtower to place Peddler on top of the deck
+Titandrake - draws Peddler
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper, Salvager, Watchtower
+ 
+---------- Heisenberg: turn 15 ----------
+Heisenberg - plays Mine
+Heisenberg - trashes Copper
+Heisenberg - gains Silver
+Heisenberg - plays 3 Silver, 1 Harem
+Heisenberg - buys Province
+Heisenberg - gains Province
+Heisenberg - draws Silver, Estate, Estate, Silk Road, Silk Road
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Peddler
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Peddler, Salvager, Copper, Salvager
+ 
+---------- Heisenberg: turn 16 ----------
+Heisenberg - plays Silver
+Heisenberg - buys Estate
+Heisenberg - gains Estate
+Heisenberg - draws Silk Road, Silk Road, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Peddler
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Procession, Copper, Watchtower, Peddler, Pawn
+ 
+---------- Heisenberg: turn 17 ----------
+Heisenberg - plays 2 Copper
+Heisenberg - buys Estate
+Heisenberg - gains Estate
+Heisenberg - draws Estate, Copper, Copper, Ironworks, Silk Road
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Procession
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - trashes Pawn
+Titandrake - gains Watchtower
+Titandrake - plays Watchtower
+Titandrake - draws Province, Watchtower, Procession, Copper
+Titandrake - plays Procession
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - trashes Peddler
+Titandrake - plays Peddler
+Titandrake - draws Procession
+Titandrake - plays Procession
+Titandrake - plays Watchtower
+Titandrake - draws Province, Peddler
+Titandrake - plays Watchtower
+Titandrake - trashes Watchtower
+Titandrake - gains Procession
+Titandrake - plays Peddler
+Titandrake - draws Province
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Mine, Pawn
+Titandrake - shuffles deck
+Titandrake - draws Estate, Province, Watchtower
+ 
+---------- Heisenberg: turn 18 ----------
+Heisenberg - plays Ironworks
+Heisenberg - gains Estate
+Heisenberg - draws Silk Road
+Heisenberg - plays 2 Copper
+Heisenberg - buys Pawn
+Heisenberg - gains Pawn
+Heisenberg - draws Silk Road
+Heisenberg - shuffles deck
+Heisenberg - draws Ironworks, Estate, Pawn, Silver
+ 
+------------ Game Over ------------
+Heisenberg - cards: 2 Ironworks, 2 Pawn, 1 Mine, 6 Copper, 4 Silver, 1 Harem, 10 Estate, 8 Silk Road, 1 Province
+Heisenberg - total victory points: 58
+Heisenberg - turns: 18
+ 
+Titandrake - cards: 4 Procession, 3 Watchtower, 3 Salvager, 2 Peddler, 1 Mine, 1 Pawn, 5 Copper, 6 Province, 1 Estate, 1 Duchy
+Titandrake - total victory points: 40
+Titandrake - turns: 18
+ 
+1st place: Heisenberg
+2nd place: Titandrake
+ 

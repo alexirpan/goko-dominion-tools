@@ -1,0 +1,461 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Vagrant, Tunnel, Envoy, Quarry, Taxman, City, Contraband, Festival, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Burning Skull - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Burning Skull - shuffles deck
+Titandrake - shuffles deck
+Burning Skull - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Burning Skull: turn 1 ----------
+Burning Skull - plays 4 Copper
+Burning Skull - buys Quarry
+Burning Skull - gains Quarry
+Burning Skull - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Burning Skull: turn 2 ----------
+Burning Skull - plays 3 Copper
+Burning Skull - buys Chapel
+Burning Skull - gains Chapel
+Burning Skull - shuffles deck
+Burning Skull - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Burning Skull: turn 3 ----------
+Burning Skull - plays 4 Copper
+Burning Skull - buys Quarry
+Burning Skull - gains Quarry
+Burning Skull - draws Estate, Chapel, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Chapel, Quarry
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Vagrant
+ 
+---------- Burning Skull: turn 4 ----------
+Burning Skull - plays Chapel
+Burning Skull - trashes Estate, Estate, Copper, Copper
+Burning Skull - draws Quarry, Copper
+Burning Skull - shuffles deck
+Burning Skull - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Estate, Copper
+Titandrake - plays Quarry
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Burning Skull: turn 5 ----------
+Burning Skull - plays 4 Copper
+Burning Skull - plays Quarry
+Burning Skull - buys Festival
+Burning Skull - gains Festival
+Burning Skull - draws Quarry, Chapel, Estate, Copper
+Burning Skull - shuffles deck
+Burning Skull - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Copper, Festival, Estate
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Copper
+ 
+---------- Burning Skull: turn 6 ----------
+Burning Skull - plays Chapel
+Burning Skull - trashes Estate, Copper, Copper
+Burning Skull - plays Quarry
+Burning Skull - buys Vagrant
+Burning Skull - gains Vagrant
+Burning Skull - draws Quarry, Copper, Copper, Festival, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Festival
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays 2 Copper
+Titandrake - buys Envoy
+Titandrake - gains Envoy
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Copper, Copper, Chapel, Quarry
+ 
+---------- Burning Skull: turn 7 ----------
+Burning Skull - plays Festival
+Burning Skull - plays 3 Copper
+Burning Skull - plays Quarry
+Burning Skull - buys Festival
+Burning Skull - gains Festival
+Burning Skull - buys Envoy
+Burning Skull - gains Envoy
+Burning Skull - shuffles deck
+Burning Skull - draws Copper, Copper, Festival, Quarry, Quarry
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper
+Titandrake - plays Quarry
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Vagrant, Copper
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Envoy, Estate
+ 
+---------- Burning Skull: turn 8 ----------
+Burning Skull - plays Festival
+Burning Skull - plays 2 Copper
+Burning Skull - plays Quarry
+Burning Skull - plays Quarry
+Burning Skull - buys Festival
+Burning Skull - gains Festival
+Burning Skull - buys Envoy
+Burning Skull - gains Envoy
+Burning Skull - draws Festival, Chapel, Vagrant, Copper, Envoy
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Festival
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Festival
+Titandrake - plays Envoy
+Titandrake - reveals: Vagrant, Chapel, Copper, Copper, Quarry
+Burning Skull - discards Chapel
+Titandrake - discards Chapel
+Titandrake - places cards in hand:  Vagrant, Copper, Copper, Quarry
+Titandrake - plays Vagrant
+Titandrake - draws Vagrant
+Titandrake - reveals: Festival
+Titandrake - places Festival on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Festival
+Titandrake - shuffles deck
+Titandrake - reveals: Chapel
+Titandrake - places Chapel on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Chapel
+Titandrake - plays Festival
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - shuffles deck
+Titandrake - draws Quarry, Vagrant, Chapel, Festival, Envoy
+ 
+---------- Burning Skull: turn 9 ----------
+Burning Skull - plays Festival
+Burning Skull - plays Envoy
+Burning Skull - shuffles deck
+Burning Skull - reveals: Quarry, Copper, Copper, Envoy, Quarry
+Titandrake - discards Envoy
+Burning Skull - discards Envoy
+Burning Skull - places cards in hand:  Quarry, Copper, Copper, Quarry
+Burning Skull - plays Vagrant
+Burning Skull - draws Festival
+Burning Skull - reveals: Festival
+Burning Skull - places Festival on top of deck
+Burning Skull - plays Festival
+Burning Skull - plays Chapel
+Burning Skull - trashes Copper, Copper, Copper
+Burning Skull - plays Quarry
+Burning Skull - plays Quarry
+Burning Skull - buys City
+Burning Skull - gains City
+Burning Skull - buys City
+Burning Skull - gains City
+Burning Skull - buys City
+Burning Skull - gains City
+Burning Skull - draws Festival
+Burning Skull - shuffles deck
+Burning Skull - draws Vagrant, Quarry, Chapel, Envoy
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Festival
+Titandrake - reveals: Quarry
+Titandrake - places Quarry on top of deck
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Envoy
+Titandrake - reveals: Quarry, Vagrant, Festival, Vagrant, Vagrant
+Burning Skull - discards Festival
+Titandrake - discards Festival
+Titandrake - places cards in hand:  Quarry, Vagrant, Vagrant, Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Festival
+Titandrake - places Festival on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Festival
+Titandrake - plays Festival
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys Envoy
+Titandrake - gains Envoy
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - shuffles deck
+Titandrake - draws City, Vagrant, Chapel, Festival, Vagrant
+ 
+---------- Burning Skull: turn 10 ----------
+Burning Skull - plays Festival
+Burning Skull - plays Envoy
+Burning Skull - reveals: Envoy, Festival, Quarry, City, Festival
+Titandrake - discards Envoy
+Burning Skull - discards Envoy
+Burning Skull - places cards in hand:  Festival, Quarry, City, Festival
+Burning Skull - plays Festival
+Burning Skull - plays Festival
+Burning Skull - plays City
+Burning Skull - draws City
+Burning Skull - plays City
+Burning Skull - draws City
+Burning Skull - plays City
+Burning Skull - shuffles deck
+Burning Skull - draws Envoy
+Burning Skull - plays Quarry
+Burning Skull - plays Quarry
+Burning Skull - buys Festival
+Burning Skull - gains Festival
+Burning Skull - buys Envoy
+Burning Skull - gains Envoy
+Burning Skull - buys Festival
+Burning Skull - gains Festival
+Burning Skull - buys Gold
+Burning Skull - gains Gold
+Burning Skull - shuffles deck
+Burning Skull - draws Festival, City, City, Envoy, Chapel
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Vagrant
+Titandrake - reveals: Quarry
+Titandrake - places Quarry on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Quarry
+Titandrake - reveals: Envoy
+Titandrake - places Envoy on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Envoy
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays City
+Titandrake - draws Vagrant
+Titandrake - plays Envoy
+Titandrake - reveals: Festival, Festival, City, City, Envoy
+Burning Skull - discards Festival
+Titandrake - discards Festival
+Titandrake - places cards in hand:  Festival, City, City, Envoy
+Titandrake - plays City
+Titandrake - draws Quarry
+Titandrake - plays Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Vagrant, Vagrant, Quarry, Envoy
+ 
+---------- Burning Skull: turn 11 ----------
+Burning Skull - plays Festival
+Burning Skull - plays Envoy
+Burning Skull - reveals: Festival, Festival, Quarry, Quarry, Envoy
+Titandrake - discards Envoy
+Burning Skull - discards Envoy
+Burning Skull - places cards in hand:  Festival, Festival, Quarry, Quarry
+Burning Skull - plays City
+Burning Skull - draws Vagrant
+Burning Skull - plays City
+Burning Skull - draws Festival
+Burning Skull - plays Vagrant
+Burning Skull - draws Festival
+Burning Skull - reveals: City
+Burning Skull - places City on top of deck
+Burning Skull - plays Festival
+Burning Skull - plays Festival
+Burning Skull - plays Festival
+Burning Skull - plays Festival
+Burning Skull - plays Quarry
+Burning Skull - plays Quarry
+Burning Skull - buys Province
+Burning Skull - gains Province
+Burning Skull - buys Vagrant
+Burning Skull - gains Vagrant
+Burning Skull - buys Envoy
+Burning Skull - gains Envoy
+Burning Skull - buys Vagrant
+Burning Skull - gains Vagrant
+Burning Skull - draws City, Envoy, Gold
+Burning Skull - shuffles deck
+Burning Skull - draws City, City
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Festival
+Titandrake - reveals: City
+Titandrake - places City on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws City
+Titandrake - reveals: Quarry
+Titandrake - places Quarry on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Quarry
+Titandrake - reveals: Festival
+Titandrake - places Festival on top of deck
+Titandrake - plays Festival
+Titandrake - plays Envoy
+Titandrake - reveals: Festival, Envoy, Festival, Festival, Vagrant
+Burning Skull - discards Envoy
+Titandrake - discards Envoy
+Titandrake - places cards in hand:  Festival, Festival, Festival, Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws City
+Titandrake - reveals: City
+Titandrake - places City on top of deck
+Titandrake - plays City
+Titandrake - draws City
+Titandrake - plays City
+Titandrake - draws City
+Titandrake - plays City
+Titandrake - draws Chapel
+Titandrake - plays City
+Titandrake - draws City
+Titandrake - plays City
+Titandrake - draws City
+Titandrake - plays City
+Titandrake - shuffles deck
+Titandrake - draws Envoy
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - buys Taxman
+Titandrake - gains Taxman
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Vagrant, Copper, Festival, City
+ 
+---------- Burning Skull: turn 12 ----------
+Burning Skull - plays City
+Burning Skull - draws Chapel
+Burning Skull - plays City
+Burning Skull - draws Festival
+Burning Skull - plays Envoy
+Burning Skull - reveals: Festival, Festival, Envoy, Vagrant, Festival
+Titandrake - discards Festival
+Burning Skull - discards Festival
+Burning Skull - places cards in hand:  Festival, Envoy, Vagrant, Festival
+Burning Skull - plays Envoy
+Burning Skull - reveals: Envoy, Festival, Province, Vagrant, Vagrant
+Titandrake - discards Festival
+Burning Skull - discards Festival
+Burning Skull - places cards in hand:  Envoy, Province, Vagrant, Vagrant
+Burning Skull - plays Festival
+Burning Skull - plays Festival
+Burning Skull - plays Envoy
+Burning Skull - reveals: Envoy, Quarry, Quarry
+Burning Skull - shuffles deck
+Burning Skull - reveals: Festival, Festival
+Titandrake - discards Quarry
+Burning Skull - discards Quarry
+Burning Skull - places cards in hand:  Envoy, Quarry, Festival, Festival
+Burning Skull - plays City
+Burning Skull - shuffles deck
+Burning Skull - draws Quarry
+Burning Skull - plays Festival
+Burning Skull - plays Festival
+Burning Skull - plays Festival
+Burning Skull - plays 1 Gold
+Burning Skull - plays Quarry
+Burning Skull - plays Quarry
+Burning Skull - buys Festival
+Burning Skull - gains Festival
+Burning Skull - buys City
+Burning Skull - gains City
+Burning Skull - buys Vagrant
+Burning Skull - gains Vagrant
+Burning Skull - buys Vagrant
+Burning Skull - gains Vagrant
+Burning Skull - buys Vagrant
+Burning Skull - gains Vagrant
+Burning Skull - buys Province
+Burning Skull - gains Province
+Burning Skull - shuffles deck
+Burning Skull - draws Envoy, Festival, Festival, City, Envoy
+ 
+------------ Game Over ------------
+Burning Skull - cards: 6 Festival, 6 Vagrant, 4 Envoy, 4 City, 1 Chapel, 2 Quarry, 1 Gold, 2 Province
+Burning Skull - total victory points: 12
+Burning Skull - turns: 12
+ 
+Titandrake - cards: 6 City, 4 Vagrant, 4 Festival, 2 Envoy, 1 Chapel, 1 Taxman, 2 Quarry, 1 Copper, 1 Tunnel, 1 Fairgrounds
+Titandrake - total victory points: 6
+Titandrake - turns: 12
+ 
+1st place: Burning Skull
+2nd place: Titandrake
+ 

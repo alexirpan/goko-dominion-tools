@@ -1,0 +1,260 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Great Hall, Woodcutter, Death Cart, Bandit Camp, Junk Dealer, Pillage, Trading Post, Vault, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+wicket - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+wicket - shuffles deck
+Titandrake - shuffles deck
+wicket - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- wicket: turn 1 ----------
+wicket - plays 4 Copper
+wicket - buys Death Cart
+wicket - gains Death Cart
+wicket - gains Ruined Market
+wicket - gains Ruined Library
+wicket - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Silver, Copper, Copper
+ 
+---------- wicket: turn 2 ----------
+wicket - plays 3 Copper
+wicket - buys Silver
+wicket - gains Silver
+wicket - shuffles deck
+wicket - draws Copper, Death Cart, Estate, Estate, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- wicket: turn 3 ----------
+wicket - plays 1 Copper, 1 Silver
+wicket - buys Silver
+wicket - gains Silver
+wicket - draws Ruined Library, Copper, Copper, Copper, Ruined Market
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Copper
+ 
+---------- wicket: turn 4 ----------
+wicket - plays Ruined Library
+wicket - draws Copper
+wicket - plays 4 Copper
+wicket - buys Death Cart
+wicket - gains Death Cart
+wicket - gains Abandoned Mine
+wicket - gains Ruined Library
+wicket - draws Estate, Copper, Copper
+wicket - shuffles deck
+wicket - draws Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- wicket: turn 5 ----------
+wicket - plays 3 Copper, 1 Silver
+wicket - buys Junk Dealer
+wicket - gains Junk Dealer
+wicket - draws Copper, Ruined Market, Ruined Library, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Estate, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- wicket: turn 6 ----------
+wicket - plays Ruined Library
+wicket - draws Estate
+wicket - plays 3 Copper
+wicket - buys Silver
+wicket - gains Silver
+wicket - draws Death Cart, Estate, Death Cart, Ruined Library, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Vault
+Titandrake - gains Vault
+Titandrake - draws Estate, Copper, Copper, Gold, Silver
+ 
+---------- wicket: turn 7 ----------
+wicket - plays Death Cart
+wicket - trashes Ruined Library
+wicket - plays 1 Copper
+wicket - buys Junk Dealer
+wicket - gains Junk Dealer
+wicket - draws Abandoned Mine, Silver
+wicket - shuffles deck
+wicket - draws Copper, Death Cart, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Copper, Copper, Silver
+ 
+---------- wicket: turn 8 ----------
+wicket - plays Death Cart
+wicket - trashes Abandoned Mine
+wicket - plays 2 Copper, 1 Silver
+wicket - buys Province
+wicket - gains Province
+wicket - draws Copper, Ruined Market, Junk Dealer, Copper, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Vault
+Titandrake - gains Vault
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Gold, Copper
+ 
+---------- wicket: turn 9 ----------
+wicket - plays Junk Dealer
+wicket - draws Copper
+wicket - trashes Ruined Market
+wicket - plays 3 Copper
+wicket - buys Silver
+wicket - gains Silver
+wicket - draws Copper, Silver, Estate, Estate, Junk Dealer
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Silver, Estate, Copper, Silver
+ 
+---------- wicket: turn 10 ----------
+wicket - plays Junk Dealer
+wicket - draws Silver
+wicket - trashes Estate
+wicket - plays 2 Silver, 1 Copper
+wicket - buys Gold
+wicket - gains Gold
+wicket - draws Ruined Library, Copper, Death Cart
+wicket - shuffles deck
+wicket - draws Silver, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Vault
+Titandrake - gains Vault
+Titandrake - draws Copper, Silver, Silver, Copper, Vault
+ 
+---------- wicket: turn 11 ----------
+wicket - plays Death Cart
+wicket - trashes Ruined Library
+wicket - plays 1 Copper, 1 Silver, 1 Gold
+wicket - buys Province
+wicket - gains Province
+wicket - draws Silver, Copper, Province, Estate, Junk Dealer
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Vault
+Titandrake - draws Gold, Silver
+wicket - discards Province
+wicket - discards Estate
+Titandrake - plays 3 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Vault, Copper
+Titandrake - shuffles deck
+Titandrake - draws Vault, Province, Estate
+ 
+---------- wicket: turn 12 ----------
+wicket - plays Junk Dealer
+wicket - draws Copper
+wicket - trashes Copper
+wicket - plays 2 Silver, 1 Copper
+wicket - buys Gold
+wicket - gains Gold
+wicket - draws Junk Dealer, Estate, Death Cart, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Vault
+Titandrake - draws Silver, Copper
+Titandrake - discards Estate
+Titandrake - discards Province
+wicket - discards Estate
+wicket - discards Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Copper, Gold, Copper, Copper
+ 
+---------- wicket: turn 13 ----------
+wicket - plays Junk Dealer
+wicket - draws Silver
+wicket - trashes Copper
+wicket - plays Death Cart
+wicket - trashes Death Cart
+wicket - plays 1 Copper, 1 Silver
+wicket - buys Province
+wicket - gains Province
+wicket - draws Copper
+wicket - shuffles deck
+wicket - draws Gold, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Estate, Gold, Copper, Silver
+ 
+---------- wicket: turn 14 ----------
+wicket - plays 2 Copper, 2 Silver, 1 Gold
+wicket - buys Province
+wicket - gains Province
+wicket - draws Copper, Estate, Death Cart, Gold, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Vault, Copper, Silver, Estate
+ 
+---------- wicket: turn 15 ----------
+wicket - plays Death Cart
+wicket - trashes Death Cart
+wicket - plays 1 Copper, 1 Gold
+wicket - buys Province
+wicket - gains Province
+wicket - draws Silver, Silver, Junk Dealer, Province, Copper
+ 
+------------ Game Over ------------
+wicket - cards: 2 Junk Dealer, 5 Copper, 4 Silver, 2 Gold, 5 Province, 2 Estate
+wicket - total victory points: 32
+wicket - turns: 15
+ 
+Titandrake - cards: 3 Vault, 7 Copper, 5 Silver, 3 Gold, 3 Estate, 3 Province, 1 Duchy
+Titandrake - total victory points: 24
+Titandrake - turns: 15
+ 
+1st place: wicket
+2nd place: Titandrake
+ 

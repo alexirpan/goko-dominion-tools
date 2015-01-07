@@ -1,0 +1,378 @@
+------------ Game Setup ------------
+Supply cards: Oracle, Tunnel, Coppersmith, Spy, Thief, Horn of Plenty, Mystic, Treasury, Wharf, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Kurter - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kurter - shuffles deck
+Titandrake - shuffles deck
+Kurter - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Kurter: turn 1 ----------
+Kurter - plays 4 Copper
+Kurter - buys Silver
+Kurter - gains Silver
+Kurter - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Kurter: turn 2 ----------
+Kurter - plays 3 Copper
+Kurter - buys Silver
+Kurter - gains Silver
+Kurter - shuffles deck
+Kurter - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Wharf, Copper
+ 
+---------- Kurter: turn 3 ----------
+Kurter - plays 4 Copper
+Kurter - buys Silver
+Kurter - gains Silver
+Kurter - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Kurter: turn 4 ----------
+Kurter - plays 3 Copper, 1 Silver
+Kurter - buys Wharf
+Kurter - gains Wharf
+Kurter - draws Silver, Estate
+Kurter - shuffles deck
+Kurter - draws Copper, Wharf, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Kurter: turn 5 ----------
+Kurter - plays Wharf
+Kurter - draws Estate, Silver
+Kurter - plays 2 Silver, 2 Copper
+Kurter - buys Gold
+Kurter - gains Gold
+Kurter - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Wharf, Estate, Copper
+ 
+---------- Kurter: turn 6 ----------
+Kurter - duration Wharf
+Kurter - draws Copper, Copper
+Kurter - plays 5 Copper, 1 Silver
+Kurter - buys Wharf
+Kurter - gains Wharf
+Kurter - shuffles deck
+Kurter - draws Copper, Wharf, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper
+ 
+---------- Kurter: turn 7 ----------
+Kurter - plays Wharf
+Kurter - draws Copper, Copper
+Kurter - plays 4 Copper, 2 Silver
+Kurter - buys Province
+Kurter - gains Province
+Kurter - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Silver
+Titandrake - plays Wharf
+Titandrake - draws Gold, Estate
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Kurter: turn 8 ----------
+Kurter - duration Wharf
+Kurter - draws Estate, Wharf
+Kurter - plays Wharf
+Kurter - draws Estate, Gold
+Kurter - plays 3 Copper, 1 Silver, 1 Gold
+Kurter - buys Province
+Kurter - gains Province
+Kurter - shuffles deck
+Kurter - draws Estate, Copper, Silver, Copper, Gold
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+Titandrake - plays 5 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Gold, Wharf, Silver
+ 
+---------- Kurter: turn 9 ----------
+Kurter - duration Wharf
+Kurter - draws Copper, Silver
+Kurter - plays 3 Copper, 2 Silver, 1 Gold
+Kurter - buys Province
+Kurter - gains Province
+Kurter - draws Estate, Copper, Province, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Estate
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Silver, Copper
+ 
+---------- Kurter: turn 10 ----------
+Kurter - plays 2 Copper, 1 Silver
+Kurter - buys Silver
+Kurter - gains Silver
+Kurter - draws Copper, Province, Copper, Estate, Wharf
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Wharf
+Titandrake - draws Province, Wharf
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- Kurter: turn 11 ----------
+Kurter - plays Wharf
+Kurter - shuffles deck
+Kurter - draws Silver, Gold
+Kurter - plays 2 Copper, 1 Silver, 1 Gold
+Kurter - buys Duchy
+Kurter - gains Duchy
+Kurter - buys Estate
+Kurter - gains Estate
+Kurter - draws Copper, Estate, Province, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Wharf
+Titandrake - draws Gold, Duchy
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province
+ 
+---------- Kurter: turn 12 ----------
+Kurter - duration Wharf
+Kurter - draws Silver, Silver
+Kurter - plays 3 Copper, 2 Silver
+Kurter - buys Duchy
+Kurter - gains Duchy
+Kurter - buys Estate
+Kurter - gains Estate
+Kurter - draws Province, Copper, Estate, Wharf, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Silver, Wharf, Copper, Duchy, Wharf
+ 
+---------- Kurter: turn 13 ----------
+Kurter - plays Wharf
+Kurter - draws Copper
+Kurter - shuffles deck
+Kurter - draws Silver
+Kurter - plays 2 Copper, 2 Silver
+Kurter - buys Gold
+Kurter - gains Gold
+Kurter - draws Copper, Silver, Province, Estate, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Province
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Duchy, Silver, Copper
+ 
+---------- Kurter: turn 14 ----------
+Kurter - duration Wharf
+Kurter - draws Gold, Copper
+Kurter - plays 2 Copper, 1 Silver, 1 Gold
+Kurter - buys Duchy
+Kurter - gains Duchy
+Kurter - buys Estate
+Kurter - gains Estate
+Kurter - draws Province, Estate, Duchy, Estate, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws Gold, Copper
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Duchy
+ 
+---------- Kurter: turn 15 ----------
+Kurter - draws Wharf, Duchy, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - draws Silver, Duchy, Silver, Wharf, Gold
+ 
+---------- Kurter: turn 16 ----------
+Kurter - plays Wharf
+Kurter - shuffles deck
+Kurter - draws Copper, Duchy
+Kurter - plays 3 Copper, 1 Silver
+Kurter - buys Duchy
+Kurter - gains Duchy
+Kurter - draws Estate, Estate, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Tunnel
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Wharf, Province, Copper, Copper, Copper
+ 
+---------- Kurter: turn 17 ----------
+Kurter - duration Wharf
+Kurter - draws Copper, Copper
+Kurter - plays 3 Copper, 1 Silver
+Kurter - buys Duchy
+Kurter - gains Duchy
+Kurter - draws Gold, Estate, Province, Silver, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Wharf
+Titandrake - plays Wharf
+Titandrake - draws Province, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Silver, Copper, Estate, Province
+Titandrake - shuffles deck
+Titandrake - draws Tunnel
+ 
+---------- Kurter: turn 18 ----------
+Kurter - plays 1 Gold, 1 Silver
+Kurter - buys Duchy
+Kurter - gains Duchy
+Kurter - draws Copper, Province, Silver, Estate, Duchy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Wharf
+Titandrake - draws Duchy, Gold
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Wharf, Province, Silver, Copper
+ 
+---------- Kurter: turn 19 ----------
+Kurter - plays 1 Copper, 1 Silver
+Kurter - buys Tunnel
+Kurter - gains Tunnel
+Kurter - draws Province, Gold, Wharf
+Kurter - shuffles deck
+Kurter - draws Silver, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Wharf
+Titandrake - draws Province, Province
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Silver, Duchy, Estate, Estate, Estate
+ 
+---------- Kurter: turn 20 ----------
+Kurter - plays Wharf
+Kurter - draws Copper, Estate
+Kurter - plays 1 Gold, 1 Silver, 1 Copper
+Kurter - buys Tunnel
+Kurter - gains Tunnel
+Kurter - buys Tunnel
+Kurter - gains Tunnel
+Kurter - draws Estate, Estate, Copper, Gold, Estate
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Tunnel
+Titandrake - plays 2 Silver
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Wharf, Copper, Copper, Copper
+ 
+---------- Kurter: turn 21 ----------
+Kurter - duration Wharf
+Kurter - draws Estate, Province
+Kurter - plays 1 Copper, 1 Gold
+Kurter - buys Estate
+Kurter - gains Estate
+Kurter - buys Estate
+Kurter - gains Estate
+Kurter - draws Copper, Copper, Copper, Silver, Province
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Wharf
+Titandrake - draws Tunnel
+Titandrake - shuffles deck
+Titandrake - draws Tunnel
+Titandrake - plays 4 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Estate, Wharf, Province, Copper
+ 
+------------ Game Over ------------
+Kurter - cards: 2 Wharf, 7 Copper, 4 Silver, 2 Gold, 8 Estate, 6 Duchy, 3 Province, 3 Tunnel
+Kurter - total victory points: 50
+Kurter - turns: 21
+ 
+Titandrake - cards: 3 Wharf, 1 Nobles, 7 Copper, 4 Silver, 1 Gold, 6 Estate, 5 Tunnel, 4 Province, 2 Duchy
+Titandrake - total victory points: 48
+Titandrake - turns: 21
+ 
+1st place: Kurter
+2nd place: Titandrake
+ 

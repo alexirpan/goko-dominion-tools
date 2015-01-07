@@ -1,0 +1,608 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Pawn, Squire, Stonemason, Woodcutter, Alchemist, Death Cart, Golem, Counterfeit, Rebuild, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Temron - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Necropolis, Copper, Copper, Overgrown Estate, Copper
+Titandrake - draws Copper, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Hovel, Copper, Copper, Necropolis, Copper
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hovel, Copper, Copper, Copper
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 4 Copper
+Temron - buys Potion
+Temron - gains Potion
+Temron - shuffles deck
+Temron - draws Potion, Overgrown Estate, Copper, Hovel, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Estate
+Titandrake - trashes Hovel
+Titandrake - gains Estate
+Titandrake - draws Courtyard, Silver, Overgrown Estate, Copper, Copper
+ 
+---------- Temron: turn 3 ----------
+Temron - plays 1 Potion, 1 Copper, 1 Silver
+Temron - buys Alchemist
+Temron - gains Alchemist
+Temron - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Temron: turn 4 ----------
+Temron - plays Necropolis
+Temron - plays 4 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Copper, Copper
+Temron - shuffles deck
+Temron - draws Necropolis, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Rebuild, Copper, Overgrown Estate
+ 
+---------- Temron: turn 5 ----------
+Temron - plays Necropolis
+Temron - plays 3 Copper
+Temron - buys Courtyard
+Temron - gains Courtyard
+Temron - draws Alchemist, Silver, Copper, Copper, Hovel
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Necropolis, Copper, Silver, Copper, Copper
+ 
+---------- Temron: turn 6 ----------
+Temron - plays Alchemist
+Temron - draws Copper, Copper
+Temron - plays 4 Copper, 1 Silver
+Temron - buys Counterfeit
+Temron - gains Counterfeit
+Temron - draws Potion, Silver
+Temron - shuffles deck
+Temron - draws Counterfeit, Copper, Necropolis
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Copper, Courtyard, Silver
+Titandrake - shuffles deck
+Titandrake - draws Rebuild, Overgrown Estate
+ 
+---------- Temron: turn 7 ----------
+Temron - plays Necropolis
+Temron - plays Counterfeit
+Temron - plays Copper
+Temron - plays Copper
+Temron - trashes Copper
+Temron - plays 1 Potion, 1 Silver
+Temron - buys Alchemist
+Temron - gains Alchemist
+Temron - buys Pawn
+Temron - gains Pawn
+Temron - draws Copper, Silver, Hovel, Courtyard, Overgrown Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - reveals Copper, Duchy, Copper, Silver, Copper, Copper, Estate
+Titandrake - discards: Copper, Duchy, Copper, Silver, Copper, Copper
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Rebuild
+Titandrake - places Rebuild on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Rebuild, Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Duchy
+ 
+---------- Temron: turn 8 ----------
+Temron - plays Courtyard
+Temron - draws Copper, Copper, Copper
+Temron - places Silver on top of deck
+Temron - plays 4 Copper
+Temron - buys Potion
+Temron - gains Potion
+Temron - draws Silver, Copper, Alchemist, Copper
+Temron - shuffles deck
+Temron - draws Potion
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Overgrown Estate
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Duchy
+Titandrake - gains Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Courtyard, Rebuild, Copper, Copper
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Alchemist
+Temron - draws Copper, Copper
+Temron - plays 4 Copper, 1 Silver, 1 Potion
+Temron - buys Stonemason
+Temron - overpays for Stonemason with 3 coins
+Temron - overpays for Stonemason with 1 potion
+Temron - gains Alchemist
+Temron - gains Alchemist
+Temron - gains Stonemason
+Temron - places Alchemist on top of deck
+Temron - draws Alchemist, Hovel, Courtyard, Potion, Pawn
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Duchy, Copper, Silver, Copper, Rebuild, Duchy, Copper, Estate
+Titandrake - discards: Silver, Duchy, Copper, Silver, Copper, Rebuild, Duchy, Copper
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays Courtyard
+Titandrake - draws Duchy, Copper, Estate
+Titandrake - places Duchy on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 2 coins
+Titandrake - gains Squire
+Titandrake - gains Squire
+Titandrake - gains Stonemason
+Titandrake - draws Duchy, Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Courtyard, Copper, Estate
+ 
+---------- Temron: turn 10 ----------
+Temron - plays Alchemist
+Temron - draws Counterfeit, Copper
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - draws Alchemist
+Temron - plays Alchemist
+Temron - draws Copper, Necropolis
+Temron - plays Necropolis
+Temron - plays Courtyard
+Temron - draws Silver, Overgrown Estate
+Temron - shuffles deck
+Temron - draws Copper
+Temron - places Silver on top of deck
+Temron - plays Counterfeit
+Temron - plays Copper
+Temron - plays Copper
+Temron - trashes Copper
+Temron - plays 2 Copper, 1 Potion
+Temron - buys Stonemason
+Temron - overpays for Stonemason with 3 coins
+Temron - overpays for Stonemason with 1 potion
+Temron - gains Alchemist
+Temron - gains Alchemist
+Temron - gains Stonemason
+Temron - places Alchemist, Alchemist on top of deck
+Temron - draws Alchemist, Alchemist, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Squire
+Titandrake - places Copper on top of deck
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Duchy, Copper, Stonemason, Copper
+ 
+---------- Temron: turn 11 ----------
+Temron - plays Alchemist
+Temron - draws Silver, Copper
+Temron - plays Alchemist
+Temron - draws Alchemist, Alchemist
+Temron - plays Alchemist
+Temron - draws Potion, Stonemason
+Temron - plays Alchemist
+Temron - shuffles deck
+Temron - draws Pawn, Potion
+Temron - plays Pawn
+Temron - takes 1 coin
+Temron - takes 1 buy
+Temron - plays 3 Copper, 2 Silver, 2 Potion
+Temron - buys Alchemist
+Temron - gains Alchemist
+Temron - buys Alchemist
+Temron - gains Alchemist
+Temron - places Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Temron - draws Alchemist, Alchemist, Alchemist, Alchemist, Stonemason
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Stonemason
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Silver, Rebuild, Squire, Silver
+ 
+---------- Temron: turn 12 ----------
+Temron - plays Alchemist
+Temron - draws Courtyard, Alchemist
+Temron - plays Alchemist
+Temron - draws Alchemist, Necropolis
+Temron - plays Alchemist
+Temron - draws Hovel, Counterfeit
+Temron - plays Alchemist
+Temron - draws Overgrown Estate, Copper
+Temron - plays Alchemist
+Temron - draws Copper
+Temron - shuffles deck
+Temron - draws Silver
+Temron - plays Alchemist
+Temron - draws Copper, Copper
+Temron - plays Necropolis
+Temron - plays Courtyard
+Temron - draws Potion, Potion, Pawn
+Temron - places Potion on top of deck
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - draws Potion
+Temron - plays Stonemason
+Temron - trashes Copper
+Temron - plays Counterfeit
+Temron - plays Copper
+Temron - plays Copper
+Temron - trashes Copper
+Temron - plays 2 Copper, 2 Potion, 1 Silver
+Temron - buys Alchemist
+Temron - gains Alchemist
+Temron - buys Alchemist
+Temron - gains Alchemist
+Temron - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Temron - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Rebuild
+Titandrake - names Estate
+Titandrake - reveals Copper, Rebuild, Duchy
+Titandrake - discards: Copper, Rebuild
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Duchy
+Titandrake - shuffles deck
+Titandrake - draws Rebuild, Copper, Silver, Estate
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Alchemist
+Temron - draws Alchemist, Alchemist
+Temron - plays Alchemist
+Temron - draws Silver, Stonemason
+Temron - plays Alchemist
+Temron - draws Copper, Alchemist
+Temron - plays Alchemist
+Temron - shuffles deck
+Temron - draws Copper, Stonemason
+Temron - plays Alchemist
+Temron - draws Pawn, Copper
+Temron - plays Alchemist
+Temron - draws Necropolis, Overgrown Estate
+Temron - plays Alchemist
+Temron - draws Silver, Potion
+Temron - plays Alchemist
+Temron - draws Alchemist, Counterfeit
+Temron - plays Alchemist
+Temron - draws Courtyard, Potion
+Temron - plays Necropolis
+Temron - plays Courtyard
+Temron - draws Hovel, Alchemist
+Temron - places Potion on top of deck
+Temron - plays Pawn
+Temron - takes 1 coin
+Temron - takes 1 buy
+Temron - plays Counterfeit
+Temron - plays Copper
+Temron - plays Copper
+Temron - trashes Copper
+Temron - plays 2 Silver, 2 Copper, 1 Potion
+Temron - buys Counterfeit
+Temron - gains Counterfeit
+Temron - buys Counterfeit
+Temron - gains Counterfeit
+Temron - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Temron - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Province, Estate
+Titandrake - discards Province
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Squire, Courtyard, Necropolis, Duchy
+ 
+---------- Temron: turn 14 ----------
+Temron - plays Alchemist
+Temron - draws Alchemist, Alchemist
+Temron - plays Alchemist
+Temron - draws Alchemist, Alchemist
+Temron - plays Alchemist
+Temron - draws Potion
+Temron - shuffles deck
+Temron - draws Copper
+Temron - plays Alchemist
+Temron - draws Alchemist, Silver
+Temron - plays Alchemist
+Temron - draws Counterfeit, Necropolis
+Temron - plays Alchemist
+Temron - draws Overgrown Estate, Counterfeit
+Temron - plays Alchemist
+Temron - draws Courtyard, Hovel
+Temron - plays Alchemist
+Temron - draws Stonemason, Silver
+Temron - plays Alchemist
+Temron - draws Pawn, Copper
+Temron - plays Alchemist
+Temron - draws Counterfeit, Potion
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - takes 1 coin
+Temron - plays Necropolis
+Temron - plays Stonemason
+Temron - trashes Overgrown Estate
+Temron - draws Stonemason
+Temron - gains Copper
+Temron - gains Copper
+Temron - plays Courtyard
+Temron - shuffles deck
+Temron - draws Copper, Copper
+Temron - places Potion on top of deck
+Temron - plays Counterfeit
+Temron - plays Copper
+Temron - plays Copper
+Temron - trashes Copper
+Temron - plays Counterfeit
+Temron - plays Copper
+Temron - plays Copper
+Temron - trashes Copper
+Temron - plays Counterfeit
+Temron - plays Copper
+Temron - plays Copper
+Temron - trashes Copper
+Temron - plays 2 Silver, 1 Potion, 1 Copper
+Temron - buys Gold
+Temron - gains Gold
+Temron - buys Gold
+Temron - gains Gold
+Temron - buys Silver
+Temron - gains Silver
+Temron - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Temron - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Courtyard
+Titandrake - draws Silver, Silver, Rebuild
+Titandrake - places Copper on top of deck
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Copper, Squire, Duchy
+Titandrake - discards: Copper, Squire
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Stonemason, Copper, Silver, Copper, Copper
+ 
+---------- Temron: turn 15 ----------
+Temron - plays Alchemist
+Temron - draws Alchemist, Alchemist
+Temron - plays Alchemist
+Temron - draws Alchemist, Alchemist
+Temron - plays Alchemist
+Temron - draws Alchemist, Potion
+Temron - plays Alchemist
+Temron - shuffles deck
+Temron - draws Silver, Pawn
+Temron - plays Alchemist
+Temron - draws Gold, Counterfeit
+Temron - plays Alchemist
+Temron - draws Gold, Stonemason
+Temron - plays Alchemist
+Temron - draws Hovel, Potion
+Temron - plays Alchemist
+Temron - draws Stonemason, Copper
+Temron - plays Alchemist
+Temron - draws Courtyard, Necropolis
+Temron - plays Alchemist
+Temron - draws Counterfeit, Counterfeit
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - takes 1 coin
+Temron - plays Necropolis
+Temron - plays Courtyard
+Temron - draws Silver, Silver
+Temron - places Potion on top of deck
+Temron - plays Counterfeit
+Temron - plays Copper
+Temron - plays Copper
+Temron - trashes Copper
+Temron - plays Counterfeit
+Temron - plays Silver
+Temron - plays Silver
+Temron - trashes Silver
+Temron - plays Counterfeit
+Temron - plays Silver
+Temron - plays Silver
+Temron - trashes Silver
+Temron - plays 2 Gold, 1 Potion, 1 Silver
+Temron - buys Gold
+Temron - gains Gold
+Temron - buys Gold
+Temron - gains Gold
+Temron - buys Counterfeit
+Temron - gains Counterfeit
+Temron - buys Counterfeit
+Temron - gains Counterfeit
+Temron - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Temron - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Rebuild, Copper
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Squire
+ 
+---------- Temron: turn 16 ----------
+Temron - plays Alchemist
+Temron - draws Alchemist, Alchemist
+Temron - plays Alchemist
+Temron - draws Alchemist, Alchemist
+Temron - plays Alchemist
+Temron - draws Alchemist, Potion
+Temron - plays Alchemist
+Temron - shuffles deck
+Temron - draws Stonemason, Counterfeit
+Temron - plays Alchemist
+Temron - draws Hovel, Counterfeit
+Temron - plays Alchemist
+Temron - draws Potion, Gold
+Temron - plays Alchemist
+Temron - draws Gold, Courtyard
+Temron - plays Alchemist
+Temron - draws Gold, Counterfeit
+Temron - plays Alchemist
+Temron - draws Counterfeit, Gold
+Temron - plays Alchemist
+Temron - draws Silver, Stonemason
+Temron - plays Courtyard
+Temron - draws Pawn, Counterfeit, Necropolis
+Temron - places Potion on top of deck
+Temron - plays Counterfeit
+Temron - plays Counterfeit
+Temron - plays Counterfeit
+Temron - plays Counterfeit
+Temron - plays Counterfeit
+Temron - plays Gold
+Temron - plays Gold
+Temron - trashes Gold
+Temron - plays Counterfeit
+Temron - plays Gold
+Temron - plays Gold
+Temron - trashes Gold
+Temron - trashes Counterfeit
+Temron - plays Counterfeit
+Temron - plays Gold
+Temron - plays Gold
+Temron - trashes Gold
+Temron - trashes Counterfeit
+Temron - plays Counterfeit
+Temron - plays Gold
+Temron - plays Gold
+Temron - trashes Gold
+Temron - trashes Counterfeit
+Temron - plays Counterfeit
+Temron - plays Silver
+Temron - plays Silver
+Temron - trashes Silver
+Temron - trashes Counterfeit
+Temron - plays 1 Potion
+Temron - buys Province
+Temron - trashes Hovel
+Temron - gains Province
+Temron - buys Province
+Temron - gains Province
+Temron - buys Province
+Temron - gains Province
+Temron - buys Province
+Temron - gains Province
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - buys Copper
+Temron - gains Copper
+Temron - buys Copper
+Temron - gains Copper
+Temron - buys Copper
+Temron - gains Copper
+Temron - buys Copper
+Temron - gains Copper
+Temron - buys Copper
+Temron - gains Copper
+Temron - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+Temron - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Stonemason, Copper, Courtyard, Silver, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Rebuild, 2 Squire, 1 Stonemason, 1 Courtyard, 1 Necropolis, 6 Copper, 6 Silver, 5 Duchy, 4 Estate, 2 Province
+Titandrake - total victory points: 31
+Titandrake - turns: 17
+ 
+Temron - cards: 10 Alchemist, 2 Stonemason, 1 Courtyard, 1 Pawn, 1 Necropolis, 5 Copper, 2 Potion, 1 Counterfeit, 4 Province, 1 Duchy
+Temron - total victory points: 27
+Temron - turns: 16
+ 
+1st place: Titandrake
+2nd place: Temron
+ 

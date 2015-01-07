@@ -1,0 +1,611 @@
+------------ Game Setup ------------
+Supply cards: Sage, Steward, Coppersmith, JackOfAllTrades, Bandit Camp, City, Jester, Library, Venture, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Perry Green - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Perry Green - shuffles deck
+Titandrake - shuffles deck
+Perry Green - draws Necropolis, Copper, Overgrown Estate, Hovel, Copper
+Titandrake - draws Copper, Copper, Hovel, Copper, Overgrown Estate
+ 
+---------- Perry Green: turn 1 ----------
+Perry Green - plays Necropolis
+Perry Green - plays 2 Copper
+Perry Green - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Copper, Copper, Copper, Copper, Necropolis
+ 
+---------- Perry Green: turn 2 ----------
+Perry Green - plays 5 Copper
+Perry Green - buys Jester
+Perry Green - gains Jester
+Perry Green - shuffles deck
+Perry Green - draws Copper, Copper, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Overgrown Estate, Steward, Necropolis
+ 
+---------- Perry Green: turn 3 ----------
+Perry Green - plays 4 Copper
+Perry Green - buys Steward
+Perry Green - gains Steward
+Perry Green - draws Jester, Hovel, Overgrown Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Steward
+Titandrake - trashes Overgrown Estate, Copper
+Titandrake - draws Copper
+Titandrake - draws Hovel, Copper, Copper, Copper, JackOfAllTrades
+ 
+---------- Perry Green: turn 4 ----------
+Perry Green - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Perry Green - plays 2 Copper
+Perry Green - buys Steward
+Perry Green - gains Steward
+Perry Green - draws Copper
+Perry Green - shuffles deck
+Perry Green - draws Steward, Copper, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - discards Steward
+Titandrake - trashes Hovel
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Copper, Copper, Copper, Necropolis, Copper
+ 
+---------- Perry Green: turn 5 ----------
+Perry Green - plays Steward
+Perry Green - trashes Overgrown Estate, Copper
+Perry Green - draws Copper
+Perry Green - plays 3 Copper
+Perry Green - buys Silver
+Perry Green - gains Silver
+Perry Green - draws Steward, Copper, Copper, Copper, Jester
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - shuffles deck
+Titandrake - draws Silver, JackOfAllTrades, Sage, Jester, Copper
+ 
+---------- Perry Green: turn 6 ----------
+Perry Green - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Perry Green - plays 3 Copper
+Perry Green - buys Bandit Camp
+Perry Green - gains Bandit Camp
+Perry Green - draws Necropolis, Hovel
+Perry Green - shuffles deck
+Perry Green - draws Steward, Bandit Camp, Jester
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Steward
+Titandrake - places Steward in hand
+Titandrake - discards Copper
+Titandrake - plays Jester
+Perry Green - reveals Silver
+Perry Green - discards Silver
+Titandrake - gains Silver
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- Perry Green: turn 7 ----------
+Perry Green - plays Bandit Camp
+Perry Green - draws Copper
+Perry Green - gains Spoils
+Perry Green - plays Jester
+Titandrake - shuffles deck
+Titandrake - reveals Jester
+Titandrake - discards Jester
+Perry Green - gains Jester
+Perry Green - plays Steward
+Perry Green - trashes Hovel, Necropolis
+Perry Green - plays 1 Copper
+Perry Green - buys Sage
+Perry Green - gains Sage
+Perry Green - draws Copper, Copper, Copper, Steward, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Steward, Copper, Silver, Copper, Sage
+ 
+---------- Perry Green: turn 8 ----------
+Perry Green - plays Steward
+Perry Green - trashes Copper, Copper
+Perry Green - draws Copper
+Perry Green - shuffles deck
+Perry Green - draws Jester, Steward, Steward, Jester
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Sage
+Titandrake - reveals JackOfAllTrades
+Titandrake - places JackOfAllTrades in hand
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - draws Copper, Bandit Camp, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Perry Green: turn 9 ----------
+Perry Green - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Perry Green - plays 1 Copper
+Perry Green - buys Silver
+Perry Green - gains Silver
+Perry Green - draws Copper, Silver, Copper, Spoils, Bandit Camp
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Sage
+Titandrake - gains Spoils
+Titandrake - plays Sage
+Titandrake - reveals Steward
+Titandrake - places Steward in hand
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Steward, Necropolis, Silver, Copper, Copper
+ 
+---------- Perry Green: turn 10 ----------
+Perry Green - plays Bandit Camp
+Perry Green - draws Sage
+Perry Green - gains Spoils
+Perry Green - plays Sage
+Perry Green - shuffles deck
+Perry Green - reveals Copper, Steward
+Perry Green - places Steward in hand
+Perry Green - discards Copper
+Perry Green - plays Steward
+Perry Green - trashes Copper, Copper
+Perry Green - plays 1 Silver
+Perry Green - plays Spoils
+Perry Green - buys Bandit Camp
+Perry Green - gains Bandit Camp
+Perry Green - draws Jester, Spoils, Copper, Silver, Steward
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Steward
+Titandrake - draws JackOfAllTrades, Jester
+Titandrake - plays Jester
+Perry Green - reveals Jester
+Perry Green - discards Jester
+Titandrake - gains Jester
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, JackOfAllTrades, Bandit Camp, Silver, Silver
+ 
+---------- Perry Green: turn 11 ----------
+Perry Green - plays Jester
+Titandrake - reveals Sage
+Titandrake - discards Sage
+Perry Green - gains Sage
+Perry Green - plays 1 Silver
+Perry Green - plays Spoils
+Perry Green - buys Grand Market
+Perry Green - gains Grand Market
+Perry Green - shuffles deck
+Perry Green - draws Bandit Camp, Sage, Grand Market, Copper, Sage
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Steward
+Titandrake - gains Spoils
+Titandrake - plays Necropolis
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - plays Jester
+Perry Green - reveals Steward
+Perry Green - discards Steward
+Titandrake - gains Steward
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Bandit Camp, Steward, Copper, Spoils, Copper
+ 
+---------- Perry Green: turn 12 ----------
+Perry Green - plays Grand Market
+Perry Green - draws Jester
+Perry Green - plays Sage
+Perry Green - reveals Steward
+Perry Green - places Steward in hand
+Perry Green - plays Sage
+Perry Green - reveals Bandit Camp
+Perry Green - places Bandit Camp in hand
+Perry Green - plays Bandit Camp
+Perry Green - draws Silver
+Perry Green - gains Spoils
+Perry Green - plays Bandit Camp
+Perry Green - draws Jester
+Perry Green - gains Spoils
+Perry Green - plays Steward
+Perry Green - draws Silver, Copper
+Perry Green - plays Jester
+Titandrake - reveals Sage
+Titandrake - discards Sage
+Perry Green - gains Sage
+Perry Green - plays Jester
+Titandrake - reveals Jester
+Titandrake - discards Jester
+Perry Green - gains Jester
+Perry Green - plays 2 Silver
+Perry Green - buys City
+Perry Green - gains City
+Perry Green - buys City
+Perry Green - gains City
+Perry Green - shuffles deck
+Perry Green - draws Silver, Bandit Camp, City, Copper, Sage
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays Spoils
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - shuffles deck
+Titandrake - draws Jester, Silver, Jester, Copper, Necropolis
+ 
+---------- Perry Green: turn 13 ----------
+Perry Green - plays City
+Perry Green - draws Sage
+Perry Green - plays Bandit Camp
+Perry Green - draws Steward
+Perry Green - gains Spoils
+Perry Green - plays Sage
+Perry Green - reveals Jester
+Perry Green - places Jester in hand
+Perry Green - plays Sage
+Perry Green - reveals Steward
+Perry Green - places Steward in hand
+Perry Green - plays Steward
+Perry Green - draws City, Grand Market
+Perry Green - plays City
+Perry Green - draws Spoils
+Perry Green - plays Grand Market
+Perry Green - draws Copper
+Perry Green - plays Steward
+Perry Green - draws Silver, Sage
+Perry Green - plays Sage
+Perry Green - reveals Spoils, Bandit Camp
+Perry Green - places Bandit Camp in hand
+Perry Green - discards Spoils
+Perry Green - plays Bandit Camp
+Perry Green - draws Jester
+Perry Green - gains Spoils
+Perry Green - plays Jester
+Titandrake - reveals Sage
+Titandrake - discards Sage
+Perry Green - gains Sage
+Perry Green - plays Jester
+Titandrake - reveals Steward
+Titandrake - discards Steward
+Perry Green - gains Steward
+Perry Green - plays 2 Silver
+Perry Green - plays Spoils
+Perry Green - buys Grand Market
+Perry Green - gains Grand Market
+Perry Green - buys Grand Market
+Perry Green - gains Grand Market
+Perry Green - draws Jester
+Perry Green - shuffles deck
+Perry Green - draws Silver, Jester, Sage, Grand Market
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Jester
+Perry Green - reveals Jester
+Perry Green - discards Jester
+Titandrake - gains Jester
+Titandrake - plays Jester
+Perry Green - reveals Copper
+Perry Green - discards Copper
+Perry Green - gains Copper
+Titandrake - plays Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Spoils, Copper, Bandit Camp, JackOfAllTrades, Silver
+ 
+---------- Perry Green: turn 14 ----------
+Perry Green - plays Sage
+Perry Green - reveals Steward
+Perry Green - places Steward in hand
+Perry Green - plays Grand Market
+Perry Green - draws Silver
+Perry Green - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Perry Green - plays 2 Silver
+Perry Green - buys Grand Market
+Perry Green - gains Grand Market
+Perry Green - draws Spoils, Grand Market, Spoils, Grand Market, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Sage
+Titandrake - gains Spoils
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Spoils
+Titandrake - plays Grand Market
+Titandrake - draws Steward
+Titandrake - plays Steward
+Titandrake - trashes Copper, Silver
+Titandrake - plays Silver
+Titandrake - plays Spoils
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Steward, Bandit Camp, Sage
+Titandrake - shuffles deck
+Titandrake - draws Silver, Necropolis
+ 
+---------- Perry Green: turn 15 ----------
+Perry Green - plays Grand Market
+Perry Green - draws Steward
+Perry Green - plays Grand Market
+Perry Green - draws Sage
+Perry Green - plays Sage
+Perry Green - reveals Bandit Camp
+Perry Green - places Bandit Camp in hand
+Perry Green - plays Bandit Camp
+Perry Green - draws Spoils
+Perry Green - gains Spoils
+Perry Green - plays Steward
+Perry Green - draws City, Sage
+Perry Green - plays City
+Perry Green - draws Sage
+Perry Green - plays Sage
+Perry Green - reveals Bandit Camp
+Perry Green - places Bandit Camp in hand
+Perry Green - plays Sage
+Perry Green - reveals City
+Perry Green - places City in hand
+Perry Green - plays Bandit Camp
+Perry Green - draws Steward
+Perry Green - gains Spoils
+Perry Green - plays City
+Perry Green - shuffles deck
+Perry Green - draws Steward
+Perry Green - plays Steward
+Perry Green - draws Copper, Jester
+Perry Green - plays Steward
+Perry Green - draws Grand Market, Silver
+Perry Green - plays Grand Market
+Perry Green - draws Jester
+Perry Green - plays Jester
+Titandrake - reveals Grand Market
+Titandrake - discards Grand Market
+Perry Green - gains Grand Market
+Perry Green - plays Jester
+Titandrake - reveals Steward
+Titandrake - discards Steward
+Perry Green - gains Steward
+Perry Green - plays 1 Silver
+Perry Green - plays Spoils
+Perry Green - plays Spoils
+Perry Green - plays Spoils
+Perry Green - buys Grand Market
+Perry Green - gains Grand Market
+Perry Green - buys City
+Perry Green - gains City
+Perry Green - buys City
+Perry Green - gains City
+Perry Green - buys City
+Perry Green - gains City
+Perry Green - draws Silver, Jester, Sage, Grand Market, Spoils
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Sage
+Titandrake - reveals Jester
+Titandrake - places Jester in hand
+Titandrake - plays Steward
+Titandrake - draws Silver, Silver
+Titandrake - plays Necropolis
+Titandrake - plays Jester
+Perry Green - reveals Copper
+Perry Green - discards Copper
+Perry Green - gains Copper
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Sage, JackOfAllTrades, Bandit Camp, Copper, Jester
+ 
+---------- Perry Green: turn 16 ----------
+Perry Green - plays Sage
+Perry Green - shuffles deck
+Perry Green - reveals Spoils, Grand Market
+Perry Green - places Grand Market in hand
+Perry Green - discards Spoils
+Perry Green - plays Grand Market
+Perry Green - draws Bandit Camp
+Perry Green - plays Grand Market
+Perry Green - draws Copper
+Perry Green - plays Bandit Camp
+Perry Green - draws Copper
+Perry Green - gains Spoils
+Perry Green - plays Jester
+Titandrake - reveals Sage
+Titandrake - discards Sage
+Perry Green - gains Sage
+Perry Green - plays 1 Silver
+Perry Green - plays Copper
+Perry Green - plays Copper
+Perry Green - plays Spoils
+Perry Green - buys Province
+Perry Green - gains Province
+Perry Green - buys City
+Perry Green - gains City
+Perry Green - draws Steward, Grand Market, Copper, Silver, Steward
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Jester
+Titandrake - places Jester in hand
+Titandrake - discards Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws Steward
+Titandrake - gains Spoils
+Titandrake - plays Steward
+Titandrake - draws Grand Market, Spoils
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Spoils
+Titandrake - plays Jester
+Perry Green - reveals Grand Market
+Perry Green - discards Grand Market
+Titandrake - gains Grand Market
+Titandrake - plays 1 Copper
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Silver, JackOfAllTrades, Grand Market, Grand Market, Copper
+ 
+---------- Perry Green: turn 17 ----------
+Perry Green - plays Grand Market
+Perry Green - draws Sage
+Perry Green - plays Sage
+Perry Green - reveals City
+Perry Green - places City in hand
+Perry Green - plays City
+Perry Green - draws Grand Market, City
+Perry Green - plays City
+Perry Green - draws Bandit Camp, Steward
+Perry Green - plays Grand Market
+Perry Green - draws Steward
+Perry Green - plays Bandit Camp
+Perry Green - draws Grand Market
+Perry Green - gains Spoils
+Perry Green - plays Grand Market
+Perry Green - draws Sage
+Perry Green - plays Sage
+Perry Green - reveals City
+Perry Green - places City in hand
+Perry Green - plays City
+Perry Green - draws Jester, Sage
+Perry Green - plays Jester
+Titandrake - reveals Sage
+Titandrake - discards Sage
+Perry Green - gains Sage
+Perry Green - plays Sage
+Perry Green - reveals Jester
+Perry Green - places Jester in hand
+Perry Green - plays Jester
+Titandrake - reveals Spoils
+Titandrake - discards Spoils
+Perry Green - plays Steward
+Perry Green - draws City, Copper
+Perry Green - plays City
+Perry Green - draws City
+Perry Green - shuffles deck
+Perry Green - draws Bandit Camp
+Perry Green - plays Bandit Camp
+Perry Green - draws Grand Market
+Perry Green - gains Spoils
+Perry Green - plays Grand Market
+Perry Green - draws Province
+Perry Green - plays City
+Perry Green - draws Grand Market, Silver
+Perry Green - plays Grand Market
+Perry Green - draws Sage
+Perry Green - plays Sage
+Perry Green - reveals Sage
+Perry Green - places Sage in hand
+Perry Green - plays Sage
+Perry Green - reveals City
+Perry Green - places City in hand
+Perry Green - plays City
+Perry Green - draws Sage, Spoils
+Perry Green - plays Sage
+Perry Green - reveals Grand Market
+Perry Green - places Grand Market in hand
+Perry Green - plays Grand Market
+Perry Green - draws Jester
+Perry Green - plays Jester
+Titandrake - reveals Grand Market
+Titandrake - discards Grand Market
+Perry Green - plays Steward
+Perry Green - draws Spoils, Copper
+Perry Green - plays Steward
+Perry Green - draws Copper, Spoils
+Perry Green - plays Steward
+Perry Green - takes 2 coins
+Perry Green - plays 4 Copper, 2 Silver
+Perry Green - plays Spoils
+Perry Green - plays Spoils
+Perry Green - plays Spoils
+Perry Green - buys Province
+Perry Green - gains Province
+Perry Green - buys City
+Perry Green - gains City
+Perry Green - buys City
+Perry Green - gains City
+Perry Green - buys City
+Perry Green - gains City
+Perry Green - buys Sage
+Perry Green - gains Sage
+Perry Green - buys Province
+Perry Green - gains Province
+Perry Green - buys Estate
+Perry Green - gains Estate
+Perry Green - shuffles deck
+Perry Green - draws Spoils, Province, Grand Market, City, City
+ 
+------------ Game Over ------------
+Perry Green - cards: 9 City, 7 Sage, 6 Grand Market, 4 Steward, 3 Jester, 2 Bandit Camp, 4 Copper, 2 Silver, 1 Spoils, 3 Province, 1 Estate
+Perry Green - total victory points: 19
+Perry Green - turns: 17
+ 
+Titandrake - cards: 4 Grand Market, 3 Sage, 3 Steward, 3 Jester, 2 Bandit Camp, 1 JackOfAllTrades, 1 City, 1 Necropolis, 3 Silver, 3 Copper, 2 Spoils, 1 Province, 1 Duchy
+Titandrake - total victory points: 9
+Titandrake - turns: 16
+ 
+1st place: Perry Green
+2nd place: Titandrake
+ 

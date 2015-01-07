@@ -1,0 +1,511 @@
+------------ Game Setup ------------
+Supply cards: Hermit, Swindler, Gardens, Noble Brigand, Spy, Soothsayer, Fairgrounds, Harem, Bank, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Billy Goat - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Billy Goat - shuffles deck
+Titandrake - shuffles deck
+Billy Goat - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Billy Goat: turn 1 ----------
+Billy Goat - plays 4 Copper
+Billy Goat - buys Spy
+Billy Goat - gains Spy
+Billy Goat - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Billy Goat: turn 2 ----------
+Billy Goat - plays 3 Copper
+Billy Goat - buys Hermit
+Billy Goat - gains Hermit
+Billy Goat - shuffles deck
+Billy Goat - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Billy Goat: turn 3 ----------
+Billy Goat - plays 4 Copper
+Billy Goat - buys Spy
+Billy Goat - gains Spy
+Billy Goat - draws Estate, Hermit, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Billy Goat: turn 4 ----------
+Billy Goat - plays Hermit
+Billy Goat - trashes Estate
+Billy Goat - gains Hermit
+Billy Goat - trashes Hermit
+Billy Goat - gains Madman
+Billy Goat - draws Spy, Estate
+Billy Goat - shuffles deck
+Billy Goat - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Swindler, Swindler
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate
+ 
+---------- Billy Goat: turn 5 ----------
+Billy Goat - plays Spy
+Billy Goat - draws Spy
+Billy Goat - discards Copper
+Titandrake - places Copper on top of deck
+Billy Goat - plays Spy
+Billy Goat - draws Madman
+Billy Goat - places Hermit on top of deck
+Titandrake - places Copper on top of deck
+Billy Goat - plays Madman
+Billy Goat - draws Hermit, Copper, Copper, Copper
+Billy Goat - plays Hermit
+Billy Goat - trashes Estate
+Billy Goat - gains Silver
+Billy Goat - plays 5 Copper
+Billy Goat - buys Soothsayer
+Billy Goat - gains Soothsayer
+Billy Goat - draws Copper
+Billy Goat - shuffles deck
+Billy Goat - draws Copper, Spy, Copper, Soothsayer
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Swindler
+Billy Goat - reveals Silver
+Billy Goat - trashes Silver
+Billy Goat - gains Hermit
+Titandrake - plays Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Copper, Copper, Silver, Copper, Silver
+ 
+---------- Billy Goat: turn 6 ----------
+Billy Goat - plays Spy
+Billy Goat - draws Copper
+Billy Goat - places Hermit on top of deck
+Titandrake - places Estate on top of deck
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Estate
+Billy Goat - plays 4 Copper
+Billy Goat - buys Spy
+Billy Goat - gains Spy
+Billy Goat - draws Hermit, Spy, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws King's Court, Swindler
+ 
+---------- Billy Goat: turn 7 ----------
+Billy Goat - plays Spy
+Billy Goat - draws Copper
+Billy Goat - shuffles deck
+Billy Goat - places Spy on top of deck
+Titandrake - places Curse on top of deck
+Billy Goat - plays Hermit
+Billy Goat - trashes Estate
+Billy Goat - gains Swindler
+Billy Goat - trashes Hermit
+Billy Goat - gains Madman
+Billy Goat - draws Spy, Copper, Copper, Hermit, Gold
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays King's Court
+Titandrake - plays Swindler
+Billy Goat - reveals Copper
+Billy Goat - trashes Copper
+Billy Goat - gains Curse
+Titandrake - plays Swindler
+Billy Goat - reveals Spy
+Billy Goat - trashes Spy
+Billy Goat - gains Gardens
+Titandrake - plays Swindler
+Billy Goat - reveals Copper
+Billy Goat - trashes Copper
+Billy Goat - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Curse, Silver, Estate, Copper, Copper
+ 
+---------- Billy Goat: turn 8 ----------
+Billy Goat - plays Spy
+Billy Goat - draws Soothsayer
+Billy Goat - shuffles deck
+Billy Goat - discards Curse
+Titandrake - discards Swindler
+Billy Goat - plays Hermit
+Billy Goat - trashes Curse
+Billy Goat - gains Silver
+Billy Goat - trashes Hermit
+Billy Goat - gains Madman
+Billy Goat - draws Copper, Curse, Swindler, Spy, Madman
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Hermit, Estate, Copper, Estate
+ 
+---------- Billy Goat: turn 9 ----------
+Billy Goat - plays Madman
+Billy Goat - draws Copper, Copper, Gardens
+Billy Goat - shuffles deck
+Billy Goat - draws Copper
+Billy Goat - plays Spy
+Billy Goat - draws Gold
+Billy Goat - places Spy on top of deck
+Titandrake - places Copper on top of deck
+Billy Goat - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+Billy Goat - plays 4 Copper, 1 Gold
+Billy Goat - buys King's Court
+Billy Goat - gains King's Court
+Billy Goat - draws Spy, Soothsayer, Copper, Silver, Madman
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Silver
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - shuffles deck
+Titandrake - draws King's Court, Silver, Copper, Copper, Estate
+ 
+---------- Billy Goat: turn 10 ----------
+Billy Goat - plays Madman
+Billy Goat - shuffles deck
+Billy Goat - draws Copper, Copper, King's Court, Spy
+Billy Goat - plays Spy
+Billy Goat - draws Swindler
+Billy Goat - discards Copper
+Titandrake - discards Silver
+Billy Goat - plays Spy
+Billy Goat - draws Gardens
+Billy Goat - places Gold on top of deck
+Titandrake - places Swindler on top of deck
+Billy Goat - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Hermit
+Billy Goat - plays King's Court
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Curse
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+Billy Goat - plays 3 Copper, 1 Silver
+Billy Goat - buys King's Court
+Billy Goat - gains King's Court
+Billy Goat - draws Gold, Copper, Curse
+Billy Goat - shuffles deck
+Billy Goat - draws Swindler, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Silver, Swindler, Swindler, Hermit, Silver
+ 
+---------- Billy Goat: turn 11 ----------
+Billy Goat - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+Billy Goat - plays 2 Copper, 1 Gold
+Billy Goat - buys King's Court
+Billy Goat - gains King's Court
+Billy Goat - draws Copper, Spy, Copper, Silver, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Swindler
+Billy Goat - reveals Gold
+Billy Goat - trashes Gold
+Billy Goat - gains Fairgrounds
+Titandrake - plays 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws King's Court, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Billy Goat: turn 12 ----------
+Billy Goat - plays Spy
+Billy Goat - draws Copper
+Billy Goat - places Spy on top of deck
+Titandrake - discards Silver
+Billy Goat - plays 3 Copper, 1 Silver, 1 Gold
+Billy Goat - buys Province
+Billy Goat - gains Province
+Billy Goat - draws Spy, King's Court, Soothsayer, Gold, King's Court
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Noble Brigand
+Billy Goat - reveals: Gardens
+Billy Goat - shuffles deck
+Billy Goat - reveals: Curse
+Billy Goat - discards: Gardens, Curse
+Billy Goat - gains Copper
+Titandrake - gains Noble Brigand
+Titandrake - draws Hermit, Soothsayer, Gold, Estate, Curse
+ 
+---------- Billy Goat: turn 13 ----------
+Billy Goat - plays King's Court
+Billy Goat - plays King's Court
+Billy Goat - plays Spy
+Billy Goat - draws Gold
+Billy Goat - discards Copper
+Titandrake - places Copper on top of deck
+Billy Goat - plays Spy
+Billy Goat - draws Silver
+Billy Goat - discards Province
+Titandrake - places Copper on top of deck
+Billy Goat - plays Spy
+Billy Goat - draws Copper
+Billy Goat - discards Copper
+Titandrake - places Copper on top of deck
+Billy Goat - plays King's Court
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Silver
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Estate
+Billy Goat - plays King's Court
+Billy Goat - plays 2 Gold, 1 Silver, 1 Copper
+Billy Goat - buys Province
+Billy Goat - gains Province
+Billy Goat - draws Gold, Fairgrounds, Spy, Copper, King's Court
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Swindler
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Swindler, Curse, Silver, Curse
+ 
+---------- Billy Goat: turn 14 ----------
+Billy Goat - plays King's Court
+Billy Goat - plays Spy
+Billy Goat - draws Swindler
+Billy Goat - places Copper on top of deck
+Titandrake - places Swindler on top of deck
+Billy Goat - plays Spy
+Billy Goat - draws Copper
+Billy Goat - shuffles deck
+Billy Goat - discards Copper
+Titandrake - places Swindler on top of deck
+Billy Goat - plays Spy
+Billy Goat - draws Gold
+Billy Goat - discards Copper
+Titandrake - places Swindler on top of deck
+Billy Goat - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Hermit
+Billy Goat - plays 2 Gold, 2 Copper
+Billy Goat - buys Province
+Billy Goat - gains Province
+Billy Goat - draws Gold, Soothsayer, Spy, Gardens, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Swindler
+Billy Goat - reveals Province
+Billy Goat - trashes Province
+Billy Goat - gains Province
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Hermit, Copper, King's Court, Curse, Copper
+ 
+---------- Billy Goat: turn 15 ----------
+Billy Goat - plays Spy
+Billy Goat - draws King's Court
+Billy Goat - discards Province
+Titandrake - shuffles deck
+Titandrake - discards Swindler
+Billy Goat - plays King's Court
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Billy Goat - plays Soothsayer
+Billy Goat - gains Gold
+Billy Goat - plays 2 Gold
+Billy Goat - buys Harem
+Billy Goat - gains Harem
+Billy Goat - draws Gold, Copper, Silver, King's Court, Curse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays King's Court
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Silver
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays Hermit
+Titandrake - gains Swindler
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Curse, Copper, Estate, Hermit
+ 
+---------- Billy Goat: turn 16 ----------
+Billy Goat - plays King's Court
+Billy Goat - plays 1 Gold, 1 Copper, 1 Silver
+Billy Goat - buys Fairgrounds
+Billy Goat - gains Fairgrounds
+Billy Goat - draws Copper, Gold
+Billy Goat - shuffles deck
+Billy Goat - draws Silver, Gold, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Silver
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Curse, Harem, Copper, Noble Brigand, Silver
+ 
+---------- Billy Goat: turn 17 ----------
+Billy Goat - plays 2 Copper, 2 Gold, 1 Silver
+Billy Goat - buys Province
+Billy Goat - gains Province
+Billy Goat - draws Gold, Copper, Gold, Gold, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Noble Brigand
+Billy Goat - reveals: Province, Copper
+Billy Goat - discards: Province, Copper
+Titandrake - plays 1 Harem, 1 Copper, 1 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Copper, Silver, Silver, Silver, Soothsayer
+ 
+---------- Billy Goat: turn 18 ----------
+Billy Goat - plays 4 Gold, 1 Copper
+Billy Goat - buys Province
+Billy Goat - gains Province
+Billy Goat - draws Spy, Gold, Swindler, Fairgrounds, Gardens
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Duchy, Estate, Curse, Curse, Curse
+ 
+---------- Billy Goat: turn 19 ----------
+Billy Goat - plays Spy
+Billy Goat - draws Soothsayer
+Billy Goat - discards Copper
+Titandrake - discards Gold
+Billy Goat - plays Swindler
+Titandrake - reveals Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Hermit
+Billy Goat - plays 1 Gold
+Billy Goat - buys Duchy
+Billy Goat - gains Duchy
+Billy Goat - draws Curse, Spy, Copper, Gold, King's Court
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Swindler, King's Court
+Titandrake - shuffles deck
+Titandrake - draws Estate, Curse
+ 
+---------- Billy Goat: turn 20 ----------
+Billy Goat - plays King's Court
+Billy Goat - plays Spy
+Billy Goat - draws Gold
+Billy Goat - discards Province
+Titandrake - discards Estate
+Billy Goat - plays Spy
+Billy Goat - draws Province
+Billy Goat - places Harem on top of deck
+Titandrake - discards Madman
+Billy Goat - plays Spy
+Billy Goat - draws Harem
+Billy Goat - discards Fairgrounds
+Titandrake - discards Silver
+Billy Goat - plays 2 Gold, 1 Harem, 1 Copper
+Billy Goat - buys Province
+Billy Goat - gains Province
+Billy Goat - draws King's Court, King's Court
+Billy Goat - shuffles deck
+Billy Goat - draws Harem, Spy, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays King's Court
+Titandrake - plays Swindler
+Billy Goat - reveals Spy
+Billy Goat - trashes Spy
+Billy Goat - gains Gardens
+Titandrake - plays Swindler
+Billy Goat - reveals Copper
+Billy Goat - trashes Copper
+Billy Goat - gains Copper
+Titandrake - plays Swindler
+Billy Goat - reveals Province
+Billy Goat - trashes Province
+Billy Goat - gains Province
+Titandrake - plays Copper
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Curse, Gold, Noble Brigand, Copper, Curse
+ 
+------------ Game Over ------------
+Billy Goat - cards: 3 King's Court, 1 Spy, 1 Swindler, 1 Soothsayer, 9 Gold, 6 Copper, 1 Harem, 1 Silver, 6 Province, 2 Gardens, 2 Fairgrounds, 1 Duchy, 1 Curse
+Billy Goat - total victory points: 54
+Billy Goat - turns: 20
+ 
+Titandrake - cards: 3 Swindler, 2 King's Court, 2 Hermit, 1 Noble Brigand, 1 Madman, 1 Soothsayer, 7 Copper, 7 Silver, 2 Gold, 1 Harem, 4 Estate, 3 Fairgrounds, 1 Duchy, 4 Curse
+Titandrake - total victory points: 17
+Titandrake - turns: 20
+ 
+1st place: Billy Goat
+2nd place: Titandrake
+ 

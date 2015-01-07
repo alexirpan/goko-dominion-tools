@@ -1,0 +1,672 @@
+------------ Game Setup ------------
+Supply cards: Wishing Well, Armory, Feodum, Thief, Throne Room, Highway, Margrave, Treasury, Tribute, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Hoam - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Hoam - shuffles deck
+Titandrake - shuffles deck
+Hoam - draws Estate, Copper, Copper, Estate, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Hoam: turn 1 ----------
+Hoam - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Hoam: turn 2 ----------
+Hoam - plays 5 Copper
+Hoam - buys Margrave
+Hoam - gains Margrave
+Hoam - shuffles deck
+Hoam - draws Copper, Copper, Copper, Margrave, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Copper, Silver, Wishing Well, Copper, Copper
+ 
+---------- Hoam: turn 3 ----------
+Hoam - plays Margrave
+Hoam - draws Copper, Copper, Estate
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - discards Wishing Well
+Titandrake - discards Copper
+Hoam - plays 5 Copper
+Hoam - buys Highway
+Hoam - gains Highway
+Hoam - draws Copper, Copper, Estate
+Hoam - shuffles deck
+Hoam - draws Copper, Margrave
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Wishing Well, Copper, Copper, Estate
+ 
+---------- Hoam: turn 4 ----------
+Hoam - plays Margrave
+Hoam - draws Estate, Copper, Copper
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Hoam - plays 5 Copper
+Hoam - buys Highway
+Hoam - gains Highway
+Hoam - draws Highway, Estate, Copper, Copper
+Hoam - shuffles deck
+Hoam - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Copper
+Titandrake - reveals Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Silver, Copper, Estate, Wishing Well, Estate
+ 
+---------- Hoam: turn 5 ----------
+Hoam - plays Highway
+Hoam - draws Copper
+Hoam - plays 4 Copper
+Hoam - buys Highway
+Hoam - gains Highway
+Hoam - draws Copper, Copper, Margrave, Estate, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Armory
+Titandrake - reveals Armory
+Titandrake - places Armory in hand
+Titandrake - plays Armory
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Throne Room, Wishing Well, Silver
+ 
+---------- Hoam: turn 6 ----------
+Hoam - plays Margrave
+Hoam - draws Highway, Copper
+Hoam - shuffles deck
+Hoam - draws Copper
+Titandrake - draws Armory
+Titandrake - discards Estate
+Titandrake - discards Armory
+Titandrake - discards Throne Room
+Hoam - plays 4 Copper
+Hoam - buys Armory
+Hoam - gains Armory
+Hoam - draws Highway, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Estate
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Wishing Well, Wishing Well, Copper, Copper, Copper
+ 
+---------- Hoam: turn 7 ----------
+Hoam - plays Highway
+Hoam - draws Highway
+Hoam - plays Highway
+Hoam - shuffles deck
+Hoam - draws Copper
+Hoam - plays 4 Copper
+Hoam - buys Highway
+Hoam - gains Highway
+Hoam - draws Copper, Estate, Highway, Armory, Margrave
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Estate
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 6 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Silver, Throne Room, Estate
+ 
+---------- Hoam: turn 8 ----------
+Hoam - plays Highway
+Hoam - draws Estate
+Hoam - plays Margrave
+Hoam - draws Copper, Copper
+Hoam - shuffles deck
+Hoam - draws Highway
+Titandrake - draws Margrave
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Hoam - plays 3 Copper
+Hoam - buys Throne Room
+Hoam - gains Throne Room
+Hoam - draws Estate, Highway, Highway, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Margrave
+Titandrake - draws Copper, Wishing Well, Silver
+Hoam - draws Copper
+Hoam - discards Estate
+Hoam - discards Copper
+Hoam - discards Copper
+Titandrake - plays Margrave
+Titandrake - draws Copper, Wishing Well, Wishing Well
+Hoam - draws Copper
+Hoam - discards Copper
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Copper, Copper, Estate, Armory
+ 
+---------- Hoam: turn 9 ----------
+Hoam - plays Highway
+Hoam - shuffles deck
+Hoam - draws Highway
+Hoam - plays Highway
+Hoam - draws Copper
+Hoam - plays Highway
+Hoam - draws Armory
+Hoam - plays Armory
+Hoam - gains Highway
+Hoam - plays 2 Copper
+Hoam - buys Margrave
+Hoam - gains Margrave
+Hoam - draws Highway, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Armory
+Titandrake - gains Throne Room
+Titandrake - plays 3 Copper
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Throne Room, Highway, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- Hoam: turn 10 ----------
+Hoam - plays Highway
+Hoam - draws Margrave
+Hoam - plays Margrave
+Hoam - draws Copper, Copper, Throne Room
+Titandrake - draws Highway
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Hoam - plays 4 Copper
+Hoam - buys Highway
+Hoam - gains Highway
+Hoam - draws Estate, Copper, Highway
+Hoam - shuffles deck
+Hoam - draws Copper, Margrave
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Highway
+Titandrake - draws Wishing Well
+Titandrake - plays Throne Room
+Titandrake - plays Wishing Well
+Titandrake - draws Estate
+Titandrake - names Wishing Well
+Titandrake - reveals Throne Room
+Titandrake - plays Wishing Well
+Titandrake - draws Throne Room
+Titandrake - names Margrave
+Titandrake - reveals Armory
+Titandrake - plays Highway
+Titandrake - draws Armory
+Titandrake - plays Throne Room
+Titandrake - plays Armory
+Titandrake - gains Highway
+Titandrake - plays Armory
+Titandrake - gains Highway
+Titandrake - draws Highway, Highway, Copper, Estate, Wishing Well
+ 
+---------- Hoam: turn 11 ----------
+Hoam - plays Highway
+Hoam - draws Armory
+Hoam - plays Margrave
+Hoam - draws Margrave, Copper, Highway
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Hoam - plays 3 Copper
+Hoam - buys Throne Room
+Hoam - gains Throne Room
+Hoam - draws Copper, Estate, Copper, Highway, Throne Room
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Margrave
+Titandrake - names Throne Room
+Titandrake - reveals Wishing Well
+Titandrake - plays Highway
+Titandrake - draws Wishing Well
+Titandrake - plays Wishing Well
+Titandrake - draws Wishing Well
+Titandrake - names Copper
+Titandrake - reveals Silver
+Titandrake - plays Wishing Well
+Titandrake - draws Silver
+Titandrake - names Province
+Titandrake - reveals Copper
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Margrave
+Titandrake - draws Silver, Copper, Copper
+Hoam - draws Highway
+Hoam - discards Copper
+Hoam - discards Copper
+Hoam - discards Estate
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Copper, Margrave, Highway, Estate, Armory
+ 
+---------- Hoam: turn 12 ----------
+Hoam - plays Highway
+Hoam - draws Copper
+Hoam - plays Throne Room
+Hoam - plays Highway
+Hoam - draws Copper
+Hoam - plays Highway
+Hoam - draws Estate
+Hoam - plays 2 Copper
+Hoam - buys Throne Room
+Hoam - gains Throne Room
+Hoam - draws Highway, Highway
+Hoam - shuffles deck
+Hoam - draws Copper, Copper, Throne Room
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Armory
+Titandrake - gains Margrave
+Titandrake - plays 2 Copper
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Margrave, Throne Room, Throne Room, Margrave, Wishing Well
+ 
+---------- Hoam: turn 13 ----------
+Hoam - plays Highway
+Hoam - draws Copper
+Hoam - plays Throne Room
+Hoam - plays Highway
+Hoam - draws Margrave
+Hoam - plays Highway
+Hoam - draws Margrave
+Hoam - plays Margrave
+Hoam - draws Estate, Copper, Highway
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Wishing Well
+Titandrake - discards Margrave
+Hoam - plays Highway
+Hoam - draws Estate
+Hoam - plays Margrave
+Hoam - draws Throne Room, Throne Room, Estate
+Titandrake - draws Estate
+Titandrake - discards Estate
+Hoam - plays 4 Copper
+Hoam - buys Margrave
+Hoam - gains Margrave
+Hoam - buys Tribute
+Hoam - gains Tribute
+Hoam - buys Wishing Well
+Hoam - gains Wishing Well
+Hoam - draws Highway, Copper, Highway, Copper, Armory
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Margrave
+Titandrake - draws Silver, Highway, Silver
+Hoam - draws Highway
+Hoam - discards Copper
+Hoam - discards Copper
+Hoam - discards Armory
+Titandrake - plays Margrave
+Titandrake - draws Copper, Throne Room, Copper
+Hoam - draws Copper
+Hoam - discards Copper
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Throne Room
+Titandrake - plays Highway
+Titandrake - draws Wishing Well
+Titandrake - plays Highway
+Titandrake - draws Wishing Well
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Estate
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays Wishing Well
+Titandrake - draws Wishing Well
+Titandrake - names Estate
+Titandrake - reveals Highway
+Titandrake - plays Wishing Well
+Titandrake - draws Highway
+Titandrake - names Margrave
+Titandrake - shuffles deck
+Titandrake - reveals Highway
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Armory
+Titandrake - plays Armory
+Titandrake - gains Province
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Province, Estate, Wishing Well, Margrave, Estate
+ 
+---------- Hoam: turn 14 ----------
+Hoam - plays Highway
+Hoam - shuffles deck
+Hoam - draws Copper
+Hoam - plays Highway
+Hoam - draws Copper
+Hoam - plays Highway
+Hoam - draws Wishing Well
+Hoam - plays Wishing Well
+Hoam - draws Margrave
+Hoam - names Throne Room
+Hoam - reveals Tribute
+Hoam - plays Margrave
+Hoam - draws Tribute, Highway, Copper
+Titandrake - draws Wishing Well
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - discards Estate
+Hoam - plays 3 Copper
+Hoam - buys Tribute
+Hoam - gains Tribute
+Hoam - buys Throne Room
+Hoam - gains Throne Room
+Hoam - draws Margrave, Armory, Estate, Throne Room, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Copper
+Titandrake - reveals Margrave
+Titandrake - plays Margrave
+Titandrake - draws Margrave
+Titandrake - shuffles deck
+Titandrake - draws Estate, Throne Room
+Hoam - draws Throne Room
+Hoam - discards Copper
+Hoam - discards Estate
+Hoam - discards Armory
+Titandrake - plays 3 Copper
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Wishing Well, Copper, Margrave, Copper, Throne Room
+ 
+---------- Hoam: turn 15 ----------
+Hoam - plays Throne Room
+Hoam - plays Throne Room
+Hoam - plays Margrave
+Hoam - draws Copper, Copper, Highway
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Hoam - plays Margrave
+Hoam - draws Estate, Copper, Throne Room
+Titandrake - draws Highway
+Titandrake - discards Wishing Well
+Hoam - plays Throne Room
+Hoam - plays Throne Room
+Hoam - plays Highway
+Hoam - draws Estate
+Hoam - plays Highway
+Hoam - draws Margrave
+Hoam - plays Throne Room
+Hoam - plays Margrave
+Hoam - draws Highway
+Hoam - shuffles deck
+Hoam - draws Copper, Highway
+Titandrake - draws Armory
+Titandrake - discards Armory
+Hoam - plays Margrave
+Hoam - draws Highway, Copper, Tribute
+Titandrake - draws Province
+Titandrake - discards Province
+Hoam - plays Tribute
+Titandrake - reveals: Province, Highway
+Hoam - receives 2 actions
+Hoam - draws Estate, Throne Room
+Titandrake - discards: Province, Highway
+Hoam - plays Highway
+Hoam - draws Highway
+Hoam - plays Highway
+Hoam - draws Wishing Well
+Hoam - plays Highway
+Hoam - draws Armory
+Hoam - plays Highway
+Hoam - draws Copper
+Hoam - plays Wishing Well
+Hoam - draws Tribute
+Hoam - names Highway
+Hoam - reveals Margrave
+Hoam - plays Tribute
+Titandrake - reveals: Throne Room, Wishing Well
+Hoam - receives 4 actions
+Titandrake - discards: Throne Room, Wishing Well
+Hoam - plays Throne Room
+Hoam - plays Armory
+Hoam - gains Province
+Hoam - plays Armory
+Hoam - gains Province
+Hoam - plays 6 Copper
+Hoam - buys Province
+Hoam - gains Province
+Hoam - buys Province
+Hoam - gains Province
+Hoam - buys Duchy
+Hoam - gains Duchy
+Hoam - buys Duchy
+Hoam - gains Duchy
+Hoam - buys Duchy
+Hoam - gains Duchy
+Hoam - draws Province, Province, Margrave, Copper, Highway
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Highway
+Titandrake - draws Wishing Well
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Wishing Well
+Titandrake - draws Estate
+Titandrake - names Throne Room
+Titandrake - reveals Highway
+Titandrake - plays Margrave
+Titandrake - draws Highway, Province, Estate
+Hoam - shuffles deck
+Hoam - draws Throne Room
+Hoam - discards Province
+Hoam - discards Province
+Hoam - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Throne Room, Silver, Highway
+Titandrake - shuffles deck
+Titandrake - draws Margrave, Highway
+ 
+---------- Hoam: turn 16 ----------
+Hoam - plays Throne Room
+Hoam - plays Highway
+Hoam - draws Province
+Hoam - plays Highway
+Hoam - draws Duchy
+Hoam - plays Margrave
+Hoam - draws Tribute, Duchy, Copper
+Titandrake - draws Throne Room
+Titandrake - discards Silver
+Titandrake - discards Highway
+Titandrake - discards Highway
+Hoam - plays Tribute
+Titandrake - reveals: Duchy, Estate
+Hoam - draws Armory, Province, Wishing Well, Highway
+Titandrake - discards: Duchy, Estate
+Hoam - draws Highway, Copper, Margrave, Margrave, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Margrave
+Titandrake - draws Highway, Throne Room, Copper
+Hoam - draws Throne Room
+Hoam - discards Estate
+Hoam - discards Copper
+Hoam - discards Margrave
+Titandrake - plays Margrave
+Titandrake - draws Wishing Well, Copper, Province
+Hoam - draws Tribute
+Hoam - discards Highway
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Wishing Well
+Titandrake - draws Province
+Titandrake - names Margrave
+Titandrake - reveals Wishing Well
+Titandrake - plays Wishing Well
+Titandrake - draws Wishing Well
+Titandrake - names Margrave
+Titandrake - reveals Margrave
+Titandrake - places Margrave in hand
+Titandrake - plays Throne Room
+Titandrake - plays Margrave
+Titandrake - draws Margrave, Province, Wishing Well
+Hoam - draws Copper
+Hoam - discards Copper
+Titandrake - plays Margrave
+Titandrake - draws Estate, Throne Room, Silver
+Hoam - draws Copper
+Hoam - discards Copper
+Titandrake - plays Throne Room
+Titandrake - plays Margrave
+Titandrake - draws Copper, Copper, Armory
+Hoam - draws Highway
+Hoam - discards Highway
+Titandrake - plays Margrave
+Titandrake - draws Highway, Copper, Copper
+Hoam - draws Estate
+Hoam - discards Estate
+Titandrake - plays Wishing Well
+Titandrake - draws Wishing Well
+Titandrake - names Highway
+Titandrake - reveals Wishing Well
+Titandrake - plays Wishing Well
+Titandrake - draws Wishing Well
+Titandrake - names Highway
+Titandrake - reveals Estate
+Titandrake - plays Wishing Well
+Titandrake - draws Estate
+Titandrake - names Highway
+Titandrake - reveals Estate
+Titandrake - plays Wishing Well
+Titandrake - draws Estate
+Titandrake - names Province
+Titandrake - reveals Wishing Well
+Titandrake - plays Highway
+Titandrake - draws Wishing Well
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Silver
+Titandrake - shuffles deck
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Highway
+Titandrake - draws Duchy
+Titandrake - plays Armory
+Titandrake - gains Duchy
+Titandrake - plays 7 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Duchy, Estate, Highway, Highway
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Wishing Well, 4 Highway, 4 Throne Room, 3 Margrave, 1 Armory, 7 Copper, 2 Silver, 9 Estate, 4 Province, 3 Duchy
+Titandrake - total victory points: 42
+Titandrake - turns: 17
+ 
+Hoam - cards: 6 Highway, 4 Throne Room, 3 Margrave, 2 Tribute, 1 Armory, 1 Wishing Well, 7 Copper, 4 Province, 3 Duchy, 3 Estate
+Hoam - total victory points: 36
+Hoam - turns: 16
+ 
+1st place: Titandrake
+2nd place: Hoam
+ 

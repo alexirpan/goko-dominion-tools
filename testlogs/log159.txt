@@ -1,0 +1,492 @@
+------------ Game Setup ------------
+Supply cards: Apothecary, JackOfAllTrades, Spice Merchant, Talisman, Graverobber, Inn, Torturer, Witch, Harem, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Temron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 4 Copper
+Temron - buys JackOfAllTrades
+Temron - gains JackOfAllTrades
+Temron - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - shuffles deck
+Temron - draws Estate, Copper, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - draws Copper, JackOfAllTrades, Copper, Silver, Copper
+ 
+---------- Temron: turn 3 ----------
+Temron - plays 2 Copper, 1 Silver
+Temron - buys Spice Merchant
+Temron - gains Spice Merchant
+Temron - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - shuffles deck
+Titandrake - draws Silver, JackOfAllTrades, Copper, Copper, Copper
+ 
+---------- Temron: turn 4 ----------
+Temron - plays 4 Copper
+Temron - buys JackOfAllTrades
+Temron - gains JackOfAllTrades
+Temron - draws JackOfAllTrades, Copper
+Temron - shuffles deck
+Temron - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Copper on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Estate, Silver, Witch
+ 
+---------- Temron: turn 5 ----------
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - discards Spice Merchant
+Temron - trashes Estate
+Temron - plays 4 Copper
+Temron - buys Spice Merchant
+Temron - gains Spice Merchant
+Temron - draws Estate, Estate, Copper, Copper, JackOfAllTrades
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Copper
+Temron - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Witch, Copper, Silver, Silver
+ 
+---------- Temron: turn 6 ----------
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - places Copper on top of deck
+Temron - trashes Estate
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Silver
+Temron - shuffles deck
+Temron - draws Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Witch
+Temron - gains Curse
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Temron: turn 7 ----------
+Temron - plays 3 Copper, 2 Silver
+Temron - buys Witch
+Temron - gains Witch
+Temron - draws JackOfAllTrades, Spice Merchant, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Witch, Witch, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Estate, Gold, Inn, Estate, Copper
+ 
+---------- Temron: turn 8 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws JackOfAllTrades, Curse
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - discards Copper
+Temron - trashes Curse
+Temron - plays 1 Silver, 1 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Copper, Spice Merchant, Silver
+Temron - shuffles deck
+Temron - draws Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Inn
+Titandrake - draws JackOfAllTrades, Witch
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays Witch
+Titandrake - draws Witch
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Temron - gains Curse
+Titandrake - plays Witch
+Titandrake - draws Copper, Copper
+Temron - gains Curse
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Copper, Copper, Silver, Copper
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws Silver, Witch
+Temron - plays Witch
+Temron - draws Silver, Silver
+Titandrake - gains Curse
+Temron - plays 5 Silver, 1 Copper
+Temron - buys Province
+Temron - gains Province
+Temron - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper, Estate, Silver, Estate
+ 
+---------- Temron: turn 10 ----------
+Temron - plays 4 Copper
+Temron - buys Spice Merchant
+Temron - gains Spice Merchant
+Temron - draws Curse, Spice Merchant, JackOfAllTrades, JackOfAllTrades, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Province, Curse, Silver, Silver, Silver
+ 
+---------- Temron: turn 11 ----------
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - shuffles deck
+Temron - discards Witch
+Temron - trashes Curse
+Temron - plays 2 Silver
+Temron - buys Spice Merchant
+Temron - gains Spice Merchant
+Temron - draws Copper, Spice Merchant, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Copper, Witch, Gold, Silver
+ 
+---------- Temron: turn 12 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws Copper, Silver
+Temron - plays 3 Silver, 2 Copper
+Temron - buys Province
+Temron - gains Province
+Temron - draws Curse, Estate, Copper, Silver, Spice Merchant
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Witch
+Titandrake - draws Estate, JackOfAllTrades
+Temron - gains Curse
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Province, Copper, Inn, Copper
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws Province, Curse
+Temron - draws Silver, Copper
+Temron - shuffles deck
+Temron - draws Silver, Curse, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Inn
+Titandrake - draws Estate, Witch
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - plays Witch
+Titandrake - draws Copper, Estate
+Temron - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws JackOfAllTrades, Copper, Gold
+ 
+---------- Temron: turn 14 ----------
+Temron - plays 2 Silver, 2 Copper
+Temron - buys Harem
+Temron - gains Harem
+Temron - draws Silver, Copper, Silver, Spice Merchant, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards JackOfAllTrades
+Titandrake - plays 2 Gold, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Estate, Silver, Inn, Silver
+ 
+---------- Temron: turn 15 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws JackOfAllTrades, Silver
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - discards Spice Merchant
+Temron - trashes Curse
+Temron - plays 3 Silver
+Temron - buys Harem
+Temron - gains Harem
+Temron - draws Curse, Silver, Witch, Province, Spice Merchant
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Inn
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Copper, Estate, Estate, Harem
+ 
+---------- Temron: turn 16 ----------
+Temron - plays Witch
+Temron - draws Spice Merchant, JackOfAllTrades
+Titandrake - gains Curse
+Temron - draws Silver, Province
+Temron - shuffles deck
+Temron - draws Silver, Silver, Harem
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Copper, 1 Harem
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Witch, Province, Harem, Copper, Witch
+ 
+---------- Temron: turn 17 ----------
+Temron - plays 3 Silver, 1 Harem
+Temron - buys Province
+Temron - gains Province
+Temron - draws Witch, Spice Merchant, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Province
+Temron - gains Curse
+Titandrake - plays 1 Harem, 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Witch, Estate, Gold, Copper, Harem
+ 
+---------- Temron: turn 18 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws Spice Merchant, Harem
+Temron - plays Witch
+Temron - draws Copper, Curse
+Titandrake - gains Curse
+Temron - plays 1 Harem, 1 Silver, 1 Copper
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws JackOfAllTrades, Spice Merchant, Spice Merchant, Curse, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Silver
+Titandrake - plays 2 Silver, 1 Harem, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws JackOfAllTrades, Estate, Copper, Estate, JackOfAllTrades
+ 
+---------- Temron: turn 19 ----------
+Temron - plays Spice Merchant
+Temron - trashes Silver
+Temron - chooses two cards and one action
+Temron - draws Curse, Silver
+Temron - plays Spice Merchant
+Temron - trashes Silver
+Temron - chooses two cards and one action
+Temron - draws Silver, Province
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - places Silver on top of deck
+Temron - trashes Curse
+Temron - plays 2 Silver
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws JackOfAllTrades
+Temron - shuffles deck
+Temron - draws Spice Merchant, Spice Merchant, Estate, Spice Merchant
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards JackOfAllTrades
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Curse, Silver, Copper, Curse
+ 
+---------- Temron: turn 20 ----------
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - places Silver on top of deck
+Temron - plays 1 Silver
+Temron - buys Estate
+Temron - gains Estate
+Temron - draws Silver, Harem, Province, Harem, Curse
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Inn, Province, Witch, Copper, Harem
+ 
+---------- Temron: turn 21 ----------
+Temron - plays 2 Harem, 1 Silver
+Temron - buys Harem
+Temron - gains Harem
+Temron - draws Witch, Silver, JackOfAllTrades, Province, Curse
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Inn
+Titandrake - draws Harem, Copper
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - plays Witch
+Titandrake - draws Duchy, Copper
+Titandrake - plays 2 Harem, 2 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Province, Silver, Province
+Titandrake - shuffles deck
+Titandrake - draws Witch
+ 
+---------- Temron: turn 22 ----------
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - discards Duchy
+Temron - trashes Curse
+Temron - plays 2 Silver
+Temron - buys Estate
+Temron - gains Estate
+Temron - draws Curse, Silver, Silver, Silver, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Harem
+Titandrake - plays 2 Silver, 1 Harem, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Inn, Estate, Curse, Silver, Curse
+ 
+---------- Temron: turn 23 ----------
+Temron - plays 3 Silver, 1 Copper
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Silver, Province, Spice Merchant
+Temron - shuffles deck
+Temron - draws JackOfAllTrades, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Inn
+Titandrake - draws Silver, Harem
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - plays Harem
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Copper, JackOfAllTrades, Estate, Province
+ 
+---------- Temron: turn 24 ----------
+Temron - plays Spice Merchant
+Temron - trashes Silver
+Temron - chooses two cards and one action
+Temron - draws Silver, Estate
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - discards Estate
+Temron - plays 3 Silver
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws JackOfAllTrades, Copper, Silver, Silver, Spice Merchant
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Witch
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Estate, Estate, Copper, JackOfAllTrades
+ 
+---------- Temron: turn 25 ----------
+Temron - plays Spice Merchant
+Temron - trashes Copper
+Temron - chooses two cards and one action
+Temron - draws Harem, Province
+Temron - plays JackOfAllTrades
+Temron - gains Silver
+Temron - discards Spice Merchant
+Temron - plays 2 Harem, 2 Silver
+Temron - buys Province
+Temron - gains Province
+Temron - draws Silver, Curse, Harem, Witch, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 JackOfAllTrades, 2 Witch, 1 Inn, 7 Silver, 7 Copper, 5 Harem, 2 Gold, 4 Estate, 4 Duchy, 4 Province, 3 Curse
+Titandrake - total victory points: 47
+Titandrake - turns: 25
+ 
+Temron - cards: 4 Spice Merchant, 2 JackOfAllTrades, 11 Silver, 1 Witch, 3 Harem, 4 Province, 3 Estate, 3 Duchy, 2 Curse
+Temron - total victory points: 40
+Temron - turns: 25
+ 
+1st place: Titandrake
+2nd place: Temron
+ 

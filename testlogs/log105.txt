@@ -1,0 +1,790 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Duchess, Watchtower, Woodcutter, Fortress, Ironmonger, Mint, Pillage, Torturer, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+iriho - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+iriho - shuffles deck
+Titandrake - shuffles deck
+iriho - draws Copper, Copper, Copper, Copper, Overgrown Estate
+Titandrake - draws Necropolis, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- iriho: turn 1 ----------
+iriho - plays 4 Copper
+iriho - buys Ironmonger
+iriho - gains Ironmonger
+iriho - draws Copper, Copper, Hovel, Copper, Necropolis
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- iriho: turn 2 ----------
+iriho - plays 3 Copper
+iriho - buys Watchtower
+iriho - gains Watchtower
+iriho - shuffles deck
+iriho - draws Copper, Copper, Ironmonger, Copper, Hovel
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Hovel, Copper, Copper, Copper, Necropolis
+ 
+---------- iriho: turn 3 ----------
+iriho - plays Ironmonger
+iriho - draws Copper
+iriho - reveals: Copper
+iriho - discards Copper
+iriho - plays 4 Copper
+iriho - buys Torturer
+iriho - gains Torturer
+iriho - draws Watchtower, Copper, Necropolis, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Copper, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- iriho: turn 4 ----------
+iriho - plays Necropolis
+iriho - plays Watchtower
+iriho - shuffles deck
+iriho - draws Hovel, Copper, Copper
+iriho - plays 4 Copper
+iriho - buys Fortress
+iriho - gains Fortress
+iriho - draws Ironmonger, Copper, Copper, Torturer, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Watchtower, Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- iriho: turn 5 ----------
+iriho - plays Ironmonger
+iriho - shuffles deck
+iriho - draws Fortress
+iriho - reveals: Copper
+iriho - discards Copper
+iriho - plays Fortress
+iriho - draws Necropolis
+iriho - plays Torturer
+iriho - draws Copper, Copper, Hovel
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+iriho - plays Necropolis
+iriho - plays 5 Copper
+iriho - buys Altar
+iriho - gains Altar
+iriho - draws Watchtower, Overgrown Estate, Copper
+iriho - shuffles deck
+iriho - draws Copper, Torturer
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Overgrown Estate
+Titandrake - discards Overgrown Estate
+Titandrake - draws Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - applied Watchtower to place Altar on top of the deck
+Titandrake - draws Altar, Hovel, Cellar, Copper, Necropolis
+ 
+---------- iriho: turn 6 ----------
+iriho - plays Torturer
+iriho - draws Ironmonger, Copper, Fortress
+Titandrake - discards Copper
+Titandrake - discards Cellar
+iriho - plays 3 Copper
+iriho - buys Cellar
+iriho - gains Cellar
+iriho - applied Watchtower to place Cellar on top of the deck
+iriho - draws Cellar, Copper, Copper, Copper, Necropolis
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Altar
+Titandrake - trashes Hovel
+Titandrake - gains Torturer
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Watchtower, Copper
+ 
+---------- iriho: turn 7 ----------
+iriho - plays Cellar
+iriho - discards Necropolis
+iriho - discards Copper
+iriho - discards Copper
+iriho - draws Hovel, Copper, Altar
+iriho - plays Altar
+iriho - trashes Hovel
+iriho - gains Ironmonger
+iriho - plays 2 Copper
+iriho - buys Cellar
+iriho - gains Cellar
+iriho - shuffles deck
+iriho - draws Copper, Cellar, Cellar, Torturer, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - applied Watchtower to place Fortress on top of the deck
+Titandrake - draws Fortress, Torturer, Copper, Altar, Overgrown Estate
+ 
+---------- iriho: turn 8 ----------
+iriho - plays Cellar
+iriho - discards Copper
+iriho - discards Copper
+iriho - draws Copper, Watchtower
+iriho - plays Cellar
+iriho - discards Copper
+iriho - discards Torturer
+iriho - draws Ironmonger, Copper
+iriho - plays Ironmonger
+iriho - draws Copper
+iriho - reveals: Altar
+iriho - places Altar on top of deck
+iriho - plays Watchtower
+iriho - draws Altar, Ironmonger, Copper, Necropolis
+iriho - plays Ironmonger
+iriho - draws Copper
+iriho - reveals: Overgrown Estate
+iriho - discards Overgrown Estate
+iriho - draws Fortress
+iriho - plays Fortress
+iriho - shuffles deck
+iriho - draws Torturer
+iriho - plays Necropolis
+iriho - plays Altar
+iriho - trashes Copper
+iriho - gains Torturer
+iriho - plays Torturer
+iriho - draws Copper, Copper, Overgrown Estate
+Titandrake - gains Curse
+iriho - plays 5 Copper
+iriho - buys Ironmonger
+iriho - gains Ironmonger
+iriho - draws Copper
+iriho - shuffles deck
+iriho - draws Fortress, Overgrown Estate, Copper, Cellar
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Fortress
+Titandrake - draws Ironmonger
+Titandrake - plays Torturer
+Titandrake - draws Ironmonger, Copper, Copper
+iriho - gains Curse
+Titandrake - plays Ironmonger
+Titandrake - draws Necropolis
+Titandrake - reveals: Cellar
+Titandrake - places Cellar on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Cellar
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Altar
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Copper
+Titandrake - gains Torturer
+Titandrake - plays Cellar
+Titandrake - discards Necropolis
+Titandrake - discards Curse
+Titandrake - draws Copper, Copper
+Titandrake - plays 6 Copper
+Titandrake - buys Mint
+Titandrake - trashes Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - gains Mint
+Titandrake - draws Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Torturer, Cellar, Altar, Curse
+ 
+---------- iriho: turn 9 ----------
+iriho - plays Fortress
+iriho - draws Copper
+iriho - plays Cellar
+iriho - discards Copper
+iriho - discards Copper
+iriho - discards Copper
+iriho - discards Overgrown Estate
+iriho - discards Curse
+iriho - draws Torturer, Copper, Ironmonger, Ironmonger, Torturer
+iriho - plays Ironmonger
+iriho - draws Ironmonger
+iriho - reveals: Copper
+iriho - discards Copper
+iriho - plays Ironmonger
+iriho - draws Cellar
+iriho - reveals: Necropolis
+iriho - places Necropolis on top of deck
+iriho - plays Ironmonger
+iriho - draws Necropolis
+iriho - reveals: Altar
+iriho - places Altar on top of deck
+iriho - plays Torturer
+iriho - draws Altar, Copper, Watchtower
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+iriho - plays Necropolis
+iriho - plays Altar
+iriho - trashes Copper
+iriho - gains Pillage
+iriho - applied Watchtower to place Pillage on top of the deck
+iriho - plays Cellar
+iriho - discards Copper
+iriho - draws Pillage
+iriho - plays Pillage
+iriho - trashes Pillage
+Titandrake - reveals Torturer, Cellar, Altar, Curse, Watchtower
+Titandrake - discards Watchtower
+iriho - gains Spoils
+iriho - gains Spoils
+iriho - plays Watchtower
+iriho - shuffles deck
+iriho - draws Spoils, Copper, Copper, Copper, Overgrown Estate
+iriho - plays Torturer
+iriho - draws Spoils, Curse, Copper
+Titandrake - gains Curse
+iriho - plays Copper
+iriho - plays Copper
+iriho - plays Copper
+iriho - plays Copper
+iriho - buys Mint
+iriho - trashes Copper, Copper, Copper, Copper
+iriho - gains Mint
+iriho - draws Copper
+iriho - shuffles deck
+iriho - draws Ironmonger, Overgrown Estate, Torturer, Fortress
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Cellar
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - discards Torturer
+Titandrake - draws Ironmonger, Fortress, Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Necropolis
+Titandrake - discards Necropolis
+Titandrake - plays Ironmonger
+Titandrake - draws Torturer
+Titandrake - reveals: Mint
+Titandrake - discards Mint
+Titandrake - plays Torturer
+Titandrake - shuffles deck
+Titandrake - draws Torturer, Curse, Necropolis
+iriho - discards Overgrown Estate
+iriho - discards Copper
+Titandrake - plays Altar
+Titandrake - trashes Curse
+Titandrake - gains Pillage
+Titandrake - plays Fortress
+Titandrake - draws Watchtower
+Titandrake - plays Torturer
+Titandrake - draws Mint, Curse
+Titandrake - shuffles deck
+Titandrake - draws Pillage
+iriho - gains Curse
+Titandrake - plays Necropolis
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Spoils, Spoils
+Titandrake - plays Copper
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger, Torturer, Altar, Necropolis, Watchtower
+ 
+---------- iriho: turn 10 ----------
+iriho - plays Ironmonger
+iriho - draws Spoils
+iriho - reveals: Ironmonger
+iriho - places Ironmonger on top of deck
+iriho - plays Fortress
+iriho - draws Ironmonger
+iriho - plays Ironmonger
+iriho - draws Cellar
+iriho - reveals: Necropolis
+iriho - discards Necropolis
+iriho - plays Torturer
+iriho - draws Ironmonger, Altar, Mint
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+iriho - plays Ironmonger
+iriho - draws Cellar
+iriho - reveals: Torturer
+iriho - places Torturer on top of deck
+iriho - plays Cellar
+iriho - discards Spoils
+iriho - draws Torturer
+iriho - plays Torturer
+iriho - draws Watchtower, Spoils, Curse
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+iriho - plays Altar
+iriho - trashes Curse
+iriho - gains Ironmonger
+iriho - applied Watchtower to place Ironmonger on top of the deck
+iriho - plays Cellar
+iriho - discards Curse
+iriho - discards Mint
+iriho - discards Spoils
+iriho - draws Ironmonger
+iriho - shuffles deck
+iriho - draws Copper, Curse
+iriho - plays Ironmonger
+iriho - draws Spoils
+iriho - reveals: Overgrown Estate
+iriho - discards Overgrown Estate
+iriho - draws Necropolis
+iriho - plays Necropolis
+iriho - plays Watchtower
+iriho - draws Spoils, Mint
+iriho - shuffles deck
+iriho - draws Overgrown Estate
+iriho - plays Mint
+iriho - plays 1 Copper
+iriho - plays Spoils
+iriho - plays Spoils
+iriho - buys Gold
+iriho - gains Gold
+iriho - shuffles deck
+iriho - draws Ironmonger, Torturer, Curse, Overgrown Estate, Cellar
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Gold
+Titandrake - reveals: Curse
+Titandrake - discards Curse
+Titandrake - plays Necropolis
+Titandrake - plays Torturer
+Titandrake - draws Fortress, Torturer, Ironmonger
+iriho - discards Overgrown Estate
+iriho - discards Curse
+Titandrake - plays Fortress
+Titandrake - draws Cellar
+Titandrake - plays Torturer
+Titandrake - draws Mint, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse
+iriho - gains Curse
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - applied Watchtower to place Fortress on top of the deck
+Titandrake - draws Fortress
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, Altar, Gold, Curse
+ 
+---------- iriho: turn 11 ----------
+iriho - plays Ironmonger
+iriho - draws Cellar
+iriho - reveals: Watchtower
+iriho - places Watchtower on top of deck
+iriho - plays Torturer
+iriho - draws Watchtower, Ironmonger, Gold
+Titandrake - gains Curse
+iriho - plays Ironmonger
+iriho - draws Altar
+iriho - reveals: Necropolis
+iriho - places Necropolis on top of deck
+iriho - plays Cellar
+iriho - discards Curse
+iriho - discards Gold
+iriho - draws Necropolis, Mint
+iriho - plays Necropolis
+iriho - plays Watchtower
+iriho - draws Fortress, Copper, Ironmonger
+iriho - plays Ironmonger
+iriho - draws Torturer
+iriho - reveals: Ironmonger
+iriho - places Ironmonger on top of deck
+iriho - plays Altar
+iriho - trashes Fortress
+iriho - gains Woodcutter
+iriho - plays Fortress
+iriho - draws Ironmonger
+iriho - plays Ironmonger
+iriho - shuffles deck
+iriho - draws Curse
+iriho - reveals: Curse
+iriho - discards Curse
+iriho - plays Torturer
+iriho - draws Overgrown Estate, Woodcutter, Gold
+iriho - plays Mint
+iriho - reveals Gold
+iriho - gains Gold
+iriho - plays Woodcutter
+iriho - plays 1 Copper, 1 Gold
+iriho - buys Fortress
+iriho - gains Fortress
+iriho - buys Cellar
+iriho - gains Cellar
+iriho - shuffles deck
+iriho - draws Fortress, Cellar, Torturer, Overgrown Estate, Altar
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays Altar
+Titandrake - trashes Curse
+Titandrake - gains Pillage
+Titandrake - plays 2 Gold
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Torturer, Torturer, Cellar, Fortress, Watchtower
+ 
+---------- iriho: turn 12 ----------
+iriho - plays Fortress
+iriho - draws Fortress
+iriho - plays Torturer
+iriho - draws Gold, Ironmonger, Curse
+Titandrake - discards Cellar
+Titandrake - discards Torturer
+iriho - plays Ironmonger
+iriho - draws Woodcutter
+iriho - reveals: Cellar
+iriho - places Cellar on top of deck
+iriho - plays Fortress
+iriho - draws Cellar
+iriho - plays Altar
+iriho - trashes Curse
+iriho - gains Pillage
+iriho - plays Cellar
+iriho - discards Overgrown Estate
+iriho - discards Gold
+iriho - discards Woodcutter
+iriho - draws Ironmonger, Torturer, Watchtower
+iriho - plays Ironmonger
+iriho - draws Necropolis
+iriho - reveals: Ironmonger
+iriho - places Ironmonger on top of deck
+iriho - plays Necropolis
+iriho - plays Watchtower
+iriho - draws Ironmonger, Cellar, Ironmonger, Gold
+iriho - plays Ironmonger
+iriho - draws Mint
+iriho - reveals: Curse
+iriho - discards Curse
+iriho - plays Ironmonger
+iriho - draws Copper
+iriho - shuffles deck
+iriho - reveals: Pillage
+iriho - places Pillage on top of deck
+iriho - plays Torturer
+iriho - draws Pillage, Woodcutter, Overgrown Estate
+iriho - plays Cellar
+iriho - discards Overgrown Estate
+iriho - discards Copper
+iriho - draws Curse, Gold
+iriho - plays Mint
+iriho - reveals Gold
+iriho - gains Gold
+iriho - plays Woodcutter
+iriho - plays 2 Gold
+iriho - buys Ironmonger
+iriho - gains Ironmonger
+iriho - buys Watchtower
+iriho - gains Watchtower
+iriho - shuffles deck
+iriho - draws Torturer, Ironmonger, Watchtower, Fortress, Ironmonger
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Fortress
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Mint
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Watchtower
+Titandrake - draws Ironmonger, Copper
+Titandrake - shuffles deck
+Titandrake - draws Pillage, Torturer
+Titandrake - plays Ironmonger
+Titandrake - draws Curse
+Titandrake - reveals: Altar
+Titandrake - places Altar on top of deck
+Titandrake - plays Torturer
+Titandrake - draws Altar, Fortress, Cellar
+iriho - discards Ironmonger
+iriho - discards Ironmonger
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Altar
+Titandrake - trashes Curse
+Titandrake - gains Woodcutter
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Torturer
+Titandrake - draws Gold, Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays Cellar
+Titandrake - discards Necropolis
+Titandrake - discards Pillage
+Titandrake - draws Woodcutter
+Titandrake - shuffles deck
+Titandrake - draws Necropolis
+Titandrake - plays Woodcutter
+Titandrake - plays 3 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Pillage
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger, Fortress, Gold, Torturer
+ 
+---------- iriho: turn 13 ----------
+iriho - plays Fortress
+iriho - draws Gold
+iriho - plays Watchtower
+iriho - draws Ironmonger, Pillage, Copper, Altar
+iriho - plays Ironmonger
+iriho - draws Curse
+iriho - reveals: Gold
+iriho - discards Gold
+iriho - plays Pillage
+iriho - trashes Pillage
+Titandrake - reveals Pillage, Ironmonger, Fortress, Gold, Torturer
+Titandrake - discards Torturer
+iriho - gains Spoils
+iriho - gains Spoils
+iriho - plays 1 Gold, 1 Copper
+iriho - buys Fortress
+iriho - gains Fortress
+iriho - draws Ironmonger, Fortress, Torturer, Mint, Woodcutter
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Gold
+Titandrake - reveals: Gold
+Titandrake - discards Gold
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Altar
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+iriho - reveals Ironmonger, Fortress, Torturer, Mint, Woodcutter
+iriho - discards Torturer
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays 2 Gold
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Ironmonger, Necropolis, Mint, Torturer, Province
+ 
+---------- iriho: turn 14 ----------
+iriho - plays Ironmonger
+iriho - draws Overgrown Estate
+iriho - reveals: Gold
+iriho - discards Gold
+iriho - plays Fortress
+iriho - draws Necropolis
+iriho - plays Woodcutter
+iriho - plays Necropolis
+iriho - buys Watchtower
+iriho - gains Watchtower
+iriho - draws Cellar, Watchtower, Cellar, Ironmonger, Cellar
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Woodcutter
+Titandrake - reveals: Fortress
+Titandrake - places Fortress on top of deck
+Titandrake - plays Torturer
+Titandrake - draws Fortress, Cellar, Copper
+Titandrake - plays Fortress
+Titandrake - draws Watchtower
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Province
+Titandrake - discards Mint
+Titandrake - discards Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Altar, Province, Fortress, Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Fortress
+Titandrake - reveals: Gold
+Titandrake - discards Gold
+Titandrake - plays Fortress
+Titandrake - draws Mint
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays Woodcutter
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Watchtower
+Titandrake - draws Necropolis, Torturer, Spoils
+Titandrake - plays Necropolis
+Titandrake - plays Torturer
+Titandrake - draws Fortress, Spoils, Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Pillage
+Titandrake - plays 2 Gold
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Ironmonger, Fortress, Mint
+ 
+---------- iriho: turn 15 ----------
+iriho - plays Ironmonger
+iriho - shuffles deck
+iriho - draws Spoils
+iriho - reveals: Mint
+iriho - discards Mint
+iriho - plays Cellar
+iriho - discards Spoils
+iriho - discards Cellar
+iriho - discards Cellar
+iriho - draws Gold, Ironmonger, Overgrown Estate
+iriho - plays Ironmonger
+iriho - draws Ironmonger
+iriho - reveals: Gold
+iriho - discards Gold
+iriho - plays Ironmonger
+iriho - draws Spoils
+iriho - reveals: Watchtower
+iriho - places Watchtower on top of deck
+iriho - plays Watchtower
+iriho - draws Watchtower, Torturer, Fortress
+iriho - plays Fortress
+iriho - draws Necropolis
+iriho - plays Necropolis
+iriho - plays Torturer
+iriho - draws Woodcutter, Fortress, Curse
+iriho - plays Fortress
+iriho - draws Ironmonger
+iriho - plays Ironmonger
+iriho - draws Copper
+iriho - reveals: Ironmonger
+iriho - places Ironmonger on top of deck
+iriho - plays Woodcutter
+iriho - plays Watchtower
+iriho - draws Ironmonger
+iriho - plays Ironmonger
+iriho - draws Gold
+iriho - reveals: Torturer
+iriho - places Torturer on top of deck
+iriho - plays 2 Gold, 1 Copper
+iriho - plays Spoils
+iriho - buys Province
+iriho - gains Province
+iriho - buys Torturer
+iriho - gains Torturer
+iriho - draws Torturer, Watchtower, Altar, Fortress
+iriho - shuffles deck
+iriho - draws Ironmonger
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Fortress
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Fortress
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Necropolis
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Fortress
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Torturer
+Titandrake - reveals: Torturer
+Titandrake - places Torturer on top of deck
+Titandrake - plays Torturer
+Titandrake - draws Torturer, Cellar, Altar
+Titandrake - plays Torturer
+Titandrake - draws Gold, Woodcutter, Watchtower
+iriho - discards Altar
+iriho - discards Ironmonger
+Titandrake - plays Necropolis
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Woodcutter
+Titandrake - plays Cellar
+Titandrake - discards Altar
+Titandrake - draws Province
+Titandrake - plays Watchtower
+Titandrake - draws Fortress, Province
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays 4 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Pillage, Province
+Titandrake - shuffles deck
+Titandrake - draws Woodcutter, Cellar, Mint
+ 
+---------- iriho: turn 16 ----------
+iriho - plays Fortress
+iriho - draws Woodcutter
+iriho - plays Watchtower
+iriho - draws Ironmonger, Curse, Torturer, Spoils
+iriho - plays Ironmonger
+iriho - draws Copper
+iriho - reveals: Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Fortress, 3 Torturer, 3 Ironmonger, 1 Pillage, 1 Woodcutter, 1 Cellar, 1 Mint, 1 Necropolis, 1 Altar, 1 Watchtower, 5 Gold, 4 Province
+Titandrake - total victory points: 24
+Titandrake - turns: 15
+ 
+iriho - resigned
+iriho - cards: 4 Ironmonger, 3 Torturer, 3 Cellar, 2 Watchtower, 2 Fortress, 1 Woodcutter, 1 Altar, 1 Mint, 1 Necropolis, 2 Gold, 1 Spoils, 1 Copper, 1 Overgrown Estate, 1 Province, 1 Curse
+iriho - total victory points: 5
+iriho - turns: 15
+ 
+1st place: Titandrake
+2nd place: iriho
+ 

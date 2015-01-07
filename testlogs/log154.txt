@@ -1,0 +1,439 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Courtyard, Trade Route, Taxman, Graverobber, Mine, Pillage, Rabble, Torturer, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+The Imp - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+The Imp - shuffles deck
+Titandrake - shuffles deck
+The Imp - draws Copper, Hovel, Copper, Copper, Overgrown Estate
+Titandrake - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- The Imp: turn 1 ----------
+The Imp - plays 3 Copper
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Overgrown Estate, Copper, Copper, Necropolis, Copper
+ 
+---------- The Imp: turn 2 ----------
+The Imp - plays Necropolis
+The Imp - plays 4 Copper
+The Imp - buys Taxman
+The Imp - gains Taxman
+The Imp - shuffles deck
+The Imp - draws Taxman, Copper, Necropolis, Copper, Hovel
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- The Imp: turn 3 ----------
+The Imp - plays Taxman
+The Imp - trashes Copper
+Titandrake - discards Copper
+The Imp - gains Silver
+The Imp - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Overgrown Estate, Silver, Courtyard, Copper, Copper
+ 
+---------- The Imp: turn 4 ----------
+The Imp - plays 4 Copper, 1 Silver
+The Imp - buys Pillage
+The Imp - gains Pillage
+The Imp - draws Copper, Silver, Overgrown Estate
+The Imp - shuffles deck
+The Imp - draws Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Necropolis, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Copper, Silver, Copper, Hovel, Copper
+ 
+---------- The Imp: turn 5 ----------
+The Imp - plays 3 Copper, 1 Silver
+The Imp - buys Pillage
+The Imp - gains Pillage
+The Imp - draws Pillage, Taxman, Copper, Silver, Hovel
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Necropolis, Copper
+ 
+---------- The Imp: turn 6 ----------
+The Imp - plays Pillage
+The Imp - trashes Pillage
+Titandrake - reveals Copper, Copper, Silver, Necropolis, Copper
+Titandrake - discards Silver
+The Imp - gains Spoils
+The Imp - gains Spoils
+The Imp - plays 1 Copper, 1 Silver
+The Imp - buys Trade Route
+The Imp - gains Trade Route
+The Imp - draws Necropolis, Copper, Copper
+The Imp - shuffles deck
+The Imp - draws Spoils, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Hovel, Witch, Copper, Witch, Copper
+ 
+---------- The Imp: turn 7 ----------
+The Imp - plays Necropolis
+The Imp - plays 3 Copper
+The Imp - buys Trade Route
+The Imp - gains Trade Route
+The Imp - draws Taxman, Spoils, Pillage, Silver, Overgrown Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Overgrown Estate
+The Imp - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Courtyard, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- The Imp: turn 8 ----------
+The Imp - plays Pillage
+The Imp - trashes Pillage
+Titandrake - reveals Copper, Courtyard, Copper, Silver, Copper
+Titandrake - discards Courtyard
+The Imp - gains Spoils
+The Imp - gains Spoils
+The Imp - plays 1 Silver
+The Imp - buys Courtyard
+The Imp - gains Courtyard
+The Imp - draws Copper, Silver, Copper, Trade Route, Hovel
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Hovel, Copper, Copper, Silver, Copper
+ 
+---------- The Imp: turn 9 ----------
+The Imp - plays Trade Route
+The Imp - trashes Copper
+The Imp - plays 1 Copper, 1 Silver
+The Imp - buys Estate
+The Imp - trashes Hovel
+The Imp - gains Estate
+The Imp - draws Copper
+The Imp - shuffles deck
+The Imp - draws Curse, Copper, Spoils, Spoils
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Witch, Silver, Witch, Necropolis
+ 
+---------- The Imp: turn 10 ----------
+The Imp - plays 2 Copper
+The Imp - plays Spoils
+The Imp - plays Spoils
+The Imp - buys Province
+The Imp - gains Province
+The Imp - draws Courtyard, Silver, Copper, Necropolis, Spoils
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Witch
+Titandrake - draws Copper, Overgrown Estate
+The Imp - gains Curse
+Titandrake - plays Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Courtyard
+The Imp - gains Curse
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Copper, Hovel, Copper
+ 
+---------- The Imp: turn 11 ----------
+The Imp - plays Necropolis
+The Imp - plays Courtyard
+The Imp - draws Spoils, Taxman, Copper
+The Imp - places Spoils on top of deck
+The Imp - plays Taxman
+The Imp - trashes Copper
+Titandrake - discards Copper
+The Imp - gains Silver
+The Imp - plays 1 Silver, 1 Copper
+The Imp - buys Trade Route
+The Imp - gains Trade Route
+The Imp - draws Silver, Spoils, Trade Route, Estate, Trade Route
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Copper, Silver, Silver
+ 
+---------- The Imp: turn 12 ----------
+The Imp - plays Trade Route
+The Imp - trashes Estate
+The Imp - plays 1 Silver
+The Imp - plays Spoils
+The Imp - buys Duchy
+The Imp - gains Duchy
+The Imp - buys Courtyard
+The Imp - gains Courtyard
+The Imp - draws Copper, Silver, Overgrown Estate
+The Imp - shuffles deck
+The Imp - draws Curse, Taxman
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Copper, Necropolis, Silver, Copper
+ 
+---------- The Imp: turn 13 ----------
+The Imp - plays Taxman
+The Imp - trashes Copper
+Titandrake - discards Copper
+The Imp - gains Silver
+The Imp - plays Silver
+The Imp - buys Courtyard
+The Imp - gains Courtyard
+The Imp - draws Silver, Province, Courtyard, Necropolis, Duchy
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Silver, Witch, Silver, Witch, Copper
+ 
+---------- The Imp: turn 14 ----------
+The Imp - plays Necropolis
+The Imp - plays Courtyard
+The Imp - draws Trade Route, Curse, Silver
+The Imp - places Silver on top of deck
+The Imp - plays Trade Route
+The Imp - trashes Curse
+The Imp - plays Silver
+The Imp - buys Pillage
+The Imp - gains Pillage
+The Imp - draws Silver, Silver, Copper, Spoils, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Courtyard
+The Imp - gains Curse
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Province, Silver, Gold, Copper
+ 
+---------- The Imp: turn 15 ----------
+The Imp - plays 2 Silver, 2 Copper
+The Imp - plays Spoils
+The Imp - buys Province
+The Imp - gains Province
+The Imp - draws Trade Route, Curse, Trade Route, Courtyard, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Hovel, Silver, Copper
+ 
+---------- The Imp: turn 16 ----------
+The Imp - plays Trade Route
+The Imp - trashes Curse
+The Imp - plays Copper
+The Imp - buys Trade Route
+The Imp - gains Trade Route
+The Imp - shuffles deck
+The Imp - draws Copper, Overgrown Estate, Silver, Courtyard, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Rabble
+Titandrake - gains Rabble
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Silver, Courtyard, Witch
+ 
+---------- The Imp: turn 17 ----------
+The Imp - plays Courtyard
+The Imp - draws Duchy, Silver, Silver
+The Imp - places Silver on top of deck
+The Imp - plays 2 Silver, 1 Copper
+The Imp - buys Graverobber
+The Imp - gains Graverobber
+The Imp - draws Silver, Curse, Province, Silver, Trade Route
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Copper
+Titandrake - places Witch on top of deck
+Titandrake - plays 3 Silver, 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Witch, Silver, Copper, Gold, Witch
+ 
+---------- The Imp: turn 18 ----------
+The Imp - plays Trade Route
+The Imp - trashes Curse
+The Imp - plays 2 Silver
+The Imp - buys Duchy
+The Imp - gains Duchy
+The Imp - buys Courtyard
+The Imp - gains Courtyard
+The Imp - draws Courtyard, Courtyard, Taxman, Trade Route, Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Witch
+Titandrake - draws Hovel, Silver
+The Imp - gains Curse
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - trashes Hovel
+Titandrake - gains Province
+Titandrake - draws Province, Necropolis, Copper, Rabble, Copper
+ 
+---------- The Imp: turn 19 ----------
+The Imp - plays Trade Route
+The Imp - trashes Curse
+The Imp - buys Silver
+The Imp - gains Silver
+The Imp - draws Trade Route, Copper, Necropolis, Pillage, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Rabble
+Titandrake - draws Silver, Gold, Gold
+The Imp - reveals Trade Route
+The Imp - shuffles deck
+The Imp - reveals Copper, Duchy
+The Imp - discards: Trade Route, Copper
+The Imp - places Duchy on top of deck
+Titandrake - plays 2 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Overgrown Estate, Silver, Trade Route, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- The Imp: turn 20 ----------
+The Imp - plays Necropolis
+The Imp - plays Pillage
+The Imp - trashes Pillage
+Titandrake - reveals Overgrown Estate, Silver, Trade Route, Copper, Copper
+Titandrake - discards Trade Route
+The Imp - gains Spoils
+The Imp - gains Spoils
+The Imp - plays Trade Route
+The Imp - trashes Copper
+The Imp - plays Copper
+The Imp - buys Estate
+The Imp - gains Estate
+The Imp - buys Estate
+The Imp - gains Estate
+The Imp - draws Duchy, Silver, Courtyard, Overgrown Estate, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Province, Copper, Silver, Gold, Copper
+ 
+---------- The Imp: turn 21 ----------
+The Imp - plays Courtyard
+The Imp - draws Graverobber, Province, Curse
+The Imp - places Graverobber on top of deck
+The Imp - plays 2 Silver
+The Imp - buys Estate
+The Imp - gains Estate
+The Imp - draws Graverobber, Silver, Trade Route, Silver, Trade Route
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Necropolis, Courtyard, Province, Witch
+ 
+---------- The Imp: turn 22 ----------
+The Imp - plays Graverobber
+The Imp - trashes Trade Route
+The Imp - gains Duchy
+The Imp - plays 2 Silver
+The Imp - buys Estate
+The Imp - gains Estate
+The Imp - draws Province, Courtyard, Courtyard, Silver, Taxman
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Witch
+Titandrake - draws Rabble, Silver
+The Imp - gains Curse
+Titandrake - plays Courtyard
+Titandrake - draws Gold, Silver, Silver
+Titandrake - places Rabble on top of deck
+Titandrake - plays 3 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Rabble, Silver, Province, Witch, Gold
+ 
+---------- The Imp: turn 23 ----------
+The Imp - plays Courtyard
+The Imp - draws Courtyard, Duchy
+The Imp - shuffles deck
+The Imp - draws Curse
+The Imp - places Courtyard on top of deck
+The Imp - plays Silver
+The Imp - buys Estate
+The Imp - gains Estate
+The Imp - draws Courtyard, Estate, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Silver
+The Imp - gains Curse
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Overgrown Estate, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Trade Route, 2 Witch, 1 Rabble, 1 Necropolis, 1 Courtyard, 7 Copper, 7 Silver, 3 Gold, 6 Province, 1 Overgrown Estate, 1 Duchy
+Titandrake - total victory points: 39
+Titandrake - turns: 23
+ 
+The Imp - cards: 4 Courtyard, 3 Trade Route, 1 Taxman, 1 Graverobber, 1 Necropolis, 5 Silver, 2 Copper, 2 Spoils, 5 Estate, 3 Duchy, 2 Province, 1 Overgrown Estate, 3 Curse
+The Imp - total victory points: 23
+The Imp - turns: 23
+ 
+1st place: Titandrake
+2nd place: The Imp
+ 

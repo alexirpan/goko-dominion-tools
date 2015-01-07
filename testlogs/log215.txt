@@ -1,0 +1,83 @@
+------------ Game Setup ------------
+Supply cards: Great Hall, Lookout, Trade Route, Advisor, Cutpurse, Herald, Treasure Map, Merchant Guild, Fairgrounds, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+silverspawn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn - shuffles deck
+Titandrake - shuffles deck
+silverspawn - draws Estate, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Cutpurse
+Titandrake - gains Cutpurse
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- silverspawn: turn 1 ----------
+silverspawn - plays 2 Copper
+silverspawn - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Lookout, Copper
+ 
+---------- silverspawn: turn 2 ----------
+silverspawn - plays 5 Copper
+silverspawn - buys Merchant Guild
+silverspawn - gains Merchant Guild
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Cutpurse on top of deck
+Titandrake - draws Cutpurse, Copper, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 3 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Lookout
+silverspawn - gains Lookout
+silverspawn - draws Merchant Guild, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Cutpurse
+silverspawn - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Merchant Guild
+Titandrake - gains Merchant Guild
+Titandrake - shuffles deck
+Titandrake - draws Lookout, Cutpurse, Estate, Copper, Merchant Guild
+ 
+---------- silverspawn: turn 4 ----------
+silverspawn - draws Copper
+silverspawn - shuffles deck
+silverspawn - draws Copper, Merchant Guild, Estate, Lookout
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Cutpurse
+silverspawn - discards Copper
+Titandrake - plays Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Merchant Guild, 6 Copper, 1 Estate
+Titandrake - total victory points: 1
+Titandrake - turns: 4
+ 
+silverspawn - resigned
+silverspawn - cards: 1 Merchant Guild, 1 Lookout, 7 Copper, 3 Estate
+silverspawn - total victory points: 3
+silverspawn - turns: 4
+ 
+1st place: Titandrake
+2nd place: silverspawn
+ 

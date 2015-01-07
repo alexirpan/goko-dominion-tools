@@ -1,0 +1,424 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Woodcutter, Bridge, Ironworks, Nomad Camp, Spice Merchant, Golem, Bazaar, Cache, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Breezy - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Breezy - shuffles deck
+Titandrake - shuffles deck
+Breezy - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Breezy: turn 1 ----------
+Breezy - plays 3 Copper
+Breezy - buys Silver
+Breezy - gains Silver
+Breezy - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Breezy: turn 2 ----------
+Breezy - plays 4 Copper
+Breezy - buys Spice Merchant
+Breezy - gains Spice Merchant
+Breezy - shuffles deck
+Breezy - draws Copper, Copper, Copper, Spice Merchant, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Spice Merchant, Copper, Silver, Copper, Copper
+ 
+---------- Breezy: turn 3 ----------
+Breezy - plays Spice Merchant
+Breezy - trashes Copper
+Breezy - chooses two coins and one buy
+Breezy - plays 3 Copper
+Breezy - buys Bazaar
+Breezy - gains Bazaar
+Breezy - draws Silver, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ironworks, Spice Merchant, Copper, Copper
+ 
+---------- Breezy: turn 4 ----------
+Breezy - plays 2 Copper, 1 Silver
+Breezy - buys Ironworks
+Breezy - gains Ironworks
+Breezy - draws Copper, Estate
+Breezy - shuffles deck
+Breezy - draws Ironworks, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Copper
+Titandrake - plays Ironworks
+Titandrake - gains Potion
+Titandrake - plays 3 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Copper, Estate, Copper, Silver, Silver
+ 
+---------- Breezy: turn 5 ----------
+Breezy - plays Ironworks
+Breezy - gains Potion
+Breezy - plays 2 Copper
+Breezy - buys Silver
+Breezy - gains Silver
+Breezy - draws Bazaar, Copper, Estate, Copper, Spice Merchant
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Bazaar
+ 
+---------- Breezy: turn 6 ----------
+Breezy - plays Bazaar
+Breezy - draws Copper
+Breezy - plays Spice Merchant
+Breezy - trashes Copper
+Breezy - chooses two cards and one action
+Breezy - draws Silver, Copper
+Breezy - plays 3 Copper, 1 Silver
+Breezy - buys Bazaar
+Breezy - gains Bazaar
+Breezy - shuffles deck
+Breezy - draws Copper, Ironworks, Estate, Silver, Spice Merchant
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - draws Copper, Spice Merchant, Silver, Ironworks, Bridge
+ 
+---------- Breezy: turn 7 ----------
+Breezy - plays Spice Merchant
+Breezy - trashes Copper
+Breezy - chooses two cards and one action
+Breezy - draws Bazaar, Copper
+Breezy - plays Bazaar
+Breezy - draws Copper
+Breezy - plays Ironworks
+Breezy - gains Bridge
+Breezy - plays 2 Copper, 1 Silver
+Breezy - buys Bridge
+Breezy - gains Bridge
+Breezy - draws Estate, Estate, Bazaar, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Copper
+Titandrake - plays Ironworks
+Titandrake - gains Spice Merchant
+Titandrake - plays Bridge
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Copper, Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver
+ 
+---------- Breezy: turn 8 ----------
+Breezy - plays Bazaar
+Breezy - draws Copper
+Breezy - plays 2 Copper, 1 Silver
+Breezy - buys Bridge
+Breezy - gains Bridge
+Breezy - draws Potion
+Breezy - shuffles deck
+Breezy - draws Spice Merchant, Bazaar, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys Golem
+Titandrake - gains Golem
+Titandrake - draws Ironworks, Bazaar, Ironworks, Estate, Copper
+ 
+---------- Breezy: turn 9 ----------
+Breezy - plays Bazaar
+Breezy - draws Estate
+Breezy - plays Spice Merchant
+Breezy - trashes Copper
+Breezy - chooses two cards and one action
+Breezy - draws Bridge, Ironworks
+Breezy - plays Bridge
+Breezy - plays Ironworks
+Breezy - gains Bazaar
+Breezy - plays 1 Potion, 1 Silver
+Breezy - buys Golem
+Breezy - gains Golem
+Breezy - draws Bazaar, Copper, Bridge, Bridge, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Spice Merchant
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Bridge
+Titandrake - plays Ironworks
+Titandrake - gains Bridge
+Titandrake - plays Ironworks
+Titandrake - gains Bridge
+Titandrake - plays Bridge
+Titandrake - plays Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Bridge, Silver, Estate, Spice Merchant
+Titandrake - shuffles deck
+Titandrake - draws Ironworks
+ 
+---------- Breezy: turn 10 ----------
+Breezy - plays Bazaar
+Breezy - draws Copper
+Breezy - plays Bridge
+Breezy - plays Bridge
+Breezy - plays 2 Copper, 1 Silver
+Breezy - buys Bridge
+Breezy - gains Bridge
+Breezy - buys Bridge
+Breezy - gains Bridge
+Breezy - buys Bazaar
+Breezy - gains Bazaar
+Breezy - draws Estate, Estate, Copper
+Breezy - shuffles deck
+Breezy - draws Bazaar, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Silver
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Spice Merchant
+Titandrake - plays Bridge
+Titandrake - plays Ironworks
+Titandrake - gains Bazaar
+Titandrake - draws Bridge, Copper, Potion, Golem, Copper
+ 
+---------- Breezy: turn 11 ----------
+Breezy - plays Bazaar
+Breezy - draws Silver
+Breezy - plays 2 Copper, 1 Silver
+Breezy - buys Bazaar
+Breezy - gains Bazaar
+Breezy - draws Estate, Silver, Bridge, Potion, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Golem
+Titandrake - reveals Ironworks, Bridge
+Titandrake - plays Bridge
+Titandrake - plays Ironworks
+Titandrake - gains Bazaar
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Golem
+Titandrake - gains Golem
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - draws Copper, Estate, Silver, Bridge, Bridge
+ 
+---------- Breezy: turn 12 ----------
+Breezy - plays Bridge
+Breezy - plays 1 Silver, 1 Potion, 1 Copper
+Breezy - buys Golem
+Breezy - gains Golem
+Breezy - draws Bridge, Spice Merchant, Bridge, Bazaar, Ironworks
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bridge
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - shuffles deck
+Titandrake - draws Ironworks, Bridge, Copper, Bazaar, Estate
+ 
+---------- Breezy: turn 13 ----------
+Breezy - plays Bazaar
+Breezy - draws Bridge
+Breezy - plays Ironworks
+Breezy - gains Estate
+Breezy - draws Bridge
+Breezy - plays Bridge
+Breezy - buys Silver
+Breezy - gains Silver
+Breezy - draws Bazaar, Bazaar, Golem
+Breezy - shuffles deck
+Breezy - draws Estate, Bridge
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Bridge
+Titandrake - plays Bridge
+Titandrake - plays Ironworks
+Titandrake - gains Duchy
+Titandrake - draws Ironworks
+Titandrake - plays Ironworks
+Titandrake - gains Duchy
+Titandrake - draws Bridge
+Titandrake - plays Bridge
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Bridge, Bridge, Ironworks, Bazaar
+ 
+---------- Breezy: turn 14 ----------
+Breezy - plays Bazaar
+Breezy - draws Copper
+Breezy - plays Bazaar
+Breezy - draws Bridge
+Breezy - plays Bridge
+Breezy - plays Golem
+Breezy - reveals Bridge, Golem, Silver, Estate, Bazaar
+Breezy - discards: Golem, Silver, Estate
+Breezy - plays Bazaar
+Breezy - draws Silver
+Breezy - plays Bridge
+Breezy - plays Bridge
+Breezy - plays 1 Copper, 1 Silver
+Breezy - buys Province
+Breezy - gains Province
+Breezy - buys Tribute
+Breezy - gains Tribute
+Breezy - buys Tribute
+Breezy - gains Tribute
+Breezy - draws Bazaar, Estate, Bazaar, Silver, Bridge
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Copper
+Titandrake - plays Bridge
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - plays Bridge
+Titandrake - plays Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Spice Merchant, Silver, Potion, Spice Merchant, Golem
+ 
+---------- Breezy: turn 15 ----------
+Breezy - plays Bazaar
+Breezy - draws Potion
+Breezy - plays Bazaar
+Breezy - draws Copper
+Breezy - plays Bridge
+Breezy - plays 1 Silver, 1 Potion, 1 Copper
+Breezy - buys Golem
+Breezy - gains Golem
+Breezy - buys Ironworks
+Breezy - gains Ironworks
+Breezy - draws Ironworks, Copper, Bridge, Estate, Spice Merchant
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Silver
+Titandrake - chooses two cards and one action
+Titandrake - draws Golem, Copper
+Titandrake - plays Golem
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Estate, Duchy, Bridge, Bridge
+Titandrake - discards: Estate, Estate, Duchy
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays 1 Potion, 1 Copper
+Titandrake - buys Golem
+Titandrake - gains Golem
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Woodcutter
+Titandrake - gains Woodcutter
+Titandrake - draws Bazaar, Bridge, Estate, Bridge, Bridge
+ 
+---------- Breezy: turn 16 ----------
+Breezy - plays Spice Merchant
+Breezy - trashes Copper
+Breezy - chooses two cards and one action
+Breezy - shuffles deck
+Breezy - draws Estate, Bazaar
+Breezy - plays Bazaar
+Breezy - draws Golem
+Breezy - plays Golem
+Breezy - reveals Bridge, Silver, Bazaar
+Breezy - discards Silver
+Breezy - plays Bazaar
+Breezy - draws Copper
+Breezy - plays Bridge
+Breezy - plays Bridge
+Breezy - plays Ironworks
+Breezy - gains Duchy
+Breezy - draws Province
+Breezy - plays 1 Copper
+Breezy - buys Duchy
+Breezy - gains Duchy
+Breezy - buys Estate
+Breezy - gains Estate
+Breezy - buys Estate
+Breezy - gains Estate
+Breezy - draws Bazaar, Silver, Ironworks, Bazaar, Bridge
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Ironworks
+Titandrake - plays Ironworks
+Titandrake - gains Estate
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Estate
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - draws Copper, Duchy, Bazaar, Gold, Ironworks
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Bazaar, 5 Bridge, 4 Ironworks, 3 Golem, 2 Spice Merchant, 1 Woodcutter, 3 Copper, 1 Gold, 1 Potion, 8 Estate, 4 Duchy
+Titandrake - total victory points: 20
+Titandrake - turns: 17
+ 
+Breezy - cards: 5 Bazaar, 5 Bridge, 3 Golem, 2 Ironworks, 2 Tribute, 1 Spice Merchant, 3 Silver, 2 Copper, 1 Potion, 6 Estate, 2 Duchy, 1 Province
+Breezy - total victory points: 18
+Breezy - turns: 16
+ 
+1st place: Titandrake
+2nd place: Breezy
+ 

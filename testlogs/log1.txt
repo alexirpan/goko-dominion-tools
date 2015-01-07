@@ -1,0 +1,565 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Develop, Hermit, Smugglers, Ironworks, Procession, Mandarin, Margrave, Tribute, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Hermit
+lightbulb - gains Hermit
+lightbulb - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Ironworks
+lightbulb - gains Ironworks
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Margrave, Estate, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays 5 Copper
+lightbulb - buys Margrave
+lightbulb - gains Margrave
+lightbulb - draws Estate, Copper, Copper, Estate, Ironworks
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Margrave
+Titandrake - draws Pawn, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+lightbulb - draws Estate
+lightbulb - discards Estate
+lightbulb - discards Estate
+lightbulb - discards Estate
+Titandrake - plays 5 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Hermit, Copper, Estate, Estate
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Ironworks
+lightbulb - gains Silver
+lightbulb - plays 2 Copper
+lightbulb - buys Hermit
+lightbulb - gains Hermit
+lightbulb - draws Hermit
+lightbulb - shuffles deck
+lightbulb - draws Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hermit, Pawn, Estate, Copper
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays Hermit
+lightbulb - trashes Estate
+lightbulb - gains Hermit
+lightbulb - plays 3 Copper
+lightbulb - trashes Hermit
+lightbulb - gains Madman
+lightbulb - draws Copper, Estate, Ironworks, Silver, Hermit
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Develop
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Margrave, Copper, Estate, Madman
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays Ironworks
+lightbulb - gains Hermit
+lightbulb - plays Hermit
+lightbulb - trashes Estate
+lightbulb - gains Hermit
+lightbulb - trashes Hermit
+lightbulb - gains Madman
+lightbulb - draws Estate, Copper, Copper, Copper, Margrave
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Copper, Pawn, Copper
+Titandrake - plays Margrave
+Titandrake - shuffles deck
+Titandrake - draws Develop, Hermit, Copper
+lightbulb - shuffles deck
+lightbulb - draws Hermit
+lightbulb - discards Estate
+lightbulb - discards Hermit
+lightbulb - discards Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Silver
+Titandrake - plays Develop
+Titandrake - trashes Silver
+Titandrake - gains Ironworks
+Titandrake - gains Pawn
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Pawn, Ironworks, Pawn, Copper, Copper
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Margrave
+lightbulb - draws Hermit, Ironworks, Silver
+Titandrake - shuffles deck
+Titandrake - draws Develop
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Develop
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Procession
+lightbulb - gains Procession
+lightbulb - draws Madman, Copper, Copper, Copper, Madman
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Ironworks
+Titandrake - gains Procession
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Hermit, Silver, Pawn, Margrave, Copper
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays Madman
+lightbulb - draws Hermit, Copper
+lightbulb - shuffles deck
+lightbulb - draws Hermit, Hermit
+lightbulb - plays Madman
+lightbulb - draws Copper, Estate, Copper, Silver, Procession, Ironworks, Copper
+lightbulb - plays Procession
+lightbulb - plays Ironworks
+lightbulb - gains Ironworks
+lightbulb - plays Ironworks
+lightbulb - gains Procession
+lightbulb - trashes Ironworks
+lightbulb - gains Margrave
+lightbulb - plays Hermit
+lightbulb - trashes Estate
+lightbulb - gains Hermit
+lightbulb - plays Hermit
+lightbulb - gains Silver
+lightbulb - plays Hermit
+lightbulb - gains Silver
+lightbulb - trashes Hermit
+lightbulb - gains Madman
+lightbulb - trashes Hermit
+lightbulb - gains Madman
+lightbulb - trashes Hermit
+lightbulb - gains Madman
+lightbulb - draws Margrave
+lightbulb - shuffles deck
+lightbulb - draws Silver, Madman, Margrave, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Estate
+Titandrake - plays Margrave
+Titandrake - draws Copper, Copper, Pawn
+lightbulb - draws Copper
+lightbulb - discards Copper
+lightbulb - discards Copper
+lightbulb - discards Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Margrave
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Hermit, Pawn, Pawn
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays Madman
+lightbulb - draws Ironworks, Hermit
+lightbulb - plays Margrave
+lightbulb - draws Silver, Procession, Madman
+Titandrake - draws Pawn
+Titandrake - discards Hermit
+Titandrake - discards Pawn
+Titandrake - discards Pawn
+lightbulb - plays Procession
+lightbulb - plays Madman
+lightbulb - draws Silver, Procession, Madman, Copper
+lightbulb - plays Madman
+lightbulb - plays Madman
+lightbulb - draws Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Silver, Copper
+lightbulb - plays Ironworks
+lightbulb - gains Silver
+lightbulb - plays Procession
+lightbulb - plays Hermit
+lightbulb - gains Hermit
+lightbulb - plays Hermit
+lightbulb - gains Silver
+lightbulb - trashes Hermit
+lightbulb - gains Ironworks
+lightbulb - plays Margrave
+lightbulb - shuffles deck
+lightbulb - draws Ironworks, Silver, Silver
+Titandrake - draws Copper
+Titandrake - discards Copper
+lightbulb - plays Ironworks
+lightbulb - gains Estate
+lightbulb - draws Hermit
+lightbulb - plays Hermit
+lightbulb - trashes Estate
+lightbulb - gains Silver
+lightbulb - plays 7 Copper, 5 Silver
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - shuffles deck
+lightbulb - draws Margrave, Copper, Copper, Procession, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Hermit
+Titandrake - plays Margrave
+Titandrake - draws Silver, Pawn, Copper
+lightbulb - draws Ironworks
+lightbulb - discards Copper
+lightbulb - discards Copper
+lightbulb - discards Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Pawn, Estate, Margrave, Procession, Develop
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Procession
+lightbulb - plays Ironworks
+lightbulb - gains Ironworks
+lightbulb - plays Ironworks
+lightbulb - gains Procession
+lightbulb - trashes Ironworks
+lightbulb - gains Margrave
+lightbulb - plays Margrave
+lightbulb - draws Silver, Margrave, Silver
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Develop
+lightbulb - plays Margrave
+lightbulb - draws Procession, Silver, Gold
+Titandrake - draws Copper
+Titandrake - discards Copper
+lightbulb - plays 3 Silver, 1 Gold
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Copper, Province, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Procession
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Ironworks
+Titandrake - trashes Pawn
+Titandrake - gains Smugglers
+Titandrake - plays Margrave
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+lightbulb - draws Silver
+lightbulb - discards Province
+lightbulb - discards Copper
+lightbulb - discards Copper
+Titandrake - plays Ironworks
+Titandrake - gains Procession
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Smugglers, Estate, Pawn, Copper, Copper
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Hermit, Silver, Silver, Silver, Ironworks
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Procession
+Titandrake - plays Procession
+Titandrake - plays Smugglers
+Titandrake - gains Silver
+Titandrake - plays Smugglers
+Titandrake - gains Silver
+Titandrake - trashes Smugglers
+Titandrake - gains Procession
+Titandrake - draws Pawn, Develop, Hermit, Pawn, Hermit
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays Hermit
+lightbulb - gains Silver
+lightbulb - trashes Hermit
+lightbulb - gains Madman
+lightbulb - shuffles deck
+lightbulb - draws Silver, Silver, Silver, Silver, Madman
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Silver
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Margrave
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Develop
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper, Pawn
+Titandrake - shuffles deck
+Titandrake - draws Madman, Ironworks, Copper
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Madman
+lightbulb - draws Copper, Ironworks, Silver, Gold
+lightbulb - plays Ironworks
+lightbulb - gains Silver
+lightbulb - plays 5 Silver, 1 Copper, 1 Gold
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Margrave, Procession, Province, Copper, Ironworks
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Madman
+Titandrake - draws Pawn, Pawn, Silver, Procession
+Titandrake - plays Procession
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Margrave
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - trashes Pawn
+Titandrake - gains Develop
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Procession
+Titandrake - plays Procession
+Titandrake - plays Margrave
+Titandrake - draws Margrave, Silver, Develop
+lightbulb - draws Gold
+lightbulb - discards Province
+lightbulb - discards Ironworks
+lightbulb - discards Procession
+Titandrake - plays Margrave
+Titandrake - draws Procession, Pawn, Copper
+lightbulb - draws Copper
+lightbulb - discards Copper
+Titandrake - trashes Margrave
+Titandrake - plays Procession
+Titandrake - plays Ironworks
+Titandrake - gains Procession
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - trashes Ironworks
+Titandrake - gains Margrave
+Titandrake - plays Margrave
+Titandrake - draws Develop, Copper, Copper
+lightbulb - draws Silver
+lightbulb - discards Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Hermit
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Develop
+Titandrake - trashes Hermit
+Titandrake - gains Procession
+Titandrake - gains Pawn
+Titandrake - plays Develop
+Titandrake - trashes Copper
+Titandrake - plays 6 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Pawn, Procession, Silver, Silver, Procession
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Margrave
+lightbulb - draws Silver, Procession, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - discards Silver
+lightbulb - plays 2 Silver, 1 Gold, 1 Copper
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Copper, Margrave, Procession, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Procession
+Titandrake - trashes Pawn
+Titandrake - gains Develop
+Titandrake - plays Procession
+Titandrake - trashes Procession
+Titandrake - gains Margrave
+Titandrake - draws Procession, Develop, Margrave, Procession, Pawn
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays Procession
+lightbulb - plays Margrave
+lightbulb - draws Margrave, Silver, Silver
+Titandrake - draws Pawn
+Titandrake - discards Develop
+Titandrake - discards Pawn
+Titandrake - discards Pawn
+lightbulb - plays Margrave
+lightbulb - draws Silver
+lightbulb - shuffles deck
+lightbulb - draws Copper, Silver
+Titandrake - draws Pawn
+Titandrake - discards Pawn
+lightbulb - trashes Margrave
+lightbulb - plays 4 Copper, 4 Silver
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - buys Pawn
+lightbulb - gains Pawn
+lightbulb - buys Pawn
+lightbulb - gains Pawn
+lightbulb - draws Margrave, Procession, Ironworks, Silver, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Margrave
+Titandrake - draws Develop, Ironworks, Copper
+lightbulb - draws Silver
+lightbulb - discards Silver
+lightbulb - discards Silver
+lightbulb - discards Gold
+Titandrake - plays Margrave
+Titandrake - draws Develop, Silver, Copper
+lightbulb - draws Copper
+lightbulb - discards Copper
+Titandrake - trashes Margrave
+Titandrake - plays Procession
+Titandrake - plays Ironworks
+Titandrake - gains Estate
+Titandrake - draws Pawn
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - trashes Ironworks
+Titandrake - gains Tribute
+Titandrake - trashes Procession
+Titandrake - gains Mandarin
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Procession, Margrave, Copper, Province
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays Ironworks
+lightbulb - gains Procession
+lightbulb - plays Procession
+lightbulb - plays Margrave
+lightbulb - draws Copper, Province, Silver
+Titandrake - shuffles deck
+Titandrake - draws Procession
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - discards Silver
+lightbulb - plays Margrave
+lightbulb - draws Procession, Province, Silver
+Titandrake - draws Develop
+Titandrake - discards Develop
+lightbulb - trashes Margrave
+lightbulb - plays 2 Silver, 1 Copper
+lightbulb - buys Pawn
+lightbulb - gains Pawn
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - draws Silver, Gold, Province, Silver, Ironworks
+ 
+------------ Game Over ------------
+lightbulb - cards: 4 Procession, 3 Pawn, 2 Ironworks, 11 Silver, 1 Margrave, 7 Copper, 2 Gold, 4 Province, 1 Estate
+lightbulb - total victory points: 25
+lightbulb - turns: 16
+ 
+Titandrake - cards: 4 Procession, 4 Develop, 4 Pawn, 2 Margrave, 1 Mandarin, 1 Ironworks, 1 Tribute, 6 Copper, 4 Silver, 1 Province, 1 Estate, 1 Duchy
+Titandrake - total victory points: 10
+Titandrake - turns: 16
+ 
+1st place: lightbulb
+2nd place: Titandrake
+ 

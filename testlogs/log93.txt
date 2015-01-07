@@ -1,0 +1,400 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, University, Great Hall, Hermit, Swindler, Herald, Highway, Horn of Plenty, Wharf, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+dudeabides - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dudeabides - shuffles deck
+Titandrake - shuffles deck
+dudeabides - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- dudeabides: turn 1 ----------
+dudeabides - plays 4 Copper
+dudeabides - buys Potion
+dudeabides - gains Potion
+dudeabides - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 2 ----------
+dudeabides - plays 3 Copper
+dudeabides - buys Swindler
+dudeabides - gains Swindler
+dudeabides - shuffles deck
+dudeabides - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Courtyard, Estate
+ 
+---------- dudeabides: turn 3 ----------
+dudeabides - plays 4 Copper
+dudeabides - buys Hermit
+dudeabides - gains Hermit
+dudeabides - draws Swindler, Potion, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Estate, Copper, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Copper, Potion, Copper, Copper
+ 
+---------- dudeabides: turn 4 ----------
+dudeabides - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+dudeabides - plays 1 Potion, 1 Copper
+dudeabides - buys University
+dudeabides - gains University
+dudeabides - draws Copper, Copper
+dudeabides - shuffles deck
+dudeabides - draws Potion, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Estate, Swindler, Estate, Estate, Courtyard
+ 
+---------- dudeabides: turn 5 ----------
+dudeabides - plays 4 Copper, 1 Potion
+dudeabides - buys University
+dudeabides - gains University
+dudeabides - draws University, Copper, Copper, Copper, Hermit
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - places Swindler on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Swindler, Copper, Potion, Copper, University
+ 
+---------- dudeabides: turn 6 ----------
+dudeabides - plays University
+dudeabides - gains Highway
+dudeabides - plays Hermit
+dudeabides - gains Hermit
+dudeabides - trashes Hermit
+dudeabides - gains Madman
+dudeabides - draws Estate, Estate, Swindler, Estate
+dudeabides - shuffles deck
+dudeabides - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays University
+Titandrake - gains Wharf
+Titandrake - plays Swindler
+dudeabides - reveals Copper
+dudeabides - trashes Copper
+dudeabides - gains Curse
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- dudeabides: turn 7 ----------
+dudeabides - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+dudeabides - plays 1 Copper
+dudeabides - buys Courtyard
+dudeabides - gains Courtyard
+dudeabides - draws Potion, Copper, Madman, University, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Wharf, Copper, Copper, Great Hall, University
+ 
+---------- dudeabides: turn 8 ----------
+dudeabides - plays Madman
+dudeabides - draws Copper, Copper, Copper, Highway
+dudeabides - plays Highway
+dudeabides - draws University
+dudeabides - plays University
+dudeabides - gains Grand Market
+dudeabides - plays University
+dudeabides - gains Grand Market
+dudeabides - plays 5 Copper, 1 Potion
+dudeabides - buys University
+dudeabides - gains University
+dudeabides - draws Hermit
+dudeabides - shuffles deck
+dudeabides - draws Copper, Curse, University, Courtyard
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Estate
+Titandrake - plays University
+Titandrake - gains Highway
+Titandrake - plays Wharf
+Titandrake - draws University, Potion
+Titandrake - plays University
+Titandrake - gains Wharf
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Swindler, Courtyard, Estate
+Titandrake - shuffles deck
+Titandrake - draws University, Wharf
+ 
+---------- dudeabides: turn 9 ----------
+dudeabides - plays University
+dudeabides - gains Wharf
+dudeabides - plays Courtyard
+dudeabides - draws Estate, Estate, Potion
+dudeabides - places Potion on top of deck
+dudeabides - plays Hermit
+dudeabides - trashes Curse
+dudeabides - gains Hermit
+dudeabides - trashes Hermit
+dudeabides - gains Madman
+dudeabides - draws Potion, Grand Market, Copper, Swindler, Highway
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Wharf
+Titandrake - draws University, Copper
+Titandrake - plays University
+Titandrake - gains Highway
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays University
+Titandrake - gains Highway
+Titandrake - plays Courtyard
+Titandrake - draws Curse, Herald, Highway
+Titandrake - places Highway on top of deck
+Titandrake - plays Herald
+Titandrake - draws Highway
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Swindler
+dudeabides - reveals University
+dudeabides - trashes University
+dudeabides - gains University
+Titandrake - plays 3 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, University, Estate, Potion, Copper
+ 
+---------- dudeabides: turn 10 ----------
+dudeabides - plays Grand Market
+dudeabides - draws Estate
+dudeabides - plays Highway
+dudeabides - draws Copper
+dudeabides - plays Swindler
+Titandrake - reveals Great Hall
+Titandrake - trashes Great Hall
+Titandrake - gains Silver
+dudeabides - plays 2 Copper, 1 Potion
+dudeabides - buys Wharf
+dudeabides - gains Wharf
+dudeabides - buys University
+dudeabides - gains University
+dudeabides - draws Copper, Copper, University, Grand Market, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays University
+Titandrake - gains Wharf
+Titandrake - plays 3 Copper, 1 Potion, 1 Silver
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Herald, Swindler, Copper, Courtyard, University
+ 
+---------- dudeabides: turn 11 ----------
+dudeabides - plays University
+dudeabides - gains Wharf
+dudeabides - plays Grand Market
+dudeabides - shuffles deck
+dudeabides - draws Copper
+dudeabides - plays 4 Copper
+dudeabides - buys Highway
+dudeabides - gains Highway
+dudeabides - draws Grand Market, Highway, Hermit, Wharf, Courtyard
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - plays University
+Titandrake - gains Highway
+Titandrake - plays Courtyard
+Titandrake - draws Curse, Highway, Copper
+Titandrake - places Estate on top of deck
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Swindler
+dudeabides - reveals Wharf
+dudeabides - trashes Wharf
+dudeabides - gains Duchy
+Titandrake - plays 2 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Highway, Copper, University, Wharf, Highway
+ 
+---------- dudeabides: turn 12 ----------
+dudeabides - plays Highway
+dudeabides - draws Estate
+dudeabides - plays Grand Market
+dudeabides - draws Estate
+dudeabides - plays Wharf
+dudeabides - draws University, Copper
+dudeabides - plays 1 Copper
+dudeabides - buys Herald
+dudeabides - gains Herald
+dudeabides - draws University, Madman, Potion, Swindler, University
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Highway
+Titandrake - draws Wharf
+Titandrake - plays University
+Titandrake - gains Grand Market
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Curse
+Titandrake - plays Grand Market
+Titandrake - draws Potion
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Swindler, Copper, Highway, University, Estate
+ 
+---------- dudeabides: turn 13 ----------
+dudeabides - duration Wharf
+dudeabides - draws Wharf, Estate
+dudeabides - plays University
+dudeabides - gains Highway
+dudeabides - plays Wharf
+dudeabides - draws Copper
+dudeabides - shuffles deck
+dudeabides - draws University
+dudeabides - plays Madman
+dudeabides - draws Copper, Estate, Estate, Copper, Highway, Copper
+dudeabides - plays Highway
+dudeabides - draws Highway
+dudeabides - plays Highway
+dudeabides - draws Copper
+dudeabides - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+dudeabides - plays University
+dudeabides - gains Grand Market
+dudeabides - plays University
+dudeabides - gains Grand Market
+dudeabides - plays 5 Copper, 1 Potion
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - buys Great Hall
+dudeabides - gains Great Hall
+dudeabides - buys Estate
+dudeabides - gains Estate
+dudeabides - draws Herald, Grand Market, Courtyard, Highway, University
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Wharf
+Titandrake - draws Courtyard, Highway
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Wharf
+Titandrake - plays Highway
+Titandrake - draws Herald
+Titandrake - plays Herald
+Titandrake - draws Highway
+Titandrake - reveals: Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Wharf
+Titandrake - draws University, University
+Titandrake - plays University
+Titandrake - gains Highway
+Titandrake - plays University
+Titandrake - gains Highway
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Estate, University
+Titandrake - plays Courtyard
+Titandrake - draws Highway, Great Hall, Curse
+Titandrake - places Estate on top of deck
+Titandrake - plays Great Hall
+Titandrake - draws Estate
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Duchy
+Titandrake - plays University
+Titandrake - gains Great Hall
+Titandrake - plays University
+Titandrake - gains Great Hall
+Titandrake - plays Swindler
+dudeabides - reveals Duchy
+dudeabides - trashes Duchy
+dudeabides - gains Curse
+Titandrake - plays 1 Silver
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Highway, Grand Market, Potion, Copper, Highway
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Highway, 6 Great Hall, 5 University, 4 Wharf, 1 Grand Market, 1 Herald, 1 Courtyard, 1 Swindler, 5 Copper, 1 Potion, 1 Silver, 3 Duchy, 3 Estate, 2 Province, 2 Curse
+Titandrake - total victory points: 28
+Titandrake - turns: 13
+ 
+dudeabides - cards: 4 Grand Market, 4 University, 3 Highway, 2 Wharf, 1 Great Hall, 1 Herald, 1 Courtyard, 1 Swindler, 1 Hermit, 6 Copper, 1 Potion, 4 Estate, 1 Province, 1 Curse
+dudeabides - total victory points: 10
+dudeabides - turns: 13
+ 
+1st place: Titandrake
+2nd place: dudeabides
+ 

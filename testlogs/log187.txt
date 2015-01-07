@@ -1,0 +1,446 @@
+------------ Game Setup ------------
+Supply cards: University, Great Hall, Market Square, Armory, Farming Village, Salvager, Treasure Map, Saboteur, Border Village, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+florrat - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+florrat - shuffles deck
+Titandrake - shuffles deck
+florrat - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- florrat: turn 1 ----------
+florrat - plays 3 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- florrat: turn 2 ----------
+florrat - plays 4 Copper
+florrat - buys Salvager
+florrat - gains Salvager
+florrat - shuffles deck
+florrat - draws Silver, Copper, Copper, Estate, Salvager
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Copper, Salvager
+ 
+---------- florrat: turn 3 ----------
+florrat - plays Salvager
+florrat - trashes Estate
+florrat - plays 2 Copper, 1 Silver
+florrat - buys Border Village
+florrat - gains Border Village
+florrat - gains Salvager
+florrat - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Armory
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- florrat: turn 4 ----------
+florrat - plays 3 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Copper, Copper
+florrat - shuffles deck
+florrat - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- florrat: turn 5 ----------
+florrat - plays 5 Copper
+florrat - buys Salvager
+florrat - gains Salvager
+florrat - draws Estate, Estate, Border Village, Salvager, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Border Village, Salvager, Estate, Estate, Market Square
+ 
+---------- florrat: turn 6 ----------
+florrat - plays Salvager
+florrat - trashes Border Village
+florrat - plays 1 Silver
+florrat - buys Province
+florrat - gains Province
+florrat - draws Salvager, Copper, Silver, Copper
+florrat - shuffles deck
+florrat - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Border Village
+Titandrake - draws Armory
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - plays Armory
+Titandrake - gains Salvager
+Titandrake - draws Salvager, Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- florrat: turn 7 ----------
+florrat - plays Salvager
+florrat - trashes Silver
+florrat - plays 3 Copper
+florrat - buys Border Village
+florrat - gains Border Village
+florrat - gains Farming Village
+florrat - draws Estate, Salvager, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Gold
+Titandrake - plays 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Border Village, Market Square, Estate, Copper
+ 
+---------- florrat: turn 8 ----------
+florrat - plays Salvager
+florrat - trashes Estate
+florrat - plays 2 Copper
+florrat - buys Salvager
+florrat - gains Salvager
+florrat - draws Copper, Copper, Salvager, Province, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Border Village
+Titandrake - draws Armory
+Titandrake - plays Armory
+Titandrake - gains Salvager
+Titandrake - plays Market Square
+Titandrake - draws Salvager
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Copper, Farming Village, Copper, Copper, Salvager
+ 
+---------- florrat: turn 9 ----------
+florrat - plays Salvager
+florrat - trashes Copper
+florrat - plays 1 Copper, 1 Silver
+florrat - buys Market Square
+florrat - gains Market Square
+florrat - shuffles deck
+florrat - draws Salvager, Farming Village, Salvager, Market Square, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Farming Village
+Titandrake - plays 3 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Market Square
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Border Village, Border Village, Market Square
+ 
+---------- florrat: turn 10 ----------
+florrat - plays Farming Village
+florrat - reveals Salvager
+florrat - places Salvager in hand
+florrat - plays Salvager
+florrat - trashes Copper
+florrat - reveals reaction Market Square
+florrat - discards Market Square
+florrat - gains Gold
+florrat - draws Province, Copper, Border Village, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Market Square
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Estate
+Titandrake - plays Border Village
+Titandrake - draws Province
+Titandrake - plays 3 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Copper, Copper, Salvager, Copper, Armory
+ 
+---------- florrat: turn 11 ----------
+florrat - plays Border Village
+florrat - draws Estate
+florrat - plays 3 Copper
+florrat - buys Market Square
+florrat - gains Market Square
+florrat - draws Silver, Copper, Salvager, Copper
+florrat - shuffles deck
+florrat - draws Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Armory
+Titandrake - plays 3 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Armory
+Titandrake - draws Salvager, Salvager, Copper, Market Square
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- florrat: turn 12 ----------
+florrat - plays Salvager
+florrat - trashes Estate
+florrat - plays 2 Copper, 1 Silver
+florrat - buys Border Village
+florrat - gains Border Village
+florrat - gains Salvager
+florrat - draws Copper, Copper, Market Square, Market Square, Salvager
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Salvager
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - plays 2 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Salvager
+Titandrake - draws Market Square, Copper, Copper, Copper, Salvager
+ 
+---------- florrat: turn 13 ----------
+florrat - plays Salvager
+florrat - trashes Copper
+florrat - reveals reaction Market Square
+florrat - discards Market Square
+florrat - gains Gold
+florrat - reveals reaction Market Square
+florrat - discards Market Square
+florrat - gains Gold
+florrat - draws Province, Border Village, Farming Village, Gold, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Market Square
+Titandrake - draws Border Village
+Titandrake - plays Salvager
+Titandrake - trashes Border Village
+Titandrake - plays 3 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Salvager
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Armory, Border Village, Market Square, Estate, Border Village
+ 
+---------- florrat: turn 14 ----------
+florrat - plays Farming Village
+florrat - reveals Salvager
+florrat - places Salvager in hand
+florrat - plays Salvager
+florrat - trashes Border Village
+florrat - plays 1 Gold, 1 Copper
+florrat - buys Province
+florrat - gains Province
+florrat - draws Salvager
+florrat - shuffles deck
+florrat - draws Silver, Salvager, Salvager, Market Square
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Market Square
+Titandrake - draws Province
+Titandrake - plays Border Village
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays Armory
+Titandrake - gains Great Hall
+Titandrake - draws Great Hall
+Titandrake - shuffles deck
+Titandrake - draws Market Square, Gold, Copper, Copper
+ 
+---------- florrat: turn 15 ----------
+florrat - plays Market Square
+florrat - draws Market Square
+florrat - plays Market Square
+florrat - draws Salvager
+florrat - plays Salvager
+florrat - trashes Salvager
+florrat - plays 1 Silver
+florrat - buys Border Village
+florrat - gains Border Village
+florrat - gains Duchy
+florrat - draws Salvager, Copper, Gold, Farming Village, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Market Square
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Market Square, Armory, Border Village, Border Village, Province
+ 
+---------- florrat: turn 16 ----------
+florrat - plays Farming Village
+florrat - reveals Copper
+florrat - places Copper in hand
+florrat - plays Salvager
+florrat - trashes Gold
+florrat - plays 2 Copper
+florrat - buys Province
+florrat - gains Province
+florrat - draws Copper, Gold, Border Village, Province, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Market Square
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Salvager
+Titandrake - plays Border Village
+Titandrake - draws Salvager
+Titandrake - plays Salvager
+Titandrake - trashes Armory
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Salvager, Market Square, Copper, Salvager, Market Square
+ 
+---------- florrat: turn 17 ----------
+florrat - plays Border Village
+florrat - draws Copper
+florrat - plays 2 Copper, 2 Gold
+florrat - buys Province
+florrat - gains Province
+florrat - shuffles deck
+florrat - draws Gold, Salvager, Copper, Market Square, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays Market Square
+Titandrake - draws Estate
+Titandrake - plays Salvager
+Titandrake - trashes Salvager
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Border Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Duchy, Salvager
+ 
+---------- florrat: turn 18 ----------
+florrat - plays Salvager
+florrat - trashes Gold
+florrat - reveals reaction Market Square
+florrat - discards Market Square
+florrat - gains Gold
+florrat - plays 2 Copper
+florrat - buys Province
+florrat - gains Province
+florrat - draws Border Village, Province, Gold, Province, Border Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Salvager, Copper, Duchy, Copper, Great Hall
+ 
+---------- florrat: turn 19 ----------
+florrat - plays Border Village
+florrat - draws Silver
+florrat - plays Border Village
+florrat - draws Salvager
+florrat - plays Salvager
+florrat - trashes Gold
+florrat - plays 1 Silver
+florrat - buys Province
+florrat - gains Province
+florrat - draws Salvager, Salvager, Duchy, Copper, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Great Hall
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Gold, Duchy, Market Square
+ 
+---------- florrat: turn 20 ----------
+florrat - plays Salvager
+florrat - trashes Salvager
+florrat - plays 1 Copper
+florrat - buys Duchy
+florrat - gains Duchy
+florrat - draws Province, Market Square, Copper, Farming Village
+florrat - shuffles deck
+florrat - draws Salvager
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Market Square
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Market Square, Border Village, Copper, Border Village, Salvager
+ 
+---------- florrat: turn 21 ----------
+florrat - plays Farming Village
+florrat - reveals Silver
+florrat - places Silver in hand
+florrat - plays Market Square
+florrat - draws Province
+florrat - plays Salvager
+florrat - trashes Province
+florrat - plays 1 Copper, 1 Silver
+florrat - buys Province
+florrat - gains Province
+florrat - buys Estate
+florrat - gains Estate
+florrat - draws Salvager, Province, Salvager, Border Village, Copper
+ 
+------------ Game Over ------------
+florrat - cards: 3 Salvager, 2 Border Village, 2 Market Square, 1 Farming Village, 4 Copper, 1 Silver, 1 Gold, 6 Province, 2 Duchy, 1 Estate
+florrat - total victory points: 43
+florrat - turns: 21
+ 
+Titandrake - cards: 5 Market Square, 4 Border Village, 3 Salvager, 7 Copper, 1 Gold, 5 Duchy, 3 Estate, 1 Province
+Titandrake - total victory points: 24
+Titandrake - turns: 20
+ 
+1st place: florrat
+2nd place: Titandrake
+ 

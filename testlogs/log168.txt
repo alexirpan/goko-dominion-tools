@@ -1,0 +1,543 @@
+------------ Game Setup ------------
+Supply cards: Moat, Secret Chamber, Fortress, Salvager, Worker's Village, Cultist, Haggler, Margrave, Merchant Ship, Trading Post, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+adrien - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+adrien - shuffles deck
+Titandrake - shuffles deck
+adrien - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- adrien: turn 1 ----------
+adrien - plays 3 Copper
+adrien - buys Silver
+adrien - gains Silver
+adrien - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- adrien: turn 2 ----------
+adrien - plays 4 Copper
+adrien - buys Salvager
+adrien - gains Salvager
+adrien - shuffles deck
+adrien - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Estate, Copper, Estate, Salvager
+ 
+---------- adrien: turn 3 ----------
+adrien - plays 3 Copper, 1 Silver
+adrien - buys Cultist
+adrien - gains Cultist
+adrien - draws Copper, Copper, Estate, Salvager, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Copper, Salvager
+ 
+---------- adrien: turn 4 ----------
+adrien - plays Salvager
+adrien - trashes Estate
+adrien - plays 3 Copper
+adrien - buys Cultist
+adrien - gains Cultist
+adrien - draws Copper, Estate
+adrien - shuffles deck
+adrien - draws Cultist, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Silver, Copper, Copper, Copper, Cultist
+ 
+---------- adrien: turn 5 ----------
+adrien - plays Cultist
+adrien - draws Copper, Copper
+Titandrake - gains Survivors
+adrien - plays 4 Copper, 1 Silver
+adrien - buys Cultist
+adrien - gains Cultist
+adrien - draws Estate, Salvager, Cultist, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Copper
+adrien - gains Abandoned Mine
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- adrien: turn 6 ----------
+adrien - plays Cultist
+adrien - draws Copper
+adrien - shuffles deck
+adrien - draws Silver
+Titandrake - gains Survivors
+adrien - plays 3 Copper, 1 Silver
+adrien - buys Cultist
+adrien - gains Cultist
+adrien - draws Copper, Copper, Cultist, Cultist, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Salvager, Cultist, Copper, Copper, Cultist
+ 
+---------- adrien: turn 7 ----------
+adrien - plays Cultist
+adrien - draws Copper, Abandoned Mine
+Titandrake - gains Abandoned Mine
+adrien - plays Cultist
+adrien - draws Copper
+adrien - shuffles deck
+adrien - draws Salvager
+Titandrake - gains Survivors
+adrien - plays 4 Copper
+adrien - buys Fortress
+adrien - gains Fortress
+adrien - draws Copper, Cultist, Copper, Cultist, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cultist
+Titandrake - draws Estate, Fortress
+adrien - gains Ruined Library
+Titandrake - plays Cultist
+Titandrake - draws Survivors, Fortress
+adrien - gains Ruined Village
+Titandrake - plays 2 Copper
+Titandrake - buys Moat
+Titandrake - gains Moat
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Abandoned Mine, Moat, Survivors
+ 
+---------- adrien: turn 8 ----------
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - draws Copper, Silver
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - shuffles deck
+adrien - draws Abandoned Mine, Copper
+adrien - plays 4 Copper, 1 Silver
+adrien - buys Cultist
+adrien - gains Cultist
+adrien - draws Ruined Library, Copper, Estate, Cultist, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Moat
+Titandrake - draws Cultist, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Survivors, Copper, Copper, Copper, Cultist
+ 
+---------- adrien: turn 9 ----------
+adrien - plays Cultist
+adrien - draws Copper, Salvager
+Titandrake - gains Ruined Market
+adrien - plays 3 Copper
+adrien - buys Moat
+adrien - gains Moat
+adrien - draws Ruined Village, Fortress, Cultist
+adrien - shuffles deck
+adrien - draws Copper, Cultist
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cultist
+Titandrake - draws Cultist, Silver
+adrien - gains Ruined Village
+Titandrake - plays Cultist
+Titandrake - draws Survivors, Copper
+adrien - gains Ruined Market
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - draws Estate, Fortress, Salvager, Fortress
+Titandrake - shuffles deck
+Titandrake - draws Moat
+ 
+---------- adrien: turn 10 ----------
+adrien - plays Fortress
+adrien - draws Estate
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - draws Copper, Copper
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - draws Cultist, Ruined Library
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - draws Copper, Copper
+adrien - plays Ruined Library
+adrien - draws Copper
+adrien - plays 6 Copper
+adrien - buys Fortress
+adrien - gains Fortress
+adrien - draws Moat, Salvager, Silver, Estate, Cultist
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Fortress
+Titandrake - draws Trading Post
+Titandrake - plays Salvager
+Titandrake - trashes Fortress
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Moat
+Titandrake - draws Survivors, Cultist
+Titandrake - plays Trading Post
+Titandrake - trashes Survivors, Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Survivors, Copper, Copper, Ruined Market, Copper
+ 
+---------- adrien: turn 11 ----------
+adrien - plays Salvager
+adrien - trashes Estate
+adrien - plays 1 Silver
+adrien - buys Fortress
+adrien - gains Fortress
+adrien - draws Copper, Abandoned Mine, Cultist
+adrien - shuffles deck
+adrien - draws Ruined Village, Cultist
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Copper, Cultist
+Titandrake - places Cultist on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Cultist, Abandoned Mine, Copper, Silver
+ 
+---------- adrien: turn 12 ----------
+adrien - plays Cultist
+adrien - draws Fortress, Salvager
+adrien - plays Cultist
+adrien - draws Copper, Fortress
+adrien - plays 2 Copper
+adrien - buys Secret Chamber
+adrien - gains Secret Chamber
+adrien - draws Ruined Library, Ruined Village, Estate, Moat, Ruined Market
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Cultist
+adrien - reveals reaction Moat
+Titandrake - draws Survivors, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Copper, Cultist
+Titandrake - shuffles deck
+Titandrake - draws Survivors, Copper, Copper
+ 
+---------- adrien: turn 13 ----------
+adrien - plays Moat
+adrien - draws Silver, Copper
+adrien - plays 1 Silver, 1 Copper
+adrien - buys Silver
+adrien - gains Silver
+adrien - draws Copper, Copper, Fortress, Cultist, Cultist
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Fortress, Abandoned Mine, Fortress, Margrave
+ 
+---------- adrien: turn 14 ----------
+adrien - plays Fortress
+adrien - draws Cultist
+adrien - plays Cultist
+adrien - draws Copper, Copper
+adrien - plays Cultist
+adrien - shuffles deck
+adrien - draws Abandoned Mine, Fortress
+adrien - plays Cultist
+adrien - draws Secret Chamber, Estate
+adrien - plays Fortress
+adrien - draws Silver
+adrien - plays Secret Chamber
+adrien - discards Estate
+adrien - discards Abandoned Mine
+adrien - plays 4 Copper, 1 Silver
+adrien - buys Province
+adrien - gains Province
+adrien - draws Ruined Library, Cultist, Moat, Ruined Village, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Margrave
+adrien - reveals reaction Moat
+Titandrake - draws Ruined Market, Silver, Silver
+Titandrake - plays Fortress
+Titandrake - draws Trading Post
+Titandrake - plays Trading Post
+Titandrake - trashes Ruined Market, Abandoned Mine
+Titandrake - gains Silver
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Salvager, Cultist, Moat, Copper, Fortress
+ 
+---------- adrien: turn 15 ----------
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - draws Ruined Village, Fortress
+adrien - draws Copper, Cultist, Silver, Copper, Salvager
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Salvager
+Titandrake - trashes Cultist
+Titandrake - draws Fortress, Survivors, Cultist
+Titandrake - plays Fortress
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+Titandrake - plays Moat
+Titandrake - draws Margrave, Fortress
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Gold, Fortress, Silver, Copper, Silver
+ 
+---------- adrien: turn 16 ----------
+adrien - plays Salvager
+adrien - trashes Cultist
+adrien - draws Ruined Market
+adrien - shuffles deck
+adrien - draws Secret Chamber, Moat
+adrien - plays 2 Copper, 1 Silver
+adrien - buys Province
+adrien - gains Province
+adrien - draws Estate, Copper, Cultist, Fortress, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Fortress
+Titandrake - draws Survivors
+Titandrake - plays Survivors
+Titandrake - looks at Copper, Copper
+Titandrake - discards: Copper, Copper
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Copper, Trading Post, Cultist, Silver
+ 
+---------- adrien: turn 17 ----------
+adrien - plays Fortress
+adrien - draws Copper
+adrien - plays Cultist
+adrien - draws Copper, Copper
+adrien - plays 4 Copper
+adrien - buys Salvager
+adrien - gains Salvager
+adrien - draws Fortress, Cultist, Ruined Village, Cultist, Ruined Library
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Cultist, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Fortress, Province
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Fortress, Silver, Copper, Fortress, Moat
+ 
+---------- adrien: turn 18 ----------
+adrien - plays Fortress
+adrien - draws Copper
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - draws Cultist, Fortress
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - draws Abandoned Mine, Ruined Village
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - draws Silver
+adrien - shuffles deck
+adrien - draws Salvager
+adrien - plays Fortress
+adrien - draws Copper
+adrien - plays Ruined Library
+adrien - draws Province
+adrien - plays Salvager
+adrien - trashes Ruined Village
+adrien - plays 2 Copper, 1 Silver
+adrien - buys Salvager
+adrien - gains Salvager
+adrien - draws Moat, Estate, Secret Chamber, Silver, Fortress
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Fortress
+Titandrake - draws Survivors
+Titandrake - plays Moat
+Titandrake - draws Silver, Cultist
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays Cultist
+adrien - reveals reaction Moat
+adrien - reveals reaction Secret Chamber
+adrien - draws Salvager, Copper
+adrien - places Estate on top of deck
+adrien - places Copper on top of deck
+Titandrake - draws Silver, Copper
+Titandrake - plays Survivors
+Titandrake - looks at Survivors, Margrave
+Titandrake - places Margrave on top of deck
+Titandrake - places Survivors on top of deck
+Titandrake - plays 3 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Survivors, Margrave, Copper, Copper, Fortress
+ 
+---------- adrien: turn 19 ----------
+adrien - plays Fortress
+adrien - draws Copper
+adrien - plays Moat
+adrien - draws Estate, Copper
+adrien - plays Salvager
+adrien - trashes Estate
+adrien - plays 2 Copper, 1 Silver
+adrien - buys Duchy
+adrien - gains Duchy
+adrien - draws Ruined Market, Province, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Fortress
+Titandrake - draws Province
+Titandrake - plays Margrave
+Titandrake - draws Salvager, Fortress, Silver
+adrien - draws Cultist
+adrien - discards Ruined Market
+adrien - discards Province
+adrien - discards Copper
+Titandrake - plays Salvager
+Titandrake - trashes Fortress
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver, Province, Silver
+ 
+---------- adrien: turn 20 ----------
+adrien - plays Cultist
+adrien - shuffles deck
+adrien - draws Ruined Library, Province
+adrien - plays 2 Copper
+adrien - buys Estate
+adrien - gains Estate
+adrien - draws Silver, Fortress, Salvager, Abandoned Mine, Cultist
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Fortress, Copper, Silver, Fortress
+ 
+---------- adrien: turn 21 ----------
+adrien - plays Fortress
+adrien - draws Copper
+adrien - plays Salvager
+adrien - trashes Cultist
+adrien - draws Copper, Duchy, Cultist
+adrien - plays Cultist
+adrien - draws Secret Chamber, Fortress
+adrien - plays 2 Copper, 1 Silver
+adrien - buys Duchy
+adrien - gains Duchy
+adrien - buys Estate
+adrien - gains Estate
+adrien - draws Ruined Village, Cultist, Copper, Fortress, Ruined Market
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Fortress
+Titandrake - draws Trading Post
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Salvager, Moat, Survivors, Silver, Province
+ 
+---------- adrien: turn 22 ----------
+adrien - plays Fortress
+adrien - draws Moat
+adrien - plays Cultist
+Titandrake - reveals reaction Moat
+adrien - draws Copper, Province
+adrien - plays Moat
+adrien - draws Salvager, Silver
+adrien - plays 2 Copper, 1 Silver
+adrien - buys Estate
+adrien - gains Estate
+adrien - draws Copper, Salvager
+adrien - shuffles deck
+adrien - draws Moat, Secret Chamber, Province
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Fortress, Duchy, Survivors, Copper, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Fortress, 2 Survivors, 1 Trading Post, 1 Salvager, 1 Moat, 1 Cultist, 1 Margrave, 7 Silver, 4 Copper, 1 Gold, 5 Province, 3 Duchy
+Titandrake - total victory points: 39
+Titandrake - turns: 23
+ 
+adrien - cards: 3 Salvager, 3 Fortress, 3 Cultist, 1 Moat, 1 Secret Chamber, 1 Ruined Village, 1 Ruined Library, 1 Ruined Market, 1 Abandoned Mine, 7 Copper, 2 Silver, 3 Estate, 2 Province, 2 Duchy
+adrien - total victory points: 21
+adrien - turns: 22
+ 
+1st place: Titandrake
+2nd place: adrien
+ 

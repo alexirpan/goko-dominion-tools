@@ -1,0 +1,401 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Pearl Diver, Philosopher's Stone, Bishop, Feodum, Marauder, Trader, Bandit Camp, Contraband, Junk Dealer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+hoopity - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hoopity - shuffles deck
+Titandrake - shuffles deck
+hoopity - draws Hovel, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Copper, Copper, Necropolis, Hovel, Overgrown Estate
+ 
+---------- hoopity: turn 1 ----------
+hoopity - plays 4 Copper
+hoopity - buys Trader
+hoopity - gains Trader
+hoopity - draws Copper, Overgrown Estate, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Necropolis, Junk Dealer, Copper, Copper
+ 
+---------- hoopity: turn 2 ----------
+hoopity - plays 3 Copper
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - shuffles deck
+hoopity - draws Trader, Copper, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Hovel, Copper, Pearl Diver, Overgrown Estate, Copper
+ 
+---------- hoopity: turn 3 ----------
+hoopity - plays Trader
+hoopity - trashes Necropolis
+hoopity - gains Silver
+hoopity - plays 3 Copper
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Copper, Copper, Overgrown Estate, Hovel, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - places Junk Dealer on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Junk Dealer, Copper, Copper, Necropolis, Trader
+ 
+---------- hoopity: turn 4 ----------
+hoopity - plays 3 Copper
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Silver, Copper
+hoopity - shuffles deck
+hoopity - draws Copper, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Necropolis
+Titandrake - plays 3 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - shuffles deck
+Titandrake - draws Copper, Junk Dealer, Trader, Copper, Copper
+ 
+---------- hoopity: turn 5 ----------
+hoopity - plays 3 Copper, 2 Silver
+hoopity - buys Junk Dealer
+hoopity - gains Junk Dealer
+hoopity - draws Copper, Copper, Silver, Copper, Trader
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Trader
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Copper, Copper, Overgrown Estate, Pearl Diver, Feodum
+ 
+---------- hoopity: turn 6 ----------
+hoopity - plays Trader
+hoopity - trashes Copper
+hoopity - plays 2 Copper, 1 Silver
+hoopity - buys Feodum
+hoopity - gains Feodum
+hoopity - draws Copper, Silver, Hovel, Overgrown Estate
+hoopity - shuffles deck
+hoopity - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Hovel
+Titandrake - places Copper on bottom of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Feodum, Hovel, Copper, Silver
+ 
+---------- hoopity: turn 7 ----------
+hoopity - plays 2 Copper, 1 Silver
+hoopity - buys Feodum
+hoopity - trashes Hovel
+hoopity - gains Feodum
+hoopity - draws Copper, Trader, Silver, Silver, Junk Dealer
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Feodum
+Titandrake - trashes Hovel
+Titandrake - gains Feodum
+Titandrake - draws Copper, Copper, Pearl Diver, Overgrown Estate, Feodum
+ 
+---------- hoopity: turn 8 ----------
+hoopity - plays Junk Dealer
+hoopity - draws Copper
+hoopity - trashes Copper
+hoopity - plays Trader
+hoopity - trashes Copper
+hoopity - plays 2 Silver
+hoopity - buys Feodum
+hoopity - gains Feodum
+hoopity - draws Silver, Feodum, Copper, Copper
+hoopity - shuffles deck
+hoopity - draws Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Trader
+Titandrake - places Junk Dealer on top of deck
+Titandrake - plays Trader
+Titandrake - trashes Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Junk Dealer, Pearl Diver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Silver
+ 
+---------- hoopity: turn 9 ----------
+hoopity - plays 3 Copper, 1 Silver
+hoopity - buys Feodum
+hoopity - gains Feodum
+hoopity - draws Trader, Overgrown Estate, Silver, Junk Dealer, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Silver
+Titandrake - places Feodum on bottom of deck
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Copper, Overgrown Estate, Silver, Silver, Silver
+ 
+---------- hoopity: turn 10 ----------
+hoopity - plays Junk Dealer
+hoopity - draws Feodum
+hoopity - trashes Overgrown Estate
+hoopity - draws Feodum
+hoopity - plays Trader
+hoopity - trashes Silver
+hoopity - gains Silver
+hoopity - gains Silver
+hoopity - gains Silver
+hoopity - plays 1 Silver
+hoopity - buys Native Village
+hoopity - gains Native Village
+hoopity - draws Copper, Silver
+hoopity - shuffles deck
+hoopity - draws Silver, Silver, Feodum
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Pearl Diver, Copper, Trader, Pearl Diver
+ 
+---------- hoopity: turn 11 ----------
+hoopity - plays 3 Silver, 1 Copper
+hoopity - buys Trader
+hoopity - gains Trader
+hoopity - draws Native Village, Silver, Copper, Copper, Feodum
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Silver
+Titandrake - places Feodum on top of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Feodum
+Titandrake - places Feodum on bottom of deck
+Titandrake - plays Trader
+Titandrake - trashes Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Feodum
+Titandrake - shuffles deck
+Titandrake - draws Pearl Diver, Silver, Silver, Copper
+ 
+---------- hoopity: turn 12 ----------
+hoopity - plays Native Village
+hoopity - takes set aside cards: 
+hoopity - plays 2 Copper, 1 Silver
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Junk Dealer, Feodum, Silver, Feodum, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Silver
+Titandrake - places Silver on bottom of deck
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Silver, Silver, Overgrown Estate, Silver
+ 
+---------- hoopity: turn 13 ----------
+hoopity - plays Junk Dealer
+hoopity - draws Silver
+hoopity - trashes Copper
+hoopity - plays 2 Silver
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Trader
+hoopity - shuffles deck
+hoopity - draws Feodum, Silver, Silver, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Pearl Diver, Copper, Pearl Diver, Trader, Silver
+ 
+---------- hoopity: turn 14 ----------
+hoopity - plays Trader
+hoopity - trashes Silver
+hoopity - gains Silver
+hoopity - gains Silver
+hoopity - gains Silver
+hoopity - plays 2 Silver
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Feodum, Feodum, Junk Dealer, Copper, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Duchy
+Titandrake - places Silver on bottom of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Silver on bottom of deck
+Titandrake - plays Trader
+Titandrake - trashes Duchy
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Duchy, Silver, Silver, Silver, Silver
+ 
+---------- hoopity: turn 15 ----------
+hoopity - plays Junk Dealer
+hoopity - draws Copper
+hoopity - trashes Copper
+hoopity - plays 1 Copper, 1 Silver
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Copper, Silver, Native Village, Silver, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Feodum, Silver, Junk Dealer, Silver, Silver
+ 
+---------- hoopity: turn 16 ----------
+hoopity - plays Native Village
+hoopity - sets aside Feodum
+hoopity - plays 3 Silver, 1 Copper
+hoopity - buys Duchy
+hoopity - gains Duchy
+hoopity - draws Trader, Silver
+hoopity - shuffles deck
+hoopity - draws Feodum, Silver, Native Village
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Feodum, Junk Dealer, Pearl Diver
+ 
+---------- hoopity: turn 17 ----------
+hoopity - plays Trader
+hoopity - trashes Native Village
+hoopity - gains Silver
+hoopity - gains Silver
+hoopity - plays 2 Silver
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Silver, Junk Dealer, Silver, Silver, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Feodum
+Titandrake - places Copper on top of deck
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Duchy, Silver, Silver, Province
+ 
+---------- hoopity: turn 18 ----------
+hoopity - plays 4 Silver
+hoopity - buys Province
+hoopity - gains Province
+hoopity - draws Silver, Silver, Copper, Trader, Feodum
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Silver, Duchy, Duchy, Copper
+ 
+---------- hoopity: turn 19 ----------
+hoopity - plays 2 Silver, 1 Copper
+hoopity - buys Duchy
+hoopity - gains Duchy
+hoopity - draws Silver, Silver, Copper, Silver, Duchy
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Overgrown Estate, Silver, Pearl Diver, Silver
+ 
+---------- hoopity: turn 20 ----------
+hoopity - plays 3 Silver, 1 Copper
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Feodum, Silver
+hoopity - shuffles deck
+hoopity - draws Silver, Copper, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Pearl Diver, 22 Silver, 1 Junk Dealer, 1 Trader, 2 Copper, 5 Duchy, 2 Feodum, 2 Province, 1 Overgrown Estate
+Titandrake - victory point chips: 0
+Titandrake - total victory points: 41
+Titandrake - turns: 20
+ 
+hoopity - cards: 2 Trader, 16 Silver, 1 Junk Dealer, 2 Copper, 4 Feodum, 2 Duchy, 1 Province
+hoopity - victory point chips: 0
+hoopity - total victory points: 32
+hoopity - turns: 20
+ 
+1st place: Titandrake
+2nd place: hoopity
+ 

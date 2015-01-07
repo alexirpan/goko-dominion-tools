@@ -1,0 +1,664 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Secret Chamber, Hermit, Steward, Scavenger, Ghost Ship, Inn, Jester, Torturer, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SheCantSayNo - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Copper, Overgrown Estate, Copper, Copper, Necropolis
+Titandrake - draws Copper, Overgrown Estate, Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Hermit
+SheCantSayNo - gains Hermit
+SheCantSayNo - draws Copper, Hovel, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Scavenger
+SheCantSayNo - gains Scavenger
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Overgrown Estate, Hovel, Copper, Necropolis
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Necropolis, Copper, Steward, Hovel, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Secret Chamber
+SheCantSayNo - gains Secret Chamber
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Scavenger
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Hovel
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Overgrown Estate
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays Scavenger
+SheCantSayNo - places Necropolis on top of deck
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Witch
+SheCantSayNo - gains Witch
+SheCantSayNo - draws Necropolis, Copper, Hermit
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Copper, Necropolis, Witch, Silver, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Hermit
+SheCantSayNo - gains Hermit
+SheCantSayNo - trashes Hermit
+SheCantSayNo - gains Madman
+SheCantSayNo - draws Hovel, Secret Chamber, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Witch
+SheCantSayNo - reveals reaction Secret Chamber
+SheCantSayNo - draws Witch, Copper
+SheCantSayNo - places Hovel on top of deck
+SheCantSayNo - places Secret Chamber on top of deck
+Titandrake - draws Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper
+SheCantSayNo - gains Curse
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Overgrown Estate, Copper, Copper, Hermit, Copper
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Witch
+SheCantSayNo - draws Secret Chamber, Hovel
+Titandrake - gains Curse
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Steward
+SheCantSayNo - gains Steward
+SheCantSayNo - draws Scavenger, Overgrown Estate
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - shuffles deck
+Titandrake - draws Silver, Witch, Copper, Copper, Madman
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Scavenger
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Steward
+SheCantSayNo - gains Steward
+SheCantSayNo - draws Hovel, Madman, Copper, Copper, Witch
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Madman
+Titandrake - draws Necropolis, Copper, Overgrown Estate, Steward
+Titandrake - plays Witch
+Titandrake - draws Hermit, Silver
+SheCantSayNo - gains Curse
+Titandrake - plays Necropolis
+Titandrake - plays Hermit
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Copper
+Titandrake - gains Silver
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Inn
+Titandrake - shuffles deck
+Titandrake - draws Silver, Witch, Necropolis, Silver
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Madman
+SheCantSayNo - draws Secret Chamber, Hermit, Copper, Copper
+SheCantSayNo - plays Witch
+SheCantSayNo - draws Copper, Steward
+Titandrake - gains Curse
+SheCantSayNo - plays Steward
+SheCantSayNo - trashes Hovel, Secret Chamber
+SheCantSayNo - plays 5 Copper
+SheCantSayNo - buys Inn
+SheCantSayNo - gains Inn
+SheCantSayNo - places Inn, Steward, Scavenger on top of deck
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Necropolis, Steward, Scavenger, Inn
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Witch
+Titandrake - draws Hermit, Silver
+SheCantSayNo - gains Curse
+Titandrake - plays Inn
+Titandrake - draws Copper, Steward
+Titandrake - discards Copper
+Titandrake - discards Steward
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Steward
+Titandrake - plays 3 Silver
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Steward, Steward, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Steward, Inn, Steward, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Steward
+SheCantSayNo - draws Steward, Copper
+SheCantSayNo - plays Steward
+SheCantSayNo - trashes Copper, Copper
+SheCantSayNo - plays Scavenger
+SheCantSayNo - moves deck to discards
+SheCantSayNo - places Hermit on top of deck
+SheCantSayNo - draws Hermit
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Curse, Inn, Copper, Scavenger
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Inn
+Titandrake - draws Necropolis, Hermit
+Titandrake - discards Copper
+Titandrake - discards Steward
+Titandrake - plays Steward
+Titandrake - draws Inn, Copper
+Titandrake - plays Inn
+Titandrake - draws Silver, Silver
+Titandrake - discards Copper
+Titandrake - discards Necropolis
+Titandrake - plays Hermit
+Titandrake - trashes Steward
+Titandrake - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Witch
+Titandrake - shuffles deck
+Titandrake - draws Steward, Copper, Ghost Ship, Necropolis
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Copper, Curse
+SheCantSayNo - discards Curse
+SheCantSayNo - discards Curse
+SheCantSayNo - plays Hermit
+SheCantSayNo - trashes Curse
+SheCantSayNo - gains Hermit
+SheCantSayNo - plays Scavenger
+SheCantSayNo - moves deck to discards
+SheCantSayNo - places Hermit on top of deck
+SheCantSayNo - trashes Hermit
+SheCantSayNo - gains Madman
+SheCantSayNo - draws Hermit
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Madman, Copper, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Ghost Ship
+Titandrake - draws Silver, Copper
+SheCantSayNo - places Madman on top of deck
+SheCantSayNo - places Copper on top of deck
+Titandrake - plays Witch
+Titandrake - draws Silver, Silver
+SheCantSayNo - gains Curse
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Inn, Hermit, Inn, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Hermit
+SheCantSayNo - trashes Curse
+SheCantSayNo - gains Hermit
+SheCantSayNo - trashes Hermit
+SheCantSayNo - gains Madman
+SheCantSayNo - draws Copper, Madman, Copper, Steward, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Inn
+Titandrake - draws Steward, Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays Steward
+Titandrake - draws Silver, Gold
+Titandrake - plays Inn
+Titandrake - draws Necropolis, Witch
+Titandrake - discards Hermit
+Titandrake - discards Necropolis
+Titandrake - plays Witch
+Titandrake - draws Copper, Ghost Ship
+SheCantSayNo - gains Curse
+Titandrake - plays Ghost Ship
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Necropolis
+SheCantSayNo - places Madman on top of deck
+SheCantSayNo - places Copper on top of deck
+Titandrake - plays 3 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Hermit, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Ghost Ship
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Steward
+SheCantSayNo - trashes Copper, Copper
+SheCantSayNo - draws Copper, Madman, Inn, Necropolis, Witch
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Province, Necropolis
+SheCantSayNo - places Madman on top of deck
+SheCantSayNo - places Copper on top of deck
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Steward, Inn, Inn, Inn, Witch
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Witch
+SheCantSayNo - draws Copper, Madman
+Titandrake - gains Curse
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Overgrown Estate, Curse
+SheCantSayNo - discards Madman
+SheCantSayNo - discards Overgrown Estate
+SheCantSayNo - draws Scavenger, Steward, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Curse, Steward
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Inn
+Titandrake - draws Copper, Silver
+Titandrake - discards Copper
+Titandrake - discards Inn
+Titandrake - plays Witch
+Titandrake - draws Gold, Silver
+SheCantSayNo - gains Curse
+Titandrake - plays Inn
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Ghost Ship
+Titandrake - discards Hermit
+Titandrake - discards Silver
+Titandrake - plays Ghost Ship
+Titandrake - draws Province, Inn
+SheCantSayNo - places Scavenger on top of deck
+SheCantSayNo - places Steward on top of deck
+Titandrake - plays Inn
+Titandrake - draws Silver, Copper
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Necropolis, Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Steward
+SheCantSayNo - trashes Curse, Copper
+SheCantSayNo - draws Steward, Scavenger, Curse, Copper, Necropolis
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Hermit, Witch, Ghost Ship, Gold, Silver
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Steward
+SheCantSayNo - trashes Copper, Curse
+SheCantSayNo - plays Scavenger
+SheCantSayNo - moves deck to discards
+SheCantSayNo - places Madman on top of deck
+SheCantSayNo - draws Madman
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Witch, Steward, Overgrown Estate, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Inn, Silver
+SheCantSayNo - places Madman on top of deck
+SheCantSayNo - places Witch on top of deck
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Inn, Steward, Province, Province
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Steward
+SheCantSayNo - trashes Curse, Overgrown Estate
+SheCantSayNo - draws Witch
+SheCantSayNo - draws Madman, Copper, Hermit, Curse, Scavenger
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Inn
+Titandrake - draws Inn
+Titandrake - shuffles deck
+Titandrake - draws Hermit
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays Steward
+Titandrake - draws Ghost Ship, Copper
+Titandrake - plays Inn
+Titandrake - draws Silver, Silver
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays Ghost Ship
+Titandrake - draws Gold, Inn
+SheCantSayNo - places Madman on top of deck
+SheCantSayNo - places Scavenger on top of deck
+Titandrake - plays Inn
+Titandrake - draws Curse, Silver
+Titandrake - discards Hermit
+Titandrake - discards Curse
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Witch, Gold, Necropolis
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Hermit
+SheCantSayNo - trashes Curse
+SheCantSayNo - gains Hermit
+SheCantSayNo - trashes Hermit
+SheCantSayNo - gains Madman
+SheCantSayNo - draws Scavenger, Madman, Necropolis, Inn, Steward
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hermit
+SheCantSayNo - gains Curse
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - shuffles deck
+Titandrake - draws Inn, Inn, Province, Inn, Silver
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Madman
+SheCantSayNo - draws Madman
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Witch, Steward
+SheCantSayNo - plays Witch
+SheCantSayNo - draws Madman, Hermit
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Scavenger
+SheCantSayNo - moves deck to discards
+SheCantSayNo - places Curse on top of deck
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Curse
+SheCantSayNo - discards Curse
+SheCantSayNo - discards Madman
+SheCantSayNo - plays Steward
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Hermit
+SheCantSayNo - trashes Curse
+SheCantSayNo - gains Silver
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - buys Jester
+SheCantSayNo - gains Jester
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Madman, Steward, Witch, Copper, Inn
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Inn
+Titandrake - draws Province, Silver
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays Inn
+Titandrake - draws Province, Silver
+Titandrake - discards Province
+Titandrake - discards Silver
+Titandrake - plays Inn
+Titandrake - draws Curse, Steward
+Titandrake - discards Curse
+Titandrake - discards Silver
+Titandrake - plays Steward
+Titandrake - draws Ghost Ship, Silver
+Titandrake - plays Ghost Ship
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Witch
+SheCantSayNo - places Madman on top of deck
+SheCantSayNo - places Witch on top of deck
+Titandrake - plays Witch
+Titandrake - draws Hermit, Copper
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Hermit, Province, Silver, Province, Silver
+ 
+---------- SheCantSayNo: turn 19 ----------
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Witch, Madman
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Madman
+SheCantSayNo - plays Witch
+SheCantSayNo - draws Jester, Necropolis
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Steward
+SheCantSayNo - draws Hermit, Steward
+SheCantSayNo - plays Jester
+Titandrake - reveals Silver
+Titandrake - discards Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Madman, Scavenger, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Steward, Witch
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Necropolis, Province, Curse, Copper, Gold
+ 
+---------- SheCantSayNo: turn 20 ----------
+SheCantSayNo - plays Madman
+SheCantSayNo - draws Necropolis, Silver, Jester, Madman
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Witch
+SheCantSayNo - draws Steward, Copper
+SheCantSayNo - plays Jester
+Titandrake - reveals Inn
+Titandrake - discards Inn
+SheCantSayNo - gains Inn
+SheCantSayNo - shuffles deck
+SheCantSayNo - plays Scavenger
+SheCantSayNo - moves deck to discards
+SheCantSayNo - places Inn on top of deck
+SheCantSayNo - plays 2 Silver, 1 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Inn
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Hermit, Silver, Jester, Steward
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Hermit, Steward, Silver, Curse
+ 
+---------- SheCantSayNo: turn 21 ----------
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Silver, Steward
+SheCantSayNo - discards Hermit
+SheCantSayNo - discards Steward
+SheCantSayNo - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+SheCantSayNo - plays Steward
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays 2 Silver
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Witch, Copper, Province, Inn, Madman
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Inn, Necropolis, Silver, Witch, Province
+ 
+---------- SheCantSayNo: turn 22 ----------
+SheCantSayNo - plays Madman
+SheCantSayNo - draws Necropolis, Scavenger
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Hermit, Steward
+SheCantSayNo - plays Witch
+SheCantSayNo - draws Province, Jester
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Inn, Silver
+SheCantSayNo - discards Province
+SheCantSayNo - discards Province
+SheCantSayNo - plays Jester
+Titandrake - reveals Inn
+Titandrake - discards Inn
+SheCantSayNo - gains Inn
+SheCantSayNo - shuffles deck
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Steward, Silver
+SheCantSayNo - discards Steward
+SheCantSayNo - discards Steward
+SheCantSayNo - plays Scavenger
+SheCantSayNo - places Inn on top of deck
+SheCantSayNo - plays Hermit
+SheCantSayNo - trashes Steward
+SheCantSayNo - gains Estate
+SheCantSayNo - plays 2 Silver, 1 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Inn
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Steward, Province, Witch, Scavenger
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Witch
+Titandrake - draws Ghost Ship, Inn
+Titandrake - plays Inn
+Titandrake - draws Silver, Province
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays Ghost Ship
+Titandrake - draws Province, Province
+SheCantSayNo - places Province on top of deck
+SheCantSayNo - places Steward on top of deck
+Titandrake - plays Inn
+Titandrake - draws Silver, Copper
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Gold, Inn, Hermit, Madman
+ 
+---------- SheCantSayNo: turn 23 ----------
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Steward, Province
+SheCantSayNo - discards Province
+SheCantSayNo - discards Steward
+SheCantSayNo - plays Witch
+SheCantSayNo - draws Hermit, Province
+SheCantSayNo - plays Hermit
+SheCantSayNo - gains Estate
+SheCantSayNo - trashes Hermit
+SheCantSayNo - gains Madman
+SheCantSayNo - draws Jester, Copper, Estate, Inn, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Madman
+Titandrake - draws Hermit, Gold
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Silver
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays 2 Silver, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Inn, Curse, Silver, Province, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Inn, 3 Hermit, 1 Witch, 1 Ghost Ship, 1 Necropolis, 1 Steward, 6 Silver, 3 Copper, 2 Gold, 5 Province, 2 Estate, 2 Duchy, 1 Curse
+Titandrake - total victory points: 37
+Titandrake - turns: 24
+ 
+SheCantSayNo - cards: 3 Inn, 1 Jester, 1 Steward, 1 Madman, 1 Witch, 1 Scavenger, 1 Necropolis, 2 Silver, 1 Copper, 3 Province, 2 Estate
+SheCantSayNo - total victory points: 20
+SheCantSayNo - turns: 23
+ 
+1st place: Titandrake
+2nd place: SheCantSayNo
+ 

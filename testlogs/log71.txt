@@ -1,0 +1,637 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Herbalist, Trade Route, Farming Village, Marauder, Rats, Spy, Band of Misfits, Altar, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+HiveMindEmulator - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HiveMindEmulator - shuffles deck
+Titandrake - shuffles deck
+HiveMindEmulator - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- HiveMindEmulator: turn 1 ----------
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - shuffles deck
+Titandrake - draws Courtyard, Copper, Estate, Copper, Copper
+ 
+---------- HiveMindEmulator: turn 2 ----------
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Courtyard
+HiveMindEmulator - gains Courtyard
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Estate, Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Estate, Copper, Copper, Copper, Marauder
+ 
+---------- HiveMindEmulator: turn 3 ----------
+HiveMindEmulator - plays 5 Copper
+HiveMindEmulator - buys Band of Misfits
+HiveMindEmulator - gains Band of Misfits
+HiveMindEmulator - draws Courtyard, Estate, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+HiveMindEmulator - gains Ruined Village
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Farming Village, Spoils
+ 
+---------- HiveMindEmulator: turn 4 ----------
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Copper, Estate
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper
+HiveMindEmulator - places Silver on top of deck
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Courtyard
+HiveMindEmulator - gains Courtyard
+HiveMindEmulator - draws Silver, Copper, Band of Misfits, Copper, Ruined Village
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - draws Copper, Copper, Marauder, Courtyard, Copper
+ 
+---------- HiveMindEmulator: turn 5 ----------
+HiveMindEmulator - plays Band of Misfits
+HiveMindEmulator - chooses Courtyard
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Copper, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate
+HiveMindEmulator - places Ruined Village on top of deck
+HiveMindEmulator - plays 4 Copper, 1 Silver
+HiveMindEmulator - buys Altar
+HiveMindEmulator - gains Altar
+HiveMindEmulator - draws Ruined Village, Courtyard, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Estate, Copper
+Titandrake - places Marauder on top of deck
+Titandrake - plays 5 Copper
+Titandrake - buys Band of Misfits
+Titandrake - gains Band of Misfits
+Titandrake - draws Marauder, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Altar, Courtyard
+ 
+---------- HiveMindEmulator: turn 6 ----------
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Estate, Copper, Courtyard
+HiveMindEmulator - places Courtyard on top of deck
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - draws Courtyard
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Courtyard, Estate, Ruined Village, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Band of Misfits
+Titandrake - draws Estate, Copper, Estate, Farming Village, Copper
+ 
+---------- HiveMindEmulator: turn 7 ----------
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Silver, Copper, Copper
+HiveMindEmulator - places Courtyard on top of deck
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Farming Village
+HiveMindEmulator - gains Farming Village
+HiveMindEmulator - draws Courtyard, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Band of Misfits, Copper, Silver, Copper
+ 
+---------- HiveMindEmulator: turn 8 ----------
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Copper, Band of Misfits, Altar
+HiveMindEmulator - places Altar on top of deck
+HiveMindEmulator - plays 4 Copper, 1 Silver
+HiveMindEmulator - buys Altar
+HiveMindEmulator - gains Altar
+HiveMindEmulator - draws Altar, Estate, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Courtyard, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Band of Misfits
+Titandrake - chooses Rats
+Titandrake - plays Rats
+Titandrake - shuffles deck
+Titandrake - draws Altar
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Band of Misfits
+Titandrake - plays Silver
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Silver, Band of Misfits, Copper, Courtyard, Estate
+ 
+---------- HiveMindEmulator: turn 9 ----------
+HiveMindEmulator - plays Altar
+HiveMindEmulator - trashes Estate
+HiveMindEmulator - gains Band of Misfits
+HiveMindEmulator - plays 1 Copper, 1 Silver
+HiveMindEmulator - buys Courtyard
+HiveMindEmulator - gains Courtyard
+HiveMindEmulator - draws Altar, Farming Village, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Courtyard
+Titandrake - draws Marauder, Estate, Copper
+Titandrake - places Estate on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Estate
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+HiveMindEmulator - gains Abandoned Mine
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Band of Misfits
+Titandrake - gains Band of Misfits
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Band of Misfits, Copper
+ 
+---------- HiveMindEmulator: turn 10 ----------
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Altar
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - gains Band of Misfits
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Farming Village
+HiveMindEmulator - gains Farming Village
+HiveMindEmulator - draws Ruined Village, Copper, Estate, Courtyard, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Band of Misfits
+Titandrake - chooses Rats
+Titandrake - plays Rats
+Titandrake - draws Farming Village
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - plays Farming Village
+Titandrake - reveals Band of Misfits
+Titandrake - places Band of Misfits in hand
+Titandrake - plays Band of Misfits
+Titandrake - chooses Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Courtyard, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Marauder, Copper
+Titandrake - places Marauder on top of deck
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Forge
+Titandrake - gains Forge
+Titandrake - draws Marauder, Rats, Estate, Courtyard, Band of Misfits
+ 
+---------- HiveMindEmulator: turn 11 ----------
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Band of Misfits, Copper, Copper
+HiveMindEmulator - places Band of Misfits on top of deck
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Courtyard
+HiveMindEmulator - gains Courtyard
+HiveMindEmulator - draws Band of Misfits
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper, Estate, Altar, Altar
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Band of Misfits
+Titandrake - places Band of Misfits in hand
+Titandrake - plays Rats
+Titandrake - draws Silver
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - plays Courtyard
+Titandrake - draws Spoils, Altar
+Titandrake - shuffles deck
+Titandrake - draws Forge
+Titandrake - places Forge on top of deck
+Titandrake - plays Altar
+Titandrake - trashes Marauder
+Titandrake - gains Band of Misfits
+Titandrake - plays Silver
+Titandrake - plays Spoils
+Titandrake - buys Band of Misfits
+Titandrake - gains Band of Misfits
+Titandrake - draws Forge, Copper, Courtyard, Copper, Band of Misfits
+ 
+---------- HiveMindEmulator: turn 12 ----------
+HiveMindEmulator - plays Band of Misfits
+HiveMindEmulator - chooses Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Band of Misfits
+HiveMindEmulator - places Band of Misfits in hand
+HiveMindEmulator - plays Band of Misfits
+HiveMindEmulator - chooses Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Altar
+HiveMindEmulator - trashes Estate
+HiveMindEmulator - gains Band of Misfits
+HiveMindEmulator - plays Altar
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - gains Farming Village
+HiveMindEmulator - draws Courtyard, Copper, Copper, Ruined Village, Band of Misfits
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Rats
+Titandrake - places Rats in hand
+Titandrake - plays Courtyard
+Titandrake - draws Silver, Rats, Farming Village
+Titandrake - places Copper on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Forge
+Titandrake - trashes Copper, Copper, Rats, Rats
+Titandrake - applies the 'when you trash ability' of Rats
+Titandrake - draws Band of Misfits
+Titandrake - applies the 'when you trash ability' of Rats
+Titandrake - draws Copper
+Titandrake - gains Province
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Band of Misfits, Band of Misfits, Band of Misfits, Forge
+ 
+---------- HiveMindEmulator: turn 13 ----------
+HiveMindEmulator - plays Band of Misfits
+HiveMindEmulator - chooses Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Silver, Farming Village, Farming Village
+HiveMindEmulator - places Copper on top of deck
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Courtyard
+HiveMindEmulator - places Courtyard in hand
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Copper, Courtyard, Silver
+HiveMindEmulator - places Ruined Village on top of deck
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Ruined Village, Courtyard, Abandoned Mine
+HiveMindEmulator - places Courtyard on top of deck
+HiveMindEmulator - plays Abandoned Mine
+HiveMindEmulator - plays 4 Copper, 2 Silver
+HiveMindEmulator - buys Forge
+HiveMindEmulator - gains Forge
+HiveMindEmulator - draws Courtyard, Estate
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Ruined Village, Band of Misfits, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Courtyard
+Titandrake - places Courtyard in hand
+Titandrake - plays Courtyard
+Titandrake - draws Band of Misfits, Band of Misfits, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Band of Misfits
+Titandrake - chooses Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Farming Village, Farming Village, Band of Misfits
+Titandrake - places Copper on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Altar
+Titandrake - places Altar in hand
+Titandrake - plays Band of Misfits
+Titandrake - chooses Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Courtyard, Province, Copper
+Titandrake - places Province on top of deck
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Rats
+Titandrake - places Rats in hand
+Titandrake - discards Province
+Titandrake - plays Band of Misfits
+Titandrake - chooses Rats
+Titandrake - plays Rats
+Titandrake - draws Silver
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - plays Courtyard
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Rats, Province
+Titandrake - places Province on top of deck
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Rats
+Titandrake - plays Forge
+Titandrake - trashes Rats, Rats
+Titandrake - applies the 'when you trash ability' of Rats
+Titandrake - draws Province
+Titandrake - applies the 'when you trash ability' of Rats
+Titandrake - shuffles deck
+Titandrake - draws Rats
+Titandrake - gains Province
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - shuffles deck
+Titandrake - draws Altar, Forge, Band of Misfits, Farming Village, Rats
+ 
+---------- HiveMindEmulator: turn 14 ----------
+HiveMindEmulator - plays Band of Misfits
+HiveMindEmulator - chooses Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Farming Village
+HiveMindEmulator - places Farming Village in hand
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Band of Misfits, Altar, Courtyard
+HiveMindEmulator - places Estate on top of deck
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Estate, Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - discards Estate
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Copper, Altar, Courtyard
+HiveMindEmulator - places Copper on top of deck
+HiveMindEmulator - plays Band of Misfits
+HiveMindEmulator - chooses Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Copper, Abandoned Mine, Band of Misfits
+HiveMindEmulator - places Ruined Village on top of deck
+HiveMindEmulator - plays Band of Misfits
+HiveMindEmulator - chooses Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Ruined Village
+HiveMindEmulator - places Ruined Village in hand
+HiveMindEmulator - plays Altar
+HiveMindEmulator - trashes Ruined Village
+HiveMindEmulator - gains Farming Village
+HiveMindEmulator - plays Altar
+HiveMindEmulator - trashes Abandoned Mine
+HiveMindEmulator - gains Farming Village
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Rats
+HiveMindEmulator - gains Rats
+HiveMindEmulator - draws Forge, Copper, Farming Village, Silver, Courtyard
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Band of Misfits
+Titandrake - places Band of Misfits in hand
+Titandrake - plays Band of Misfits
+Titandrake - chooses Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Courtyard, Copper, Farming Village
+Titandrake - places Copper on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Courtyard
+Titandrake - draws Silver, Courtyard, Band of Misfits
+Titandrake - places Copper on top of deck
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Courtyard
+Titandrake - draws Band of Misfits, Province, Farming Village
+Titandrake - places Province on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Band of Misfits
+Titandrake - places Band of Misfits in hand
+Titandrake - discards Province
+Titandrake - plays Band of Misfits
+Titandrake - chooses Rats
+Titandrake - plays Rats
+Titandrake - draws Band of Misfits
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - plays Band of Misfits
+Titandrake - chooses Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Silver, Province
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - places Province on top of deck
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Rats
+Titandrake - places Rats in hand
+Titandrake - discards Province
+Titandrake - plays Altar
+Titandrake - trashes Band of Misfits
+Titandrake - gains Farming Village
+Titandrake - plays Forge
+Titandrake - trashes Rats, Rats
+Titandrake - applies the 'when you trash ability' of Rats
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - applies the 'when you trash ability' of Rats
+Titandrake - draws Farming Village
+Titandrake - gains Province
+Titandrake - plays 2 Silver
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Band of Misfits, Silver, Band of Misfits, Farming Village, Courtyard
+ 
+---------- HiveMindEmulator: turn 15 ----------
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Farming Village
+HiveMindEmulator - places Farming Village in hand
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Silver, Band of Misfits
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Courtyard
+HiveMindEmulator - places Copper on top of deck
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Farming Village, Copper, Farming Village
+HiveMindEmulator - places Copper on top of deck
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Farming Village
+HiveMindEmulator - places Farming Village in hand
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Band of Misfits
+HiveMindEmulator - places Band of Misfits in hand
+HiveMindEmulator - plays Band of Misfits
+HiveMindEmulator - chooses Courtyard
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Estate, Rats, Altar
+HiveMindEmulator - places Estate on top of deck
+HiveMindEmulator - plays Band of Misfits
+HiveMindEmulator - chooses Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Estate, Courtyard
+HiveMindEmulator - places Courtyard in hand
+HiveMindEmulator - discards Estate
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Copper, Copper, Courtyard
+HiveMindEmulator - places Copper on top of deck
+HiveMindEmulator - plays Rats
+HiveMindEmulator - draws Copper
+HiveMindEmulator - gains Rats
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - plays Courtyard
+HiveMindEmulator - draws Copper, Altar, Band of Misfits
+HiveMindEmulator - places Altar on top of deck
+HiveMindEmulator - plays Altar
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - plays Forge
+HiveMindEmulator - trashes Band of Misfits, Silver, Copper, Copper, Copper
+HiveMindEmulator - gains Province
+HiveMindEmulator - draws Altar, Band of Misfits
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Farming Village, Duchy, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Altar
+Titandrake - places Altar in hand
+Titandrake - discards Province
+Titandrake - plays Courtyard
+Titandrake - draws Farming Village, Courtyard, Band of Misfits
+Titandrake - places Silver on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Band of Misfits
+Titandrake - chooses Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Farming Village, Farming Village, Courtyard
+Titandrake - places Courtyard on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Courtyard
+Titandrake - places Courtyard in hand
+Titandrake - plays Courtyard
+Titandrake - draws Province, Band of Misfits, Silver
+Titandrake - places Province on top of deck
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Province, Forge
+Titandrake - places Forge in hand
+Titandrake - discards: Province, Province
+Titandrake - plays Farming Village
+Titandrake - reveals Band of Misfits
+Titandrake - places Band of Misfits in hand
+Titandrake - plays Band of Misfits
+Titandrake - chooses Farming Village
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Province, Province, Province
+Titandrake - discards: Province, Province, Province
+Titandrake - plays Forge
+Titandrake - trashes Courtyard
+Titandrake - gains Courtyard
+Titandrake - plays Altar
+Titandrake - trashes Band of Misfits
+Titandrake - gains Farming Village
+Titandrake - plays Band of Misfits
+Titandrake - chooses Herbalist
+Titandrake - plays Herbalist
+Titandrake - plays 2 Silver
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Courtyard, Farming Village, Farming Village, Province, Courtyard
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Courtyard, 5 Farming Village, 4 Band of Misfits, 1 Altar, 1 Forge, 2 Silver, 3 Province
+Titandrake - total victory points: 18
+Titandrake - turns: 16
+ 
+HiveMindEmulator - cards: 5 Farming Village, 4 Courtyard, 3 Band of Misfits, 2 Altar, 2 Rats, 1 Forge, 1 Silver, 1 Duchy, 1 Estate, 1 Province
+HiveMindEmulator - total victory points: 10
+HiveMindEmulator - turns: 15
+ 
+1st place: Titandrake
+2nd place: HiveMindEmulator
+ 

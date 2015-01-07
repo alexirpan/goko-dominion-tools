@@ -1,0 +1,546 @@
+------------ Game Setup ------------
+Supply cards: Haven, Hermit, Masterpiece, Tournament, Bazaar, Cartographer, City, Governor, Pillage, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Breezy - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Breezy - shuffles deck
+Titandrake - shuffles deck
+Breezy - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Governor
+Titandrake - gains Governor
+Titandrake - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Breezy: turn 1 ----------
+Breezy - plays 4 Copper
+Breezy - buys Tournament
+Breezy - gains Tournament
+Breezy - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Breezy: turn 2 ----------
+Breezy - plays 3 Copper
+Breezy - buys Hermit
+Breezy - gains Hermit
+Breezy - shuffles deck
+Breezy - draws Estate, Tournament, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Breezy: turn 3 ----------
+Breezy - plays Tournament
+Breezy - draws Estate
+Breezy - plays 2 Copper
+Breezy - buys Hermit
+Breezy - gains Hermit
+Breezy - draws Hermit, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Governor, Haven
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Hermit
+ 
+---------- Breezy: turn 4 ----------
+Breezy - plays Hermit
+Breezy - trashes Estate
+Breezy - gains Silver
+Breezy - plays 4 Copper
+Breezy - buys Tournament
+Breezy - gains Tournament
+Breezy - draws Copper
+Breezy - shuffles deck
+Breezy - draws Estate, Copper, Copper, Tournament
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Haven
+Titandrake - draws Estate
+Titandrake - sets aside Copper
+Titandrake - plays Governor
+Titandrake - chooses to gain a gold
+Titandrake - gains Gold
+Breezy - gains Silver
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper, Estate, Copper, Copper, Tournament
+ 
+---------- Breezy: turn 5 ----------
+Breezy - plays Tournament
+Breezy - draws Copper
+Breezy - plays 4 Copper
+Breezy - buys Governor
+Breezy - gains Governor
+Breezy - draws Tournament, Silver, Hermit, Copper, Hermit
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Pillage
+Titandrake - gains Pillage
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Madman
+ 
+---------- Breezy: turn 6 ----------
+Breezy - plays Tournament
+Breezy - draws Copper
+Breezy - plays Hermit
+Breezy - trashes Estate
+Breezy - gains Haven
+Breezy - plays 2 Copper, 1 Silver
+Breezy - buys Governor
+Breezy - gains Governor
+Breezy - draws Estate, Copper
+Breezy - shuffles deck
+Breezy - draws Copper, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Gold, Pillage, Copper
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+Breezy - reveals Estate, Copper, Copper, Silver, Copper
+Breezy - discards Silver
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays 6 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Estate, Estate, Hermit, Governor
+ 
+---------- Breezy: turn 7 ----------
+Breezy - plays 3 Copper
+Breezy - buys Haven
+Breezy - gains Haven
+Breezy - draws Copper, Governor, Haven, Copper, Hermit
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Governor
+Titandrake - chooses to gain a gold
+Titandrake - gains Gold
+Breezy - gains Silver
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Tournament, Haven
+Titandrake - shuffles deck
+Titandrake - draws Spoils, Gold, Gold
+ 
+---------- Breezy: turn 8 ----------
+Breezy - plays Haven
+Breezy - draws Silver
+Breezy - sets aside Silver
+Breezy - plays Governor
+Breezy - chooses to gain a gold
+Breezy - gains Gold
+Titandrake - gains Silver
+Breezy - plays Hermit
+Breezy - trashes Estate
+Breezy - gains Haven
+Breezy - trashes Hermit
+Breezy - gains Madman
+Breezy - draws Copper, Governor, Copper, Hermit, Tournament
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Haven
+Titandrake - draws Spoils
+Titandrake - sets aside Spoils
+Titandrake - plays Tournament
+Titandrake - draws Governor
+Titandrake - plays Governor
+Titandrake - chooses to trash a card
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - plays Gold
+Titandrake - plays Spoils
+Titandrake - buys Governor
+Titandrake - gains Governor
+Titandrake - draws Madman, Copper, Hermit, Copper, Copper
+ 
+---------- Breezy: turn 9 ----------
+Breezy - duration Haven
+Breezy - places set aside Silver in hand
+Breezy - plays Tournament
+Breezy - draws Tournament
+Breezy - plays Tournament
+Breezy - shuffles deck
+Breezy - draws Silver
+Breezy - plays Hermit
+Breezy - gains Haven
+Breezy - plays 2 Copper, 2 Silver
+Breezy - buys Province
+Breezy - gains Province
+Breezy - draws Copper, Copper, Copper, Silver, Haven
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Spoils in hand
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Copper, Estate, Province, Copper, Copper
+ 
+---------- Breezy: turn 10 ----------
+Breezy - plays Haven
+Breezy - draws Governor
+Breezy - sets aside Copper
+Breezy - plays Governor
+Breezy - chooses to draw cards
+Breezy - draws Copper, Haven, Gold
+Titandrake - draws Copper
+Breezy - plays Haven
+Breezy - draws Madman
+Breezy - sets aside Copper
+Breezy - plays Madman
+Breezy - draws Copper
+Breezy - shuffles deck
+Breezy - draws Haven, Haven, Governor
+Breezy - plays Haven
+Breezy - draws Hermit
+Breezy - sets aside Gold
+Breezy - plays Haven
+Breezy - draws Silver
+Breezy - sets aside Silver
+Breezy - plays Governor
+Breezy - chooses to draw cards
+Breezy - draws Silver, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+Breezy - plays Hermit
+Breezy - gains Haven
+Breezy - plays 5 Copper, 2 Silver
+Breezy - buys Province
+Breezy - gains Province
+Breezy - draws Tournament, Tournament, Province
+Breezy - shuffles deck
+Breezy - draws Governor, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Tournament, Haven, Copper, Silver, Copper
+ 
+---------- Breezy: turn 11 ----------
+Breezy - duration Haven
+Breezy - places set aside Copper in hand
+Breezy - duration Haven
+Breezy - places set aside Copper in hand
+Breezy - duration Haven
+Breezy - places set aside Gold in hand
+Breezy - duration Haven
+Breezy - places set aside Silver in hand
+Breezy - plays Tournament
+Breezy - reveals Province
+Breezy - discards Province
+Breezy - gains Trusty Steed
+Breezy - draws Trusty Steed
+Breezy - plays Governor
+Breezy - chooses to draw cards
+Breezy - draws Governor, Copper, Copper
+Titandrake - draws Province
+Breezy - plays Governor
+Breezy - chooses to draw cards
+Breezy - draws Haven, Copper, Copper
+Titandrake - draws Hermit
+Breezy - plays Haven
+Breezy - draws Silver
+Breezy - sets aside Gold
+Breezy - plays Trusty Steed
+Breezy - takes 2 actions
+Breezy - draws Province, Hermit
+Breezy - plays Tournament
+Breezy - reveals Province
+Titandrake - reveals Province
+Breezy - discards Province
+Breezy - gains Followers
+Breezy - plays Hermit
+Breezy - gains Estate
+Breezy - plays 6 Copper, 3 Silver
+Breezy - buys Province
+Breezy - gains Province
+Breezy - draws Followers, Copper
+Breezy - shuffles deck
+Breezy - draws Copper, Hermit, Haven
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Haven
+Titandrake - draws Silver
+Titandrake - sets aside Hermit
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - draws Princess
+Titandrake - plays Princess
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Haven, Madman, Governor, Gold, Governor
+ 
+---------- Breezy: turn 12 ----------
+Breezy - duration Haven
+Breezy - places set aside Gold in hand
+Breezy - plays Haven
+Breezy - draws Silver
+Breezy - sets aside Hermit
+Breezy - plays Followers
+Breezy - draws Governor, Haven
+Breezy - gains Estate
+Titandrake - gains Curse
+Titandrake - discards Haven
+Titandrake - discards Gold
+Breezy - plays 2 Copper, 1 Gold, 1 Silver
+Breezy - buys Duchy
+Breezy - gains Duchy
+Breezy - draws Haven, Trusty Steed, Estate, Tournament, Tournament
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Hermit in hand
+Titandrake - plays Governor
+Titandrake - chooses to draw cards
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province
+Breezy - draws Copper
+Titandrake - plays Governor
+Titandrake - chooses to draw cards
+Titandrake - draws Spoils, Estate, Copper
+Breezy - draws Silver
+Titandrake - plays Madman
+Titandrake - draws Silver, Province, Estate, Tournament, Copper, Haven, Copper
+Titandrake - plays Haven
+Titandrake - draws Copper
+Titandrake - sets aside Estate
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - draws Duchy
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays 5 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Province, Tournament, Gold, Copper
+ 
+---------- Breezy: turn 13 ----------
+Breezy - duration Haven
+Breezy - places set aside Hermit in hand
+Breezy - plays Haven
+Breezy - draws Province
+Breezy - sets aside Estate
+Breezy - plays Tournament
+Breezy - reveals Province
+Titandrake - reveals Province
+Breezy - discards Province
+Breezy - gains Duchy
+Breezy - plays Trusty Steed
+Breezy - takes 2 actions
+Breezy - draws Duchy, Silver
+Breezy - plays Hermit
+Breezy - gains Estate
+Breezy - plays Tournament
+Titandrake - reveals Province
+Breezy - plays 2 Silver, 1 Copper
+Breezy - buys Duchy
+Breezy - gains Duchy
+Breezy - draws Governor, Province, Copper, Haven, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Estate in hand
+Titandrake - plays Tournament
+Breezy - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Curse, Princess
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Copper
+ 
+---------- Breezy: turn 14 ----------
+Breezy - duration Haven
+Breezy - places set aside Estate in hand
+Breezy - plays Governor
+Breezy - chooses to draw cards
+Breezy - draws Copper, Copper, Copper
+Titandrake - draws Estate
+Breezy - plays Haven
+Breezy - shuffles deck
+Breezy - draws Silver
+Breezy - sets aside Copper
+Breezy - plays 3 Copper, 1 Silver
+Breezy - buys Duchy
+Breezy - gains Duchy
+Breezy - draws Duchy, Haven, Haven, Duchy, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Princess
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Haven, Copper, Tournament, Duchy, Estate
+ 
+---------- Breezy: turn 15 ----------
+Breezy - duration Haven
+Breezy - places set aside Copper in hand
+Breezy - plays Haven
+Breezy - draws Haven
+Breezy - sets aside Duchy
+Breezy - plays Haven
+Breezy - draws Copper
+Breezy - sets aside Silver
+Breezy - plays Haven
+Breezy - draws Estate
+Breezy - sets aside Duchy
+Breezy - plays 2 Copper
+Breezy - buys Estate
+Breezy - gains Estate
+Breezy - draws Governor, Tournament, Hermit, Gold, Followers
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Haven
+Titandrake - draws Copper
+Titandrake - sets aside Tournament
+Titandrake - draws Governor, Copper, Gold, Hermit, Silver
+ 
+---------- Breezy: turn 16 ----------
+Breezy - duration Haven
+Breezy - places set aside Duchy in hand
+Breezy - duration Haven
+Breezy - places set aside Silver in hand
+Breezy - duration Haven
+Breezy - places set aside Duchy in hand
+Breezy - plays Tournament
+Breezy - draws Estate
+Breezy - plays Governor
+Breezy - chooses to trash a card
+Breezy - trashes Gold
+Breezy - gains Province
+Breezy - plays Followers
+Breezy - draws Copper, Tournament
+Titandrake - gains Curse
+Titandrake - discards Copper
+Titandrake - discards Hermit
+Breezy - plays 1 Silver, 1 Copper
+Breezy - buys Silver
+Breezy - gains Silver
+Breezy - draws Province, Trusty Steed, Copper, Silver, Duchy
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Tournament in hand
+Titandrake - plays Tournament
+Breezy - reveals Province
+Titandrake - plays Governor
+Titandrake - chooses to trash a card
+Titandrake - trashes Silver
+Titandrake - gains City
+Titandrake - plays Gold
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Spoils, Province, Province, Copper, Governor
+ 
+---------- Breezy: turn 17 ----------
+Breezy - plays Trusty Steed
+Breezy - takes 2 actions
+Breezy - shuffles deck
+Breezy - draws Silver, Silver
+Breezy - plays 3 Silver, 1 Copper
+Breezy - buys Haven
+Breezy - gains Haven
+Breezy - draws Copper, Province, Duchy, Estate, Haven
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Governor
+Titandrake - chooses to gain a gold
+Titandrake - gains Gold
+Breezy - gains Silver
+Titandrake - plays Spoils
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Tournament, Duchy, Estate, Silver, Province
+ 
+---------- Breezy: turn 18 ----------
+Breezy - plays Haven
+Breezy - draws Duchy
+Breezy - sets aside Copper
+Breezy - buys Copper
+Breezy - gains Copper
+Breezy - draws Tournament, Province, Duchy, Governor, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Tournament
+Breezy - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Bag of Gold
+Titandrake - draws Bag of Gold, Copper, Copper, Haven
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Breezy: turn 19 ----------
+Breezy - duration Haven
+Breezy - places set aside Copper in hand
+Breezy - plays Tournament
+Breezy - reveals Province
+Breezy - discards Province
+Breezy - gains Diadem
+Breezy - draws Diadem
+Breezy - plays Governor
+Breezy - chooses to draw cards
+Breezy - draws Haven, Copper, Copper
+Titandrake - draws Tournament
+Breezy - plays Haven
+Breezy - draws Province
+Breezy - sets aside Province
+Breezy - plays 4 Copper, 1 Diadem
+Breezy - buys Province
+Breezy - gains Province
+Breezy - draws Hermit, Tournament, Haven, Haven, Silver
+ 
+------------ Game Over ------------
+Breezy - cards: 6 Haven, 2 Tournament, 2 Governor, 1 Hermit, 1 Trusty Steed, 1 Followers, 8 Copper, 5 Silver, 1 Diadem, 5 Province, 4 Duchy, 4 Estate
+Breezy - total victory points: 46
+Breezy - turns: 19
+ 
+Titandrake - cards: 3 Hermit, 2 Haven, 2 Tournament, 2 Governor, 1 Bag of Gold, 1 City, 1 Princess, 7 Copper, 2 Gold, 1 Silver, 5 Estate, 4 Duchy, 3 Province, 2 Curse
+Titandrake - total victory points: 33
+Titandrake - turns: 19
+ 
+1st place: Breezy
+2nd place: Titandrake
+ 

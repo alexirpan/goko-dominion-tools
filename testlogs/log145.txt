@@ -1,0 +1,802 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Scheme, Familiar, Cutpurse, Ironworks, Marauder, Scavenger, Mountebank, Pillage, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Billy Goat - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Billy Goat - shuffles deck
+Titandrake - shuffles deck
+Billy Goat - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Billy Goat: turn 1 ----------
+Billy Goat - plays 4 Copper
+Billy Goat - buys Potion
+Billy Goat - gains Potion
+Billy Goat - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Billy Goat: turn 2 ----------
+Billy Goat - plays 3 Copper
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - shuffles deck
+Billy Goat - draws Copper, Copper, Copper, Copper, Scheme
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Mountebank
+ 
+---------- Billy Goat: turn 3 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays 5 Copper
+Billy Goat - buys Mountebank
+Billy Goat - gains Mountebank
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Copper, Estate, Estate, Potion
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Mountebank
+Billy Goat - gains Curse
+Billy Goat - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Cellar, Copper, Copper, Copper, Copper
+ 
+---------- Billy Goat: turn 4 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays 2 Copper, 1 Potion
+Billy Goat - buys Cellar
+Billy Goat - gains Cellar
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Estate
+Billy Goat - shuffles deck
+Billy Goat - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Copper, Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Billy Goat: turn 5 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays 3 Copper
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Curse, Copper, Cellar, Potion
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Copper, Scavenger, Copper, Copper, Cellar
+ 
+---------- Billy Goat: turn 6 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Cellar
+Billy Goat - discards Curse
+Billy Goat - discards Copper
+Billy Goat - discards Copper
+Billy Goat - draws Copper, Copper, Copper
+Billy Goat - plays 3 Copper, 1 Potion
+Billy Goat - buys Familiar
+Billy Goat - gains Familiar
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Mountebank, Estate
+Billy Goat - shuffles deck
+Billy Goat - draws Potion, Cellar
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Mountebank on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Mountebank
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Cellar
+ 
+---------- Billy Goat: turn 7 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Scheme
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Cellar
+Billy Goat - discards Estate
+Billy Goat - draws Copper
+Billy Goat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Billy Goat - plays 2 Copper, 1 Potion
+Billy Goat - buys Familiar
+Billy Goat - gains Familiar
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Mountebank
+Billy Goat - draws Mountebank, Scheme, Copper, Copper, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Estate, Silver, Copper
+Titandrake - plays Mountebank
+Billy Goat - discards Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Silver, Copper, Copper, Scavenger, Copper
+ 
+---------- Billy Goat: turn 8 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Billy Goat - plays 3 Copper
+Billy Goat - buys Pillage
+Billy Goat - gains Pillage
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Estate, Familiar, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Mountebank on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Mountebank
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse, Copper, Copper
+ 
+---------- Billy Goat: turn 9 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Familiar
+Billy Goat - draws Estate
+Titandrake - gains Curse
+Billy Goat - plays 3 Copper
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - Scheme choice: Familiar
+Billy Goat - draws Familiar
+Billy Goat - shuffles deck
+Billy Goat - draws Copper, Copper, Mountebank, Potion
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Mountebank
+Billy Goat - gains Curse
+Billy Goat - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Scavenger, Cellar, Gold
+ 
+---------- Billy Goat: turn 10 ----------
+Billy Goat - plays Familiar
+Billy Goat - draws Scheme
+Titandrake - gains Curse
+Billy Goat - plays Scheme
+Billy Goat - draws Estate
+Billy Goat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Billy Goat - plays 2 Copper, 1 Potion
+Billy Goat - buys Familiar
+Billy Goat - gains Familiar
+Billy Goat - Scheme choice: Familiar
+Billy Goat - draws Familiar, Estate, Cellar, Copper, Curse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Curse, Mountebank
+Titandrake - plays Mountebank
+Billy Goat - discards Curse
+Titandrake - plays Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Billy Goat: turn 11 ----------
+Billy Goat - plays Familiar
+Billy Goat - draws Copper
+Titandrake - gains Curse
+Billy Goat - plays Cellar
+Billy Goat - discards Estate
+Billy Goat - discards Copper
+Billy Goat - discards Copper
+Billy Goat - draws Copper, Copper, Copper
+Billy Goat - plays 3 Copper
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - draws Estate, Familiar, Scheme, Scheme, Pillage
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Silver, Cellar, Copper, Copper, Estate
+ 
+---------- Billy Goat: turn 12 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - shuffles deck
+Billy Goat - draws Scheme
+Billy Goat - plays Familiar
+Billy Goat - draws Copper
+Titandrake - gains Curse
+Billy Goat - plays Scheme
+Billy Goat - draws Potion
+Billy Goat - plays Pillage
+Billy Goat - trashes Pillage
+Titandrake - reveals Silver, Cellar, Copper, Copper, Estate
+Titandrake - discards Cellar
+Billy Goat - gains Spoils
+Billy Goat - gains Spoils
+Billy Goat - Scheme choice: Familiar
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Familiar, Curse, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Curse, Silver, Cellar
+ 
+---------- Billy Goat: turn 13 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Familiar
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Familiar
+Billy Goat - draws Copper
+Titandrake - gains Curse
+Billy Goat - plays Familiar
+Billy Goat - draws Estate
+Billy Goat - plays 3 Copper
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme, Familiar, Cellar
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Cellar
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Mountebank, Cellar, Scavenger
+Titandrake - plays Cellar
+Titandrake - discards Mountebank
+Titandrake - draws Copper
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Gold on top of deck
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Scavenger, Estate, Copper, Scavenger
+ 
+---------- Billy Goat: turn 14 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Estate
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Curse
+Billy Goat - plays Familiar
+Billy Goat - draws Copper
+Billy Goat - plays Cellar
+Billy Goat - discards Estate
+Billy Goat - discards Curse
+Billy Goat - discards Copper
+Billy Goat - draws Mountebank, Copper, Copper
+Billy Goat - plays Mountebank
+Titandrake - gains Copper
+Billy Goat - plays 3 Copper
+Billy Goat - buys Marauder
+Billy Goat - gains Marauder
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme
+Billy Goat - shuffles deck
+Billy Goat - draws Scheme, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Curse, Curse, Copper, Copper
+ 
+---------- Billy Goat: turn 15 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Scheme
+Billy Goat - plays Scheme
+Billy Goat - draws Estate
+Billy Goat - plays Scheme
+Billy Goat - draws Spoils
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays 2 Copper
+Billy Goat - plays Spoils
+Billy Goat - buys Pillage
+Billy Goat - gains Pillage
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme, Scheme, Scheme
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Curse
+ 
+---------- Billy Goat: turn 16 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Spoils
+Billy Goat - plays Scheme
+Billy Goat - draws Mountebank
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Familiar
+Billy Goat - plays Familiar
+Billy Goat - draws Familiar
+Billy Goat - plays Familiar
+Billy Goat - draws Copper
+Billy Goat - plays Mountebank
+Titandrake - discards Curse
+Billy Goat - plays 3 Copper
+Billy Goat - plays Spoils
+Billy Goat - buys Province
+Billy Goat - gains Province
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme, Scheme, Scheme
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Cellar, Estate, Copper, Mountebank
+ 
+---------- Billy Goat: turn 17 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Marauder
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Estate
+Billy Goat - plays Scheme
+Billy Goat - draws Estate
+Billy Goat - plays Marauder
+Billy Goat - gains Spoils
+Titandrake - gains Ruined Village
+Billy Goat - plays 2 Copper
+Billy Goat - buys Cellar
+Billy Goat - gains Cellar
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Marauder
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme, Marauder, Scheme
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cellar
+Titandrake - discards Mountebank
+Titandrake - discards Estate
+Titandrake - draws Scavenger, Copper
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Ruined Village, Scavenger, Copper, Silver
+ 
+---------- Billy Goat: turn 18 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Potion
+Billy Goat - plays Scheme
+Billy Goat - draws Cellar
+Billy Goat - plays Scheme
+Billy Goat - draws Familiar
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Familiar
+Billy Goat - draws Curse
+Billy Goat - plays Cellar
+Billy Goat - discards Potion
+Billy Goat - discards Curse
+Billy Goat - draws Copper
+Billy Goat - shuffles deck
+Billy Goat - draws Province
+Billy Goat - plays Marauder
+Billy Goat - gains Spoils
+Titandrake - gains Abandoned Mine
+Billy Goat - Scheme choice: Marauder
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme, Marauder, Mountebank
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Abandoned Mine, Scavenger, Copper, Copper
+ 
+---------- Billy Goat: turn 19 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Pillage
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Marauder
+Billy Goat - gains Spoils
+Titandrake - gains Ruined Library
+Billy Goat - Scheme choice: Marauder
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Marauder, Estate, Spoils
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Ruined Library, Copper, Silver, Copper
+ 
+---------- Billy Goat: turn 20 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Estate
+Billy Goat - plays Scheme
+Billy Goat - draws Familiar
+Billy Goat - plays Familiar
+Billy Goat - draws Familiar
+Billy Goat - plays Familiar
+Billy Goat - draws Potion
+Billy Goat - plays Marauder
+Billy Goat - gains Spoils
+Titandrake - gains Ruined Market
+Billy Goat - plays Spoils
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - Scheme choice: Marauder
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Marauder, Scheme, Curse, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Scavenger, Silver, Silver
+ 
+---------- Billy Goat: turn 21 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Cellar
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Cellar
+Billy Goat - discards Curse
+Billy Goat - draws Copper
+Billy Goat - plays Marauder
+Billy Goat - gains Spoils
+Titandrake - gains Abandoned Mine
+Billy Goat - plays 3 Copper
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - Scheme choice: Marauder
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Marauder, Copper, Curse, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Curse, Curse, Curse, Cellar
+ 
+---------- Billy Goat: turn 22 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Estate
+Billy Goat - plays Marauder
+Billy Goat - gains Spoils
+Titandrake - gains Abandoned Mine
+Billy Goat - Scheme choice: Marauder
+Billy Goat - draws Marauder
+Billy Goat - shuffles deck
+Billy Goat - draws Potion, Copper, Familiar, Estate
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Cellar
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - draws Abandoned Mine, Copper, Copper
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Copper
+ 
+---------- Billy Goat: turn 23 ----------
+Billy Goat - plays Familiar
+Billy Goat - draws Spoils
+Billy Goat - plays Marauder
+Billy Goat - gains Spoils
+Titandrake - gains Ruined Library
+Billy Goat - plays 1 Potion, 1 Copper
+Billy Goat - plays Spoils
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - draws Copper, Spoils, Scheme, Copper, Familiar
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Abandoned Mine, Gold, Scavenger
+ 
+---------- Billy Goat: turn 24 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Cellar
+Billy Goat - plays Familiar
+Billy Goat - draws Estate
+Billy Goat - plays Cellar
+Billy Goat - discards Estate
+Billy Goat - draws Scheme
+Billy Goat - plays Scheme
+Billy Goat - draws Scheme
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays 3 Copper
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme, Copper, Spoils
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Copper
+ 
+---------- Billy Goat: turn 25 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Province
+Billy Goat - plays 3 Copper
+Billy Goat - plays Spoils
+Billy Goat - buys Duchy
+Billy Goat - gains Duchy
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme, Cellar, Scheme
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Copper, Copper, Copper
+ 
+---------- Billy Goat: turn 26 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Curse
+Billy Goat - plays Scheme
+Billy Goat - draws Estate
+Billy Goat - plays Scheme
+Billy Goat - draws Familiar
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Familiar
+Billy Goat - draws Pillage
+Billy Goat - plays Cellar
+Billy Goat - discards Curse
+Billy Goat - discards Estate
+Billy Goat - discards Copper
+Billy Goat - draws Spoils, Scheme, Mountebank
+Billy Goat - plays Scheme
+Billy Goat - draws Curse
+Billy Goat - plays Pillage
+Billy Goat - trashes Pillage
+Titandrake - reveals Scavenger, Duchy, Copper, Copper, Copper
+Titandrake - discards Scavenger
+Billy Goat - gains Spoils
+Billy Goat - gains Spoils
+Billy Goat - plays Spoils
+Billy Goat - buys Scheme
+Billy Goat - gains Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme, Scheme, Scheme
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Gold, Abandoned Mine, Ruined Village, Mountebank
+ 
+---------- Billy Goat: turn 27 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Spoils
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Scheme
+Billy Goat - plays Scheme
+Billy Goat - draws Scheme
+Billy Goat - plays Scheme
+Billy Goat - shuffles deck
+Billy Goat - draws Scheme
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Scheme
+Billy Goat - draws Marauder
+Billy Goat - plays Scheme
+Billy Goat - draws Mountebank
+Billy Goat - plays Marauder
+Billy Goat - gains Spoils
+Titandrake - gains Abandoned Mine
+Billy Goat - plays 2 Copper
+Billy Goat - plays Spoils
+Billy Goat - buys Duchy
+Billy Goat - gains Duchy
+Billy Goat - Scheme choice: Marauder
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - Scheme choice: Scheme
+Billy Goat - draws Scheme, Scheme, Scheme, Scheme, Scheme
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Mountebank
+Billy Goat - gains Copper
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Copper, Copper, Copper, Ruined Market
+ 
+---------- Billy Goat: turn 28 ----------
+Billy Goat - plays Scheme
+Billy Goat - draws Scheme
+Billy Goat - plays Scheme
+Billy Goat - draws Scheme
+Billy Goat - plays Scheme
+Billy Goat - draws Marauder
+Billy Goat - plays Scheme
+Billy Goat - draws Curse
+Billy Goat - plays Scheme
+Billy Goat - draws Estate
+Billy Goat - plays Scheme
+Billy Goat - draws Duchy
+Billy Goat - plays Scheme
+Billy Goat - draws Copper
+Billy Goat - plays Marauder
+Billy Goat - gains Spoils
+Titandrake - gains Abandoned Mine
+Billy Goat - buys Ruined Market
+Billy Goat - gains Ruined Market
+Billy Goat - draws Cellar, Scheme, Familiar, Spoils, Estate
+ 
+------------ Game Over ------------
+Billy Goat - cards: 10 Scheme, 3 Familiar, 2 Cellar, 10 Copper, 1 Mountebank, 1 Ruined Market, 1 Marauder, 6 Spoils, 1 Potion, 3 Estate, 2 Duchy, 1 Province, 2 Curse
+Billy Goat - total victory points: 13
+Billy Goat - turns: 28
+ 
+Titandrake - cards: 5 Abandoned Mine, 4 Scavenger, 2 Mountebank, 2 Ruined Library, 2 Cellar, 11 Copper, 10 Silver, 1 Ruined Market, 1 Ruined Village, 5 Gold, 4 Estate, 3 Duchy, 8 Curse
+Titandrake - total victory points: 5
+Titandrake - turns: 27
+ 
+1st place: Billy Goat
+2nd place: Titandrake
+ 

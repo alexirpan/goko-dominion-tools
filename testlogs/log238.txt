@@ -1,0 +1,330 @@
+------------ Game Setup ------------
+Supply cards: Wishing Well, Armory, Ironmonger, Moneylender, Rats, Trader, Ghost Ship, Hunting Party, Rebuild, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+greens - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+greens - shuffles deck
+Titandrake - shuffles deck
+greens - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- greens: turn 1 ----------
+greens - plays 4 Copper
+greens - buys Moneylender
+greens - gains Moneylender
+greens - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- greens: turn 2 ----------
+greens - plays 3 Copper
+greens - buys Silver
+greens - gains Silver
+greens - shuffles deck
+greens - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Silver, Copper
+ 
+---------- greens: turn 3 ----------
+greens - plays 3 Copper, 1 Silver
+greens - buys Rebuild
+greens - gains Rebuild
+greens - draws Copper, Moneylender, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- greens: turn 4 ----------
+greens - plays Moneylender
+greens - trashes Copper
+greens - plays 2 Copper
+greens - buys Rebuild
+greens - gains Rebuild
+greens - draws Estate, Copper
+greens - shuffles deck
+greens - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Moneylender, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- greens: turn 5 ----------
+greens - plays 3 Copper
+greens - buys Silver
+greens - gains Silver
+greens - draws Rebuild, Copper, Estate, Silver, Moneylender
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Rebuild, Copper, Silver, Estate, Copper
+ 
+---------- greens: turn 6 ----------
+greens - plays Rebuild
+greens - names Province
+greens - shuffles deck
+greens - reveals Rebuild, Copper, Copper, Estate
+greens - discards: Rebuild, Copper, Copper
+greens - trashes Estate
+greens - gains Duchy
+greens - plays Moneylender
+greens - trashes Copper
+greens - plays 1 Silver
+greens - buys Rebuild
+greens - gains Rebuild
+greens - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Copper, Copper, Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- greens: turn 7 ----------
+greens - plays 3 Copper, 1 Silver
+greens - buys Duchy
+greens - gains Duchy
+greens - shuffles deck
+greens - draws Estate, Copper, Duchy, Rebuild, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Rebuild
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - reveals Silver, Moneylender, Copper, Estate
+Titandrake - discards: Silver, Moneylender, Copper
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 4 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Ironmonger, Duchy, Rebuild
+ 
+---------- greens: turn 8 ----------
+greens - plays Rebuild
+greens - names Duchy
+greens - reveals Copper, Duchy, Copper, Silver, Rebuild, Rebuild, Estate
+greens - discards: Copper, Duchy, Copper, Silver, Rebuild, Rebuild
+greens - trashes Estate
+greens - gains Duchy
+greens - plays 1 Copper, 1 Silver
+greens - buys Silver
+greens - gains Silver
+greens - draws Moneylender, Copper, Copper
+greens - shuffles deck
+greens - draws Copper, Duchy
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals: Duchy
+Titandrake - discards Duchy
+Titandrake - draws Copper
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Duchy
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Rebuild, Silver, Copper, Copper, Ironmonger
+ 
+---------- greens: turn 9 ----------
+greens - plays Moneylender
+greens - trashes Copper
+greens - plays 2 Copper
+greens - buys Duchy
+greens - gains Duchy
+greens - draws Rebuild, Copper, Rebuild, Copper, Duchy
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Moneylender
+Titandrake - discards Moneylender
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Silver, Estate
+Titandrake - discards: Copper, Copper, Silver
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Duchy, Rebuild, Duchy, Moneylender
+ 
+---------- greens: turn 10 ----------
+greens - plays Rebuild
+greens - names Estate
+greens - reveals Silver, Duchy
+greens - discards Silver
+greens - trashes Duchy
+greens - gains Province
+greens - plays Rebuild
+greens - names Estate
+greens - shuffles deck
+greens - reveals Silver, Estate, Rebuild, Silver, Copper, Province
+greens - discards: Silver, Estate, Rebuild, Silver, Copper
+greens - trashes Province
+greens - gains Province
+greens - draws Copper, Duchy, Silver, Moneylender, Duchy
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Ironmonger, Province, Silver, Copper, Silver, Hunting Party, Copper, Duchy
+Titandrake - discards: Ironmonger, Province, Silver, Copper, Silver, Hunting Party, Copper
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Ironmonger, Rebuild, Copper, Copper
+ 
+---------- greens: turn 11 ----------
+greens - plays Moneylender
+greens - trashes Copper
+greens - plays 1 Silver
+greens - buys Hunting Party
+greens - gains Hunting Party
+greens - shuffles deck
+greens - draws Duchy, Copper, Silver, Hunting Party, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - reveals: Silver
+Titandrake - discards Silver
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Silver, Rebuild, Duchy
+Titandrake - discards: Silver, Rebuild
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays 3 Copper
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - draws Moneylender, Copper, Hunting Party, Duchy, Ironmonger
+ 
+---------- greens: turn 12 ----------
+greens - plays Hunting Party
+greens - draws Estate
+greens - reveals hand: Duchy, Copper, Silver, Silver, Estate
+greens - reveals Duchy, Province
+greens - places Province in hand
+greens - discards Duchy
+greens - plays 2 Silver, 1 Copper
+greens - buys Hunting Party
+greens - gains Hunting Party
+greens - draws Moneylender, Copper, Copper, Rebuild, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Moneylender, Copper, Duchy, Ironmonger, Silver
+Titandrake - reveals Copper, Province
+Titandrake - places Province in hand
+Titandrake - discards Copper
+Titandrake - plays Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Rebuild, Armory, Copper
+ 
+---------- greens: turn 13 ----------
+greens - plays Rebuild
+greens - names Province
+greens - reveals Duchy
+greens - trashes Duchy
+greens - gains Province
+greens - plays Moneylender
+greens - trashes Copper
+greens - plays 1 Copper, 1 Silver
+greens - buys Gold
+greens - gains Gold
+greens - draws Rebuild, Rebuild
+greens - shuffles deck
+greens - draws Silver, Estate, Moneylender
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Province, Ironmonger, Copper, Rebuild, Copper, Province, Hunting Party, Moneylender, Province, Silver, Ironmonger, Gold, Duchy
+Titandrake - discards: Silver, Province, Ironmonger, Copper, Rebuild, Copper, Province, Hunting Party, Moneylender, Province, Silver, Ironmonger, Gold
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Armory
+Titandrake - gains Estate
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Rebuild, Silver, Copper, Copper
+ 
+---------- greens: turn 14 ----------
+greens - plays Rebuild
+greens - names Province
+greens - reveals Copper, Silver, Hunting Party, Copper, Silver, Duchy
+greens - discards: Copper, Silver, Hunting Party, Copper, Silver
+greens - trashes Duchy
+greens - gains Province
+greens - plays 1 Silver
+greens - buys Estate
+greens - gains Estate
+greens - draws Rebuild, Province, Gold, Province, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Rebuild, 2 Ironmonger, 1 Hunting Party, 1 Armory, 1 Moneylender, 4 Copper, 3 Silver, 1 Gold, 4 Province, 2 Estate
+Titandrake - total victory points: 26
+Titandrake - turns: 13
+ 
+greens - cards: 3 Rebuild, 2 Hunting Party, 1 Moneylender, 3 Silver, 2 Copper, 1 Gold, 3 Province, 2 Estate, 1 Duchy
+greens - total victory points: 23
+greens - turns: 14
+ 
+1st place: Titandrake
+2nd place: greens
+ 

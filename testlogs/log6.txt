@@ -1,0 +1,949 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Fool's Gold, Secret Chamber, Masquerade, Scheme, Swindler, Mining Village, Margrave, Tactician, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Chaos - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Chaos - shuffles deck
+Titandrake - shuffles deck
+Chaos - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Chaos: turn 1 ----------
+Chaos - plays 4 Copper
+Chaos - buys Masquerade
+Chaos - gains Masquerade
+Chaos - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Chaos: turn 2 ----------
+Chaos - plays 3 Copper
+Chaos - buys Silver
+Chaos - gains Silver
+Chaos - shuffles deck
+Chaos - draws Estate, Copper, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Chaos: turn 3 ----------
+Chaos - plays 2 Copper, 1 Silver
+Chaos - buys Mining Village
+Chaos - gains Mining Village
+Chaos - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Copper, Copper, Estate, Chapel, Swindler
+ 
+---------- Chaos: turn 4 ----------
+Chaos - plays 4 Copper
+Chaos - buys Swindler
+Chaos - gains Swindler
+Chaos - draws Masquerade, Copper
+Chaos - shuffles deck
+Chaos - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper, Copper
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Swindler, Scheme, Estate
+ 
+---------- Chaos: turn 5 ----------
+Chaos - plays Masquerade
+Chaos - draws Copper, Copper
+Chaos - passes Estate
+Titandrake - passes Estate
+Chaos - trashes Estate
+Chaos - plays 5 Copper
+Chaos - buys Tactician
+Chaos - gains Tactician
+Chaos - draws Swindler, Estate, Copper, Silver, Mining Village
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Swindler
+Chaos - reveals Copper
+Chaos - trashes Copper
+Chaos - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Copper, Copper, Copper, Chapel
+ 
+---------- Chaos: turn 6 ----------
+Chaos - plays Mining Village
+Chaos - draws Estate
+Chaos - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Mining Village
+Titandrake - trashes Mining Village
+Titandrake - gains Mining Village
+Chaos - plays 1 Copper, 1 Silver
+Chaos - buys Mining Village
+Chaos - gains Mining Village
+Chaos - shuffles deck
+Chaos - draws Mining Village, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Scheme
+Titandrake - draws Swindler
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Copper, Copper, Estate, Estate
+ 
+---------- Chaos: turn 7 ----------
+Chaos - plays Mining Village
+Chaos - draws Copper
+Chaos - plays 4 Copper
+Chaos - buys Masquerade
+Chaos - gains Masquerade
+Chaos - draws Estate, Masquerade, Copper, Swindler, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Chapel
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Estate
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Swindler, Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Chaos: turn 8 ----------
+Chaos - plays Masquerade
+Chaos - draws Mining Village, Tactician
+Chaos - passes Estate
+Titandrake - passes Copper
+Chaos - trashes Copper
+Chaos - draws Silver, Curse
+Chaos - shuffles deck
+Chaos - draws Mining Village, Swindler, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Scheme
+Titandrake - draws Chapel
+Titandrake - plays Mining Village
+Titandrake - plays Swindler
+Chaos - reveals Copper
+Chaos - trashes Copper
+Chaos - gains Curse
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Mining Village
+Titandrake - draws Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Scheme, Copper, Swindler, Chapel
+ 
+---------- Chaos: turn 9 ----------
+Chaos - plays Mining Village
+Chaos - draws Copper
+Chaos - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+Chaos - plays 2 Copper, 1 Silver
+Chaos - buys Margrave
+Chaos - gains Margrave
+Chaos - draws Masquerade, Tactician, Estate, Copper, Masquerade
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Swindler
+Chaos - reveals Copper
+Chaos - trashes Copper
+Chaos - gains Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - Scheme choice: Mining Village
+Titandrake - draws Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Swindler, Silver, Scheme, Margrave
+ 
+---------- Chaos: turn 10 ----------
+Chaos - plays Tactician
+Chaos - discards: Masquerade, Estate, Copper, Masquerade
+Chaos - draws Copper, Mining Village
+Chaos - shuffles deck
+Chaos - draws Copper, Masquerade, Masquerade
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Estate
+Titandrake - plays Margrave
+Titandrake - draws Chapel
+Chaos - draws Mining Village
+Chaos - discards Copper
+Chaos - discards Copper
+Chaos - discards Mining Village
+Titandrake - plays Swindler
+Chaos - reveals Copper
+Chaos - trashes Copper
+Chaos - gains Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - Scheme choice: Mining Village
+Titandrake - draws Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Estate, Swindler, Scheme, Silver
+ 
+---------- Chaos: turn 11 ----------
+Chaos - duration Tactician
+Chaos - draws Swindler, Silver, Curse, Curse, Estate
+Chaos - plays Masquerade
+Chaos - draws Margrave, Copper
+Chaos - passes Curse
+Titandrake - passes Estate
+Chaos - trashes Curse
+Chaos - plays Mining Village
+Chaos - draws Curse
+Chaos - plays Masquerade
+Chaos - shuffles deck
+Chaos - draws Copper, Curse
+Chaos - passes Curse
+Titandrake - passes Curse
+Chaos - trashes Curse
+Chaos - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+Chaos - plays 2 Copper, 1 Silver
+Chaos - buys Mining Village
+Chaos - gains Mining Village
+Chaos - draws Copper, Mining Village
+Chaos - shuffles deck
+Chaos - draws Swindler, Tactician, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Scheme
+Titandrake - draws Margrave
+Titandrake - plays Mining Village
+Titandrake - draws Chapel
+Titandrake - plays Margrave
+Titandrake - draws Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Curse
+Chaos - draws Estate
+Chaos - discards Estate
+Chaos - discards Estate
+Chaos - discards Copper
+Titandrake - plays Swindler
+Chaos - reveals Masquerade
+Chaos - trashes Masquerade
+Chaos - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Mining Village
+Titandrake - draws Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Silver, Swindler, Curse, Chapel
+ 
+---------- Chaos: turn 12 ----------
+Chaos - plays Mining Village
+Chaos - draws Mining Village
+Chaos - plays Mining Village
+Chaos - draws Margrave
+Chaos - plays Margrave
+Chaos - draws Silver, Masquerade, Copper
+Titandrake - draws Margrave
+Titandrake - discards Chapel
+Titandrake - discards Silver
+Titandrake - discards Swindler
+Chaos - plays Masquerade
+Chaos - draws Copper, Mining Village
+Chaos - passes Copper
+Titandrake - passes Curse
+Chaos - trashes Curse
+Chaos - plays Mining Village
+Chaos - draws Curse
+Chaos - plays Swindler
+Titandrake - reveals Scheme
+Titandrake - trashes Scheme
+Titandrake - gains Silver
+Chaos - plays Tactician
+Chaos - discards: Silver, Copper, Curse
+Chaos - shuffles deck
+Chaos - draws Silver, Estate, Estate, Silver, Masquerade
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Curse
+Titandrake - plays Margrave
+Titandrake - draws Silver, Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Swindler
+Chaos - draws Copper
+Chaos - discards Estate
+Chaos - discards Estate
+Chaos - discards Copper
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Swindler
+Chaos - reveals Copper
+Chaos - trashes Copper
+Chaos - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Silver, Chapel
+Titandrake - shuffles deck
+Titandrake - draws Mining Village, Silver, Silver
+ 
+---------- Chaos: turn 13 ----------
+Chaos - duration Tactician
+Chaos - draws Mining Village, Swindler, Mining Village, Mining Village, Margrave
+Chaos - plays Mining Village
+Chaos - draws Curse
+Chaos - plays Margrave
+Chaos - shuffles deck
+Chaos - draws Estate, Estate, Copper
+Titandrake - draws Swindler
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - discards Silver
+Chaos - plays Mining Village
+Chaos - draws Curse
+Chaos - plays Masquerade
+Chaos - passes Curse
+Titandrake - passes Chapel
+Chaos - trashes Curse
+Chaos - plays Mining Village
+Chaos - plays Swindler
+Titandrake - reveals Margrave
+Titandrake - trashes Margrave
+Titandrake - gains Duchy
+Chaos - plays Chapel
+Chaos - trashes Estate, Copper
+Chaos - plays 2 Silver
+Chaos - buys Gold
+Chaos - gains Gold
+Chaos - shuffles deck
+Chaos - draws Mining Village, Swindler, Mining Village, Chapel, Mining Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Swindler
+Titandrake - plays Swindler
+Chaos - reveals Masquerade
+Chaos - trashes Masquerade
+Chaos - gains Silver
+Titandrake - plays Swindler
+Chaos - reveals Silver
+Chaos - trashes Silver
+Chaos - gains Silver
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - draws Curse, Copper, Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Mining Village, Swindler
+ 
+---------- Chaos: turn 14 ----------
+Chaos - plays Mining Village
+Chaos - draws Silver
+Chaos - plays Mining Village
+Chaos - draws Gold
+Chaos - plays Mining Village
+Chaos - draws Margrave
+Chaos - plays Margrave
+Chaos - draws Estate, Tactician
+Chaos - shuffles deck
+Chaos - draws Silver
+Titandrake - draws Curse
+Titandrake - discards Copper
+Titandrake - discards Mining Village
+Titandrake - discards Curse
+Chaos - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Chaos - plays Chapel
+Chaos - trashes Estate
+Chaos - plays 2 Silver, 1 Gold
+Chaos - buys Tactician
+Chaos - gains Tactician
+Chaos - buys Swindler
+Chaos - gains Swindler
+Chaos - draws Silver
+Chaos - shuffles deck
+Chaos - draws Mining Village, Tactician, Tactician, Swindler
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Duchy
+Titandrake - plays Swindler
+Chaos - reveals Margrave
+Chaos - trashes Margrave
+Chaos - gains Duchy
+Titandrake - draws Mining Village, Masquerade, Silver, Swindler, Silver
+ 
+---------- Chaos: turn 15 ----------
+Chaos - plays Mining Village
+Chaos - draws Mining Village
+Chaos - plays Mining Village
+Chaos - draws Silver
+Chaos - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Silver
+Chaos - plays Tactician
+Chaos - discards: Silver, Tactician, Silver
+Chaos - draws Mining Village, Chapel, Swindler, Silver, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Curse
+Titandrake - plays Masquerade
+Titandrake - draws Mining Village, Silver
+Titandrake - passes Curse
+Chaos - passes Chapel
+Titandrake - trashes Chapel
+Titandrake - plays Mining Village
+Titandrake - draws Duchy
+Titandrake - plays Swindler
+Chaos - shuffles deck
+Chaos - reveals Silver
+Chaos - trashes Silver
+Chaos - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Mining Village, Copper, Curse
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Mining Village
+ 
+---------- Chaos: turn 16 ----------
+Chaos - duration Tactician
+Chaos - draws Silver, Mining Village, Swindler, Mining Village, Tactician
+Chaos - plays Mining Village
+Chaos - draws Duchy
+Chaos - plays Mining Village
+Chaos - shuffles deck
+Chaos - draws Silver
+Chaos - plays Mining Village
+Chaos - plays Swindler
+Titandrake - reveals Mining Village
+Titandrake - trashes Mining Village
+Titandrake - gains Mining Village
+Chaos - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Chaos - plays 3 Silver, 1 Gold
+Chaos - buys Margrave
+Chaos - gains Margrave
+Chaos - buys Province
+Chaos - gains Province
+Chaos - shuffles deck
+Chaos - draws Mining Village, Silver, Mining Village, Gold, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Margrave, Silver, Swindler, Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+ 
+---------- Chaos: turn 17 ----------
+Chaos - plays Mining Village
+Chaos - draws Duchy
+Chaos - plays Mining Village
+Chaos - draws Margrave
+Chaos - plays Margrave
+Chaos - draws Tactician, Tactician, Swindler
+Titandrake - draws Mining Village
+Titandrake - discards Silver
+Titandrake - discards Duchy
+Titandrake - discards Masquerade
+Chaos - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+Chaos - plays Tactician
+Chaos - discards: Silver, Gold, Silver, Duchy, Tactician
+Chaos - draws Silver, Swindler, Curse, Province, Mining Village
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Margrave
+Titandrake - draws Silver, Curse, Silver
+Chaos - shuffles deck
+Chaos - draws Gold
+Chaos - discards Province
+Chaos - discards Curse
+Chaos - discards Silver
+Titandrake - plays Swindler
+Chaos - reveals Mining Village
+Chaos - trashes Mining Village
+Chaos - gains Mining Village
+Titandrake - plays 3 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Margrave, Mining Village, Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Margrave, Silver
+ 
+---------- Chaos: turn 18 ----------
+Chaos - duration Tactician
+Chaos - draws Swindler, Silver, Margrave, Mining Village, Silver
+Chaos - plays Mining Village
+Chaos - draws Tactician
+Chaos - plays Margrave
+Chaos - draws Duchy
+Chaos - shuffles deck
+Chaos - draws Silver, Curse
+Titandrake - draws Torturer
+Titandrake - discards Mining Village
+Titandrake - discards Margrave
+Titandrake - discards Torturer
+Chaos - plays Mining Village
+Chaos - draws Province
+Chaos - plays Swindler
+Titandrake - reveals Scheme
+Titandrake - trashes Scheme
+Titandrake - gains Silver
+Chaos - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Chaos - plays 3 Silver, 1 Gold
+Chaos - buys Mining Village
+Chaos - gains Mining Village
+Chaos - buys Masquerade
+Chaos - gains Masquerade
+Chaos - buys Gold
+Chaos - gains Gold
+Chaos - draws Mining Village
+Chaos - shuffles deck
+Chaos - draws Mining Village, Curse, Swindler, Masquerade
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Curse
+Titandrake - plays Margrave
+Titandrake - draws Silver, Swindler, Silver
+Chaos - draws Tactician
+Chaos - discards Mining Village
+Chaos - discards Curse
+Chaos - discards Masquerade
+Titandrake - plays Swindler
+Chaos - reveals Gold
+Chaos - trashes Gold
+Chaos - gains Gold
+Titandrake - plays 3 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Masquerade, Duchy, Curse, Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Tactician
+ 
+---------- Chaos: turn 19 ----------
+Chaos - plays Mining Village
+Chaos - draws Silver
+Chaos - plays Swindler
+Titandrake - reveals Mining Village
+Titandrake - trashes Mining Village
+Chaos - plays Tactician
+Chaos - discards Silver
+Chaos - draws Mining Village, Swindler, Duchy, Margrave, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Margrave
+Titandrake - plays Masquerade
+Titandrake - draws Silver, Silver
+Titandrake - passes Curse
+Chaos - passes Duchy
+Titandrake - plays Tactician
+Titandrake - discards: Duchy, Margrave, Silver, Silver, Duchy
+Titandrake - draws Mining Village, Swindler, Curse, Margrave, Scheme
+ 
+---------- Chaos: turn 20 ----------
+Chaos - duration Tactician
+Chaos - draws Mining Village, Silver, Tactician, Silver, Province
+Chaos - plays Mining Village
+Chaos - shuffles deck
+Chaos - draws Swindler
+Chaos - plays Mining Village
+Chaos - draws Curse
+Chaos - plays Margrave
+Chaos - draws Mining Village, Mining Village, Gold
+Titandrake - draws Silver
+Titandrake - discards Silver
+Titandrake - discards Swindler
+Titandrake - discards Scheme
+Chaos - plays Mining Village
+Chaos - draws Masquerade
+Chaos - plays Mining Village
+Chaos - draws Silver
+Chaos - plays Masquerade
+Chaos - passes Curse
+Titandrake - passes Curse
+Chaos - trashes Curse
+Chaos - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Chaos - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Chaos - plays Tactician
+Chaos - discards: Gold, Curse, Silver, Silver, Province, Gold, Silver
+Chaos - buys Scheme
+Chaos - gains Scheme
+Chaos - shuffles deck
+Chaos - draws Swindler, Province, Gold, Tactician, Swindler
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Tactician
+Titandrake - draws Torturer
+Titandrake - shuffles deck
+Titandrake - draws Scheme, Duchy, Silver, Swindler
+Titandrake - plays Margrave
+Titandrake - draws Silver, Margrave, Masquerade
+Chaos - draws Gold
+Chaos - discards Province
+Chaos - discards Gold
+Chaos - discards Gold
+Titandrake - plays Mining Village
+Titandrake - draws Duchy
+Titandrake - plays Scheme
+Titandrake - draws Mining Village
+Titandrake - plays Masquerade
+Titandrake - draws Silver, Silver
+Titandrake - passes Curse
+Chaos - passes Tactician
+Titandrake - trashes Tactician
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Torturer
+Chaos - gains Curse
+Titandrake - plays Swindler
+Chaos - reveals Silver
+Chaos - trashes Silver
+Chaos - gains Silver
+Titandrake - plays 5 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - Scheme choice: Tactician
+Titandrake - draws Tactician
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Silver, Margrave
+ 
+---------- Chaos: turn 21 ----------
+Chaos - duration Tactician
+Chaos - draws Margrave, Mining Village, Curse, Scheme, Mining Village
+Chaos - plays Mining Village
+Chaos - draws Mining Village
+Chaos - plays Scheme
+Chaos - draws Masquerade
+Chaos - plays Mining Village
+Chaos - draws Silver
+Chaos - plays Margrave
+Chaos - draws Mining Village, Silver
+Chaos - shuffles deck
+Chaos - draws Province
+Titandrake - draws Silver
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - discards Silver
+Chaos - plays Mining Village
+Chaos - draws Gold
+Chaos - plays Masquerade
+Chaos - draws Gold, Silver
+Chaos - passes Curse
+Titandrake - passes Copper
+Chaos - trashes Curse
+Chaos - plays Mining Village
+Chaos - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Chaos - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Silver
+Chaos - plays 3 Silver, 2 Gold, 1 Copper
+Chaos - buys Province
+Chaos - gains Province
+Chaos - buys Province
+Chaos - gains Province
+Chaos - Scheme choice: Tactician
+Chaos - draws Tactician
+Chaos - shuffles deck
+Chaos - draws Margrave, Copper, Mining Village, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Margrave, Curse
+Titandrake - draws Silver, Masquerade, Scheme, Torturer, Duchy
+ 
+---------- Chaos: turn 22 ----------
+Chaos - plays Mining Village
+Chaos - draws Silver
+Chaos - plays Margrave
+Chaos - draws Silver, Scheme, Mining Village
+Titandrake - draws Duchy
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - discards Masquerade
+Chaos - plays Scheme
+Chaos - draws Province
+Chaos - plays Mining Village
+Chaos - draws Province
+Chaos - plays Tactician
+Chaos - discards: Copper, Silver, Silver, Silver, Province, Province
+Chaos - Scheme choice: Margrave
+Chaos - draws Margrave, Swindler, Gold, Province, Masquerade
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - duration Tactician
+Titandrake - draws Mining Village, Scheme, Margrave, Province, Mining Village
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Margrave
+Titandrake - draws Curse, Duchy, Silver
+Chaos - draws Mining Village
+Chaos - discards Province
+Chaos - discards Gold
+Chaos - discards Swindler
+Titandrake - plays Scheme
+Titandrake - draws Duchy
+Titandrake - plays Scheme
+Titandrake - draws Masquerade
+Titandrake - plays Masquerade
+Titandrake - draws Silver, Margrave
+Titandrake - passes Curse
+Chaos - passes Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Torturer
+Titandrake - draws Silver
+Chaos - gains Curse
+Titandrake - plays Margrave
+Chaos - draws Mining Village
+Chaos - discards Curse
+Chaos - discards Curse
+Titandrake - plays 6 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - Scheme choice: Tactician
+Titandrake - Scheme choice: Mining Village
+Titandrake - draws Mining Village, Tactician
+Titandrake - shuffles deck
+Titandrake - draws Swindler, Scheme, Silver
+ 
+---------- Chaos: turn 23 ----------
+Chaos - duration Tactician
+Chaos - draws Gold, Swindler, Curse
+Chaos - shuffles deck
+Chaos - draws Swindler, Gold
+Chaos - plays Mining Village
+Chaos - draws Curse
+Chaos - plays Margrave
+Chaos - draws Province, Mining Village, Province
+Titandrake - draws Duchy
+Titandrake - discards Swindler
+Titandrake - discards Duchy
+Titandrake - discards Silver
+Chaos - plays Masquerade
+Chaos - draws Province, Mining Village
+Chaos - passes Curse
+Titandrake - passes Scheme
+Chaos - trashes Curse
+Chaos - plays Scheme
+Chaos - draws Copper
+Chaos - plays Mining Village
+Chaos - draws Silver
+Chaos - trashes Mining Village
+Chaos - plays Mining Village
+Chaos - draws Curse
+Chaos - trashes Mining Village
+Chaos - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Chaos - plays Swindler
+Titandrake - reveals Masquerade
+Titandrake - trashes Masquerade
+Titandrake - gains Silver
+Chaos - plays 2 Gold, 1 Copper, 1 Silver
+Chaos - buys Province
+Chaos - gains Province
+Chaos - buys Province
+Chaos - gains Province
+Chaos - Scheme choice: Tactician
+Chaos - draws Tactician, Silver, Silver, Scheme
+Chaos - shuffles deck
+Chaos - draws Swindler
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Mining Village, Torturer, Silver
+Chaos - draws Gold
+Chaos - discards Tactician
+Chaos - discards Silver
+Chaos - discards Silver
+Titandrake - plays Mining Village
+Titandrake - draws Margrave
+Titandrake - plays Torturer
+Titandrake - draws Duchy, Province, Scheme
+Chaos - gains Curse
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Tactician
+Titandrake - discards: Curse, Silver, Margrave, Duchy, Province, Silver
+Titandrake - Scheme choice: Mining Village
+Titandrake - draws Mining Village, Mining Village, Province, Silver, Silver
+ 
+---------- Chaos: turn 24 ----------
+Chaos - plays Scheme
+Chaos - draws Curse
+Chaos - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Margrave
+Titandrake - trashes Margrave
+Titandrake - gains Torturer
+Chaos - plays 1 Gold
+Chaos - buys Duchy
+Chaos - gains Duchy
+Chaos - Scheme choice: Swindler
+Chaos - draws Swindler, Gold, Silver, Province, Province
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - duration Tactician
+Titandrake - draws Silver, Silver, Swindler, Duchy, Silver
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Mining Village
+Titandrake - draws Scheme
+Titandrake - plays Scheme
+Titandrake - draws Duchy
+Titandrake - plays 6 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - Scheme choice: Tactician
+Titandrake - draws Tactician, Province, Torturer, Margrave, Curse
+ 
+---------- Chaos: turn 25 ----------
+Chaos - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Chaos - plays 1 Gold, 1 Silver
+Chaos - buys Duchy
+Chaos - gains Duchy
+Chaos - draws Province, Copper, Province, Masquerade, Margrave
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Province, Torturer, Margrave, Curse
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Scheme, Silver, Province, Mining Village
+ 
+---------- Chaos: turn 26 ----------
+Chaos - plays Masquerade
+Chaos - draws Swindler, Mining Village
+Chaos - passes Copper
+Titandrake - passes Scheme
+Chaos - draws Scheme, Province
+Chaos - shuffles deck
+Chaos - draws Province, Scheme, Scheme
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - duration Tactician
+Titandrake - draws Torturer, Province, Mining Village, Silver, Silver
+Titandrake - plays Torturer
+Titandrake - draws Silver, Mining Village, Duchy
+Chaos - discards Province
+Chaos - discards Province
+Titandrake - plays Mining Village
+Titandrake - draws Duchy
+Titandrake - plays Mining Village
+Titandrake - draws Torturer
+Titandrake - trashes Mining Village
+Titandrake - plays Torturer
+Titandrake - draws Swindler, Duchy, Margrave
+Titandrake - plays Margrave
+Titandrake - draws Silver, Silver, Curse
+Chaos - draws Gold
+Chaos - discards Scheme
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - trashes Mining Village
+Titandrake - plays 7 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Tactician, Duchy, Province, Mining Village, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Torturer, 1 Tactician, 1 Mining Village, 1 Margrave, 1 Swindler, 7 Silver, 1 Copper, 6 Duchy, 3 Province, 1 Curse
+Titandrake - total victory points: 35
+Titandrake - turns: 26
+ 
+Chaos - cards: 3 Scheme, 2 Swindler, 1 Masquerade, 1 Tactician, 1 Margrave, 1 Mining Village, 3 Silver, 2 Gold, 5 Province, 2 Duchy, 2 Curse
+Chaos - total victory points: 34
+Chaos - turns: 26
+ 
+1st place: Titandrake
+2nd place: Chaos
+ 

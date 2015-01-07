@@ -1,0 +1,541 @@
+------------ Game Setup ------------
+Supply cards: Great Hall, Tunnel, Bridge, Fortress, Procession, Band of Misfits, Mountebank, Stables, Altar, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+silverspawn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn - shuffles deck
+Titandrake - shuffles deck
+silverspawn - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 1 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Silver
+silverspawn - gains Silver
+silverspawn - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- silverspawn: turn 2 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Silver
+silverspawn - gains Silver
+silverspawn - shuffles deck
+silverspawn - draws Copper, Silver, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 3 ----------
+silverspawn - plays 2 Copper, 2 Silver
+silverspawn - buys Altar
+silverspawn - gains Altar
+silverspawn - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Copper, Estate, Copper, Estate, Bridge
+ 
+---------- silverspawn: turn 4 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Great Hall
+silverspawn - gains Great Hall
+silverspawn - draws Copper, Copper
+silverspawn - shuffles deck
+silverspawn - draws Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Fortress, Copper
+ 
+---------- silverspawn: turn 5 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Great Hall
+silverspawn - gains Great Hall
+silverspawn - draws Silver, Altar, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Copper, Copper, Estate, Procession
+ 
+---------- silverspawn: turn 6 ----------
+silverspawn - plays Altar
+silverspawn - trashes Copper
+silverspawn - gains Stables
+silverspawn - plays 2 Silver, 1 Copper
+silverspawn - buys Mountebank
+silverspawn - gains Mountebank
+silverspawn - draws Copper, Great Hall, Estate, Copper
+silverspawn - shuffles deck
+silverspawn - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Bridge, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- silverspawn: turn 7 ----------
+silverspawn - plays Great Hall
+silverspawn - draws Copper
+silverspawn - plays 4 Copper
+silverspawn - buys Procession
+silverspawn - gains Procession
+silverspawn - draws Mountebank, Estate, Copper, Silver, Stables
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - draws Great Hall, Estate, Copper, Procession, Fortress
+ 
+---------- silverspawn: turn 8 ----------
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Copper, Silver, Estate
+silverspawn - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+silverspawn - plays 2 Silver, 1 Copper
+silverspawn - buys Fortress
+silverspawn - gains Fortress
+silverspawn - draws Great Hall, Altar
+silverspawn - shuffles deck
+silverspawn - draws Procession, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Procession
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - trashes Fortress
+Titandrake - gains Band of Misfits
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Great Hall
+Titandrake - draws Mountebank
+Titandrake - plays Mountebank
+silverspawn - gains Curse
+silverspawn - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Great Hall, Bridge
+ 
+---------- silverspawn: turn 9 ----------
+silverspawn - plays Procession
+silverspawn - plays Great Hall
+silverspawn - draws Estate
+silverspawn - plays Great Hall
+silverspawn - draws Copper
+silverspawn - trashes Great Hall
+silverspawn - gains Procession
+silverspawn - plays Altar
+silverspawn - trashes Estate
+silverspawn - gains Stables
+silverspawn - plays 2 Copper, 1 Silver
+silverspawn - buys Fortress
+silverspawn - gains Fortress
+silverspawn - draws Copper, Mountebank, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Band of Misfits
+Titandrake - plays Band of Misfits
+Titandrake - chooses Procession
+Titandrake - plays Procession
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - trashes Bridge
+Titandrake - gains Band of Misfits
+Titandrake - plays 3 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Copper, Copper, Estate, Copper, Mountebank
+ 
+---------- silverspawn: turn 10 ----------
+silverspawn - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+silverspawn - plays 2 Copper, 1 Silver
+silverspawn - buys Procession
+silverspawn - gains Procession
+silverspawn - draws Great Hall, Copper, Copper, Estate, Fortress
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mountebank
+silverspawn - gains Curse
+silverspawn - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Band of Misfits
+Titandrake - gains Band of Misfits
+Titandrake - draws Procession, Estate, Altar, Estate, Curse
+ 
+---------- silverspawn: turn 11 ----------
+silverspawn - plays Great Hall
+silverspawn - draws Stables
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper, Altar
+silverspawn - plays Fortress
+silverspawn - draws Copper
+silverspawn - plays Altar
+silverspawn - trashes Estate
+silverspawn - gains Fortress
+silverspawn - plays 4 Copper
+silverspawn - buys Procession
+silverspawn - gains Procession
+silverspawn - draws Copper, Copper, Procession, Curse, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Altar
+Titandrake - trashes Curse
+Titandrake - gains Duchy
+Titandrake - draws Stables, Copper, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- silverspawn: turn 12 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Great Hall
+silverspawn - gains Great Hall
+silverspawn - draws Stables, Fortress, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Band of Misfits, Estate, Copper
+Titandrake - plays Band of Misfits
+Titandrake - chooses Fortress
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Band of Misfits
+Titandrake - gains Band of Misfits
+Titandrake - draws Curse, Duchy, Estate, Great Hall, Copper
+ 
+---------- silverspawn: turn 13 ----------
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Procession, Mountebank, Procession
+silverspawn - plays Procession
+silverspawn - plays Fortress
+silverspawn - draws Silver
+silverspawn - plays Fortress
+silverspawn - draws Curse
+silverspawn - trashes Fortress
+silverspawn - gains Stables
+silverspawn - plays Procession
+silverspawn - plays Fortress
+silverspawn - shuffles deck
+silverspawn - draws Stables
+silverspawn - plays Fortress
+silverspawn - draws Procession
+silverspawn - trashes Fortress
+silverspawn - gains Stables
+silverspawn - plays Procession
+silverspawn - plays Fortress
+silverspawn - draws Great Hall
+silverspawn - plays Fortress
+silverspawn - draws Copper
+silverspawn - trashes Fortress
+silverspawn - gains Stables
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Fortress, Copper, Copper
+silverspawn - plays Fortress
+silverspawn - draws Copper
+silverspawn - plays Great Hall
+silverspawn - draws Copper
+silverspawn - plays Mountebank
+Titandrake - discards Curse
+silverspawn - plays Fortress
+silverspawn - draws Fortress
+silverspawn - plays Fortress
+silverspawn - draws Stables
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Curse, Copper, Altar
+silverspawn - plays Altar
+silverspawn - trashes Curse
+silverspawn - gains Fortress
+silverspawn - plays 4 Copper, 2 Silver
+silverspawn - buys Altar
+silverspawn - gains Altar
+silverspawn - draws Procession, Great Hall, Copper, Copper
+silverspawn - shuffles deck
+silverspawn - draws Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - draws Mountebank, Great Hall, Fortress, Altar, Band of Misfits
+ 
+---------- silverspawn: turn 14 ----------
+silverspawn - plays Procession
+silverspawn - plays Great Hall
+silverspawn - draws Copper
+silverspawn - plays Great Hall
+silverspawn - draws Silver
+silverspawn - trashes Great Hall
+silverspawn - gains Procession
+silverspawn - plays 3 Copper, 1 Silver
+silverspawn - buys Procession
+silverspawn - gains Procession
+silverspawn - draws Stables, Fortress, Altar, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Band of Misfits
+Titandrake - chooses Procession
+Titandrake - plays Procession
+Titandrake - plays Fortress
+Titandrake - draws Procession
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - trashes Fortress
+Titandrake - gains Stables
+Titandrake - plays Procession
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Band of Misfits
+Titandrake - trashes Fortress
+Titandrake - gains Stables
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Band of Misfits
+Titandrake - chooses Procession
+Titandrake - plays Procession
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - trashes Fortress
+Titandrake - gains Stables
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Fortress
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Fortress
+Titandrake - draws Stables
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Band of Misfits, Estate
+Titandrake - plays Band of Misfits
+Titandrake - chooses Procession
+Titandrake - plays Procession
+Titandrake - plays Mountebank
+silverspawn - gains Curse
+silverspawn - gains Copper
+Titandrake - plays Mountebank
+silverspawn - gains Curse
+silverspawn - gains Copper
+Titandrake - trashes Mountebank
+Titandrake - gains Goons
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Band of Misfits
+Titandrake - plays 4 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Stables, Copper, Duchy, Band of Misfits
+ 
+---------- silverspawn: turn 15 ----------
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Copper, Procession, Stables
+silverspawn - plays Procession
+silverspawn - plays Fortress
+silverspawn - draws Stables
+silverspawn - plays Fortress
+silverspawn - draws Copper
+silverspawn - trashes Fortress
+silverspawn - gains Stables
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Fortress, Curse, Silver
+silverspawn - plays Fortress
+silverspawn - draws Mountebank
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Stables, Stables, Fortress
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Fortress, Procession, Great Hall
+silverspawn - plays Procession
+silverspawn - plays Fortress
+silverspawn - draws Altar
+silverspawn - plays Fortress
+silverspawn - draws Copper
+silverspawn - trashes Fortress
+silverspawn - gains Band of Misfits
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Procession
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper
+silverspawn - plays Procession
+silverspawn - plays Fortress
+silverspawn - draws Copper
+silverspawn - plays Fortress
+silverspawn - draws Silver
+silverspawn - trashes Fortress
+silverspawn - gains Band of Misfits
+silverspawn - plays Fortress
+silverspawn - draws Copper
+silverspawn - plays Fortress
+silverspawn - draws Band of Misfits
+silverspawn - plays Band of Misfits
+silverspawn - chooses Procession
+silverspawn - plays Procession
+silverspawn - plays Fortress
+silverspawn - draws Curse
+silverspawn - plays Fortress
+silverspawn - draws Procession
+silverspawn - trashes Fortress
+silverspawn - gains Band of Misfits
+silverspawn - plays Procession
+silverspawn - plays Fortress
+silverspawn - draws Stables
+silverspawn - plays Fortress
+silverspawn - draws Procession
+silverspawn - trashes Fortress
+silverspawn - gains Band of Misfits
+silverspawn - plays Procession
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Copper, Copper, Copper
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Procession, Estate, Copper
+silverspawn - trashes Stables
+silverspawn - gains Goons
+silverspawn - plays Procession
+silverspawn - plays Fortress
+silverspawn - draws Copper
+silverspawn - plays Fortress
+silverspawn - draws Copper
+silverspawn - trashes Fortress
+silverspawn - gains Band of Misfits
+silverspawn - plays Great Hall
+silverspawn - draws Curse
+silverspawn - plays Altar
+silverspawn - trashes Curse
+silverspawn - gains Duchy
+silverspawn - plays Altar
+silverspawn - trashes Curse
+silverspawn - gains Duchy
+silverspawn - plays Mountebank
+Titandrake - discards Curse
+silverspawn - plays 8 Copper, 2 Silver
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - shuffles deck
+silverspawn - draws Procession, Silver, Procession, Duchy, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Band of Misfits
+Titandrake - chooses Procession
+Titandrake - plays Procession
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Stables, Estate, Copper
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Stables, Silver
+Titandrake - trashes Stables
+Titandrake - gains Altar
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Great Hall, Copper
+Titandrake - shuffles deck
+Titandrake - draws Procession
+Titandrake - plays Procession
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Band of Misfits, Province
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Altar, Curse, Stables
+Titandrake - trashes Stables
+Titandrake - gains Altar
+Titandrake - plays Band of Misfits
+Titandrake - chooses Procession
+Titandrake - plays Procession
+Titandrake - plays Stables
+Titandrake - discards Silver
+Titandrake - draws Fortress, Copper, Goons
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Fortress, Estate, Copper
+Titandrake - trashes Stables
+Titandrake - gains Altar
+Titandrake - plays Fortress
+Titandrake - draws Band of Misfits
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Band of Misfits
+Titandrake - chooses Procession
+Titandrake - plays Procession
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Fortress
+Titandrake - draws Altar
+Titandrake - trashes Fortress
+Titandrake - gains Mountebank
+Titandrake - plays Fortress
+Titandrake - draws Band of Misfits
+Titandrake - plays Goons
+silverspawn - discards Procession
+silverspawn - discards Procession
+Titandrake - plays Band of Misfits
+Titandrake - chooses Procession
+Titandrake - plays Procession
+Titandrake - plays Altar
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Altar, 1 Great Hall, 1 Mountebank, 1 Fortress, 1 Band of Misfits, 9 Copper, 1 Silver, 2 Estate, 1 Duchy, 1 Province, 1 Curse
+Titandrake - victory point chips: 0
+Titandrake - total victory points: 11
+Titandrake - turns: 14
+ 
+silverspawn - resigned
+silverspawn - cards: 6 Procession, 5 Band of Misfits, 5 Stables, 4 Fortress, 2 Altar, 1 Great Hall, 10 Copper, 1 Mountebank, 1 Goons, 2 Silver, 2 Duchy, 1 Estate, 1 Province, 1 Curse
+silverspawn - victory point chips: 0
+silverspawn - total victory points: 13
+silverspawn - turns: 15
+ 
+1st place: Titandrake
+2nd place: silverspawn
+ 

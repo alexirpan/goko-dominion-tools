@@ -1,0 +1,114 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Pearl Diver, Island, Moneylender, Highway, Merchant Guild, Stables, Treasury, Hoard, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+silverspawn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn - shuffles deck
+Titandrake - shuffles deck
+silverspawn - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 1 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Silver
+silverspawn - gains Silver
+silverspawn - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Pawn, Copper
+ 
+---------- silverspawn: turn 2 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Moneylender
+silverspawn - gains Moneylender
+silverspawn - shuffles deck
+silverspawn - draws Copper, Copper, Estate, Estate, Moneylender
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Copper, Copper, Stables, Estate
+ 
+---------- silverspawn: turn 3 ----------
+silverspawn - plays Moneylender
+silverspawn - trashes Copper
+silverspawn - plays 1 Copper
+silverspawn - buys Island
+silverspawn - gains Island
+silverspawn - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Stables, Estate
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - draws Copper, Pawn, Copper
+Titandrake - shuffles deck
+Titandrake - draws Stables, Stables
+ 
+---------- silverspawn: turn 4 ----------
+silverspawn - plays 3 Copper, 1 Silver
+silverspawn - buys Stables
+silverspawn - gains Stables
+silverspawn - draws Copper, Copper
+silverspawn - shuffles deck
+silverspawn - draws Estate, Copper, Stables
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper, Estate
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Estate, Estate, Moneylender
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Stables, Copper, Estate
+ 
+---------- silverspawn: turn 5 ----------
+silverspawn - plays Stables
+silverspawn - discards Copper
+silverspawn - draws Estate, Estate, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Stables, 1 Moneylender, 1 Pawn, 6 Copper, 3 Estate
+Titandrake - total victory points: 3
+Titandrake - turns: 5
+ 
+silverspawn - resigned
+silverspawn - cards: 1 Island, 1 Moneylender, 6 Copper, 1 Silver, 3 Estate
+silverspawn - total victory points: 5
+silverspawn - turns: 4
+ 
+1st place: Titandrake
+2nd place: silverspawn
+ 

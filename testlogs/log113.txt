@@ -1,0 +1,328 @@
+------------ Game Setup ------------
+Supply cards: Squire, Oasis, Village, Coppersmith, Island, Plaza, Scavenger, Taxman, Embassy, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Temron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 4 Copper
+Temron - buys Plaza
+Temron - gains Plaza
+Temron - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - shuffles deck
+Temron - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Scavenger, Silver, Copper
+ 
+---------- Temron: turn 3 ----------
+Temron - plays 4 Copper
+Temron - buys Scavenger
+Temron - gains Scavenger
+Temron - draws Estate, Silver, Estate, Plaza, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+Temron - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Scavenger, Silver, Copper
+ 
+---------- Temron: turn 4 ----------
+Temron - plays Plaza
+Temron - draws Copper
+Temron - discards Copper
+Temron - receives 1 coin token
+Temron - plays 1 Silver, 1 Copper
+Temron - buys Village
+Temron - gains Village
+Temron - draws Copper
+Temron - shuffles deck
+Temron - draws Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Embassy on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Embassy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Gold, Estate
+ 
+---------- Temron: turn 5 ----------
+Temron - plays 4 Copper, 1 Silver
+Temron - buys Embassy
+Temron - gains Embassy
+Titandrake - gains Silver
+Temron - draws Copper, Estate, Estate, Scavenger, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Embassy
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 5 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Scavenger, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Temron: turn 6 ----------
+Temron - plays Scavenger
+Temron - places Embassy on top of deck
+Temron - buys Squire
+Temron - gains Squire
+Temron - draws Embassy, Estate, Plaza, Village, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Embassy on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Embassy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper
+ 
+---------- Temron: turn 7 ----------
+Temron - plays Village
+Temron - draws Silver
+Temron - plays Embassy
+Temron - shuffles deck
+Temron - draws Scavenger, Copper, Estate, Silver, Estate
+Temron - discards Estate
+Temron - discards Estate
+Temron - discards Estate
+Temron - plays Plaza
+Temron - draws Copper
+Temron - discards Silver
+Temron - receives 1 coin token
+Temron - plays Scavenger
+Temron - moves deck to discards
+Temron - places Squire on top of deck
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Gold
+Temron - gains Gold
+Temron - draws Squire
+Temron - shuffles deck
+Temron - draws Silver, Estate, Silver, Scavenger
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Embassy
+Titandrake - draws Copper, Province, Gold, Estate, Scavenger
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Silver, Copper, Copper, Silver
+ 
+---------- Temron: turn 8 ----------
+Temron - plays Squire
+Temron - takes 2 actions
+Temron - plays Scavenger
+Temron - moves deck to discards
+Temron - places Embassy on top of deck
+Temron - plays 2 Silver
+Temron - buys Gold
+Temron - gains Gold
+Temron - draws Embassy
+Temron - shuffles deck
+Temron - draws Copper, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Scavenger, Estate
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Embassy
+Temron - draws Copper, Estate, Estate, Copper, Gold
+Temron - discards Estate
+Temron - discards Estate
+Temron - discards Copper
+Temron - plays 4 Copper, 2 Gold
+Temron - buys Province
+Temron - gains Province
+Temron - draws Copper, Copper, Village, Silver, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Embassy on top of deck
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Embassy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province, Gold, Estate
+ 
+---------- Temron: turn 10 ----------
+Temron - plays Village
+Temron - draws Plaza
+Temron - plays Plaza
+Temron - draws Scavenger
+Temron - plays Scavenger
+Temron - moves deck to discards
+Temron - places Embassy on top of deck
+Temron - plays 2 Copper, 2 Silver
+Temron - buys Province
+Temron - gains Province
+Temron - draws Embassy
+Temron - shuffles deck
+Temron - draws Silver, Estate, Scavenger, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Embassy
+Titandrake - draws Scavenger, Silver, Copper, Copper, Copper
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 2 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Province, Gold, Copper, Copper
+ 
+---------- Temron: turn 11 ----------
+Temron - plays Embassy
+Temron - draws Copper, Estate, Gold, Squire, Plaza
+Temron - discards Estate
+Temron - discards Estate
+Temron - discards Estate
+Temron - plays 1 Silver, 1 Copper, 1 Gold
+Temron - uses 2 coin tokens
+Temron - buys Province
+Temron - gains Province
+Temron - draws Gold, Copper, Province, Province, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Copper, Estate, Estate, Gold
+ 
+---------- Temron: turn 12 ----------
+Temron - plays 1 Gold, 1 Copper, 1 Silver
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Copper, Village, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Scavenger, Province, Silver, Gold, Estate
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Village
+Temron - draws Copper
+Temron - plays 5 Copper
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - shuffles deck
+Temron - draws Copper, Scavenger, Estate, Province, Squire
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Embassy on top of deck
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Embassy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Estate, Silver
+ 
+---------- Temron: turn 14 ----------
+Temron - plays Squire
+Temron - takes 2 actions
+Temron - plays Scavenger
+Temron - moves deck to discards
+Temron - places Embassy on top of deck
+Temron - plays 1 Copper
+Temron - buys Island
+Temron - gains Island
+Temron - draws Embassy
+Temron - shuffles deck
+Temron - draws Duchy, Estate, Estate, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Embassy
+Titandrake - draws Copper, Duchy, Duchy, Gold, Copper
+Titandrake - discards Estate
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - plays 3 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Province, Copper, Duchy, Province
+ 
+---------- Temron: turn 15 ----------
+Temron - plays Embassy
+Temron - draws Copper, Copper, Copper, Copper, Gold
+Temron - discards Province
+Temron - discards Estate
+Temron - discards Estate
+Temron - plays 4 Copper, 1 Gold
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Silver, Copper, Gold, Silver, Plaza
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Scavenger, Silver, Estate, Gold
+ 
+---------- Temron: turn 16 ----------
+Temron - plays 2 Silver, 1 Copper, 1 Gold
+Temron - buys Province
+Temron - gains Province
+Temron - draws Island, Copper, Estate, Duchy, Scavenger
+ 
+------------ Game Over ------------
+Temron - cards: 1 Island, 1 Scavenger, 1 Embassy, 1 Plaza, 1 Squire, 1 Village, 7 Copper, 2 Gold, 2 Silver, 4 Province, 3 Estate, 3 Duchy
+Temron - total victory points: 38
+Temron - turns: 16
+ 
+Titandrake - cards: 1 Scavenger, 1 Embassy, 1 Squire, 7 Copper, 4 Gold, 2 Silver, 4 Province, 3 Estate, 3 Duchy
+Titandrake - total victory points: 36
+Titandrake - turns: 15
+ 
+1st place: Temron
+2nd place: Titandrake
+ 

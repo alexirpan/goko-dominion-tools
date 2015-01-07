@@ -1,0 +1,1027 @@
+------------ Game Setup ------------
+Supply cards: Ambassador, Farming Village, Mining Village, Silk Road, Spy, Library, Market, Mine, Rabble, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+HiveMindEmulator - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HiveMindEmulator - shuffles deck
+Titandrake - shuffles deck
+HiveMindEmulator - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- HiveMindEmulator: turn 1 ----------
+HiveMindEmulator - plays 3 Copper
+HiveMindEmulator - buys Ambassador
+HiveMindEmulator - gains Ambassador
+HiveMindEmulator - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Ambassador, Estate, Farming Village
+ 
+---------- HiveMindEmulator: turn 2 ----------
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- HiveMindEmulator: turn 3 ----------
+HiveMindEmulator - plays 4 Copper
+HiveMindEmulator - buys Ambassador
+HiveMindEmulator - gains Ambassador
+HiveMindEmulator - draws Estate, Ambassador, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Ambassador, Copper
+ 
+---------- HiveMindEmulator: turn 4 ----------
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - draws Copper, Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Ambassador, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - draws Estate, Farming Village, Copper, Estate, Estate
+ 
+---------- HiveMindEmulator: turn 5 ----------
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Farming Village
+HiveMindEmulator - gains Farming Village
+HiveMindEmulator - draws Ambassador, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Ambassador
+Titandrake - places Ambassador in hand
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Ambassador, Copper, Copper, Estate
+ 
+---------- HiveMindEmulator: turn 6 ----------
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - draws Copper, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Silver, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ambassador, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ambassador
+ 
+---------- HiveMindEmulator: turn 7 ----------
+HiveMindEmulator - plays 4 Copper, 1 Silver
+HiveMindEmulator - buys Wharf
+HiveMindEmulator - gains Wharf
+HiveMindEmulator - draws Ambassador, Estate, Ambassador, Farming Village, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - draws Copper, Silver, Copper, Copper, Farming Village
+ 
+---------- HiveMindEmulator: turn 8 ----------
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - draws Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Farming Village, Estate, Silver, Ambassador
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Ambassador
+Titandrake - places Ambassador in hand
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+HiveMindEmulator - gains Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Ambassador, Estate, Copper, Copper
+ 
+---------- HiveMindEmulator: turn 9 ----------
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Wharf
+HiveMindEmulator - places Wharf in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Copper, Copper
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - plays 3 Copper, 1 Silver
+HiveMindEmulator - buys Wharf
+HiveMindEmulator - gains Wharf
+HiveMindEmulator - draws Estate, Copper, Copper, Ambassador
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Copper, Ambassador, Copper, Estate
+ 
+---------- HiveMindEmulator: turn 10 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Farming Village, Copper
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Farming Village
+HiveMindEmulator - gains Farming Village
+HiveMindEmulator - draws Wharf, Copper, Ambassador, Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Wharf
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - draws Copper, Ambassador, Wharf, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- HiveMindEmulator: turn 11 ----------
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - draws Silver, Farming Village, Ambassador, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Wharf
+Titandrake - draws Ambassador, Farming Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Estate, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- HiveMindEmulator: turn 12 ----------
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Farming Village
+HiveMindEmulator - gains Farming Village
+HiveMindEmulator - draws Farming Village, Estate
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Ambassador, Farming Village, Farming Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Wharf
+Titandrake - draws Farming Village, Ambassador
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Farming Village, Ambassador, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Wharf
+ 
+---------- HiveMindEmulator: turn 13 ----------
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Wharf
+HiveMindEmulator - places Wharf in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Copper, Copper
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Ambassador
+HiveMindEmulator - places Ambassador in hand
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - draws Silver, Wharf
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Farming Village, Estate, Ambassador
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Ambassador
+Titandrake - places Ambassador in hand
+Titandrake - plays Wharf
+Titandrake - draws Farming Village, Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Wharf
+Titandrake - places Wharf in hand
+Titandrake - plays Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ambassador, Ambassador, Copper
+ 
+---------- HiveMindEmulator: turn 14 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Copper, Ambassador
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Farming Village
+HiveMindEmulator - places Farming Village in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Farming Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+Titandrake - gains Estate
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - plays 2 Copper, 1 Silver
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Wharf, Farming Village, Silver, Copper, Ambassador
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Wharf
+Titandrake - draws Farming Village, Farming Village
+Titandrake - duration Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Mining Village
+Titandrake - places Mining Village in hand
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Estate, Estate
+Titandrake - discards: Estate, Estate, Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+HiveMindEmulator - gains Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Copper, Estate, Farming Village, Copper
+ 
+---------- HiveMindEmulator: turn 15 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Farming Village, Ambassador
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Silver
+HiveMindEmulator - places Silver in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Copper, Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - plays 2 Silver, 1 Copper
+HiveMindEmulator - buys Mine
+HiveMindEmulator - gains Mine
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Silver, Copper, Ambassador, Mine, Farming Village
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Wharf
+Titandrake - places Wharf in hand
+Titandrake - plays Wharf
+Titandrake - draws Estate, Wharf
+Titandrake - plays Farming Village
+Titandrake - reveals Ambassador
+Titandrake - places Ambassador in hand
+Titandrake - plays Wharf
+Titandrake - draws Mining Village, Silver
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Wharf, Ambassador, Estate
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Copper
+ 
+---------- HiveMindEmulator: turn 16 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Farming Village, Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Wharf
+HiveMindEmulator - places Wharf in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Ambassador, Silver
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - discards Estate
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - discards Estate
+HiveMindEmulator - plays Mine
+HiveMindEmulator - trashes Silver
+HiveMindEmulator - gains Gold
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+Titandrake - gains Copper
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+Titandrake - gains Copper
+HiveMindEmulator - plays 1 Silver, 1 Gold, 1 Copper
+HiveMindEmulator - buys Mining Village
+HiveMindEmulator - gains Mining Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Farming Village, Estate, Ambassador, Mining Village, Ambassador
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Mining Village
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Wharf
+Titandrake - draws Silver, Wharf
+Titandrake - plays Mining Village
+Titandrake - draws Ambassador
+Titandrake - plays Wharf
+Titandrake - draws Farming Village
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mine
+Titandrake - gains Mine
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Estate, Copper, Ambassador, Mining Village
+ 
+---------- HiveMindEmulator: turn 17 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Farming Village, Gold
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Silver
+HiveMindEmulator - places Silver in hand
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Wharf
+HiveMindEmulator - places Wharf in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Farming Village, Copper
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Mine
+HiveMindEmulator - places Mine in hand
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Mine
+HiveMindEmulator - trashes Silver
+HiveMindEmulator - gains Gold
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - plays 2 Gold, 1 Copper
+HiveMindEmulator - buys Wharf
+HiveMindEmulator - gains Wharf
+HiveMindEmulator - draws Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Mine, Wharf, Ambassador, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Copper
+Titandrake - duration Wharf
+Titandrake - draws Farming Village, Mine
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Wharf
+Titandrake - draws Silver, Ambassador
+Titandrake - plays Farming Village
+Titandrake - reveals Wharf
+Titandrake - places Wharf in hand
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+Titandrake - plays Mining Village
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - plays Mine
+Titandrake - trashes Silver
+Titandrake - gains Gold
+Titandrake - plays Gold
+Titandrake - plays Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Mining Village, Copper, Gold, Wharf
+ 
+---------- HiveMindEmulator: turn 18 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Farming Village, Mining Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Farming Village
+HiveMindEmulator - places Farming Village in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Ambassador, Wharf
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Gold
+HiveMindEmulator - places Gold in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Copper, Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - discards Estate
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate
+HiveMindEmulator - plays Mine
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - gains Silver
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+Titandrake - gains Estate
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - plays 2 Gold, 1 Copper, 1 Silver
+HiveMindEmulator - buys Wharf
+HiveMindEmulator - gains Wharf
+HiveMindEmulator - buys Mining Village
+HiveMindEmulator - gains Mining Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Ambassador, Farming Village, Mining Village, Wharf, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Wharf
+Titandrake - draws Ambassador, Mine
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Ambassador
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Wharf
+Titandrake - draws Farming Village, Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate
+Titandrake - plays Mine
+Titandrake - trashes Copper
+Titandrake - gains Silver
+Titandrake - plays Mining Village
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Mining Village, Copper, Wharf
+ 
+---------- HiveMindEmulator: turn 19 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Gold, Mining Village
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Farming Village, Ambassador
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Silver
+HiveMindEmulator - places Silver in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Wharf, Mine
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - places Copper in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Farming Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - discards Estate
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate
+HiveMindEmulator - plays Mine
+HiveMindEmulator - trashes Silver
+HiveMindEmulator - gains Gold
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+Titandrake - gains Estate
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - plays 3 Gold, 1 Copper
+HiveMindEmulator - buys Wharf
+HiveMindEmulator - gains Wharf
+HiveMindEmulator - buys Rabble
+HiveMindEmulator - gains Rabble
+HiveMindEmulator - buys Copper
+HiveMindEmulator - gains Copper
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Mining Village, Wharf, Ambassador, Copper, Gold
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Silver
+Titandrake - duration Wharf
+Titandrake - draws Mining Village, Mine
+Titandrake - plays Mining Village
+Titandrake - draws Ambassador
+Titandrake - plays Wharf
+Titandrake - draws Ambassador, Copper
+Titandrake - plays Mining Village
+Titandrake - draws Gold
+Titandrake - plays Wharf
+Titandrake - draws Farming Village, Wharf
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Estate
+Titandrake - discards: Estate, Estate
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - plays Mine
+Titandrake - trashes Silver
+Titandrake - gains Gold
+Titandrake - plays 3 Copper, 2 Gold, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Mine, Mining Village, Silver, Wharf
+ 
+---------- HiveMindEmulator: turn 20 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Farming Village, Farming Village
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Copper, Farming Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Gold
+HiveMindEmulator - places Gold in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Mining Village, Wharf
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Gold
+HiveMindEmulator - places Gold in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Rabble, Wharf
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Ambassador
+HiveMindEmulator - places Ambassador in hand
+HiveMindEmulator - plays Rabble
+HiveMindEmulator - draws Mine
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate
+Titandrake - reveals Market, Farming Village, Farming Village
+Titandrake - discards: Market, Farming Village, Farming Village
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - plays Mine
+HiveMindEmulator - trashes Copper
+HiveMindEmulator - gains Silver
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - plays 3 Gold, 1 Copper, 1 Silver
+HiveMindEmulator - buys Mining Village
+HiveMindEmulator - gains Mining Village
+HiveMindEmulator - buys Mining Village
+HiveMindEmulator - gains Mining Village
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Mine, Mining Village, Rabble, Farming Village, Ambassador
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - duration Wharf
+Titandrake - draws Gold, Copper
+Titandrake - duration Wharf
+Titandrake - draws Gold, Ambassador
+Titandrake - duration Wharf
+Titandrake - draws Ambassador, Copper
+Titandrake - plays Mining Village
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - draws Mining Village, Copper
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Wharf
+Titandrake - draws Market, Farming Village
+Titandrake - plays Market
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - plays Farming Village
+Titandrake - plays Mine
+Titandrake - trashes Silver
+Titandrake - gains Gold
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+HiveMindEmulator - gains Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+HiveMindEmulator - gains Estate
+Titandrake - plays 4 Gold, 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Mine, Copper, Mining Village, Mining Village
+ 
+---------- HiveMindEmulator: turn 21 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Copper, Wharf
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Silver, Mining Village
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Ambassador, Gold
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Mining Village
+HiveMindEmulator - places Mining Village in hand
+HiveMindEmulator - plays Rabble
+HiveMindEmulator - draws Farming Village, Gold, Mining Village
+Titandrake - reveals Wharf, Wharf, Gold
+Titandrake - discards: Wharf, Wharf, Gold
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Gold
+HiveMindEmulator - places Gold in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Farming Village, Wharf
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Silver
+HiveMindEmulator - places Silver in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Estate, Estate
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - plays Mine
+HiveMindEmulator - trashes Silver
+HiveMindEmulator - gains Gold
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+Titandrake - gains Estate
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Estate
+HiveMindEmulator - returns Estate to the Supply
+HiveMindEmulator - returns Estate to the Supply
+Titandrake - gains Estate
+HiveMindEmulator - plays 4 Gold, 1 Copper, 1 Silver
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - buys Gold
+HiveMindEmulator - gains Gold
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Gold, Copper, Rabble, Gold, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - duration Wharf
+Titandrake - draws Market, Ambassador
+Titandrake - duration Wharf
+Titandrake - draws Gold, Province
+Titandrake - plays Market
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Mining Village
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - draws Gold, Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Mine
+Titandrake - trashes Copper
+Titandrake - gains Silver
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+HiveMindEmulator - gains Copper
+Titandrake - plays 3 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - shuffles deck
+Titandrake - draws Gold, Mining Village, Estate, Ambassador, Province
+ 
+---------- HiveMindEmulator: turn 22 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Farming Village, Farming Village
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Mining Village, Province
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Wharf
+HiveMindEmulator - places Wharf in hand
+HiveMindEmulator - plays Rabble
+HiveMindEmulator - draws Mine, Mining Village, Farming Village
+Titandrake - reveals Wharf, Mine, Mining Village
+Titandrake - discards: Wharf, Mine, Mining Village
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Mining Village
+HiveMindEmulator - places Mining Village in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Ambassador, Gold
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Wharf
+HiveMindEmulator - places Wharf in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Mining Village, Ambassador
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Gold
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Wharf
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Copper
+HiveMindEmulator - plays Mine
+HiveMindEmulator - trashes Silver
+HiveMindEmulator - gains Gold
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+Titandrake - gains Copper
+HiveMindEmulator - plays Ambassador
+HiveMindEmulator - reveals Copper
+HiveMindEmulator - returns Copper to the Supply
+HiveMindEmulator - returns Copper to the Supply
+Titandrake - gains Copper
+HiveMindEmulator - plays 6 Gold, 1 Copper
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - buys Silver
+HiveMindEmulator - gains Silver
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Mining Village, Farming Village, Gold, Province, Mine
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - duration Wharf
+Titandrake - draws Farming Village, Gold
+Titandrake - plays Farming Village
+Titandrake - reveals Wharf
+Titandrake - places Wharf in hand
+Titandrake - plays Wharf
+Titandrake - draws Estate, Province
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - trashes Mining Village
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Farming Village, Gold, Gold, Wharf, Wharf
+ 
+---------- HiveMindEmulator: turn 23 ----------
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Farming Village, Mining Village
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Mining Village, Wharf
+HiveMindEmulator - duration Wharf
+HiveMindEmulator - draws Ambassador, Gold
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Gold
+HiveMindEmulator - places Gold in hand
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Gold, Gold
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Gold
+HiveMindEmulator - places Gold in hand
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Copper
+HiveMindEmulator - trashes Mining Village
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Province
+HiveMindEmulator - trashes Mining Village
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - draws Wharf
+HiveMindEmulator - trashes Mining Village
+HiveMindEmulator - plays Wharf
+HiveMindEmulator - draws Farming Village, Ambassador
+HiveMindEmulator - plays Farming Village
+HiveMindEmulator - reveals Rabble
+HiveMindEmulator - places Rabble in hand
+HiveMindEmulator - plays Rabble
+HiveMindEmulator - draws Silver, Mining Village, Province
+Titandrake - reveals Farming Village, Market, Ambassador
+Titandrake - discards: Farming Village, Market, Ambassador
+HiveMindEmulator - plays Mining Village
+HiveMindEmulator - trashes Mining Village
+HiveMindEmulator - plays Mine
+HiveMindEmulator - trashes Silver
+HiveMindEmulator - gains Gold
+HiveMindEmulator - plays 7 Gold, 1 Copper
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - buys Province
+HiveMindEmulator - gains Province
+HiveMindEmulator - buys Duchy
+HiveMindEmulator - gains Duchy
+HiveMindEmulator - shuffles deck
+HiveMindEmulator - draws Gold, Province, Province, Wharf, Duchy
+ 
+------------ Game Over ------------
+HiveMindEmulator - cards: 5 Wharf, 3 Farming Village, 2 Ambassador, 1 Rabble, 1 Mine, 7 Gold, 1 Copper, 6 Province, 1 Duchy
+HiveMindEmulator - total victory points: 39
+HiveMindEmulator - turns: 23
+ 
+Titandrake - cards: 5 Wharf, 3 Farming Village, 3 Mining Village, 2 Ambassador, 1 Mine, 1 Market, 4 Gold, 2 Copper, 1 Silver, 2 Duchy, 2 Estate, 2 Province
+Titandrake - total victory points: 20
+Titandrake - turns: 23
+ 
+1st place: HiveMindEmulator
+2nd place: Titandrake
+ 

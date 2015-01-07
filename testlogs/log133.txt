@@ -1,0 +1,612 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Forager, Island, Militia, Remodel, Counting House, Mine, Soothsayer, Treasury, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+matste - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+matste - shuffles deck
+Titandrake - shuffles deck
+matste - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- matste: turn 1 ----------
+matste - plays 3 Copper
+matste - buys Forager
+matste - gains Forager
+matste - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- matste: turn 2 ----------
+matste - plays 4 Copper
+matste - buys Militia
+matste - gains Militia
+matste - shuffles deck
+matste - draws Estate, Forager, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- matste: turn 3 ----------
+matste - plays Forager
+matste - trashes Estate
+matste - plays 2 Copper
+matste - draws Copper, Copper, Copper, Copper, Militia
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Forager, Copper, Militia, Estate, Estate
+ 
+---------- matste: turn 4 ----------
+matste - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Estate
+matste - plays 4 Copper
+matste - buys Gold
+matste - gains Gold
+matste - draws Estate, Copper
+matste - shuffles deck
+matste - draws Militia, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Militia
+matste - discards Estate
+matste - discards Copper
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- matste: turn 5 ----------
+matste - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+matste - plays 2 Copper
+matste - buys Forager
+matste - gains Forager
+matste - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Copper, Silver, Forager, Militia, Copper
+ 
+---------- matste: turn 6 ----------
+matste - plays 4 Copper
+matste - buys Militia
+matste - gains Militia
+matste - draws Forager, Gold
+matste - shuffles deck
+matste - draws Copper, Forager, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Militia
+matste - discards Forager
+matste - discards Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Forager, Copper, Estate
+ 
+---------- matste: turn 7 ----------
+matste - plays Forager
+matste - trashes Estate
+matste - plays Gold
+matste - buys Silver
+matste - gains Silver
+matste - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Militia, Copper, Soothsayer, Copper, Silver
+ 
+---------- matste: turn 8 ----------
+matste - plays 4 Copper
+matste - buys Militia
+matste - gains Militia
+matste - draws Copper, Militia, Militia, Copper
+matste - shuffles deck
+matste - draws Forager
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+matste - gains Curse
+matste - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Forager, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- matste: turn 9 ----------
+matste - plays Forager
+matste - trashes Copper
+matste - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+matste - plays 2 Copper
+matste - buys Treasury
+matste - gains Treasury
+matste - draws Silver, Forager, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Copper, Estate, Forager, Soothsayer, Silver
+ 
+---------- matste: turn 10 ----------
+matste - plays Forager
+matste - trashes Copper
+matste - plays 2 Copper, 1 Silver
+matste - buys Treasury
+matste - gains Treasury
+matste - draws Estate, Copper, Gold, Militia
+matste - shuffles deck
+matste - draws Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+matste - gains Curse
+matste - draws Treasury
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - draws Gold, Forager, Copper, Militia, Copper
+ 
+---------- matste: turn 11 ----------
+matste - plays Treasury
+matste - draws Copper
+matste - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Forager
+matste - plays 2 Copper, 1 Gold, 1 Silver
+matste - buys King's Court
+matste - gains King's Court
+matste - places Treasury on top of deck
+matste - draws Treasury, Copper, Copper, Militia, Treasury
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Militia
+matste - discards Copper
+matste - discards Copper
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - shuffles deck
+Titandrake - draws Copper, Militia, Gold, Copper, Soothsayer
+ 
+---------- matste: turn 12 ----------
+matste - plays Treasury
+matste - draws Militia
+matste - plays Treasury
+matste - draws Curse
+matste - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Militia
+matste - buys Forager
+matste - gains Forager
+matste - places Treasury, Treasury on top of deck
+matste - draws Treasury, Treasury, Forager, Copper, Forager
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+matste - gains Curse
+matste - shuffles deck
+matste - draws Forager
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Silver, Forager, Copper, Forager, Silver
+ 
+---------- matste: turn 13 ----------
+matste - plays Treasury
+matste - draws King's Court
+matste - plays King's Court
+matste - plays Treasury
+matste - draws Militia
+matste - plays Treasury
+matste - draws Gold
+matste - plays Treasury
+matste - draws Estate
+matste - plays Forager
+matste - trashes Estate
+matste - plays Forager
+matste - trashes Copper
+matste - plays Militia
+Titandrake - discards Silver
+Titandrake - discards Silver
+matste - plays Gold
+matste - buys King's Court
+matste - gains King's Court
+matste - buys Remodel
+matste - gains Remodel
+matste - places Treasury, Treasury on top of deck
+matste - draws Treasury, Treasury, Copper, Copper, Militia
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - draws Copper, Forager, Remodel, Gold, Copper
+ 
+---------- matste: turn 14 ----------
+matste - plays Treasury
+matste - draws Silver
+matste - plays Treasury
+matste - draws Curse
+matste - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+matste - plays 2 Copper, 1 Silver
+matste - buys King's Court
+matste - gains King's Court
+matste - places Treasury, Treasury on top of deck
+matste - draws Treasury, Treasury, Curse, Curse, Militia
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Remodel
+Titandrake - trashes Gold
+Titandrake - gains King's Court
+Titandrake - draws Treasury, Forager
+Titandrake - shuffles deck
+Titandrake - draws Remodel, Gold, Copper
+ 
+---------- matste: turn 15 ----------
+matste - plays Treasury
+matste - draws Copper
+matste - plays Treasury
+matste - draws Copper
+matste - plays Militia
+Titandrake - discards Forager
+Titandrake - discards Copper
+matste - plays 2 Copper
+matste - buys Treasury
+matste - gains Treasury
+matste - places Treasury, Treasury on top of deck
+matste - draws Treasury, Treasury
+matste - shuffles deck
+matste - draws Curse, King's Court, Treasury
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Treasury
+Titandrake - draws Forager
+Titandrake - plays Remodel
+Titandrake - trashes Gold
+Titandrake - gains King's Court
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Silver, Militia, Forager, Gold
+ 
+---------- matste: turn 16 ----------
+matste - plays King's Court
+matste - plays Treasury
+matste - draws Curse
+matste - plays Treasury
+matste - draws Remodel
+matste - plays Treasury
+matste - draws Forager
+matste - plays Treasury
+matste - draws Forager
+matste - plays Treasury
+matste - draws Silver
+matste - plays Forager
+matste - trashes Curse
+matste - plays Forager
+matste - trashes Curse
+matste - plays Remodel
+matste - trashes Silver
+matste - gains Soothsayer
+matste - buys King's Court
+matste - gains King's Court
+matste - places Treasury, Treasury, Treasury on top of deck
+matste - draws Treasury, Treasury, Treasury, Copper, Militia
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Treasury
+Titandrake - draws Forager
+Titandrake - plays Forager
+Titandrake - trashes Silver
+Titandrake - plays Forager
+Titandrake - trashes Gold
+Titandrake - plays Militia
+matste - discards Copper
+matste - discards Treasury
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Forager, Soothsayer, Copper, Copper
+ 
+---------- matste: turn 17 ----------
+matste - plays Treasury
+matste - draws Militia
+matste - plays Treasury
+matste - draws King's Court
+matste - plays King's Court
+matste - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+matste - plays Militia
+matste - plays Militia
+matste - buys King's Court
+matste - gains King's Court
+matste - places Treasury, Treasury on top of deck
+matste - draws Treasury, Treasury, Gold, King's Court, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Treasury
+Titandrake - draws King's Court
+Titandrake - plays King's Court
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+matste - gains Curse
+matste - draws Militia
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+matste - gains Curse
+matste - draws Copper
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+matste - gains Curse
+matste - draws Copper
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Remodel, Gold
+ 
+---------- matste: turn 18 ----------
+matste - plays Treasury
+matste - draws Curse
+matste - plays King's Court
+matste - plays Treasury
+matste - draws Forager
+matste - plays Treasury
+matste - shuffles deck
+matste - draws Curse
+matste - plays Treasury
+matste - draws Forager
+matste - plays Forager
+matste - trashes Curse
+matste - plays Forager
+matste - trashes Curse
+matste - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Silver
+matste - plays 3 Copper, 1 Gold
+matste - buys King's Court
+matste - gains King's Court
+matste - buys King's Court
+matste - gains King's Court
+matste - buys Island
+matste - gains Island
+matste - draws Curse, Militia, King's Court, Forager, Soothsayer
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Treasury
+Titandrake - draws Forager
+Titandrake - plays Remodel
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Copper, King's Court, Forager, Copper
+ 
+---------- matste: turn 19 ----------
+matste - plays Forager
+matste - trashes Curse
+matste - plays King's Court
+matste - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+matste - plays Militia
+matste - plays Militia
+matste - buys Province
+matste - gains Province
+matste - draws King's Court, Treasury, Remodel, King's Court, Curse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays King's Court
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Treasury
+Titandrake - draws King's Court
+Titandrake - plays Treasury
+Titandrake - draws Gold
+Titandrake - plays King's Court
+Titandrake - plays Forager
+Titandrake - trashes Gold
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Forager
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Gold, Forager, Soothsayer, Forager, King's Court
+ 
+---------- matste: turn 20 ----------
+matste - plays King's Court
+matste - plays King's Court
+matste - plays Treasury
+matste - draws Militia
+matste - plays Treasury
+matste - draws King's Court
+matste - plays Treasury
+matste - draws Copper
+matste - plays King's Court
+matste - plays King's Court
+matste - plays Militia
+Titandrake - discards Gold
+Titandrake - discards Soothsayer
+matste - plays Militia
+matste - plays Militia
+matste - plays King's Court
+matste - plays Remodel
+matste - trashes Curse
+matste - gains Estate
+matste - plays Remodel
+matste - trashes Copper
+matste - gains Estate
+matste - plays Remodel
+matste - plays King's Court
+matste - plays King's Court
+matste - buys Province
+matste - gains Province
+matste - shuffles deck
+matste - draws Gold, King's Court, Forager, Province, King's Court
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays King's Court
+Titandrake - plays Forager
+Titandrake - trashes Forager
+Titandrake - plays Forager
+Titandrake - plays Forager
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Militia, Forager
+Titandrake - shuffles deck
+Titandrake - draws Province, Forager, King's Court
+ 
+---------- matste: turn 21 ----------
+matste - plays Forager
+matste - trashes King's Court
+matste - plays Gold
+matste - buys Duchy
+matste - gains Duchy
+matste - draws King's Court, Estate, King's Court, Treasury, Estate
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Forager
+Titandrake - trashes Forager
+Titandrake - plays King's Court
+Titandrake - plays Militia
+matste - discards Estate
+matste - discards Estate
+Titandrake - plays Militia
+Titandrake - plays Militia
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Copper, Forager, Gold, Province, Remodel
+ 
+---------- matste: turn 22 ----------
+matste - plays King's Court
+matste - plays King's Court
+matste - plays Treasury
+matste - draws Island
+matste - plays Treasury
+matste - draws Copper
+matste - plays Treasury
+matste - draws Copper
+matste - plays King's Court
+matste - plays Island
+matste - sets aside Copper
+matste - plays Island
+matste - sets aside Copper
+matste - plays Island
+matste - plays King's Court
+matste - places Treasury on top of deck
+matste - draws Treasury, King's Court, King's Court, Forager, Treasury
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Remodel
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Soothsayer, Island, King's Court, Province, Silver
+ 
+---------- matste: turn 23 ----------
+matste - plays King's Court
+matste - plays King's Court
+matste - plays Treasury
+matste - draws Militia
+matste - plays Treasury
+matste - draws Remodel
+matste - plays Treasury
+matste - draws Soothsayer
+matste - plays King's Court
+matste - plays Treasury
+matste - draws Forager
+matste - plays Treasury
+matste - draws King's Court
+matste - plays Treasury
+matste - draws Militia
+matste - plays King's Court
+matste - plays King's Court
+matste - plays Militia
+Titandrake - discards Island
+Titandrake - discards Province
+matste - plays Militia
+matste - plays Militia
+matste - plays King's Court
+matste - plays Soothsayer
+matste - gains Gold
+Titandrake - gains Curse
+Titandrake - draws King's Court
+matste - plays Soothsayer
+matste - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Treasury
+matste - plays Soothsayer
+matste - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Forager
+matste - plays King's Court
+matste - plays Militia
+Titandrake - discards Silver
+Titandrake - discards Soothsayer
+Titandrake - discards Forager
+matste - plays Militia
+matste - plays Militia
+matste - plays Remodel
+matste - trashes Forager
+matste - gains Duchy
+matste - plays Forager
+matste - buys Province
+matste - gains Province
+matste - buys Province
+matste - gains Province
+matste - draws Copper, Province, Treasury, Militia
+matste - shuffles deck
+matste - draws King's Court
+ 
+------------ Game Over ------------
+matste - cards: 6 King's Court, 3 Treasury, 3 Militia, 2 Forager, 1 Island, 1 Soothsayer, 1 Remodel, 4 Gold, 3 Copper, 4 Province, 2 Estate, 2 Duchy
+matste - total victory points: 34
+matste - turns: 23
+ 
+Titandrake - cards: 3 King's Court, 3 Forager, 2 Island, 1 Treasury, 1 Militia, 1 Remodel, 1 Soothsayer, 2 Copper, 1 Silver, 4 Province, 1 Duchy, 1 Estate, 3 Curse
+Titandrake - total victory points: 29
+Titandrake - turns: 22
+ 
+1st place: matste
+2nd place: Titandrake
+ 

@@ -1,0 +1,304 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Chancellor, Hermit, Bridge, Bureaucrat, City, Festival, Inn, Tactician, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Breezy - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Breezy - shuffles deck
+Titandrake - shuffles deck
+Breezy - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Breezy: turn 1 ----------
+Breezy - plays Copper
+Breezy - plays Copper
+Breezy - buys Chapel
+Breezy - gains Chapel
+Breezy - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Bridge
+ 
+---------- Breezy: turn 2 ----------
+Breezy - plays 4 Copper
+Breezy - buys Silver
+Breezy - gains Silver
+Breezy - shuffles deck
+Breezy - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Bridge
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Copper, Copper, Estate, Chapel, Estate
+ 
+---------- Breezy: turn 3 ----------
+Breezy - plays 3 Copper
+Breezy - buys Hermit
+Breezy - gains Hermit
+Breezy - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Estate, Copper, Copper
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Chapel, Hermit
+ 
+---------- Breezy: turn 4 ----------
+Breezy - plays 4 Copper
+Breezy - buys Bridge
+Breezy - gains Bridge
+Breezy - draws Chapel, Silver
+Breezy - shuffles deck
+Breezy - draws Bridge, Hermit, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Chapel
+Titandrake - gains Hermit
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Hermit, Copper, Copper, Bridge, Estate
+ 
+---------- Breezy: turn 5 ----------
+Breezy - plays Hermit
+Breezy - gains Hermit
+Breezy - plays 1 Silver, 1 Copper
+Breezy - buys Hermit
+Breezy - gains Hermit
+Breezy - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - shuffles deck
+Titandrake - draws Bridge, Copper, Copper, Hermit, Estate
+ 
+---------- Breezy: turn 6 ----------
+Breezy - plays 4 Copper
+Breezy - buys Bridge
+Breezy - gains Bridge
+Breezy - draws Estate, Copper, Copper, Estate
+Breezy - shuffles deck
+Breezy - draws Chapel
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Hermit, Copper, Copper, Hermit, Hermit
+ 
+---------- Breezy: turn 7 ----------
+Breezy - plays Chapel
+Breezy - trashes Copper, Copper, Estate, Estate
+Breezy - draws Hermit, Bridge, Copper, Bridge, Hermit
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper, Bridge
+Titandrake - shuffles deck
+Titandrake - draws Bridge, Madman, Hermit
+ 
+---------- Breezy: turn 8 ----------
+Breezy - plays Hermit
+Breezy - trashes Chapel
+Breezy - gains Hermit
+Breezy - trashes Hermit
+Breezy - gains Madman
+Breezy - draws Copper, Copper, Copper, Hermit, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Bridge, Hermit, Copper, Hermit, Copper
+ 
+---------- Breezy: turn 9 ----------
+Breezy - plays 3 Copper, 1 Silver
+Breezy - buys Inn
+Breezy - gains Inn
+Breezy - places Madman, Bridge, Bridge, Hermit, Hermit, Inn on top of deck
+Breezy - shuffles deck
+Breezy - draws Hermit, Bridge, Hermit, Inn, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Hermit, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Bridge, Bridge
+ 
+---------- Breezy: turn 10 ----------
+Breezy - plays Inn
+Breezy - draws Copper, Bridge
+Breezy - discards Estate
+Breezy - discards Copper
+Breezy - plays Bridge
+Breezy - plays Hermit
+Breezy - trashes Estate
+Breezy - gains Bridge
+Breezy - trashes Hermit
+Breezy - gains Madman
+Breezy - draws Madman
+Breezy - shuffles deck
+Breezy - draws Copper, Bridge, Bridge, Hermit
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Bridge, Hermit, Copper, Copper, Copper
+ 
+---------- Breezy: turn 11 ----------
+Breezy - plays Madman
+Breezy - draws Copper, Copper, Copper, Silver
+Breezy - plays Bridge
+Breezy - plays Bridge
+Breezy - plays 4 Copper, 1 Silver
+Breezy - buys Bridge
+Breezy - gains Bridge
+Breezy - buys Bridge
+Breezy - gains Bridge
+Breezy - buys Inn
+Breezy - gains Inn
+Breezy - places Bridge, Bridge, Inn on top of deck
+Breezy - shuffles deck
+Breezy - draws Hermit, Bridge, Copper, Inn, Inn
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Hermit, Madman, Hermit, Madman, Bridge
+ 
+---------- Breezy: turn 12 ----------
+Breezy - plays Inn
+Breezy - draws Madman, Bridge
+Breezy - discards Copper
+Breezy - discards Hermit
+Breezy - plays Madman
+Breezy - draws Bridge
+Breezy - shuffles deck
+Breezy - draws Hermit, Silver
+Breezy - plays Inn
+Breezy - draws Hermit, Copper
+Breezy - discards Silver
+Breezy - discards Copper
+Breezy - plays Bridge
+Breezy - plays Bridge
+Breezy - plays Hermit
+Breezy - gains City
+Breezy - plays Hermit
+Breezy - gains City
+Breezy - trashes Hermit
+Breezy - gains Madman
+Breezy - trashes Hermit
+Breezy - gains Madman
+Breezy - draws Bridge, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Madman
+Titandrake - shuffles deck
+Titandrake - draws Bridge, Copper, Hermit, Copper
+Titandrake - plays Madman
+Titandrake - draws Estate, Copper, Bridge, Madman, Copper, Bridge, Bridge
+Titandrake - plays Bridge
+Titandrake - plays Madman
+Titandrake - draws Copper
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays 5 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places City, City, Festival, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws City, City, Inn, Festival
+Titandrake - shuffles deck
+Titandrake - draws Hermit
+ 
+---------- Breezy: turn 13 ----------
+Breezy - plays Bridge
+Breezy - plays 4 Copper
+Breezy - buys Inn
+Breezy - gains Inn
+Breezy - places City, City, Madman, Madman on top of deck
+Breezy - shuffles deck
+Breezy - buys Estate
+Breezy - gains Estate
+Breezy - draws City, Bridge, City, Madman, Madman
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays City
+Titandrake - draws Copper, Province
+Titandrake - plays City
+Titandrake - draws Copper, Bridge
+Titandrake - plays Inn
+Titandrake - draws Copper, Hermit
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - plays Festival
+Titandrake - plays Bridge
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Bureaucrat
+Titandrake - gains Bureaucrat
+Titandrake - draws Hermit, Bridge, Estate, Copper, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Bridge, 3 Hermit, 2 City, 1 Bureaucrat, 1 Inn, 1 Festival, 5 Copper, 7 Estate, 1 Province
+Titandrake - total victory points: 13
+Titandrake - turns: 14
+ 
+Breezy - cards: 5 Bridge, 3 Inn, 2 City, 2 Madman, 5 Copper, 1 Silver, 1 Estate
+Breezy - total victory points: 1
+Breezy - turns: 13
+ 
+1st place: Titandrake
+2nd place: Breezy
+ 

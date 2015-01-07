@@ -1,0 +1,641 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Urchin, Armory, JackOfAllTrades, Scavenger, Catacombs, Haggler, Margrave, Treasury, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Pretty Lights - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Pretty Lights - shuffles deck
+Titandrake - shuffles deck
+Pretty Lights - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Pretty Lights: turn 1 ----------
+Pretty Lights - plays 3 Copper
+Pretty Lights - buys Urchin
+Pretty Lights - gains Urchin
+Pretty Lights - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Pretty Lights: turn 2 ----------
+Pretty Lights - plays 4 Copper
+Pretty Lights - buys Urchin
+Pretty Lights - gains Urchin
+Pretty Lights - shuffles deck
+Pretty Lights - draws Urchin, Copper, Urchin, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Pretty Lights: turn 3 ----------
+Pretty Lights - plays Urchin
+Pretty Lights - draws Copper
+Titandrake - discards Estate
+Pretty Lights - plays Urchin
+Pretty Lights - trashes Urchin
+Pretty Lights - gains Mercenary
+Pretty Lights - draws Copper
+Pretty Lights - plays 4 Copper
+Pretty Lights - buys Silver
+Pretty Lights - gains Silver
+Pretty Lights - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Urchin, Urchin, Copper, Copper, Estate
+ 
+---------- Pretty Lights: turn 4 ----------
+Pretty Lights - plays Copper
+Pretty Lights - plays Copper
+Pretty Lights - buys Crossroads
+Pretty Lights - gains Crossroads
+Pretty Lights - shuffles deck
+Pretty Lights - draws Copper, Estate, Estate, Copper, Urchin
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+Pretty Lights - discards Estate
+Titandrake - plays Urchin
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Crossroads, Copper
+ 
+---------- Pretty Lights: turn 5 ----------
+Pretty Lights - plays Urchin
+Pretty Lights - draws Copper
+Titandrake - discards Copper
+Pretty Lights - plays 3 Copper
+Pretty Lights - buys Silver
+Pretty Lights - gains Silver
+Pretty Lights - draws Copper, Copper, Copper, Estate, Mercenary
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Estate, Copper
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper, Urchin, Mercenary, Copper, Estate
+ 
+---------- Pretty Lights: turn 6 ----------
+Pretty Lights - plays Mercenary
+Pretty Lights - trashes Estate, Copper
+Pretty Lights - draws Silver, Crossroads
+Titandrake - discards Copper
+Titandrake - discards Copper
+Pretty Lights - plays 2 Copper, 1 Silver
+Pretty Lights - buys Gold
+Pretty Lights - gains Gold
+Pretty Lights - draws Copper
+Pretty Lights - shuffles deck
+Pretty Lights - draws Copper, Copper, Crossroads, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+Pretty Lights - discards Crossroads
+Titandrake - plays Mercenary
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Estate, Scavenger
+Pretty Lights - discards Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Copper, Crossroads, Estate, Copper, Scavenger
+ 
+---------- Pretty Lights: turn 7 ----------
+Pretty Lights - plays 3 Copper
+Pretty Lights - buys Silver
+Pretty Lights - gains Silver
+Pretty Lights - draws Estate, Silver, Mercenary, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Estate, Copper, Scavenger
+Titandrake - draws Estate
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Mercenary on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Peddler, Urchin, Scavenger, Estate
+ 
+---------- Pretty Lights: turn 8 ----------
+Pretty Lights - plays Mercenary
+Pretty Lights - trashes Copper, Estate
+Pretty Lights - draws Estate, Gold
+Titandrake - discards Urchin
+Titandrake - discards Scavenger
+Pretty Lights - plays Silver
+Pretty Lights - plays Silver
+Pretty Lights - buys Margrave
+Pretty Lights - gains Margrave
+Pretty Lights - draws Urchin, Copper
+Pretty Lights - shuffles deck
+Pretty Lights - draws Silver, Mercenary, Margrave
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Copper
+Pretty Lights - discards Mercenary
+Pretty Lights - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Crossroads, Copper, Estate, Copper, Copper
+ 
+---------- Pretty Lights: turn 9 ----------
+Pretty Lights - plays Urchin
+Pretty Lights - draws Gold
+Titandrake - discards Copper
+Pretty Lights - plays Margrave
+Pretty Lights - trashes Urchin
+Pretty Lights - gains Mercenary
+Pretty Lights - draws Copper, Silver, Crossroads
+Titandrake - draws Crossroads
+Titandrake - discards Crossroads
+Titandrake - discards Copper
+Pretty Lights - plays 2 Silver, 1 Gold, 1 Copper
+Pretty Lights - buys Gold
+Pretty Lights - gains Gold
+Pretty Lights - buys Crossroads
+Pretty Lights - gains Crossroads
+Pretty Lights - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Estate
+Titandrake - draws Mercenary
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Scavenger, Copper
+Pretty Lights - discards Estate
+Pretty Lights - discards Copper
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Crossroads on top of deck
+Titandrake - plays Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - draws Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Urchin, Crossroads, Treasury, Copper
+ 
+---------- Pretty Lights: turn 10 ----------
+Pretty Lights - plays 2 Copper, 1 Silver
+Pretty Lights - buys Silver
+Pretty Lights - gains Silver
+Pretty Lights - shuffles deck
+Pretty Lights - draws Silver, Silver, Copper, Copper, Crossroads
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Treasury
+Titandrake - draws Margrave
+Titandrake - plays Urchin
+Titandrake - draws Mercenary
+Pretty Lights - discards Crossroads
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Crossroads, Copper, Margrave, Mercenary
+Titandrake - plays Margrave
+Titandrake - draws Copper, Peddler, Copper
+Pretty Lights - draws Margrave
+Pretty Lights - discards Copper
+Pretty Lights - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Mercenary, Scavenger
+Titandrake - plays Scavenger
+Titandrake - plays 2 Copper
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury
+Titandrake - shuffles deck
+Titandrake - draws Copper, Peddler, Haggler, Scavenger
+ 
+---------- Pretty Lights: turn 11 ----------
+Pretty Lights - plays Margrave
+Pretty Lights - draws Gold, Copper, Copper
+Titandrake - draws Mercenary
+Titandrake - discards Mercenary
+Titandrake - discards Copper
+Titandrake - discards Scavenger
+Pretty Lights - plays 2 Silver, 2 Copper, 1 Gold
+Pretty Lights - buys Margrave
+Pretty Lights - gains Margrave
+Pretty Lights - buys Crossroads
+Pretty Lights - gains Crossroads
+Pretty Lights - draws Silver, Crossroads, Gold, Estate, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Treasury
+Titandrake - draws Crossroads
+Titandrake - plays Haggler
+Titandrake - plays Copper
+Titandrake - buys Treasury
+Titandrake - gains Peddler
+Titandrake - gains Treasury
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Urchin, Margrave, Crossroads, Mercenary
+ 
+---------- Pretty Lights: turn 12 ----------
+Pretty Lights - plays Crossroads
+Pretty Lights - reveals hand: Silver, Gold, Estate, Silver
+Pretty Lights - draws Mercenary
+Pretty Lights - plays Mercenary
+Pretty Lights - trashes Estate, Silver
+Pretty Lights - draws Copper, Mercenary
+Titandrake - discards Urchin
+Titandrake - discards Mercenary
+Pretty Lights - plays Mercenary
+Pretty Lights - trashes Copper, Silver
+Pretty Lights - shuffles deck
+Pretty Lights - draws Copper, Crossroads
+Pretty Lights - plays Crossroads
+Pretty Lights - reveals hand: Gold, Copper
+Pretty Lights - plays 1 Gold, 1 Copper
+Pretty Lights - buys Gold
+Pretty Lights - gains Gold
+Pretty Lights - draws Copper, Margrave, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Treasury
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - shuffles deck
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Margrave, Copper
+Titandrake - plays Margrave
+Titandrake - draws Mercenary, Peddler, Treasury
+Pretty Lights - draws Crossroads
+Pretty Lights - discards Copper
+Pretty Lights - discards Copper
+Pretty Lights - discards Silver
+Titandrake - plays Peddler
+Titandrake - draws Scavenger
+Titandrake - plays Treasury
+Titandrake - draws Mercenary
+Titandrake - plays Mercenary
+Titandrake - trashes Mercenary, Copper
+Titandrake - draws Haggler, Copper
+Titandrake - plays Haggler
+Titandrake - plays Copper
+Titandrake - buys Treasury
+Titandrake - gains Peddler
+Titandrake - gains Treasury
+Titandrake - buys Treasury
+Titandrake - gains Peddler
+Titandrake - gains Treasury
+Titandrake - places Treasury, Treasury on top of deck
+Titandrake - draws Treasury, Treasury, Urchin, Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Peddler
+ 
+---------- Pretty Lights: turn 13 ----------
+Pretty Lights - plays Crossroads
+Pretty Lights - reveals hand: Margrave, Silver
+Pretty Lights - plays Margrave
+Pretty Lights - draws Margrave, Gold, Copper
+Titandrake - draws Scavenger
+Titandrake - discards Scavenger
+Titandrake - discards Urchin
+Titandrake - discards Peddler
+Pretty Lights - plays Margrave
+Pretty Lights - shuffles deck
+Pretty Lights - draws Copper, Crossroads, Crossroads
+Titandrake - draws Margrave
+Titandrake - discards Treasury
+Pretty Lights - plays Crossroads
+Pretty Lights - reveals hand: Silver, Gold, Copper, Copper, Crossroads
+Pretty Lights - plays 2 Copper, 1 Silver, 1 Gold
+Pretty Lights - buys Gold
+Pretty Lights - gains Gold
+Pretty Lights - buys Peddler
+Pretty Lights - gains Peddler
+Pretty Lights - buys Peddler
+Pretty Lights - gains Peddler
+Pretty Lights - draws Mercenary, Silver, Gold, Copper, Mercenary
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Treasury
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Margrave, Copper
+Titandrake - plays Margrave
+Titandrake - draws Mercenary, Peddler, Treasury
+Pretty Lights - draws Gold
+Pretty Lights - discards Copper
+Pretty Lights - discards Mercenary
+Pretty Lights - discards Mercenary
+Titandrake - plays Peddler
+Titandrake - draws Haggler
+Titandrake - plays Treasury
+Titandrake - draws Treasury
+Titandrake - plays Treasury
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Crossroads
+Titandrake - plays Haggler
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Margrave
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - shuffles deck
+Titandrake - draws Province, Peddler, Scavenger, Peddler, Urchin
+ 
+---------- Pretty Lights: turn 14 ----------
+Pretty Lights - plays 2 Gold, 1 Silver
+Pretty Lights - buys Province
+Pretty Lights - gains Province
+Pretty Lights - draws Copper
+Pretty Lights - shuffles deck
+Pretty Lights - draws Crossroads, Margrave, Gold, Crossroads
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Peddler
+Titandrake - draws Treasury
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Treasury
+Titandrake - draws Margrave
+Titandrake - plays Peddler
+Titandrake - draws Crossroads
+Titandrake - plays Urchin
+Titandrake - draws Treasury
+Pretty Lights - discards Crossroads
+Titandrake - plays Treasury
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Treasury
+Titandrake - plays Treasury
+Titandrake - draws Crossroads
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Province, Scavenger, Margrave, Crossroads
+Titandrake - draws Copper
+Titandrake - plays Margrave
+Titandrake - draws Mercenary, Peddler, Margrave
+Pretty Lights - draws Copper
+Pretty Lights - discards Copper
+Pretty Lights - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Treasury
+Titandrake - plays Treasury
+Titandrake - draws Haggler
+Titandrake - plays Haggler
+Titandrake - plays Margrave
+Pretty Lights - draws Crossroads
+Pretty Lights - discards Crossroads
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - buys Treasury
+Titandrake - gains Peddler
+Titandrake - gains Treasury
+Titandrake - shuffles deck
+Titandrake - draws Treasury, Peddler, Mercenary, Treasury, Margrave
+ 
+---------- Pretty Lights: turn 15 ----------
+Pretty Lights - plays Crossroads
+Pretty Lights - reveals hand: Margrave, Gold
+Pretty Lights - plays Margrave
+Pretty Lights - draws Gold, Margrave, Gold
+Titandrake - draws Margrave
+Titandrake - discards Mercenary
+Titandrake - discards Margrave
+Titandrake - discards Peddler
+Pretty Lights - plays Margrave
+Pretty Lights - draws Copper, Gold, Silver
+Titandrake - draws Province
+Titandrake - discards Province
+Pretty Lights - plays 4 Gold, 1 Copper, 1 Silver
+Pretty Lights - buys Province
+Pretty Lights - gains Province
+Pretty Lights - buys Duchy
+Pretty Lights - gains Duchy
+Pretty Lights - buys Peddler
+Pretty Lights - gains Peddler
+Pretty Lights - draws Silver, Mercenary, Peddler, Copper, Peddler
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Treasury
+Titandrake - draws Treasury
+Titandrake - plays Treasury
+Titandrake - draws Peddler
+Titandrake - plays Treasury
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Scavenger
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Crossroads on top of deck
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Mercenary, Province, Scavenger, Treasury
+ 
+---------- Pretty Lights: turn 16 ----------
+Pretty Lights - plays Peddler
+Pretty Lights - draws Mercenary
+Pretty Lights - plays Peddler
+Pretty Lights - draws Province
+Pretty Lights - plays Mercenary
+Pretty Lights - trashes Mercenary, Copper
+Pretty Lights - shuffles deck
+Pretty Lights - draws Peddler, Duchy
+Titandrake - discards Mercenary
+Titandrake - discards Province
+Pretty Lights - plays 1 Silver
+Pretty Lights - buys Duchy
+Pretty Lights - gains Duchy
+Pretty Lights - draws Province, Copper, Copper, Margrave, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Crossroads on top of deck
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Margrave, Gold, Margrave
+ 
+---------- Pretty Lights: turn 17 ----------
+Pretty Lights - plays Margrave
+Pretty Lights - draws Gold, Silver, Crossroads
+Titandrake - draws Peddler
+Titandrake - discards Peddler
+Titandrake - discards Treasury
+Titandrake - discards Gold
+Pretty Lights - plays 2 Copper, 2 Gold, 1 Silver
+Pretty Lights - buys Province
+Pretty Lights - gains Province
+Pretty Lights - buys Estate
+Pretty Lights - gains Estate
+Pretty Lights - draws Gold, Crossroads, Copper, Gold, Crossroads
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Margrave, Margrave
+Titandrake - plays Margrave
+Titandrake - draws Treasury, Treasury, Scavenger
+Pretty Lights - draws Margrave
+Pretty Lights - discards Crossroads
+Pretty Lights - discards Copper
+Pretty Lights - discards Gold
+Titandrake - plays Treasury
+Titandrake - draws Province
+Titandrake - plays Treasury
+Titandrake - draws Treasury
+Titandrake - plays Treasury
+Titandrake - draws Mercenary
+Titandrake - plays Margrave
+Titandrake - draws Peddler, Silver, Copper
+Pretty Lights - shuffles deck
+Pretty Lights - draws Crossroads
+Pretty Lights - discards Crossroads
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Treasury
+Titandrake - plays Treasury
+Titandrake - draws Urchin
+Titandrake - plays Urchin
+Titandrake - draws Haggler
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Crossroads on top of deck
+Titandrake - plays Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Crossroads, Province, Silver
+ 
+---------- Pretty Lights: turn 18 ----------
+Pretty Lights - plays Crossroads
+Pretty Lights - reveals hand: Gold, Margrave
+Pretty Lights - plays Margrave
+Pretty Lights - draws Crossroads, Silver, Peddler
+Titandrake - draws Treasury
+Titandrake - discards Silver
+Titandrake - discards Treasury
+Titandrake - discards Crossroads
+Pretty Lights - plays Peddler
+Pretty Lights - draws Duchy
+Pretty Lights - plays Crossroads
+Pretty Lights - reveals hand: Gold, Silver, Duchy
+Pretty Lights - draws Gold
+Pretty Lights - plays 2 Gold, 1 Silver
+Pretty Lights - buys Province
+Pretty Lights - gains Province
+Pretty Lights - draws Mercenary, Peddler, Margrave, Gold, Duchy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Duchy, Province
+Titandrake - draws Peddler, Duchy
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Margrave, Mercenary, Province
+Pretty Lights - draws Gold
+Pretty Lights - discards Duchy
+Pretty Lights - discards Mercenary
+Pretty Lights - discards Peddler
+Titandrake - plays Margrave
+Titandrake - draws Gold, Urchin, Peddler
+Pretty Lights - draws Copper
+Pretty Lights - discards Copper
+Titandrake - plays Urchin
+Titandrake - draws Treasury
+Titandrake - plays Peddler
+Titandrake - draws Scavenger
+Titandrake - plays Treasury
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Haggler
+Titandrake - plays Mercenary
+Titandrake - trashes Scavenger, Haggler
+Titandrake - draws Treasury, Peddler
+Titandrake - plays 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Treasury, Treasury, Copper, Province
+Titandrake - shuffles deck
+Titandrake - draws Treasury
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Peddler, 5 Treasury, 2 Crossroads, 2 Margrave, 1 Mercenary, 1 Urchin, 1 Copper, 1 Silver, 1 Gold, 4 Province, 2 Duchy, 2 Estate
+Titandrake - total victory points: 32
+Titandrake - turns: 18
+ 
+Pretty Lights - cards: 3 Crossroads, 3 Peddler, 2 Margrave, 1 Mercenary, 4 Gold, 3 Copper, 2 Silver, 4 Province, 2 Duchy, 1 Estate
+Pretty Lights - total victory points: 31
+Pretty Lights - turns: 18
+ 
+1st place: Titandrake
+2nd place: Pretty Lights
+ 

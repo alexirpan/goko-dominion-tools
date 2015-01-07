@@ -1,0 +1,308 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Fortune Teller, Great Hall, Oracle, Feodum, Nomad Camp, Embassy, Highway, Tactician, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+daisuki - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+daisuki - shuffles deck
+Titandrake - shuffles deck
+daisuki - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- daisuki: turn 1 ----------
+daisuki - plays 4 Copper
+daisuki - buys Silver
+daisuki - gains Silver
+daisuki - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- daisuki: turn 2 ----------
+daisuki - plays 3 Copper
+daisuki - buys Fortune Teller
+daisuki - gains Fortune Teller
+daisuki - shuffles deck
+daisuki - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Nomad Camp
+Titandrake - gains Nomad Camp
+Titandrake - draws Nomad Camp
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Estate, Copper
+ 
+---------- daisuki: turn 3 ----------
+daisuki - plays 3 Copper, 1 Silver
+daisuki - buys Embassy
+daisuki - gains Embassy
+Titandrake - gains Silver
+daisuki - draws Copper, Fortune Teller, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- daisuki: turn 4 ----------
+daisuki - plays Fortune Teller
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Nomad Camp, Silver, Tactician, Copper, Estate
+Titandrake - discards: Copper, Copper, Nomad Camp, Silver, Tactician, Copper
+daisuki - plays 2 Copper
+daisuki - buys Silver
+daisuki - gains Silver
+daisuki - draws Copper, Copper
+daisuki - shuffles deck
+daisuki - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Nomad Camp
+ 
+---------- daisuki: turn 5 ----------
+daisuki - plays 5 Copper
+daisuki - buys Embassy
+daisuki - gains Embassy
+Titandrake - gains Silver
+daisuki - draws Estate, Fortune Teller, Estate, Silver, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+daisuki - gains Silver
+Titandrake - draws Copper, Copper, Estate, Tactician, Copper
+ 
+---------- daisuki: turn 6 ----------
+daisuki - plays Fortune Teller
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Silver, Silver, Copper, Copper, Silver, Copper, Nomad Camp, Estate
+Titandrake - discards: Copper, Silver, Silver, Copper, Copper, Silver, Copper, Nomad Camp
+daisuki - plays 1 Silver
+daisuki - buys Silver
+daisuki - gains Silver
+daisuki - draws Silver, Embassy, Copper, Copper
+daisuki - shuffles deck
+daisuki - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Copper, Estate, Copper
+Titandrake - draws Estate, Estate, Silver, Embassy
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- daisuki: turn 7 ----------
+daisuki - plays Embassy
+daisuki - draws Copper, Copper, Copper, Estate, Estate
+daisuki - discards Estate
+daisuki - discards Estate
+daisuki - discards Copper
+daisuki - plays 5 Copper, 1 Silver
+daisuki - buys Bank
+daisuki - gains Bank
+daisuki - draws Silver, Copper, Silver, Fortune Teller, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Tactician
+Titandrake - draws Copper, Nomad Camp, Copper, Estate, Silver
+Titandrake - plays Embassy
+Titandrake - draws Copper, Silver, Silver, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays Nomad Camp
+Titandrake - plays 6 Copper, 4 Silver
+Titandrake - buys Bank
+Titandrake - gains Bank
+Titandrake - buys Bank
+Titandrake - gains Bank
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate, Copper
+ 
+---------- daisuki: turn 8 ----------
+daisuki - plays Fortune Teller
+Titandrake - reveals Cellar, Embassy, Copper, Silver, Bank, Bank, Copper, Estate
+Titandrake - discards: Cellar, Embassy, Copper, Silver, Bank, Bank, Copper
+daisuki - plays 2 Silver, 1 Copper
+daisuki - buys Bank
+daisuki - gains Bank
+daisuki - draws Embassy, Silver
+daisuki - shuffles deck
+daisuki - draws Estate, Copper, Bank
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Estate, Estate, Tactician, Silver, Silver
+ 
+---------- daisuki: turn 9 ----------
+daisuki - plays Embassy
+daisuki - draws Copper, Copper, Copper, Silver, Copper
+daisuki - discards Estate
+daisuki - discards Copper
+daisuki - discards Copper
+daisuki - plays 3 Copper, 2 Silver
+daisuki - plays Bank
+daisuki - buys Province
+daisuki - gains Province
+daisuki - draws Fortune Teller, Silver, Estate, Copper, Bank
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Estate, Estate, Silver, Silver
+Titandrake - draws Copper, Nomad Camp, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- daisuki: turn 10 ----------
+daisuki - plays Fortune Teller
+Titandrake - reveals Bank, Tactician, Cellar, Copper, Silver, Copper, Embassy, Estate
+Titandrake - discards: Bank, Tactician, Cellar, Copper, Silver, Copper, Embassy
+daisuki - plays 1 Silver, 1 Copper
+daisuki - plays Bank
+daisuki - buys Province
+daisuki - gains Province
+daisuki - draws Silver, Copper, Embassy, Estate
+daisuki - shuffles deck
+daisuki - draws Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Tactician
+Titandrake - draws Estate, Silver, Copper, Estate, Copper
+Titandrake - plays Nomad Camp
+Titandrake - plays 5 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Bank, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Nomad Camp, Tactician
+ 
+---------- daisuki: turn 11 ----------
+daisuki - plays Embassy
+daisuki - draws Bank, Silver, Embassy, Copper, Bank
+daisuki - discards Estate
+daisuki - discards Embassy
+daisuki - discards Copper
+daisuki - plays 2 Silver, 2 Copper
+daisuki - plays Bank
+daisuki - plays Bank
+daisuki - buys Province
+daisuki - gains Province
+daisuki - draws Estate, Province, Fortune Teller, Silver, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Bank, Estate, Silver, Nomad Camp
+Titandrake - draws Province, Copper, Copper, Copper, Silver
+ 
+---------- daisuki: turn 12 ----------
+daisuki - plays Fortune Teller
+Titandrake - reveals Great Hall
+daisuki - plays Silver
+daisuki - buys Great Hall
+daisuki - gains Great Hall
+daisuki - draws Copper, Province, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Tactician
+Titandrake - draws Great Hall, Bank, Cellar, Copper, Copper
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - draws Embassy, Estate, Estate, Tactician, Silver, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - plays Embassy
+Titandrake - draws Copper, Silver, Copper, Bank, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - plays 4 Copper, 3 Silver
+Titandrake - plays Bank
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Nomad Camp, Estate, Copper, Silver
+ 
+---------- daisuki: turn 13 ----------
+daisuki - plays 3 Copper, 1 Silver
+daisuki - buys Duchy
+daisuki - gains Duchy
+daisuki - draws Copper
+daisuki - shuffles deck
+daisuki - draws Copper, Embassy, Estate, Duchy
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Bank, Province
+ 
+---------- daisuki: turn 14 ----------
+daisuki - plays Embassy
+daisuki - draws Silver, Great Hall, Province, Bank, Province
+daisuki - discards Duchy
+daisuki - discards Estate
+daisuki - discards Province
+daisuki - plays 2 Copper, 1 Silver
+daisuki - plays Bank
+daisuki - buys Province
+daisuki - gains Province
+daisuki - draws Province, Copper, Silver, Bank, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Copper
+Titandrake - plays Bank
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Copper, Cellar, Great Hall, Silver, Bank
+ 
+---------- daisuki: turn 15 ----------
+daisuki - plays 2 Copper, 1 Silver
+daisuki - plays Bank
+daisuki - buys Province
+daisuki - gains Province
+daisuki - draws Copper, Fortune Teller, Estate, Silver, Embassy
+ 
+------------ Game Over ------------
+daisuki - cards: 2 Embassy, 1 Great Hall, 1 Fortune Teller, 7 Copper, 4 Silver, 2 Bank, 5 Province, 3 Estate, 1 Duchy
+daisuki - total victory points: 37
+daisuki - turns: 15
+ 
+Titandrake - cards: 2 Great Hall, 2 Tactician, 1 Cellar, 1 Nomad Camp, 1 Embassy, 7 Copper, 4 Silver, 2 Bank, 3 Estate, 3 Province, 1 Duchy
+Titandrake - total victory points: 26
+Titandrake - turns: 14
+ 
+1st place: daisuki
+2nd place: Titandrake
+ 

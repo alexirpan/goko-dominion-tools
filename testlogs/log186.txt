@@ -1,0 +1,383 @@
+------------ Game Setup ------------
+Supply cards: Scheme, Philosopher's Stone, Coppersmith, Fortress, Gardens, Ironworks, Remodel, Thief, Torturer, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Ingo All sets - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Ingo All sets - shuffles deck
+Titandrake - shuffles deck
+Ingo All sets - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Ingo All sets: turn 1 ----------
+Ingo All sets - plays 4 Copper
+Ingo All sets - buys Coppersmith
+Ingo All sets - gains Coppersmith
+Ingo All sets - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Ingo All sets: turn 2 ----------
+Ingo All sets - plays 3 Copper
+Ingo All sets - buys Scheme
+Ingo All sets - gains Scheme
+Ingo All sets - shuffles deck
+Ingo All sets - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Estate, Remodel, Copper
+ 
+---------- Ingo All sets: turn 3 ----------
+Ingo All sets - draws Coppersmith, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Remodel
+Titandrake - trashes Estate
+Titandrake - gains Ironworks
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Ingo All sets: turn 4 ----------
+Ingo All sets - plays Coppersmith
+Ingo All sets - plays 4 Copper
+Ingo All sets - buys Wharf
+Ingo All sets - gains Wharf
+Ingo All sets - draws Copper, Scheme
+Ingo All sets - shuffles deck
+Ingo All sets - draws Estate, Copper, Wharf
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Ironworks, Remodel, Copper
+ 
+---------- Ingo All sets: turn 5 ----------
+Ingo All sets - plays Scheme
+Ingo All sets - draws Copper
+Ingo All sets - plays Wharf
+Ingo All sets - draws Estate, Coppersmith
+Ingo All sets - plays 3 Copper
+Ingo All sets - buys Scheme
+Ingo All sets - gains Scheme
+Ingo All sets - Scheme choice: Wharf
+Ingo All sets - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Scheme
+Titandrake - plays Remodel
+Titandrake - trashes Silver
+Titandrake - gains Wharf
+Titandrake - draws Copper, Wharf, Copper, Copper, Copper
+ 
+---------- Ingo All sets: turn 6 ----------
+Ingo All sets - duration Wharf
+Ingo All sets - shuffles deck
+Ingo All sets - draws Copper, Coppersmith
+Ingo All sets - plays Coppersmith
+Ingo All sets - plays 5 Copper
+Ingo All sets - buys Ironworks
+Ingo All sets - gains Ironworks
+Ingo All sets - buys Wharf
+Ingo All sets - gains Wharf
+Ingo All sets - draws Copper, Estate, Copper, Estate, Scheme
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ironworks, Estate, Copper
+ 
+---------- Ingo All sets: turn 7 ----------
+Ingo All sets - plays Scheme
+Ingo All sets - draws Scheme
+Ingo All sets - plays Scheme
+Ingo All sets - shuffles deck
+Ingo All sets - draws Copper
+Ingo All sets - plays 3 Copper
+Ingo All sets - buys Scheme
+Ingo All sets - gains Scheme
+Ingo All sets - Scheme choice: Scheme
+Ingo All sets - Scheme choice: Scheme
+Ingo All sets - draws Scheme, Scheme, Coppersmith, Wharf, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Torturer
+Titandrake - plays Ironworks
+Titandrake - gains Fortress
+Titandrake - plays Torturer
+Titandrake - draws Copper, Remodel, Copper
+Ingo All sets - discards Scheme
+Ingo All sets - discards Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Wharf, Copper, Scheme, Copper
+Titandrake - shuffles deck
+Titandrake - draws Wharf
+ 
+---------- Ingo All sets: turn 8 ----------
+Ingo All sets - plays Scheme
+Ingo All sets - draws Copper
+Ingo All sets - plays Wharf
+Ingo All sets - draws Copper, Estate
+Ingo All sets - Scheme choice: Scheme
+Ingo All sets - draws Scheme, Copper, Wharf, Ironworks
+Ingo All sets - shuffles deck
+Ingo All sets - draws Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Wharf
+Titandrake - draws Torturer, Fortress
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Ironworks, Copper, Copper, Copper
+ 
+---------- Ingo All sets: turn 9 ----------
+Ingo All sets - duration Wharf
+Ingo All sets - draws Estate, Copper
+Ingo All sets - plays Scheme
+Ingo All sets - draws Copper
+Ingo All sets - plays Ironworks
+Ingo All sets - gains Fortress
+Ingo All sets - plays Wharf
+Ingo All sets - draws Copper, Coppersmith
+Ingo All sets - plays 4 Copper
+Ingo All sets - buys Fortress
+Ingo All sets - gains Fortress
+Ingo All sets - Scheme choice: Wharf
+Ingo All sets - draws Wharf, Estate, Scheme, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Wharf
+Titandrake - draws Remodel, Copper
+Titandrake - plays Scheme
+Titandrake - draws Wharf
+Titandrake - plays Ironworks
+Titandrake - gains Fortress
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - Scheme choice: Wharf
+Titandrake - draws Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ironworks, Estate, Fortress
+ 
+---------- Ingo All sets: turn 10 ----------
+Ingo All sets - duration Wharf
+Ingo All sets - draws Scheme, Copper
+Ingo All sets - plays Scheme
+Ingo All sets - shuffles deck
+Ingo All sets - draws Coppersmith
+Ingo All sets - plays Scheme
+Ingo All sets - draws Estate
+Ingo All sets - plays Wharf
+Ingo All sets - draws Copper, Ironworks
+Ingo All sets - plays 4 Copper
+Ingo All sets - buys Remodel
+Ingo All sets - gains Remodel
+Ingo All sets - Scheme choice: Wharf
+Ingo All sets - Scheme choice: Scheme
+Ingo All sets - draws Scheme, Wharf, Copper, Copper, Fortress
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Wharf
+Titandrake - draws Fortress, Torturer
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Estate
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Scheme, Remodel, Copper
+Ingo All sets - discards Copper
+Ingo All sets - discards Copper
+Titandrake - plays Scheme
+Titandrake - draws Torturer
+Titandrake - plays Ironworks
+Titandrake - gains Fortress
+Titandrake - plays Torturer
+Titandrake - draws Copper, Copper, Copper
+Ingo All sets - gains Curse
+Titandrake - plays 7 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Torturer
+Titandrake - draws Torturer
+Titandrake - shuffles deck
+Titandrake - draws Remodel, Fortress, Estate, Estate
+ 
+---------- Ingo All sets: turn 11 ----------
+Ingo All sets - duration Wharf
+Ingo All sets - draws Copper, Scheme
+Ingo All sets - plays Scheme
+Ingo All sets - draws Fortress
+Ingo All sets - plays Scheme
+Ingo All sets - draws Estate
+Ingo All sets - plays Fortress
+Ingo All sets - shuffles deck
+Ingo All sets - draws Coppersmith
+Ingo All sets - plays Wharf
+Ingo All sets - draws Remodel, Copper
+Ingo All sets - plays Fortress
+Ingo All sets - draws Estate
+Ingo All sets - plays Remodel
+Ingo All sets - trashes Estate
+Ingo All sets - gains Fortress
+Ingo All sets - plays Coppersmith
+Ingo All sets - plays 2 Copper
+Ingo All sets - buys Fortress
+Ingo All sets - gains Fortress
+Ingo All sets - Scheme choice: Wharf
+Ingo All sets - Scheme choice: Fortress
+Ingo All sets - draws Fortress, Wharf, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Wharf
+Titandrake - draws Scheme, Copper
+Titandrake - plays Scheme
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Wharf
+Titandrake - plays Torturer
+Titandrake - draws Ironworks, Scheme, Fortress
+Ingo All sets - gains Curse
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Scheme
+Titandrake - draws Wharf
+Titandrake - plays Ironworks
+Titandrake - gains Fortress
+Titandrake - plays Wharf
+Titandrake - draws Copper, Torturer
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Copper, Copper, Copper
+Ingo All sets - discards Curse
+Ingo All sets - discards Copper
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - plays Remodel
+Titandrake - trashes Estate
+Titandrake - gains Fortress
+Titandrake - plays 7 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - buys Coppersmith
+Titandrake - gains Coppersmith
+Titandrake - Scheme choice: Torturer
+Titandrake - Scheme choice: Fortress
+Titandrake - draws Fortress, Torturer
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Wharf, Scheme
+ 
+---------- Ingo All sets: turn 12 ----------
+Ingo All sets - duration Wharf
+Ingo All sets - draws Copper, Estate
+Ingo All sets - plays Fortress
+Ingo All sets - draws Scheme
+Ingo All sets - plays Wharf
+Ingo All sets - draws Copper, Ironworks
+Ingo All sets - plays Scheme
+Ingo All sets - shuffles deck
+Ingo All sets - draws Fortress
+Ingo All sets - plays Fortress
+Ingo All sets - draws Copper
+Ingo All sets - plays Ironworks
+Ingo All sets - gains Remodel
+Ingo All sets - plays 5 Copper
+Ingo All sets - buys Torturer
+Ingo All sets - gains Torturer
+Ingo All sets - Scheme choice: Wharf
+Ingo All sets - draws Wharf, Fortress, Scheme, Curse, Fortress
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Wharf
+Titandrake - draws Scheme, Scheme
+Titandrake - duration Wharf
+Titandrake - draws Torturer, Estate
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Copper, Copper, Coppersmith
+Ingo All sets - discards Curse
+Ingo All sets - discards Scheme
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Remodel, Ironworks, Copper
+Ingo All sets - gains Curse
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Fortress
+Titandrake - plays Scheme
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Wharf
+Titandrake - draws Copper, Fortress
+Titandrake - plays Ironworks
+Titandrake - gains Scheme
+Titandrake - plays Fortress
+Titandrake - shuffles deck
+Titandrake - draws Scheme
+Titandrake - plays Remodel
+Titandrake - trashes Estate
+Titandrake - gains Coppersmith
+Titandrake - plays Fortress
+Titandrake - shuffles deck
+Titandrake - draws Coppersmith
+Titandrake - plays Scheme
+Titandrake - plays Fortress
+Titandrake - plays Coppersmith
+Titandrake - plays Coppersmith
+Titandrake - plays 7 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - Scheme choice: Torturer
+Titandrake - Scheme choice: Fortress
+Titandrake - Scheme choice: Torturer
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Wharf, 2 Province
+Titandrake - total victory points: 12
+Titandrake - turns: 11
+ 
+Ingo All sets - resigned
+Ingo All sets - cards: 4 Fortress, 3 Scheme, 2 Wharf, 2 Remodel, 1 Torturer, 1 Ironworks, 1 Coppersmith, 7 Copper, 2 Estate, 3 Curse
+Ingo All sets - total victory points: -1
+Ingo All sets - turns: 12
+ 
+1st place: Titandrake
+2nd place: Ingo All sets
+ 

@@ -1,0 +1,647 @@
+------------ Game Setup ------------
+Supply cards: Haven, Squire, Lookout, Scheme, Trade Route, Cultist, Merchant Ship, Pillage, Soothsayer, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+microman - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+microman - shuffles deck
+Titandrake - shuffles deck
+microman - draws Necropolis, Hovel, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Hovel, Copper, Overgrown Estate, Copper
+ 
+---------- microman: turn 1 ----------
+microman - plays 3 Copper
+microman - buys Lookout
+microman - gains Lookout
+microman - draws Copper, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- microman: turn 2 ----------
+microman - plays 4 Copper
+microman - buys Silver
+microman - gains Silver
+microman - shuffles deck
+microman - draws Copper, Hovel, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Silver, Copper, Necropolis, Hovel
+ 
+---------- microman: turn 3 ----------
+microman - plays 3 Copper, 1 Silver
+microman - buys Cultist
+microman - gains Cultist
+microman - draws Lookout, Copper, Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Copper, Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Cultist
+ 
+---------- microman: turn 4 ----------
+microman - plays Lookout
+microman - shuffles deck
+microman - trashes Overgrown Estate
+microman - draws Hovel
+microman - discards Copper
+microman - places Copper on top of deck
+microman - plays 3 Copper
+microman - buys Scheme
+microman - gains Scheme
+microman - draws Copper, Copper, Copper, Silver, Cultist
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Hovel
+microman - gains Abandoned Mine
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Lookout, Necropolis, Copper, Copper
+ 
+---------- microman: turn 5 ----------
+microman - plays Cultist
+microman - shuffles deck
+microman - draws Copper, Abandoned Mine
+Titandrake - gains Ruined Village
+microman - plays 4 Copper, 1 Silver
+microman - buys Cultist
+microman - gains Cultist
+microman - draws Hovel, Necropolis, Copper, Scheme, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Overgrown Estate, Copper, Cultist, Ruined Village
+ 
+---------- microman: turn 6 ----------
+microman - plays Scheme
+microman - draws Lookout
+microman - plays Lookout
+microman - shuffles deck
+microman - trashes Copper
+microman - discards Copper
+microman - places Copper on top of deck
+microman - plays Necropolis
+microman - plays 2 Copper
+microman - buys Squire
+microman - gains Squire
+microman - Scheme choice: Lookout
+microman - draws Lookout, Copper, Cultist, Copper, Abandoned Mine
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cultist
+Titandrake - draws Hovel, Copper
+microman - gains Ruined Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Cultist
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- microman: turn 7 ----------
+microman - plays Lookout
+microman - trashes Copper
+microman - discards Silver
+microman - places Cultist on top of deck
+microman - plays Cultist
+microman - draws Cultist
+microman - shuffles deck
+microman - draws Squire
+Titandrake - gains Ruined Market
+microman - plays Cultist
+microman - draws Copper, Hovel
+Titandrake - gains Ruined Village
+microman - plays 3 Copper
+microman - buys Scheme
+microman - gains Scheme
+microman - draws Ruined Village, Scheme, Necropolis, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Hovel
+microman - gains Ruined Village
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Cultist, Lookout, Copper, Ruined Village, Silver
+ 
+---------- microman: turn 8 ----------
+microman - plays Scheme
+microman - draws Copper
+microman - plays Necropolis
+microman - plays Ruined Village
+microman - plays 2 Copper, 1 Silver
+microman - buys Silver
+microman - gains Silver
+microman - Scheme choice: Scheme
+microman - draws Scheme
+microman - shuffles deck
+microman - draws Cultist, Copper, Cultist, Squire
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Silver
+Titandrake - discards Necropolis
+Titandrake - places Silver on top of deck
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+microman - gains Survivors
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Ruined Village, Cultist, Ruined Village
+ 
+---------- microman: turn 9 ----------
+microman - plays Scheme
+microman - draws Ruined Village
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Cultist
+microman - draws Ruined Village, Necropolis
+Titandrake - gains Survivors
+microman - plays Cultist
+microman - draws Copper, Abandoned Mine
+Titandrake - gains Ruined Market
+microman - plays Necropolis
+microman - plays Abandoned Mine
+microman - plays 2 Copper
+microman - buys Silver
+microman - gains Silver
+microman - Scheme choice: Cultist
+microman - draws Cultist, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+microman - gains Abandoned Mine
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Lookout, Silver, Cultist, Province
+ 
+---------- microman: turn 10 ----------
+microman - plays Cultist
+microman - draws Scheme, Hovel
+microman - plays 3 Copper, 1 Silver
+microman - buys Cultist
+microman - gains Cultist
+microman - draws Lookout, Silver
+microman - shuffles deck
+microman - draws Scheme, Ruined Village, Ruined Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Ruined Market
+Titandrake - discards Copper
+Titandrake - places Cultist on top of deck
+Titandrake - plays Cultist
+Titandrake - draws Cultist, Necropolis
+Titandrake - plays Cultist
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Hovel, Copper
+Titandrake - shuffles deck
+Titandrake - draws Ruined Market, Province, Ruined Village
+ 
+---------- microman: turn 11 ----------
+microman - plays Lookout
+microman - trashes Copper
+microman - discards Copper
+microman - places Cultist on top of deck
+microman - plays Scheme
+microman - draws Cultist
+microman - plays Cultist
+microman - draws Squire, Scheme
+microman - plays 1 Silver
+microman - buys Squire
+microman - gains Squire
+microman - Scheme choice: Lookout
+microman - draws Lookout, Silver, Abandoned Mine, Copper, Abandoned Mine
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - draws Survivors, Necropolis, Ruined Village, Copper, Copper
+ 
+---------- microman: turn 12 ----------
+microman - plays Lookout
+microman - trashes Copper
+microman - discards Copper
+microman - places Silver on top of deck
+microman - plays Abandoned Mine
+microman - plays 1 Silver, 1 Copper
+microman - buys Squire
+microman - gains Squire
+microman - draws Silver, Cultist, Hovel, Necropolis, Survivors
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Silver, Cultist
+Titandrake - places Cultist on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Silver, Cultist, Cultist, Copper, Cultist
+ 
+---------- microman: turn 13 ----------
+microman - plays Necropolis
+microman - plays Cultist
+microman - draws Cultist
+microman - shuffles deck
+microman - draws Ruined Village
+microman - plays Cultist
+microman - draws Scheme, Lookout
+microman - plays Lookout
+microman - trashes Ruined Village
+microman - discards Abandoned Mine
+microman - places Silver on top of deck
+microman - plays Scheme
+microman - draws Silver
+microman - plays Ruined Village
+microman - plays Survivors
+microman - looks at Squire, Abandoned Mine
+microman - places Abandoned Mine on top of deck
+microman - places Squire on top of deck
+microman - plays 2 Silver
+microman - buys Squire
+microman - gains Squire
+microman - Scheme choice: Cultist
+microman - draws Cultist, Squire, Abandoned Mine, Cultist, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Cultist
+Titandrake - draws Cultist, Lookout
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+Titandrake - plays Cultist
+Titandrake - draws Gold, Silver
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+Titandrake - plays 4 Silver, 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver, Copper, Silver, Gold
+ 
+---------- microman: turn 14 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Cultist
+microman - draws Copper, Copper
+microman - plays Cultist
+microman - draws Squire, Squire
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Squire
+microman - gains Silver
+microman - plays Abandoned Mine
+microman - plays 3 Copper
+microman - buys Gold
+microman - gains Gold
+microman - draws Scheme, Silver
+microman - shuffles deck
+microman - draws Copper, Gold, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Squire, Ruined Village, Copper, Province, Copper
+ 
+---------- microman: turn 15 ----------
+microman - plays Scheme
+microman - draws Necropolis
+microman - plays Necropolis
+microman - plays 2 Silver, 1 Copper, 1 Gold
+microman - buys Province
+microman - gains Province
+microman - Scheme choice: Necropolis
+microman - draws Necropolis, Squire, Silver, Squire, Squire
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Ruined Market, Copper, Cultist, Copper, Necropolis
+ 
+---------- microman: turn 16 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Squire
+microman - gains Silver
+microman - plays Necropolis
+microman - plays Squire
+microman - gains Silver
+microman - plays 1 Silver
+microman - buys Cultist
+microman - gains Cultist
+microman - draws Cultist, Survivors, Copper, Ruined Village, Squire
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Cultist
+Titandrake - draws Ruined Village, Cultist
+Titandrake - plays Cultist
+Titandrake - draws Survivors, Silver
+Titandrake - plays Survivors
+Titandrake - looks at Silver, Cultist
+Titandrake - places Cultist on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Silver, Cultist, Hovel, Lookout, Cultist
+ 
+---------- microman: turn 17 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Cultist
+microman - draws Silver, Copper
+microman - plays Ruined Village
+microman - plays Survivors
+microman - looks at Scheme, Hovel
+microman - places Hovel on top of deck
+microman - places Scheme on top of deck
+microman - plays 2 Copper, 1 Silver
+microman - buys Cultist
+microman - gains Cultist
+microman - draws Scheme, Hovel, Lookout, Cultist, Abandoned Mine
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Ruined Village
+Titandrake - discards Ruined Market
+Titandrake - places Copper on top of deck
+Titandrake - plays Cultist
+Titandrake - draws Copper, Ruined Village
+Titandrake - plays Cultist
+Titandrake - draws Province, Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - trashes Hovel
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Copper, Squire, Silver
+ 
+---------- microman: turn 18 ----------
+microman - plays Lookout
+microman - shuffles deck
+microman - trashes Abandoned Mine
+microman - discards Survivors
+microman - places Cultist on top of deck
+microman - plays Scheme
+microman - draws Cultist
+microman - plays Cultist
+microman - draws Copper, Squire
+microman - plays Cultist
+microman - draws Cultist, Cultist
+microman - plays Cultist
+microman - draws Silver, Silver
+microman - plays Cultist
+microman - draws Cultist, Copper
+microman - plays Cultist
+microman - draws Copper, Silver
+microman - plays 3 Copper, 3 Silver
+microman - buys Province
+microman - trashes Hovel
+microman - gains Province
+microman - Scheme choice: Cultist
+microman - draws Cultist, Gold, Silver, Squire, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Necropolis, Gold, Province, Cultist, Copper
+ 
+---------- microman: turn 19 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Cultist
+microman - draws Ruined Village, Scheme
+microman - plays Scheme
+microman - draws Squire
+microman - plays Squire
+microman - takes 2 buys
+microman - plays 1 Gold, 1 Silver
+microman - buys Duchy
+microman - gains Duchy
+microman - buys Haven
+microman - gains Haven
+microman - Scheme choice: Squire
+microman - draws Squire, Silver, Necropolis, Squire, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Cultist
+Titandrake - draws Province, Survivors
+Titandrake - plays Survivors
+Titandrake - looks at Squire, Silver
+Titandrake - places Silver on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Squire, Silver, Trade Route, Copper, Cultist
+ 
+---------- microman: turn 20 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Necropolis
+microman - plays Squire
+microman - gains Silver
+microman - plays 2 Silver
+microman - buys Duchy
+microman - gains Duchy
+microman - shuffles deck
+microman - draws Cultist, Squire, Copper, Haven, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Cultist
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Duchy, Cultist, Ruined Market, Copper, Copper
+ 
+---------- microman: turn 21 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Haven
+microman - draws Cultist
+microman - sets aside Copper
+microman - plays Cultist
+microman - draws Cultist, Duchy
+microman - plays Cultist
+microman - draws Squire, Copper
+microman - plays Cultist
+microman - draws Squire, Survivors
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Survivors
+microman - looks at Squire, Silver
+microman - places Silver on top of deck
+microman - places Squire on top of deck
+microman - plays Squire
+microman - gains Silver
+microman - plays 1 Silver, 1 Copper
+microman - buys Duchy
+microman - gains Duchy
+microman - draws Squire, Silver, Scheme, Silver, Scheme
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Duchy
+Titandrake - plays 3 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Province, Lookout, Silver, Survivors, Silver
+ 
+---------- microman: turn 22 ----------
+microman - duration Haven
+microman - places set aside Copper in hand
+microman - plays Scheme
+microman - draws Copper
+microman - plays Scheme
+microman - draws Abandoned Mine
+microman - plays Squire
+microman - gains Silver
+microman - plays 2 Silver, 2 Copper
+microman - buys Duchy
+microman - gains Duchy
+microman - Scheme choice: Squire
+microman - Scheme choice: Scheme
+microman - draws Scheme, Squire, Silver, Cultist, Province
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Province, Cultist
+Titandrake - places Cultist on top of deck
+Titandrake - places Province on top of deck
+Titandrake - plays Silver
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Province, Cultist, Silver, Gold, Copper
+ 
+---------- microman: turn 23 ----------
+microman - plays Scheme
+microman - draws Gold
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Cultist
+microman - draws Duchy, Cultist
+microman - plays Cultist
+microman - draws Silver, Silver
+microman - plays 3 Silver, 1 Gold
+microman - buys Province
+microman - gains Province
+microman - Scheme choice: Squire
+microman - draws Squire, Lookout, Silver, Ruined Village, Necropolis
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Cultist
+Titandrake - draws Province, Ruined Village
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Cultist, Squire, Necropolis, Squire
+ 
+---------- microman: turn 24 ----------
+microman - plays Lookout
+microman - shuffles deck
+microman - trashes Cultist
+microman - draws Cultist, Silver, Duchy
+microman - discards Province
+microman - places Duchy on top of deck
+microman - plays Necropolis
+microman - plays Cultist
+microman - draws Duchy, Cultist
+microman - plays Cultist
+microman - draws Copper, Copper
+microman - plays Squire
+microman - takes 2 buys
+microman - plays 2 Silver, 2 Copper
+microman - buys Estate
+microman - gains Estate
+microman - buys Estate
+microman - gains Estate
+microman - buys Estate
+microman - gains Estate
+microman - draws Silver, Silver, Scheme, Silver, Abandoned Mine
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Cultist
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Province, Duchy, Duchy, Ruined Market
+ 
+---------- microman: turn 25 ----------
+microman - plays Scheme
+microman - draws Scheme
+microman - plays Scheme
+microman - draws Silver
+microman - plays Abandoned Mine
+microman - plays 4 Silver
+microman - buys Province
+microman - gains Province
+microman - Scheme choice: Scheme
+microman - Scheme choice: Scheme
+microman - draws Scheme, Scheme, Copper, Gold, Cultist
+ 
+------------ Game Over ------------
+microman - cards: 4 Cultist, 4 Squire, 2 Scheme, 1 Lookout, 1 Necropolis, 1 Ruined Village, 1 Abandoned Mine, 1 Haven, 1 Survivors, 9 Silver, 3 Copper, 1 Gold, 4 Province, 4 Duchy, 3 Estate
+microman - total victory points: 39
+microman - turns: 25
+ 
+Titandrake - cards: 5 Squire, 4 Cultist, 1 Ruined Market, 1 Necropolis, 1 Trade Route, 1 Survivors, 1 Lookout, 1 Ruined Village, 6 Silver, 5 Copper, 1 Gold, 4 Province, 4 Duchy
+Titandrake - total victory points: 36
+Titandrake - turns: 25
+ 
+1st place: microman
+2nd place: Titandrake
+ 

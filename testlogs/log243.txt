@@ -1,0 +1,575 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Bishop, Militia, Noble Brigand, Procession, Sea Hag, Talisman, Catacombs, Mint, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+crablar - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+crablar - shuffles deck
+Titandrake - shuffles deck
+crablar - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- crablar: turn 1 ----------
+crablar - plays 4 Copper
+crablar - buys Bishop
+crablar - gains Bishop
+crablar - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- crablar: turn 2 ----------
+crablar - plays 3 Copper
+crablar - buys Silver
+crablar - gains Silver
+crablar - shuffles deck
+crablar - draws Copper, Copper, Copper, Bishop, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- crablar: turn 3 ----------
+crablar - plays Bishop
+crablar - trashes Copper
+crablar - receives 0 victory point chips
+Titandrake - trashes Copper
+crablar - plays 3 Copper
+crablar - buys Militia
+crablar - gains Militia
+crablar - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Estate, Estate, Copper, Copper, Sea Hag
+ 
+---------- crablar: turn 4 ----------
+crablar - plays 3 Copper
+crablar - buys Silver
+crablar - gains Silver
+crablar - draws Silver, Estate
+crablar - shuffles deck
+crablar - draws Estate, Bishop, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Sea Hag
+crablar - discards Copper
+crablar - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- crablar: turn 5 ----------
+crablar - plays Bishop
+crablar - trashes Estate
+crablar - receives 1 victory point chips
+Titandrake - trashes Copper
+crablar - plays 1 Silver, 1 Copper
+crablar - buys Bishop
+crablar - gains Bishop
+crablar - draws Curse, Estate, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate, Copper, Bishop, Copper
+ 
+---------- crablar: turn 6 ----------
+crablar - plays 2 Copper, 1 Silver
+crablar - buys Militia
+crablar - gains Militia
+crablar - draws Copper, Militia, Copper
+crablar - shuffles deck
+crablar - draws Bishop, Bishop
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+crablar - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Hamlet, Sea Hag, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- crablar: turn 7 ----------
+crablar - plays Militia
+Titandrake - discards Hamlet
+Titandrake - discards Copper
+crablar - plays Copper
+crablar - buys Silver
+crablar - gains Silver
+crablar - draws Copper, Copper, Estate, Silver, Militia
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Sea Hag
+crablar - discards Copper
+crablar - gains Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- crablar: turn 8 ----------
+crablar - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Estate
+crablar - plays 2 Copper, 1 Silver
+crablar - buys Gold
+crablar - gains Gold
+crablar - draws Curse, Curse, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Silver, Bishop, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- crablar: turn 9 ----------
+crablar - plays 1 Silver, 1 Copper
+crablar - buys Silver
+crablar - gains Silver
+crablar - shuffles deck
+crablar - draws Copper, Silver, Copper, Curse, Militia
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+crablar - trashes Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Silver, Hamlet, Hamlet, Copper
+ 
+---------- crablar: turn 10 ----------
+crablar - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Hamlet
+crablar - plays 2 Copper, 1 Silver
+crablar - buys Gold
+crablar - gains Gold
+crablar - draws Bishop, Copper, Curse, Militia, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Sea Hag
+Titandrake - plays Sea Hag
+crablar - discards Estate
+crablar - gains Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- crablar: turn 11 ----------
+crablar - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+crablar - plays 1 Copper, 1 Silver
+crablar - buys Mint
+crablar - trashes Copper, Silver
+crablar - gains Mint
+crablar - draws Curse, Copper, Gold, Copper, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Catacombs
+Titandrake - gains Catacombs
+Titandrake - draws Copper, Hamlet, Sea Hag, Silver, Silver
+ 
+---------- crablar: turn 12 ----------
+crablar - plays 2 Copper, 1 Gold, 1 Silver
+crablar - buys Expand
+crablar - gains Expand
+crablar - draws Silver, Estate, Bishop
+crablar - shuffles deck
+crablar - draws Mint, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Sea Hag
+crablar - discards Bishop
+crablar - gains Curse
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Hamlet, Copper, Bishop, Silver
+ 
+---------- crablar: turn 13 ----------
+crablar - plays Bishop
+crablar - trashes Estate
+crablar - receives 1 victory point chips
+crablar - plays 1 Silver, 1 Copper
+crablar - buys Militia
+crablar - gains Militia
+crablar - draws Curse, Curse, Expand, Copper, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - discards Silver
+Titandrake - receives one buy
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+crablar - trashes Curse
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Catacombs, Copper, Silver, Sea Hag, Copper
+ 
+---------- crablar: turn 14 ----------
+crablar - plays Expand
+crablar - trashes Curse
+crablar - gains Silver
+crablar - plays 1 Copper, 1 Gold
+crablar - buys Talisman
+crablar - gains Talisman
+crablar - draws Silver, Gold, Curse, Militia, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sea Hag
+crablar - discards Militia
+crablar - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Silver, Copper, Silver, Gold, Copper
+ 
+---------- crablar: turn 15 ----------
+crablar - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+crablar - plays 1 Silver, 1 Gold
+crablar - buys Expand
+crablar - gains Expand
+crablar - draws Curse, Copper, Silver, Copper
+crablar - shuffles deck
+crablar - draws Militia
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Expand
+Titandrake - gains Expand
+Titandrake - draws Estate, Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper, Expand, Bishop
+ 
+---------- crablar: turn 16 ----------
+crablar - plays Militia
+Titandrake - discards Bishop
+Titandrake - discards Hamlet
+crablar - plays 2 Copper, 1 Silver
+crablar - buys Gold
+crablar - gains Gold
+crablar - draws Bishop, Estate, Gold, Expand, Militia
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Expand
+Titandrake - trashes Estate
+Titandrake - gains Catacombs
+Titandrake - draws Silver, Silver, Gold, Procession, Gold
+ 
+---------- crablar: turn 17 ----------
+crablar - plays Expand
+crablar - trashes Bishop
+crablar - gains Expand
+crablar - plays Gold
+crablar - buys Hamlet
+crablar - gains Hamlet
+crablar - draws Mint, Silver, Militia, Curse, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 2 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Sea Hag, Catacombs, Hamlet, Silver, Copper
+ 
+---------- crablar: turn 18 ----------
+crablar - plays Militia
+Titandrake - discards Sea Hag
+Titandrake - discards Copper
+crablar - plays 1 Silver, 1 Copper
+crablar - buys Mint
+crablar - trashes Silver, Copper
+crablar - gains Mint
+crablar - draws Bishop, Copper, Gold, Talisman, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - plays Catacombs
+Titandrake - looks at Copper, Silver, Hamlet
+Titandrake - places cards in hand:  Copper, Silver, Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Silver
+Titandrake - receives 1 victory point chips
+crablar - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Platinum, Hamlet, Silver, Hamlet
+ 
+---------- crablar: turn 19 ----------
+crablar - plays Bishop
+crablar - trashes Talisman
+crablar - receives 2 victory point chips
+crablar - plays 1 Gold, 1 Silver
+crablar - buys Gold
+crablar - gains Gold
+crablar - draws Silver, Expand
+crablar - shuffles deck
+crablar - draws Gold, Militia, Militia
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays 3 Silver, 1 Platinum, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Bishop, Copper, Gold, Procession, Catacombs
+ 
+---------- crablar: turn 20 ----------
+crablar - plays Expand
+crablar - trashes Militia
+crablar - gains Expand
+crablar - plays 1 Silver, 1 Gold
+crablar - buys Catacombs
+crablar - gains Catacombs
+crablar - draws Silver, Expand, Gold, Curse, Estate
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Procession
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+crablar - trashes Curse
+Titandrake - plays Bishop
+Titandrake - trashes Catacombs
+Titandrake - gains Bishop
+Titandrake - receives 2 victory point chips
+crablar - trashes Estate
+Titandrake - trashes Bishop
+Titandrake - gains Catacombs
+Titandrake - plays Gold
+Titandrake - buys Catacombs
+Titandrake - gains Catacombs
+Titandrake - draws Bishop, Copper, Sea Hag, Copper, Expand
+ 
+---------- crablar: turn 21 ----------
+crablar - plays Expand
+crablar - trashes Gold
+crablar - gains Platinum
+crablar - plays Silver
+crablar - buys Hamlet
+crablar - gains Hamlet
+crablar - draws Hamlet, Curse, Mint, Gold, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Sea Hag
+crablar - discards Copper
+crablar - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Hamlet, Catacombs, Gold, Silver, Hamlet
+ 
+---------- crablar: turn 22 ----------
+crablar - plays Hamlet
+crablar - draws Curse
+crablar - discards Curse
+crablar - receives one buy
+crablar - plays Mint
+crablar - reveals Gold
+crablar - gains Gold
+crablar - plays 1 Silver, 1 Gold
+crablar - buys Hamlet
+crablar - gains Hamlet
+crablar - buys Silver
+crablar - gains Silver
+crablar - draws Copper, Mint, Expand, Militia, Bishop
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - discards Silver
+Titandrake - receives one action
+Titandrake - plays Catacombs
+Titandrake - looks at Silver, Gold, Catacombs
+Titandrake - places cards in hand:  Silver, Gold, Catacombs
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Silver
+Titandrake - receives one buy
+Titandrake - plays Catacombs
+Titandrake - looks at Bishop, Bishop, Hamlet
+Titandrake - discards: Bishop, Bishop, Hamlet
+Titandrake - draws Hamlet, Silver, Copper
+Titandrake - plays Hamlet
+Titandrake - draws Procession
+Titandrake - discards Procession
+Titandrake - receives one buy
+Titandrake - plays 2 Gold, 2 Silver, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Catacombs, Colony, Copper, Hamlet, Platinum
+ 
+---------- crablar: turn 23 ----------
+crablar - plays Expand
+crablar - trashes Mint
+crablar - gains Province
+crablar - draws Gold
+crablar - shuffles deck
+crablar - draws Silver, Catacombs, Silver, Expand
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Expand
+Titandrake - discards Colony
+Titandrake - receives one action
+Titandrake - plays Catacombs
+Titandrake - looks at Sea Hag
+Titandrake - shuffles deck
+Titandrake - looks at Copper, Catacombs
+Titandrake - discards: Sea Hag, Copper, Catacombs
+Titandrake - draws Copper, Silver, Colony
+Titandrake - plays Expand
+Titandrake - trashes Colony
+Titandrake - gains Colony
+Titandrake - plays 2 Copper, 1 Platinum, 1 Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Bishop, Hamlet, Silver, Bishop, Gold
+ 
+---------- crablar: turn 24 ----------
+crablar - plays Expand
+crablar - trashes Catacombs
+crablar - gains Bishop
+crablar - gains Province
+crablar - plays 2 Silver, 1 Gold
+crablar - buys Expand
+crablar - gains Expand
+crablar - draws Copper, Expand, Silver, Gold, Curse
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Gold
+Titandrake - discards Silver
+Titandrake - receives one buy
+Titandrake - plays Bishop
+Titandrake - trashes Bishop
+Titandrake - receives 2 victory point chips
+crablar - trashes Curse
+Titandrake - plays 2 Gold
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Catacombs
+Titandrake - gains Catacombs
+Titandrake - draws Hamlet, Silver, Procession, Catacombs, Hamlet
+ 
+---------- crablar: turn 25 ----------
+crablar - plays Expand
+crablar - trashes Gold
+crablar - gains Platinum
+crablar - plays 1 Copper, 1 Silver
+crablar - buys Hamlet
+crablar - gains Hamlet
+crablar - draws Gold, Hamlet, Silver, Expand, Gold
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Silver
+Titandrake - receives one action
+Titandrake - plays Procession
+Titandrake - plays Catacombs
+Titandrake - looks at Colony, Silver
+Titandrake - shuffles deck
+Titandrake - looks at Hamlet
+Titandrake - discards: Colony, Silver, Hamlet
+Titandrake - draws Copper, Colony, Platinum
+Titandrake - plays Catacombs
+Titandrake - looks at Catacombs, Silver, Hamlet
+Titandrake - places cards in hand:  Catacombs, Silver, Hamlet
+Titandrake - trashes Catacombs
+Titandrake - gains Bishop
+Titandrake - plays Hamlet
+Titandrake - draws Bishop
+Titandrake - discards Colony
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Catacombs
+Titandrake - looks at Gold, Catacombs, Silver
+Titandrake - places cards in hand:  Gold, Catacombs, Silver
+Titandrake - plays Hamlet
+Titandrake - draws Gold
+Titandrake - discards Silver
+Titandrake - receives one action
+Titandrake - plays Catacombs
+Titandrake - looks at Silver, Platinum, Sea Hag
+Titandrake - places cards in hand:  Silver, Platinum, Sea Hag
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Bishop
+Titandrake - trashes Sea Hag
+Titandrake - receives 2 victory point chips
+Titandrake - plays 2 Platinum, 2 Silver, 2 Gold, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Hamlet, Expand, Copper, Catacombs
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- crablar: turn 26 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Hamlet, 3 Catacombs, 2 Bishop, 1 Expand, 1 Procession, 4 Silver, 3 Copper, 2 Platinum, 2 Gold, 4 Colony
+Titandrake - victory point chips: 17
+Titandrake - total victory points: 57
+Titandrake - turns: 25
+ 
+crablar - resigned
+crablar - cards: 5 Expand, 4 Hamlet, 2 Bishop, 2 Militia, 1 Mint, 4 Silver, 3 Gold, 2 Platinum, 2 Copper, 2 Province, 1 Curse
+crablar - victory point chips: 8
+crablar - total victory points: 19
+crablar - turns: 25
+ 
+1st place: Titandrake
+2nd place: crablar
+ 

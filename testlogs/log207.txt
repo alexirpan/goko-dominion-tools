@@ -1,0 +1,435 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Develop, Swindler, Workshop, Baron, Coppersmith, Bazaar, Journeyman, Royal Seal, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+cayvie - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+cayvie - shuffles deck
+Titandrake - shuffles deck
+cayvie - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- cayvie: turn 1 ----------
+cayvie - plays 4 Copper
+cayvie - buys Silver
+cayvie - gains Silver
+cayvie - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Baron
+Titandrake - gains Baron
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- cayvie: turn 2 ----------
+cayvie - plays 3 Copper
+cayvie - buys Swindler
+cayvie - gains Swindler
+cayvie - shuffles deck
+cayvie - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- cayvie: turn 3 ----------
+cayvie - plays 3 Copper
+cayvie - buys Swindler
+cayvie - gains Swindler
+cayvie - draws Copper, Silver, Estate, Swindler, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Copper, Copper, Copper, Swindler, Baron
+ 
+---------- cayvie: turn 4 ----------
+cayvie - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+cayvie - plays 2 Copper, 1 Silver
+cayvie - buys Nobles
+cayvie - gains Nobles
+cayvie - draws Copper, Copper
+cayvie - shuffles deck
+cayvie - draws Nobles, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Swindler
+cayvie - reveals Copper
+cayvie - trashes Copper
+cayvie - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Baron
+ 
+---------- cayvie: turn 5 ----------
+cayvie - plays Nobles
+cayvie - draws Estate, Copper, Silver
+cayvie - plays 5 Copper, 1 Silver
+cayvie - buys Nobles
+cayvie - gains Nobles
+cayvie - draws Swindler, Estate, Copper, Swindler, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Estate, Swindler, Estate, Bazaar
+ 
+---------- cayvie: turn 6 ----------
+cayvie - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+cayvie - plays 1 Copper
+cayvie - buys Native Village
+cayvie - gains Native Village
+cayvie - shuffles deck
+cayvie - draws Copper, Swindler, Nobles, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Curse
+Titandrake - plays Swindler
+cayvie - reveals Copper
+cayvie - trashes Copper
+cayvie - gains Curse
+Titandrake - plays Copper
+Titandrake - buys Develop
+Titandrake - gains Develop
+Titandrake - draws Copper, Native Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate
+ 
+---------- cayvie: turn 7 ----------
+cayvie - plays Swindler
+Titandrake - reveals Develop
+Titandrake - trashes Develop
+Titandrake - gains Workshop
+cayvie - plays 3 Copper
+cayvie - buys Journeyman
+cayvie - gains Journeyman
+cayvie - draws Copper, Nobles, Curse, Native Village, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: 
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Nobles, Curse, Copper, Baron, Copper
+ 
+---------- cayvie: turn 8 ----------
+cayvie - plays Native Village
+cayvie - sets aside Estate
+cayvie - plays Nobles
+cayvie - draws Silver, Copper, Swindler
+cayvie - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+cayvie - plays 2 Copper, 1 Silver
+cayvie - buys Nobles
+cayvie - gains Nobles
+cayvie - draws Estate
+cayvie - shuffles deck
+cayvie - draws Curse, Journeyman, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Nobles
+Titandrake - draws Swindler, Estate, Curse
+Titandrake - draws Bazaar
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Estate, Baron, Estate
+ 
+---------- cayvie: turn 9 ----------
+cayvie - plays Journeyman
+cayvie - names Swindler
+cayvie - reveals Nobles, Copper, Silver
+cayvie - places cards in hand:  Nobles, Copper, Silver
+cayvie - plays 3 Copper, 1 Silver
+cayvie - buys Bazaar
+cayvie - gains Bazaar
+cayvie - draws Swindler, Swindler, Nobles, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Native Village
+Titandrake - plays Nobles
+Titandrake - draws Curse, Estate, Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Swindler
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Curse, Workshop, Curse, Copper, Copper
+ 
+---------- cayvie: turn 10 ----------
+cayvie - plays Nobles
+cayvie - takes 2 actions
+cayvie - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+cayvie - plays Swindler
+Titandrake - reveals Native Village
+Titandrake - trashes Native Village
+Titandrake - gains Estate
+cayvie - plays 2 Copper
+cayvie - buys Nobles
+cayvie - gains Nobles
+cayvie - draws Estate, Nobles, Native Village, Curse
+cayvie - shuffles deck
+cayvie - draws Swindler
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Workshop
+Titandrake - gains Develop
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - shuffles deck
+Titandrake - draws Curse, Baron, Estate, Curse, Curse
+ 
+---------- cayvie: turn 11 ----------
+cayvie - plays Native Village
+cayvie - sets aside Silver
+cayvie - plays Nobles
+cayvie - draws Bazaar, Copper, Estate
+cayvie - plays Bazaar
+cayvie - draws Nobles
+cayvie - plays Nobles
+cayvie - draws Copper, Nobles, Swindler
+cayvie - plays Nobles
+cayvie - takes 2 actions
+cayvie - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+cayvie - plays Swindler
+Titandrake - reveals Nobles
+Titandrake - trashes Nobles
+Titandrake - gains Gold
+cayvie - plays 2 Copper
+cayvie - buys Nobles
+cayvie - gains Nobles
+cayvie - draws Copper, Copper, Copper, Journeyman, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - buys Develop
+Titandrake - gains Develop
+Titandrake - draws Estate, Workshop, Estate, Develop, Native Village
+ 
+---------- cayvie: turn 12 ----------
+cayvie - plays Journeyman
+cayvie - names Swindler
+cayvie - shuffles deck
+cayvie - reveals Nobles, Bazaar, Copper
+cayvie - places cards in hand:  Nobles, Bazaar, Copper
+cayvie - plays 4 Copper
+cayvie - buys Baron
+cayvie - gains Baron
+cayvie - draws Nobles, Estate, Copper, Nobles, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Swindler
+Titandrake - plays Swindler
+cayvie - reveals Native Village
+cayvie - trashes Native Village
+cayvie - gains Estate
+Titandrake - plays Develop
+Titandrake - trashes Estate
+Titandrake - gains Swindler
+Titandrake - draws Swindler, Copper, Native Village, Estate, Nobles
+ 
+---------- cayvie: turn 13 ----------
+cayvie - plays Nobles
+cayvie - takes 2 actions
+cayvie - plays Nobles
+cayvie - draws Swindler, Swindler, Nobles
+cayvie - plays Nobles
+cayvie - takes 2 actions
+cayvie - plays Swindler
+Titandrake - reveals Curse
+Titandrake - trashes Curse
+Titandrake - gains Curse
+cayvie - plays Swindler
+Titandrake - reveals Bazaar
+Titandrake - trashes Bazaar
+Titandrake - gains Royal Seal
+cayvie - plays 1 Copper
+cayvie - buys Bazaar
+cayvie - gains Bazaar
+cayvie - draws Nobles, Curse
+cayvie - shuffles deck
+cayvie - draws Copper, Bazaar, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: 
+Titandrake - plays Nobles
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Swindler
+Titandrake - plays Swindler
+cayvie - reveals Nobles
+cayvie - trashes Nobles
+cayvie - gains Gold
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Develop, Baron, Curse, Royal Seal, Workshop
+ 
+---------- cayvie: turn 14 ----------
+cayvie - plays Bazaar
+cayvie - draws Copper
+cayvie - plays Nobles
+cayvie - draws Baron, Swindler, Copper
+cayvie - plays Swindler
+Titandrake - reveals Native Village
+Titandrake - trashes Native Village
+Titandrake - gains Estate
+cayvie - plays 4 Copper
+cayvie - buys Nobles
+cayvie - gains Nobles
+cayvie - draws Estate, Swindler, Nobles, Estate, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Develop
+Titandrake - trashes Baron
+Titandrake - gains Duchy
+Titandrake - gains Develop
+Titandrake - plays Royal Seal
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - applied Royal Seal to place Native Village on top of the deck
+Titandrake - draws Native Village, Develop, Duchy, Develop, Estate
+ 
+---------- cayvie: turn 15 ----------
+cayvie - plays Swindler
+Titandrake - reveals Curse
+Titandrake - trashes Curse
+Titandrake - gains Curse
+cayvie - buys Native Village
+cayvie - gains Native Village
+cayvie - draws Estate, Nobles, Nobles, Copper, Bazaar
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Gold
+Titandrake - plays Develop
+Titandrake - trashes Develop
+Titandrake - gains Baron
+Titandrake - gains Estate
+Titandrake - draws Estate, Baron, Curse, Curse, Curse
+ 
+---------- cayvie: turn 16 ----------
+cayvie - plays Bazaar
+cayvie - draws Journeyman
+cayvie - plays Journeyman
+cayvie - names Curse
+cayvie - shuffles deck
+cayvie - reveals Copper, Copper, Nobles
+cayvie - places cards in hand:  Copper, Copper, Nobles
+cayvie - plays Nobles
+cayvie - takes 2 actions
+cayvie - plays Nobles
+cayvie - draws Bazaar, Gold, Baron
+cayvie - plays Bazaar
+cayvie - draws Native Village
+cayvie - plays Nobles
+cayvie - draws Nobles, Copper, Nobles
+cayvie - plays Native Village
+cayvie - sets aside Copper
+cayvie - plays Nobles
+cayvie - draws Curse, Estate, Curse
+cayvie - plays Baron
+cayvie - discards Estate
+cayvie - plays 4 Copper, 1 Gold
+cayvie - buys Province
+cayvie - gains Province
+cayvie - buys Native Village
+cayvie - gains Native Village
+cayvie - draws Swindler, Estate, Swindler
+cayvie - shuffles deck
+cayvie - draws Nobles, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - shuffles deck
+Titandrake - draws Workshop, Nobles, Swindler, Copper, Swindler
+ 
+---------- cayvie: turn 17 ----------
+cayvie - plays Nobles
+cayvie - takes 2 actions
+cayvie - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Native Village
+cayvie - plays Swindler
+Titandrake - reveals Curse
+Titandrake - trashes Curse
+Titandrake - gains Curse
+cayvie - plays 1 Copper
+cayvie - buys Native Village
+cayvie - gains Native Village
+cayvie - draws Native Village, Curse, Baron, Copper, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Swindler
+cayvie - reveals Journeyman
+cayvie - trashes Journeyman
+cayvie - gains Journeyman
+Titandrake - plays Swindler
+cayvie - reveals Native Village
+cayvie - trashes Native Village
+cayvie - gains Estate
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Native Village, Copper, Swindler, Develop, Curse
+ 
+---------- cayvie: turn 18 ----------
+cayvie - plays Native Village
+cayvie - takes set aside cards: Estate, Silver, Copper
+cayvie - plays Baron
+cayvie - discards Estate
+cayvie - plays 3 Copper, 1 Silver
+cayvie - buys Native Village
+cayvie - gains Native Village
+cayvie - buys Duchy
+cayvie - gains Duchy
+cayvie - draws Curse, Province, Bazaar, Estate, Bazaar
+ 
+------------ Game Over ------------
+cayvie - cards: 5 Nobles, 3 Native Village, 2 Bazaar, 2 Swindler, 1 Journeyman, 1 Baron, 5 Copper, 1 Silver, 1 Gold, 5 Estate, 1 Province, 1 Duchy, 2 Curse
+cayvie - total victory points: 22
+cayvie - turns: 18
+ 
+Titandrake - cards: 3 Native Village, 3 Swindler, 2 Develop, 1 Nobles, 1 Workshop, 1 Baron, 2 Copper, 1 Royal Seal, 1 Silver, 1 Gold, 4 Estate, 2 Duchy, 5 Curse
+Titandrake - total victory points: 7
+Titandrake - turns: 17
+ 
+1st place: cayvie
+2nd place: Titandrake
+ 

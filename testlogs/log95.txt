@@ -1,0 +1,410 @@
+------------ Game Setup ------------
+Supply cards: Hermit, Steward, Philosopher's Stone, Trader, Treasure Map, Festival, Governor, Junk Dealer, Mine, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+dudeabides - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dudeabides - shuffles deck
+Titandrake - shuffles deck
+dudeabides - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- dudeabides: turn 1 ----------
+dudeabides - plays 3 Copper
+dudeabides - buys Steward
+dudeabides - gains Steward
+dudeabides - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- dudeabides: turn 2 ----------
+dudeabides - plays 4 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - shuffles deck
+dudeabides - draws Silver, Steward, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 3 ----------
+dudeabides - plays Steward
+dudeabides - trashes Copper, Estate
+dudeabides - plays 1 Silver, 1 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Steward, Copper, Silver
+ 
+---------- dudeabides: turn 4 ----------
+dudeabides - plays 3 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Copper
+dudeabides - shuffles deck
+dudeabides - draws Silver, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Silver
+ 
+---------- dudeabides: turn 5 ----------
+dudeabides - plays 2 Copper, 1 Silver
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Copper, Copper, Steward, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Estate, Steward, Copper, Copper, Silver
+ 
+---------- dudeabides: turn 6 ----------
+dudeabides - plays Steward
+dudeabides - trashes Copper, Copper
+dudeabides - plays 1 Copper, 1 Silver
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Silver
+dudeabides - shuffles deck
+dudeabides - draws Copper, Silver, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Estate
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Steward, Silver, Silver
+ 
+---------- dudeabides: turn 7 ----------
+dudeabides - plays 3 Silver, 2 Copper
+dudeabides - buys Festival
+dudeabides - gains Festival
+dudeabides - draws Estate, Copper, Steward, Silver, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Silver, Torturer, Estate
+ 
+---------- dudeabides: turn 8 ----------
+dudeabides - plays Steward
+dudeabides - trashes Copper, Estate
+dudeabides - plays 2 Silver
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Estate
+dudeabides - shuffles deck
+dudeabides - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Torturer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Steward
+dudeabides - gains Curse
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Steward, Silver
+ 
+---------- dudeabides: turn 9 ----------
+dudeabides - plays 3 Copper, 1 Silver
+dudeabides - buys Junk Dealer
+dudeabides - gains Junk Dealer
+dudeabides - draws Silver, Silver, Silver, Festival, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 4 Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Torturer, Festival, Estate, Estate, Copper
+ 
+---------- dudeabides: turn 10 ----------
+dudeabides - plays Festival
+dudeabides - plays 4 Silver
+dudeabides - buys Torturer
+dudeabides - gains Torturer
+dudeabides - buys Festival
+dudeabides - gains Festival
+dudeabides - draws Steward, Silver
+dudeabides - shuffles deck
+dudeabides - draws Torturer, Estate, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Steward
+dudeabides - discards Torturer
+dudeabides - discards Silver
+Titandrake - plays Steward
+Titandrake - trashes Estate, Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Silver, Silver, Festival, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- dudeabides: turn 11 ----------
+dudeabides - plays Steward
+dudeabides - trashes Copper, Estate
+dudeabides - draws Silver, Silver, Copper, Silver, Festival
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Festival
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Copper, Festival, Torturer, Steward, Torturer
+ 
+---------- dudeabides: turn 12 ----------
+dudeabides - plays Festival
+dudeabides - plays 3 Silver, 1 Copper
+dudeabides - buys Festival
+dudeabides - gains Festival
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Silver, Festival, Curse, Copper, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Festival
+dudeabides - discards Copper
+dudeabides - discards Curse
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Silver, Copper, Festival
+dudeabides - gains Curse
+Titandrake - plays Festival
+Titandrake - plays Steward
+Titandrake - draws Silver
+Titandrake - plays 4 Silver, 2 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - shuffles deck
+Titandrake - draws Silver, Torturer, Silver, Torturer, Festival
+ 
+---------- dudeabides: turn 13 ----------
+dudeabides - plays Festival
+dudeabides - plays 2 Silver
+dudeabides - buys Torturer
+dudeabides - gains Torturer
+dudeabides - draws Junk Dealer
+dudeabides - shuffles deck
+dudeabides - draws Curse, Festival, Festival, Curse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Copper, Silver, Festival
+dudeabides - gains Curse
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Torturer, Copper, Steward
+dudeabides - gains Curse
+Titandrake - plays Torturer
+Titandrake - draws Festival, Festival, Festival
+dudeabides - discards Curse
+dudeabides - discards Curse
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Torturer, Festival, Copper, Torturer
+ 
+---------- dudeabides: turn 14 ----------
+dudeabides - plays Junk Dealer
+dudeabides - draws Silver
+dudeabides - trashes Curse
+dudeabides - plays Festival
+dudeabides - plays Festival
+dudeabides - plays 1 Silver
+dudeabides - buys Junk Dealer
+dudeabides - gains Junk Dealer
+dudeabides - draws Steward, Festival, Copper, Silver, Torturer
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Steward, Festival, Festival
+dudeabides - gains Curse
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Silver, Festival, Festival
+dudeabides - gains Curse
+Titandrake - plays Festival
+Titandrake - plays Steward
+Titandrake - draws Silver, Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Torturer, Festival
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- dudeabides: turn 15 ----------
+dudeabides - plays Festival
+dudeabides - plays Torturer
+dudeabides - draws Torturer, Silver, Silver
+Titandrake - gains Curse
+dudeabides - plays Steward
+dudeabides - trashes Curse, Curse
+dudeabides - plays 3 Silver, 1 Copper
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Copper, Silver, Silver, Silver
+dudeabides - shuffles deck
+dudeabides - draws Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Silver, Gold, Festival
+dudeabides - gains Curse
+Titandrake - plays Festival
+Titandrake - plays 3 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Festival, Copper, Festival, Province, Festival
+ 
+---------- dudeabides: turn 16 ----------
+dudeabides - plays 3 Silver, 2 Copper
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - draws Festival, Curse, Torturer, Torturer, Steward
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Steward, Festival, Torturer, Torturer, Torturer
+ 
+---------- dudeabides: turn 17 ----------
+dudeabides - plays Festival
+dudeabides - plays Torturer
+dudeabides - draws Silver, Junk Dealer, Silver
+Titandrake - gains Curse
+dudeabides - plays Junk Dealer
+dudeabides - draws Junk Dealer
+dudeabides - trashes Curse
+dudeabides - plays Junk Dealer
+dudeabides - draws Province
+dudeabides - trashes Steward
+dudeabides - plays Torturer
+dudeabides - draws Curse, Festival, Silver
+Titandrake - gains Curse
+dudeabides - plays 3 Silver
+dudeabides - buys Province
+dudeabides - gains Province
+dudeabides - buys Estate
+dudeabides - gains Estate
+dudeabides - draws Festival, Silver, Curse
+dudeabides - shuffles deck
+dudeabides - draws Curse, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Silver, Festival
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Festival, Curse, Festival
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Torturer, Festival, Duchy
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Province, Torturer, Province
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Silver, Festival, Copper
+Titandrake - plays Festival
+Titandrake - plays Steward
+Titandrake - trashes Curse, Curse
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Festival, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- dudeabides: turn 18 ----------
+dudeabides - plays Festival
+dudeabides - plays 1 Silver, 1 Copper
+dudeabides - buys Duchy
+dudeabides - gains Duchy
+dudeabides - draws Junk Dealer, Torturer, Silver, Curse, Torturer
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Festival
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Festival, Silver, Estate, Torturer, Torturer
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Festival, 5 Torturer, 1 Steward, 4 Silver, 2 Copper, 1 Gold, 5 Province, 1 Estate, 1 Duchy, 1 Curse
+Titandrake - total victory points: 33
+Titandrake - turns: 18
+ 
+dudeabides - cards: 3 Festival, 2 Junk Dealer, 2 Torturer, 7 Silver, 2 Copper, 3 Province, 1 Duchy, 1 Estate, 3 Curse
+dudeabides - total victory points: 19
+dudeabides - turns: 18
+ 
+1st place: Titandrake
+2nd place: dudeabides
+ 

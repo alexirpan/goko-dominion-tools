@@ -1,0 +1,773 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Doctor, Familiar, Mining Village, Ghost Ship, Rabble, Royal Seal, Altar, Hoard, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Emeric - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Emeric - shuffles deck
+Titandrake - shuffles deck
+Emeric - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Doctor
+Titandrake - overpays for Doctor with 2 coins
+Titandrake - looks at Copper
+Titandrake - trashes Copper
+Titandrake - looks at Estate
+Titandrake - trashes Estate
+Titandrake - gains Doctor
+Titandrake - draws Copper, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Emeric: turn 1 ----------
+Emeric - plays 5 Copper
+Emeric - buys Doctor
+Emeric - overpays for Doctor with 2 coins
+Emeric - looks at Copper
+Emeric - trashes Copper
+Emeric - looks at Estate
+Emeric - trashes Estate
+Emeric - gains Doctor
+Emeric - draws Estate, Estate, Copper
+Emeric - shuffles deck
+Emeric - draws Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Doctor, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Emeric: turn 2 ----------
+Emeric - plays 3 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Copper, Copper, Copper, Doctor
+Emeric - shuffles deck
+Emeric - draws Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Copper, Silver, Copper
+Titandrake - trashes Copper, Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Doctor, Silver
+ 
+---------- Emeric: turn 3 ----------
+Emeric - plays Doctor
+Emeric - names Estate
+Emeric - reveals: Silver, Estate, Copper
+Emeric - trashes Estate
+Emeric - places Copper on top of deck
+Emeric - places Silver on top of deck
+Emeric - plays 4 Copper
+Emeric - buys Mining Village
+Emeric - gains Mining Village
+Emeric - draws Silver, Copper, Estate, Copper
+Emeric - shuffles deck
+Emeric - draws Doctor
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - reveals: Copper, Estate, Copper
+Titandrake - trashes Estate
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Mining Village
+ 
+---------- Emeric: turn 4 ----------
+Emeric - plays Doctor
+Emeric - names Copper
+Emeric - reveals: Copper, Copper, Copper
+Emeric - trashes Copper, Copper, Copper
+Emeric - plays 2 Copper, 1 Silver
+Emeric - buys Mining Village
+Emeric - gains Mining Village
+Emeric - draws Copper, Mining Village
+Emeric - shuffles deck
+Emeric - draws Copper, Mining Village, Doctor
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - draws Estate, Silver, Doctor
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Emeric: turn 5 ----------
+Emeric - plays Mining Village
+Emeric - draws Estate
+Emeric - plays Doctor
+Emeric - names Estate
+Emeric - reveals: Copper, Silver
+Emeric - places Silver on top of deck
+Emeric - places Copper on top of deck
+Emeric - plays Mining Village
+Emeric - draws Copper
+Emeric - plays 3 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Silver
+Emeric - shuffles deck
+Emeric - draws Mining Village, Estate, Copper, Mining Village
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Altar, Mining Village, Copper
+Titandrake - trashes Copper
+Titandrake - places Mining Village on top of deck
+Titandrake - places Altar on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Altar, Mining Village, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Mining Village
+ 
+---------- Emeric: turn 6 ----------
+Emeric - plays Mining Village
+Emeric - draws Copper
+Emeric - plays Mining Village
+Emeric - draws Copper
+Emeric - plays 3 Copper, 1 Silver
+Emeric - buys Ghost Ship
+Emeric - gains Ghost Ship
+Emeric - draws Doctor, Silver
+Emeric - shuffles deck
+Emeric - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Ghost Ship
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Copper, Estate, Doctor
+Titandrake - shuffles deck
+Titandrake - draws Mining Village, Silver
+ 
+---------- Emeric: turn 7 ----------
+Emeric - plays Doctor
+Emeric - names Copper
+Emeric - reveals: Silver, Mining Village, Mining Village
+Emeric - places Mining Village on top of deck
+Emeric - places Mining Village on top of deck
+Emeric - places Silver on top of deck
+Emeric - plays 2 Copper, 1 Silver
+Emeric - buys Mining Village
+Emeric - gains Mining Village
+Emeric - draws Silver, Mining Village, Mining Village, Copper, Ghost Ship
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Ghost Ship
+Titandrake - plays Ghost Ship
+Titandrake - draws Mining Village, Altar
+Emeric - places Mining Village on top of deck
+Emeric - places Copper on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Rabble
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Silver, Mining Village
+Titandrake - shuffles deck
+Titandrake - reveals: Rabble
+Titandrake - places Rabble on top of deck
+Titandrake - places Mining Village on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Silver, Mining Village, Rabble
+Titandrake - shuffles deck
+Titandrake - draws Silver, Mining Village
+ 
+---------- Emeric: turn 8 ----------
+Emeric - plays Mining Village
+Emeric - draws Copper
+Emeric - plays Ghost Ship
+Emeric - draws Mining Village
+Emeric - shuffles deck
+Emeric - draws Mining Village
+Titandrake - places Silver on top of deck
+Titandrake - places Silver on top of deck
+Emeric - plays Mining Village
+Emeric - draws Copper
+Emeric - plays Mining Village
+Emeric - draws Estate
+Emeric - plays 2 Copper, 1 Silver
+Emeric - buys Mining Village
+Emeric - gains Mining Village
+Emeric - draws Doctor, Silver, Copper
+Emeric - shuffles deck
+Emeric - draws Estate, Mining Village
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Rabble
+Titandrake - draws Silver, Mining Village, Mining Village
+Emeric - reveals Mining Village, Copper, Ghost Ship
+Emeric - discards: Mining Village, Copper, Ghost Ship
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Doctor
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Altar, Ghost Ship
+Titandrake - places Ghost Ship on top of deck
+Titandrake - places Altar on top of deck
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 4 coins
+Titandrake - gains Mining Village
+Titandrake - gains Mining Village
+Titandrake - gains Stonemason
+Titandrake - draws Altar, Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Mining Village, Silver, Rabble
+ 
+---------- Emeric: turn 9 ----------
+Emeric - plays Mining Village
+Emeric - draws Mining Village
+Emeric - plays Mining Village
+Emeric - draws Copper
+Emeric - plays Doctor
+Emeric - names Copper
+Emeric - reveals: Silver, Mining Village
+Emeric - shuffles deck
+Emeric - reveals: Mining Village
+Emeric - places Mining Village on top of deck
+Emeric - places Mining Village on top of deck
+Emeric - places Silver on top of deck
+Emeric - plays 2 Copper, 1 Silver
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Silver, Mining Village, Mining Village, Ghost Ship, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Mining Village
+Emeric - places Silver on top of deck
+Emeric - places Copper on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Rabble
+Titandrake - draws Doctor, Stonemason, Mining Village
+Emeric - reveals Copper, Silver
+Emeric - shuffles deck
+Emeric - reveals Mining Village
+Emeric - discards: Copper, Silver, Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Royal Seal
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Royal Seal
+Titandrake - plays 2 Silver, 1 Copper, 1 Royal Seal
+Titandrake - buys Forge
+Titandrake - gains Forge
+Titandrake - shuffles deck
+Titandrake - draws Royal Seal, Copper, Forge, Silver, Silver
+ 
+---------- Emeric: turn 10 ----------
+Emeric - plays Mining Village
+Emeric - draws Silver
+Emeric - plays Mining Village
+Emeric - draws Copper
+Emeric - plays Ghost Ship
+Emeric - draws Mining Village, Copper
+Titandrake - places Forge on top of deck
+Titandrake - places Copper on top of deck
+Emeric - plays Mining Village
+Emeric - draws Estate
+Emeric - plays 2 Copper, 1 Silver
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Doctor, Silver
+Emeric - shuffles deck
+Emeric - draws Mining Village, Mining Village, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Silver, 1 Royal Seal
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Copper, Forge, Mining Village, Mining Village, Ghost Ship
+ 
+---------- Emeric: turn 11 ----------
+Emeric - plays Mining Village
+Emeric - draws Mining Village
+Emeric - plays Doctor
+Emeric - names Estate
+Emeric - reveals: Copper, Copper, Ghost Ship
+Emeric - places Copper on top of deck
+Emeric - places Copper on top of deck
+Emeric - places Ghost Ship on top of deck
+Emeric - plays Mining Village
+Emeric - draws Ghost Ship
+Emeric - plays Mining Village
+Emeric - draws Copper
+Emeric - plays Ghost Ship
+Emeric - draws Copper, Silver
+Titandrake - places Copper on top of deck
+Titandrake - places Forge on top of deck
+Emeric - plays 3 Silver, 2 Copper
+Emeric - buys Altar
+Emeric - gains Altar
+Emeric - draws Mining Village, Estate, Silver, Copper
+Emeric - shuffles deck
+Emeric - draws Mining Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Forge
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Rabble
+Emeric - places Copper on top of deck
+Emeric - places Silver on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Altar
+Titandrake - plays Rabble
+Titandrake - draws Mining Village, Stonemason, Mining Village
+Emeric - reveals Silver, Copper, Silver
+Emeric - discards: Silver, Copper, Silver
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Doctor
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Rabble
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Doctor
+Titandrake - names Silver
+Titandrake - reveals: Silver, Rabble, Royal Seal
+Titandrake - trashes Silver
+Titandrake - places Royal Seal on top of deck
+Titandrake - places Rabble on top of deck
+Titandrake - plays Forge
+Titandrake - trashes Stonemason, Silver
+Titandrake - gains Rabble
+Titandrake - draws Rabble, Royal Seal, Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Mining Village, Mining Village
+ 
+---------- Emeric: turn 12 ----------
+Emeric - plays Mining Village
+Emeric - draws Mining Village
+Emeric - plays Mining Village
+Emeric - draws Doctor
+Emeric - plays Mining Village
+Emeric - draws Ghost Ship
+Emeric - plays Ghost Ship
+Emeric - draws Copper, Silver
+Titandrake - places Royal Seal on top of deck
+Titandrake - places Ghost Ship on top of deck
+Emeric - plays Doctor
+Emeric - names Copper
+Emeric - reveals: Altar, Copper, Silver
+Emeric - trashes Copper
+Emeric - places Silver on top of deck
+Emeric - places Altar on top of deck
+Emeric - plays 1 Copper, 1 Silver
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Altar, Silver, Mining Village
+Emeric - shuffles deck
+Emeric - draws Copper, Ghost Ship
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Ghost Ship
+Titandrake - plays Rabble
+Titandrake - draws Royal Seal, Mining Village, Rabble
+Emeric - reveals Estate, Mining Village, Copper
+Emeric - discards: Mining Village, Copper
+Emeric - places Estate on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Ghost Ship
+Titandrake - plays Rabble
+Titandrake - draws Mining Village, Altar, Forge
+Emeric - reveals Estate, Mining Village, Mining Village
+Emeric - discards: Mining Village, Mining Village
+Emeric - places Estate on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Ghost Ship
+Titandrake - draws Doctor, Rabble
+Emeric - places Copper on top of deck
+Emeric - places Silver on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Forge
+Titandrake - trashes Doctor, Ghost Ship
+Titandrake - gains Province
+Titandrake - plays Royal Seal
+Titandrake - buys Stonemason
+Titandrake - gains Stonemason
+Titandrake - shuffles deck
+Titandrake - draws Mining Village, Mining Village, Royal Seal, Forge, Mining Village
+ 
+---------- Emeric: turn 13 ----------
+Emeric - plays Mining Village
+Emeric - draws Silver
+Emeric - plays Ghost Ship
+Emeric - draws Copper, Estate
+Titandrake - places Royal Seal on top of deck
+Titandrake - places Forge on top of deck
+Emeric - plays Altar
+Emeric - trashes Estate
+Emeric - gains Rabble
+Emeric - plays 1 Silver, 1 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Silver, Silver, Doctor, Silver, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Forge
+Titandrake - plays Mining Village
+Titandrake - draws Royal Seal
+Titandrake - plays Mining Village
+Titandrake - draws Ghost Ship
+Titandrake - plays Ghost Ship
+Titandrake - draws Province, Mining Village
+Emeric - places Doctor on top of deck
+Emeric - places Silver on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Rabble
+Titandrake - plays Rabble
+Titandrake - draws Rabble, Rabble, Mining Village
+Emeric - reveals Silver, Doctor
+Emeric - shuffles deck
+Emeric - reveals Copper
+Emeric - discards: Silver, Doctor, Copper
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Rabble
+Titandrake - draws Altar, Stonemason
+Emeric - reveals Silver, Mining Village, Rabble
+Emeric - discards: Silver, Mining Village, Rabble
+Titandrake - plays Stonemason
+Titandrake - trashes Province
+Titandrake - gains Gold
+Titandrake - gains Hoard
+Titandrake - plays Rabble
+Titandrake - shuffles deck
+Titandrake - draws Gold, Hoard
+Emeric - reveals Mining Village, Ghost Ship, Altar
+Emeric - discards: Mining Village, Ghost Ship, Altar
+Titandrake - plays Mining Village
+Titandrake - plays Forge
+Titandrake - trashes Gold, Royal Seal
+Titandrake - gains Colony
+Titandrake - plays Hoard
+Titandrake - buys Estate
+Titandrake - gains Gold
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Mining Village, Colony, Mining Village, Rabble, Mining Village
+ 
+---------- Emeric: turn 14 ----------
+Emeric - plays 3 Silver
+Emeric - buys Rabble
+Emeric - gains Rabble
+Emeric - draws Mining Village, Copper, Mining Village, Silver
+Emeric - shuffles deck
+Emeric - draws Rabble
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Rabble
+Titandrake - plays Rabble
+Titandrake - draws Hoard, Ghost Ship, Mining Village
+Emeric - reveals Silver, Doctor, Copper
+Emeric - discards: Silver, Doctor, Copper
+Titandrake - plays Mining Village
+Titandrake - draws Gold
+Titandrake - plays Rabble
+Titandrake - draws Forge, Mining Village, Estate
+Emeric - reveals Rabble, Silver, Silver
+Emeric - discards: Rabble, Silver, Silver
+Titandrake - plays Mining Village
+Titandrake - draws Altar
+Titandrake - plays Mining Village
+Titandrake - draws Rabble
+Titandrake - plays Ghost Ship
+Titandrake - draws Stonemason, Mining Village
+Emeric - places Silver on top of deck
+Emeric - places Copper on top of deck
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Rabble
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Rabble
+Titandrake - plays Forge
+Titandrake - trashes Gold, Rabble
+Titandrake - gains Colony
+Titandrake - plays Hoard
+Titandrake - buys Estate
+Titandrake - gains Gold
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Forge, Ghost Ship, Colony, Mining Village, Rabble
+ 
+---------- Emeric: turn 15 ----------
+Emeric - plays Mining Village
+Emeric - draws Copper
+Emeric - plays Rabble
+Emeric - draws Silver, Ghost Ship, Mining Village
+Titandrake - reveals Estate, Altar, Rabble
+Titandrake - discards: Altar, Rabble
+Titandrake - places Estate on top of deck
+Emeric - plays Mining Village
+Emeric - draws Silver
+Emeric - plays Ghost Ship
+Emeric - draws Mining Village, Silver
+Titandrake - places Colony on top of deck
+Titandrake - places Forge on top of deck
+Emeric - plays Mining Village
+Emeric - draws Altar
+Emeric - plays Altar
+Emeric - trashes Copper
+Emeric - gains Rabble
+Emeric - plays Mining Village
+Emeric - shuffles deck
+Emeric - draws Silver
+Emeric - plays 4 Silver
+Emeric - buys Gold
+Emeric - gains Gold
+Emeric - draws Rabble, Rabble, Copper, Silver, Doctor
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Forge
+Titandrake - plays Rabble
+Titandrake - draws Colony, Estate, Rabble
+Emeric - reveals Silver
+Emeric - shuffles deck
+Emeric - reveals Mining Village, Silver
+Emeric - discards: Silver, Mining Village, Silver
+Titandrake - plays Forge
+Titandrake - trashes Colony
+Titandrake - gains Colony
+Titandrake - draws Mining Village, Mining Village, Mining Village, Stonemason, Mining Village
+ 
+---------- Emeric: turn 16 ----------
+Emeric - plays Doctor
+Emeric - names Silver
+Emeric - reveals: Mining Village, Mining Village, Ghost Ship
+Emeric - places Ghost Ship on top of deck
+Emeric - places Mining Village on top of deck
+Emeric - places Mining Village on top of deck
+Emeric - draws Mining Village, Mining Village, Ghost Ship, Silver, Mining Village
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Colony
+Titandrake - plays Mining Village
+Titandrake - draws Gold
+Titandrake - plays Mining Village
+Titandrake - draws Hoard
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Forge
+Titandrake - plays Forge
+Titandrake - trashes Colony
+Titandrake - gains Colony
+Titandrake - plays 1 Gold
+Titandrake - plays Hoard
+Titandrake - buys Rabble
+Titandrake - gains Rabble
+Titandrake - draws Colony, Rabble, Ghost Ship, Altar, Rabble
+ 
+---------- Emeric: turn 17 ----------
+Emeric - plays Mining Village
+Emeric - draws Silver
+Emeric - plays Mining Village
+Emeric - draws Altar
+Emeric - plays Mining Village
+Emeric - draws Silver
+Emeric - plays Ghost Ship
+Emeric - draws Gold, Rabble
+Titandrake - places Altar on top of deck
+Titandrake - places Rabble on top of deck
+Emeric - plays Rabble
+Emeric - shuffles deck
+Emeric - draws Doctor, Silver, Copper
+Titandrake - reveals Rabble, Altar, Rabble
+Titandrake - discards: Rabble, Altar, Rabble
+Emeric - plays Altar
+Emeric - trashes Doctor
+Emeric - gains Rabble
+Emeric - plays 4 Silver, 1 Gold, 1 Copper
+Emeric - buys Colony
+Emeric - gains Colony
+Emeric - draws Silver, Rabble, Mining Village, Rabble, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Mining Village, Estate
+Emeric - places Silver on top of deck
+Emeric - places Silver on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Mining Village, Rabble, Rabble, Altar, Mining Village
+ 
+---------- Emeric: turn 18 ----------
+Emeric - plays Mining Village
+Emeric - draws Silver
+Emeric - plays Rabble
+Emeric - draws Silver
+Emeric - shuffles deck
+Emeric - draws Colony, Rabble
+Titandrake - reveals Rabble, Mining Village, Forge
+Titandrake - discards: Rabble, Mining Village, Forge
+Emeric - plays Rabble
+Emeric - draws Gold, Altar, Copper
+Titandrake - reveals Ghost Ship, Gold, Mining Village
+Titandrake - discards: Ghost Ship, Gold, Mining Village
+Emeric - plays 2 Silver, 1 Gold, 1 Copper
+Emeric - buys Province
+Emeric - gains Province
+Emeric - draws Silver, Mining Village, Silver, Rabble, Mining Village
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Estate
+Titandrake - plays Rabble
+Titandrake - draws Hoard, Stonemason, Colony
+Emeric - reveals Silver, Ghost Ship, Mining Village
+Emeric - discards: Silver, Ghost Ship, Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Colony
+Titandrake - plays Rabble
+Titandrake - draws Mining Village, Rabble, Mining Village
+Emeric - reveals Silver
+Emeric - shuffles deck
+Emeric - reveals Rabble, Silver
+Emeric - discards: Silver, Rabble, Silver
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays Mining Village
+Titandrake - draws Rabble
+Titandrake - plays Rabble
+Titandrake - draws Mining Village, Forge, Mining Village
+Emeric - reveals Ghost Ship, Colony, Province
+Emeric - discards Ghost Ship
+Emeric - places Province on top of deck
+Emeric - places Colony on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Ghost Ship
+Titandrake - trashes Mining Village
+Titandrake - plays Stonemason
+Titandrake - trashes Colony
+Titandrake - gains Forge
+Titandrake - gains Platinum
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Forge
+Titandrake - trashes Mining Village
+Titandrake - plays Ghost Ship
+Titandrake - draws Platinum
+Emeric - places Silver on top of deck
+Emeric - places Silver on top of deck
+Titandrake - plays Forge
+Titandrake - trashes Altar, Rabble
+Titandrake - gains Colony
+Titandrake - plays Forge
+Titandrake - trashes Estate, Platinum
+Titandrake - gains Colony
+Titandrake - plays 1 Gold
+Titandrake - plays Hoard
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Colony, Stonemason, Mining Village, Mining Village, Forge
+ 
+---------- Emeric: turn 19 ----------
+Emeric - plays Mining Village
+Emeric - draws Silver
+Emeric - plays Rabble
+Emeric - draws Silver, Colony, Province
+Titandrake - reveals Mining Village, Province, Rabble
+Titandrake - discards: Mining Village, Rabble
+Titandrake - places Province on top of deck
+Emeric - plays Mining Village
+Emeric - draws Altar
+Emeric - plays Altar
+Emeric - trashes Silver
+Emeric - gains Duchy
+Emeric - plays Silver
+Emeric - buys Stonemason
+Emeric - gains Stonemason
+Emeric - draws Rabble, Mining Village, Rabble, Copper, Mining Village
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Province
+Titandrake - trashes Mining Village
+Titandrake - plays Forge
+Titandrake - trashes Colony
+Titandrake - gains Colony
+Titandrake - draws Colony, Rabble, Hoard, Gold, Mining Village
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Rabble, 3 Mining Village, 2 Forge, 1 Stonemason, 1 Ghost Ship, 2 Gold, 1 Hoard, 3 Colony, 1 Province
+Titandrake - total victory points: 36
+Titandrake - turns: 20
+ 
+Emeric - cards: 4 Rabble, 4 Mining Village, 1 Ghost Ship, 1 Stonemason, 1 Altar, 5 Silver, 1 Copper, 1 Gold, 1 Duchy, 1 Colony, 1 Province
+Emeric - total victory points: 19
+Emeric - turns: 19
+ 
+1st place: Titandrake
+2nd place: Emeric
+ 

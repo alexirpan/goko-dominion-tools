@@ -1,0 +1,368 @@
+------------ Game Setup ------------
+Supply cards: Fortune Teller, Lookout, Trade Route, Quarry, Remodel, Talisman, Golem, Horn of Plenty, Outpost, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+hoopity - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+hoopity - shuffles deck
+Titandrake - shuffles deck
+hoopity - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- hoopity: turn 1 ----------
+hoopity - plays 4 Copper
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- hoopity: turn 2 ----------
+hoopity - plays 3 Copper
+hoopity - buys Lookout
+hoopity - gains Lookout
+hoopity - shuffles deck
+hoopity - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- hoopity: turn 3 ----------
+hoopity - plays 3 Copper, 1 Silver
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- hoopity: turn 4 ----------
+hoopity - plays 3 Copper
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Lookout, Copper
+hoopity - shuffles deck
+hoopity - draws Copper, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver
+ 
+---------- hoopity: turn 5 ----------
+hoopity - plays Lookout
+hoopity - trashes Estate
+hoopity - discards Estate
+hoopity - places Silver on top of deck
+hoopity - plays 3 Copper, 1 Silver
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Silver, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Gold, Copper, Estate, Copper
+ 
+---------- hoopity: turn 6 ----------
+hoopity - plays 3 Copper, 2 Silver
+hoopity - buys Expand
+hoopity - gains Expand
+hoopity - draws Copper, Estate
+hoopity - shuffles deck
+hoopity - draws Lookout, Expand, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- hoopity: turn 7 ----------
+hoopity - plays Lookout
+hoopity - trashes Copper
+hoopity - discards Silver
+hoopity - places Silver on top of deck
+hoopity - plays Expand
+hoopity - trashes Estate
+hoopity - gains Outpost
+hoopity - draws Silver, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Estate, Gold, Gold
+ 
+---------- hoopity: turn 8 ----------
+hoopity - plays 3 Copper, 2 Silver
+hoopity - buys Gold
+hoopity - gains Gold
+hoopity - draws Estate, Silver, Copper
+hoopity - shuffles deck
+hoopity - draws Lookout, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Gold, 1 Silver, 1 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Copper, Copper, Copper, Copper, Gold
+ 
+---------- hoopity: turn 9 ----------
+hoopity - plays Lookout
+hoopity - trashes Copper
+hoopity - discards Silver
+hoopity - places Silver on top of deck
+hoopity - plays 2 Copper, 1 Silver
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Silver, Expand, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Gold, Estate, Copper, Silver
+ 
+---------- hoopity: turn 10 ----------
+hoopity - plays Expand
+hoopity - trashes Silver
+hoopity - gains Gold
+hoopity - plays 2 Copper, 1 Silver
+hoopity - buys Copper
+hoopity - gains Copper
+hoopity - draws Gold, Copper, Outpost
+hoopity - shuffles deck
+hoopity - draws Silver, Lookout
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Expand
+Titandrake - gains Expand
+Titandrake - draws Gold, Gold, Estate, Copper, Copper
+ 
+---------- hoopity: turn 11 ----------
+hoopity - plays Lookout
+hoopity - trashes Estate
+hoopity - discards Copper
+hoopity - places Silver on top of deck
+hoopity - plays Outpost
+hoopity - plays 1 Gold, 1 Copper, 1 Silver
+hoopity - buys Gold
+hoopity - gains Gold
+hoopity - duration Outpost
+hoopity - draws Silver, Copper, Silver
+ 
+---------- hoopity: turn 11 ----------
+hoopity - plays 2 Silver, 1 Copper
+hoopity - buys Trade Route
+hoopity - gains Trade Route
+hoopity - draws Gold, Copper, Copper, Expand, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Gold, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Silver, Gold, Copper, Copper
+ 
+---------- hoopity: turn 12 ----------
+hoopity - plays Expand
+hoopity - trashes Copper
+hoopity - gains Silver
+hoopity - plays 1 Gold, 1 Copper, 1 Silver
+hoopity - buys Gold
+hoopity - gains Gold
+hoopity - draws Copper
+hoopity - shuffles deck
+hoopity - draws Copper, Silver, Copper, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Platinum, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- hoopity: turn 13 ----------
+hoopity - plays 3 Copper, 1 Silver, 1 Gold
+hoopity - buys Gold
+hoopity - gains Gold
+hoopity - draws Expand, Gold, Trade Route, Gold, Outpost
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Copper, 1 Platinum, 1 Silver, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Silver, Silver, Gold, Gold, Copper
+ 
+---------- hoopity: turn 14 ----------
+hoopity - plays Expand
+hoopity - trashes Outpost
+hoopity - gains Province
+hoopity - plays 2 Gold
+hoopity - buys Gold
+hoopity - gains Gold
+hoopity - draws Copper, Copper, Lookout, Silver, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Silver, 2 Gold, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Estate, Estate, Gold, Estate, Silver
+ 
+---------- hoopity: turn 15 ----------
+hoopity - plays Lookout
+hoopity - trashes Silver
+hoopity - discards Silver
+hoopity - places Gold on top of deck
+hoopity - plays 2 Copper, 2 Silver
+hoopity - buys Gold
+hoopity - gains Gold
+hoopity - draws Gold
+hoopity - shuffles deck
+hoopity - draws Silver, Lookout, Gold, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Gold, Expand, Copper, Copper
+ 
+---------- hoopity: turn 16 ----------
+hoopity - plays Lookout
+hoopity - trashes Trade Route
+hoopity - discards Silver
+hoopity - places Expand on top of deck
+hoopity - plays 2 Gold, 1 Silver, 1 Copper
+hoopity - buys Platinum
+hoopity - gains Platinum
+hoopity - draws Expand, Gold, Province, Gold, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Expand
+Titandrake - trashes Gold
+Titandrake - gains Platinum
+Titandrake - plays 3 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Expand, Gold
+ 
+---------- hoopity: turn 17 ----------
+hoopity - plays Expand
+hoopity - trashes Province
+hoopity - gains Colony
+hoopity - plays 2 Gold, 1 Copper
+hoopity - buys Gold
+hoopity - gains Gold
+hoopity - draws Silver, Copper, Gold, Gold, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Expand
+Titandrake - trashes Gold
+Titandrake - gains Platinum
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Silver, Silver, Copper, Estate, Copper
+ 
+---------- hoopity: turn 18 ----------
+hoopity - plays 2 Copper, 2 Gold, 1 Silver
+hoopity - buys Platinum
+hoopity - gains Platinum
+hoopity - draws Gold, Copper, Silver
+hoopity - shuffles deck
+hoopity - draws Gold, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Trade Route, Colony, Colony, Silver, Copper
+ 
+---------- hoopity: turn 19 ----------
+hoopity - plays 3 Gold, 1 Copper, 1 Silver
+hoopity - buys Colony
+hoopity - gains Colony
+hoopity - draws Gold, Colony, Copper, Platinum, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Gold, Estate, Silver, Platinum, Gold
+ 
+---------- hoopity: turn 20 ----------
+hoopity - plays 2 Gold, 1 Copper, 1 Platinum
+hoopity - buys Colony
+hoopity - gains Colony
+hoopity - draws Silver, Silver, Expand, Gold, Lookout
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Gold, 1 Silver, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Silver, Gold, Copper, Platinum
+ 
+---------- hoopity: turn 21 ----------
+hoopity - plays Lookout
+hoopity - trashes Copper
+hoopity - discards Copper
+hoopity - places Copper on top of deck
+hoopity - plays Expand
+hoopity - trashes Gold
+hoopity - gains Province
+hoopity - plays 2 Silver
+hoopity - buys Silver
+hoopity - gains Silver
+hoopity - draws Copper, Silver, Platinum, Gold, Gold
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Gold, Colony
+ 
+---------- hoopity: turn 22 ----------
+hoopity - plays 2 Gold, 1 Copper, 1 Silver, 1 Platinum
+hoopity - buys Colony
+hoopity - gains Colony
+hoopity - shuffles deck
+hoopity - draws Platinum, Gold, Gold, Copper, Silver
+ 
+------------ Game Over ------------
+hoopity - cards: 1 Lookout, 1 Expand, 7 Gold, 5 Silver, 4 Copper, 2 Platinum, 4 Colony, 1 Province
+hoopity - total victory points: 46
+hoopity - turns: 22
+ 
+Titandrake - cards: 3 Trade Route, 1 Expand, 6 Copper, 5 Gold, 5 Silver, 3 Platinum, 4 Colony, 3 Estate
+Titandrake - total victory points: 43
+Titandrake - turns: 21
+ 
+1st place: hoopity
+2nd place: Titandrake
+ 

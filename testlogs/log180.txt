@@ -1,0 +1,565 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Oasis, Alchemist, Ironworks, JackOfAllTrades, Salvager, Bandit Camp, Explorer, Highway, Rabble, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+HvBoedefeld - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HvBoedefeld - shuffles deck
+Titandrake - shuffles deck
+HvBoedefeld - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- HvBoedefeld: turn 1 ----------
+HvBoedefeld - plays 3 Copper
+HvBoedefeld - buys Oasis
+HvBoedefeld - gains Oasis
+HvBoedefeld - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- HvBoedefeld: turn 2 ----------
+HvBoedefeld - plays 4 Copper
+HvBoedefeld - buys Potion
+HvBoedefeld - gains Potion
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Estate, Estate, Copper, Oasis, Potion
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Oasis, Estate, Copper
+ 
+---------- HvBoedefeld: turn 3 ----------
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Copper
+HvBoedefeld - discards Estate
+HvBoedefeld - plays 2 Copper, 1 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Estate, JackOfAllTrades, Estate, Copper, Copper
+ 
+---------- HvBoedefeld: turn 4 ----------
+HvBoedefeld - plays 4 Copper
+HvBoedefeld - buys Salvager
+HvBoedefeld - gains Salvager
+HvBoedefeld - draws Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - shuffles deck
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Highway, Copper, Copper, Copper, Oasis
+ 
+---------- HvBoedefeld: turn 5 ----------
+HvBoedefeld - plays 4 Copper
+HvBoedefeld - buys Potion
+HvBoedefeld - gains Potion
+HvBoedefeld - draws Salvager, Estate, Oasis, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Oasis
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Highway, Silver
+ 
+---------- HvBoedefeld: turn 6 ----------
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Alchemist
+HvBoedefeld - discards Estate
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Potion, Copper
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Estate
+HvBoedefeld - plays 2 Copper, 1 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - places Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Salvager, Oasis
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Potion, Copper, Copper, Copper, Highway
+ 
+---------- HvBoedefeld: turn 7 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Alchemist, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Potion, Copper
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Estate
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Estate
+HvBoedefeld - plays 3 Copper, 1 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - buys Oasis
+HvBoedefeld - gains Oasis
+HvBoedefeld - places Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Copper, Copper, Potion
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Highway
+Titandrake - draws Oasis
+Titandrake - plays Oasis
+Titandrake - draws JackOfAllTrades
+Titandrake - discards JackOfAllTrades
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, JackOfAllTrades, Alchemist
+ 
+---------- HvBoedefeld: turn 8 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Estate
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Oasis
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Potion
+HvBoedefeld - discards Estate
+HvBoedefeld - plays 4 Copper, 2 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - places Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Copper, Copper, Alchemist
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Estate, Copper
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Potion on top of deck
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - draws Potion, Copper, Highway, Highway, Silver
+ 
+---------- HvBoedefeld: turn 9 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Oasis, Salvager
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Potion
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Oasis, Potion
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Copper
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Copper
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays 2 Copper, 2 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - places Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Highway
+Titandrake - draws Oasis
+Titandrake - plays Highway
+Titandrake - draws Bandit Camp
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Potion, Estate, Bandit Camp, Ironworks
+ 
+---------- HvBoedefeld: turn 10 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Alchemist
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Oasis, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Salvager, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Oasis, Potion
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Copper
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Alchemist
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Potion, Copper
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Estate
+HvBoedefeld - plays 4 Copper, 2 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - buys Highway
+HvBoedefeld - gains Highway
+HvBoedefeld - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Alchemist
+Titandrake - gains Spoils
+Titandrake - plays Alchemist
+Titandrake - draws Silver, Copper
+Titandrake - plays Ironworks
+Titandrake - gains Salvager
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys Alchemist
+Titandrake - gains Alchemist
+Titandrake - places Alchemist on top of deck
+Titandrake - draws Alchemist, Oasis, Copper, Copper, Copper
+ 
+---------- HvBoedefeld: turn 11 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Potion, Highway
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Potion
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Oasis, Oasis
+HvBoedefeld - plays Highway
+HvBoedefeld - draws Alchemist
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Salvager
+HvBoedefeld - plays Oasis
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Oasis
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper
+HvBoedefeld - discards Potion
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays 5 Copper, 1 Potion
+HvBoedefeld - buys Highway
+HvBoedefeld - gains Highway
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Copper, JackOfAllTrades
+Titandrake - plays Oasis
+Titandrake - draws Highway
+Titandrake - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Spoils
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Alchemist
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Potion, JackOfAllTrades, Highway
+ 
+---------- HvBoedefeld: turn 12 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Oasis
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Oasis, Potion
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Salvager, Potion
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Highway
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Alchemist
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Highway
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Copper
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays Highway
+HvBoedefeld - plays Highway
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Potion
+HvBoedefeld - plays 5 Copper, 1 Potion
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Highway
+HvBoedefeld - gains Highway
+HvBoedefeld - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Spoils on top of deck
+Titandrake - plays 2 Silver, 1 Copper, 1 Potion
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Salvager, Copper, Copper, Estate, Silver
+ 
+---------- HvBoedefeld: turn 13 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Alchemist, Alchemist
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Highway
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Highway
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Salvager, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Highway
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Province, Oasis
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Potion
+HvBoedefeld - discards Province
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Oasis, Copper
+HvBoedefeld - plays Oasis
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Province
+HvBoedefeld - discards Province
+HvBoedefeld - plays Highway
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Province
+HvBoedefeld - plays Highway
+HvBoedefeld - plays Highway
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays 4 Copper, 1 Potion
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Alchemist, Copper, Copper, Ironworks, Bandit Camp
+ 
+---------- HvBoedefeld: turn 14 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Alchemist, Alchemist
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Oasis, Province
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Silver, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Oasis, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Province, Salvager
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Highway, Highway
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Potion
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Highway
+HvBoedefeld - discards Province
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Copper
+HvBoedefeld - discards Province
+HvBoedefeld - plays Highway
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Province
+HvBoedefeld - plays Highway
+HvBoedefeld - draws Province
+HvBoedefeld - plays Highway
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays 3 Copper, 1 Silver, 1 Potion
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Highway
+HvBoedefeld - gains Highway
+HvBoedefeld - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Alchemist
+Titandrake - draws Oasis, Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws Highway
+Titandrake - gains Spoils
+Titandrake - plays Highway
+Titandrake - draws Province
+Titandrake - plays Oasis
+Titandrake - draws Alchemist
+Titandrake - discards Province
+Titandrake - plays Ironworks
+Titandrake - gains Duchy
+Titandrake - draws Alchemist
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Ironworks, JackOfAllTrades, Duchy
+ 
+---------- HvBoedefeld: turn 15 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Alchemist, Alchemist
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Highway, Highway
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Oasis, Province
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Province, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Highway, Oasis
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Potion, Highway
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Silver
+HvBoedefeld - discards Province
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Salvager
+HvBoedefeld - discards Province
+HvBoedefeld - plays Highway
+HvBoedefeld - draws Province
+HvBoedefeld - plays Highway
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Province
+HvBoedefeld - plays Highway
+HvBoedefeld - draws Province
+HvBoedefeld - plays Highway
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays 2 Copper, 1 Potion, 1 Silver
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Duchy
+HvBoedefeld - gains Duchy
+HvBoedefeld - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - draws Silver, Silver, Silver, Copper, Spoils
+ 
+---------- HvBoedefeld: turn 16 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Alchemist, Alchemist
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Salvager, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Potion, Province
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Oasis, Province
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Highway, Highway
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Highway, Oasis
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Silver, Province
+HvBoedefeld - plays Highway
+HvBoedefeld - draws Duchy
+HvBoedefeld - plays Highway
+HvBoedefeld - draws Province
+HvBoedefeld - plays Highway
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Oasis
+HvBoedefeld - draws Highway
+HvBoedefeld - discards Province
+HvBoedefeld - plays Oasis
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Province
+HvBoedefeld - discards Province
+HvBoedefeld - plays Highway
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Province
+HvBoedefeld - plays Salvager
+HvBoedefeld - trashes Province
+HvBoedefeld - plays 2 Copper, 1 Potion, 1 Silver
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+------------ Game Over ------------
+HvBoedefeld - cards: 7 Alchemist, 4 Highway, 2 Oasis, 1 Salvager, 2 Copper, 1 Potion, 1 Silver, 5 Province, 1 Duchy
+HvBoedefeld - total victory points: 33
+HvBoedefeld - turns: 16
+ 
+Titandrake - cards: 3 Alchemist, 2 Ironworks, 2 Highway, 1 JackOfAllTrades, 1 Salvager, 1 Bandit Camp, 1 Oasis, 7 Copper, 4 Silver, 1 Spoils, 1 Potion, 3 Duchy, 2 Province, 1 Estate
+Titandrake - total victory points: 22
+Titandrake - turns: 15
+ 
+1st place: HvBoedefeld
+2nd place: Titandrake
+ 

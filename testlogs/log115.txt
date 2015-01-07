@@ -1,0 +1,492 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Chancellor, Develop, Fortune Teller, Wishing Well, Bureaucrat, Cartographer, Ghost Ship, Journeyman, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Temron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 4 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 3 Copper
+Temron - buys Chapel
+Temron - gains Chapel
+Temron - shuffles deck
+Temron - draws Copper, Copper, Chapel, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Cartographer, Copper, Estate, Copper, Copper
+ 
+---------- Temron: turn 3 ----------
+Temron - plays Chapel
+Temron - trashes Copper, Copper, Estate, Estate
+Temron - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Estate, Copper, Chapel, Estate
+Titandrake - discards Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Chapel on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Chapel, Estate, Copper, Copper
+ 
+---------- Temron: turn 4 ----------
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Ghost Ship
+Temron - gains Ghost Ship
+Temron - draws Copper, Copper
+Temron - shuffles deck
+Temron - draws Copper, Copper, Ghost Ship
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Temron: turn 5 ----------
+Temron - plays Ghost Ship
+Temron - draws Estate, Silver
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+Temron - plays 4 Copper, 1 Silver
+Temron - buys Gold
+Temron - gains Gold
+Temron - draws Copper, Chapel
+Temron - shuffles deck
+Temron - draws Copper, Ghost Ship, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Cartographer, Chapel
+ 
+---------- Temron: turn 6 ----------
+Temron - plays Ghost Ship
+Temron - draws Copper, Estate
+Titandrake - places Chapel on top of deck
+Titandrake - places Copper on top of deck
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Ghost Ship
+Temron - gains Ghost Ship
+Temron - draws Copper, Gold, Copper
+Temron - shuffles deck
+Temron - draws Copper, Ghost Ship
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Chapel, Copper
+Titandrake - shuffles deck
+Titandrake - looks at Estate, Silver
+Titandrake - discards Chapel
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Chapel
+ 
+---------- Temron: turn 7 ----------
+Temron - plays Ghost Ship
+Temron - draws Ghost Ship, Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Chapel on top of deck
+Temron - plays 4 Copper, 1 Gold
+Temron - buys Gold
+Temron - gains Gold
+Temron - draws Estate, Chapel, Silver, Copper
+Temron - shuffles deck
+Temron - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Chapel, Estate, Silver, Copper, Copper
+ 
+---------- Temron: turn 8 ----------
+Temron - plays Chapel
+Temron - trashes Estate, Copper, Copper, Silver
+Temron - draws Ghost Ship, Copper, Ghost Ship, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper, Copper
+Titandrake - draws Cartographer, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Silver
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Ghost Ship
+Temron - draws Gold, Gold
+Titandrake - places Chapel on top of deck
+Titandrake - places Copper on top of deck
+Temron - plays 3 Copper, 2 Gold
+Temron - buys Gold
+Temron - gains Gold
+Temron - shuffles deck
+Temron - draws Copper, Gold, Chapel, Gold, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Chapel, Silver, Copper, Silver
+Titandrake - discards Chapel
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Silver, Silver, Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Silver, Chapel
+ 
+---------- Temron: turn 10 ----------
+Temron - plays Chapel
+Temron - trashes Copper
+Temron - plays 3 Gold
+Temron - buys Gold
+Temron - gains Gold
+Temron - draws Ghost Ship, Copper, Copper, Ghost Ship
+Temron - shuffles deck
+Temron - draws Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Cartographer, Copper
+Temron - places Ghost Ship on top of deck
+Temron - places Copper on top of deck
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Wishing Well, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Ghost Ship
+ 
+---------- Temron: turn 11 ----------
+Temron - plays Ghost Ship
+Temron - draws Copper, Ghost Ship
+Titandrake - places Ghost Ship on top of deck
+Titandrake - places Copper on top of deck
+Temron - plays 2 Copper, 1 Gold
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Gold, Gold, Gold, Chapel
+Temron - shuffles deck
+Temron - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Ghost Ship
+Titandrake - reveals Ghost Ship
+Titandrake - places Ghost Ship in hand
+Titandrake - plays Ghost Ship
+Titandrake - draws Gold, Silver
+Temron - places Gold on top of deck
+Temron - places Gold on top of deck
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Cartographer, Silver, Chapel, Copper
+Titandrake - shuffles deck
+Titandrake - draws Wishing Well
+ 
+---------- Temron: turn 12 ----------
+Temron - plays Chapel
+Temron - trashes Copper
+Temron - plays 1 Gold
+Temron - buys Wishing Well
+Temron - gains Wishing Well
+Temron - draws Gold, Gold, Ghost Ship, Ghost Ship, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Gold, Silver, Gold, Copper
+Titandrake - places Gold on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Silver
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Gold, Copper, Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Chapel
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Ghost Ship
+Temron - draws Copper, Gold
+Titandrake - places Copper on top of deck
+Titandrake - places Chapel on top of deck
+Temron - plays 3 Gold, 1 Silver, 1 Copper
+Temron - buys Province
+Temron - gains Province
+Temron - shuffles deck
+Temron - draws Gold, Ghost Ship, Silver, Ghost Ship, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Chapel, Copper
+Temron - places Province on top of deck
+Temron - places Silver on top of deck
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Wishing Well, Silver, Cartographer, Copper, Copper
+ 
+---------- Temron: turn 14 ----------
+Temron - plays Ghost Ship
+Temron - draws Silver, Province
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+Temron - plays 1 Gold, 1 Silver
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Gold, Copper, Gold, Gold, Chapel
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Copper, Silver, Province, Silver
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Wishing Well
+Titandrake - draws Silver
+Titandrake - names Peddler
+Titandrake - reveals Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Wishing Well, Ghost Ship, Cartographer
+ 
+---------- Temron: turn 15 ----------
+Temron - plays Chapel
+Temron - trashes Copper
+Temron - plays 3 Gold
+Temron - buys Province
+Temron - gains Province
+Temron - draws Wishing Well
+Temron - shuffles deck
+Temron - draws Ghost Ship, Gold, Silver, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Province
+Titandrake - looks at Duchy, Copper, Duchy, Gold
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - places Gold on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Copper
+Titandrake - reveals Gold
+Titandrake - plays Ghost Ship
+Titandrake - draws Gold, Gold
+Temron - places Gold on top of deck
+Temron - places Silver on top of deck
+Titandrake - plays 2 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Chapel, Silver
+Titandrake - shuffles deck
+Titandrake - draws Ghost Ship
+ 
+---------- Temron: turn 16 ----------
+Temron - plays Wishing Well
+Temron - draws Silver
+Temron - names Gold
+Temron - reveals Gold
+Temron - places Gold in hand
+Temron - plays Ghost Ship
+Temron - draws Province, Gold
+Titandrake - places Copper on top of deck
+Titandrake - places Chapel on top of deck
+Temron - plays 3 Gold, 1 Silver
+Temron - buys Province
+Temron - gains Province
+Temron - draws Chapel, Duchy, Ghost Ship, Province, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Chapel, Copper
+Temron - places Duchy on top of deck
+Temron - places Chapel on top of deck
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Wishing Well, Gold, Cartographer, Province, Gold
+ 
+---------- Temron: turn 17 ----------
+Temron - plays Ghost Ship
+Temron - draws Chapel, Duchy
+Titandrake - places Province on top of deck
+Titandrake - places Wishing Well on top of deck
+Temron - plays 1 Gold
+Temron - buys Wishing Well
+Temron - gains Wishing Well
+Temron - shuffles deck
+Temron - draws Province, Ghost Ship, Ghost Ship, Gold, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Wishing Well
+Titandrake - looks at Province, Province, Silver, Copper
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays Wishing Well
+Titandrake - draws Silver
+Titandrake - names Duchy
+Titandrake - reveals Copper
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Duchy, Duchy
+Titandrake - shuffles deck
+Titandrake - draws Cartographer, Gold
+ 
+---------- Temron: turn 18 ----------
+Temron - plays Ghost Ship
+Temron - draws Chapel, Wishing Well
+Titandrake - places Duchy on top of deck
+Titandrake - places Copper on top of deck
+Temron - plays 2 Gold
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Silver, Gold, Wishing Well, Duchy, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Duchy, Silver, Silver, Province
+Titandrake - discards Duchy
+Titandrake - discards Province
+Titandrake - places Silver on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Silver, Copper, Ghost Ship, Gold
+ 
+---------- Temron: turn 19 ----------
+Temron - plays Wishing Well
+Temron - draws Province
+Temron - names Ghost Ship
+Temron - reveals Province
+Temron - plays 2 Gold, 1 Silver
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Province
+Temron - shuffles deck
+Temron - draws Gold, Ghost Ship, Ghost Ship, Chapel
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Province, Silver
+Temron - places Ghost Ship on top of deck
+Temron - places Chapel on top of deck
+Titandrake - plays 3 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Duchy, Wishing Well, Chapel, Copper, Province
+ 
+---------- Temron: turn 20 ----------
+Temron - plays Ghost Ship
+Temron - draws Chapel, Ghost Ship
+Titandrake - places Province on top of deck
+Titandrake - places Duchy on top of deck
+Temron - plays 1 Gold
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Duchy, Gold, Duchy, Wishing Well, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Duchy
+Titandrake - names Province
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Cartographer, Copper, Wishing Well
+ 
+---------- Temron: turn 21 ----------
+Temron - plays Wishing Well
+Temron - draws Gold
+Temron - names Wishing Well
+Temron - reveals Province
+Temron - plays 2 Gold
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Province, Gold, Duchy, Wishing Well, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Province, Silver, Gold, Chapel
+Titandrake - discards Province
+Titandrake - discards Chapel
+Titandrake - places Silver on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Wishing Well
+Titandrake - draws Gold
+Titandrake - names Silver
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 3 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Province, Duchy, Copper, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Chapel, 1 Cartographer, 1 Wishing Well, 1 Ghost Ship, 3 Copper, 3 Silver, 2 Gold, 5 Province, 3 Duchy, 1 Estate
+Titandrake - total victory points: 40
+Titandrake - turns: 21
+ 
+Temron - cards: 2 Wishing Well, 2 Ghost Ship, 1 Chapel, 4 Gold, 2 Silver, 4 Duchy, 3 Province
+Temron - total victory points: 30
+Temron - turns: 21
+ 
+1st place: Titandrake
+2nd place: Temron
+ 

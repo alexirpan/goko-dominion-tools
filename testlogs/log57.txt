@@ -1,0 +1,604 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Chancellor, Coppersmith, Baker, Cartographer, Margrave, Mountebank, Stables, Witch, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+florrat - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+florrat - shuffles deck
+Titandrake - shuffles deck
+florrat - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- florrat: turn 1 ----------
+florrat - plays 3 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- florrat: turn 2 ----------
+florrat - plays 4 Copper
+florrat - uses 1 coin token
+florrat - buys Mountebank
+florrat - gains Mountebank
+florrat - shuffles deck
+florrat - draws Estate, Mountebank, Silver, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- florrat: turn 3 ----------
+florrat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+florrat - plays 1 Silver
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Silver, Witch, Copper, Estate
+ 
+---------- florrat: turn 4 ----------
+florrat - plays 5 Copper
+florrat - buys Mountebank
+florrat - gains Mountebank
+florrat - draws Copper, Copper
+florrat - shuffles deck
+florrat - draws Mountebank, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Copper
+florrat - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Curse, Estate, Stables
+ 
+---------- florrat: turn 5 ----------
+florrat - plays Mountebank
+Titandrake - discards Curse
+florrat - plays 3 Copper
+florrat - buys Stables
+florrat - gains Stables
+florrat - draws Silver, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Witch, Estate, Copper
+Titandrake - plays Witch
+Titandrake - draws Copper, Silver
+florrat - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- florrat: turn 6 ----------
+florrat - plays 3 Copper, 2 Silver
+florrat - buys Altar
+florrat - gains Altar
+florrat - draws Mountebank, Estate, Estate, Copper
+florrat - shuffles deck
+florrat - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Estate
+ 
+---------- florrat: turn 7 ----------
+florrat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+florrat - plays 2 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Stables, Copper, Curse, Curse, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Estate, Copper, Copper, Silver, Witch
+ 
+---------- florrat: turn 8 ----------
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Estate, Mountebank, Copper
+florrat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+florrat - plays 2 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Altar, Silver, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Stables
+florrat - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Estate, Copper, Copper, Curse, Copper
+ 
+---------- florrat: turn 9 ----------
+florrat - plays Altar
+florrat - trashes Copper
+florrat - gains Stables
+florrat - plays 2 Silver, 1 Copper
+florrat - buys Stables
+florrat - gains Stables
+florrat - shuffles deck
+florrat - draws Copper, Mountebank, Mountebank, Silver, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Stables
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Stables
+ 
+---------- florrat: turn 10 ----------
+florrat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+florrat - plays 1 Copper, 1 Silver
+florrat - buys Cartographer
+florrat - gains Cartographer
+florrat - draws Silver, Copper, Stables, Estate, Altar
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Silver, Silver
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Curse, Copper, Witch
+Titandrake - plays Witch
+Titandrake - draws Estate, Copper
+florrat - gains Curse
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - draws Silver, Stables, Copper, Curse, Copper
+ 
+---------- florrat: turn 11 ----------
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Curse, Silver, Copper
+florrat - plays Altar
+florrat - trashes Curse
+florrat - gains Baker
+florrat - plays 2 Silver, 1 Copper
+florrat - buys Cartographer
+florrat - gains Cartographer
+florrat - draws Copper, Stables, Estate, Silver, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Silver, Stables
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Estate, Copper, Curse
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Altar, Copper
+ 
+---------- florrat: turn 12 ----------
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Curse, Copper, Copper
+florrat - plays 2 Copper, 1 Silver
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Stables
+florrat - shuffles deck
+florrat - draws Curse, Silver, Mountebank, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Stables
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Curse, Stables, Silver, Curse, Copper
+ 
+---------- florrat: turn 13 ----------
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Estate, Cartographer, Copper
+florrat - plays Cartographer
+florrat - draws Silver
+florrat - looks at Silver, Copper, Cartographer, Curse
+florrat - discards Curse
+florrat - discards Copper
+florrat - places Cartographer on top of deck
+florrat - places Silver on top of deck
+florrat - plays Mountebank
+Titandrake - discards Curse
+florrat - plays 2 Silver, 1 Copper
+florrat - buys Gold
+florrat - gains Gold
+florrat - draws Silver, Cartographer, Copper, Curse, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Witch, Gold, Copper, Estate
+ 
+---------- florrat: turn 14 ----------
+florrat - plays Cartographer
+florrat - draws Stables
+florrat - looks at Baker, Estate, Silver, Estate
+florrat - discards Estate
+florrat - discards Estate
+florrat - places Silver on top of deck
+florrat - places Baker on top of deck
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Baker, Silver, Stables
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Silver, Mountebank, Copper
+florrat - plays Baker
+florrat - receives 1 coin token
+florrat - draws Altar
+florrat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+florrat - plays 3 Silver, 1 Copper
+florrat - buys Province
+florrat - gains Province
+florrat - shuffles deck
+florrat - draws Curse, Estate, Stables, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Witch
+Titandrake - draws Estate, Copper
+florrat - gains Curse
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Curse, Stables, Curse, Stables
+ 
+---------- florrat: turn 15 ----------
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Silver, Altar, Gold
+florrat - plays Altar
+florrat - trashes Curse
+florrat - gains Stables
+florrat - plays 1 Copper, 1 Silver, 1 Gold
+florrat - buys Cartographer
+florrat - gains Cartographer
+florrat - draws Stables, Curse, Stables, Silver, Cartographer
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Stables
+Titandrake - discards Silver
+Titandrake - draws Estate, Copper, Stables
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Stables
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Silver, Curse
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Curse, Copper, Gold
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Stables, Copper, Estate, Copper
+ 
+---------- florrat: turn 16 ----------
+florrat - plays Cartographer
+florrat - draws Province
+florrat - looks at Copper, Copper, Copper, Silver
+florrat - discards Copper
+florrat - discards Copper
+florrat - places Silver on top of deck
+florrat - places Copper on top of deck
+florrat - plays Stables
+florrat - discards Silver
+florrat - draws Copper, Silver, Estate
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Silver, Estate, Curse
+florrat - plays 2 Silver
+florrat - uses 1 coin token
+florrat - buys Baker
+florrat - gains Baker
+florrat - draws Cartographer, Mountebank, Copper, Baker, Mountebank
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Witch, Curse, Stables
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Silver, Margrave, Altar
+Titandrake - plays Margrave
+Titandrake - draws Copper, Silver, Copper
+florrat - draws Silver
+florrat - discards Mountebank
+florrat - discards Copper
+florrat - discards Silver
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Estate, Copper, Copper, Gold
+ 
+---------- florrat: turn 17 ----------
+florrat - plays Cartographer
+florrat - shuffles deck
+florrat - draws Copper
+florrat - looks at Copper, Province, Stables, Silver
+florrat - discards Province
+florrat - discards Copper
+florrat - places Silver on top of deck
+florrat - places Stables on top of deck
+florrat - plays Baker
+florrat - receives 1 coin token
+florrat - draws Stables
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Silver, Silver, Gold
+florrat - plays Mountebank
+Titandrake - gains Copper
+florrat - plays 2 Silver, 1 Gold
+florrat - buys Province
+florrat - gains Province
+florrat - draws Copper, Estate, Mountebank, Copper, Cartographer
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Province, Curse, Gold, Copper, Stables
+ 
+---------- florrat: turn 18 ----------
+florrat - plays Cartographer
+florrat - draws Curse
+florrat - looks at Baker, Stables, Silver, Cartographer
+florrat - places Baker on top of deck
+florrat - places Stables on top of deck
+florrat - places Silver on top of deck
+florrat - places Cartographer on top of deck
+florrat - plays Mountebank
+Titandrake - discards Curse
+florrat - plays 2 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Cartographer, Silver, Stables, Baker, Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Margrave, Gold, Witch
+Titandrake - plays Margrave
+Titandrake - draws Copper, Stables, Copper
+florrat - draws Copper
+florrat - discards Curse
+florrat - discards Copper
+florrat - discards Silver
+Titandrake - plays 2 Gold, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Copper, Copper, Curse, Curse
+ 
+---------- florrat: turn 19 ----------
+florrat - plays Cartographer
+florrat - draws Silver
+florrat - looks at Estate, Stables, Stables, Curse
+florrat - discards Estate
+florrat - discards Curse
+florrat - discards Stables
+florrat - places Stables on top of deck
+florrat - plays Stables
+florrat - discards Silver
+florrat - draws Stables, Estate, Altar
+florrat - plays Baker
+florrat - receives 1 coin token
+florrat - draws Copper
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Silver
+florrat - shuffles deck
+florrat - draws Silver, Silver
+florrat - plays Altar
+florrat - trashes Estate
+florrat - gains Duchy
+florrat - plays 3 Silver
+florrat - uses 2 coin tokens
+florrat - buys Province
+florrat - gains Province
+florrat - draws Estate, Province, Baker, Province, Curse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Estate, Copper, Silver, Silver
+ 
+---------- florrat: turn 20 ----------
+florrat - plays Baker
+florrat - receives 1 coin token
+florrat - draws Copper
+florrat - draws Silver, Curse, Stables, Copper, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Stables, Curse, Silver, Gold, Stables
+ 
+---------- florrat: turn 21 ----------
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Estate, Copper, Mountebank
+florrat - plays Mountebank
+Titandrake - discards Curse
+florrat - plays 2 Copper, 1 Silver
+florrat - buys Duchy
+florrat - gains Duchy
+florrat - draws Copper, Mountebank, Copper, Curse, Stables
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Stables
+Titandrake - discards Silver
+Titandrake - draws Altar, Estate, Gold
+Titandrake - plays Stables
+Titandrake - discards Gold
+Titandrake - draws Stables, Copper, Copper
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper, Estate
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Duchy
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Stables, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Estate
+ 
+---------- florrat: turn 22 ----------
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Silver, Gold, Cartographer
+florrat - plays Cartographer
+florrat - draws Cartographer
+florrat - looks at Silver
+florrat - shuffles deck
+florrat - looks at Mountebank, Estate, Stables
+florrat - discards Estate
+florrat - places Stables on top of deck
+florrat - places Mountebank on top of deck
+florrat - places Silver on top of deck
+florrat - plays Mountebank
+Titandrake - gains Copper
+florrat - plays 1 Copper, 1 Silver, 1 Gold
+florrat - buys Province
+florrat - gains Province
+florrat - draws Silver, Mountebank, Stables, Copper, Baker
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Altar, Stables, Province
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper, Curse
+Titandrake - plays Altar
+Titandrake - trashes Curse
+Titandrake - gains Duchy
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- florrat: turn 23 ----------
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Province, Silver, Silver
+florrat - plays Baker
+florrat - receives 1 coin token
+florrat - draws Copper
+florrat - plays Mountebank
+Titandrake - gains Copper
+florrat - plays 3 Silver, 1 Copper
+florrat - buys Province
+florrat - gains Province
+florrat - draws Duchy, Copper, Silver, Duchy, Stables
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Copper, Copper, Stables, Witch
+ 
+---------- florrat: turn 24 ----------
+florrat - plays Stables
+florrat - discards Copper
+florrat - draws Estate, Province, Stables
+florrat - plays Stables
+florrat - discards Silver
+florrat - draws Baker, Copper, Cartographer
+florrat - plays Cartographer
+florrat - draws Silver
+florrat - looks at Altar, Province, Curse, Copper
+florrat - discards Province
+florrat - discards Curse
+florrat - discards Copper
+florrat - places Altar on top of deck
+florrat - plays Baker
+florrat - receives 1 coin token
+florrat - draws Altar
+florrat - plays Altar
+florrat - trashes Copper
+florrat - gains Duchy
+florrat - plays 1 Silver
+florrat - buys Estate
+florrat - gains Estate
+florrat - draws Curse
+florrat - shuffles deck
+florrat - draws Province, Copper, Cartographer, Baker
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Province, Gold, Curse
+Titandrake - plays Witch
+Titandrake - draws Margrave, Gold
+Titandrake - plays 3 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Stables, Duchy, Stables, Estate
+ 
+------------ Game Over ------------
+florrat - cards: 4 Stables, 3 Cartographer, 2 Baker, 2 Mountebank, 1 Altar, 6 Silver, 5 Copper, 1 Gold, 5 Province, 3 Estate, 3 Duchy, 3 Curse
+florrat - total victory points: 39
+florrat - turns: 24
+ 
+Titandrake - cards: 6 Stables, 2 Margrave, 13 Copper, 1 Altar, 1 Witch, 1 Cartographer, 4 Gold, 4 Silver, 5 Estate, 3 Duchy, 3 Province, 4 Curse
+Titandrake - total victory points: 28
+Titandrake - turns: 24
+ 
+1st place: florrat
+2nd place: Titandrake
+ 

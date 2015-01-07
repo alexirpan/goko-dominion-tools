@@ -1,0 +1,380 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Vagrant, Develop, Smugglers, Horse Traders, Militia, Rats, Cartographer, Library, Pillage, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Scheme From the Bottom - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Scheme From the Bottom - shuffles deck
+Titandrake - shuffles deck
+Scheme From the Bottom - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Scheme From the Bottom: turn 1 ----------
+Scheme From the Bottom - plays 3 Copper
+Scheme From the Bottom - buys Silver
+Scheme From the Bottom - gains Silver
+Scheme From the Bottom - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Scheme From the Bottom: turn 2 ----------
+Scheme From the Bottom - plays 4 Copper
+Scheme From the Bottom - buys Militia
+Scheme From the Bottom - gains Militia
+Scheme From the Bottom - shuffles deck
+Scheme From the Bottom - draws Silver, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Horse Traders, Copper, Copper, Copper
+ 
+---------- Scheme From the Bottom: turn 3 ----------
+Scheme From the Bottom - plays 2 Copper, 1 Silver
+Scheme From the Bottom - buys Militia
+Scheme From the Bottom - gains Militia
+Scheme From the Bottom - draws Copper, Copper, Copper, Militia, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Library
+Titandrake - gains Library
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- Scheme From the Bottom: turn 4 ----------
+Scheme From the Bottom - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+Scheme From the Bottom - plays 4 Copper
+Scheme From the Bottom - buys Gold
+Scheme From the Bottom - gains Gold
+Scheme From the Bottom - draws Copper, Estate
+Scheme From the Bottom - shuffles deck
+Scheme From the Bottom - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Library, Copper, Copper, Copper, Estate
+ 
+---------- Scheme From the Bottom: turn 5 ----------
+Scheme From the Bottom - plays 3 Copper
+Scheme From the Bottom - buys Silver
+Scheme From the Bottom - gains Silver
+Scheme From the Bottom - draws Silver, Copper, Estate, Militia, Militia
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Library
+Titandrake - draws Copper
+Titandrake - discards Horse Traders
+Titandrake - moves Vagrant to hand
+Titandrake - draws Estate
+Titandrake - discards Horse Traders
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Horse Traders, Estate, Estate, Library
+ 
+---------- Scheme From the Bottom: turn 6 ----------
+Scheme From the Bottom - plays Militia
+Titandrake - reveals reaction Horse Traders
+Titandrake - discards Estate
+Scheme From the Bottom - plays 1 Silver, 1 Copper
+Scheme From the Bottom - buys Pillage
+Scheme From the Bottom - gains Pillage
+Scheme From the Bottom - draws Copper, Copper, Gold, Copper
+Scheme From the Bottom - shuffles deck
+Scheme From the Bottom - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Horse Traders
+Titandrake - draws Copper
+Titandrake - plays Library
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Library
+Titandrake - gains Library
+Titandrake - draws Copper, Copper, Silver, Estate, Silver
+ 
+---------- Scheme From the Bottom: turn 7 ----------
+Scheme From the Bottom - plays 4 Copper, 1 Gold
+Scheme From the Bottom - buys Gold
+Scheme From the Bottom - gains Gold
+Scheme From the Bottom - draws Militia, Estate, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Vagrant, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Library
+ 
+---------- Scheme From the Bottom: turn 8 ----------
+Scheme From the Bottom - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Vagrant
+Scheme From the Bottom - plays 2 Copper, 1 Silver
+Scheme From the Bottom - buys Gold
+Scheme From the Bottom - gains Gold
+Scheme From the Bottom - draws Silver, Estate, Copper, Militia, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Library
+Titandrake - draws Silver
+Titandrake - draws Estate
+Titandrake - draws Copper
+Titandrake - discards Library
+Titandrake - draws Copper
+Titandrake - discards Horse Traders
+Titandrake - draws Estate
+Titandrake - discards: Library, Horse Traders
+Titandrake - plays 2 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Scheme From the Bottom: turn 9 ----------
+Scheme From the Bottom - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+Scheme From the Bottom - plays 1 Silver, 1 Copper
+Scheme From the Bottom - buys Cartographer
+Scheme From the Bottom - gains Cartographer
+Scheme From the Bottom - draws Pillage
+Scheme From the Bottom - shuffles deck
+Scheme From the Bottom - draws Silver, Cartographer, Silver, Militia
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver, Silver
+ 
+---------- Scheme From the Bottom: turn 10 ----------
+Scheme From the Bottom - plays Cartographer
+Scheme From the Bottom - draws Copper
+Scheme From the Bottom - looks at Copper, Copper, Gold, Estate
+Scheme From the Bottom - discards Estate
+Scheme From the Bottom - discards Copper
+Scheme From the Bottom - discards Copper
+Scheme From the Bottom - places Gold on top of deck
+Scheme From the Bottom - plays Pillage
+Scheme From the Bottom - trashes Pillage
+Titandrake - reveals Copper, Copper, Estate, Silver, Silver
+Titandrake - discards Silver
+Scheme From the Bottom - gains Spoils
+Scheme From the Bottom - gains Spoils
+Scheme From the Bottom - plays 2 Silver, 1 Copper
+Scheme From the Bottom - buys Cartographer
+Scheme From the Bottom - gains Cartographer
+Scheme From the Bottom - draws Gold, Estate, Copper, Copper, Militia
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Horse Traders, Copper, Estate, Copper, Copper
+ 
+---------- Scheme From the Bottom: turn 11 ----------
+Scheme From the Bottom - plays Militia
+Titandrake - reveals reaction Horse Traders
+Titandrake - discards Estate
+Scheme From the Bottom - plays 2 Copper, 1 Gold
+Scheme From the Bottom - buys Gold
+Scheme From the Bottom - gains Gold
+Scheme From the Bottom - draws Copper, Gold, Copper, Gold, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Horse Traders
+Titandrake - draws Copper
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Silver, Library, Estate, Gold, Library
+ 
+---------- Scheme From the Bottom: turn 12 ----------
+Scheme From the Bottom - plays 2 Copper, 2 Gold
+Scheme From the Bottom - buys Province
+Scheme From the Bottom - gains Province
+Scheme From the Bottom - shuffles deck
+Scheme From the Bottom - draws Copper, Estate, Militia, Silver, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Library
+Titandrake - draws Province
+Titandrake - moves Horse Traders to hand
+Titandrake - draws Copper
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Horse Traders, Copper
+ 
+---------- Scheme From the Bottom: turn 13 ----------
+Scheme From the Bottom - plays Militia
+Titandrake - reveals reaction Horse Traders
+Titandrake - discards Estate
+Scheme From the Bottom - plays 2 Copper, 1 Silver
+Scheme From the Bottom - buys Gold
+Scheme From the Bottom - gains Gold
+Scheme From the Bottom - draws Copper, Militia, Cartographer, Gold, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Horse Traders
+Titandrake - draws Library
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Library
+Titandrake - draws Silver
+Titandrake - draws Copper
+Titandrake - draws Gold
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Gold, Copper, Estate, Silver
+ 
+---------- Scheme From the Bottom: turn 14 ----------
+Scheme From the Bottom - plays Cartographer
+Scheme From the Bottom - draws Gold
+Scheme From the Bottom - looks at Gold, Estate, Estate, Spoils
+Scheme From the Bottom - discards Estate
+Scheme From the Bottom - discards Estate
+Scheme From the Bottom - places Spoils on top of deck
+Scheme From the Bottom - places Gold on top of deck
+Scheme From the Bottom - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+Scheme From the Bottom - plays 2 Copper, 2 Gold
+Scheme From the Bottom - buys Province
+Scheme From the Bottom - gains Province
+Scheme From the Bottom - draws Gold, Spoils, Cartographer, Province, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Horse Traders, Cartographer, Silver
+ 
+---------- Scheme From the Bottom: turn 15 ----------
+Scheme From the Bottom - plays Cartographer
+Scheme From the Bottom - draws Silver
+Scheme From the Bottom - looks at Copper, Spoils, Gold, Copper
+Scheme From the Bottom - discards Copper
+Scheme From the Bottom - discards Copper
+Scheme From the Bottom - places Gold on top of deck
+Scheme From the Bottom - places Spoils on top of deck
+Scheme From the Bottom - plays 1 Gold, 1 Copper, 1 Silver
+Scheme From the Bottom - plays Spoils
+Scheme From the Bottom - buys Province
+Scheme From the Bottom - gains Province
+Scheme From the Bottom - draws Spoils, Gold
+Scheme From the Bottom - shuffles deck
+Scheme From the Bottom - draws Gold, Cartographer, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Library
+Titandrake - looks at Province, Silver
+Titandrake - shuffles deck
+Titandrake - looks at Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays Library
+Titandrake - draws Silver
+Titandrake - discards Library
+Titandrake - draws Gold
+Titandrake - draws Copper
+Titandrake - discards Library
+Titandrake - plays 3 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Silver, Copper, Copper, Gold
+ 
+---------- Scheme From the Bottom: turn 16 ----------
+Scheme From the Bottom - plays Cartographer
+Scheme From the Bottom - draws Estate
+Scheme From the Bottom - looks at Militia, Province, Copper, Copper
+Scheme From the Bottom - discards Province
+Scheme From the Bottom - discards Copper
+Scheme From the Bottom - discards Copper
+Scheme From the Bottom - places Militia on top of deck
+Scheme From the Bottom - plays 2 Gold
+Scheme From the Bottom - plays Spoils
+Scheme From the Bottom - buys Province
+Scheme From the Bottom - gains Province
+Scheme From the Bottom - draws Militia, Militia, Copper, Province, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Vagrant, Horse Traders, Gold, Province, Copper
+ 
+---------- Scheme From the Bottom: turn 17 ----------
+Scheme From the Bottom - plays Militia
+Titandrake - reveals reaction Horse Traders
+Titandrake - discards Province
+Scheme From the Bottom - plays 1 Copper
+Scheme From the Bottom - buys Estate
+Scheme From the Bottom - gains Estate
+Scheme From the Bottom - draws Gold, Copper, Cartographer, Gold, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Horse Traders
+Titandrake - draws Silver
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Silver, Province, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Horse Traders, 2 Library, 1 Vagrant, 1 Cartographer, 7 Copper, 4 Silver, 3 Gold, 4 Province, 3 Estate, 1 Duchy
+Titandrake - total victory points: 30
+Titandrake - turns: 18
+ 
+Scheme From the Bottom - cards: 2 Cartographer, 2 Militia, 7 Copper, 5 Gold, 2 Silver, 4 Province, 4 Estate
+Scheme From the Bottom - total victory points: 28
+Scheme From the Bottom - turns: 17
+ 
+1st place: Titandrake
+2nd place: Scheme From the Bottom
+ 

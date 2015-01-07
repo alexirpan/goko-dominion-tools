@@ -1,0 +1,350 @@
+------------ Game Setup ------------
+Supply cards: Develop, Great Hall, Cutpurse, Death Cart, Feodum, Gardens, Herald, Thief, Trading Post, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+kouki_arasu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+kouki_arasu - shuffles deck
+Titandrake - shuffles deck
+kouki_arasu - draws Estate, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- kouki_arasu: turn 1 ----------
+kouki_arasu - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Cutpurse
+Titandrake - gains Cutpurse
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- kouki_arasu: turn 2 ----------
+kouki_arasu - plays 5 Copper
+kouki_arasu - buys Trading Post
+kouki_arasu - gains Trading Post
+kouki_arasu - shuffles deck
+kouki_arasu - draws Copper, Copper, Estate, Copper, Trading Post
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Develop
+Titandrake - gains Develop
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Develop, Estate, Copper
+ 
+---------- kouki_arasu: turn 3 ----------
+kouki_arasu - plays Trading Post
+kouki_arasu - trashes Estate, Copper
+kouki_arasu - gains Silver
+kouki_arasu - plays 2 Copper, 1 Silver
+kouki_arasu - buys Thief
+kouki_arasu - gains Thief
+kouki_arasu - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Develop
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Estate, Copper, Estate, Copper
+ 
+---------- kouki_arasu: turn 4 ----------
+kouki_arasu - plays 4 Copper
+kouki_arasu - buys Feodum
+kouki_arasu - gains Feodum
+kouki_arasu - draws Estate
+kouki_arasu - shuffles deck
+kouki_arasu - draws Copper, Copper, Thief, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Cutpurse, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate
+ 
+---------- kouki_arasu: turn 5 ----------
+kouki_arasu - plays Thief
+Titandrake - reveals: Copper, Copper
+Titandrake - trashes Copper
+Titandrake - discards Copper
+kouki_arasu - plays 2 Copper, 1 Silver
+kouki_arasu - buys Feodum
+kouki_arasu - gains Feodum
+kouki_arasu - draws Copper, Copper, Estate, Copper, Trading Post
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Cutpurse
+kouki_arasu - discards Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - draws Feodum, Develop, Silver, Copper, Copper
+ 
+---------- kouki_arasu: turn 6 ----------
+kouki_arasu - plays Trading Post
+kouki_arasu - trashes Estate, Copper
+kouki_arasu - gains Silver
+kouki_arasu - plays 1 Copper, 1 Silver
+kouki_arasu - buys Silver
+kouki_arasu - gains Silver
+kouki_arasu - draws Copper, Feodum
+kouki_arasu - shuffles deck
+kouki_arasu - draws Silver, Thief, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Develop
+Titandrake - trashes Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Trading Post
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Silver, Trading Post, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- kouki_arasu: turn 7 ----------
+kouki_arasu - plays Thief
+Titandrake - reveals: Estate, Copper
+Titandrake - trashes Copper
+Titandrake - discards Estate
+kouki_arasu - plays 2 Silver, 1 Copper
+kouki_arasu - buys Feodum
+kouki_arasu - gains Feodum
+kouki_arasu - draws Estate, Feodum, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Silver, Copper, Silver, Silver, Cutpurse
+ 
+---------- kouki_arasu: turn 8 ----------
+kouki_arasu - plays 2 Copper, 1 Silver
+kouki_arasu - buys Feodum
+kouki_arasu - gains Feodum
+kouki_arasu - draws Copper, Trading Post, Copper
+kouki_arasu - shuffles deck
+kouki_arasu - draws Silver, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cutpurse
+kouki_arasu - discards Copper
+Titandrake - plays Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Copper, Copper, Silver, Develop, Trading Post
+ 
+---------- kouki_arasu: turn 9 ----------
+kouki_arasu - plays Trading Post
+kouki_arasu - trashes Estate, Copper
+kouki_arasu - gains Silver
+kouki_arasu - plays 2 Silver
+kouki_arasu - buys Thief
+kouki_arasu - gains Thief
+kouki_arasu - draws Feodum, Thief, Feodum, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Thief
+Titandrake - gains Thief
+Titandrake - draws Feodum, Silver
+Titandrake - shuffles deck
+Titandrake - draws Feodum, Develop, Silver
+ 
+---------- kouki_arasu: turn 10 ----------
+kouki_arasu - plays Thief
+Titandrake - reveals: Silver, Trading Post
+Titandrake - trashes Silver
+Titandrake - discards Trading Post
+kouki_arasu - gains Silver
+kouki_arasu - plays 1 Silver, 1 Copper
+kouki_arasu - buys Silver
+kouki_arasu - gains Silver
+kouki_arasu - draws Silver, Feodum, Copper, Feodum, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Develop
+Titandrake - trashes Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Duchy
+Titandrake - plays 2 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Duchy, Silver, Trading Post, Silver, Silver
+ 
+---------- kouki_arasu: turn 11 ----------
+kouki_arasu - plays 2 Copper, 1 Silver
+kouki_arasu - buys Gardens
+kouki_arasu - gains Gardens
+kouki_arasu - shuffles deck
+kouki_arasu - draws Feodum, Copper, Trading Post, Feodum, Feodum
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Copper, Thief, Copper, Cutpurse, Silver
+ 
+---------- kouki_arasu: turn 12 ----------
+kouki_arasu - plays Trading Post
+kouki_arasu - trashes Feodum, Feodum
+kouki_arasu - applies the 'when you trash ability' of Feodum
+kouki_arasu - gains Silver
+kouki_arasu - gains Silver
+kouki_arasu - gains Silver
+kouki_arasu - applies the 'when you trash ability' of Feodum
+kouki_arasu - gains Silver
+kouki_arasu - gains Silver
+kouki_arasu - gains Silver
+kouki_arasu - gains Silver
+kouki_arasu - plays 1 Copper, 1 Silver
+kouki_arasu - buys Develop
+kouki_arasu - gains Develop
+kouki_arasu - draws Silver, Silver, Copper, Copper, Feodum
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Thief
+kouki_arasu - reveals: Thief, Copper
+kouki_arasu - trashes Copper
+kouki_arasu - discards Thief
+Titandrake - gains Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Estate, Silver, Feodum, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- kouki_arasu: turn 13 ----------
+kouki_arasu - plays 2 Silver, 2 Copper
+kouki_arasu - buys Gardens
+kouki_arasu - gains Gardens
+kouki_arasu - draws Silver, Silver, Thief, Gardens, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Silver, Develop, Gardens, Duchy, Thief
+ 
+---------- kouki_arasu: turn 14 ----------
+kouki_arasu - plays Thief
+Titandrake - reveals: Copper, Silver
+Titandrake - trashes Silver
+Titandrake - discards Copper
+kouki_arasu - gains Silver
+kouki_arasu - plays 3 Silver
+kouki_arasu - buys Gardens
+kouki_arasu - gains Gardens
+kouki_arasu - draws Silver
+kouki_arasu - shuffles deck
+kouki_arasu - draws Feodum, Develop, Silver, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Develop
+Titandrake - trashes Duchy
+Titandrake - gains Gardens
+Titandrake - gains Gold
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Gardens, Silver, Silver, Trading Post
+ 
+---------- kouki_arasu: turn 15 ----------
+kouki_arasu - plays Develop
+kouki_arasu - trashes Feodum
+kouki_arasu - gains Silver
+kouki_arasu - gains Silver
+kouki_arasu - gains Silver
+kouki_arasu - gains Duchy
+kouki_arasu - gains Silver
+kouki_arasu - plays 2 Silver, 1 Copper
+kouki_arasu - buys Duchy
+kouki_arasu - gains Duchy
+kouki_arasu - draws Silver, Duchy, Gardens, Copper, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Gardens, Silver, Silver, Feodum
+ 
+---------- kouki_arasu: turn 16 ----------
+kouki_arasu - plays 2 Silver, 1 Copper
+kouki_arasu - buys Duchy
+kouki_arasu - gains Duchy
+kouki_arasu - draws Gardens, Thief, Silver, Silver, Trading Post
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Cutpurse, Silver, Trading Post, Copper, Silver
+ 
+---------- kouki_arasu: turn 17 ----------
+kouki_arasu - plays Thief
+Titandrake - reveals: Gardens
+Titandrake - shuffles deck
+Titandrake - reveals: Estate
+Titandrake - discards: Gardens, Estate
+kouki_arasu - plays 2 Silver
+kouki_arasu - buys Great Hall
+kouki_arasu - gains Great Hall
+kouki_arasu - draws Silver, Silver, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Cutpurse, Copper
+Titandrake - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Feodum, Gardens, Gold, Estate, Develop
+ 
+---------- kouki_arasu: turn 18 ----------
+kouki_arasu - plays 4 Silver, 1 Copper
+kouki_arasu - buys Province
+kouki_arasu - gains Province
+kouki_arasu - draws Silver, Gardens, Silver, Silver, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Develop
+Titandrake - trashes Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Duchy
+Titandrake - gains Great Hall
+Titandrake - plays Gold
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Great Hall, Duchy, Silver, Silver, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Great Hall, 2 Trading Post, 14 Silver, 1 Develop, 1 Thief, 2 Copper, 1 Gold, 5 Gardens, 4 Duchy, 2 Estate, 1 Feodum
+Titandrake - total victory points: 35
+Titandrake - turns: 18
+ 
+kouki_arasu - cards: 2 Thief, 18 Silver, 1 Great Hall, 1 Develop, 1 Trading Post, 3 Copper, 3 Gardens, 3 Duchy, 1 Province, 1 Feodum
+kouki_arasu - total victory points: 31
+kouki_arasu - turns: 18
+ 
+1st place: Titandrake
+2nd place: kouki_arasu
+ 

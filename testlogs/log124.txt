@@ -1,0 +1,497 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Candlestick Maker, Cellar, Steward, Navigator, Wandering Minstrel, Golem, Inn, Mint, Vault, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+frankdom - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays 5 Copper
+frankdom - buys Mint
+frankdom - trashes Copper, Copper, Copper, Copper, Copper
+frankdom - gains Mint
+frankdom - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Steward, Wandering Minstrel, Estate
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays 2 Copper
+frankdom - buys Candlestick Maker
+frankdom - gains Candlestick Maker
+frankdom - shuffles deck
+frankdom - draws Estate, Copper, Copper, Mint, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - reveals: Copper, Copper, Copper
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - plays Steward
+Titandrake - trashes Estate, Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Candlestick Maker
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays 2 Copper
+frankdom - buys Candlestick Maker
+frankdom - gains Candlestick Maker
+frankdom - draws Candlestick Maker, Estate
+frankdom - shuffles deck
+frankdom - draws Copper, Estate, Candlestick Maker
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Steward, Wandering Minstrel, Copper, Copper, Copper
+ 
+---------- frankdom: turn 4 ----------
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Copper
+frankdom - uses 2 coin tokens
+frankdom - buys Steward
+frankdom - gains Steward
+frankdom - draws Copper, Mint, Estate
+frankdom - shuffles deck
+frankdom - draws Copper, Steward
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Copper, Candlestick Maker
+Titandrake - places Candlestick Maker on top of deck
+Titandrake - discards: Copper, Copper
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Candlestick Maker, Estate, Copper, Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays Steward
+frankdom - takes 2 coins
+frankdom - plays 2 Copper
+frankdom - buys Wandering Minstrel
+frankdom - gains Wandering Minstrel
+frankdom - draws Candlestick Maker, Estate, Candlestick Maker, Estate
+frankdom - shuffles deck
+frankdom - draws Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Steward
+Titandrake - trashes Copper, Estate
+Titandrake - draws Copper, Steward, Copper, Wandering Minstrel, Silver
+ 
+---------- frankdom: turn 6 ----------
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - draws Steward, Copper, Wandering Minstrel, Copper, Mint
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Candlestick Maker, Steward
+Titandrake - places Candlestick Maker on top of deck
+Titandrake - places Steward on top of deck
+Titandrake - discards Copper
+Titandrake - plays Steward
+Titandrake - draws Steward, Candlestick Maker
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Steward, Gold, Candlestick Maker, Copper
+ 
+---------- frankdom: turn 7 ----------
+frankdom - plays Wandering Minstrel
+frankdom - shuffles deck
+frankdom - draws Estate
+frankdom - reveals: Candlestick Maker, Estate, Estate
+frankdom - places Candlestick Maker on top of deck
+frankdom - discards: Estate, Estate
+frankdom - plays Steward
+frankdom - draws Candlestick Maker, Candlestick Maker
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays 2 Copper
+frankdom - uses 4 coin tokens
+frankdom - buys Gold
+frankdom - gains Gold
+frankdom - shuffles deck
+frankdom - draws Estate, Gold, Wandering Minstrel, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays Gold
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Copper, Steward, Wandering Minstrel, Silver, Copper
+ 
+---------- frankdom: turn 8 ----------
+frankdom - plays Wandering Minstrel
+frankdom - draws Candlestick Maker
+frankdom - reveals: Estate, Copper, Steward
+frankdom - places Steward on top of deck
+frankdom - discards: Estate, Copper
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays 1 Gold, 1 Copper
+frankdom - uses 1 coin token
+frankdom - buys Vault
+frankdom - gains Vault
+frankdom - draws Steward, Mint, Candlestick Maker
+frankdom - shuffles deck
+frankdom - draws Vault, Candlestick Maker
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - draws Candlestick Maker
+Titandrake - reveals: Gold, Steward, Steward
+Titandrake - places Steward on top of deck
+Titandrake - places Steward on top of deck
+Titandrake - discards Gold
+Titandrake - plays Steward
+Titandrake - draws Steward, Steward
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Silver
+Titandrake - uses 3 coin tokens
+Titandrake - buys Mint
+Titandrake - trashes Copper, Copper, Silver
+Titandrake - gains Mint
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - draws Steward, Candlestick Maker, Wandering Minstrel, Steward, Steward
+ 
+---------- frankdom: turn 9 ----------
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Vault
+frankdom - draws Wandering Minstrel, Estate
+frankdom - discards Estate
+frankdom - discards Wandering Minstrel
+frankdom - discards Mint
+frankdom - discards Steward
+Titandrake - discards Candlestick Maker
+Titandrake - discards Steward
+frankdom - buys Wandering Minstrel
+frankdom - gains Wandering Minstrel
+frankdom - draws Estate, Copper, Gold, Estate, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Mint
+Titandrake - reveals: Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - reveals: Steward, Candlestick Maker
+Titandrake - places Candlestick Maker on top of deck
+Titandrake - places Steward on top of deck
+Titandrake - places Wandering Minstrel on top of deck
+Titandrake - plays Steward
+Titandrake - draws Wandering Minstrel, Steward
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Candlestick Maker
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Steward
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays 2 Gold
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Steward, Steward, Candlestick Maker, Wandering Minstrel, Wandering Minstrel
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays 2 Copper, 1 Gold
+frankdom - buys Steward
+frankdom - gains Steward
+frankdom - shuffles deck
+frankdom - draws Wandering Minstrel, Steward, Copper, Wandering Minstrel, Mint
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Gold
+Titandrake - reveals: Candlestick Maker, Steward, Mint
+Titandrake - places Mint on top of deck
+Titandrake - places Steward on top of deck
+Titandrake - places Candlestick Maker on top of deck
+Titandrake - plays Steward
+Titandrake - draws Candlestick Maker, Steward
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Mint
+Titandrake - reveals: Gold, Wandering Minstrel
+Titandrake - places Wandering Minstrel on top of deck
+Titandrake - discards Gold
+Titandrake - plays Steward
+Titandrake - draws Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Wandering Minstrel
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Steward
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays 3 Gold
+Titandrake - uses 3 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - draws Wandering Minstrel, Wandering Minstrel, Mint, Province, Candlestick Maker
+ 
+---------- frankdom: turn 11 ----------
+frankdom - plays Wandering Minstrel
+frankdom - draws Copper
+frankdom - reveals: Gold, Estate, Estate
+frankdom - discards: Gold, Estate, Estate
+frankdom - plays Wandering Minstrel
+frankdom - draws Candlestick Maker
+frankdom - reveals: Steward, Estate, Candlestick Maker
+frankdom - places Candlestick Maker on top of deck
+frankdom - places Steward on top of deck
+frankdom - discards Estate
+frankdom - plays Steward
+frankdom - draws Steward, Candlestick Maker
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Steward
+frankdom - draws Vault
+frankdom - shuffles deck
+frankdom - draws Estate
+frankdom - plays Vault
+frankdom - draws Estate, Estate
+frankdom - discards Estate
+frankdom - discards Estate
+frankdom - discards Estate
+frankdom - discards Mint
+frankdom - discards Copper
+frankdom - discards Copper
+Titandrake - discards Province
+Titandrake - discards Candlestick Maker
+frankdom - uses 2 coin tokens
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Gold
+frankdom - shuffles deck
+frankdom - draws Estate, Province, Estate, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Wandering Minstrel
+Titandrake - reveals: Steward, Gold, Candlestick Maker
+Titandrake - places Candlestick Maker on top of deck
+Titandrake - places Steward on top of deck
+Titandrake - discards Gold
+Titandrake - plays Steward
+Titandrake - draws Steward, Candlestick Maker
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Gold
+Titandrake - reveals: Steward, Gold, Wandering Minstrel
+Titandrake - places Wandering Minstrel on top of deck
+Titandrake - places Steward on top of deck
+Titandrake - discards Gold
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Steward
+Titandrake - reveals: Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - reveals: Candlestick Maker, Gold
+Titandrake - places Candlestick Maker on top of deck
+Titandrake - places Wandering Minstrel on top of deck
+Titandrake - discards Gold
+Titandrake - plays Steward
+Titandrake - draws Wandering Minstrel, Candlestick Maker
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Province
+Titandrake - reveals: Gold
+Titandrake - shuffles deck
+Titandrake - reveals: Gold, Gold
+Titandrake - discards: Gold, Gold, Gold
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Steward
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold
+Titandrake - plays 3 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Wandering Minstrel, Candlestick Maker, Steward, Gold
+ 
+---------- frankdom: turn 12 ----------
+frankdom - plays 1 Gold, 1 Copper
+frankdom - buys Wandering Minstrel
+frankdom - gains Wandering Minstrel
+frankdom - draws Estate, Steward, Candlestick Maker, Wandering Minstrel, Vault
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Mint
+Titandrake - reveals: Province, Steward, Cellar
+Titandrake - places Cellar on top of deck
+Titandrake - places Steward on top of deck
+Titandrake - discards Province
+Titandrake - plays Steward
+Titandrake - draws Steward, Cellar
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Cellar
+Titandrake - discards Steward
+Titandrake - draws Wandering Minstrel
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Wandering Minstrel
+Titandrake - reveals: Gold, Steward, Province
+Titandrake - places Steward on top of deck
+Titandrake - discards: Gold, Province
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Steward
+Titandrake - reveals: Gold, Wandering Minstrel, Candlestick Maker
+Titandrake - places Candlestick Maker on top of deck
+Titandrake - places Wandering Minstrel on top of deck
+Titandrake - discards Gold
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Wandering Minstrel, Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Gold, Wandering Minstrel, Steward
+ 
+---------- frankdom: turn 13 ----------
+frankdom - plays Wandering Minstrel
+frankdom - draws Wandering Minstrel
+frankdom - reveals: Steward, Mint, Copper
+frankdom - places Mint on top of deck
+frankdom - places Steward on top of deck
+frankdom - discards Copper
+frankdom - plays Wandering Minstrel
+frankdom - draws Steward
+frankdom - reveals: Mint, Candlestick Maker
+frankdom - shuffles deck
+frankdom - reveals: Estate
+frankdom - places Mint on top of deck
+frankdom - places Candlestick Maker on top of deck
+frankdom - discards Estate
+frankdom - plays Steward
+frankdom - draws Candlestick Maker, Mint
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Vault
+frankdom - draws Province, Wandering Minstrel
+frankdom - discards Province
+frankdom - plays Wandering Minstrel
+frankdom - draws Estate
+frankdom - reveals: Gold, Copper, Copper
+frankdom - discards: Gold, Copper, Copper
+frankdom - plays Steward
+frankdom - shuffles deck
+frankdom - draws Province, Copper
+frankdom - plays 1 Copper
+frankdom - uses 2 coin tokens
+frankdom - buys Wandering Minstrel
+frankdom - gains Wandering Minstrel
+frankdom - draws Estate, Gold, Copper
+frankdom - shuffles deck
+frankdom - draws Candlestick Maker, Mint
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Wandering Minstrel
+Titandrake - reveals: Steward, Gold, Cellar
+Titandrake - places Cellar on top of deck
+Titandrake - places Steward on top of deck
+Titandrake - discards Gold
+Titandrake - plays Steward
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Wandering Minstrel, 2 Candlestick Maker, 2 Steward, 1 Mint, 1 Cellar, 5 Gold, 3 Province
+Titandrake - total victory points: 18
+Titandrake - turns: 13
+ 
+frankdom - resigned
+frankdom - cards: 4 Wandering Minstrel, 2 Candlestick Maker, 2 Steward, 1 Mint, 1 Vault, 2 Copper, 1 Gold, 3 Estate, 1 Province
+frankdom - total victory points: 9
+frankdom - turns: 13
+ 
+1st place: Titandrake
+2nd place: frankdom
+ 

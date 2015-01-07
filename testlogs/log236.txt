@@ -1,0 +1,473 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Squire, Steward, Death Cart, Herald, Remake, Butcher, Cache, Embassy, Rabble, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+matste - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+matste - shuffles deck
+Titandrake - shuffles deck
+matste - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- matste: turn 1 ----------
+matste - plays 4 Copper
+matste - buys Remake
+matste - gains Remake
+matste - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - shuffles deck
+Titandrake - draws Steward, Estate, Remake, Estate, Copper
+ 
+---------- matste: turn 2 ----------
+matste - plays 3 Copper
+matste - buys Squire
+matste - gains Squire
+matste - shuffles deck
+matste - draws Remake, Copper, Estate, Estate, Squire
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Estate
+Titandrake - gains Steward
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- matste: turn 3 ----------
+matste - plays Squire
+matste - takes 2 actions
+matste - plays Remake
+matste - trashes Estate
+matste - gains Silver
+matste - trashes Estate
+matste - gains Silver
+matste - plays 1 Copper
+matste - buys Embargo
+matste - gains Embargo
+matste - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Herald, Copper, Copper
+ 
+---------- matste: turn 4 ----------
+matste - plays 4 Copper
+matste - buys Herald
+matste - gains Herald
+matste - draws Copper, Copper
+matste - shuffles deck
+matste - draws Copper, Copper, Embargo
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Herald
+Titandrake - draws Steward
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Silver, Remake, Copper, Steward, Estate
+ 
+---------- matste: turn 5 ----------
+matste - plays Embargo
+matste - embargoes Squire
+matste - trashes Embargo
+matste - plays 4 Copper
+matste - buys Embassy
+matste - gains Embassy
+Titandrake - gains Silver
+matste - draws Squire, Copper, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Estate
+Titandrake - gains Steward
+Titandrake - plays Silver
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Steward, Copper, Steward
+ 
+---------- matste: turn 6 ----------
+matste - plays Squire
+matste - gains Silver
+matste - plays 2 Copper, 1 Silver
+matste - buys Embassy
+matste - gains Embassy
+Titandrake - gains Silver
+matste - draws Copper, Remake, Herald, Silver
+matste - shuffles deck
+matste - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 3 Copper
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Silver, Copper, Herald, Silver, Squire
+ 
+---------- matste: turn 7 ----------
+matste - plays Herald
+matste - draws Silver
+matste - reveals: Embassy
+matste - plays Embassy
+matste - draws Embassy, Squire, Copper, Copper, Copper
+matste - discards Copper
+matste - discards Silver
+matste - discards Copper
+matste - plays Squire
+matste - takes 2 actions
+matste - plays Embassy
+matste - draws Estate, Silver, Copper, Copper
+matste - shuffles deck
+matste - draws Silver
+matste - discards Copper
+matste - discards Copper
+matste - discards Copper
+matste - plays Remake
+matste - trashes Estate
+matste - gains Silver
+matste - trashes Copper
+matste - plays 3 Silver, 1 Copper
+matste - buys Province
+matste - gains Province
+matste - draws Copper, Copper
+matste - shuffles deck
+matste - draws Squire, Copper, Embassy
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Herald
+Titandrake - draws Embargo
+Titandrake - reveals: Steward
+Titandrake - plays Steward
+Titandrake - draws Remake
+Titandrake - shuffles deck
+Titandrake - draws Steward
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Remake
+Titandrake - trashes Silver
+Titandrake - gains Herald
+Titandrake - trashes Silver
+Titandrake - gains Herald
+Titandrake - plays Embargo
+Titandrake - embargoes Province
+Titandrake - trashes Embargo
+Titandrake - plays Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Copper, Copper, Copper, Steward, Butcher
+ 
+---------- matste: turn 8 ----------
+matste - plays Squire
+matste - takes 2 actions
+matste - plays Embassy
+matste - draws Silver, Silver, Silver, Copper, Copper
+matste - discards Copper
+matste - discards Copper
+matste - discards Copper
+matste - plays 3 Silver, 2 Copper
+matste - buys Province
+matste - gains Curse
+matste - gains Province
+matste - draws Remake, Copper, Herald, Embassy, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Steward
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Butcher
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Steward, Herald, Herald
+ 
+---------- matste: turn 9 ----------
+matste - plays Herald
+matste - draws Province
+matste - shuffles deck
+matste - reveals: Province
+matste - places Province on top of deck
+matste - plays Embassy
+matste - draws Province, Copper, Silver, Silver, Copper
+matste - discards Province
+matste - discards Province
+matste - discards Remake
+matste - plays 3 Copper, 3 Silver
+matste - buys Province
+matste - gains Curse
+matste - gains Province
+matste - draws Curse, Silver, Squire, Embassy, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Squire
+Titandrake - reveals: Steward
+Titandrake - plays Steward
+Titandrake - draws Copper, Butcher
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - reveals: Butcher
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Silver
+Titandrake - uses 1 coin token
+Titandrake - gains Herald
+Titandrake - plays Herald
+Titandrake - draws Steward
+Titandrake - reveals: Remake
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Steward
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Herald
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Herald, Copper, Remake, Herald, Gold
+ 
+---------- matste: turn 10 ----------
+matste - plays Squire
+matste - takes 2 actions
+matste - plays Embassy
+matste - draws Copper, Copper
+matste - shuffles deck
+matste - draws Province, Copper, Copper
+matste - discards Curse
+matste - discards Province
+matste - discards Copper
+matste - plays 4 Copper, 1 Silver
+matste - buys Butcher
+matste - gains Butcher
+matste - draws Copper, Province, Province, Curse, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Herald
+Titandrake - draws Steward
+Titandrake - reveals: Steward
+Titandrake - plays Steward
+Titandrake - draws Herald, Copper
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - reveals: Squire
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Herald
+Titandrake - draws Butcher
+Titandrake - reveals: Steward
+Titandrake - plays Steward
+Titandrake - draws Herald, Butcher
+Titandrake - plays Herald
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Gold
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - shuffles deck
+Titandrake - draws Herald, Steward, Herald, Steward, Squire
+ 
+---------- matste: turn 11 ----------
+matste - plays 1 Copper, 1 Silver
+matste - buys Silver
+matste - gains Silver
+matste - draws Embassy, Remake, Silver, Herald, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Province
+Titandrake - places Province on top of deck
+Titandrake - plays Herald
+Titandrake - draws Province
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Remake
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Steward
+Titandrake - draws Silver, Butcher
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Steward
+Titandrake - draws Butcher, Steward
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Remake
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Herald, Herald, Copper, Embargo
+Titandrake - shuffles deck
+Titandrake - draws Steward
+ 
+---------- matste: turn 12 ----------
+matste - plays Herald
+matste - shuffles deck
+matste - draws Copper
+matste - reveals: Curse
+matste - places Curse on top of deck
+matste - plays Embassy
+matste - draws Curse, Copper, Curse, Province, Copper
+matste - discards Curse
+matste - discards Curse
+matste - discards Province
+matste - plays 3 Copper, 2 Silver
+matste - buys Duchy
+matste - gains Duchy
+matste - draws Embassy, Silver, Butcher, Province, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Herald
+Titandrake - draws Butcher
+Titandrake - reveals: Province
+Titandrake - places Province on top of deck
+Titandrake - plays Herald
+Titandrake - draws Province
+Titandrake - reveals: Province
+Titandrake - places Province on top of deck
+Titandrake - plays Embargo
+Titandrake - embargoes Province
+Titandrake - trashes Embargo
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Province, Herald, Steward, Herald, Copper
+ 
+---------- matste: turn 13 ----------
+matste - plays Butcher
+matste - receives 2 coin tokens
+matste - trashes Province
+matste - gains Province
+matste - plays 1 Silver, 1 Copper
+matste - buys Silver
+matste - gains Silver
+matste - draws Copper, Province, Silver, Silver, Squire
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Herald
+Titandrake - draws Steward
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Butcher
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Steward
+Titandrake - uses 1 coin token
+Titandrake - gains Herald
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Herald, Herald, Squire
+Titandrake - shuffles deck
+Titandrake - draws Butcher, Herald
+ 
+---------- matste: turn 14 ----------
+matste - plays Squire
+matste - gains Silver
+matste - plays 2 Silver, 1 Copper
+matste - buys Duchy
+matste - gains Duchy
+matste - draws Copper
+matste - shuffles deck
+matste - draws Squire, Herald, Province, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Province
+Titandrake - reveals: Butcher
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Province
+Titandrake - gains Province
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Duchy
+Titandrake - places Duchy on top of deck
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Silver
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Duchy, Herald, Province, Steward, Steward
+ 
+------------ Game Over ------------
+matste - cards: 2 Embassy, 1 Squire, 1 Herald, 1 Remake, 1 Butcher, 7 Silver, 6 Copper, 3 Province, 2 Duchy, 2 Curse
+matste - total victory points: 22
+matste - turns: 14
+ 
+Titandrake - cards: 7 Herald, 2 Steward, 2 Butcher, 1 Squire, 1 Embargo, 2 Copper, 3 Province, 1 Duchy, 1 Estate
+Titandrake - total victory points: 22
+Titandrake - turns: 15
+ 
+1st place: matste
+2nd place: Titandrake
+ 

@@ -1,0 +1,646 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Duchess, Oracle, Trade Route, Farming Village, Talisman, Treasure Map, Embassy, Harem, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Temron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 4 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Talisman
+Titandrake - gains Talisman
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Oracle, Copper
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - shuffles deck
+Temron - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Estate, Copper
+Titandrake - discards: Estate, Copper
+Temron - reveals: Silver, Estate
+Temron - discards: Silver, Estate
+Titandrake - draws Copper, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+Temron - gains Silver
+Titandrake - draws Estate, Talisman, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- Temron: turn 3 ----------
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Embassy
+Temron - gains Embassy
+Titandrake - gains Silver
+Temron - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Temron: turn 4 ----------
+Temron - plays 4 Copper
+Temron - buys Farming Village
+Temron - gains Farming Village
+Temron - shuffles deck
+Temron - draws Silver, Copper, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Oracle, Copper, Embassy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- Temron: turn 5 ----------
+Temron - plays 2 Silver, 2 Copper
+Temron - buys Hoard
+Temron - gains Hoard
+Temron - draws Copper, Farming Village, Copper, Embassy, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Embassy
+Titandrake - draws Talisman, Estate, Copper, Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Oracle
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - plays Talisman
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Copper, Copper, Estate, Copper, Farming Village
+ 
+---------- Temron: turn 6 ----------
+Temron - plays Embassy
+Temron - draws Estate, Copper, Silver, Estate, Copper
+Temron - discards Estate
+Temron - discards Estate
+Temron - discards Farming Village
+Temron - plays 5 Copper, 1 Silver
+Temron - buys Hoard
+Temron - gains Hoard
+Temron - shuffles deck
+Temron - draws Hoard, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 4 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Estate, Embassy, Estate, Oracle, Talisman
+ 
+---------- Temron: turn 7 ----------
+Temron - plays 3 Copper, 1 Silver
+Temron - plays Hoard
+Temron - buys Harem
+Temron - gains Gold
+Temron - gains Harem
+Temron - draws Farming Village, Copper, Embassy, Hoard, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Embassy
+Titandrake - draws Silver, Farming Village, Copper, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Oracle
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Talisman
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - gains Farming Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Talisman, Copper
+ 
+---------- Temron: turn 8 ----------
+Temron - plays Farming Village
+Temron - reveals Estate, Silver
+Temron - places Silver in hand
+Temron - discards Estate
+Temron - plays Embassy
+Temron - draws Copper, Estate, Estate, Copper, Copper
+Temron - discards Estate
+Temron - discards Estate
+Temron - discards Copper
+Temron - plays 3 Copper, 2 Silver
+Temron - plays Hoard
+Temron - buys Province
+Temron - gains Gold
+Temron - gains Province
+Temron - shuffles deck
+Temron - draws Hoard, Hoard, Estate, Farming Village, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Talisman
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Estate, Oracle, Farming Village, Farming Village, Copper
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Farming Village
+Temron - reveals Estate, Embassy
+Temron - places Embassy in hand
+Temron - discards Estate
+Temron - plays Embassy
+Temron - draws Copper, Copper, Gold, Harem, Copper
+Temron - discards Estate
+Temron - discards Copper
+Temron - discards Copper
+Temron - plays 1 Harem, 1 Silver, 1 Copper, 1 Gold
+Temron - plays Hoard
+Temron - plays Hoard
+Temron - buys Province
+Temron - gains Gold
+Temron - gains Gold
+Temron - gains Province
+Temron - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Estate, Farming Village
+Titandrake - discards: Estate, Farming Village
+Temron - reveals: Province, Estate
+Temron - places Province on top of deck
+Temron - places Estate on top of deck
+Titandrake - draws Farming Village, Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Estate
+Titandrake - plays Farming Village
+Titandrake - reveals Embassy
+Titandrake - places Embassy in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Embassy
+Titandrake - draws Trade Route
+Titandrake - shuffles deck
+Titandrake - draws Talisman, Estate, Copper, Farming Village
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - plays Talisman
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - gains Farming Village
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - gains Oracle
+Titandrake - draws Farming Village, Copper, Estate, Farming Village, Silver
+ 
+---------- Temron: turn 10 ----------
+Temron - plays 4 Copper, 1 Silver
+Temron - buys Embassy
+Temron - gains Embassy
+Titandrake - gains Silver
+Temron - draws Estate, Province, Silver, Gold
+Temron - shuffles deck
+Temron - draws Farming Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Farming Village, Copper, Farming Village, Trade Route, Farming Village
+ 
+---------- Temron: turn 11 ----------
+Temron - plays Farming Village
+Temron - reveals Gold
+Temron - places Gold in hand
+Temron - plays 2 Gold, 1 Silver
+Temron - buys Province
+Temron - gains Province
+Temron - draws Gold, Province, Copper, Hoard, Embassy
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Oracle
+Titandrake - places Oracle in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Estate
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Embassy, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Embassy on top of deck
+Temron - reveals: Copper, Hoard
+Temron - discards: Copper, Hoard
+Titandrake - draws Embassy, Copper
+Titandrake - plays Embassy
+Titandrake - draws Oracle, Farming Village, Farming Village, Copper, Farming Village
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Talisman
+Titandrake - places Talisman in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Oracle, Farming Village
+Titandrake - places Farming Village on top of deck
+Titandrake - places Oracle on top of deck
+Temron - reveals: Copper, Gold
+Temron - discards: Copper, Gold
+Titandrake - draws Oracle, Farming Village
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Potion
+Titandrake - places Potion in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Farming Village
+Titandrake - discards: Copper, Farming Village
+Temron - reveals: Silver, Silver
+Temron - discards: Silver, Silver
+Titandrake - draws Estate, Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - discards Estate
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper, 1 Silver, 1 Potion
+Titandrake - plays Talisman
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Trade Route, Oracle
+ 
+---------- Temron: turn 12 ----------
+Temron - plays Embassy
+Temron - draws Estate, Copper, Embassy, Harem, Copper
+Temron - discards Estate
+Temron - discards Province
+Temron - discards Copper
+Temron - plays 2 Copper, 1 Harem, 1 Gold
+Temron - plays Hoard
+Temron - buys Province
+Temron - gains Gold
+Temron - gains Province
+Temron - draws Copper, Copper, Estate
+Temron - shuffles deck
+Temron - draws Farming Village, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - draws Trade Route, Farming Village, Estate, Copper, Copper
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Farming Village
+Temron - reveals Province, Harem
+Temron - places Harem in hand
+Temron - discards Province
+Temron - plays 2 Copper, 1 Harem, 1 Gold
+Temron - buys Harem
+Temron - gains Harem
+Temron - draws Copper, Hoard, Embassy, Hoard, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Embassy
+Titandrake - places Embassy in hand
+Titandrake - plays Embassy
+Titandrake - draws Vineyard, Farming Village, Farming Village, Estate, Farming Village
+Titandrake - discards Vineyard
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Oracle
+Titandrake - places Oracle in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Silver, Trade Route
+Titandrake - discards: Silver, Trade Route
+Temron - reveals: Silver, Copper
+Temron - discards: Silver, Copper
+Titandrake - draws Talisman, Potion
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - plays Talisman
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - gains Potion
+Titandrake - draws Oracle, Farming Village
+Titandrake - shuffles deck
+Titandrake - draws Silver, Vineyard, Farming Village
+ 
+---------- Temron: turn 14 ----------
+Temron - plays Embassy
+Temron - draws Copper, Gold, Silver, Copper, Gold
+Temron - discards Province
+Temron - discards Copper
+Temron - discards Copper
+Temron - plays 2 Gold, 1 Copper, 1 Silver
+Temron - plays Hoard
+Temron - plays Hoard
+Temron - buys Province
+Temron - gains Gold
+Temron - gains Gold
+Temron - gains Province
+Temron - draws Estate, Gold, Province, Estate, Embassy
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Embassy, Vineyard
+Titandrake - places Vineyard on top of deck
+Titandrake - places Embassy on top of deck
+Temron - reveals: Gold, Province
+Temron - discards: Gold, Province
+Titandrake - draws Embassy, Vineyard
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Embassy
+Titandrake - draws Estate, Trade Route, Oracle, Potion, Trade Route
+Titandrake - discards Vineyard
+Titandrake - discards Vineyard
+Titandrake - discards Estate
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Talisman
+Titandrake - gains Talisman
+Titandrake - draws Copper, Oracle, Farming Village, Silver, Estate
+ 
+---------- Temron: turn 15 ----------
+Temron - plays Embassy
+Temron - draws Copper, Silver
+Temron - shuffles deck
+Temron - draws Copper, Hoard, Province
+Temron - discards Province
+Temron - discards Province
+Temron - discards Estate
+Temron - plays 2 Copper, 1 Gold, 1 Silver
+Temron - plays Hoard
+Temron - buys Province
+Temron - gains Gold
+Temron - gains Province
+Temron - draws Copper, Gold, Gold, Gold, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Oracle
+Titandrake - places Oracle in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Farming Village, Farming Village
+Titandrake - places Farming Village on top of deck
+Titandrake - places Farming Village on top of deck
+Temron - reveals: Silver, Copper
+Temron - places Silver on top of deck
+Temron - places Copper on top of deck
+Titandrake - draws Farming Village, Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Potion
+Titandrake - places Potion in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Trade Route, Copper
+Titandrake - discards: Trade Route, Copper
+Temron - reveals: Copper, Silver
+Temron - places Silver on top of deck
+Temron - places Copper on top of deck
+Titandrake - draws Farming Village, Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Potion
+Titandrake - places Potion in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Oracle
+Titandrake - places Oracle in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Talisman, Farming Village
+Titandrake - discards: Talisman, Farming Village
+Temron - reveals: Copper, Silver
+Temron - places Silver on top of deck
+Temron - places Copper on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Vineyard, Embassy
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Embassy
+Titandrake - draws Estate, Farming Village, Trade Route, Potion, Farming Village
+Titandrake - discards Vineyard
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays Farming Village
+Titandrake - reveals Vineyard, Oracle
+Titandrake - places Oracle in hand
+Titandrake - discards Vineyard
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Farming Village, Talisman
+Titandrake - discards: Farming Village, Talisman
+Temron - reveals: Copper, Silver
+Temron - places Copper on top of deck
+Temron - places Silver on top of deck
+Titandrake - draws Trade Route, Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 3 Potion, 2 Silver, 1 Copper
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Talisman, Oracle, Trade Route, Vineyard
+Titandrake - shuffles deck
+Titandrake - draws Talisman
+ 
+---------- Temron: turn 16 ----------
+Temron - plays 3 Gold, 1 Copper
+Temron - buys Province
+Temron - gains Province
+Temron - draws Silver, Copper, Silver, Estate, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Oracle
+Titandrake - plays Talisman
+Titandrake - plays Talisman
+Titandrake - buys Duchess
+Titandrake - gains Duchess
+Titandrake - gains Duchess
+Titandrake - gains Duchess
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - gains Oracle
+Titandrake - gains Oracle
+Titandrake - draws Farming Village, Oracle, Trade Route, Farming Village, Farming Village
+ 
+---------- Temron: turn 17 ----------
+Temron - plays 2 Silver, 1 Copper
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - draws Hoard, Harem, Copper, Farming Village, Province
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Vineyard, Oracle
+Titandrake - places Oracle in hand
+Titandrake - discards Vineyard
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Potion
+Titandrake - places Potion in hand
+Titandrake - discards Estate
+Titandrake - plays Oracle
+Titandrake - reveals: Potion, Farming Village
+Titandrake - places Farming Village on top of deck
+Titandrake - places Potion on top of deck
+Temron - reveals: Harem, Gold
+Temron - discards: Harem, Gold
+Titandrake - draws Potion, Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Trade Route
+Titandrake - places Trade Route in hand
+Titandrake - plays Oracle
+Titandrake - reveals: Vineyard, Farming Village
+Titandrake - discards: Vineyard, Farming Village
+Temron - reveals: Gold, Gold
+Temron - discards: Gold, Gold
+Titandrake - draws Oracle, Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Embassy
+Titandrake - places Embassy in hand
+Titandrake - plays Embassy
+Titandrake - draws Oracle, Silver, Farming Village, Vineyard, Potion
+Titandrake - discards Vineyard
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Vineyard, Estate, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Vineyard, Estate
+Titandrake - plays Trade Route
+Titandrake - trashes Potion
+Titandrake - plays Trade Route
+Titandrake - trashes Silver
+Titandrake - plays 2 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Vineyard
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Potion, Vineyard, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 9 Farming Village, 7 Oracle, 3 Trade Route, 3 Duchess, 1 Embassy, 2 Potion, 2 Talisman, 1 Copper, 1 Silver, 8 Vineyard, 2 Estate, 1 Province
+Titandrake - total victory points: 64
+Titandrake - turns: 18
+ 
+Temron - cards: 2 Embassy, 1 Farming Village, 8 Gold, 7 Copper, 3 Silver, 2 Harem, 2 Hoard, 7 Province, 3 Estate, 1 Duchy
+Temron - total victory points: 52
+Temron - turns: 17
+ 
+1st place: Titandrake
+2nd place: Temron
+ 

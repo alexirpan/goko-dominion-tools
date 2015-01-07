@@ -1,0 +1,606 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Crossroads, Lighthouse, Pearl Diver, Feodum, Young Witch, Council Room, Margrave, Vault, Peddler, Prince, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Bane card: Pearl Diver
+Rating system: pro
+Pinot - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Pinot - shuffles deck
+Titandrake - shuffles deck
+Pinot - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Pinot: turn 1 ----------
+Pinot - plays 4 Copper
+Pinot - buys Young Witch
+Pinot - gains Young Witch
+Pinot - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Pinot: turn 2 ----------
+Pinot - plays 3 Copper
+Pinot - buys Pearl Diver
+Pinot - gains Pearl Diver
+Pinot - shuffles deck
+Pinot - draws Copper, Copper, Pearl Diver, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Young Witch, Copper, Lighthouse
+ 
+---------- Pinot: turn 3 ----------
+Pinot - plays Pearl Diver
+Pinot - draws Estate
+Pinot - places Young Witch on top of deck
+Pinot - plays 4 Copper
+Pinot - buys Lighthouse
+Pinot - gains Lighthouse
+Pinot - draws Young Witch, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Young Witch
+Titandrake - draws Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Pinot - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Pinot: turn 4 ----------
+Pinot - plays Young Witch
+Pinot - draws Copper
+Pinot - shuffles deck
+Pinot - draws Pearl Diver
+Pinot - discards Estate
+Pinot - discards Estate
+Pinot - plays 3 Copper
+Pinot - buys Crossroads
+Pinot - gains Crossroads
+Pinot - draws Copper, Lighthouse, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays 3 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Pinot: turn 5 ----------
+Pinot - plays Lighthouse
+Pinot - plays 3 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Curse, Copper
+Pinot - shuffles deck
+Pinot - draws Silver, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Young Witch, Copper, Lighthouse, Copper, Lighthouse
+ 
+---------- Pinot: turn 6 ----------
+Pinot - duration Lighthouse
+Pinot - plays 2 Copper, 1 Silver
+Pinot - buys Vault
+Pinot - gains Vault
+Pinot - draws Copper, Young Witch, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Young Witch
+Titandrake - draws Peddler, Copper
+Titandrake - discards Peddler
+Titandrake - discards Copper
+Pinot - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Peddler, Copper, Estate
+ 
+---------- Pinot: turn 7 ----------
+Pinot - plays Young Witch
+Pinot - draws Pearl Diver, Estate
+Pinot - discards Estate
+Pinot - discards Estate
+Pinot - plays 3 Copper
+Pinot - buys Beggar
+Pinot - gains Beggar
+Pinot - draws Copper, Copper, Crossroads
+Pinot - shuffles deck
+Pinot - draws Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Young Witch, Copper, Estate, Peddler, Copper
+ 
+---------- Pinot: turn 8 ----------
+Pinot - plays 4 Copper
+Pinot - buys Crossroads
+Pinot - gains Crossroads
+Pinot - draws Silver, Copper, Pearl Diver, Copper, Beggar
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Peddler
+Titandrake - draws Crossroads
+Titandrake - plays Young Witch
+Pinot - reveals reaction Beggar
+Pinot - discards Beggar
+Pinot - gains Silver
+Pinot - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Crossroads
+Pinot - reveals bane Pearl Diver
+Titandrake - plays 4 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Margrave, Peddler
+ 
+---------- Pinot: turn 9 ----------
+Pinot - plays Pearl Diver
+Pinot - draws Silver
+Pinot - places Estate on bottom of deck
+Pinot - plays 2 Silver, 2 Copper
+Pinot - buys Peddler
+Pinot - gains Peddler
+Pinot - draws Curse, Lighthouse, Estate, Estate, Vault
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Margrave
+Titandrake - draws Copper, Lighthouse, Estate
+Pinot - draws Curse
+Pinot - discards Estate
+Pinot - discards Curse
+Pinot - discards Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Peddler, Young Witch, Margrave, Copper, Copper
+ 
+---------- Pinot: turn 10 ----------
+Pinot - plays Lighthouse
+Pinot - plays Vault
+Pinot - draws Young Witch, Copper
+Pinot - discards Copper
+Pinot - discards Young Witch
+Pinot - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Young Witch
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Estate
+Pinot - shuffles deck
+Pinot - draws Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Peddler
+Titandrake - draws Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Margrave
+Titandrake - draws Copper, Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Young Witch
+Titandrake - plays 2 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Lighthouse, Peddler, Margrave, Estate
+ 
+---------- Pinot: turn 11 ----------
+Pinot - duration Lighthouse
+Pinot - plays 3 Copper
+Pinot - buys Lighthouse
+Pinot - gains Lighthouse
+Pinot - draws Peddler, Copper, Silver, Crossroads, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Lighthouse
+Titandrake - plays Margrave
+Titandrake - draws Peddler, Copper, Copper
+Pinot - draws Vault
+Pinot - discards Copper
+Pinot - discards Copper
+Pinot - discards Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Margrave
+ 
+---------- Pinot: turn 12 ----------
+Pinot - plays Peddler
+Pinot - draws Beggar
+Pinot - plays Crossroads
+Pinot - reveals hand: Vault, Beggar
+Pinot - plays Vault
+Pinot - draws Crossroads, Silver
+Pinot - discards Crossroads
+Titandrake - discards Estate
+Titandrake - discards Estate
+Pinot - buys Peddler
+Pinot - gains Peddler
+Pinot - draws Copper, Curse, Estate, Pearl Diver, Young Witch
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Margrave
+Titandrake - draws Young Witch, Copper, Peddler
+Pinot - draws Curse
+Pinot - discards Estate
+Pinot - discards Curse
+Pinot - discards Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Margrave, Peddler, Copper, Peddler, Peddler
+ 
+---------- Pinot: turn 13 ----------
+Pinot - plays Pearl Diver
+Pinot - draws Silver
+Pinot - places Silver on top of deck
+Pinot - plays Young Witch
+Pinot - draws Silver, Copper
+Pinot - discards Copper
+Pinot - discards Copper
+Titandrake - gains Curse
+Pinot - plays 2 Silver
+Pinot - buys Peddler
+Pinot - gains Peddler
+Pinot - shuffles deck
+Pinot - draws Silver, Estate, Young Witch, Copper, Pearl Diver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Peddler
+Titandrake - draws Lighthouse
+Titandrake - plays Peddler
+Titandrake - draws Crossroads
+Titandrake - plays Peddler
+Titandrake - draws Gold
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Margrave, Copper, Lighthouse, Gold
+Titandrake - plays Margrave
+Titandrake - draws Peddler, Copper, Peddler
+Pinot - draws Estate
+Pinot - discards Estate
+Pinot - discards Estate
+Pinot - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Lighthouse
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Prince
+Titandrake - gains Prince
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - shuffles deck
+Titandrake - draws Young Witch, Copper, Copper, Peddler, Estate
+ 
+---------- Pinot: turn 14 ----------
+Pinot - plays Pearl Diver
+Pinot - draws Crossroads
+Pinot - places Silver on top of deck
+Pinot - plays Crossroads
+Pinot - reveals hand: Silver, Young Witch
+Pinot - plays Young Witch
+Pinot - draws Silver, Silver
+Pinot - discards Silver
+Pinot - discards Silver
+Pinot - plays 1 Silver
+Pinot - buys Peddler
+Pinot - gains Peddler
+Pinot - draws Copper, Vault, Peddler, Silver, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Gold
+Titandrake - discards Estate
+Titandrake - discards Copper
+Pinot - gains Curse
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Prince
+Titandrake - gains Prince
+Titandrake - draws Copper, Peddler, Estate, Copper, Crossroads
+ 
+---------- Pinot: turn 15 ----------
+Pinot - plays Peddler
+Pinot - draws Beggar
+Pinot - plays Vault
+Pinot - draws Copper, Lighthouse
+Pinot - discards Lighthouse
+Pinot - discards Beggar
+Titandrake - discards Copper
+Titandrake - discards Copper
+Pinot - plays 3 Copper, 1 Silver
+Pinot - buys Gold
+Pinot - gains Gold
+Pinot - draws Copper, Curse, Peddler, Curse, Lighthouse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Peddler
+Titandrake - draws Margrave
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Estate, Lighthouse, Margrave
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Estate, Curse, Crossroads
+Pinot - draws Peddler
+Pinot - discards Curse
+Pinot - discards Curse
+Pinot - discards Copper
+Titandrake - plays Margrave
+Titandrake - draws Lighthouse, Peddler, Copper
+Pinot - draws Copper
+Pinot - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Margrave
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Prince
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Peddler
+ 
+---------- Pinot: turn 16 ----------
+Pinot - plays Lighthouse
+Pinot - plays Peddler
+Pinot - draws Estate
+Pinot - plays Peddler
+Pinot - draws Crossroads
+Pinot - plays Crossroads
+Pinot - reveals hand: Estate
+Pinot - draws Copper
+Pinot - plays 1 Copper
+Pinot - buys Young Witch
+Pinot - gains Young Witch
+Pinot - shuffles deck
+Pinot - draws Copper, Copper, Copper, Estate, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays Peddler
+Titandrake - draws Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Crossroads, Peddler, Copper, Peddler, Copper
+ 
+---------- Pinot: turn 17 ----------
+Pinot - duration Lighthouse
+Pinot - plays 3 Copper
+Pinot - buys Silver
+Pinot - gains Silver
+Pinot - draws Copper, Silver, Silver, Vault, Peddler
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Copper, Lighthouse, Copper, Margrave, Margrave
+ 
+---------- Pinot: turn 18 ----------
+Pinot - plays Peddler
+Pinot - draws Silver
+Pinot - plays Vault
+Pinot - draws Curse, Peddler
+Pinot - discards Peddler
+Pinot - discards Curse
+Titandrake - discards Copper
+Titandrake - discards Copper
+Pinot - plays 3 Silver, 1 Copper
+Pinot - buys Platinum
+Pinot - gains Platinum
+Pinot - draws Curse, Crossroads, Silver, Copper, Young Witch
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Peddler
+Titandrake - draws Gold
+Titandrake - plays Lighthouse
+Titandrake - plays Margrave
+Titandrake - draws Margrave, Peddler, Crossroads
+Pinot - draws Estate
+Pinot - discards Estate
+Pinot - discards Curse
+Pinot - discards Copper
+Titandrake - plays Gold
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Gold, Estate, Peddler, Young Witch, Prince
+ 
+---------- Pinot: turn 19 ----------
+Pinot - plays Crossroads
+Pinot - reveals hand: Silver, Young Witch
+Pinot - plays Young Witch
+Pinot - draws Lighthouse, Young Witch
+Pinot - discards Silver
+Pinot - discards Young Witch
+Pinot - plays Lighthouse
+Pinot - draws Copper, Estate, Crossroads, Pearl Diver, Beggar
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Peddler
+Titandrake - shuffles deck
+Titandrake - draws Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Prince
+Titandrake - sets aside Prince
+Titandrake - sets aside Young Witch
+Titandrake - plays Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Pearl Diver, Copper, Prince, Young Witch
+ 
+---------- Pinot: turn 20 ----------
+Pinot - duration Lighthouse
+Pinot - plays Pearl Diver
+Pinot - draws Gold
+Pinot - places Copper on bottom of deck
+Pinot - plays Crossroads
+Pinot - reveals hand: Copper, Estate, Beggar, Gold
+Pinot - draws Peddler
+Pinot - plays Peddler
+Pinot - draws Peddler
+Pinot - plays Peddler
+Pinot - draws Copper
+Pinot - plays 2 Copper, 1 Gold
+Pinot - buys Prince
+Pinot - gains Prince
+Pinot - shuffles deck
+Pinot - draws Silver, Platinum, Copper, Crossroads, Lighthouse
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Prince
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Pearl Diver
+Titandrake - discards Copper
+Titandrake - discards Young Witch
+Pinot - gains Curse
+Titandrake - plays Pearl Diver
+Titandrake - draws Estate
+Titandrake - places Peddler on top of deck
+Titandrake - plays Prince
+Titandrake - sets aside Prince
+Titandrake - sets aside Pearl Diver
+Titandrake - plays 2 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Peddler, Estate, Peddler, Margrave, Copper
+ 
+---------- Pinot: turn 21 ----------
+Pinot - plays Lighthouse
+Pinot - plays 1 Silver, 1 Platinum, 1 Copper
+Pinot - buys Platinum
+Pinot - gains Platinum
+Pinot - draws Copper, Young Witch, Estate, Lighthouse, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - duration Prince
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Crossroads on top of deck
+Titandrake - duration Prince
+Titandrake - plays Young Witch
+Titandrake - draws Crossroads, Peddler
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Crossroads
+Titandrake - plays Margrave
+Titandrake - draws Curse, Margrave, Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Estate, Crossroads, Copper, Copper, Curse, Margrave
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Gold, Peddler, Peddler
+Titandrake - plays Margrave
+Titandrake - draws Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Young Witch, Lighthouse
+Titandrake - plays Peddler
+Titandrake - draws Gold
+Titandrake - plays Peddler
+Titandrake - draws Pearl Diver
+Titandrake - plays Pearl Diver
+Titandrake - draws Gold
+Titandrake - places Pearl Diver on top of deck
+Titandrake - plays Lighthouse
+Titandrake - plays Young Witch
+Titandrake - draws Pearl Diver, Copper
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - plays 3 Copper, 3 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Prince
+Titandrake - gains Prince
+Titandrake - draws Peddler, Copper, Copper, Copper, Lighthouse
+ 
+---------- Pinot: turn 22 ----------
+Pinot - duration Lighthouse
+Pinot - plays Lighthouse
+Pinot - plays Young Witch
+Pinot - draws Peddler, Curse
+Pinot - discards Curse
+Pinot - discards Estate
+Pinot - plays 1 Copper, 1 Silver
+Pinot - buys Margrave
+Pinot - gains Margrave
+Pinot - draws Silver, Silver, Copper, Silver, Curse
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Peddler, 3 Prince, 3 Margrave, 3 Crossroads, 2 Pearl Diver, 1 Lighthouse, 1 Young Witch, 7 Copper, 3 Gold, 3 Estate, 1 Colony, 1 Curse
+Titandrake - total victory points: 12
+Titandrake - turns: 21
+ 
+Pinot - resigned
+Pinot - cards: 4 Peddler, 2 Crossroads, 2 Lighthouse, 2 Young Witch, 1 Margrave, 1 Prince, 1 Vault, 1 Pearl Diver, 1 Beggar, 7 Copper, 5 Silver, 2 Platinum, 1 Gold, 3 Estate, 4 Curse
+Pinot - total victory points: -1
+Pinot - turns: 22
+ 
+1st place: Titandrake
+2nd place: Pinot
+ 

@@ -1,0 +1,543 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Armory, Spice Merchant, Trader, Cartographer, Counting House, Ill-Gotten Gains, Mountebank, Trading Post, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Eevee - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - shuffles deck
+Titandrake - shuffles deck
+Eevee - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays 5 Copper
+Eevee - buys Mountebank
+Eevee - gains Mountebank
+Eevee - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Eevee: turn 2 ----------
+Eevee - plays 2 Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - shuffles deck
+Eevee - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Trader, Estate, Copper, Silver
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays 2 Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - draws Copper, Copper, Copper, Copper, Pawn
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Trader
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays 5 Copper
+Eevee - buys Ill-Gotten Gains
+Eevee - gains Ill-Gotten Gains
+Titandrake - gains Curse
+Eevee - draws Mountebank
+Eevee - shuffles deck
+Eevee - draws Copper, Pawn, Copper, Ill-Gotten Gains
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Trader, Trader, Silver
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays Mountebank
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Eevee - plays 3 Copper
+Eevee - plays Ill-Gotten Gains
+Eevee - gains Copper
+Eevee - buys Counting House
+Eevee - gains Counting House
+Eevee - draws Pawn, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Trader
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - buys Copper
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - draws Curse, Silver, Copper, Copper, Copper
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays Pawn
+Eevee - takes 1 buy
+Eevee - draws Estate
+Eevee - plays 3 Copper
+Eevee - buys Copper
+Eevee - gains Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - draws Copper, Estate
+Eevee - shuffles deck
+Eevee - draws Ill-Gotten Gains, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Eevee - gains Curse
+Titandrake - draws Silver, Estate, Estate, Copper, Pawn
+ 
+---------- Eevee: turn 7 ----------
+Eevee - plays 3 Copper
+Eevee - plays Ill-Gotten Gains
+Eevee - gains Copper
+Eevee - plays 1 Copper
+Eevee - buys Counting House
+Eevee - gains Counting House
+Eevee - draws Counting House, Pawn, Estate, Mountebank, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Eevee - gains Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Trader, Curse, Estate, Silver
+ 
+---------- Eevee: turn 8 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Estate
+Eevee - plays Counting House
+Eevee - buys Copper
+Eevee - gains Copper
+Eevee - draws Copper, Copper, Copper, Pawn, Pawn
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Trader
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Silver, Pawn, Silver, Ill-Gotten Gains
+ 
+---------- Eevee: turn 9 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays 5 Copper
+Eevee - buys Counting House
+Eevee - gains Counting House
+Eevee - shuffles deck
+Eevee - draws Copper, Pawn, Copper, Counting House, Pawn
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Silver
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Estate, Silver, Trader
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - takes 1 buy
+Eevee - plays Pawn
+Eevee - takes 1 buy
+Eevee - draws Copper
+Eevee - plays 3 Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - buys Copper
+Eevee - gains Copper
+Eevee - buys Copper
+Eevee - gains Copper
+Eevee - draws Mountebank, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Trader
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Eevee - gains Curse
+Titandrake - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Eevee - plays 4 Copper
+Eevee - buys Counting House
+Eevee - gains Counting House
+Eevee - draws Curse, Estate, Estate, Copper, Pawn
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Eevee - gains Curse
+Titandrake - draws Ill-Gotten Gains, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Pawn
+ 
+---------- Eevee: turn 12 ----------
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - takes 1 buy
+Eevee - plays 1 Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - buys Copper
+Eevee - gains Copper
+Eevee - draws Copper, Ill-Gotten Gains, Counting House, Estate, Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Silver
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Ill-Gotten Gains, Pawn, Curse
+ 
+---------- Eevee: turn 13 ----------
+Eevee - plays Counting House
+Eevee - places cards in hand:  Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - plays 12 Copper
+Eevee - plays Ill-Gotten Gains
+Eevee - gains Copper
+Eevee - buys Colony
+Eevee - gains Colony
+Eevee - draws Copper, Copper, Counting House
+Eevee - shuffles deck
+Eevee - draws Estate, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Eevee - gains Curse
+Titandrake - draws Silver, Ill-Gotten Gains, Copper, Copper, Trader
+ 
+---------- Eevee: turn 14 ----------
+Eevee - plays Counting House
+Eevee - plays 3 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Copper, Pawn, Estate, Copper, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Eevee - gains Curse
+Titandrake - draws Silver, Copper, Silver, Copper, Silver
+ 
+---------- Eevee: turn 15 ----------
+Eevee - plays Pawn
+Eevee - takes 1 buy
+Eevee - draws Copper
+Eevee - plays 3 Copper
+Eevee - buys Copper
+Eevee - gains Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Copper, Pawn, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Trader, Copper, Silver, Silver
+ 
+---------- Eevee: turn 16 ----------
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - draws Copper
+Eevee - plays 4 Copper
+Eevee - buys Counting House
+Eevee - gains Counting House
+Eevee - draws Ill-Gotten Gains, Copper, Curse, Pawn, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Eevee - gains Curse
+Titandrake - draws Silver, Silver, Copper, Ill-Gotten Gains
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- Eevee: turn 17 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays 3 Copper
+Eevee - plays Ill-Gotten Gains
+Eevee - gains Copper
+Eevee - plays 1 Copper
+Eevee - buys Counting House
+Eevee - gains Counting House
+Eevee - draws Copper, Mountebank, Counting House, Copper, Counting House
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Eevee - gains Curse
+Titandrake - draws Silver, Copper, Silver, Silver, Silver
+ 
+---------- Eevee: turn 18 ----------
+Eevee - plays Counting House
+Eevee - places cards in hand:  Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - plays 17 Copper
+Eevee - buys Colony
+Eevee - gains Colony
+Eevee - draws Pawn, Counting House, Colony, Curse, Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Trader, Curse, Copper, Province, Silver
+ 
+---------- Eevee: turn 19 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - takes 1 buy
+Eevee - plays Counting House
+Eevee - places cards in hand:  Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - plays 17 Copper
+Eevee - buys Colony
+Eevee - gains Colony
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Pawn
+Eevee - shuffles deck
+Eevee - draws Curse, Pawn, Counting House, Ill-Gotten Gains
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Trader
+Titandrake - trashes Curse
+Titandrake - plays Silver
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Silver, Silver, Province, Silver
+ 
+---------- Eevee: turn 20 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - takes 1 buy
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - draws Copper
+Eevee - plays 1 Copper
+Eevee - plays Ill-Gotten Gains
+Eevee - gains Copper
+Eevee - plays Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Estate, Pawn, Colony, Colony, Counting House
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Ill-Gotten Gains, Ill-Gotten Gains, Silver, Pawn, Copper
+ 
+---------- Eevee: turn 21 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays Counting House
+Eevee - places cards in hand:  Copper, Copper
+Eevee - plays 3 Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Counting House, Curse, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Province, Trader, Pawn, Copper
+ 
+---------- Eevee: turn 22 ----------
+Eevee - plays Counting House
+Eevee - places cards in hand:  Copper, Copper, Copper
+Eevee - plays 6 Copper
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Copper, Colony, Copper, Pawn, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Ill-Gotten Gains
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Ill-Gotten Gains, Ill-Gotten Gains, Ill-Gotten Gains, Silver, Silver
+ 
+---------- Eevee: turn 23 ----------
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - draws Estate
+Eevee - plays 3 Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Counting House, Copper, Copper, Silver, Curse
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 2 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Ill-Gotten Gains, Province, Silver
+ 
+---------- Eevee: turn 24 ----------
+Eevee - plays Counting House
+Eevee - places cards in hand:  Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - plays 11 Copper, 1 Silver
+Eevee - buys Colony
+Eevee - gains Colony
+Eevee - draws Copper, Pawn, Copper, Curse, Mountebank
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Silver, Copper, Ill-Gotten Gains, Silver
+ 
+---------- Eevee: turn 25 ----------
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - takes 1 buy
+Eevee - plays Mountebank
+Titandrake - gains Copper
+Eevee - plays 2 Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Curse, Curse, Copper, Duchy, Estate
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Pawn, Copper, Trader, Province, Silver
+ 
+---------- Eevee: turn 26 ----------
+Eevee - buys Copper
+Eevee - gains Copper
+Eevee - draws Counting House, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Ill-Gotten Gains, Copper, Trader, Curse, Ill-Gotten Gains
+ 
+---------- Eevee: turn 27 ----------
+Eevee - plays Counting House
+Eevee - places cards in hand:  Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - plays 18 Copper, 1 Silver
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Counting House, Curse, Copper, Curse
+Eevee - shuffles deck
+Eevee - draws Estate
+ 
+------------ Game Over ------------
+Eevee - cards: 6 Counting House, 5 Pawn, 19 Copper, 1 Mountebank, 2 Silver, 1 Ill-Gotten Gains, 9 Estate, 4 Colony, 2 Duchy, 1 Province, 8 Curse
+Eevee - total victory points: 53
+Eevee - turns: 27
+ 
+Titandrake - cards: 3 Pawn, 2 Trader, 14 Copper, 13 Silver, 8 Ill-Gotten Gains, 7 Province, 3 Duchy, 2 Estate, 1 Curse
+Titandrake - total victory points: 52
+Titandrake - turns: 26
+ 
+1st place: Eevee
+2nd place: Titandrake
+ 

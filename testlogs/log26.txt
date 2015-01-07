@@ -1,0 +1,701 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Pawn, Pearl Diver, Forager, Bridge, Plaza, Taxman, Treasure Map, Rabble, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Eevee - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - shuffles deck
+Titandrake - shuffles deck
+Eevee - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays 4 Copper
+Eevee - buys Bridge
+Eevee - gains Bridge
+Eevee - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Eevee: turn 2 ----------
+Eevee - plays 3 Copper
+Eevee - buys Forager
+Eevee - gains Forager
+Eevee - shuffles deck
+Eevee - draws Estate, Copper, Copper, Estate, Forager
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Bridge
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays Forager
+Eevee - trashes Estate
+Eevee - plays 2 Copper
+Eevee - buys Courtyard
+Eevee - gains Courtyard
+Eevee - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Bridge
+Titandrake - plays 3 Copper
+Titandrake - buys Rabble
+Titandrake - gains Rabble
+Titandrake - draws Forager, Copper, Copper, Copper, Estate
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays 4 Copper
+Eevee - buys Plaza
+Eevee - gains Plaza
+Eevee - draws Copper, Bridge
+Eevee - shuffles deck
+Eevee - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Rabble, Copper
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays Bridge
+Eevee - plays 4 Copper
+Eevee - buys Plaza
+Eevee - gains Plaza
+Eevee - buys Forager
+Eevee - gains Forager
+Eevee - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Rabble
+Titandrake - draws Copper, Bridge, Pawn
+Eevee - reveals Courtyard, Forager, Plaza
+Eevee - discards: Courtyard, Forager, Plaza
+Titandrake - plays 4 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Estate, Forager, Copper, Copper, Copper
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays 3 Copper
+Eevee - buys Forager
+Eevee - gains Forager
+Eevee - shuffles deck
+Eevee - draws Copper, Copper, Forager, Bridge, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - shuffles deck
+Titandrake - draws Forager, Forager, Copper, Copper, Pawn
+ 
+---------- Eevee: turn 7 ----------
+Eevee - plays Forager
+Eevee - trashes Copper
+Eevee - plays Bridge
+Eevee - plays 2 Copper
+Eevee - buys Rabble
+Eevee - gains Rabble
+Eevee - draws Copper, Estate, Forager, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Plaza, Bridge, Copper, Rabble, Copper
+ 
+---------- Eevee: turn 8 ----------
+Eevee - plays Forager
+Eevee - trashes Estate
+Eevee - plays 3 Copper
+Eevee - buys Plaza
+Eevee - gains Plaza
+Eevee - draws Plaza, Plaza, Forager, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Plaza
+Titandrake - draws Estate
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Rabble
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Forager
+Eevee - reveals Courtyard
+Eevee - shuffles deck
+Eevee - reveals Copper, Copper
+Eevee - discards: Courtyard, Copper, Copper
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Bridge
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Forager, Pawn, Copper, Pawn
+ 
+---------- Eevee: turn 9 ----------
+Eevee - plays Plaza
+Eevee - draws Rabble
+Eevee - discards Copper
+Eevee - receives 1 coin token
+Eevee - plays Rabble
+Eevee - draws Plaza, Bridge, Forager
+Titandrake - shuffles deck
+Titandrake - reveals Rabble, Copper, Plaza
+Titandrake - discards: Rabble, Copper, Plaza
+Eevee - plays Plaza
+Eevee - draws Copper
+Eevee - discards Copper
+Eevee - receives 1 coin token
+Eevee - plays Plaza
+Eevee - draws Forager
+Eevee - draws Copper, Copper
+Eevee - shuffles deck
+Eevee - draws Bridge, Forager, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Plaza
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Bridge
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Bridge
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Forager, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Forager, Courtyard
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays Forager
+Eevee - trashes Estate
+Eevee - plays Bridge
+Eevee - plays 2 Copper
+Eevee - buys Rabble
+Eevee - gains Rabble
+Eevee - draws Copper, Plaza, Forager, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Courtyard
+Titandrake - draws Bridge, Plaza, Pawn
+Titandrake - places Plaza on top of deck
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Plaza, Plaza, Rabble, Copper, Plaza
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays Plaza
+Eevee - draws Courtyard
+Eevee - discards Copper
+Eevee - receives 1 coin token
+Eevee - plays Courtyard
+Eevee - draws Plaza, Rabble, Copper
+Eevee - places Copper on top of deck
+Eevee - plays Plaza
+Eevee - draws Copper
+Eevee - plays Rabble
+Eevee - draws Plaza, Forager
+Eevee - shuffles deck
+Eevee - draws Copper
+Titandrake - reveals Plaza, Copper, Pawn
+Titandrake - discards: Plaza, Copper, Pawn
+Eevee - plays Plaza
+Eevee - draws Bridge
+Eevee - discards Copper
+Eevee - receives 1 coin token
+Eevee - plays Forager
+Eevee - trashes Copper
+Eevee - plays Forager
+Eevee - trashes Copper
+Eevee - plays Bridge
+Eevee - plays 1 Copper
+Eevee - uses 3 coin tokens
+Eevee - buys Bridge
+Eevee - gains Bridge
+Eevee - buys Plaza
+Eevee - gains Plaza
+Eevee - buys Courtyard
+Eevee - gains Courtyard
+Eevee - draws Copper, Rabble, Forager, Copper
+Eevee - shuffles deck
+Eevee - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Plaza
+Titandrake - shuffles deck
+Titandrake - draws Forager
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Rabble
+Titandrake - draws Pawn, Copper, Pawn
+Eevee - reveals Copper, Plaza, Bridge
+Eevee - discards: Copper, Plaza, Bridge
+Titandrake - plays Plaza
+Titandrake - draws Forager
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Courtyard
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Bridge
+Titandrake - plays Plaza
+Titandrake - draws Pawn
+Titandrake - plays Courtyard
+Titandrake - draws Plaza
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Forager
+Titandrake - trashes Forager
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Plaza, Plaza, Forager, Plaza
+ 
+---------- Eevee: turn 12 ----------
+Eevee - plays Forager
+Eevee - trashes Copper
+Eevee - plays Rabble
+Eevee - draws Bridge, Plaza, Plaza
+Titandrake - reveals Pawn, Rabble, Courtyard
+Titandrake - discards: Pawn, Rabble, Courtyard
+Eevee - plays 2 Copper
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - draws Forager, Courtyard, Forager, Courtyard, Plaza
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Bridge
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Courtyard
+Titandrake - plays Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Rabble, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Rabble
+Titandrake - draws Copper, Copper, Courtyard
+Eevee - reveals Rabble
+Eevee - shuffles deck
+Eevee - reveals Bridge, Plaza
+Eevee - discards: Rabble, Bridge, Plaza
+Titandrake - plays Bridge
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - shuffles deck
+Titandrake - draws Courtyard, Bridge, Bridge, Pawn, Bridge
+ 
+---------- Eevee: turn 13 ----------
+Eevee - plays Plaza
+Eevee - draws Copper
+Eevee - discards Copper
+Eevee - receives 1 coin token
+Eevee - plays Courtyard
+Eevee - draws Pawn, Forager, Copper
+Eevee - places Forager on top of deck
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Forager
+Eevee - plays Forager
+Eevee - trashes Copper
+Eevee - plays Forager
+Eevee - trashes Forager
+Eevee - plays Courtyard
+Eevee - draws Plaza, Rabble, Copper
+Eevee - places Plaza on top of deck
+Eevee - plays 1 Copper
+Eevee - buys Pearl Diver
+Eevee - gains Pearl Diver
+Eevee - draws Plaza, Bridge, Plaza
+Eevee - shuffles deck
+Eevee - draws Courtyard, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Pawn
+Titandrake - plays Courtyard
+Titandrake - draws Plaza, Rabble, Pawn
+Titandrake - places Pawn on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Pawn
+Titandrake - plays Rabble
+Titandrake - draws Plaza, Plaza, Plaza
+Eevee - reveals Forager, Forager, Copper
+Eevee - discards: Forager, Forager, Copper
+Titandrake - plays Plaza
+Titandrake - draws Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Forager, Plaza
+Titandrake - places Pawn on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Pawn
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - shuffles deck
+Titandrake - draws Plaza, Forager, Bridge, Plaza, Plaza
+ 
+---------- Eevee: turn 14 ----------
+Eevee - plays Plaza
+Eevee - draws Bridge
+Eevee - plays Plaza
+Eevee - draws Rabble
+Eevee - plays Rabble
+Eevee - draws Rabble, Pearl Diver, Pawn
+Titandrake - reveals Bridge, Plaza, Bridge
+Titandrake - discards: Bridge, Plaza, Bridge
+Eevee - plays Pearl Diver
+Eevee - draws Plaza
+Eevee - places Courtyard on bottom of deck
+Eevee - plays Rabble
+Eevee - draws Plaza, Courtyard
+Eevee - shuffles deck
+Eevee - draws Forager
+Titandrake - reveals Courtyard, Pawn, Pawn
+Titandrake - discards: Courtyard, Pawn, Pawn
+Eevee - plays Plaza
+Eevee - draws Copper
+Eevee - discards Copper
+Eevee - receives 1 coin token
+Eevee - plays Plaza
+Eevee - draws Forager
+Eevee - plays Pawn
+Eevee - takes 1 coin
+Eevee - shuffles deck
+Eevee - draws Copper
+Eevee - plays Forager
+Eevee - trashes Courtyard
+Eevee - plays Forager
+Eevee - trashes Courtyard
+Eevee - plays Bridge
+Eevee - plays Bridge
+Eevee - plays 2 Copper
+Eevee - uses 1 coin token
+Eevee - buys Province
+Eevee - gains Province
+Eevee - buys Bridge
+Eevee - gains Bridge
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - buys Pawn
+Eevee - gains Pawn
+Eevee - shuffles deck
+Eevee - draws Copper, Rabble, Plaza, Pawn, Pawn
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Plaza
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Plaza
+Titandrake - draws Gold
+Titandrake - discards Gold
+Titandrake - receives 1 coin token
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Rabble, Copper, Plaza
+Titandrake - places Copper on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Rabble
+Titandrake - draws Plaza, Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Eevee - reveals Plaza, Bridge, Bridge
+Eevee - discards: Plaza, Bridge, Bridge
+Titandrake - plays Plaza
+Titandrake - draws Courtyard
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Courtyard
+Titandrake - draws Bridge, Bridge, Pawn
+Titandrake - places Forager on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Forager
+Titandrake - discards Gold
+Titandrake - receives 1 coin token
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - uses 7 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Plaza, Gold, Pawn
+Titandrake - shuffles deck
+Titandrake - draws Rabble, Bridge
+ 
+---------- Eevee: turn 15 ----------
+Eevee - plays Plaza
+Eevee - draws Plaza
+Eevee - discards Copper
+Eevee - receives 1 coin token
+Eevee - plays Rabble
+Eevee - draws Copper, Plaza, Forager
+Titandrake - reveals Copper, Pearl Diver, Gold
+Titandrake - discards: Copper, Pearl Diver, Gold
+Eevee - plays Plaza
+Eevee - draws Rabble
+Eevee - discards Copper
+Eevee - receives 1 coin token
+Eevee - plays Rabble
+Eevee - draws Province, Pawn, Pearl Diver
+Titandrake - reveals Plaza, Pawn, Courtyard
+Titandrake - discards: Plaza, Pawn, Courtyard
+Eevee - plays Pearl Diver
+Eevee - draws Forager
+Eevee - places Pawn on top of deck
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Pawn
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Bridge
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - shuffles deck
+Eevee - draws Plaza
+Eevee - plays Pawn
+Eevee - takes 1 action
+Eevee - draws Copper
+Eevee - plays Plaza
+Eevee - draws Copper
+Eevee - plays Plaza
+Eevee - draws Bridge
+Eevee - discards Copper
+Eevee - receives 1 coin token
+Eevee - plays Forager
+Eevee - trashes Forager
+Eevee - plays Bridge
+Eevee - plays Bridge
+Eevee - plays 1 Copper
+Eevee - uses 5 coin tokens
+Eevee - buys Province
+Eevee - gains Province
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - buys Pearl Diver
+Eevee - gains Pearl Diver
+Eevee - buys Pearl Diver
+Eevee - gains Pearl Diver
+Eevee - draws Bridge
+Eevee - shuffles deck
+Eevee - draws Province, Rabble, Pawn, Plaza
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Plaza
+Titandrake - draws Forager
+Titandrake - plays Rabble
+Titandrake - draws Pawn, Plaza, Pawn
+Eevee - reveals Pearl Diver, Pearl Diver, Rabble
+Eevee - discards: Pearl Diver, Pearl Diver, Rabble
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Plaza
+Titandrake - draws Pearl Diver
+Titandrake - plays Pearl Diver
+Titandrake - draws Courtyard
+Titandrake - places Bridge on bottom of deck
+Titandrake - plays Courtyard
+Titandrake - draws Pawn, Courtyard, Plaza
+Titandrake - places Forager on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Forager
+Titandrake - plays Courtyard
+Titandrake - draws Plaza, Plaza, Bridge
+Titandrake - places Forager on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Forager
+Titandrake - plays Plaza
+Titandrake - draws Province
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Forager
+Titandrake - trashes Gold
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Bridge
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Courtyard, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 8 Courtyard, 6 Pawn, 6 Plaza, 3 Bridge, 2 Pearl Diver, 1 Rabble, 1 Forager, 1 Copper, 1 Gold, 2 Province, 2 Estate, 1 Duchy
+Titandrake - total victory points: 17
+Titandrake - turns: 15
+ 
+Eevee - cards: 4 Pawn, 4 Plaza, 3 Bridge, 3 Pearl Diver, 2 Rabble, 1 Forager, 2 Copper, 2 Province, 1 Duchy
+Eevee - total victory points: 15
+Eevee - turns: 15
+ 
+1st place: Titandrake
+2nd place: Eevee
+ 

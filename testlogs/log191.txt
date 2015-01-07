@@ -1,0 +1,484 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Horse Traders, Navigator, Nomad Camp, Remake, Trader, Apprentice, Market, Stables, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+HvBoedefeld - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HvBoedefeld - shuffles deck
+Titandrake - shuffles deck
+HvBoedefeld - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- HvBoedefeld: turn 1 ----------
+HvBoedefeld - plays 5 Copper
+HvBoedefeld - buys Apprentice
+HvBoedefeld - gains Apprentice
+HvBoedefeld - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- HvBoedefeld: turn 2 ----------
+HvBoedefeld - plays 2 Copper
+HvBoedefeld - buys Embargo
+HvBoedefeld - gains Embargo
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - shuffles deck
+Titandrake - draws Remake, Copper, Copper, Copper, Estate
+ 
+---------- HvBoedefeld: turn 3 ----------
+HvBoedefeld - plays 4 Copper
+HvBoedefeld - buys Remake
+HvBoedefeld - gains Remake
+HvBoedefeld - draws Estate, Copper, Estate, Apprentice, Embargo
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- HvBoedefeld: turn 4 ----------
+HvBoedefeld - plays Apprentice
+HvBoedefeld - trashes Estate
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays Embargo
+HvBoedefeld - embargoes Apprentice
+HvBoedefeld - trashes Embargo
+HvBoedefeld - plays 3 Copper
+HvBoedefeld - buys Market
+HvBoedefeld - gains Market
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Estate, Apprentice, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Market, Copper
+ 
+---------- HvBoedefeld: turn 5 ----------
+HvBoedefeld - plays Apprentice
+HvBoedefeld - trashes Estate
+HvBoedefeld - draws Market, Estate
+HvBoedefeld - plays Market
+HvBoedefeld - draws Remake
+HvBoedefeld - plays Remake
+HvBoedefeld - trashes Copper
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays 1 Copper
+HvBoedefeld - buys Peddler
+HvBoedefeld - gains Peddler
+HvBoedefeld - draws Copper, Copper, Copper, Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Market
+Titandrake - draws Embargo
+Titandrake - plays Embargo
+Titandrake - embargoes Peddler
+Titandrake - trashes Embargo
+Titandrake - plays 2 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Copper, Remake, Copper, Silver
+ 
+---------- HvBoedefeld: turn 6 ----------
+HvBoedefeld - plays 5 Copper
+HvBoedefeld - buys Market
+HvBoedefeld - gains Market
+HvBoedefeld - draws Remake, Market, Peddler, Estate, Apprentice
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Market, Estate, Silver
+ 
+---------- HvBoedefeld: turn 7 ----------
+HvBoedefeld - plays Apprentice
+HvBoedefeld - trashes Estate
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays Market
+HvBoedefeld - draws Market
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Market
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Remake
+HvBoedefeld - trashes Copper
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays 2 Copper
+HvBoedefeld - buys Market
+HvBoedefeld - gains Market
+HvBoedefeld - buys Peddler
+HvBoedefeld - gains Curse
+HvBoedefeld - gains Peddler
+HvBoedefeld - buys Peddler
+HvBoedefeld - gains Curse
+HvBoedefeld - gains Peddler
+HvBoedefeld - draws Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Market, Peddler, Apprentice, Peddler
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Apprentice
+Titandrake - gains Curse
+Titandrake - gains Apprentice
+Titandrake - draws Stables, Copper, Copper, Silver, Remake
+ 
+---------- HvBoedefeld: turn 8 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Market
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Curse
+HvBoedefeld - plays Market
+HvBoedefeld - draws Market
+HvBoedefeld - plays Market
+HvBoedefeld - draws Peddler
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Apprentice
+HvBoedefeld - trashes Peddler
+HvBoedefeld - draws Remake, Curse, Copper
+HvBoedefeld - plays Remake
+HvBoedefeld - trashes Curse
+HvBoedefeld - trashes Curse
+HvBoedefeld - plays 3 Copper
+HvBoedefeld - buys Gold
+HvBoedefeld - gains Gold
+HvBoedefeld - buys Embargo
+HvBoedefeld - gains Embargo
+HvBoedefeld - buys Peddler
+HvBoedefeld - gains Curse
+HvBoedefeld - gains Peddler
+HvBoedefeld - buys Peddler
+HvBoedefeld - gains Curse
+HvBoedefeld - gains Peddler
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Embargo, Curse, Peddler, Apprentice, Gold
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse
+Titandrake - plays Remake
+Titandrake - trashes Curse
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Estate, Market, Silver, Estate, Apprentice
+ 
+---------- HvBoedefeld: turn 9 ----------
+HvBoedefeld - plays Apprentice
+HvBoedefeld - trashes Peddler
+HvBoedefeld - draws Copper, Curse, Peddler, Market, Copper, Remake, Peddler, Peddler
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Market
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Market
+HvBoedefeld - plays Market
+HvBoedefeld - plays Market
+HvBoedefeld - plays Market
+HvBoedefeld - plays Remake
+HvBoedefeld - trashes Curse
+HvBoedefeld - trashes Curse
+HvBoedefeld - plays 3 Copper, 1 Gold
+HvBoedefeld - buys Stables
+HvBoedefeld - gains Stables
+HvBoedefeld - buys Stables
+HvBoedefeld - gains Stables
+HvBoedefeld - buys Peddler
+HvBoedefeld - gains Curse
+HvBoedefeld - gains Peddler
+HvBoedefeld - buys Peddler
+HvBoedefeld - gains Curse
+HvBoedefeld - gains Peddler
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Peddler, Peddler, Embargo, Curse, Market
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Remake, Copper, Trader, Stables
+ 
+---------- HvBoedefeld: turn 10 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Market
+HvBoedefeld - plays Market
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Remake
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Remake
+HvBoedefeld - trashes Curse
+HvBoedefeld - trashes Embargo
+HvBoedefeld - gains Silver
+HvBoedefeld - plays 2 Copper
+HvBoedefeld - buys Gold
+HvBoedefeld - gains Gold
+HvBoedefeld - buys Peddler
+HvBoedefeld - gains Curse
+HvBoedefeld - gains Peddler
+HvBoedefeld - buys Peddler
+HvBoedefeld - gains Curse
+HvBoedefeld - gains Peddler
+HvBoedefeld - draws Curse, Market, Peddler, Peddler, Stables
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province, Copper
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - buys Copper
+Titandrake - reveals reaction Trader
+Titandrake - gains Silver
+Titandrake - draws Silver, Estate, Apprentice, Silver, Market
+ 
+---------- HvBoedefeld: turn 11 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Gold
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Stables
+HvBoedefeld - discards Copper
+HvBoedefeld - draws Apprentice, Peddler, Stables
+HvBoedefeld - plays Peddler
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Silver
+HvBoedefeld - plays Stables
+HvBoedefeld - discards Silver
+HvBoedefeld - draws Remake, Peddler, Peddler
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Peddler
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Gold
+HvBoedefeld - plays Apprentice
+HvBoedefeld - trashes Peddler
+HvBoedefeld - draws Curse, Copper, Market, Market, Copper, Peddler, Curse
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Silver
+HvBoedefeld - plays Market
+HvBoedefeld - plays Market
+HvBoedefeld - plays Peddler
+HvBoedefeld - plays Remake
+HvBoedefeld - trashes Curse
+HvBoedefeld - trashes Curse
+HvBoedefeld - plays 3 Copper, 2 Gold, 1 Silver
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Market, Apprentice, Gold, Province, Peddler
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver
+Titandrake - plays 4 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - draws Trader, Copper, Stables, Remake
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- HvBoedefeld: turn 12 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Gold
+HvBoedefeld - plays Apprentice
+HvBoedefeld - trashes Peddler
+HvBoedefeld - draws Silver, Province, Copper, Curse, Peddler, Market, Peddler, Peddler
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Peddler
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Silver
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Stables
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Remake
+HvBoedefeld - plays Stables
+HvBoedefeld - discards Copper
+HvBoedefeld - draws Stables, Peddler, Market
+HvBoedefeld - plays Stables
+HvBoedefeld - discards Silver
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Silver
+HvBoedefeld - plays Market
+HvBoedefeld - plays Market
+HvBoedefeld - plays Remake
+HvBoedefeld - trashes Curse
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays 2 Gold, 2 Silver, 2 Copper
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Silver, Remake, Silver, Apprentice, Peddler
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Apprentice, Silver, Silver
+Titandrake - plays Apprentice
+Titandrake - trashes Trader
+Titandrake - draws Market, Remake, Province, Silver
+Titandrake - plays Market
+Titandrake - draws Duchy
+Titandrake - plays Remake
+Titandrake - trashes Silver
+Titandrake - gains Remake
+Titandrake - trashes Remake
+Titandrake - gains Duchy
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Remake, Silver, Province, Silver
+ 
+---------- HvBoedefeld: turn 13 ----------
+HvBoedefeld - plays Apprentice
+HvBoedefeld - trashes Peddler
+HvBoedefeld - draws Market, Market, Market, Province, Province, Copper, Silver, Peddler
+HvBoedefeld - plays Market
+HvBoedefeld - draws Peddler
+HvBoedefeld - plays Market
+HvBoedefeld - draws Gold
+HvBoedefeld - plays Market
+HvBoedefeld - draws Gold
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Province
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Peddler
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Peddler
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Stables
+HvBoedefeld - plays Stables
+HvBoedefeld - discards Copper
+HvBoedefeld - draws Copper, Province, Stables
+HvBoedefeld - plays Stables
+HvBoedefeld - discards Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays 3 Silver, 2 Gold, 2 Copper
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Duchy
+HvBoedefeld - gains Duchy
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Market, Province, Province, Peddler
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Remake
+Titandrake - trashes Silver
+Titandrake - gains Remake
+Titandrake - trashes Silver
+Titandrake - gains Remake
+Titandrake - draws Market, Duchy, Remake, Copper, Silver
+ 
+---------- HvBoedefeld: turn 14 ----------
+HvBoedefeld - plays Market
+HvBoedefeld - draws Copper
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Peddler
+HvBoedefeld - plays Peddler
+HvBoedefeld - draws Market
+HvBoedefeld - plays Market
+HvBoedefeld - draws Remake
+HvBoedefeld - plays 2 Copper
+HvBoedefeld - buys Duchy
+HvBoedefeld - gains Duchy
+HvBoedefeld - draws Silver, Province, Market, Silver, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Market
+Titandrake - draws Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Remake
+Titandrake - draws Embargo, Duchy, Stables
+Titandrake - shuffles deck
+Titandrake - draws Remake
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Remake, Remake, Duchy
+Titandrake - plays Remake
+Titandrake - trashes Remake
+Titandrake - gains Duchy
+Titandrake - trashes Remake
+Titandrake - gains Duchy
+Titandrake - plays Silver
+ 
+------------ Game Over ------------
+HvBoedefeld - cards: 4 Peddler, 3 Market, 2 Stables, 1 Remake, 1 Apprentice, 3 Silver, 2 Copper, 2 Gold, 6 Province, 2 Duchy
+HvBoedefeld - total victory points: 42
+HvBoedefeld - turns: 14
+ 
+Titandrake - resigned
+Titandrake - cards: 1 Embargo, 1 Copper, 5 Duchy, 1 Province
+Titandrake - total victory points: 21
+Titandrake - turns: 13
+ 
+1st place: HvBoedefeld
+2nd place: Titandrake
+ 

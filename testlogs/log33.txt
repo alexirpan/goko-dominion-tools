@@ -1,0 +1,356 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Pearl Diver, Steward, Woodcutter, Spy, Cache, Junk Dealer, Market, Trading Post, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Helter-Skelter - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Helter-Skelter - shuffles deck
+Titandrake - shuffles deck
+Helter-Skelter - draws Copper, Overgrown Estate, Copper, Copper, Hovel
+Titandrake - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Copper, Copper, Copper, Hovel, Necropolis
+ 
+---------- Helter-Skelter: turn 1 ----------
+Helter-Skelter - plays 3 Copper
+Helter-Skelter - buys Steward
+Helter-Skelter - gains Steward
+Helter-Skelter - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Hovel, Copper, Copper, Copper, Silver
+ 
+---------- Helter-Skelter: turn 2 ----------
+Helter-Skelter - plays 4 Copper
+Helter-Skelter - buys Silver
+Helter-Skelter - gains Silver
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Copper, Steward, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Steward, Necropolis, Overgrown Estate, Copper, Copper
+ 
+---------- Helter-Skelter: turn 3 ----------
+Helter-Skelter - plays Steward
+Helter-Skelter - takes 2 coins
+Helter-Skelter - plays 3 Copper
+Helter-Skelter - buys Junk Dealer
+Helter-Skelter - gains Junk Dealer
+Helter-Skelter - draws Silver, Copper, Copper, Hovel, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Junk Dealer, Necropolis, Overgrown Estate
+ 
+---------- Helter-Skelter: turn 4 ----------
+Helter-Skelter - plays 3 Copper, 1 Silver
+Helter-Skelter - buys Junk Dealer
+Helter-Skelter - gains Junk Dealer
+Helter-Skelter - draws Overgrown Estate, Copper
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Necropolis, Junk Dealer, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Hovel, Copper, Steward
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Helter-Skelter: turn 5 ----------
+Helter-Skelter - plays Junk Dealer
+Helter-Skelter - draws Copper
+Helter-Skelter - trashes Overgrown Estate
+Helter-Skelter - draws Copper
+Helter-Skelter - plays 4 Copper
+Helter-Skelter - buys Market
+Helter-Skelter - gains Market
+Helter-Skelter - draws Hovel, Junk Dealer, Copper, Steward, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Steward
+Titandrake - trashes Hovel, Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Junk Dealer, Gold, Necropolis
+ 
+---------- Helter-Skelter: turn 6 ----------
+Helter-Skelter - plays Junk Dealer
+Helter-Skelter - draws Silver
+Helter-Skelter - trashes Hovel
+Helter-Skelter - plays Steward
+Helter-Skelter - trashes Copper, Copper
+Helter-Skelter - plays 1 Silver
+Helter-Skelter - buys Silver
+Helter-Skelter - gains Silver
+Helter-Skelter - draws Copper
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Copper, Silver, Junk Dealer, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Junk Dealer, Market, Copper, Gold, Necropolis
+ 
+---------- Helter-Skelter: turn 7 ----------
+Helter-Skelter - plays Junk Dealer
+Helter-Skelter - draws Copper
+Helter-Skelter - trashes Copper
+Helter-Skelter - plays 3 Copper, 1 Silver
+Helter-Skelter - buys Gold
+Helter-Skelter - gains Gold
+Helter-Skelter - draws Junk Dealer, Necropolis, Steward, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Steward, Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, Junk Dealer
+ 
+---------- Helter-Skelter: turn 8 ----------
+Helter-Skelter - plays Junk Dealer
+Helter-Skelter - draws Market
+Helter-Skelter - trashes Necropolis
+Helter-Skelter - plays Market
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Copper
+Helter-Skelter - plays Steward
+Helter-Skelter - trashes Copper, Copper
+Helter-Skelter - plays 1 Silver
+Helter-Skelter - buys Spy
+Helter-Skelter - gains Spy
+Helter-Skelter - draws Gold, Copper, Copper, Junk Dealer, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Steward
+Titandrake - draws Gold, Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Market, Gold
+Titandrake - shuffles deck
+Titandrake - draws Province, Necropolis, Silver
+ 
+---------- Helter-Skelter: turn 9 ----------
+Helter-Skelter - plays Junk Dealer
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Market
+Helter-Skelter - trashes Copper
+Helter-Skelter - plays Market
+Helter-Skelter - draws Silver
+Helter-Skelter - plays 2 Silver, 1 Gold, 1 Copper
+Helter-Skelter - buys Province
+Helter-Skelter - gains Province
+Helter-Skelter - buys Pearl Diver
+Helter-Skelter - gains Pearl Diver
+Helter-Skelter - draws Steward, Spy, Junk Dealer
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Copper, Market
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Steward, Silver, Junk Dealer, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Helter-Skelter: turn 10 ----------
+Helter-Skelter - plays Market
+Helter-Skelter - draws Silver
+Helter-Skelter - plays Spy
+Helter-Skelter - draws Province
+Helter-Skelter - places Gold on top of deck
+Titandrake - discards Silver
+Helter-Skelter - plays Junk Dealer
+Helter-Skelter - draws Gold
+Helter-Skelter - trashes Copper
+Helter-Skelter - plays Steward
+Helter-Skelter - draws Junk Dealer, Pearl Diver
+Helter-Skelter - plays 1 Silver, 1 Gold
+Helter-Skelter - buys Gold
+Helter-Skelter - gains Gold
+Helter-Skelter - draws Silver
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Steward, Junk Dealer, Gold, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Market
+Titandrake - trashes Copper
+Titandrake - plays Market
+Titandrake - draws Province
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Necropolis, Gold, Gold, Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Helter-Skelter: turn 11 ----------
+Helter-Skelter - plays Junk Dealer
+Helter-Skelter - draws Spy
+Helter-Skelter - trashes Silver
+Helter-Skelter - plays Spy
+Helter-Skelter - draws Junk Dealer
+Helter-Skelter - places Silver on top of deck
+Titandrake - discards Silver
+Helter-Skelter - plays Steward
+Helter-Skelter - takes 2 coins
+Helter-Skelter - plays 2 Gold
+Helter-Skelter - buys Province
+Helter-Skelter - gains Province
+Helter-Skelter - draws Silver, Market, Province, Pearl Diver
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Spy
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Steward, Market, Province, Junk Dealer
+ 
+---------- Helter-Skelter: turn 12 ----------
+Helter-Skelter - plays Market
+Helter-Skelter - draws Gold
+Helter-Skelter - plays Pearl Diver
+Helter-Skelter - draws Steward
+Helter-Skelter - places Junk Dealer on bottom of deck
+Helter-Skelter - plays Spy
+Helter-Skelter - draws Junk Dealer
+Helter-Skelter - discards Province
+Titandrake - discards Silver
+Helter-Skelter - plays Steward
+Helter-Skelter - takes 2 coins
+Helter-Skelter - plays 1 Silver, 1 Gold
+Helter-Skelter - buys Province
+Helter-Skelter - gains Province
+Helter-Skelter - draws Gold, Junk Dealer
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Junk Dealer, Pearl Diver, Market
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - plays Steward
+Titandrake - draws Gold, Gold
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Silver, Silver, Necropolis, Silver, Gold
+ 
+---------- Helter-Skelter: turn 13 ----------
+Helter-Skelter - plays Pearl Diver
+Helter-Skelter - draws Province
+Helter-Skelter - places Steward on bottom of deck
+Helter-Skelter - plays Market
+Helter-Skelter - draws Province
+Helter-Skelter - plays Junk Dealer
+Helter-Skelter - draws Gold
+Helter-Skelter - trashes Junk Dealer
+Helter-Skelter - plays 2 Gold
+Helter-Skelter - buys Duchy
+Helter-Skelter - gains Duchy
+Helter-Skelter - buys Estate
+Helter-Skelter - gains Estate
+Helter-Skelter - draws Silver, Province, Spy, Steward
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Duchy
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Steward, Gold, Silver, Necropolis
+ 
+---------- Helter-Skelter: turn 14 ----------
+Helter-Skelter - plays Spy
+Helter-Skelter - draws Province
+Helter-Skelter - discards Market
+Titandrake - places Province on top of deck
+Helter-Skelter - plays Steward
+Helter-Skelter - draws Gold, Province
+Helter-Skelter - plays 1 Silver, 1 Gold
+Helter-Skelter - buys Duchy
+Helter-Skelter - gains Duchy
+Helter-Skelter - draws Pearl Diver, Junk Dealer, Gold, Estate
+Helter-Skelter - shuffles deck
+Helter-Skelter - draws Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Steward
+Titandrake - draws Province, Duchy
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Silver, Province, Province, Silver
+ 
+---------- Helter-Skelter: turn 15 ----------
+Helter-Skelter - plays Pearl Diver
+Helter-Skelter - draws Steward
+Helter-Skelter - places Province on bottom of deck
+Helter-Skelter - plays Steward
+Helter-Skelter - takes 2 coins
+Helter-Skelter - plays 2 Gold
+Helter-Skelter - buys Province
+Helter-Skelter - gains Province
+Helter-Skelter - draws Spy, Market, Province, Province, Duchy
+ 
+------------ Game Over ------------
+Helter-Skelter - cards: 1 Spy, 1 Market, 1 Pearl Diver, 1 Steward, 1 Junk Dealer, 2 Gold, 1 Silver, 4 Province, 2 Duchy, 1 Estate
+Helter-Skelter - total victory points: 31
+Helter-Skelter - turns: 15
+ 
+Titandrake - cards: 1 Necropolis, 1 Steward, 1 Market, 1 Embargo, 1 Junk Dealer, 3 Gold, 3 Silver, 4 Province, 2 Duchy
+Titandrake - total victory points: 30
+Titandrake - turns: 15
+ 
+1st place: Helter-Skelter
+2nd place: Titandrake
+ 

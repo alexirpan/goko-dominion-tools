@@ -1,0 +1,507 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Steward, Caravan, Horse Traders, Mining Village, Spy, Count, Ill-Gotten Gains, Mint, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+silverspawn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+silverspawn - shuffles deck
+Titandrake - shuffles deck
+silverspawn - draws Copper, Estate, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 1 ----------
+silverspawn - plays 3 Copper
+silverspawn - buys Steward
+silverspawn - gains Steward
+silverspawn - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- silverspawn: turn 2 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Steward
+silverspawn - gains Steward
+silverspawn - shuffles deck
+silverspawn - draws Steward, Estate, Copper, Steward, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- silverspawn: turn 3 ----------
+silverspawn - plays Steward
+silverspawn - trashes Estate, Estate
+silverspawn - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Estate, Steward, Caravan, Copper, Copper
+ 
+---------- silverspawn: turn 4 ----------
+silverspawn - plays 4 Copper
+silverspawn - buys Caravan
+silverspawn - gains Caravan
+silverspawn - draws Copper, Copper
+silverspawn - shuffles deck
+silverspawn - draws Steward, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Steward
+Titandrake - trashes Copper, Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Steward, Estate, Mining Village, Copper
+ 
+---------- silverspawn: turn 5 ----------
+silverspawn - plays Steward
+silverspawn - draws Copper, Estate
+silverspawn - plays 5 Copper
+silverspawn - buys Mint
+silverspawn - trashes Copper, Copper, Copper, Copper, Copper
+silverspawn - gains Mint
+silverspawn - draws Steward, Copper, Copper, Caravan
+silverspawn - shuffles deck
+silverspawn - draws Mint
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Embargo
+Titandrake - plays Steward
+Titandrake - trashes Estate, Estate
+Titandrake - plays Embargo
+Titandrake - embargoes Ill-Gotten Gains
+Titandrake - trashes Embargo
+Titandrake - plays 2 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper, Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Caravan
+ 
+---------- silverspawn: turn 6 ----------
+silverspawn - plays Caravan
+silverspawn - draws Estate
+silverspawn - plays Steward
+silverspawn - takes 2 coins
+silverspawn - plays 2 Copper
+silverspawn - buys Mining Village
+silverspawn - gains Mining Village
+silverspawn - draws Steward
+silverspawn - shuffles deck
+silverspawn - draws Copper, Steward, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Caravan
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Count
+Titandrake - gains Count
+Titandrake - draws Steward, Caravan, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Mining Village
+ 
+---------- silverspawn: turn 7 ----------
+silverspawn - duration Caravan
+silverspawn - draws Mint
+silverspawn - plays Steward
+silverspawn - takes 2 coins
+silverspawn - plays 2 Copper
+silverspawn - buys Caravan
+silverspawn - gains Caravan
+silverspawn - draws Mining Village
+silverspawn - shuffles deck
+silverspawn - draws Caravan, Steward, Copper, Mint
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Count, Copper
+Titandrake - shuffles deck
+Titandrake - draws Steward, Copper, Copper
+ 
+---------- silverspawn: turn 8 ----------
+silverspawn - plays Caravan
+silverspawn - draws Caravan
+silverspawn - plays Caravan
+silverspawn - draws Estate
+silverspawn - plays Mining Village
+silverspawn - draws Copper
+silverspawn - trashes Mining Village
+silverspawn - plays Steward
+silverspawn - takes 2 coins
+silverspawn - plays 2 Copper
+silverspawn - buys Gold
+silverspawn - gains Gold
+silverspawn - draws Steward
+silverspawn - shuffles deck
+silverspawn - draws Estate, Copper, Steward, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Caravan
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Steward
+Titandrake - plays Steward
+Titandrake - draws Copper
+Titandrake - plays Count
+Titandrake - places Steward on top of deck
+Titandrake - takes 3 coins
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Caravan, Copper
+ 
+---------- silverspawn: turn 9 ----------
+silverspawn - duration Caravan
+silverspawn - draws Mint
+silverspawn - duration Caravan
+silverspawn - draws Gold
+silverspawn - plays Steward
+silverspawn - trashes Estate, Copper
+silverspawn - plays 1 Copper, 1 Gold
+silverspawn - buys Mining Village
+silverspawn - gains Mining Village
+silverspawn - shuffles deck
+silverspawn - draws Mint, Steward, Copper, Mining Village, Steward
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Caravan
+Titandrake - draws Count
+Titandrake - plays Caravan
+Titandrake - draws Steward
+Titandrake - plays Count
+Titandrake - places Steward on top of deck
+Titandrake - takes 3 coins
+Titandrake - plays 3 Copper
+Titandrake - buys Mint
+Titandrake - trashes Copper, Copper, Copper
+Titandrake - gains Mint
+Titandrake - draws Steward, Gold, Mining Village, Copper
+Titandrake - shuffles deck
+Titandrake - draws Caravan
+ 
+---------- silverspawn: turn 10 ----------
+silverspawn - plays Mining Village
+silverspawn - draws Caravan
+silverspawn - plays Caravan
+silverspawn - draws Gold
+silverspawn - plays Mint
+silverspawn - reveals Gold
+silverspawn - gains Gold
+silverspawn - plays Steward
+silverspawn - takes 2 coins
+silverspawn - plays 1 Copper, 1 Gold
+silverspawn - buys Horse Traders
+silverspawn - gains Horse Traders
+silverspawn - draws Caravan
+silverspawn - shuffles deck
+silverspawn - draws Mining Village, Steward, Horse Traders, Mint
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Caravan
+Titandrake - draws Count
+Titandrake - plays Caravan
+Titandrake - draws Mint
+Titandrake - plays Mining Village
+Titandrake - draws Steward
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Count
+Titandrake - places Gold on top of deck
+Titandrake - trashes Steward, Copper, Steward
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Count, Gold, Mining Village
+ 
+---------- silverspawn: turn 11 ----------
+silverspawn - duration Caravan
+silverspawn - draws Gold
+silverspawn - plays Caravan
+silverspawn - draws Copper
+silverspawn - plays Mining Village
+silverspawn - draws Gold
+silverspawn - plays Mint
+silverspawn - reveals Gold
+silverspawn - gains Gold
+silverspawn - plays Horse Traders
+silverspawn - discards Copper
+silverspawn - discards Steward
+silverspawn - plays 2 Gold
+silverspawn - buys Caravan
+silverspawn - gains Caravan
+silverspawn - buys Caravan
+silverspawn - gains Caravan
+silverspawn - draws Steward
+silverspawn - shuffles deck
+silverspawn - draws Caravan, Caravan, Horse Traders, Steward
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Caravan
+Titandrake - draws Mint
+Titandrake - plays Mining Village
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Caravan
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Mint, Province, Gold, Caravan, Count
+ 
+---------- silverspawn: turn 12 ----------
+silverspawn - duration Caravan
+silverspawn - draws Gold
+silverspawn - plays Caravan
+silverspawn - draws Gold
+silverspawn - plays Caravan
+silverspawn - draws Gold
+silverspawn - plays Horse Traders
+silverspawn - discards Steward
+silverspawn - discards Steward
+silverspawn - plays 3 Gold
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Caravan
+silverspawn - gains Caravan
+silverspawn - draws Mining Village, Mint, Caravan, Copper
+silverspawn - shuffles deck
+silverspawn - draws Caravan
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Gold
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Mining Village, Gold, Gold, Province
+ 
+---------- silverspawn: turn 13 ----------
+silverspawn - duration Caravan
+silverspawn - draws Gold
+silverspawn - duration Caravan
+silverspawn - draws Province
+silverspawn - plays Caravan
+silverspawn - draws Horse Traders
+silverspawn - plays Caravan
+silverspawn - draws Steward
+silverspawn - plays Mining Village
+silverspawn - draws Caravan
+silverspawn - plays Caravan
+silverspawn - draws Gold
+silverspawn - plays Mint
+silverspawn - reveals Gold
+silverspawn - gains Gold
+silverspawn - plays Horse Traders
+silverspawn - discards Province
+silverspawn - discards Steward
+silverspawn - plays 2 Gold, 1 Copper
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - draws Gold, Steward
+silverspawn - shuffles deck
+silverspawn - draws Mining Village, Province, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Caravan
+Titandrake - draws Province
+Titandrake - plays Mining Village
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Mint
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Count, Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Gold
+ 
+---------- silverspawn: turn 14 ----------
+silverspawn - duration Caravan
+silverspawn - draws Caravan
+silverspawn - duration Caravan
+silverspawn - draws Gold
+silverspawn - duration Caravan
+silverspawn - draws Province
+silverspawn - plays Caravan
+silverspawn - draws Steward
+silverspawn - plays Mining Village
+silverspawn - draws Gold
+silverspawn - plays Steward
+silverspawn - draws Horse Traders, Caravan
+silverspawn - plays Caravan
+silverspawn - draws Mint
+silverspawn - plays Horse Traders
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - plays 3 Gold, 1 Copper
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - draws Gold
+silverspawn - shuffles deck
+silverspawn - draws Gold, Steward, Caravan, Caravan
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Province
+Titandrake - plays Count
+Titandrake - places Gold on top of deck
+Titandrake - gains Duchy
+Titandrake - plays 3 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Gold, Caravan, Mint, Province
+ 
+---------- silverspawn: turn 15 ----------
+silverspawn - duration Caravan
+silverspawn - draws Mining Village
+silverspawn - duration Caravan
+silverspawn - draws Province
+silverspawn - plays Caravan
+silverspawn - draws Caravan
+silverspawn - plays Caravan
+silverspawn - draws Horse Traders
+silverspawn - plays Caravan
+silverspawn - draws Duchy
+silverspawn - plays Mining Village
+silverspawn - draws Province
+silverspawn - plays Steward
+silverspawn - draws Steward, Gold
+silverspawn - plays Horse Traders
+silverspawn - discards Steward
+silverspawn - discards Province
+silverspawn - plays 3 Gold
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - draws Gold, Copper, Mint, Province
+silverspawn - shuffles deck
+silverspawn - draws Steward
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Caravan
+Titandrake - draws Province
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Province, Duchy, Gold
+ 
+---------- silverspawn: turn 16 ----------
+silverspawn - duration Caravan
+silverspawn - draws Steward
+silverspawn - duration Caravan
+silverspawn - draws Mining Village
+silverspawn - duration Caravan
+silverspawn - draws Duchy
+silverspawn - plays Mining Village
+silverspawn - draws Caravan
+silverspawn - plays Steward
+silverspawn - draws Caravan, Horse Traders
+silverspawn - plays Caravan
+silverspawn - draws Province
+silverspawn - plays Caravan
+silverspawn - draws Gold
+silverspawn - plays Horse Traders
+silverspawn - discards Province
+silverspawn - discards Province
+silverspawn - plays 2 Gold, 1 Copper
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - buys Duchy
+silverspawn - gains Duchy
+silverspawn - draws Gold, Duchy, Duchy, Gold, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Caravan
+Titandrake - draws Province
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Gold, Duchy, Caravan, Gold
+ 
+---------- silverspawn: turn 17 ----------
+silverspawn - duration Caravan
+silverspawn - shuffles deck
+silverspawn - draws Gold
+silverspawn - duration Caravan
+silverspawn - draws Copper
+silverspawn - plays 3 Gold, 1 Copper
+silverspawn - buys Province
+silverspawn - gains Province
+silverspawn - draws Province, Caravan, Caravan, Mint, Duchy
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays 4 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Mining Village, Count, Duchy, Mint
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+ 
+------------ Game Over ------------
+silverspawn - cards: 5 Caravan, 2 Steward, 1 Mint, 1 Horse Traders, 1 Mining Village, 4 Gold, 1 Copper, 5 Duchy, 4 Province
+silverspawn - total victory points: 39
+silverspawn - turns: 17
+ 
+Titandrake - cards: 2 Caravan, 1 Mining Village, 1 Count, 1 Mint, 6 Gold, 4 Province, 3 Duchy, 1 Estate
+Titandrake - total victory points: 34
+Titandrake - turns: 17
+ 
+1st place: silverspawn
+2nd place: Titandrake
+ 

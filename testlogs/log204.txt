@@ -1,0 +1,427 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Trade Route, Bridge, Conspirator, Plaza, Quarry, Taxman, Thief, Mountebank, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+scs - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+scs - shuffles deck
+Titandrake - shuffles deck
+scs - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- scs: turn 1 ----------
+scs - plays 4 Copper
+scs - buys Quarry
+scs - gains Quarry
+scs - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- scs: turn 2 ----------
+scs - plays 3 Copper
+scs - buys Trade Route
+scs - gains Trade Route
+scs - shuffles deck
+scs - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Trade Route
+ 
+---------- scs: turn 3 ----------
+scs - plays 3 Copper
+scs - buys Silver
+scs - gains Silver
+scs - draws Estate, Trade Route, Quarry, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Quarry, Estate
+ 
+---------- scs: turn 4 ----------
+scs - plays Trade Route
+scs - trashes Estate
+scs - plays 2 Copper
+scs - plays Quarry
+scs - buys Mountebank
+scs - gains Mountebank
+scs - draws Copper, Copper
+scs - shuffles deck
+scs - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - plays Quarry
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- scs: turn 5 ----------
+scs - plays 5 Copper
+scs - buys Mountebank
+scs - gains Mountebank
+scs - draws Copper, Estate, Mountebank, Trade Route, Quarry
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Mountebank, Copper, Copper, Estate, Silver
+ 
+---------- scs: turn 6 ----------
+scs - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+scs - plays Quarry
+scs - buys Plaza
+scs - gains Plaza
+scs - draws Copper, Silver, Estate
+scs - shuffles deck
+scs - draws Mountebank, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Mountebank
+scs - gains Curse
+scs - gains Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Trade Route, Quarry
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- scs: turn 7 ----------
+scs - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+scs - plays 2 Copper, 1 Silver
+scs - buys Gold
+scs - gains Gold
+scs - draws Estate, Quarry, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper, Plaza, Estate, Mountebank, Curse
+ 
+---------- scs: turn 8 ----------
+scs - plays 3 Copper
+scs - plays Quarry
+scs - buys Plaza
+scs - gains Plaza
+scs - draws Mountebank, Copper, Plaza, Trade Route, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Mountebank
+scs - gains Curse
+scs - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper, Estate, Mountebank, Silver, Copper
+ 
+---------- scs: turn 9 ----------
+scs - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+scs - plays Copper
+scs - buys Trade Route
+scs - gains Trade Route
+scs - shuffles deck
+scs - draws Copper, Mountebank, Trade Route, Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Mountebank
+scs - gains Curse
+scs - gains Copper
+Titandrake - plays Silver
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Mountebank, Copper, Plaza, Curse
+ 
+---------- scs: turn 10 ----------
+scs - plays Mountebank
+Titandrake - discards Curse
+scs - plays 2 Copper, 1 Silver
+scs - buys Gold
+scs - gains Gold
+scs - draws Gold, Mountebank, Trade Route, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Mountebank
+scs - gains Curse
+scs - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Estate, Copper, Curse, Trade Route
+ 
+---------- scs: turn 11 ----------
+scs - plays Mountebank
+Titandrake - discards Curse
+scs - plays 2 Copper, 1 Gold
+scs - buys Gold
+scs - gains Gold
+scs - draws Copper, Plaza, Copper, Estate, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Curse, Copper, Estate, Plaza, Trade Route
+ 
+---------- scs: turn 12 ----------
+scs - plays Plaza
+scs - draws Copper
+scs - plays 3 Copper
+scs - buys Trade Route
+scs - gains Trade Route
+scs - draws Quarry, Curse, Copper, Plaza, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Silver
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - plays Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper, Copper, Trade Route, Copper, Mountebank
+ 
+---------- scs: turn 13 ----------
+scs - plays Plaza
+scs - draws Estate
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Copper
+scs - plays Quarry
+scs - buys Plaza
+scs - gains Plaza
+scs - shuffles deck
+scs - draws Copper, Plaza, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Mountebank
+scs - gains Curse
+scs - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Quarry
+Titandrake - shuffles deck
+Titandrake - draws Silver, Trade Route, Copper, Copper
+ 
+---------- scs: turn 14 ----------
+scs - plays Plaza
+scs - draws Copper
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays 3 Copper, 1 Gold
+scs - buys Gold
+scs - gains Gold
+scs - draws Copper, Plaza, Trade Route, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Quarry
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Plaza, Curse, Mountebank, Trade Route, Estate
+ 
+---------- scs: turn 15 ----------
+scs - plays Plaza
+scs - draws Quarry
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Trade Route
+scs - trashes Copper
+scs - plays Quarry
+scs - plays Copper
+scs - buys Plaza
+scs - gains Plaza
+scs - buys Courtyard
+scs - gains Courtyard
+scs - draws Copper, Curse, Copper, Estate, Curse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Mountebank
+scs - discards Curse
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Trade Route, Mountebank, Copper, Curse, Copper
+ 
+---------- scs: turn 16 ----------
+scs - plays 2 Copper
+scs - buys Courtyard
+scs - gains Courtyard
+scs - draws Silver, Curse, Trade Route, Plaza, Trade Route
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Mountebank
+scs - discards Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Plaza, Plaza, Trade Route, Gold
+ 
+---------- scs: turn 17 ----------
+scs - plays Plaza
+scs - draws Curse
+scs - plays Trade Route
+scs - trashes Curse
+scs - plays Trade Route
+scs - trashes Silver
+scs - draws Gold, Gold, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - uses 4 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Courtyard, Copper
+Titandrake - shuffles deck
+Titandrake - draws Trade Route, Copper, Plaza
+ 
+---------- scs: turn 18 ----------
+scs - plays 2 Gold, 2 Copper
+scs - uses 1 coin token
+scs - buys Platinum
+scs - gains Platinum
+scs - draws Mountebank, Mountebank
+scs - shuffles deck
+scs - draws Copper, Curse, Plaza
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Plaza
+Titandrake - draws Mountebank
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Courtyard
+Titandrake - draws Curse, Plaza, Plaza
+Titandrake - places Curse on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Mountebank
+scs - discards Curse
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - uses 3 coin tokens
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Plaza, Courtyard, Conspirator, Copper, Gold
+ 
+---------- scs: turn 19 ----------
+scs - plays Plaza
+scs - draws Gold
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+scs - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+scs - plays Gold
+scs - uses 1 coin token
+scs - buys Province
+scs - gains Province
+scs - draws Curse, Copper, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Plaza
+Titandrake - draws Trade Route
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Quarry, Plaza, Mountebank, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Trade Route, 6 Plaza, 2 Mountebank, 2 Courtyard, 1 Conspirator, 9 Copper, 1 Quarry, 1 Gold, 1 Silver, 1 Estate, 1 Duchy, 1 Province, 2 Curse
+Titandrake - total victory points: 8
+Titandrake - turns: 19
+ 
+scs - cards: 4 Plaza, 3 Trade Route, 2 Mountebank, 2 Courtyard, 11 Copper, 4 Gold, 1 Platinum, 1 Quarry, 2 Estate, 1 Province, 4 Curse
+scs - total victory points: 4
+scs - turns: 19
+ 
+1st place: Titandrake
+2nd place: scs
+ 

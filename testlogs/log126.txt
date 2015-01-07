@@ -1,0 +1,555 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Fortress, Marauder, Salvager, Butcher, Mystic, Soothsayer, Vault, Hunting Grounds, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+CryMeARiver - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+CryMeARiver - shuffles deck
+Titandrake - shuffles deck
+CryMeARiver - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- CryMeARiver: turn 1 ----------
+CryMeARiver - plays 3 Copper
+CryMeARiver - buys Silver
+CryMeARiver - gains Silver
+CryMeARiver - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- CryMeARiver: turn 2 ----------
+CryMeARiver - plays 4 Copper
+CryMeARiver - buys Marauder
+CryMeARiver - gains Marauder
+CryMeARiver - shuffles deck
+CryMeARiver - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - shuffles deck
+Titandrake - draws Silver, Marauder, Copper, Copper, Estate
+ 
+---------- CryMeARiver: turn 3 ----------
+CryMeARiver - plays 3 Copper
+CryMeARiver - buys Silver
+CryMeARiver - gains Silver
+CryMeARiver - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+CryMeARiver - gains Ruined Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- CryMeARiver: turn 4 ----------
+CryMeARiver - plays 4 Copper
+CryMeARiver - buys Salvager
+CryMeARiver - gains Salvager
+CryMeARiver - draws Silver, Marauder
+CryMeARiver - shuffles deck
+CryMeARiver - draws Salvager, Copper, Ruined Village
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- CryMeARiver: turn 5 ----------
+CryMeARiver - plays Marauder
+CryMeARiver - gains Spoils
+Titandrake - gains Ruined Library
+CryMeARiver - plays 1 Silver, 1 Copper
+CryMeARiver - buys Silver
+CryMeARiver - gains Silver
+CryMeARiver - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Copper, Marauder, Copper, Fortress, Salvager
+ 
+---------- CryMeARiver: turn 6 ----------
+CryMeARiver - plays 3 Copper, 1 Silver
+CryMeARiver - buys Soothsayer
+CryMeARiver - gains Soothsayer
+CryMeARiver - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+CryMeARiver - gains Ruined Library
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Estate, Copper, Estate, Spoils
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- CryMeARiver: turn 7 ----------
+CryMeARiver - plays 3 Copper
+CryMeARiver - buys Hamlet
+CryMeARiver - gains Hamlet
+CryMeARiver - shuffles deck
+CryMeARiver - draws Soothsayer, Copper, Ruined Library, Marauder, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Salvager, Fortress, Copper, Marauder, Copper
+ 
+---------- CryMeARiver: turn 8 ----------
+CryMeARiver - plays Soothsayer
+CryMeARiver - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+CryMeARiver - plays 2 Copper
+CryMeARiver - buys Hamlet
+CryMeARiver - gains Hamlet
+CryMeARiver - draws Spoils, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Fortress
+Titandrake - draws Spoils
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+CryMeARiver - gains Abandoned Mine
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Ruined Library, Fortress, Estate, Copper, Soothsayer
+ 
+---------- CryMeARiver: turn 9 ----------
+CryMeARiver - plays 3 Copper, 1 Silver
+CryMeARiver - buys Fortress
+CryMeARiver - gains Fortress
+CryMeARiver - draws Copper, Estate, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+CryMeARiver - gains Curse
+CryMeARiver - draws Hamlet
+Titandrake - plays 2 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Soothsayer, Salvager
+ 
+---------- CryMeARiver: turn 10 ----------
+CryMeARiver - plays Hamlet
+CryMeARiver - draws Ruined Village
+CryMeARiver - discards Ruined Village
+CryMeARiver - receives one buy
+CryMeARiver - plays 2 Copper, 1 Silver
+CryMeARiver - buys Fortress
+CryMeARiver - gains Fortress
+CryMeARiver - draws Silver, Estate, Salvager
+CryMeARiver - shuffles deck
+CryMeARiver - draws Abandoned Mine, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+CryMeARiver - gains Curse
+CryMeARiver - draws Hamlet
+Titandrake - draws Copper, Copper, Hamlet, Spoils, Ruined Library
+ 
+---------- CryMeARiver: turn 11 ----------
+CryMeARiver - plays Hamlet
+CryMeARiver - draws Estate
+CryMeARiver - discards Estate
+CryMeARiver - receives one buy
+CryMeARiver - plays Salvager
+CryMeARiver - trashes Estate
+CryMeARiver - plays 1 Silver, 1 Copper
+CryMeARiver - buys Fortress
+CryMeARiver - gains Fortress
+CryMeARiver - draws Fortress, Ruined Village, Ruined Library, Silver, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Ruined Library
+Titandrake - draws Marauder
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+CryMeARiver - gains Survivors
+Titandrake - plays Copper
+Titandrake - plays Spoils
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Copper, Copper, Copper, Gold, Fortress
+ 
+---------- CryMeARiver: turn 12 ----------
+CryMeARiver - plays Fortress
+CryMeARiver - draws Copper
+CryMeARiver - plays Ruined Library
+CryMeARiver - draws Spoils
+CryMeARiver - plays Ruined Village
+CryMeARiver - plays 1 Silver, 1 Gold, 1 Copper
+CryMeARiver - buys Hunting Grounds
+CryMeARiver - gains Hunting Grounds
+CryMeARiver - draws Copper, Marauder, Copper, Soothsayer, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Fortress
+Titandrake - draws Butcher
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Gold
+Titandrake - gains Hunting Grounds
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Curse, Fortress, Fortress
+Titandrake - shuffles deck
+Titandrake - draws Marauder, Estate
+ 
+---------- CryMeARiver: turn 13 ----------
+CryMeARiver - plays Soothsayer
+CryMeARiver - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Estate
+CryMeARiver - plays 3 Copper
+CryMeARiver - buys Hamlet
+CryMeARiver - gains Hamlet
+CryMeARiver - draws Copper, Silver, Copper, Hamlet, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Fortress
+Titandrake - draws Ruined Library
+Titandrake - plays Fortress
+Titandrake - draws Spoils
+Titandrake - plays Ruined Library
+Titandrake - draws Copper
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+CryMeARiver - gains Abandoned Mine
+Titandrake - plays Copper
+Titandrake - plays Spoils
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Copper, Estate, Hamlet, Hunting Grounds, Soothsayer
+ 
+---------- CryMeARiver: turn 14 ----------
+CryMeARiver - plays Hamlet
+CryMeARiver - draws Curse
+CryMeARiver - discards Curse
+CryMeARiver - receives one action
+CryMeARiver - discards Estate
+CryMeARiver - receives one buy
+CryMeARiver - plays 2 Copper, 1 Silver
+CryMeARiver - buys Fortress
+CryMeARiver - gains Fortress
+CryMeARiver - draws Fortress
+CryMeARiver - shuffles deck
+CryMeARiver - draws Abandoned Mine, Gold, Copper, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Butcher
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Hunting Grounds
+Titandrake - draws Copper, Gold, Fortress, Copper
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+CryMeARiver - gains Curse
+CryMeARiver - draws Hamlet
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Gold
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Fortress, Copper, Salvager
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ruined Library
+ 
+---------- CryMeARiver: turn 15 ----------
+CryMeARiver - plays Hamlet
+CryMeARiver - draws Salvager
+CryMeARiver - discards Abandoned Mine
+CryMeARiver - receives one action
+CryMeARiver - plays Salvager
+CryMeARiver - trashes Fortress
+CryMeARiver - plays Fortress
+CryMeARiver - draws Fortress
+CryMeARiver - plays Fortress
+CryMeARiver - draws Curse
+CryMeARiver - plays 1 Gold, 1 Copper, 1 Silver
+CryMeARiver - buys Province
+CryMeARiver - gains Province
+CryMeARiver - buys Hamlet
+CryMeARiver - gains Hamlet
+CryMeARiver - draws Gold, Soothsayer, Ruined Library, Copper, Spoils
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays Ruined Library
+Titandrake - draws Copper
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - draws Copper, Estate, Hamlet, Fortress, Soothsayer
+ 
+---------- CryMeARiver: turn 16 ----------
+CryMeARiver - plays Soothsayer
+CryMeARiver - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+CryMeARiver - plays 1 Gold, 1 Copper
+CryMeARiver - buys Salvager
+CryMeARiver - gains Salvager
+CryMeARiver - draws Copper, Copper, Hunting Grounds, Copper, Ruined Village
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Hamlet
+Titandrake - draws Hunting Grounds
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - plays Hunting Grounds
+Titandrake - draws Estate, Province, Curse, Marauder
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+CryMeARiver - gains Curse
+CryMeARiver - draws Curse
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+CryMeARiver - gains Survivors
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Hamlet, Butcher, Fortress, Fortress, Fortress
+ 
+---------- CryMeARiver: turn 17 ----------
+CryMeARiver - plays Hunting Grounds
+CryMeARiver - draws Survivors, Estate, Silver, Marauder
+CryMeARiver - plays 3 Copper, 1 Silver
+CryMeARiver - buys Butcher
+CryMeARiver - gains Butcher
+CryMeARiver - draws Copper, Abandoned Mine, Silver, Hamlet, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Fortress
+Titandrake - draws Curse
+Titandrake - plays Fortress
+Titandrake - draws Spoils
+Titandrake - plays Hamlet
+Titandrake - draws Fortress
+Titandrake - discards Curse
+Titandrake - receives one buy
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Fortress
+Titandrake - uses 1 coin token
+Titandrake - gains Butcher
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays Gold
+Titandrake - plays Spoils
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - shuffles deck
+Titandrake - draws Marauder, Fortress, Hunting Grounds, Estate, Copper
+ 
+---------- CryMeARiver: turn 18 ----------
+CryMeARiver - plays Hamlet
+CryMeARiver - draws Hamlet
+CryMeARiver - plays Hamlet
+CryMeARiver - draws Fortress
+CryMeARiver - plays Fortress
+CryMeARiver - draws Fortress
+CryMeARiver - plays Fortress
+CryMeARiver - draws Copper
+CryMeARiver - plays Abandoned Mine
+CryMeARiver - plays 2 Copper, 1 Silver
+CryMeARiver - buys Duchy
+CryMeARiver - gains Duchy
+CryMeARiver - shuffles deck
+CryMeARiver - draws Hamlet, Soothsayer, Silver, Fortress, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays Hunting Grounds
+Titandrake - draws Curse, Estate, Fortress, Fortress
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Fortress
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Hunting Grounds
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Hunting Grounds
+Titandrake - draws Soothsayer, Hamlet, Butcher, Copper
+Titandrake - plays Hamlet
+Titandrake - draws Fortress
+Titandrake - discards Curse
+Titandrake - receives one buy
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Ruined Library
+Titandrake - plays Ruined Library
+Titandrake - draws Copper
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+CryMeARiver - gains Abandoned Mine
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+CryMeARiver - gains Curse
+CryMeARiver - draws Estate
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Gold
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Spoils, Fortress, Curse, Copper, Curse
+ 
+---------- CryMeARiver: turn 19 ----------
+CryMeARiver - plays Hamlet
+CryMeARiver - draws Abandoned Mine
+CryMeARiver - plays Fortress
+CryMeARiver - draws Province
+CryMeARiver - plays Soothsayer
+CryMeARiver - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Hamlet
+CryMeARiver - plays Abandoned Mine
+CryMeARiver - plays 2 Silver
+CryMeARiver - buys Duchy
+CryMeARiver - gains Duchy
+CryMeARiver - draws Silver, Copper, Curse, Survivors, Hamlet
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays Hamlet
+Titandrake - draws Province
+Titandrake - discards Curse
+Titandrake - receives one buy
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Hunting Grounds, Copper, Salvager, Butcher
+Titandrake - shuffles deck
+Titandrake - draws Butcher
+ 
+---------- CryMeARiver: turn 20 ----------
+CryMeARiver - plays Hamlet
+CryMeARiver - draws Survivors
+CryMeARiver - discards Curse
+CryMeARiver - receives one action
+CryMeARiver - plays Survivors
+CryMeARiver - looks at Hunting Grounds, Curse
+CryMeARiver - places Curse on top of deck
+CryMeARiver - places Hunting Grounds on top of deck
+CryMeARiver - plays 1 Silver, 1 Copper
+CryMeARiver - buys Estate
+CryMeARiver - gains Estate
+CryMeARiver - draws Hunting Grounds, Curse, Gold, Gold, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Hunting Grounds
+Titandrake - gains Duchy
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - draws Hamlet, Copper, Copper, Spoils, Hamlet
+ 
+---------- CryMeARiver: turn 21 ----------
+CryMeARiver - plays Hunting Grounds
+CryMeARiver - draws Marauder, Duchy, Fortress, Ruined Library
+CryMeARiver - plays 2 Gold, 1 Copper
+CryMeARiver - buys Duchy
+CryMeARiver - gains Duchy
+CryMeARiver - draws Hamlet, Copper, Copper, Curse, Abandoned Mine
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Ruined Library
+Titandrake - discards Ruined Library
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - draws Curse, Curse, Fortress, Gold, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Fortress, 6 Hamlet, 2 Butcher, 2 Hunting Grounds, 1 Salvager, 1 Ruined Library, 1 Marauder, 1 Soothsayer, 6 Copper, 2 Gold, 3 Duchy, 3 Province, 2 Estate, 5 Curse
+Titandrake - total victory points: 24
+Titandrake - turns: 21
+ 
+CryMeARiver - cards: 4 Hamlet, 4 Fortress, 3 Abandoned Mine, 2 Survivors, 2 Salvager, 1 Soothsayer, 1 Hunting Grounds, 1 Marauder, 1 Ruined Library, 1 Butcher, 1 Ruined Village, 7 Copper, 4 Gold, 3 Silver, 1 Spoils, 3 Duchy, 3 Estate, 1 Province, 5 Curse
+CryMeARiver - total victory points: 13
+CryMeARiver - turns: 21
+ 
+1st place: Titandrake
+2nd place: CryMeARiver
+ 

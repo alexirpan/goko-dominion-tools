@@ -1,0 +1,498 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Courtyard, Moat, Develop, Hermit, Watchtower, Bishop, Bandit Camp, Counterfeit, Junk Dealer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+Titandrake - shuffles deck
+Gherald - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 5 Copper
+Gherald - buys Counterfeit
+Gherald - gains Counterfeit
+Gherald - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 2 Copper
+Gherald - buys Courtyard
+Gherald - gains Courtyard
+Gherald - shuffles deck
+Gherald - draws Courtyard, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Hermit, Silver, Copper
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays Courtyard
+Gherald - draws Estate, Copper, Copper
+Gherald - places Copper on top of deck
+Gherald - plays 5 Copper
+Gherald - buys Junk Dealer
+Gherald - gains Junk Dealer
+Gherald - draws Copper, Counterfeit, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays Counterfeit
+Gherald - plays Copper
+Gherald - plays Copper
+Gherald - trashes Copper
+Gherald - plays Copper
+Gherald - buys Bishop
+Gherald - gains Bishop
+Gherald - shuffles deck
+Gherald - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Bishop, Hermit
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Bishop, Estate, Copper, Courtyard, Counterfeit
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Copper, Copper, Copper, Madman, Copper
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Bishop
+Gherald - trashes Estate
+Gherald - receives 1 victory point chips
+Titandrake - trashes Copper
+Gherald - plays Counterfeit
+Gherald - plays Copper
+Gherald - plays Copper
+Gherald - trashes Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Junk Dealer, Copper, Copper
+Gherald - shuffles deck
+Gherald - draws Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Estate, Silver
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - shuffles deck
+Titandrake - draws Estate, Hermit, Estate, Bishop, Silver
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Junk Dealer
+Gherald - draws Copper
+Gherald - trashes Estate
+Gherald - plays 4 Copper
+Gherald - buys Bandit Camp
+Gherald - gains Bandit Camp
+Gherald - draws Silver, Courtyard, Counterfeit, Bishop, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Develop
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper, Counterfeit, Copper, Copper, Copper
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Bishop
+Gherald - trashes Courtyard
+Gherald - receives 1 victory point chips
+Titandrake - trashes Copper
+Gherald - plays Counterfeit
+Gherald - plays Copper
+Gherald - plays Copper
+Gherald - trashes Copper
+Gherald - plays Silver
+Gherald - buys Bandit Camp
+Gherald - gains Bandit Camp
+Gherald - draws Silver, Estate
+Gherald - shuffles deck
+Gherald - draws Copper, Junk Dealer, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Courtyard, Copper
+Titandrake - shuffles deck
+Titandrake - draws Madman, Silver, Copper
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Junk Dealer
+Gherald - draws Counterfeit
+Gherald - trashes Estate
+Gherald - plays Counterfeit
+Gherald - plays Copper
+Gherald - plays Copper
+Gherald - trashes Copper
+Gherald - plays 2 Silver
+Gherald - buys Watchtower
+Gherald - gains Watchtower
+Gherald - buys Bandit Camp
+Gherald - gains Bandit Camp
+Gherald - draws Bandit Camp, Bishop, Bandit Camp, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Estate, Bandit Camp, Bishop
+Titandrake - plays Bandit Camp
+Titandrake - draws Develop
+Titandrake - gains Spoils
+Titandrake - plays Develop
+Titandrake - trashes Estate
+Titandrake - gains Watchtower
+Titandrake - plays Courtyard
+Titandrake - draws Watchtower, Counterfeit
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+Titandrake - places Watchtower on top of deck
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Gherald - trashes Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Courtyard, Copper, Counterfeit, Develop
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Bandit Camp
+Gherald - draws Copper
+Gherald - gains Spoils
+Gherald - plays Bandit Camp
+Gherald - shuffles deck
+Gherald - draws Bandit Camp
+Gherald - gains Spoils
+Gherald - plays Bandit Camp
+Gherald - draws Silver
+Gherald - gains Spoils
+Gherald - plays Bishop
+Gherald - trashes Copper
+Gherald - receives 0 victory point chips
+Titandrake - trashes Copper
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Watchtower
+Gherald - gains Watchtower
+Gherald - draws Spoils, Silver, Counterfeit, Watchtower, Junk Dealer
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - draws Bishop, Bandit Camp, Silver, Bandit Camp, Copper
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Counterfeit
+Gherald - plays Spoils
+Gherald - plays Spoils
+Gherald - plays Silver
+Gherald - buys Bandit Camp
+Gherald - gains Bandit Camp
+Gherald - applied Watchtower to place Bandit Camp on top of the deck
+Gherald - buys Bishop
+Gherald - gains Bishop
+Gherald - applied Watchtower to place Bishop on top of the deck
+Gherald - draws Bishop, Bandit Camp
+Gherald - shuffles deck
+Gherald - draws Watchtower, Bandit Camp, Junk Dealer
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Bandit Camp
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Courtyard
+Titandrake - gains Spoils
+Titandrake - plays Courtyard
+Titandrake - draws Counterfeit, Watchtower, Develop
+Titandrake - places Copper on top of deck
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - applied Watchtower to place Spoils on top of the deck
+Titandrake - plays Develop
+Titandrake - trashes Silver
+Titandrake - gains Bishop
+Titandrake - applied Watchtower to place Bishop on top of the deck
+Titandrake - gains Courtyard
+Titandrake - applied Watchtower to trash Courtyard
+Titandrake - trashes Courtyard
+Titandrake - plays Watchtower
+Titandrake - draws Bishop, Spoils, Spoils
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Counterfeit
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Watchtower, Watchtower, Bandit Camp, Bishop
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Bandit Camp
+Gherald - draws Counterfeit
+Gherald - gains Spoils
+Gherald - plays Bandit Camp
+Gherald - draws Bishop
+Gherald - gains Spoils
+Gherald - applied Watchtower to place Spoils on top of the deck
+Gherald - plays Bishop
+Gherald - trashes Junk Dealer
+Gherald - receives 2 victory point chips
+Gherald - plays Watchtower
+Gherald - draws Spoils, Bandit Camp, Bandit Camp, Watchtower
+Gherald - plays Bandit Camp
+Gherald - draws Silver
+Gherald - gains Spoils
+Gherald - plays Bandit Camp
+Gherald - draws Silver
+Gherald - gains Spoils
+Gherald - plays Bishop
+Gherald - trashes Silver
+Gherald - receives 1 victory point chips
+Gherald - plays Watchtower
+Gherald - draws Spoils, Copper, Spoils
+Gherald - plays Counterfeit
+Gherald - plays Spoils
+Gherald - plays Spoils
+Gherald - plays 1 Silver, 1 Copper
+Gherald - plays Spoils
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Counterfeit
+Gherald - gains Counterfeit
+Gherald - shuffles deck
+Gherald - draws Watchtower, Bandit Camp, Spoils, Watchtower, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Counterfeit
+Titandrake - gains Spoils
+Titandrake - plays Bishop
+Titandrake - trashes Bishop
+Titandrake - receives 2 victory point chips
+Gherald - trashes Copper
+Titandrake - plays Watchtower
+Titandrake - draws Courtyard, Bandit Camp, Province, Develop
+Titandrake - draws Spoils, Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp, Watchtower, Spoils
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Bandit Camp
+Gherald - draws Bishop
+Gherald - gains Spoils
+Gherald - plays Watchtower
+Gherald - draws Counterfeit, Spoils, Bishop
+Gherald - plays Bishop
+Gherald - trashes Bishop
+Gherald - receives 2 victory point chips
+Gherald - plays Counterfeit
+Gherald - plays Spoils
+Gherald - plays Spoils
+Gherald - plays Spoils
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Courtyard
+Gherald - gains Courtyard
+Gherald - applied Watchtower to place Courtyard on top of the deck
+Gherald - draws Courtyard, Bandit Camp, Counterfeit, Spoils, Bandit Camp
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Watchtower
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Bishop
+Titandrake - gains Spoils
+Titandrake - plays Watchtower
+Titandrake - draws Counterfeit, Bandit Camp
+Titandrake - plays Bandit Camp
+Titandrake - draws Courtyard
+Titandrake - gains Spoils
+Titandrake - plays Courtyard
+Titandrake - draws Province, Develop
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+Titandrake - places Counterfeit on top of deck
+Titandrake - plays Bishop
+Titandrake - trashes Develop
+Titandrake - receives 1 victory point chips
+Titandrake - plays Watchtower
+Titandrake - draws Counterfeit, Spoils
+Titandrake - plays Counterfeit
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Spoils
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Watchtower, Courtyard, Province
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Bandit Camp
+Gherald - draws Bandit Camp
+Gherald - gains Spoils
+Gherald - plays Bandit Camp
+Gherald - draws Silver
+Gherald - gains Spoils
+Gherald - plays Bandit Camp
+Gherald - draws Spoils
+Gherald - gains Spoils
+Gherald - plays Courtyard
+Gherald - draws Province
+Gherald - shuffles deck
+Gherald - draws Bishop, Watchtower
+Gherald - places Watchtower on top of deck
+Gherald - plays Bishop
+Gherald - trashes Province
+Gherald - receives 4 victory point chips
+Gherald - plays Counterfeit
+Gherald - plays Spoils
+Gherald - plays Spoils
+Gherald - plays Silver
+Gherald - plays Spoils
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Watchtower, Province, Watchtower, Spoils, Spoils
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Watchtower
+Titandrake - receives 1 victory point chips
+Gherald - trashes Watchtower
+Titandrake - draws Province, Watchtower, Bandit Camp, Bandit Camp, Counterfeit
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Watchtower
+Gherald - draws Counterfeit, Bandit Camp, Spoils
+Gherald - plays Counterfeit
+Gherald - plays Spoils
+Gherald - plays Spoils
+Gherald - plays Spoils
+Gherald - plays Spoils
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Spoils
+Gherald - shuffles deck
+Gherald - draws Courtyard, Province, Counterfeit, Bandit Camp
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Province
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Bandit Camp
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Courtyard
+Titandrake - gains Spoils
+Titandrake - plays Watchtower
+Titandrake - draws Bishop, Spoils
+Titandrake - plays Courtyard
+Titandrake - draws Spoils, Spoils, Province
+Titandrake - places Province on top of deck
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays Counterfeit
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp, Counterfeit, Bandit Camp, Spoils
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Bandit Camp
+Gherald - draws Bandit Camp
+Gherald - gains Spoils
+Gherald - plays Bandit Camp
+Gherald - draws Province
+Gherald - gains Spoils
+Gherald - plays Courtyard
+Gherald - draws Duchy, Silver, Province
+Gherald - places Province on top of deck
+Gherald - plays Counterfeit
+Gherald - plays Spoils
+Gherald - plays Spoils
+Gherald - plays Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Province, Bishop, Bandit Camp, Duchy, Counterfeit
+ 
+------------ Game Over ------------
+Gherald - cards: 4 Bandit Camp, 1 Bishop, 1 Courtyard, 1 Watchtower, 2 Counterfeit, 2 Spoils, 1 Silver, 4 Province, 2 Duchy
+Gherald - victory point chips: 18
+Gherald - total victory points: 48
+Gherald - turns: 16
+ 
+Titandrake - cards: 3 Bandit Camp, 1 Watchtower, 1 Bishop, 1 Courtyard, 2 Spoils, 1 Counterfeit, 2 Province, 2 Duchy
+Titandrake - victory point chips: 15
+Titandrake - total victory points: 33
+Titandrake - turns: 15
+ 
+1st place: Gherald
+2nd place: Titandrake
+ 

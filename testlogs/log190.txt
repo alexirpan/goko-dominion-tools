@@ -1,0 +1,675 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Squire, Masquerade, Alchemist, Noble Brigand, Plaza, Thief, Explorer, Hunting Party, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+HvBoedefeld - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HvBoedefeld - shuffles deck
+Titandrake - shuffles deck
+HvBoedefeld - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- HvBoedefeld: turn 1 ----------
+HvBoedefeld - plays 4 Copper
+HvBoedefeld - buys Masquerade
+HvBoedefeld - gains Masquerade
+HvBoedefeld - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Beggar
+Titandrake - gains Beggar
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- HvBoedefeld: turn 2 ----------
+HvBoedefeld - plays 3 Copper
+HvBoedefeld - buys Squire
+HvBoedefeld - gains Squire
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- HvBoedefeld: turn 3 ----------
+HvBoedefeld - plays 4 Copper
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - draws Masquerade, Copper, Squire, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Beggar
+Titandrake - gains Beggar
+Titandrake - draws Copper, Copper, Hunting Party, Beggar, Copper
+ 
+---------- HvBoedefeld: turn 4 ----------
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Masquerade
+HvBoedefeld - draws Estate, Estate
+HvBoedefeld - passes Estate
+Titandrake - passes Copper
+HvBoedefeld - trashes Estate
+HvBoedefeld - plays 4 Copper
+HvBoedefeld - buys Hunting Party
+HvBoedefeld - gains Hunting Party
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Squire, Copper, Copper, Copper, Hunting Party
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Copper, Copper, Beggar, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Copper, Estate, Copper, Copper, Copper, Beggar
+Titandrake - discards: Estate, Copper, Estate, Copper, Copper, Copper, Beggar
+Titandrake - plays Beggar
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Hunting Party, Beggar
+ 
+---------- HvBoedefeld: turn 5 ----------
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Masquerade
+HvBoedefeld - reveals hand: Squire, Copper, Copper, Copper, Masquerade
+HvBoedefeld - reveals Copper, Copper, Copper, Silver
+HvBoedefeld - places Silver in hand
+HvBoedefeld - discards: Copper, Copper, Copper
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 buys
+HvBoedefeld - plays 3 Copper, 1 Silver
+HvBoedefeld - buys Squire
+HvBoedefeld - gains Squire
+HvBoedefeld - buys Potion
+HvBoedefeld - gains Potion
+HvBoedefeld - draws Estate, Copper, Copper
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Hunting Party, Squire
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Estate, Copper, Estate, Beggar, Hunting Party
+Titandrake - reveals Copper, Estate, Copper, Copper, Copper, Estate, Copper, Copper, Copper, Beggar, Copper
+Titandrake - discards: Copper, Estate, Copper, Copper, Copper, Estate, Copper, Copper, Copper, Beggar, Copper
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Beggar
+Titandrake - reveals hand: Estate, Copper, Estate, Beggar, Beggar
+Titandrake - reveals Copper, Copper, Copper, Copper, Estate, Estate, Copper, Copper, Copper, Copper
+Titandrake - discards: Copper, Copper, Copper, Copper, Estate, Estate, Copper, Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Beggar
+ 
+---------- HvBoedefeld: turn 6 ----------
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Estate, Copper, Copper, Copper
+HvBoedefeld - reveals Copper, Silver
+HvBoedefeld - places Silver in hand
+HvBoedefeld - discards Copper
+HvBoedefeld - plays 3 Copper, 1 Silver
+HvBoedefeld - buys Hunting Party
+HvBoedefeld - gains Hunting Party
+HvBoedefeld - draws Squire, Copper, Copper, Potion, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Beggar
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Estate, Estate, Hunting Party, Copper
+ 
+---------- HvBoedefeld: turn 7 ----------
+HvBoedefeld - plays Squire
+HvBoedefeld - gains Silver
+HvBoedefeld - plays 3 Copper, 1 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - draws Copper, Masquerade
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Alchemist, Copper, Hunting Party
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Estate, Estate, Copper, Copper
+Titandrake - reveals Copper, Beggar
+Titandrake - places Beggar in hand
+Titandrake - discards Copper
+Titandrake - plays Beggar
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - plays 6 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Copper, Hunting Party, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- HvBoedefeld: turn 8 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Hunting Party
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Silver
+HvBoedefeld - reveals hand: Copper, Masquerade, Copper, Copper, Hunting Party, Silver
+HvBoedefeld - reveals Copper, Copper, Copper, Copper, Estate
+HvBoedefeld - places Estate in hand
+HvBoedefeld - discards: Copper, Copper, Copper, Copper
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Squire
+HvBoedefeld - reveals hand: Copper, Masquerade, Copper, Copper, Silver, Estate, Squire
+HvBoedefeld - reveals Potion
+HvBoedefeld - places Potion in hand
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Masquerade
+HvBoedefeld - draws Copper, Squire
+HvBoedefeld - passes Estate
+Titandrake - passes Copper
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 buys
+HvBoedefeld - plays 4 Copper, 1 Silver, 1 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - buys Hunting Party
+HvBoedefeld - gains Hunting Party
+HvBoedefeld - places Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Silver
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Squire, Copper, Hunting Party
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Copper
+Titandrake - reveals Copper, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Copper, Copper
+Titandrake - reveals Estate, Copper, Estate, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Estate, Copper, Estate
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Copper, Copper, Copper
+Titandrake - reveals Copper, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Beggar
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Copper, Copper, Copper, Beggar
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Estate, Estate, Beggar, Copper, Estate, Copper, Copper, Copper, Copper, Copper, Estate
+Titandrake - discards: Copper, Copper, Estate, Estate, Beggar, Copper, Estate, Copper, Copper, Copper, Copper, Copper, Estate
+Titandrake - plays 6 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Copper, Copper, Hunting Party, Copper
+ 
+---------- HvBoedefeld: turn 9 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Silver, Squire, Copper, Copper, Copper, Copper
+HvBoedefeld - reveals Masquerade
+HvBoedefeld - places Masquerade in hand
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Masquerade
+HvBoedefeld - draws Silver, Copper
+HvBoedefeld - passes Copper
+Titandrake - passes Copper
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays 4 Copper, 2 Silver
+HvBoedefeld - buys Hunting Party
+HvBoedefeld - gains Hunting Party
+HvBoedefeld - draws Potion, Hunting Party, Squire, Copper, Hunting Party
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Hunting Party, Copper, Copper, Copper, Hunting Party
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Hunting Party, Copper, Copper, Copper, Estate, Copper
+Titandrake - reveals Beggar
+Titandrake - places Beggar in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Beggar
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Copper, Beggar, Beggar
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Copper, Beggar, Beggar, Copper
+Titandrake - reveals Copper, Copper, Copper, Copper, Estate, Copper, Copper, Copper, Estate, Estate, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Copper, Copper, Copper, Estate, Copper, Copper, Copper, Estate, Estate
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Copper, Beggar, Beggar, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Estate, Copper, Copper, Copper, Estate, Copper, Copper, Copper, Estate, Copper
+Titandrake - discards: Copper, Copper, Estate, Copper, Copper, Copper, Estate, Copper, Copper, Copper, Estate, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- HvBoedefeld: turn 10 ----------
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Potion, Hunting Party, Copper, Copper
+HvBoedefeld - reveals Copper, Alchemist
+HvBoedefeld - places Alchemist in hand
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Silver, Copper
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Squire
+HvBoedefeld - reveals hand: Potion, Copper, Copper, Silver, Copper, Squire
+HvBoedefeld - reveals Masquerade
+HvBoedefeld - places Masquerade in hand
+HvBoedefeld - plays Masquerade
+HvBoedefeld - draws Alchemist, Hunting Party
+HvBoedefeld - passes Copper
+Titandrake - passes Estate
+HvBoedefeld - trashes Estate
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Potion, Copper, Copper, Silver, Squire, Copper, Copper, Copper
+HvBoedefeld - reveals Hunting Party
+HvBoedefeld - places Hunting Party in hand
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Silver
+HvBoedefeld - reveals hand: Potion, Copper, Copper, Silver, Squire, Copper, Copper, Copper, Silver
+HvBoedefeld - reveals Copper
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 buys
+HvBoedefeld - plays 5 Copper, 2 Silver, 1 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - buys Gold
+HvBoedefeld - gains Gold
+HvBoedefeld - places Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Squire, Silver, Hunting Party
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - draws Copper, Copper, Estate, Beggar, Estate
+ 
+---------- HvBoedefeld: turn 11 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Squire, Copper
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Alchemist, Squire, Silver, Squire, Copper, Copper
+HvBoedefeld - reveals Silver, Hunting Party
+HvBoedefeld - places Hunting Party in hand
+HvBoedefeld - discards Silver
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Alchemist, Squire, Silver, Squire, Copper, Copper, Copper
+HvBoedefeld - reveals Copper, Masquerade
+HvBoedefeld - places Masquerade in hand
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Gold, Potion
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Masquerade
+HvBoedefeld - draws Copper, Hunting Party
+HvBoedefeld - passes Copper
+Titandrake - passes Estate
+HvBoedefeld - trashes Estate
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Hunting Party
+HvBoedefeld - reveals hand: Squire, Silver, Copper, Copper, Gold, Potion, Copper, Hunting Party
+HvBoedefeld - reveals Copper, Alchemist
+HvBoedefeld - places Alchemist in hand
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Squire, Silver, Copper, Copper, Gold, Potion, Copper, Alchemist, Copper
+HvBoedefeld - reveals Copper, Silver
+HvBoedefeld - discards: Copper, Silver
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Silver
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 buys
+HvBoedefeld - plays 5 Copper, 2 Silver, 1 Gold, 1 Potion
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - places Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Hunting Party, Hunting Party
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Beggar
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - plays 6 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- HvBoedefeld: turn 12 ----------
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Potion
+HvBoedefeld - reveals hand: Alchemist, Alchemist, Alchemist, Hunting Party, Potion
+HvBoedefeld - reveals Hunting Party, Alchemist, Copper
+HvBoedefeld - places Copper in hand
+HvBoedefeld - discards: Hunting Party, Alchemist
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Alchemist, Alchemist, Alchemist, Potion, Copper, Copper
+HvBoedefeld - reveals Silver
+HvBoedefeld - places Silver in hand
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Squire, Squire
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Hunting Party, Masquerade
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Alchemist, Potion, Copper, Copper, Silver, Squire, Squire, Masquerade, Copper
+HvBoedefeld - reveals Gold
+HvBoedefeld - places Gold in hand
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Silver, Silver
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Masquerade
+HvBoedefeld - draws Copper, Copper
+HvBoedefeld - passes Copper
+Titandrake - passes Estate
+HvBoedefeld - trashes Estate
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 buys
+HvBoedefeld - plays 4 Copper, 3 Silver, 1 Potion, 1 Gold
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - places Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Province
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Squire
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 5 Copper
+Titandrake - draws Copper, Beggar, Hunting Party, Copper, Hunting Party
+ 
+---------- HvBoedefeld: turn 13 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Silver, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Silver, Alchemist
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Copper, Potion
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Hunting Party, Silver
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Silver
+HvBoedefeld - reveals hand: Province, Squire, Silver, Copper, Silver, Copper, Potion, Silver, Silver
+HvBoedefeld - reveals Copper, Alchemist
+HvBoedefeld - places Alchemist in hand
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Gold, Hunting Party
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Masquerade
+HvBoedefeld - reveals hand: Province, Squire, Silver, Copper, Silver, Copper, Potion, Silver, Silver, Gold, Masquerade
+HvBoedefeld - reveals Copper, Province, Hunting Party
+HvBoedefeld - places Hunting Party in hand
+HvBoedefeld - discards: Copper, Province
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Hunting Party
+HvBoedefeld - reveals hand: Province, Silver, Copper, Silver, Copper, Potion, Silver, Silver, Gold, Masquerade, Hunting Party
+HvBoedefeld - reveals Squire
+HvBoedefeld - places Squire in hand
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Province, Silver, Copper, Silver, Copper, Potion, Silver, Silver, Gold, Masquerade, Squire, Copper
+HvBoedefeld - reveals Province, Copper
+HvBoedefeld - discards: Province, Copper
+HvBoedefeld - plays Masquerade
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Copper, Province
+HvBoedefeld - passes Copper
+Titandrake - passes Copper
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 buys
+HvBoedefeld - plays 4 Silver, 3 Copper, 1 Potion, 1 Gold
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Alchemist
+HvBoedefeld - gains Alchemist
+HvBoedefeld - buys Silver
+HvBoedefeld - gains Silver
+HvBoedefeld - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Copper, Beggar, Hunting Party, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - reveals Hunting Party, Copper, Hunting Party, Copper, Hunting Party, Hunting Party, Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Hunting Party, Copper, Hunting Party, Copper, Hunting Party, Hunting Party, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Beggar, Copper, Estate, Gold, Copper
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Beggar, Copper, Estate, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Copper, Beggar, Copper, Estate, Copper
+Titandrake - plays Beggar
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - plays 6 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Hunting Party, Hunting Party, Hunting Party, Copper
+ 
+---------- HvBoedefeld: turn 14 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Silver, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Hunting Party, Hunting Party
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Squire, Alchemist
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Silver, Silver
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Hunting Party, Province
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Silver, Province
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Copper
+HvBoedefeld - reveals hand: Silver, Copper, Hunting Party, Hunting Party, Squire, Silver, Silver, Province, Silver, Province, Copper
+HvBoedefeld - reveals Gold
+HvBoedefeld - places Gold in hand
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Squire
+HvBoedefeld - reveals hand: Silver, Copper, Hunting Party, Squire, Silver, Silver, Province, Silver, Province, Copper, Gold, Squire
+HvBoedefeld - reveals Silver, Copper, Masquerade
+HvBoedefeld - places Masquerade in hand
+HvBoedefeld - discards: Silver, Copper
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Masquerade
+HvBoedefeld - draws Hunting Party, Province
+HvBoedefeld - passes Copper
+Titandrake - passes Copper
+HvBoedefeld - trashes Copper
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Potion
+HvBoedefeld - reveals hand: Silver, Copper, Hunting Party, Squire, Silver, Silver, Province, Silver, Province, Gold, Province, Potion
+HvBoedefeld - shuffles deck
+HvBoedefeld - reveals Silver, Copper
+HvBoedefeld - discards: Silver, Copper
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Silver
+HvBoedefeld - reveals hand: Silver, Copper, Squire, Silver, Silver, Province, Silver, Province, Gold, Province, Potion, Silver
+HvBoedefeld - reveals Copper
+HvBoedefeld - discards Copper
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 buys
+HvBoedefeld - plays 5 Silver, 1 Copper, 1 Gold, 1 Potion
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - places Alchemist, Alchemist, Alchemist, Alchemist, Alchemist, Alchemist on top of deck
+HvBoedefeld - draws Alchemist, Alchemist, Alchemist, Alchemist, Alchemist
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Hunting Party, Hunting Party, Copper, Hunting Party
+Titandrake - reveals Copper, Copper, Copper, Copper, Beggar
+Titandrake - places Beggar in hand
+Titandrake - discards: Copper, Copper, Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Hunting Party, Hunting Party, Copper, Beggar, Copper
+Titandrake - reveals Hunting Party, Copper, Estate
+Titandrake - places Estate in hand
+Titandrake - discards: Hunting Party, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Hunting Party, Copper, Beggar, Copper, Estate, Copper
+Titandrake - reveals Estate, Copper, Beggar, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Estate, Copper, Beggar
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Copper, Beggar, Copper, Estate, Copper, Gold, Copper
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays 5 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper, Hunting Party, Copper
+ 
+---------- HvBoedefeld: turn 15 ----------
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Alchemist
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Province
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Squire, Hunting Party
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Province, Province
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Silver, Copper
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Hunting Party
+HvBoedefeld - reveals hand: Alchemist, Alchemist, Province, Squire, Province, Province, Silver, Copper, Hunting Party
+HvBoedefeld - reveals Hunting Party, Silver, Province, Silver, Gold
+HvBoedefeld - places Gold in hand
+HvBoedefeld - discards: Hunting Party, Silver, Province, Silver
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Province
+HvBoedefeld - reveals hand: Alchemist, Alchemist, Province, Squire, Province, Province, Silver, Copper, Gold, Province
+HvBoedefeld - reveals Masquerade
+HvBoedefeld - places Masquerade in hand
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Silver, Copper
+HvBoedefeld - plays Alchemist
+HvBoedefeld - draws Squire, Hunting Party
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Potion
+HvBoedefeld - reveals hand: Province, Squire, Province, Province, Silver, Copper, Gold, Province, Masquerade, Silver, Copper, Squire, Potion
+HvBoedefeld - shuffles deck
+HvBoedefeld - reveals Silver, Silver, Hunting Party
+HvBoedefeld - places Hunting Party in hand
+HvBoedefeld - discards: Silver, Silver
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 actions
+HvBoedefeld - plays Hunting Party
+HvBoedefeld - draws Silver
+HvBoedefeld - reveals hand: Province, Squire, Province, Province, Silver, Copper, Gold, Province, Masquerade, Silver, Copper, Potion, Silver
+HvBoedefeld - shuffles deck
+HvBoedefeld - reveals Province, Silver, Silver
+HvBoedefeld - discards: Province, Silver, Silver
+HvBoedefeld - plays Masquerade
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Silver, Province
+HvBoedefeld - passes Potion
+Titandrake - passes Copper
+HvBoedefeld - plays Squire
+HvBoedefeld - takes 2 buys
+HvBoedefeld - plays 4 Silver, 3 Copper, 1 Gold
+HvBoedefeld - buys Province
+HvBoedefeld - gains Province
+HvBoedefeld - buys Duchy
+HvBoedefeld - gains Duchy
+HvBoedefeld - buys Estate
+HvBoedefeld - gains Estate
+HvBoedefeld - draws Silver
+HvBoedefeld - shuffles deck
+HvBoedefeld - draws Province, Province, Masquerade, Alchemist
+ 
+------------ Game Over ------------
+HvBoedefeld - cards: 6 Alchemist, 4 Hunting Party, 2 Squire, 1 Masquerade, 5 Silver, 3 Copper, 1 Gold, 6 Province, 1 Estate, 1 Duchy
+HvBoedefeld - total victory points: 40
+HvBoedefeld - turns: 15
+ 
+Titandrake - cards: 6 Hunting Party, 22 Copper, 2 Beggar, 1 Potion, 1 Gold, 2 Estate, 2 Province
+Titandrake - total victory points: 14
+Titandrake - turns: 14
+ 
+1st place: HvBoedefeld
+2nd place: Titandrake
+ 

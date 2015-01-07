@@ -1,0 +1,523 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Embargo, Herbalist, Chancellor, Fishing Village, Armory, Herald, Duke, Mountebank, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+frankdom - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays 5 Copper
+frankdom - buys Mountebank
+frankdom - gains Mountebank
+frankdom - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays 2 Copper
+frankdom - buys Embargo
+frankdom - gains Embargo
+frankdom - shuffles deck
+frankdom - draws Copper, Copper, Copper, Mountebank, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Fishing Village, Copper, Copper
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+frankdom - plays 3 Copper
+frankdom - buys Mountebank
+frankdom - gains Mountebank
+frankdom - draws Embargo, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- frankdom: turn 4 ----------
+frankdom - plays Embargo
+frankdom - embargoes Mountebank
+frankdom - trashes Embargo
+frankdom - plays 3 Copper
+frankdom - buys Herald
+frankdom - overpays for Herald with 1 coin
+frankdom - places Mountebank on top of deck
+frankdom - gains Herald
+frankdom - draws Mountebank, Copper, Estate
+frankdom - shuffles deck
+frankdom - draws Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Curse
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Mountebank
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+frankdom - plays 2 Copper
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Mountebank
+frankdom - gains Curse
+frankdom - gains Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Fishing Village, Silver, Copper, Estate, Copper
+ 
+---------- frankdom: turn 6 ----------
+frankdom - plays 4 Copper
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Mountebank, Copper, Herald
+frankdom - shuffles deck
+frankdom - draws Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 1 coin
+Titandrake - places Mountebank on top of deck
+Titandrake - gains Herald
+Titandrake - draws Mountebank, Copper, Curse, Copper, Copper
+ 
+---------- frankdom: turn 7 ----------
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Mountebank
+frankdom - plays Mountebank
+Titandrake - discards Curse
+frankdom - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+frankdom - plays 3 Copper
+frankdom - buys Gold
+frankdom - gains Gold
+frankdom - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Mountebank
+frankdom - gains Curse
+frankdom - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Herald, Curse
+ 
+---------- frankdom: turn 8 ----------
+frankdom - plays 3 Copper
+frankdom - buys Fishing Village
+frankdom - gains Fishing Village
+frankdom - draws Curse, Copper, Herald, Herald, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Estate, Curse, Curse, Copper, Estate
+ 
+---------- frankdom: turn 9 ----------
+frankdom - plays Herald
+frankdom - shuffles deck
+frankdom - draws Herald
+frankdom - reveals: Curse
+frankdom - places Curse on top of deck
+frankdom - plays Herald
+frankdom - draws Curse
+frankdom - reveals: Estate
+frankdom - places Estate on top of deck
+frankdom - plays Herald
+frankdom - draws Estate
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays 2 Copper
+frankdom - buys Embargo
+frankdom - gains Embargo
+frankdom - draws Copper, Fishing Village, Copper, Estate, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - draws Mountebank, Copper, Copper, Copper, Gold
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays Fishing Village
+frankdom - plays 2 Copper, 1 Gold
+frankdom - buys Gold
+frankdom - gains Gold
+frankdom - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mountebank
+frankdom - gains Curse
+frankdom - gains Copper
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Copper, Silver, Gold
+ 
+---------- frankdom: turn 11 ----------
+frankdom - duration Fishing Village
+frankdom - plays 4 Copper
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - draws Copper, Mountebank, Mountebank
+frankdom - shuffles deck
+frankdom - draws Copper, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Fishing Village, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Gold
+ 
+---------- frankdom: turn 12 ----------
+frankdom - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+frankdom - plays 2 Copper
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Copper, Gold, Copper, Curse, Fishing Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Curse, Estate, Copper
+ 
+---------- frankdom: turn 13 ----------
+frankdom - plays Fishing Village
+frankdom - plays 2 Copper, 1 Gold
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - draws Herald, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Mountebank, Herald, Province, Copper
+ 
+---------- frankdom: turn 14 ----------
+frankdom - duration Fishing Village
+frankdom - plays Herald
+frankdom - draws Embargo
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Curse
+frankdom - places Curse on top of deck
+frankdom - plays Embargo
+frankdom - embargoes Province
+frankdom - trashes Embargo
+frankdom - plays 4 Copper
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - draws Curse, Estate, Estate, Copper, Herald
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Herald
+Titandrake - draws Embargo
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Mountebank
+frankdom - discards Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Province, Curse, Copper, Estate
+ 
+---------- frankdom: turn 15 ----------
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Duchy
+frankdom - places Duchy on top of deck
+frankdom - plays 2 Copper
+frankdom - buys Embargo
+frankdom - gains Embargo
+frankdom - draws Duchy, Gold
+frankdom - shuffles deck
+frankdom - draws Estate, Copper, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Copper, Curse, Curse, Gold
+ 
+---------- frankdom: turn 16 ----------
+frankdom - plays 1 Gold, 1 Copper
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Copper, Fishing Village, Mountebank, Copper, Herald
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Silver, Duchy
+ 
+---------- frankdom: turn 17 ----------
+frankdom - plays Fishing Village
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+frankdom - plays 3 Copper
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - draws Copper, Embargo, Curse, Copper, Herald
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Curse
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper, Curse, Gold
+ 
+---------- frankdom: turn 18 ----------
+frankdom - duration Fishing Village
+frankdom - plays Herald
+frankdom - draws Gold
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Embargo
+frankdom - embargoes Province
+frankdom - trashes Embargo
+frankdom - plays 2 Copper, 1 Gold
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Copper, Copper, Duchy, Herald, Mountebank
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Copper, Embargo, Herald, Copper
+ 
+---------- frankdom: turn 19 ----------
+frankdom - plays Herald
+frankdom - draws Curse
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Mountebank
+Titandrake - gains Copper
+frankdom - plays 2 Copper
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Copper, Herald, Copper, Curse, Duchy
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Herald
+Titandrake - draws Duchy
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - plays Embargo
+Titandrake - embargoes Mountebank
+Titandrake - trashes Embargo
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Province, Curse, Copper, Copper
+ 
+---------- frankdom: turn 20 ----------
+frankdom - plays Herald
+frankdom - draws Estate
+frankdom - shuffles deck
+frankdom - reveals: Gold
+frankdom - places Gold on top of deck
+frankdom - plays 2 Copper
+frankdom - buys Estate
+frankdom - gains Estate
+frankdom - draws Gold, Copper, Copper, Duchy, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Fishing Village, Curse, Estate, Copper
+ 
+---------- frankdom: turn 21 ----------
+frankdom - plays 2 Copper, 1 Gold
+frankdom - buys Duke
+frankdom - gains Duke
+frankdom - draws Mountebank, Copper, Herald, Copper, Estate
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Mountebank, Estate, Province, Silver, Curse
+ 
+---------- frankdom: turn 22 ----------
+frankdom - plays Herald
+frankdom - draws Herald
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Mountebank
+Titandrake - discards Curse
+frankdom - plays 3 Copper
+frankdom - buys Duke
+frankdom - gains Duke
+frankdom - draws Copper, Copper, Gold, Curse, Mountebank
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Mountebank
+frankdom - discards Curse
+Titandrake - plays Silver
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Copper, Estate, Embargo
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- frankdom: turn 23 ----------
+frankdom - plays Mountebank
+Titandrake - gains Copper
+frankdom - plays 2 Copper, 1 Gold
+frankdom - buys Duke
+frankdom - gains Duke
+frankdom - draws Duchy, Estate, Curse, Copper, Herald
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Duke
+Titandrake - trashes Embargo
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Duchy, Curse, Copper, Curse, Copper
+ 
+---------- frankdom: turn 24 ----------
+frankdom - plays Herald
+frankdom - draws Fishing Village
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - draws Duchy
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - shuffles deck
+frankdom - draws Herald
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Fishing Village
+frankdom - plays 2 Copper
+frankdom - buys Estate
+frankdom - gains Estate
+frankdom - draws Copper, Estate, Gold, Duke, Copper
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse, Estate, Copper, Estate, Gold
+ 
+---------- frankdom: turn 25 ----------
+frankdom - duration Fishing Village
+frankdom - plays 2 Copper, 1 Gold
+frankdom - buys Duke
+frankdom - gains Duke
+frankdom - draws Copper, Curse, Duke, Mountebank, Estate
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Herald, Copper, Estate, Province
+ 
+---------- frankdom: turn 26 ----------
+frankdom - plays Mountebank
+Titandrake - gains Copper
+frankdom - plays 1 Copper
+frankdom - buys Fishing Village
+frankdom - gains Fishing Village
+frankdom - draws Duchy, Mountebank, Copper, Province, Copper
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Province
+Titandrake - places Province on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Gold, Copper, Curse, Silver
+ 
+---------- frankdom: turn 27 ----------
+frankdom - plays Mountebank
+Titandrake - discards Curse
+frankdom - plays 2 Copper
+frankdom - buys Fishing Village
+frankdom - gains Fishing Village
+frankdom - draws Estate, Copper, Herald, Copper, Herald
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Duchy, Mountebank, Curse, Copper, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 15 Copper, 1 Mountebank, 1 Herald, 1 Fishing Village, 3 Silver, 3 Gold, 9 Estate, 4 Duchy, 3 Province, 2 Duke, 7 Curse
+Titandrake - total victory points: 40
+Titandrake - turns: 27
+ 
+frankdom - cards: 6 Herald, 3 Fishing Village, 2 Mountebank, 10 Copper, 2 Gold, 5 Estate, 4 Duchy, 4 Duke, 1 Province, 3 Curse
+frankdom - total victory points: 36
+frankdom - turns: 27
+ 
+1st place: Titandrake
+2nd place: frankdom
+ 

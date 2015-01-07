@@ -1,0 +1,430 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Scheme, Smugglers, Ironworks, Moneylender, Scout, Talisman, Tournament, Bazaar, Mountebank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+florrat - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+florrat - shuffles deck
+Titandrake - shuffles deck
+florrat - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- florrat: turn 1 ----------
+florrat - plays 3 Copper
+florrat - buys Smugglers
+florrat - gains Smugglers
+florrat - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- florrat: turn 2 ----------
+florrat - plays 4 Copper
+florrat - buys Moneylender
+florrat - gains Moneylender
+florrat - shuffles deck
+florrat - draws Smugglers, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - draws Copper, Copper, Silver, Estate, Estate
+ 
+---------- florrat: turn 3 ----------
+florrat - plays Smugglers
+florrat - gains Ironworks
+florrat - plays 3 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Moneylender, Copper
+Titandrake - shuffles deck
+Titandrake - draws Ironworks, Copper, Copper
+ 
+---------- florrat: turn 4 ----------
+florrat - plays 3 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Moneylender, Copper
+florrat - shuffles deck
+florrat - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Tournament
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- florrat: turn 5 ----------
+florrat - plays Moneylender
+florrat - trashes Copper
+florrat - plays 2 Copper, 1 Silver
+florrat - buys Gold
+florrat - gains Gold
+florrat - draws Estate, Smugglers, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Estate, Estate, Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- florrat: turn 6 ----------
+florrat - plays Smugglers
+florrat - gains Mountebank
+florrat - draws Copper, Copper, Ironworks, Copper, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Tournament
+Titandrake - draws Mountebank
+Titandrake - plays Mountebank
+florrat - gains Curse
+florrat - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - draws Estate, Copper, Copper, Mountebank, Copper
+ 
+---------- florrat: turn 7 ----------
+florrat - plays Ironworks
+florrat - gains Tournament
+florrat - plays 3 Copper, 1 Silver
+florrat - buys Bazaar
+florrat - gains Bazaar
+florrat - shuffles deck
+florrat - draws Copper, Silver, Copper, Moneylender, Tournament
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Mountebank
+florrat - gains Curse
+florrat - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - draws Tournament, Moneylender, Silver, Copper, Ironworks
+ 
+---------- florrat: turn 8 ----------
+florrat - plays Tournament
+florrat - draws Silver
+florrat - plays Moneylender
+florrat - trashes Copper
+florrat - plays 2 Silver, 1 Copper
+florrat - buys Province
+florrat - gains Province
+florrat - draws Mountebank, Curse, Estate, Estate, Ironworks
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Tournament
+Titandrake - plays Tournament
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Mountebank, Estate, Bazaar
+ 
+---------- florrat: turn 9 ----------
+florrat - plays Ironworks
+florrat - gains Tournament
+florrat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+florrat - buys Courtyard
+florrat - gains Courtyard
+florrat - draws Gold, Smugglers, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Mountebank
+florrat - gains Curse
+florrat - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Tournament, Mountebank, Copper, Copper, Bazaar
+ 
+---------- florrat: turn 10 ----------
+florrat - plays Smugglers
+florrat - gains Gold
+florrat - plays 3 Copper, 1 Gold
+florrat - buys Gold
+florrat - gains Gold
+florrat - draws Copper, Copper, Bazaar, Estate
+florrat - shuffles deck
+florrat - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Mountebank
+florrat - gains Curse
+florrat - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Estate, Silver, Tournament
+ 
+---------- florrat: turn 11 ----------
+florrat - plays Bazaar
+florrat - draws Mountebank
+florrat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+florrat - plays 3 Copper
+florrat - buys Gold
+florrat - gains Gold
+florrat - draws Copper, Curse, Tournament, Moneylender, Tournament
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - draws Copper, Curse, Mountebank, Gold, Bazaar
+ 
+---------- florrat: turn 12 ----------
+florrat - plays Tournament
+florrat - draws Copper
+florrat - plays Tournament
+florrat - draws Copper
+florrat - plays Moneylender
+florrat - trashes Copper
+florrat - plays 2 Copper
+florrat - buys Gold
+florrat - gains Gold
+florrat - draws Smugglers, Copper, Province, Gold, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+florrat - reveals Province
+Titandrake - plays Mountebank
+florrat - gains Curse
+florrat - gains Copper
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Moneylender, Gold, Ironworks
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- florrat: turn 13 ----------
+florrat - plays Smugglers
+florrat - gains Gold
+florrat - plays 1 Copper, 1 Gold, 1 Silver
+florrat - buys Gold
+florrat - gains Gold
+florrat - draws Ironworks, Estate, Gold, Gold, Courtyard
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Tournament
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Bazaar, Estate, Gold, Mountebank
+ 
+---------- florrat: turn 14 ----------
+florrat - plays Ironworks
+florrat - gains Tournament
+florrat - plays Courtyard
+florrat - draws Curse, Silver, Estate
+florrat - places Curse on top of deck
+florrat - plays 2 Gold, 1 Silver
+florrat - buys Province
+florrat - gains Province
+florrat - draws Curse, Curse, Copper
+florrat - shuffles deck
+florrat - draws Copper, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Copper
+Titandrake - plays Mountebank
+florrat - discards Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Curse, Tournament, Gold, Estate
+ 
+---------- florrat: turn 15 ----------
+florrat - plays 2 Copper, 1 Gold
+florrat - buys Duchy
+florrat - gains Duchy
+florrat - draws Estate, Bazaar, Province, Gold, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Tournament
+florrat - reveals Province
+Titandrake - plays Gold
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Mountebank, Bazaar, Estate, Tournament, Copper
+ 
+---------- florrat: turn 16 ----------
+florrat - plays Bazaar
+florrat - draws Province
+florrat - plays 2 Gold
+florrat - buys Duchy
+florrat - gains Duchy
+florrat - draws Ironworks, Gold, Copper, Gold, Mountebank
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Curse
+Titandrake - plays Mountebank
+florrat - gains Curse
+florrat - gains Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Bazaar, Copper, Gold
+Titandrake - shuffles deck
+Titandrake - draws Bazaar, Estate
+ 
+---------- florrat: turn 17 ----------
+florrat - plays Ironworks
+florrat - gains Tournament
+florrat - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+florrat - plays 2 Gold, 1 Copper
+florrat - buys Province
+florrat - gains Province
+florrat - draws Copper, Curse, Courtyard, Curse, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Gold
+Titandrake - plays Bazaar
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Curse, Moneylender, Tournament, Ironworks
+ 
+---------- florrat: turn 18 ----------
+florrat - plays Courtyard
+florrat - draws Silver, Gold, Silver
+florrat - places Copper on top of deck
+florrat - plays 2 Silver, 1 Copper, 1 Gold
+florrat - buys Province
+florrat - gains Province
+florrat - draws Copper, Moneylender, Tournament, Tournament, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Tournament
+Titandrake - draws Mountebank
+Titandrake - plays Ironworks
+Titandrake - gains Scheme
+Titandrake - plays Mountebank
+florrat - gains Curse
+florrat - gains Copper
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Courtyard, Copper, Bazaar, Province
+ 
+---------- florrat: turn 19 ----------
+florrat - plays Tournament
+Titandrake - reveals Province
+florrat - plays Moneylender
+florrat - trashes Copper
+florrat - buys Estate
+florrat - gains Estate
+florrat - draws Copper, Curse, Copper, Copper, Smugglers
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Curse
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Estate, Tournament
+Titandrake - places Province on top of deck
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - draws Princess
+Titandrake - plays Princess
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Gold, Tournament, Copper, Silver
+ 
+---------- florrat: turn 20 ----------
+florrat - plays Smugglers
+florrat - gains Duchy
+florrat - plays 3 Copper
+florrat - buys Estate
+florrat - gains Estate
+florrat - draws Copper, Estate, Gold, Tournament
+florrat - shuffles deck
+florrat - draws Duchy
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Trusty Steed
+Titandrake - draws Trusty Steed
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 coins
+Titandrake - draws Duchy, Tournament
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Estate, Mountebank
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Tournament
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Tournament, 3 Bazaar, 2 Mountebank, 1 Princess, 1 Courtyard, 1 Ironworks, 1 Trusty Steed, 1 Scheme, 1 Moneylender, 7 Copper, 4 Gold, 1 Silver, 4 Estate, 4 Province, 3 Duchy, 3 Curse
+Titandrake - total victory points: 34
+Titandrake - turns: 21
+ 
+florrat - cards: 4 Tournament, 10 Copper, 1 Mountebank, 1 Bazaar, 1 Moneylender, 1 Smugglers, 1 Courtyard, 1 Ironworks, 7 Gold, 2 Silver, 5 Estate, 4 Province, 3 Duchy, 7 Curse
+florrat - total victory points: 31
+florrat - turns: 20
+ 
+1st place: Titandrake
+2nd place: florrat
+ 

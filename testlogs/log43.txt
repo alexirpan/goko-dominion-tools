@@ -1,0 +1,427 @@
+------------ Game Setup ------------
+Supply cards: Village, Alchemist, Feast, Herald, Mining Village, Contraband, Cultist, Embassy, Market, Merchant Guild, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+Titandrake - shuffles deck
+Gherald - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 4 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Feast
+Titandrake - gains Feast
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Copper, Estate, Feast
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 3 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Feast
+Titandrake - trashes Feast
+Titandrake - gains Cultist
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays 4 Copper
+Gherald - buys Herald
+Gherald - gains Herald
+Gherald - draws Silver, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Cultist, Copper
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays 2 Silver, 2 Copper
+Gherald - buys Cultist
+Gherald - gains Cultist
+Gherald - draws Estate, Copper
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Copper
+Gherald - gains Ruined Village
+Titandrake - plays 4 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Copper, Copper, Estate, Cultist, Silver
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Cultist
+Gherald - gains Cultist
+Gherald - draws Copper, Herald, Cultist, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Village
+Gherald - gains Ruined Library
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Herald, Cultist, Copper
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Herald
+Gherald - draws Silver
+Gherald - reveals: Copper
+Gherald - places Copper on top of deck
+Gherald - plays Cultist
+Gherald - draws Copper, Copper
+Titandrake - gains Survivors
+Gherald - plays 4 Copper, 1 Silver
+Gherald - buys Cultist
+Gherald - gains Cultist
+Gherald - draws Estate
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Ruined Village, Ruined Library
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Cultist
+Titandrake - draws Estate, Estate
+Gherald - gains Abandoned Mine
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Ruined Library
+Gherald - draws Copper
+Gherald - plays 3 Copper
+Gherald - buys Village
+Gherald - gains Village
+Gherald - draws Copper, Cultist, Estate, Cultist, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Village, Cultist, Cultist
+Titandrake - shuffles deck
+Titandrake - draws Survivors, Copper
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Cultist
+Gherald - draws Estate, Copper
+Titandrake - gains Abandoned Mine
+Gherald - plays Cultist
+Gherald - draws Herald, Copper
+Titandrake - gains Ruined Library
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Cultist
+Gherald - gains Cultist
+Gherald - draws Cultist, Copper, Silver
+Gherald - shuffles deck
+Gherald - draws Ruined Library, Herald
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Village
+Titandrake - draws Estate
+Titandrake - plays Cultist
+Titandrake - draws Copper, Herald
+Gherald - gains Ruined Village
+Titandrake - plays Cultist
+Titandrake - draws Copper, Copper
+Gherald - gains Survivors
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Survivors
+Titandrake - looks at Silver, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Silver, Copper, Cultist, Herald, Copper
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Herald
+Gherald - draws Abandoned Mine
+Gherald - reveals: Estate
+Gherald - places Estate on top of deck
+Gherald - plays Cultist
+Gherald - draws Estate, Copper
+Titandrake - gains Ruined Market
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Herald
+Gherald - gains Herald
+Gherald - draws Silver, Copper, Cultist, Estate, Ruined Village
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cultist
+Titandrake - draws Cultist, Copper
+Gherald - gains Ruined Library
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Ruined Library, Silver, Copper, Estate
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Cultist
+Gherald - draws Cultist, Copper
+Gherald - plays Cultist
+Gherald - draws Cultist, Estate
+Gherald - plays Cultist
+Gherald - draws Village, Copper
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Herald
+Gherald - overpays for Herald with 1 coin
+Gherald - places Herald on top of deck
+Gherald - gains Herald
+Gherald - draws Herald, Copper, Copper
+Gherald - shuffles deck
+Gherald - draws Cultist, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ruined Library
+Titandrake - draws Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Cultist, Market, Copper, Cultist, Copper
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Herald
+Gherald - draws Ruined Library
+Gherald - reveals: Silver
+Gherald - places Silver on top of deck
+Gherald - plays Cultist
+Gherald - draws Silver, Silver
+Gherald - plays 2 Copper, 2 Silver
+Gherald - buys Market
+Gherald - gains Market
+Gherald - draws Abandoned Mine, Estate, Ruined Library, Cultist, Ruined Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Cultist
+Titandrake - draws Herald, Cultist
+Titandrake - plays Cultist
+Titandrake - draws Ruined Market, Herald
+Titandrake - plays Cultist
+Titandrake - draws Cultist, Copper
+Titandrake - plays Cultist
+Titandrake - draws Copper, Village
+Titandrake - plays 5 Copper
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 2 coins
+Titandrake - places Silver on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - gains Herald
+Titandrake - draws Silver, Silver, Herald, Survivors, Abandoned Mine
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Cultist
+Gherald - draws Estate, Copper
+Gherald - draws Copper, Cultist, Copper, Herald, Cultist
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Survivors
+Titandrake - looks at Copper, Copper
+Titandrake - discards: Copper, Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Cultist, Market, Estate, Herald, Ruined Market
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Herald
+Gherald - draws Copper
+Gherald - reveals: Copper
+Gherald - places Copper on top of deck
+Gherald - plays Cultist
+Gherald - draws Copper, Survivors
+Gherald - plays Cultist
+Gherald - draws Village, Herald
+Gherald - plays 4 Copper
+Gherald - buys Herald
+Gherald - gains Herald
+Gherald - draws Ruined Village
+Gherald - shuffles deck
+Gherald - draws Herald, Copper, Herald, Herald
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Market
+Titandrake - draws Herald
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Village
+Titandrake - plays Village
+Titandrake - draws Herald
+Titandrake - plays Herald
+Titandrake - draws Cultist
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Cultist
+Titandrake - plays Cultist
+Titandrake - draws Copper, Cultist
+Titandrake - plays Cultist
+Titandrake - draws Copper, Ruined Library
+Titandrake - plays Cultist
+Titandrake - draws Copper, Estate
+Titandrake - plays Cultist
+Titandrake - shuffles deck
+Titandrake - draws Market, Abandoned Mine
+Titandrake - plays Ruined Library
+Titandrake - draws Survivors
+Titandrake - plays Survivors
+Titandrake - looks at Copper, Silver
+Titandrake - discards: Copper, Silver
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Abandoned Mine
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Herald, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Herald
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Herald
+Gherald - draws Cultist
+Gherald - reveals: Silver
+Gherald - places Silver on top of deck
+Gherald - plays Herald
+Gherald - draws Silver
+Gherald - reveals: Silver
+Gherald - places Silver on top of deck
+Gherald - plays Herald
+Gherald - draws Silver
+Gherald - reveals: Cultist
+Gherald - plays Cultist
+Gherald - draws Village, Copper
+Gherald - plays Cultist
+Gherald - draws Cultist, Survivors
+Gherald - plays Cultist
+Gherald - draws Ruined Library, Copper
+Gherald - plays Village
+Gherald - draws Copper
+Gherald - plays Ruined Library
+Gherald - draws Estate
+Gherald - plays Ruined Village
+Gherald - plays Survivors
+Gherald - looks at Estate, Copper
+Gherald - discards: Estate, Copper
+Gherald - plays 4 Copper, 2 Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Copper, Ruined Library, Estate, Cultist, Market
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Cultist
+Titandrake - plays Cultist
+Titandrake - draws Herald, Village
+Titandrake - plays Herald
+Titandrake - draws Market
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Cultist
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Village
+Titandrake - draws Estate
+Titandrake - plays Market
+Titandrake - draws Cultist
+Titandrake - plays Cultist
+Titandrake - draws Abandoned Mine, Market
+Titandrake - plays Cultist
+Titandrake - draws Copper, Survivors
+Titandrake - plays Market
+Titandrake - draws Cultist
+Titandrake - plays Cultist
+Titandrake - draws Ruined Library, Ruined Market
+Titandrake - plays Survivors
+Titandrake - looks at Estate, Silver
+Titandrake - discards: Estate, Silver
+Titandrake - plays 6 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Market, Silver, Herald, Copper, Estate
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Market
+Gherald - draws Herald
+Gherald - plays Herald
+Gherald - draws Copper
+Gherald - reveals: Ruined Village
+Gherald - plays Ruined Village
+Gherald - plays Cultist
+Gherald - draws Abandoned Mine
+Gherald - shuffles deck
+Gherald - draws Copper
+Gherald - plays Abandoned Mine
+Gherald - plays 3 Copper
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Copper, Ruined Library, Copper, Ruined Village, Province
+ 
+---------- Titandrake: turn 16 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Herald, 4 Cultist, 3 Market, 1 Village, 1 Survivors, 1 Abandoned Mine, 1 Ruined Library, 1 Ruined Market, 7 Copper, 2 Silver, 3 Estate, 1 Province
+Titandrake - total victory points: 9
+Titandrake - turns: 15
+ 
+Gherald - resigned
+Gherald - cards: 4 Herald, 4 Cultist, 2 Ruined Library, 2 Ruined Village, 1 Market, 1 Abandoned Mine, 1 Village, 1 Survivors, 7 Copper, 2 Silver, 3 Estate, 1 Province, 1 Duchy
+Gherald - total victory points: 12
+Gherald - turns: 15
+ 
+1st place: Titandrake
+2nd place: Gherald
+ 

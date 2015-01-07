@@ -1,0 +1,360 @@
+------------ Game Setup ------------
+Supply cards: Moat, University, Chancellor, Bridge, Feast, Island, Remake, Young Witch, Graverobber, Laboratory, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Moat
+Rating system: pro
+DG - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+DG - shuffles deck
+Titandrake - shuffles deck
+DG - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- DG: turn 1 ----------
+DG - plays 3 Copper
+DG - buys Silver
+DG - gains Silver
+DG - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- DG: turn 2 ----------
+DG - plays 4 Copper
+DG - buys Remake
+DG - gains Remake
+DG - shuffles deck
+DG - draws Remake, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- DG: turn 3 ----------
+DG - plays Remake
+DG - trashes Estate
+DG - gains Silver
+DG - trashes Estate
+DG - gains Silver
+DG - plays 2 Copper
+DG - buys Moat
+DG - gains Moat
+DG - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Moat
+Titandrake - gains Moat
+Titandrake - draws Copper, Copper, Remake, Copper, Copper
+ 
+---------- DG: turn 4 ----------
+DG - plays 4 Copper
+DG - buys Potion
+DG - gains Potion
+DG - draws Silver, Copper
+DG - shuffles deck
+DG - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Remake, Copper, Copper, Estate
+ 
+---------- DG: turn 5 ----------
+DG - plays 4 Copper, 1 Silver
+DG - buys Laboratory
+DG - gains Laboratory
+DG - draws Remake, Estate, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Estate, Copper, Moat
+ 
+---------- DG: turn 6 ----------
+DG - plays Remake
+DG - trashes Copper
+DG - trashes Estate
+DG - gains Silver
+DG - plays 2 Silver
+DG - buys Remake
+DG - gains Remake
+DG - draws Moat, Copper, Potion, Copper
+DG - shuffles deck
+DG - draws Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Moat
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Remake
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Potion
+ 
+---------- DG: turn 7 ----------
+DG - plays 2 Copper, 1 Potion, 1 Silver
+DG - buys University
+DG - gains University
+DG - draws Silver, Remake, Copper, Remake, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Estate, Copper, Estate, Copper, Moat
+ 
+---------- DG: turn 8 ----------
+DG - plays Remake
+DG - trashes Remake
+DG - gains Laboratory
+DG - trashes Copper
+DG - draws Copper, Silver, Laboratory, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Moat
+Titandrake - shuffles deck
+Titandrake - draws Potion, Silver
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Remake, University
+Titandrake - shuffles deck
+Titandrake - draws Potion, Copper, Moat
+ 
+---------- DG: turn 9 ----------
+DG - plays Laboratory
+DG - shuffles deck
+DG - draws Potion, Copper
+DG - plays 3 Copper, 2 Silver, 1 Potion
+DG - buys University
+DG - gains University
+DG - draws Copper, Copper, University, Silver, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays University
+Titandrake - gains Laboratory
+Titandrake - plays Moat
+Titandrake - draws Silver, Estate
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 1 Potion, 1 Silver
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws University, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Laboratory, University
+ 
+---------- DG: turn 10 ----------
+DG - plays University
+DG - gains Laboratory
+DG - plays 2 Copper, 2 Silver
+DG - buys Laboratory
+DG - gains Laboratory
+DG - draws Remake, Moat, Laboratory
+DG - shuffles deck
+DG - draws Copper, Laboratory
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Silver, Moat
+Titandrake - plays University
+Titandrake - gains Laboratory
+Titandrake - plays Moat
+Titandrake - draws Potion, Remake
+Titandrake - plays University
+Titandrake - gains Laboratory
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Silver, University
+Titandrake - shuffles deck
+Titandrake - draws Silver, University, University
+ 
+---------- DG: turn 11 ----------
+DG - plays Laboratory
+DG - draws Copper, Potion
+DG - plays Laboratory
+DG - draws Silver, Silver
+DG - plays Remake
+DG - trashes Copper
+DG - trashes Copper
+DG - plays 2 Silver, 1 Potion
+DG - buys University
+DG - gains University
+DG - draws Copper, Silver, Copper, Silver, University
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays University
+Titandrake - gains Laboratory
+Titandrake - plays University
+Titandrake - gains Laboratory
+Titandrake - plays University
+Titandrake - gains Laboratory
+Titandrake - plays 2 Silver
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Remake, Silver, Potion, University, Laboratory
+ 
+---------- DG: turn 12 ----------
+DG - plays University
+DG - gains Graverobber
+DG - plays 2 Copper, 2 Silver
+DG - buys Graverobber
+DG - gains Graverobber
+DG - draws University, Copper, Laboratory, Laboratory
+DG - shuffles deck
+DG - draws Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Laboratory, Laboratory
+Titandrake - plays Laboratory
+Titandrake - draws Moat
+Titandrake - shuffles deck
+Titandrake - draws University
+Titandrake - plays Laboratory
+Titandrake - draws Silver, University
+Titandrake - plays University
+Titandrake - gains Graverobber
+Titandrake - plays Moat
+Titandrake - draws University, Bridge
+Titandrake - plays University
+Titandrake - plays Bridge
+Titandrake - plays University
+Titandrake - gains Nobles
+Titandrake - plays University
+Titandrake - gains Nobles
+Titandrake - plays Remake
+Titandrake - trashes Potion
+Titandrake - gains Graverobber
+Titandrake - trashes Silver
+Titandrake - gains Bridge
+Titandrake - draws Silver, Laboratory, Laboratory, Laboratory
+Titandrake - shuffles deck
+Titandrake - draws University
+ 
+---------- DG: turn 13 ----------
+DG - plays Laboratory
+DG - draws University, Remake
+DG - plays Laboratory
+DG - draws Laboratory, Laboratory
+DG - plays Laboratory
+DG - draws Graverobber, Silver
+DG - plays Laboratory
+DG - draws Silver, Moat
+DG - plays University
+DG - gains Bridge
+DG - plays Moat
+DG - draws Silver, Graverobber
+DG - plays University
+DG - gains Bridge
+DG - plays Remake
+DG - trashes Copper
+DG - trashes Copper
+DG - plays Graverobber
+DG - trashes Graverobber
+DG - gains Province
+DG - plays 3 Silver
+DG - buys Feast
+DG - gains Feast
+DG - draws University, Silver, Potion, Copper
+DG - shuffles deck
+DG - draws Laboratory
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Bridge, Laboratory
+Titandrake - plays Laboratory
+Titandrake - draws Bridge, Moat
+Titandrake - plays Laboratory
+Titandrake - draws Nobles, University
+Titandrake - plays Laboratory
+Titandrake - draws Remake, Silver
+Titandrake - plays University
+Titandrake - gains Graverobber
+Titandrake - plays Bridge
+Titandrake - plays University
+Titandrake - gains Nobles
+Titandrake - plays Moat
+Titandrake - draws Graverobber, University
+Titandrake - plays University
+Titandrake - gains Nobles
+Titandrake - plays Nobles
+Titandrake - draws University, Nobles, Laboratory
+Titandrake - plays University
+Titandrake - gains Nobles
+Titandrake - plays Laboratory
+Titandrake - draws Graverobber, Laboratory
+Titandrake - plays Laboratory
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Nobles
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Graverobber
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Remake
+Titandrake - trashes Graverobber
+Titandrake - gains Nobles
+Titandrake - trashes Graverobber
+Titandrake - gains Nobles
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Nobles
+Titandrake - plays Bridge
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws University, Nobles, Nobles, Laboratory, University
+ 
+---------- DG: turn 14 ----------
+DG - plays Laboratory
+DG - draws Feast, University
+DG - plays University
+DG - gains Island
+DG - plays University
+DG - gains Island
+DG - plays Feast
+DG - trashes Feast
+DG - gains Island
+DG - plays 1 Silver, 1 Potion, 1 Copper
+DG - buys University
+DG - gains University
+DG - draws Graverobber, Laboratory, Bridge, Silver, Remake
+ 
+---------- Titandrake: turn 14 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Nobles, 6 Laboratory, 4 University, 2 Bridge, 1 Graverobber, 1 Moat, 1 Remake, 2 Silver, 1 Province
+Titandrake - total victory points: 20
+Titandrake - turns: 13
+ 
+DG - resigned
+DG - cards: 4 Laboratory, 4 University, 3 Island, 2 Bridge, 1 Graverobber, 1 Remake, 1 Moat, 4 Silver, 1 Potion, 1 Copper, 1 Province
+DG - total victory points: 12
+DG - turns: 14
+ 
+1st place: Titandrake
+2nd place: DG
+ 

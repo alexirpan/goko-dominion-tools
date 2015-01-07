@@ -1,0 +1,331 @@
+------------ Game Setup ------------
+Supply cards: Scrying Pool, Chancellor, Menagerie, Sage, Bishop, Navigator, Taxman, Thief, Counterfeit, Haggler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Wandering Winder - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Wandering Winder - shuffles deck
+Titandrake - shuffles deck
+Wandering Winder - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Wandering Winder: turn 1 ----------
+Wandering Winder - plays 3 Copper
+Wandering Winder - buys Silver
+Wandering Winder - gains Silver
+Wandering Winder - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Sage, Estate, Copper
+ 
+---------- Wandering Winder: turn 2 ----------
+Wandering Winder - plays 4 Copper
+Wandering Winder - buys Silver
+Wandering Winder - gains Silver
+Wandering Winder - shuffles deck
+Wandering Winder - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Copper, Copper, Estate, Estate, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Copper, Copper, Copper, Copper, Estate, Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Sage
+ 
+---------- Wandering Winder: turn 3 ----------
+Wandering Winder - plays 3 Copper, 1 Silver
+Wandering Winder - buys Haggler
+Wandering Winder - gains Haggler
+Wandering Winder - draws Copper, Estate, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Counterfeit, Copper, Estate, Estate, Copper
+ 
+---------- Wandering Winder: turn 4 ----------
+Wandering Winder - plays 2 Copper, 1 Silver
+Wandering Winder - buys Silver
+Wandering Winder - gains Silver
+Wandering Winder - draws Copper, Copper
+Wandering Winder - shuffles deck
+Wandering Winder - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - shuffles deck
+Titandrake - draws Estate, Haggler, Estate, Copper, Copper
+ 
+---------- Wandering Winder: turn 5 ----------
+Wandering Winder - plays 4 Copper, 1 Silver
+Wandering Winder - buys Counterfeit
+Wandering Winder - gains Counterfeit
+Wandering Winder - draws Estate, Estate, Haggler, Estate, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper
+Titandrake - buys Bishop
+Titandrake - gains Silver
+Titandrake - gains Bishop
+Titandrake - draws Copper, Counterfeit, Menagerie, Copper, Copper
+ 
+---------- Wandering Winder: turn 6 ----------
+Wandering Winder - plays Haggler
+Wandering Winder - plays 1 Silver
+Wandering Winder - buys Bishop
+Wandering Winder - gains Silver
+Wandering Winder - gains Bishop
+Wandering Winder - draws Copper, Copper, Silver, Copper
+Wandering Winder - shuffles deck
+Wandering Winder - draws Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Counterfeit, Copper, Copper
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Sage, Counterfeit, Copper
+ 
+---------- Wandering Winder: turn 7 ----------
+Wandering Winder - plays 3 Copper, 2 Silver
+Wandering Winder - buys Gold
+Wandering Winder - gains Gold
+Wandering Winder - draws Copper, Estate, Copper, Haggler, Bishop
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Haggler
+Titandrake - places Haggler in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Haggler
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - buys Counterfeit
+Titandrake - gains Silver
+Titandrake - gains Counterfeit
+Titandrake - draws Copper, Menagerie, Bishop, Gold, Estate
+ 
+---------- Wandering Winder: turn 8 ----------
+Wandering Winder - plays Bishop
+Wandering Winder - trashes Estate
+Wandering Winder - receives 1 victory point chips
+Titandrake - trashes Copper
+Wandering Winder - plays 2 Copper
+Wandering Winder - buys Silver
+Wandering Winder - gains Silver
+Wandering Winder - draws Silver, Copper, Counterfeit, Silver, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Bishop, Gold, Estate
+Titandrake - draws Silver, Silver, Copper
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+Wandering Winder - trashes Estate
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Silver, Bishop, Copper, Copper
+ 
+---------- Wandering Winder: turn 9 ----------
+Wandering Winder - plays Counterfeit
+Wandering Winder - plays Silver
+Wandering Winder - plays Silver
+Wandering Winder - trashes Silver
+Wandering Winder - plays 1 Silver, 1 Copper
+Wandering Winder - buys Province
+Wandering Winder - gains Province
+Wandering Winder - draws Copper, Estate
+Wandering Winder - shuffles deck
+Wandering Winder - draws Copper, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Bishop, Copper, Copper
+Titandrake - draws Copper
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Wandering Winder - trashes Estate
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Counterfeit, Estate, Silver, Counterfeit, Province
+ 
+---------- Wandering Winder: turn 10 ----------
+Wandering Winder - plays 3 Copper, 1 Silver
+Wandering Winder - buys Counterfeit
+Wandering Winder - gains Counterfeit
+Wandering Winder - draws Silver, Copper, Copper, Silver, Counterfeit
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Counterfeit
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - trashes Silver
+Titandrake - plays Counterfeit
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Estate, Sage, Gold, Haggler
+ 
+---------- Wandering Winder: turn 11 ----------
+Wandering Winder - plays Counterfeit
+Wandering Winder - plays Copper
+Wandering Winder - plays Copper
+Wandering Winder - trashes Copper
+Wandering Winder - plays 2 Silver, 1 Copper
+Wandering Winder - buys Province
+Wandering Winder - gains Province
+Wandering Winder - draws Haggler, Province, Copper, Silver, Bishop
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Menagerie
+Titandrake - places Menagerie in hand
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Estate, Gold, Haggler
+Titandrake - draws Counterfeit, Silver, Silver
+Titandrake - plays Haggler
+Titandrake - plays Counterfeit
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - trashes Silver
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - buys Gold
+Titandrake - gains Counterfeit
+Titandrake - gains Gold
+Titandrake - draws Copper, Counterfeit, Bishop, Copper, Gold
+ 
+---------- Wandering Winder: turn 12 ----------
+Wandering Winder - plays Haggler
+Wandering Winder - plays 1 Copper, 1 Silver
+Wandering Winder - buys Counterfeit
+Wandering Winder - gains Menagerie
+Wandering Winder - gains Counterfeit
+Wandering Winder - draws Copper, Gold
+Wandering Winder - shuffles deck
+Wandering Winder - draws Counterfeit, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Counterfeit
+Titandrake - plays Gold
+Titandrake - plays Gold
+Titandrake - trashes Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Estate
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Menagerie
+ 
+---------- Wandering Winder: turn 13 ----------
+Wandering Winder - plays Counterfeit
+Wandering Winder - plays Gold
+Wandering Winder - plays Gold
+Wandering Winder - trashes Gold
+Wandering Winder - plays 3 Copper
+Wandering Winder - buys Province
+Wandering Winder - gains Province
+Wandering Winder - buys Estate
+Wandering Winder - gains Estate
+Wandering Winder - draws Province, Haggler, Counterfeit, Silver, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Province, Estate, Gold, Silver
+Titandrake - draws Province, Province, Silver
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Counterfeit, Gold, Copper, Bishop, Counterfeit
+ 
+---------- Wandering Winder: turn 14 ----------
+Wandering Winder - plays Haggler
+Wandering Winder - plays Counterfeit
+Wandering Winder - plays Silver
+Wandering Winder - plays Silver
+Wandering Winder - trashes Silver
+Wandering Winder - plays 1 Copper
+Wandering Winder - buys Province
+Wandering Winder - gains Gold
+Wandering Winder - gains Province
+Wandering Winder - draws Silver, Counterfeit, Province, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Counterfeit
+Titandrake - plays Counterfeit
+Titandrake - plays Gold
+Titandrake - plays Gold
+Titandrake - trashes Gold
+Titandrake - plays Counterfeit
+Titandrake - trashes Counterfeit
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Estate, Sage, Counterfeit, Haggler
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Sage, 1 Haggler, 1 Menagerie, 1 Bishop, 2 Gold, 2 Counterfeit, 2 Silver, 4 Province, 3 Estate, 1 Duchy
+Titandrake - victory point chips: 5
+Titandrake - total victory points: 35
+Titandrake - turns: 15
+ 
+Wandering Winder - cards: 1 Haggler, 1 Bishop, 1 Menagerie, 6 Copper, 3 Silver, 3 Counterfeit, 1 Gold, 4 Province, 1 Estate
+Wandering Winder - victory point chips: 2
+Wandering Winder - total victory points: 27
+Wandering Winder - turns: 14
+ 
+1st place: Titandrake
+2nd place: Wandering Winder
+ 

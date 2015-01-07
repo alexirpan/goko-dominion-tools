@@ -1,0 +1,399 @@
+------------ Game Setup ------------
+Supply cards: Moat, Pearl Diver, Masterpiece, Wishing Well, Fortress, Sea Hag, Talisman, Horn of Plenty, Inn, Stash, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+florrat - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+florrat - shuffles deck
+Titandrake - shuffles deck
+florrat - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- florrat: turn 1 ----------
+florrat - plays 4 Copper
+florrat - buys Sea Hag
+florrat - gains Sea Hag
+florrat - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Moat
+Titandrake - gains Moat
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- florrat: turn 2 ----------
+florrat - plays 3 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - shuffles deck
+florrat - draws Estate, Copper, Estate, Copper, Sea Hag
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Masterpiece
+Titandrake - overpays for Masterpiece with 2 coins
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Masterpiece
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Masterpiece
+ 
+---------- florrat: turn 3 ----------
+florrat - plays Sea Hag
+Titandrake - discards Silver
+Titandrake - gains Curse
+florrat - plays 2 Copper
+florrat - buys Moat
+florrat - gains Moat
+florrat - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Masterpiece
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Curse, Moat, Copper, Copper, Estate
+ 
+---------- florrat: turn 4 ----------
+florrat - plays 3 Copper, 1 Silver
+florrat - buys Stash
+florrat - gains Stash
+florrat - draws Copper, Copper
+florrat - places Stashes at locations: 1
+florrat - shuffles deck
+florrat - draws Stash, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Moat
+Titandrake - draws Estate, Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Masterpiece, Copper
+ 
+---------- florrat: turn 5 ----------
+florrat - plays 3 Copper, 1 Stash
+florrat - buys Stash
+florrat - gains Stash
+florrat - draws Silver, Copper, Moat, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Masterpiece
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Estate, Sea Hag, Copper, Copper, Moat
+ 
+---------- florrat: turn 6 ----------
+florrat - plays Moat
+florrat - draws Sea Hag, Copper
+florrat - plays 3 Copper, 1 Silver
+florrat - buys Stash
+florrat - gains Stash
+florrat - draws Estate, Copper
+florrat - places Stashes at locations: 6,5,4
+florrat - shuffles deck
+florrat - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sea Hag
+florrat - discards Stash
+florrat - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Copper, Copper, Silver, Curse, Silver
+ 
+---------- florrat: turn 7 ----------
+florrat - plays 3 Copper
+florrat - buys Silver
+florrat - gains Silver
+florrat - draws Curse, Stash, Stash, Copper, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Sea Hag, Silver, Gold
+ 
+---------- florrat: turn 8 ----------
+florrat - plays 2 Stash, 1 Copper, 1 Silver
+florrat - buys Masterpiece
+florrat - overpays for Masterpiece with 4 coins
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Masterpiece
+florrat - draws Sea Hag, Estate, Moat, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Sea Hag
+florrat - reveals reaction Moat
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Masterpiece
+Titandrake - overpays for Masterpiece with 4 coins
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Masterpiece
+Titandrake - draws Moat, Pearl Diver, Copper, Copper, Copper
+ 
+---------- florrat: turn 9 ----------
+florrat - plays Sea Hag
+Titandrake - reveals reaction Moat
+florrat - plays 2 Copper
+florrat - buys Moat
+florrat - gains Moat
+florrat - draws Copper
+florrat - places Stashes at locations: 3,2,1
+florrat - shuffles deck
+florrat - draws Stash, Stash, Stash, Masterpiece
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Estate on bottom of deck
+Titandrake - plays Moat
+Titandrake - draws Estate, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Stash
+Titandrake - gains Stash
+Titandrake - draws Copper, Masterpiece, Silver, Curse, Copper
+ 
+---------- florrat: turn 10 ----------
+florrat - plays 3 Stash, 1 Copper, 1 Masterpiece
+florrat - buys Province
+florrat - gains Province
+florrat - draws Silver, Silver, Silver, Copper, Sea Hag
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Copper, 1 Masterpiece, 1 Silver
+Titandrake - buys Stash
+Titandrake - gains Stash
+Titandrake - draws Sea Hag, Estate
+Titandrake - places Stashes at locations: 5,4
+Titandrake - shuffles deck
+Titandrake - draws Gold, Copper, Silver
+ 
+---------- florrat: turn 11 ----------
+florrat - plays Sea Hag
+Titandrake - discards Stash
+Titandrake - gains Curse
+florrat - plays 3 Silver, 1 Copper
+florrat - buys Masterpiece
+florrat - overpays for Masterpiece with 4 coins
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Masterpiece
+florrat - draws Silver, Silver, Moat, Curse, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Sea Hag
+florrat - reveals reaction Moat
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Curse, Stash, Silver, Copper, Estate
+ 
+---------- florrat: turn 12 ----------
+florrat - plays Moat
+florrat - draws Estate, Estate
+florrat - plays 2 Silver, 1 Copper
+florrat - buys Stash
+florrat - gains Stash
+florrat - draws Silver, Copper, Moat, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 1 Stash, 1 Silver, 1 Copper
+Titandrake - buys Stash
+Titandrake - gains Stash
+Titandrake - draws Moat, Curse, Masterpiece, Silver, Copper
+ 
+---------- florrat: turn 13 ----------
+florrat - plays Moat
+florrat - draws Copper, Estate
+florrat - plays 4 Copper, 1 Silver
+florrat - buys Masterpiece
+florrat - overpays for Masterpiece with 3 coins
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Masterpiece
+florrat - places Stashes at locations: 4,3,2,1
+florrat - shuffles deck
+florrat - draws Stash, Stash, Stash, Stash, Moat
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Moat
+Titandrake - draws Copper, Silver
+Titandrake - plays 2 Silver, 2 Copper, 1 Masterpiece
+Titandrake - buys Stash
+Titandrake - gains Stash
+Titandrake - draws Sea Hag, Copper, Masterpiece, Silver, Silver
+ 
+---------- florrat: turn 14 ----------
+florrat - plays 4 Stash
+florrat - buys Province
+florrat - gains Province
+florrat - draws Masterpiece, Silver, Moat, Copper, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sea Hag
+florrat - reveals reaction Moat
+Titandrake - plays 2 Silver, 1 Copper, 1 Masterpiece
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Pearl Diver, Copper, Copper, Silver
+ 
+---------- florrat: turn 15 ----------
+florrat - plays Moat
+florrat - draws Masterpiece, Estate
+florrat - plays 2 Masterpiece, 2 Silver, 1 Copper
+florrat - buys Masterpiece
+florrat - overpays for Masterpiece with 4 coins
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Silver
+florrat - gains Masterpiece
+florrat - draws Silver, Copper, Silver, Silver, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - places Stashes at locations: 4,3,2,1
+Titandrake - shuffles deck
+Titandrake - draws Stash, Stash, Stash, Stash, Copper
+ 
+---------- florrat: turn 16 ----------
+florrat - plays 4 Silver, 1 Copper
+florrat - buys Province
+florrat - gains Province
+florrat - draws Silver, Silver, Curse, Copper, Masterpiece
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 4 Stash, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Gold, Silver, Masterpiece, Silver
+ 
+---------- florrat: turn 17 ----------
+florrat - plays 2 Silver, 1 Copper, 1 Masterpiece
+florrat - buys Duchy
+florrat - gains Duchy
+florrat - draws Estate, Silver, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Masterpiece
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Masterpiece, Curse, Silver, Copper
+ 
+---------- florrat: turn 18 ----------
+florrat - plays 2 Silver, 2 Copper
+florrat - buys Duchy
+florrat - gains Duchy
+florrat - draws Province, Copper, Sea Hag, Estate, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 1 Gold, 1 Masterpiece, 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Moat, Sea Hag, Wishing Well, Copper, Estate
+ 
+---------- florrat: turn 19 ----------
+florrat - plays Sea Hag
+Titandrake - reveals reaction Moat
+florrat - plays 2 Copper
+florrat - buys Estate
+florrat - gains Estate
+florrat - draws Silver, Silver, Silver
+florrat - places Stashes at locations: 7,6,5,1
+florrat - shuffles deck
+florrat - draws Stash, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Gold
+Titandrake - reveals Estate
+Titandrake - plays Sea Hag
+florrat - discards Copper
+florrat - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Duchy, Silver, Silver, Pearl Diver
+ 
+---------- florrat: turn 20 ----------
+florrat - plays 3 Silver, 1 Stash, 1 Copper
+florrat - buys Province
+florrat - gains Province
+florrat - draws Curse, Silver, Stash, Stash, Stash
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Estate
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Sea Hag, Copper, Copper, Copper
+ 
+---------- florrat: turn 21 ----------
+florrat - plays 3 Stash, 1 Silver
+florrat - buys Province
+florrat - gains Province
+florrat - draws Copper, Moat, Moat, Copper, Estate
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Sea Hag
+florrat - reveals reaction Moat
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - places Stashes at locations: 6,3,2,1
+Titandrake - shuffles deck
+Titandrake - draws Stash, Stash, Stash, Duchy
+ 
+---------- florrat: turn 22 ----------
+florrat - plays Moat
+florrat - draws Masterpiece, Estate
+florrat - plays 2 Copper, 1 Masterpiece
+florrat - buys Estate
+florrat - gains Estate
+florrat - draws Silver, Silver, Province, Silver, Silver
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Silver
+Titandrake - plays Stash
+Titandrake - plays Stash
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Sea Hag, Stash, Silver, Estate, Duchy
+ 
+---------- florrat: turn 23 ----------
+florrat - plays 4 Silver
+florrat - buys Province
+florrat - gains Province
+florrat - draws Copper, Copper, Curse, Silver, Silver
+ 
+------------ Game Over ------------
+florrat - cards: 2 Moat, 17 Silver, 1 Sea Hag, 7 Copper, 4 Stash, 4 Masterpiece, 6 Province, 5 Estate, 2 Duchy, 2 Curse
+florrat - total victory points: 45
+florrat - turns: 23
+ 
+Titandrake - cards: 2 Sea Hag, 1 Pearl Diver, 1 Wishing Well, 1 Moat, 7 Silver, 7 Copper, 4 Stash, 2 Gold, 2 Masterpiece, 5 Estate, 4 Duchy, 2 Province, 2 Curse
+Titandrake - total victory points: 27
+Titandrake - turns: 22
+ 
+1st place: florrat
+2nd place: Titandrake
+ 

@@ -1,0 +1,506 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Haven, Fishing Village, Young Witch, Apprentice, Band of Misfits, Stables, Wharf, Harem, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Cellar
+Rating system: pro
+Temron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Fishing Village, Estate, Estate, Estate
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 4 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - shuffles deck
+Temron - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 1 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Copper, Copper, Copper, Chapel, Copper
+ 
+---------- Temron: turn 3 ----------
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Wharf
+Temron - gains Wharf
+Temron - draws Silver, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Haven, Chapel, Copper
+ 
+---------- Temron: turn 4 ----------
+Temron - plays 2 Copper, 1 Silver
+Temron - buys Fishing Village
+Temron - gains Fishing Village
+Temron - draws Copper, Copper
+Temron - shuffles deck
+Temron - draws Fishing Village, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Haven
+Titandrake - draws Fishing Village
+Titandrake - sets aside Chapel
+Titandrake - plays Fishing Village
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- Temron: turn 5 ----------
+Temron - plays Fishing Village
+Temron - plays 3 Copper
+Temron - buys Fishing Village
+Temron - gains Fishing Village
+Temron - draws Copper, Copper, Copper, Silver, Wharf
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Chapel in hand
+Titandrake - duration Fishing Village
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Estate, Estate, Copper
+Titandrake - plays Silver
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Fishing Village, Haven
+ 
+---------- Temron: turn 6 ----------
+Temron - duration Fishing Village
+Temron - plays Wharf
+Temron - draws Estate, Estate
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Wharf
+Temron - gains Wharf
+Temron - draws Silver, Copper
+Temron - shuffles deck
+Temron - draws Copper, Copper, Fishing Village
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Haven
+Titandrake - draws Fishing Village
+Titandrake - sets aside Copper
+Titandrake - plays Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Band of Misfits
+Titandrake - gains Band of Misfits
+Titandrake - draws Chapel
+Titandrake - shuffles deck
+Titandrake - draws Band of Misfits, Copper, Silver
+ 
+---------- Temron: turn 7 ----------
+Temron - duration Wharf
+Temron - draws Copper, Fishing Village
+Temron - plays Fishing Village
+Temron - plays Fishing Village
+Temron - plays 4 Copper, 1 Silver
+Temron - buys Gold
+Temron - gains Gold
+Temron - buys Chapel
+Temron - gains Chapel
+Temron - draws Copper, Silver, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays Band of Misfits
+Titandrake - chooses Young Witch
+Titandrake - plays Young Witch
+Titandrake - discards Chapel
+Titandrake - discards Copper
+Temron - gains Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Fishing Village, Band of Misfits, Haven, Copper
+ 
+---------- Temron: turn 8 ----------
+Temron - duration Fishing Village
+Temron - duration Fishing Village
+Temron - plays 2 Copper, 1 Silver
+Temron - buys Wharf
+Temron - gains Wharf
+Temron - draws Copper, Estate, Wharf
+Temron - shuffles deck
+Temron - draws Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Wharf
+Titandrake - draws Copper, Chapel
+Titandrake - plays Haven
+Titandrake - draws Fishing Village
+Titandrake - sets aside Chapel
+Titandrake - plays Fishing Village
+Titandrake - plays Band of Misfits
+Titandrake - chooses Young Witch
+Titandrake - plays Young Witch
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+Temron - gains Curse
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Band of Misfits, Silver, Silver, Copper
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Wharf
+Temron - draws Copper, Chapel
+Temron - plays 4 Copper
+Temron - buys Fishing Village
+Temron - gains Fishing Village
+Temron - draws Silver, Wharf, Copper, Fishing Village, Curse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Wharf
+Titandrake - duration Haven
+Titandrake - places set aside Chapel in hand
+Titandrake - duration Fishing Village
+Titandrake - plays Band of Misfits
+Titandrake - chooses Young Witch
+Titandrake - plays Young Witch
+Titandrake - discards Chapel
+Titandrake - discards Copper
+Temron - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Band of Misfits, Chapel, Fishing Village, Gold
+ 
+---------- Temron: turn 10 ----------
+Temron - duration Wharf
+Temron - draws Estate, Fishing Village
+Temron - plays Fishing Village
+Temron - plays Wharf
+Temron - draws Wharf, Estate
+Temron - plays Fishing Village
+Temron - plays Wharf
+Temron - draws Copper, Silver
+Temron - plays 2 Silver, 2 Copper
+Temron - buys Stables
+Temron - gains Stables
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Copper, Gold
+Temron - shuffles deck
+Temron - draws Copper, Curse, Wharf
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Band of Misfits
+Titandrake - chooses Young Witch
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Wharf
+Titandrake - discards Chapel
+Titandrake - discards Copper
+Temron - gains Curse
+Titandrake - plays Wharf
+Titandrake - draws Fishing Village, Copper
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Haven, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Silver
+ 
+---------- Temron: turn 11 ----------
+Temron - duration Fishing Village
+Temron - duration Wharf
+Temron - draws Curse, Curse
+Temron - duration Fishing Village
+Temron - duration Wharf
+Temron - draws Silver, Fishing Village
+Temron - plays Fishing Village
+Temron - plays Wharf
+Temron - draws Silver, Estate
+Temron - plays 2 Copper, 2 Silver, 1 Gold
+Temron - buys Wharf
+Temron - gains Wharf
+Temron - buys Band of Misfits
+Temron - gains Band of Misfits
+Temron - buys Cellar
+Temron - gains Cellar
+Temron - draws Chapel, Stables, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Wharf
+Titandrake - draws Fishing Village, Band of Misfits
+Titandrake - plays Band of Misfits
+Titandrake - chooses Young Witch
+Titandrake - plays Young Witch
+Titandrake - draws Gold, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Temron - gains Curse
+Titandrake - plays Fishing Village
+Titandrake - plays Haven
+Titandrake - draws Chapel
+Titandrake - sets aside Chapel
+Titandrake - plays 2 Silver, 2 Gold
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Gold, Wharf, Band of Misfits, Fishing Village, Wharf
+ 
+---------- Temron: turn 12 ----------
+Temron - duration Fishing Village
+Temron - duration Wharf
+Temron - draws Copper, Estate
+Temron - plays Stables
+Temron - discards Silver
+Temron - draws Copper, Copper, Estate
+Temron - plays Chapel
+Temron - trashes Estate, Estate, Copper, Copper
+Temron - plays 3 Copper
+Temron - buys Fishing Village
+Temron - gains Fishing Village
+Temron - shuffles deck
+Temron - draws Gold, Fishing Village, Cellar, Band of Misfits, Curse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Haven
+Titandrake - places set aside Chapel in hand
+Titandrake - plays Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays Fishing Village
+Titandrake - plays Wharf
+Titandrake - draws Fishing Village, Gold
+Titandrake - plays Fishing Village
+Titandrake - plays Band of Misfits
+Titandrake - chooses Young Witch
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Silver
+Titandrake - discards Chapel
+Titandrake - discards Copper
+Temron - reveals bane Cellar
+Titandrake - plays 2 Gold, 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Band of Misfits, Gold, Wharf, Gold, Chapel
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Fishing Village
+Temron - plays Band of Misfits
+Temron - chooses Young Witch
+Temron - plays Young Witch
+Temron - draws Wharf, Silver
+Temron - discards Curse
+Temron - discards Cellar
+Titandrake - gains Curse
+Temron - plays Wharf
+Temron - draws Estate, Wharf
+Temron - plays 1 Gold, 1 Silver
+Temron - buys Wharf
+Temron - gains Wharf
+Temron - draws Fishing Village, Chapel, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Gold
+Titandrake - duration Fishing Village
+Titandrake - duration Wharf
+Titandrake - draws Fishing Village, Copper
+Titandrake - duration Fishing Village
+Titandrake - plays Wharf
+Titandrake - draws Silver, Haven
+Titandrake - plays Band of Misfits
+Titandrake - chooses Young Witch
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Fishing Village
+Titandrake - discards Copper
+Titandrake - discards Copper
+Temron - gains Curse
+Titandrake - plays Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays 3 Gold, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Haven, Gold, Fishing Village, Province, Gold
+ 
+---------- Temron: turn 14 ----------
+Temron - duration Fishing Village
+Temron - duration Wharf
+Temron - draws Wharf, Copper
+Temron - plays Fishing Village
+Temron - plays Wharf
+Temron - draws Curse, Wharf
+Temron - plays Wharf
+Temron - draws Silver, Fishing Village
+Temron - plays Fishing Village
+Temron - plays Chapel
+Temron - trashes Copper, Copper, Copper, Curse
+Temron - plays 2 Silver
+Temron - buys Wharf
+Temron - gains Wharf
+Temron - buys Cellar
+Temron - gains Cellar
+Temron - buys Peddler
+Temron - gains Peddler
+Temron - buys Peddler
+Temron - gains Peddler
+Temron - draws Copper, Curse, Stables, Copper, Fishing Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Wharf
+Titandrake - draws Curse, Chapel
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays Haven
+Titandrake - draws Silver
+Titandrake - sets aside Province
+Titandrake - plays Fishing Village
+Titandrake - plays Chapel
+Titandrake - trashes Curse
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Wharf, Wharf, Copper, Silver, Gold
+ 
+---------- Temron: turn 15 ----------
+Temron - duration Fishing Village
+Temron - duration Wharf
+Temron - draws Curse, Curse
+Temron - duration Wharf
+Temron - shuffles deck
+Temron - draws Curse, Silver
+Temron - duration Fishing Village
+Temron - plays Fishing Village
+Temron - plays Stables
+Temron - discards Copper
+Temron - draws Wharf, Cellar, Peddler
+Temron - plays Peddler
+Temron - draws Silver
+Temron - plays Wharf
+Temron - draws Silver, Chapel
+Temron - plays Chapel
+Temron - trashes Curse, Curse, Curse, Curse
+Temron - plays Cellar
+Temron - discards Silver
+Temron - discards Silver
+Temron - discards Silver
+Temron - discards Copper
+Temron - draws Fishing Village, Wharf, Band of Misfits, Estate
+Temron - plays Fishing Village
+Temron - plays Wharf
+Temron - draws Curse, Peddler
+Temron - plays Peddler
+Temron - draws Wharf
+Temron - plays Wharf
+Temron - draws Wharf, Cellar
+Temron - plays Band of Misfits
+Temron - chooses Fishing Village
+Temron - plays Fishing Village
+Temron - plays Wharf
+Temron - draws Gold
+Temron - shuffles deck
+Temron - draws Silver
+Temron - plays Cellar
+Temron - discards Curse
+Temron - discards Estate
+Temron - draws Copper, Silver
+Temron - plays 2 Silver, 1 Gold, 1 Copper
+Temron - buys Province
+Temron - gains Province
+Temron - buys Duchy
+Temron - gains Duchy
+Temron - buys Cellar
+Temron - gains Cellar
+Temron - draws Silver, Copper
+Temron - shuffles deck
+Temron - draws Fishing Village, Cellar, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Province in hand
+Titandrake - duration Fishing Village
+Titandrake - plays Wharf
+Titandrake - draws Band of Misfits, Wharf
+Titandrake - plays Band of Misfits
+Titandrake - chooses Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Wharf
+Titandrake - draws Fishing Village, Copper
+Titandrake - plays Fishing Village
+Titandrake - plays Wharf
+Titandrake - draws Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper, 2 Gold, 1 Silver
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - draws Chapel, Province, Fishing Village, Fishing Village, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Fishing Village, 4 Wharf, 1 Chapel, 1 Haven, 3 Gold, 2 Copper, 2 Silver, 2 Province, 1 Estate, 3 Curse
+Titandrake - total victory points: 10
+Titandrake - turns: 16
+ 
+Temron - cards: 6 Wharf, 5 Fishing Village, 3 Cellar, 2 Peddler, 1 Chapel, 1 Stables, 3 Silver, 2 Copper, 1 Gold, 1 Estate, 1 Province, 1 Duchy, 1 Curse
+Temron - total victory points: 9
+Temron - turns: 15
+ 
+1st place: Titandrake
+2nd place: Temron
+ 

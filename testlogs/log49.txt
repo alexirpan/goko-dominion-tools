@@ -1,0 +1,569 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Ironmonger, Cartographer, Counterfeit, Festival, Jester, Knights, Outpost, Stash, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+DG - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+DG - shuffles deck
+Titandrake - shuffles deck
+DG - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- DG: turn 1 ----------
+DG - plays 4 Copper
+DG - buys Ironmonger
+DG - gains Ironmonger
+DG - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- DG: turn 2 ----------
+DG - plays 3 Copper
+DG - buys Silver
+DG - gains Silver
+DG - shuffles deck
+DG - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- DG: turn 3 ----------
+DG - plays 2 Copper, 1 Silver
+DG - buys Ironmonger
+DG - gains Ironmonger
+DG - draws Copper, Copper, Ironmonger, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Estate, Copper, Copper, Jester, Estate
+ 
+---------- DG: turn 4 ----------
+DG - plays Ironmonger
+DG - draws Copper
+DG - reveals: Estate
+DG - places Estate on top of deck
+DG - draws Estate
+DG - plays 5 Copper
+DG - buys Jester
+DG - gains Jester
+DG - shuffles deck
+DG - draws Copper, Estate, Copper, Ironmonger, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Jester
+DG - reveals Copper
+DG - discards Copper
+DG - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Estate
+ 
+---------- DG: turn 5 ----------
+DG - plays Ironmonger
+DG - draws Copper
+DG - reveals: Silver
+DG - places Silver on top of deck
+DG - plays 4 Copper
+DG - buys Counterfeit
+DG - gains Counterfeit
+DG - draws Silver, Jester, Copper, Estate, Ironmonger
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Ironmonger
+ 
+---------- DG: turn 6 ----------
+DG - plays Ironmonger
+DG - draws Copper
+DG - reveals: Estate
+DG - places Estate on top of deck
+DG - draws Estate
+DG - plays Jester
+Titandrake - reveals Jester
+Titandrake - discards Jester
+DG - gains Jester
+DG - plays 2 Copper, 1 Silver
+DG - buys Stonemason
+DG - overpays for Stonemason with 4 coins
+DG - gains Ironmonger
+DG - gains Ironmonger
+DG - gains Stonemason
+DG - shuffles deck
+DG - draws Copper, Copper, Counterfeit, Ironmonger, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays 5 Copper
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Counterfeit, Estate, Copper, Copper
+ 
+---------- DG: turn 7 ----------
+DG - plays Ironmonger
+DG - draws Copper
+DG - reveals: Ironmonger
+DG - places Ironmonger on top of deck
+DG - plays Counterfeit
+DG - plays Copper
+DG - plays Copper
+DG - trashes Copper
+DG - plays 3 Copper
+DG - buys Altar
+DG - gains Altar
+DG - draws Ironmonger, Copper, Copper, Jester, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Estate
+Titandrake - discards Estate
+Titandrake - draws Jester
+Titandrake - plays Jester
+DG - reveals Stonemason
+DG - discards Stonemason
+DG - gains Stonemason
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 4 coins
+Titandrake - gains Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - gains Stonemason
+Titandrake - draws Estate, Copper, Copper, Ironmonger, Copper
+ 
+---------- DG: turn 8 ----------
+DG - plays Ironmonger
+DG - draws Copper
+DG - reveals: Ironmonger
+DG - places Ironmonger on top of deck
+DG - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+DG - plays 3 Copper
+DG - buys Ironmonger
+DG - gains Ironmonger
+DG - draws Ironmonger, Estate, Copper, Ironmonger, Jester
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals: Jester
+Titandrake - places Jester on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Jester, Counterfeit, Estate, Copper, Copper
+ 
+---------- DG: turn 9 ----------
+DG - plays Ironmonger
+DG - draws Silver
+DG - reveals: Estate
+DG - discards Estate
+DG - shuffles deck
+DG - draws Stonemason
+DG - plays Ironmonger
+DG - draws Altar
+DG - reveals: Ironmonger
+DG - places Ironmonger on top of deck
+DG - plays Jester
+Titandrake - reveals Ironmonger
+Titandrake - discards Ironmonger
+DG - plays Altar
+DG - trashes Estate
+DG - gains Counterfeit
+DG - plays 1 Copper, 1 Silver
+DG - buys Cartographer
+DG - gains Cartographer
+DG - draws Ironmonger, Counterfeit, Jester, Ironmonger, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Jester
+DG - reveals Stonemason
+DG - discards Stonemason
+DG - gains Stonemason
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Ironmonger, Estate, Ironmonger, Stonemason, Copper
+ 
+---------- DG: turn 10 ----------
+DG - plays Ironmonger
+DG - draws Copper
+DG - reveals: Ironmonger
+DG - places Ironmonger on top of deck
+DG - plays Ironmonger
+DG - draws Ironmonger
+DG - reveals: Copper
+DG - discards Copper
+DG - plays Ironmonger
+DG - draws Estate
+DG - reveals: Copper
+DG - discards Copper
+DG - plays Jester
+Titandrake - shuffles deck
+Titandrake - reveals Jester
+Titandrake - discards Jester
+DG - gains Jester
+DG - plays Counterfeit
+DG - plays Copper
+DG - plays Copper
+DG - trashes Copper
+DG - plays 1 Copper
+DG - buys Province
+DG - gains Province
+DG - draws Copper, Copper, Estate
+DG - shuffles deck
+DG - draws Copper, Ironmonger
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Stonemason
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Estate, Counterfeit, Estate, Counterfeit, Ironmonger
+ 
+---------- DG: turn 11 ----------
+DG - plays Ironmonger
+DG - draws Ironmonger
+DG - reveals: Estate
+DG - discards Estate
+DG - draws Province
+DG - plays Ironmonger
+DG - draws Jester
+DG - reveals: Ironmonger
+DG - places Ironmonger on top of deck
+DG - plays Jester
+Titandrake - reveals Ironmonger
+Titandrake - discards Ironmonger
+DG - plays 3 Copper
+DG - buys Cartographer
+DG - gains Cartographer
+DG - draws Ironmonger, Stonemason, Stonemason, Stonemason, Jester
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals: Estate
+Titandrake - discards Estate
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Jester
+Titandrake - places Jester on top of deck
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Jester, Copper, Copper, Copper, Ironmonger
+ 
+---------- DG: turn 12 ----------
+DG - plays Ironmonger
+DG - draws Copper
+DG - reveals: Counterfeit
+DG - places Counterfeit on top of deck
+DG - plays Jester
+Titandrake - reveals Stonemason
+Titandrake - discards Stonemason
+Titandrake - gains Stonemason
+DG - plays 1 Copper
+DG - buys Silver
+DG - gains Silver
+DG - draws Counterfeit, Ironmonger, Copper, Silver, Cartographer
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Jester
+Titandrake - places Jester on top of deck
+Titandrake - plays Jester
+DG - reveals Copper
+DG - discards Copper
+DG - gains Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Jester
+Titandrake - shuffles deck
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Jester
+DG - reveals Counterfeit
+DG - discards Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - plays 3 Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 5 coins
+Titandrake - gains Cartographer
+Titandrake - gains Jester
+Titandrake - gains Stonemason
+Titandrake - draws Ironmonger, Estate, Estate, Stonemason, Stonemason
+ 
+---------- DG: turn 13 ----------
+DG - plays Cartographer
+DG - draws Jester
+DG - looks at Altar, Ironmonger
+DG - shuffles deck
+DG - looks at Silver, Ironmonger
+DG - discards Altar
+DG - places Silver on top of deck
+DG - places Ironmonger on top of deck
+DG - places Ironmonger on top of deck
+DG - plays Ironmonger
+DG - draws Ironmonger
+DG - reveals: Ironmonger
+DG - places Ironmonger on top of deck
+DG - plays Ironmonger
+DG - draws Ironmonger
+DG - reveals: Silver
+DG - places Silver on top of deck
+DG - plays Ironmonger
+DG - draws Silver
+DG - reveals: Stonemason
+DG - discards Stonemason
+DG - plays Jester
+Titandrake - reveals Cartographer
+Titandrake - discards Cartographer
+DG - gains Cartographer
+DG - plays Counterfeit
+DG - plays Copper
+DG - plays Copper
+DG - trashes Copper
+DG - plays 2 Silver
+DG - buys Province
+DG - gains Province
+DG - draws Copper, Jester, Estate, Copper, Jester
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - draws Ironmonger, Counterfeit, Counterfeit
+Titandrake - shuffles deck
+Titandrake - draws Counterfeit, Estate
+ 
+---------- DG: turn 14 ----------
+DG - plays Jester
+Titandrake - reveals Stonemason
+Titandrake - discards Stonemason
+Titandrake - gains Stonemason
+DG - plays 2 Copper
+DG - buys Silver
+DG - gains Silver
+DG - draws Copper, Copper, Copper, Ironmonger, Ironmonger
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Counterfeit
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Ironmonger, Stonemason, Jester, Cartographer, Ironmonger
+ 
+---------- DG: turn 15 ----------
+DG - plays Ironmonger
+DG - draws Counterfeit
+DG - reveals: Copper
+DG - discards Copper
+DG - plays Ironmonger
+DG - draws Cartographer
+DG - reveals: Stonemason
+DG - discards Stonemason
+DG - plays Cartographer
+DG - draws Stonemason
+DG - looks at Estate, Province
+DG - shuffles deck
+DG - looks at Copper, Stonemason
+DG - discards Estate
+DG - discards Province
+DG - discards Copper
+DG - discards Stonemason
+DG - plays Stonemason
+DG - trashes Copper
+DG - plays Counterfeit
+DG - plays Copper
+DG - plays Copper
+DG - trashes Copper
+DG - plays Copper
+DG - buys Cartographer
+DG - gains Cartographer
+DG - draws Copper, Jester, Estate, Counterfeit, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Stonemason
+Titandrake - discards Stonemason
+Titandrake - plays Cartographer
+Titandrake - draws Estate
+Titandrake - looks at Jester, Cartographer, Estate, Copper
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - places Cartographer on top of deck
+Titandrake - places Jester on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Jester
+Titandrake - reveals: Cartographer
+Titandrake - places Cartographer on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Cartographer
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Jester
+DG - reveals Jester
+DG - discards Jester
+Titandrake - gains Jester
+Titandrake - plays Jester
+DG - reveals Altar
+DG - discards Altar
+Titandrake - gains Altar
+Titandrake - plays Cartographer
+Titandrake - draws Jester
+Titandrake - looks at Ironmonger
+Titandrake - shuffles deck
+Titandrake - looks at Counterfeit, Estate, Stonemason
+Titandrake - discards Estate
+Titandrake - discards Stonemason
+Titandrake - discards Counterfeit
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Jester
+DG - reveals Cartographer
+DG - discards Cartographer
+Titandrake - gains Cartographer
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Ironmonger, Copper, Stonemason, Counterfeit, Counterfeit
+ 
+---------- DG: turn 16 ----------
+DG - plays Jester
+Titandrake - reveals Jester
+Titandrake - discards Jester
+DG - gains Jester
+DG - plays Counterfeit
+DG - plays Copper
+DG - plays Copper
+DG - trashes Copper
+DG - plays 1 Copper
+DG - buys Jester
+DG - gains Jester
+DG - draws Cartographer, Jester, Ironmonger, Silver, Stonemason
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Stonemason
+Titandrake - reveals: Estate
+Titandrake - discards Estate
+Titandrake - draws Altar
+Titandrake - plays Altar
+Titandrake - trashes Stonemason
+Titandrake - gains Duchy
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ironmonger, Copper, Festival
+Titandrake - shuffles deck
+Titandrake - draws Stonemason, Stonemason
+ 
+---------- DG: turn 17 ----------
+DG - plays Cartographer
+DG - draws Silver
+DG - looks at Province, Ironmonger, Silver, Ironmonger
+DG - discards Province
+DG - places Silver on top of deck
+DG - places Ironmonger on top of deck
+DG - places Ironmonger on top of deck
+DG - plays Ironmonger
+DG - draws Ironmonger
+DG - reveals: Ironmonger
+DG - places Ironmonger on top of deck
+DG - plays Ironmonger
+DG - draws Ironmonger
+DG - reveals: Silver
+DG - places Silver on top of deck
+DG - plays Ironmonger
+DG - draws Silver
+DG - shuffles deck
+DG - reveals: Stonemason
+DG - discards Stonemason
+DG - plays Jester
+Titandrake - reveals Counterfeit
+Titandrake - discards Counterfeit
+DG - gains Counterfeit
+DG - plays Stonemason
+DG - trashes Silver
+DG - gains Stonemason
+DG - gains Stonemason
+DG - plays 2 Silver
+DG - buys Stonemason
+DG - overpays for Stonemason with 5 coins
+DG - gains Jester
+DG - gains Cartographer
+DG - gains Stonemason
+DG - draws Copper, Counterfeit, Stonemason, Jester, Copper
+ 
+------------ Game Over ------------
+DG - cards: 6 Stonemason, 6 Jester, 5 Cartographer, 5 Ironmonger, 1 Altar, 3 Copper, 3 Counterfeit, 2 Silver, 2 Estate, 2 Province
+DG - total victory points: 14
+DG - turns: 17
+ 
+Titandrake - cards: 5 Ironmonger, 4 Jester, 3 Stonemason, 3 Cartographer, 1 Festival, 1 Altar, 3 Counterfeit, 1 Copper, 1 Gold, 1 Silver, 3 Estate, 1 Duchy
+Titandrake - total victory points: 6
+Titandrake - turns: 16
+ 
+1st place: DG
+2nd place: Titandrake
+ 

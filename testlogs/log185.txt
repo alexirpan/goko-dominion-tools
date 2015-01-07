@@ -1,0 +1,271 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Fishing Village, Urchin, JackOfAllTrades, Counting House, Inn, Pillage, Stash, Venture, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+irata - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+irata - shuffles deck
+Titandrake - shuffles deck
+irata - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- irata: turn 1 ----------
+irata - plays 3 Copper
+irata - buys Urchin
+irata - gains Urchin
+irata - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Pillage
+Titandrake - gains Pillage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- irata: turn 2 ----------
+irata - plays 4 Copper
+irata - buys JackOfAllTrades
+irata - gains JackOfAllTrades
+irata - shuffles deck
+irata - draws Estate, Urchin, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper, Estate, Copper, Copper, Pillage
+ 
+---------- irata: turn 3 ----------
+irata - plays Urchin
+irata - draws Copper
+Titandrake - discards Estate
+irata - plays 2 Copper
+irata - buys Duchess
+irata - gains Duchess
+irata - draws Copper, Copper, JackOfAllTrades, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+irata - reveals Copper, Copper, JackOfAllTrades, Copper, Copper
+irata - discards JackOfAllTrades
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate
+ 
+---------- irata: turn 4 ----------
+irata - plays 4 Copper
+irata - buys Urchin
+irata - gains Urchin
+irata - draws Copper
+irata - shuffles deck
+irata - draws Copper, Estate, Duchess, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Urchin, Estate, Urchin, Spoils, Estate
+ 
+---------- irata: turn 5 ----------
+irata - plays Duchess
+irata - discards Copper
+Titandrake - discards Copper
+irata - plays 3 Copper
+irata - buys Pillage
+irata - gains Pillage
+irata - draws Copper, Estate, JackOfAllTrades, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Urchin
+Titandrake - draws Spoils
+irata - discards Estate
+Titandrake - plays Urchin
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - draws Copper
+Titandrake - plays Spoils
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Urchin, Fishing Village, Urchin, Copper
+ 
+---------- irata: turn 6 ----------
+irata - plays JackOfAllTrades
+irata - gains Silver
+irata - discards Urchin
+irata - trashes Estate
+irata - plays 3 Copper
+irata - buys Fishing Village
+irata - gains Fishing Village
+irata - shuffles deck
+irata - draws Copper, Copper, Fishing Village, Silver, Duchess
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+irata - discards Copper
+Titandrake - plays Urchin
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - draws Copper
+Titandrake - plays Fishing Village
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Mercenary, Spoils, Copper, Copper, Copper
+ 
+---------- irata: turn 7 ----------
+irata - plays Fishing Village
+irata - plays Duchess
+irata - places Urchin on top of deck
+Titandrake - discards Estate
+irata - plays 1 Copper, 1 Silver
+irata - buys Altar
+irata - gains Altar
+irata - draws Urchin, Copper, Copper, Pillage, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Estate, Estate
+irata - discards Estate
+irata - discards Copper
+Titandrake - plays Spoils
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - shuffles deck
+Titandrake - draws JackOfAllTrades, Fishing Village, Copper, Copper, Mercenary
+ 
+---------- irata: turn 8 ----------
+irata - duration Fishing Village
+irata - plays Urchin
+irata - draws Urchin
+Titandrake - discards JackOfAllTrades
+irata - plays Urchin
+irata - trashes Urchin
+irata - gains Mercenary
+irata - draws Copper
+irata - plays Pillage
+irata - trashes Urchin
+irata - gains Mercenary
+irata - trashes Pillage
+irata - gains Spoils
+irata - gains Spoils
+irata - plays 2 Copper
+irata - buys Fishing Village
+irata - gains Fishing Village
+irata - draws Copper, Copper, Estate, JackOfAllTrades
+irata - shuffles deck
+irata - draws Spoils
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Copper, Urchin
+irata - discards Copper
+irata - discards Copper
+Titandrake - plays Urchin
+Titandrake - draws Estate
+Titandrake - plays Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Estate, Copper, Estate, Copper, Altar
+ 
+---------- irata: turn 9 ----------
+irata - plays JackOfAllTrades
+irata - gains Silver
+irata - discards Mercenary
+irata - trashes Estate
+irata - plays 1 Copper
+irata - plays Spoils
+irata - buys Fishing Village
+irata - gains Fishing Village
+irata - draws Spoils, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Pillage
+Titandrake - plays 2 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Altar, Copper, JackOfAllTrades, Fishing Village
+ 
+---------- irata: turn 10 ----------
+irata - plays 3 Copper
+irata - plays Spoils
+irata - buys Gold
+irata - gains Gold
+irata - draws Silver, Fishing Village, Copper, Duchess, Fishing Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Urchin on top of deck
+Titandrake - plays Fishing Village
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Urchin
+Titandrake - draws Estate, Estate
+irata - discards Copper
+irata - discards Silver
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Inn
+Titandrake - shuffles deck
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Fishing Village, Pillage, Mercenary, Copper, Copper
+ 
+---------- irata: turn 11 ----------
+irata - plays Fishing Village
+irata - plays Fishing Village
+irata - plays Duchess
+irata - shuffles deck
+irata - places Altar on top of deck
+Titandrake - shuffles deck
+Titandrake - discards Estate
+irata - buys JackOfAllTrades
+irata - gains JackOfAllTrades
+irata - draws Altar, Silver, Gold, Copper, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+irata - reveals Altar, Silver, Gold, Copper, Silver
+irata - discards Altar
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Mercenary, JackOfAllTrades
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 JackOfAllTrades, 1 Fishing Village, 1 Mercenary, 1 Altar, 1 Inn, 2 Spoils, 1 Silver, 1 Estate
+Titandrake - total victory points: 1
+Titandrake - turns: 11
+ 
+irata - resigned
+irata - cards: 3 Fishing Village, 2 JackOfAllTrades, 2 Mercenary, 1 Duchess, 1 Altar, 7 Copper, 2 Silver, 1 Gold, 1 Estate
+irata - total victory points: 1
+irata - turns: 11
+ 
+1st place: Titandrake
+2nd place: irata
+ 

@@ -1,0 +1,182 @@
+------------ Game Setup ------------
+Supply cards: Advisor, Thief, Throne Room, Baker, Counting House, Mountebank, Tribute, Grand Market, Expand, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+scs - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+scs - shuffles deck
+Titandrake - shuffles deck
+scs - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- scs: turn 1 ----------
+scs - plays 4 Copper
+scs - uses 1 coin token
+scs - buys Mountebank
+scs - gains Mountebank
+scs - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- scs: turn 2 ----------
+scs - plays 3 Copper
+scs - buys Silver
+scs - gains Silver
+scs - shuffles deck
+scs - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Silver
+ 
+---------- scs: turn 3 ----------
+scs - plays 4 Copper
+scs - buys Advisor
+scs - gains Advisor
+scs - draws Silver, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Advisor
+Titandrake - gains Advisor
+Titandrake - draws Estate, Copper, Copper, Mountebank, Copper
+ 
+---------- scs: turn 4 ----------
+scs - plays 2 Copper, 1 Silver
+scs - buys Advisor
+scs - gains Advisor
+scs - draws Copper, Mountebank
+scs - shuffles deck
+scs - draws Copper, Advisor, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Mountebank
+scs - gains Curse
+scs - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Mountebank, Copper, Copper
+ 
+---------- scs: turn 5 ----------
+scs - plays Advisor
+scs - reveals: Copper, Estate, Silver
+Titandrake - discards Silver
+scs - places cards in hand:  Copper, Estate
+scs - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+scs - plays 3 Copper
+scs - buys Mountebank
+scs - gains Mountebank
+scs - draws Copper, Copper, Advisor, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Mountebank
+scs - gains Curse
+scs - gains Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Copper, Mountebank, Estate, Advisor
+ 
+---------- scs: turn 6 ----------
+scs - plays Advisor
+scs - reveals: Estate
+scs - shuffles deck
+scs - reveals: Advisor, Mountebank
+Titandrake - discards Mountebank
+scs - places cards in hand:  Estate, Advisor
+scs - plays Advisor
+scs - reveals: Copper, Estate, Curse
+Titandrake - discards Copper
+scs - places cards in hand:  Estate, Curse
+scs - plays 4 Copper
+scs - buys Advisor
+scs - gains Advisor
+scs - draws Curse, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Silver, Copper
+scs - discards Silver
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays Mountebank
+scs - discards Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Baker, Silver, Curse
+ 
+---------- scs: turn 7 ----------
+scs - plays 3 Copper
+scs - buys Silver
+scs - gains Silver
+scs - draws Silver, Copper, Mountebank
+scs - shuffles deck
+scs - draws Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - draws Mountebank, Advisor, Estate, Gold, Copper
+ 
+---------- scs: turn 8 ----------
+scs - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+scs - plays 2 Copper, 1 Silver
+scs - buys Baker
+scs - gains Baker
+scs - draws Curse, Copper, Advisor, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Mountebank, Copper, Copper
+scs - discards Mountebank
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays Mountebank
+scs - discards Curse
+Titandrake - plays Gold
+Titandrake - plays Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Advisor
+ 
+---------- scs: turn 9 ----------
+scs - plays Advisor
+scs - reveals: Mountebank, Estate, Curse
+Titandrake - discards Mountebank
+scs - places cards in hand:  Estate, Curse
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Mountebank, 2 Baker, 1 Advisor, 9 Copper, 2 Gold, 1 Silver, 3 Estate, 2 Curse
+Titandrake - total victory points: 1
+Titandrake - turns: 8
+ 
+scs - resigned
+scs - cards: 2 Mountebank, 2 Advisor, 1 Baker, 9 Copper, 2 Silver, 3 Estate, 2 Curse
+scs - total victory points: 1
+scs - turns: 8
+ 
+1st place: Titandrake
+2nd place: scs
+ 

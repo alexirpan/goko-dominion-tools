@@ -1,0 +1,602 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Pearl Diver, Familiar, Taxman, Throne Room, Council Room, Counting House, Horn of Plenty, Mine, Mint, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Temron - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Temron - shuffles deck
+Titandrake - shuffles deck
+Temron - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Temron: turn 1 ----------
+Temron - plays 4 Copper
+Temron - buys Potion
+Temron - gains Potion
+Temron - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Temron: turn 2 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - shuffles deck
+Temron - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- Temron: turn 3 ----------
+Temron - plays 4 Copper, 1 Silver
+Temron - buys Council Room
+Temron - gains Council Room
+Temron - draws Estate, Potion, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Copper, Copper, Copper, Potion, Estate
+ 
+---------- Temron: turn 4 ----------
+Temron - plays 2 Copper, 1 Potion
+Temron - buys Pearl Diver
+Temron - gains Pearl Diver
+Temron - draws Estate, Copper
+Temron - shuffles deck
+Temron - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- Temron: turn 5 ----------
+Temron - plays 3 Copper
+Temron - buys Pawn
+Temron - gains Pawn
+Temron - draws Copper, Estate, Pearl Diver, Copper, Council Room
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Familiar, Silver, Copper, Potion
+ 
+---------- Temron: turn 6 ----------
+Temron - plays Pearl Diver
+Temron - draws Copper
+Temron - places Potion on top of deck
+Temron - plays Council Room
+Temron - draws Potion, Silver, Copper
+Temron - shuffles deck
+Temron - draws Pawn
+Titandrake - draws Copper
+Temron - plays 4 Copper, 1 Potion, 1 Silver
+Temron - buys Familiar
+Temron - gains Familiar
+Temron - buys Pawn
+Temron - gains Pawn
+Temron - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Temron - gains Curse
+Titandrake - plays 4 Copper, 1 Silver, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Copper, Council Room
+Titandrake - shuffles deck
+Titandrake - draws Silver, Familiar, Copper
+ 
+---------- Temron: turn 7 ----------
+Temron - plays 3 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - shuffles deck
+Temron - draws Potion, Pearl Diver, Familiar, Silver, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Familiar
+Titandrake - draws Familiar
+Temron - gains Curse
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Temron - gains Curse
+Titandrake - plays Council Room
+Titandrake - draws Potion, Copper, Copper, Estate
+Temron - draws Copper
+Titandrake - plays 5 Copper, 1 Silver, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Estate, Copper, Pawn, Copper, Estate
+ 
+---------- Temron: turn 8 ----------
+Temron - plays Pearl Diver
+Temron - draws Copper
+Temron - places Council Room on top of deck
+Temron - plays Familiar
+Temron - draws Council Room
+Titandrake - gains Curse
+Temron - plays Council Room
+Temron - draws Silver, Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Temron - plays 4 Copper, 2 Silver, 1 Potion
+Temron - buys Familiar
+Temron - gains Familiar
+Temron - buys Throne Room
+Temron - gains Throne Room
+Temron - draws Copper, Pawn, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 3 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Silver, Estate, Copper, Potion
+ 
+---------- Temron: turn 9 ----------
+Temron - plays Pawn
+Temron - takes 1 coin
+Temron - draws Pawn
+Temron - plays 3 Copper
+Temron - buys Throne Room
+Temron - gains Throne Room
+Temron - draws Estate
+Temron - shuffles deck
+Temron - draws Throne Room, Familiar, Potion, Curse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Potion
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Familiar, Familiar, Curse, Council Room, Copper
+ 
+---------- Temron: turn 10 ----------
+Temron - plays Throne Room
+Temron - plays Familiar
+Temron - draws Copper
+Titandrake - gains Curse
+Temron - plays Familiar
+Temron - draws Silver
+Titandrake - gains Curse
+Temron - plays 1 Potion, 1 Copper, 1 Silver
+Temron - buys Familiar
+Temron - gains Familiar
+Temron - draws Copper, Throne Room, Curse, Copper, Pawn
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Familiar
+Titandrake - draws Familiar
+Temron - gains Curse
+Titandrake - plays Familiar
+Titandrake - draws Throne Room
+Temron - gains Curse
+Titandrake - plays Throne Room
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Temron - gains Curse
+Titandrake - plays Familiar
+Titandrake - shuffles deck
+Titandrake - draws Potion
+Temron - gains Curse
+Titandrake - plays Council Room
+Titandrake - draws Pawn, Copper, Pawn, Estate
+Temron - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Curse
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Throne Room, Copper, Estate, Copper, Copper
+ 
+---------- Temron: turn 11 ----------
+Temron - plays Throne Room
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - draws Copper
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - draws Copper
+Temron - plays 5 Copper
+Temron - buys Council Room
+Temron - gains Council Room
+Temron - draws Pawn, Pearl Diver, Silver, Copper, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Silver, Curse, Estate, Pawn
+Titandrake - shuffles deck
+Titandrake - draws Throne Room
+ 
+---------- Temron: turn 12 ----------
+Temron - plays Pearl Diver
+Temron - draws Estate
+Temron - places Familiar on top of deck
+Temron - plays Pawn
+Temron - takes 1 coin
+Temron - takes 1 buy
+Temron - plays 1 Silver, 1 Copper
+Temron - buys Throne Room
+Temron - gains Throne Room
+Temron - draws Familiar, Estate, Council Room
+Temron - shuffles deck
+Temron - draws Curse, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Potion
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Estate
+Titandrake - plays 1 Silver, 1 Potion
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Pawn, Pawn, Copper, Copper, Copper
+ 
+---------- Temron: turn 13 ----------
+Temron - plays Familiar
+Temron - draws Curse
+Temron - plays Council Room
+Temron - draws Throne Room, Familiar, Copper, Throne Room
+Titandrake - draws Estate
+Temron - draws Curse, Copper, Pearl Diver, Pawn, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Mint
+Titandrake - trashes Copper, Copper, Copper, Copper, Copper
+Titandrake - gains Mint
+Titandrake - draws Familiar, Copper, Council Room, Throne Room, Familiar
+ 
+---------- Temron: turn 14 ----------
+Temron - plays Pearl Diver
+Temron - draws Curse
+Temron - places Copper on top of deck
+Temron - plays Pawn
+Temron - takes 1 coin
+Temron - draws Copper
+Temron - plays 2 Copper
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Silver, Copper, Curse, Potion, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Familiar
+Titandrake - draws Familiar
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays Throne Room
+Titandrake - plays Familiar
+Titandrake - draws Curse
+Titandrake - plays Familiar
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Curse
+Titandrake - plays Council Room
+Titandrake - shuffles deck
+Titandrake - draws Mint, Silver, Pawn, Estate
+Temron - draws Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Mint
+Titandrake - reveals Silver
+Titandrake - gains Silver
+Titandrake - plays Mint
+Titandrake - reveals Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Throne Room, Curse, Pawn, Silver, Potion
+ 
+---------- Temron: turn 15 ----------
+Temron - plays Throne Room
+Temron - plays 1 Silver, 1 Copper, 1 Potion
+Temron - buys Pawn
+Temron - gains Pawn
+Temron - draws Familiar, Curse, Copper, Council Room, Pawn
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Estate
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Estate
+Titandrake - plays 1 Silver, 1 Potion
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Pawn
+Titandrake - shuffles deck
+Titandrake - draws Council Room, Potion, Throne Room, Estate
+ 
+---------- Temron: turn 16 ----------
+Temron - plays Familiar
+Temron - draws Copper
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - draws Copper
+Temron - plays Council Room
+Temron - draws Silver
+Temron - shuffles deck
+Temron - draws Curse, Familiar, Estate
+Titandrake - draws Silver
+Temron - plays 3 Copper, 1 Silver
+Temron - buys Horn of Plenty
+Temron - gains Horn of Plenty
+Temron - draws Pawn, Copper, Familiar, Throne Room, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Council Room
+Titandrake - draws Estate, Throne Room, Silver, Mint
+Temron - draws Potion
+Titandrake - plays Council Room
+Titandrake - draws Curse, Familiar, Throne Room, Throne Room
+Temron - draws Council Room
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Curse
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Pawn
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Familiar
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Silver
+Titandrake - plays Familiar
+Titandrake - draws Silver
+Titandrake - plays Familiar
+Titandrake - draws Estate
+Titandrake - plays 4 Silver, 1 Potion, 1 Copper
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Familiar, Copper, Curse
+Titandrake - shuffles deck
+Titandrake - draws Silver, Council Room
+ 
+---------- Temron: turn 17 ----------
+Temron - plays Familiar
+Temron - draws Copper
+Temron - plays Throne Room
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - draws Silver
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - draws Silver
+Temron - plays Council Room
+Temron - draws Throne Room, Copper, Curse, Curse
+Titandrake - draws Potion
+Temron - plays Throne Room
+Temron - plays 3 Copper, 2 Silver, 1 Potion
+Temron - buys Mint
+Temron - trashes Copper, Potion, Copper, Silver, Silver, Copper
+Temron - gains Mint
+Temron - buys Pearl Diver
+Temron - gains Pearl Diver
+Temron - draws Copper, Curse, Pawn, Estate, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Familiar
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Council Room
+Titandrake - draws Council Room, Gold, Copper, Pawn
+Temron - draws Throne Room
+Titandrake - plays Council Room
+Titandrake - draws Estate, Silver, Estate, Curse
+Temron - draws Curse
+Titandrake - plays 2 Copper, 2 Silver, 1 Potion, 1 Gold
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Silver, Pawn, Curse, Familiar, Silver
+ 
+---------- Temron: turn 18 ----------
+Temron - plays Throne Room
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - draws Pearl Diver
+Temron - plays Pawn
+Temron - takes 1 action
+Temron - shuffles deck
+Temron - draws Curse
+Temron - plays Pearl Diver
+Temron - draws Curse
+Temron - places Council Room on top of deck
+Temron - draws Council Room, Curse, Silver, Throne Room, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Familiar
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Mint
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Familiar
+Titandrake - plays Familiar
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Estate
+Titandrake - plays Mint
+Titandrake - reveals Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Pawn, Throne Room, Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Throne Room, Throne Room
+ 
+---------- Temron: turn 19 ----------
+Temron - plays Throne Room
+Temron - plays Council Room
+Temron - draws Familiar, Pearl Diver, Horn of Plenty, Curse
+Titandrake - draws Pawn
+Temron - plays Council Room
+Temron - draws Curse, Familiar, Pawn, Pawn
+Titandrake - draws Familiar
+Temron - plays 1 Silver, 1 Copper
+Temron - plays Horn of Plenty
+Temron - gains Silver
+Temron - buys Silver
+Temron - gains Silver
+Temron - draws Throne Room, Familiar, Council Room, Estate, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Estate
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Familiar
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Throne Room
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Curse
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Familiar
+Titandrake - draws Silver
+Titandrake - plays Familiar
+Titandrake - draws Curse
+Titandrake - plays Throne Room
+Titandrake - plays Familiar
+Titandrake - draws Duchy
+Titandrake - plays Familiar
+Titandrake - draws Council Room
+Titandrake - plays Council Room
+Titandrake - draws Gold, Curse, Mint, Council Room
+Temron - draws Mint
+Titandrake - plays Council Room
+Titandrake - draws Familiar, Pawn, Silver, Council Room
+Temron - draws Copper
+Titandrake - plays Familiar
+Titandrake - draws Estate
+Titandrake - plays Council Room
+Titandrake - draws Estate, Pawn, Silver, Silver
+Temron - shuffles deck
+Temron - draws Silver
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Potion
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Throne Room
+Titandrake - plays 4 Silver, 1 Copper, 1 Gold, 1 Potion
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Pawn, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Pawn, 7 Throne Room, 3 Council Room, 3 Familiar, 1 Mint, 5 Silver, 2 Copper, 1 Gold, 1 Potion, 3 Estate, 2 Duchy, 3 Curse
+Titandrake - total victory points: 6
+Titandrake - turns: 19
+ 
+Temron - cards: 3 Throne Room, 3 Familiar, 3 Pawn, 2 Council Room, 2 Pearl Diver, 1 Mint, 4 Copper, 3 Silver, 1 Horn of Plenty, 3 Estate, 7 Curse
+Temron - total victory points: -4
+Temron - turns: 19
+ 
+1st place: Titandrake
+2nd place: Temron
+ 
