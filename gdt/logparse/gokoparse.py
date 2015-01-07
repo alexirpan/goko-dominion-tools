@@ -52,7 +52,7 @@ RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
 RE_REVEALS = re.compile('(.*) \- reveals: (.*)')
 # Haven edge case (must be checked before edge case below)
 RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand')
-# wording for Hunting Party and Wishing Well
+# wording for Hunting Party, Wishing Well, Farming Village, etc
 RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand')
 # Library edge case (urrrgh)
 RE_MOVES_TO_HAND = re.compile('(.*) \- moves (.*) to hand')
@@ -62,6 +62,8 @@ RE_MOVES_TO_HAND = re.compile('(.*) \- moves (.*) to hand')
 # exact same kind of logic as Scout. Sighhhh
 RE_PLACE_MULTIPLE_IN_HAND = re.compile('(.*) \- places cards in hand: (.*)')
 RE_NATIVE_VILLAGE_PULL = re.compile('(.*) \- takes set aside cards: (.*)')
+RE_REACTION = re.compile('(.*) \- reveals reaction (.*)')
+RE_DURATION = re.compile('(.*) \- duration (.*)')
 
 
 # TODO: fix this
@@ -104,7 +106,10 @@ def read_til_resolved(lines):
     player, card = m.group(1), m.group(2)
     lines[:1] = []
 
-    if card == "Throne Room":
+    # TODO handle Herald
+    # TODO handle Prince
+    # TODO handle Procession/Counterfeit differently
+    if card == "Throne Room" or card == "Procession" or card == "Counterfeit":
         # check the next line to make sure it's an action by the same player
         # this handles the edge case where someone plays Throne Room,
         # but doesn't have any actions in hand to copy
@@ -408,7 +413,8 @@ def generate_game_states(logtext):
                 cards.remove('Treasure Map')
 
             for card in cards:
-                remove_if_in_list(player_hands[player_index(pname)], card)
+                if card != 'Fortress':
+                    remove_if_in_list(player_hands[player_index(pname)], card)
             continue
         m = RE_HAVEN_DURATION.match(line)
         if m:
@@ -483,6 +489,20 @@ def generate_game_states(logtext):
             line = line.split(":")[1]
             cards = [card.strip() for card in line.split(",")]
             player_hands[player_index(pname)].extend(cards)
+            continue
+        m = RE_REACTION.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            if card == 'Horse Traders':
+                remove_if_in_list(player_hands[player_index(pname)], card)
+            continue
+        m = RE_DURATION.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            if card == 'Horse Traders':
+                player_hands[player_index(pname)].append(card)
             continue
 
 # Parse a game log.  Create and return the resulting GameResult object

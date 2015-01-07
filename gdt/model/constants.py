@@ -284,24 +284,60 @@ CARDNAME_TO_TYPE = {
 }
 
 # These help disambiguate actions taken based on the last action played
-GAIN_TO_HAND = ['Mine', 'Trading Post', 'Torturer', 'Explorer']
+# TODO IGG gains a copper to hand on play, but gains a curse to discard on buy
+# must disambiguate between the two (probably has its own edge case)
+# TODO Beggar on play vs reaction
+GAIN_TO_HAND = [
+    'Mine', 'Trading Post', 'Torturer', 'Explorer', 'Ill-Gotten Gains', 'Beggar',
+]
 
 # Treasure Map is not in this list because it's an odd edge case
 # It's handled explicitly elsewhere
-TRASHES_FROM_PLAY = ['Feast', 'Mining Village']
+# TODO since extra play lines are removed, these occasionally may act weird
+# if they are Throned or Counterfeited, and in particular Procession is broken
+# FIX THIS
+# TODO handle Hermit
+# Hermit trashes from hand, or discard, or from play when no cards are bought
+# for now this ignore all of that.
+# TODO handle Urchin, Death Cart
+# Fortress is very special and handled back in the parser
+# TODO handle Knights
+# (both trash from play if Knight revealed, or from revealed cards, or for Dame Anna from hand)
+# for now ignore it all
+TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urchin', 'Death Cart', 'Procession', 'Counterfeit', 'Pillage']
 
-TRASHES_FROM_REVEAL = ['Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Lookout', 'Pirate Ship', 'Loan']
+TRASHES_FROM_REVEAL = [
+    'Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Lookout', 'Pirate Ship', 'Loan', 'Rebuild', 'Rogue',
+    'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
+    'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
+    'Doctor',
+]
 
-# TODO does Sea Hag need to be in a DISCARD_FROM_DECK list?
-DISCARD_FROM_REVEAL = ['Library', 'Hunting Party', 'Spy', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Sea Hag', 'Noble Brigand', 'Scrying Pool', 'Golem', 'Loan', 'Rabble', 'Venture']
+# TODO handle Sir Michael
+DISCARD_FROM_REVEAL = [
+    'Library', 'Hunting Party', 'Spy', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Sea Hag', 'Noble Brigand', 'Scrying Pool', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Jester', 'Duchess', 'Oracle', 'JackOfAllTrades', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
+    'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
+    'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
+    'Advisor', 'Journeyman', 'Envoy',
+]
 
-TOPDECKS_FROM_REVEAL = ['Spy', 'Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble']
+# TODO Inn on buy
+TOPDECKS_FROM_REVEAL = [
+    'Spy', 'Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald',
+]
 
 # TODO all of these cards are triggered in cleanup
 # So, they may not be the resolving action anymore
 # need to handle this properly
 TOPDECKS_FROM_PLAY = ['Treasury', 'Herbalist', 'Alchemist']
 
+# Note - Horse Traders reaction works by luck
+# since for every Attack in the game, it is not in the list below,
+# so the HT revealed is correctly set aside
+# TODO make this robust and explicit
 SETS_ASIDE_FROM_DECK = ['Native Village']
 
-# TODO implement Watchtower, Mint on gain, Royal Seal topdeck
+# TODO implement Watchtower, Mint on gain, Royal Seal topdeck, Walled Village, reactions...
+# In general, do effects that occur when the card is NOT being played
+# TODO implement Band of Misfits (oh my god please no)
+# TODO implement Black Market
