@@ -341,3 +341,5 @@ SETS_ASIDE_FROM_DECK = ['Native Village']
 # In general, do effects that occur when the card is NOT being played
 # TODO implement Band of Misfits (oh my god please no)
 # TODO implement Black Market
+
+TOPDECKS_ON_BUY = ['Herald', 'Inn']
