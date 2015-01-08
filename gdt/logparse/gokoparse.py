@@ -489,7 +489,7 @@ def generate_game_states(logtext):
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
-                if card == "Copper" or card == "Apothecary":
+                if card == "Copper" or card == "Potion":
                     player_hands[player_index(pname)].append(card)
             continue
         if m and last_card_played == 'Scrying Pool':

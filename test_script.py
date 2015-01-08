@@ -15,11 +15,41 @@ for line in lines:
 print 1/ 0 
 """
 
+skip = [
+    126,
+    151,
+    46,
+    142,
+    180,
+    156,
+    175,
+    18,
+    241,
+    185,
+    194,
+    124,
+    159,
+    250,
+    67,
+    216,
+    200,
+    25,
+    167,
+    11,
+    88,
+    249,
+    140,
+    22,
+    234,
+    192,
+]
 if args.run:
     passed = 0
     failed = 0
     failing = []
     for i in range(1, 264):
+        if i in skip:
+            continue
         try:
             generate_game_states(open('testlogs/log%d.txt' % i).read())
             passed += 1
