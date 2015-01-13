@@ -29,38 +29,49 @@ RE_GAMEOVER = re.compile('--* Game Over --*')
 
 # Regex added for replay system
 
-RE_DRAWS = re.compile('(.*) \- draws (.*)')
-RE_PLAYS = re.compile('(.*) \- plays (.*)')
-RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9] .*')
-RE_DISCARDS = re.compile('(.*) \- discards (.*)')
+RE_DRAWS = re.compile('(.*) \- draws (.*)$')
+RE_PLAYS = re.compile('(.*) \- plays ([^\(]*)$')
+RE_ANNOTATED_PLAYS = re.compile('(.*) \- plays ([^\(]*) \(.*\)$')
+RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9] .*$')
+RE_DISCARDS = re.compile('(.*) \- discards (.*)$')
 # This is used when discarding your entire hand, or when
 # revealed cards need to be discarded
-RE_DISCARDS_MULTIPLE = re.compile('(.*) \- discards: (.*)')
+RE_DISCARDS_MULTIPLE = re.compile('(.*) \- discards: (.*)$')
 RE_SHUFFLES = re.compile('(.*) \- shuffles deck$')
 # need this to catch multiple Alchemist case
-RE_TOPDECKS = re.compile('(.*) - places ([^,]*) on top of deck')
-RE_TRASHES = re.compile('(.*) \- trashes (.*)')
-RE_PASSES = re.compile('(.*) \- passes (.*)')
-RE_RETURN_TO_SUPPLY = re.compile('(.*) \- returns (.*) to the Supply')
-RE_SETS_ASIDE = re.compile('(.*) \- sets aside (.*)')
+RE_TOPDECKS = re.compile('(.*) - places ([^,]*) on top of deck$')
+RE_TRASHES = re.compile('(.*) \- trashes (.*)$')
+RE_PASSES = re.compile('(.*) \- passes (.*)$')
+RE_RETURN_TO_SUPPLY = re.compile('(.*) \- returns (.*) to the Supply$')
+RE_SETS_ASIDE = re.compile('(.*) \- sets aside (.*)$')
 # Reveal for current player only, like Cartographer
-RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)')
-RE_REVEALS = re.compile('(.*) \- reveals: (.*)')
+RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)$')
+RE_REVEALS = re.compile('(.*) \- reveals: (.*)$')
 # Haven edge case (must be checked before edge case below)
-RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand')
+RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand$')
 # wording for Hunting Party, Wishing Well, Farming Village, etc
-RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand')
+RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand$')
 # Library edge case (urrrgh)
-RE_MOVES_TO_HAND = re.compile('(.*) \- moves (.*) to hand')
+RE_MOVES_TO_HAND = re.compile('(.*) \- moves (.*) to hand$')
 # This wording is used when multiple revealed cards are put into
 # your hand. Examples are Adventurer, Scout. Oddly enough, not Apothecary
 # Apothecary doesn't log which cards go into your hand, despite using the
 # exact same kind of logic as Scout. Sighhhh
-RE_PLACE_MULTIPLE_IN_HAND = re.compile('(.*) \- places cards in hand: (.*)')
-RE_NATIVE_VILLAGE_PULL = re.compile('(.*) \- takes set aside cards: (.*)')
-RE_REACTION = re.compile('(.*) \- reveals reaction (.*)')
-RE_DURATION = re.compile('(.*) \- duration (.*)')
-RE_BUYS = re.compile('(.*) \- buys (.*)')
+RE_PLACE_MULTIPLE_IN_HAND = re.compile('(.*) \- places cards in hand: (.*)$')
+RE_NATIVE_VILLAGE_PULL = re.compile('(.*) \- takes set aside cards: (.*)$')
+RE_REACTION = re.compile('(.*) \- reveals reaction (.*)$')
+RE_DURATION = re.compile('(.*) \- duration (.*)$')
+RE_BUYS = re.compile('(.*) \- buys (.*)$')
+
+# play line annotations
+TR_ANN = " (Throne Room)"
+KC_ANN = " (King's Court)"
+HERALD_ANN = " (Herald)"
+PROCESSION_ANN = " (Procession)"
+COUNTERFEIT_ANN = " (Counterfeit)"
+GOLEM_ANN = " (Golem)"
+VENTURE_ANN = " (Venture)"
+ANNOTATIONS = [TR_ANN, KC_ANN, HERALD_ANN, PROCESSION_ANN, COUNTERFEIT_ANN, GOLEM_ANN, VENTURE_ANN]
 
 
 # TODO: fix this
@@ -114,30 +125,30 @@ def read_til_resolved(lines):
         m = RE_PLAYS.match(lines[0])
         next_player, next_card = m.group(1), m.group(2)
         if next_player != player:
-            return [(line, True)]
+            return [line]
         if next_card not in CARDNAME_TO_TYPE:
-            return [(line, True)]
+            return [line]
         cardtype = CARDNAME_TO_TYPE[next_card]
         if 'action' not in cardtype.split('-'):
-            return [(line, True)]
+            return [line]
 
         first_play = read_til_resolved(lines)
         second_play = read_til_resolved(lines)
         # first line of 2nd play is extra, but we need to make sure there is a first line
         if second_play:
-            second_play[0] = (second_play[0][0], False)
-        return [(line, True)] + first_play + second_play
+            second_play[0] += TR_ANN
+        return [line] + first_play + second_play
     elif card == "King's Court":
         # again check same thing as TR
         m = RE_PLAYS.match(lines[0])
         next_player, next_card = m.group(1), m.group(2)
         if next_player != player:
-            return [(line, True)]
+            return [line]
         if next_card not in CARDNAME_TO_TYPE:
-            return [(line, True)]
+            return [line]
         cardtype = CARDNAME_TO_TYPE[next_card]
         if 'action' not in cardtype.split('-'):
-            return [(line, True)]
+            return [line]
         # TODO account for KC being optional
         # (distinguish between KC-action, action, and KC choose nothing, action, action)
         first_play = read_til_resolved(lines)
@@ -145,32 +156,33 @@ def read_til_resolved(lines):
         third_play = read_til_resolved(lines)
         # same logic, first line of 2nd and 3rd plays are extra
         if second_play:
-            second_play[0] = (second_play[0][0], False)
+            second_play[0] += KC_ANN
         if third_play:
-            third_play[0] = (third_play[0][0], False)
-        return [(line, True)] + first_play + second_play + third_play
+            third_play[0] += KC_ANN
+        return [line] + first_play + second_play + third_play
     elif card == "Golem":
         # both plays are from the revealed cards, so ignore the first line of both
         # UNTESTED AND UNREFINED
         first_play = read_til_resolved(lines)
         second_play = read_til_resolved(lines)
         if first_play:
-            first_play[0] = (first_play[0][0], False)
+            first_play[0] += GOLEM_ANN
         if second_play:
-            second_play[0] = (second_play[0][0], False)
-        return [(line, True)] + first_play + second_play
+            second_play[0] += GOLEM_ANN
+        return [line] + first_play + second_play
     elif card == "Venture":
         # TODO account for when Venture doesn't find a treasure
         # the next played card comes from revealed cards and is ignorable
         next_play = read_til_resolved(lines)
         if next_play:
-            next_play[0] = (next_play[0][0], False)
-        return [(line, True)] + next_play
+            next_play[0] += VENTURE_ANN
+        return [line] + next_play
     else:
-        return [(line, True)]
+        return [line]
 
 def clean_play_lines(log_lines):
-    # return the log with all extra "plays X" lines removed
+    # return the log with all "plays X" lines annotated
+    # This lets us figure out what "plays X" lines need to move cards from the hand and which don't
     # to do this, we first create a list of all lines that are of the form "X plays Y"
     # this gets passed to the helper function which annotates which lines to keep
     # then, go back to the original log and apply these annotations
@@ -179,16 +191,14 @@ def clean_play_lines(log_lines):
     all_play_lines = [line for line in log_lines if RE_PLAYS.match(line)]
     annotated = []
     while all_play_lines:
+        # read_til_resolved returns a new list with annotations
         annotated.extend(read_til_resolved(all_play_lines))
     cleaned = []
     for line in log_lines:
         if not RE_PLAYS.match(line):
             cleaned.append(line)
-        elif annotated[0][0] != line:
-            raise ValueError("Something weird happened - the annotations don't line up")
         else:
-            if annotated[0][1]:
-                cleaned.append(line)
+            cleaned.append(annotated[0])
             annotated[:1] = []
     return cleaned
 
@@ -407,6 +417,14 @@ def generate_game_states(logtext):
             state.played_by = pname
             state.last_card_played = card
             state.remove_from_hand(pname, card)
+            continue
+        m = RE_ANNOTATED_PLAYS.match(line)
+        if m:
+            # update the state but don't try to move the card
+            pname = m.group(1)
+            card = m.group(2)
+            state.played_by = pname
+            state.last_card_played = card
             continue
         m = RE_BUYS.match(line)
         if m:
