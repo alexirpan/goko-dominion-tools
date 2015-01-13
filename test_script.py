@@ -80,6 +80,19 @@ skip = [
     209,
     144,
     52,
+    # games with Prince in supply
+    108,
+    39,
+    60,
+    162,
+    101,
+    150,
+    203,
+    228,
+    18,
+    15,
+    250,
+    260,
 ]
 if args.run:
     passed = 0
