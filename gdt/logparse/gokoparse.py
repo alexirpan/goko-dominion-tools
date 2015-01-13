@@ -10,10 +10,6 @@ from gdt.model.domgame import GameResult
 from gdt.model.domgame import PlayerResult
 from gdt.model.domgame import GainRet
 
-# global testing hackery
-# REMOVE ME LATER
-debug = True
-
 
 # Regular expressions used to parse goko logs.  Precompiled for speed.
 RE_RATING = re.compile('Rating system: (.*)')
@@ -262,15 +258,48 @@ def find_cleanup_phase_hands(log_lines):
     log_lines[:] = cleaned
     return hands_for_each_turn
 
-# On occasion it's impossible to disambiguate TR/KC chains
-# For now, there's a debug toggle on whether to check the card is in the hand or not
-# (The exception thrown is a good signal for bugs so we want to have the option to turn it back on)
-def remove_if_in_list(lst, element):
-    if debug:
-        lst.remove(element)
-    else:
-        if element in lst:
-            lst.remove(element)
+
+class GameState:
+    # holds all the needed data and some extra methods
+    def __init__(self, pCount, playerInd):
+        self.playerInd = playerInd
+        self.pCount = pCount
+        self.player_hands = [ [] for _ in range(self.pCount) ]
+        self.last_card_played = None
+        self.played_by = None
+        self.last_card_bought = None
+        self.bought_by = None
+        self.revealed_reaction = None
+        self.revealed_by = None
+        self.debug = True
+
+    def player_index(self, pname):
+        return self.playerInd[pname]
+
+    def add_to_hand(self, pname, card):
+        self.player_hands[self.player_index(pname)].append(card)
+
+    def draw_cleanup_hand(self, pname, hand):
+        self.player_hands[self.player_index(pname)] = hand
+
+    def get_hand(self, pname):
+        return self.player_hands[self.player_index(pname)]
+
+    def remove_from_hand(self, pname, card):
+        # disambiguating TR/KC chains isn't always possible
+        # may have to ignore some Tr/KC removals later on, but ValueErrors are good bug signals
+        lst = self.player_hands[self.player_index(pname)]
+        if "WILD" in lst:
+            try:
+                lst.remove(card)
+            except ValueError:
+                lst.remove("WILD")
+        elif self.debug:
+            lst.remove(card)
+        else:
+            if card in lst:
+                lst.remove(card)
+
 
 def generate_game_states(logtext):
     # until I'm sure this code works, placing all replay system code
@@ -282,10 +311,7 @@ def generate_game_states(logtext):
     log_lines = logtext.split("\n")
     startcl = []
     turnl = []
-    # TEMP FIX, STORE LAST ACTION PLAYED
-    # PROBABLY DOESN'T WORK with TR/KC, just want to try something here
-    last_card_played = None
-    last_card_bought = None
+
     pnames = set()
     playerInd = dict()
     pCount = 0
@@ -320,22 +346,18 @@ def generate_game_states(logtext):
             if iOrder == pCount:
                 break
 
-    def player_index(name):
-        return playerInd[name]
-
-
-    player_hands = [ [] for _ in range(pCount) ]
     # log with all extra whitespace/lines removed
     log_lines = [line.strip() for line in log_lines if line.strip()]
 
+    state = GameState(pCount, playerInd)
+
     # handles initializing starting hands for each player
-    # putting this in its own for loop is cleaner, kind of
     start_hands_processed = 0
     for i, line in enumerate(log_lines):
         m = RE_DRAWS.match(line)
         if RE_DRAWS.match(line):
-            name = m.group(1)
-            player_hands[player_index(name)] = get_cards_drawn(line)
+            pname = m.group(1)
+            state.draw_cleanup_hand(pname, get_cards_drawn(line))
             start_hands_processed += 1
             if start_hands_processed == pCount:
                 log_lines = log_lines[i+1:]
@@ -355,7 +377,7 @@ def generate_game_states(logtext):
         # debug printing
         for name in pnames:
             print name
-            print player_hands[player_index(name)]
+            print state.get_hand(name)
         print 'Next line to parse: ', line
         print ' '
 
@@ -365,71 +387,77 @@ def generate_game_states(logtext):
         if m:
             # TODO remove the skipped lines part after this works
             pname, next_hand, skipped_lines = hands_for_next_turn[0]
-            player_hands[player_index(pname)][:] = next_hand
+            state.draw_cleanup_hand(pname, next_hand)
+            # remove first element of list
             hands_for_next_turn[0:1] = []
             print '    Applying the following cleanup lines:'
             print ''.join('    ' + line + '\n' for line in skipped_lines)
             continue
         m = RE_TREASURE_PLAYS.match(line)
         if m:
-            # This doesn't need to update last_card_played since
+            # This doesn't need to update state.last_card_played since
             # the play treasures buttons only plays treasures with no side effects
             pname = m.group(1)
-            handle_treasure_case(player_hands[player_index(pname)], line)
+            handle_treasure_case(state.get_hand(pname), line)
             continue
         m = RE_PLAYS.match(line)
         if m:
             pname = m.group(1)
-            last_card_played = m.group(2)
-            remove_if_in_list(player_hands[player_index(pname)], last_card_played)
+            card = m.group(2)
+            state.played_by = pname
+            state.last_card_played = card
+            state.remove_from_hand(pname, card)
             continue
         m = RE_BUYS.match(line)
         if m:
             pname = m.group(1)
-            last_card_bought = m.group(2)
+            card = m.group(2)
+            state.bought_by = pname
+            state.last_card_bought = card
             continue
         m = RE_DISCARDS_MULTIPLE.match(line)
-        if m and last_card_played not in DISCARD_FROM_REVEAL:
+        if m and state.last_card_played not in DISCARD_FROM_REVEAL:
             pname = m.group(1)
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
-                remove_if_in_list(player_hands[player_index(pname)], card)
+                state.remove_from_hand(pname, card)
             continue
         m = RE_DISCARDS.match(line)
-        if m and last_card_played not in DISCARD_FROM_REVEAL:
+        if m and state.last_card_played not in DISCARD_FROM_REVEAL:
             pname = m.group(1)
             card = m.group(2)
-            remove_if_in_list(player_hands[player_index(pname)], card)
+            state.remove_from_hand(pname, card)
             continue
         m = RE_TOPDECKS.match(line)
-        if m and last_card_played not in TOPDECKS_FROM_REVEAL and last_card_played not in TOPDECKS_FROM_PLAY and last_card_bought not in TOPDECKS_ON_BUY:
+        if m and state.last_card_played not in TOPDECKS_FROM_REVEAL and state.last_card_played not in TOPDECKS_FROM_PLAY and state.last_card_bought not in TOPDECKS_ON_BUY:
             pname = m.group(1)
             card = m.group(2)
-            remove_if_in_list(player_hands[player_index(pname)], card)
+            state.remove_from_hand(pname, card)
             continue
         m = RE_DRAWS.match(line)
         if m:
             pname = m.group(1)
-            player_hands[player_index(pname)].extend(get_cards_drawn(line))
+            for card in get_cards_drawn(line):
+                state.add_to_hand(pname, card)
             continue
         m = RE_TRASHES.match(line)
-        if m and last_card_played not in TRASHES_FROM_PLAY and last_card_played not in TRASHES_FROM_REVEAL:
+        if m and state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL:
             pname = m.group(1)
             cards = get_cards_trashed(line)
             # the TM in play is always trashed, so remove one from the list
-            if last_card_played == 'Treasure Map':
+            if state.last_card_played == 'Treasure Map':
                 cards.remove('Treasure Map')
 
             for card in cards:
                 if card != 'Fortress':
-                    remove_if_in_list(player_hands[player_index(pname)], card)
+                    state.remove_from_hand(pname, card)
             continue
         m = RE_HAVEN_DURATION.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            player_hands[player_index(pname)].append(card)
+            state.add_to_hand(pname, card)
             continue
         m = RE_PLACE_MULTIPLE_IN_HAND.match(line)
         if m:
@@ -437,81 +465,92 @@ def generate_game_states(logtext):
             # get cards to put in hand
             line = line.rsplit(":", 1)[-1]
             cards = [card.strip() for card in line.split(",")]
-            player_hands[player_index(pname)].extend(cards)
+            for card in cards:
+                state.add_to_hand(pname, card)
             continue
         m = RE_PLACES_IN_HAND.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            player_hands[player_index(pname)].append(card)
+            state.add_to_hand(pname, card)
             continue
         m = RE_MOVES_TO_HAND.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            player_hands[player_index(pname)].append(card)
+            state.add_to_hand(pname, card)
             continue
         m = RE_GAINS.match(line)
-        if m and last_card_played in GAIN_TO_HAND:
+        if m and state.last_card_played in GAIN_TO_HAND:
             pname = m.group(1)
             card = m.group(2)
-            player_hands[player_index(pname)].append(card)
+            state.add_to_hand(pname, card)
             continue
         m = RE_PASSES.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            remove_if_in_list(player_hands[player_index(pname)], card)
-            player_hands[(player_index(pname) + 1) % pCount].append(card)
+            state.remove_from_hand(pname, card)
+            # clean me up later
+            next_player_ind = (playerInd[pname] + 1) % pCount
+            for p in playerInd:
+                if playerInd[p] == next_player_ind:
+                    next_player = playerInd[p]
+                    state.add_to_hand(next_player, card)
+                    break
             continue
         m = RE_RETURN_TO_SUPPLY.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            remove_if_in_list(player_hands[player_index(pname)], card)
+            state.remove_from_hand(pname, card)
             continue
         m = RE_SETS_ASIDE.match(line)
-        if m and last_card_played not in SETS_ASIDE_FROM_DECK:
+        if m and state.last_card_played not in SETS_ASIDE_FROM_DECK:
             pname = m.group(1)
             card = m.group(2)
-            remove_if_in_list(player_hands[player_index(pname)], card)
+            state.remove_from_hand(pname, card)
             continue
         m = RE_NATIVE_VILLAGE_PULL.match(line)
         if m:
             pname = m.group(1)
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
-            player_hands[player_index(pname)].extend(cards)
+            for card in cards:
+                state.add_to_hand(pname, card)
         m = RE_REVEALS.match(line)
-        if m and last_card_played == 'Apothecary':
+        if m and state.last_card_played == 'Apothecary':
             # Apothecary Copper pulling is not listed in the log
             pname = m.group(1)
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
                 if card == "Copper" or card == "Potion":
-                    player_hands[player_index(pname)].append(card)
+                    state.add_to_hand(pname, card)
             continue
-        if m and last_card_played == 'Scrying Pool':
+        if m and state.last_card_played == 'Scrying Pool':
             # Neither is Scrying Pool
             pname = m.group(1)
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
-            player_hands[player_index(pname)].extend(cards)
+            for card in cards:
+                state.add_to_hand(pname, card)
             continue
         m = RE_REACTION.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
+            state.revealed_by = pname
+            state.revealed_reaction = card
             if card == 'Horse Traders':
-                remove_if_in_list(player_hands[player_index(pname)], card)
+                state.remove_from_hand(pname, card)
             continue
         m = RE_DURATION.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
             if card == 'Horse Traders':
-                player_hands[player_index(pname)].append(card)
+                state.add_to_hand(pname, card)
             continue
 
 # Parse a game log.  Create and return the resulting GameResult object
