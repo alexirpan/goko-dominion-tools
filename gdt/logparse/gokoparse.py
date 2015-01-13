@@ -32,7 +32,7 @@ RE_GAMEOVER = re.compile('--* Game Over --*')
 RE_DRAWS = re.compile('(.*) \- draws (.*)$')
 RE_PLAYS = re.compile('(.*) \- plays ([^\(]*)$')
 RE_ANNOTATED_PLAYS = re.compile('(.*) \- plays ([^\(]*) \(.*\)$')
-RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9] .*$')
+RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9]+ .*$')
 RE_DISCARDS = re.compile('(.*) \- discards (.*)$')
 # This is used when discarding your entire hand, or when
 # revealed cards need to be discarded
@@ -64,6 +64,7 @@ RE_REACTION = re.compile('(.*) \- reveals reaction (.*)$')
 RE_DURATION = re.compile('(.*) \- duration (.*)$')
 RE_BUYS = re.compile('(.*) \- buys (.*)$')
 RE_WATCHTOWER = re.compile('(.*) \- applied Watchtower to (.*)$')
+RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
 
 # play line annotations
 TR_ANN = " (Throne Room)"
@@ -205,16 +206,12 @@ def clean_play_lines(log_lines):
     return cleaned
 
 def get_cards_drawn(line):
-    line = line[line.rfind('-'):]
-    # Remove "- draws "
-    line = line[8:]
-    return line.split(', ')
+    line = line[line.rfind('- draws ') + 8:]
+    return [card.strip() for card in line.split(', ')]
 
 def get_cards_trashed(line):
-    line = line[line.rfind('-'):]
-    # Remove "- trashes "
-    line = line[10:]
-    return line.split(', ')
+    line = line[line.rfind('- trashes ') + 10:]
+    return [card.strip() for card in line.split(', ')]
 
 def find_cleanup_phase_hands(log_lines):
     # Okay so dealing with this is just so annoying
@@ -235,15 +232,22 @@ def find_cleanup_phase_hands(log_lines):
         cards = []
         # we only expect to see draws or shuffles
         start = ind - 1
+        player = None
         while True:
             line = log_lines[start]
             m = RE_DRAWS.match(line)
             if m:
                 pname = m.group(1)
+                if player is None:
+                    player = pname
+                elif player != pname:
+                    break
                 cards.extend(get_cards_drawn(line))
                 if len(cards) == 5:
                     break
             elif RE_SHUFFLES.match(line):
+                pass
+            elif RE_STASH.match(line):
                 pass
             else:
                 break
@@ -254,8 +258,10 @@ def find_cleanup_phase_hands(log_lines):
     curr = 0
     for start, end in lines_to_remove:
         cleaned.extend(log_lines[curr:start])
+        cleaned.append("DRAW NEW HAND")
         curr = end
     cleaned.extend(log_lines[curr:])
+    cleaned.append("DRAW NEW HAND")
     log_lines[:] = cleaned
     return hands_for_each_turn
 
@@ -425,11 +431,12 @@ def generate_game_states(logtext):
         print 'Next line to parse: ', line
         print ' '
 
-        # draw line is opening hand if the next line describes the next turn
-        # TODO some annoying Possession edge case?
+        # TODO do something useful for this case
         m = RE_TURNX.match(next_line)
         if m:
-            # TODO remove the skipped lines part after this works
+            pass
+        # in preprocessing, add a special marker for when to trigger cleanup
+        if line == "DRAW NEW HAND":
             pname, next_hand, skipped_lines = hands_for_next_turn[0]
             state.draw_cleanup_hand(pname, next_hand)
             # remove first element of list

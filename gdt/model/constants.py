@@ -304,7 +304,7 @@ GAIN_TO_HAND = [
 # TODO handle Knights
 # (both trash from play if Knight revealed, or from revealed cards, or for Dame Anna from hand)
 # for now ignore it all
-TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urchin', 'Death Cart', 'Procession', 'Counterfeit', 'Pillage']
+TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urchin', 'Death Cart', 'Procession', 'Counterfeit', 'Pillage', 'Embargo']
 
 TRASHES_FROM_REVEAL = [
     'Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Lookout', 'Pirate Ship', 'Loan', 'Rebuild', 'Rogue',
@@ -343,5 +343,5 @@ SETS_ASIDE_FROM_DECK = ['Native Village']
 # TODO implement Black Market
 
 TOPDECKS_ON_BUY = ['Herald', 'Inn', 'Doctor']
-TRASHES_ON_BUY = ['Doctor', 'Mint']
-DISCARD_ON_BUY = ['Doctor']
+TRASHES_ON_BUY = ['Doctor', 'Mint', 'Noble Brigand']
+DISCARD_ON_BUY = ['Doctor', 'Noble Brigand']
