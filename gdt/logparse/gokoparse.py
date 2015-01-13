@@ -481,6 +481,30 @@ def generate_game_states(logtext):
                 state.remove_from_hand(pname, card)
             continue
         m = RE_DISCARDS.match(line)
+        if m and state.last_card_played == 'JackOfAllTrades':
+            # we need to redraw up to 5 before processing more
+            # (next line may be JoaT trash
+            pname = m.group(1)
+            hand_len = len(state.get_hand(pname))
+            for _ in range(5-hand_len):
+                state.add_wild(pname)
+            # don't continue, still need to check other cases
+        if m and state.last_card_played == 'Vault':
+            # check if an opponent is using Vault benefit
+            pname = m.group(1)
+            if pname != state.played_by:
+                # bad hack
+                # check if next line is also a discard line for this player
+                # this checks for if the player discards 2 cards or not
+                # and will only trigger once
+                m2 = RE_DISCARDS.match(next_line)
+                # the wild is added 1 line early, but that's fine since the other
+                # card discarded to opponent's Vault must be in hand and will get handled
+                # on the next run through the loop
+                if m2 and m2.group(1) == pname:
+                    state.add_wild(pname)
+            # also don't continue
+
         if m and state.last_card_played not in DISCARD_FROM_REVEAL and state.last_card_bought not in DISCARD_ON_BUY:
             pname = m.group(1)
             card = m.group(2)
@@ -488,6 +512,15 @@ def generate_game_states(logtext):
             continue
         m = RE_TOPDECKS.match(line)
         # current phase is not very robust so odds are bugs are here
+        if m and state.last_card_played == 'JackOfAllTrades':
+            # we need to redraw up to 5 before processing more
+            # (next line may be JoaT trash
+            pname = m.group(1)
+            hand_len = len(state.get_hand(pname))
+            for _ in range(5-hand_len):
+                state.add_wild(pname)
+            # don't continue, now check the actual topdeck case
+
         if m and state.last_card_played not in TOPDECKS_FROM_REVEAL and state.last_card_played not in TOPDECKS_FROM_PLAY and state.last_card_bought not in TOPDECKS_ON_BUY and state.phase == 'action':
             pname = m.group(1)
             card = m.group(2)

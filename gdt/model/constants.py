@@ -323,7 +323,7 @@ DISCARD_FROM_REVEAL = [
 
 # TODO Inn on buy
 TOPDECKS_FROM_REVEAL = [
-    'Spy', 'Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant',
+    'Spy', 'Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades',
 ]
 
 # TODO all of these cards are triggered in cleanup
