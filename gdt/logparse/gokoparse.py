@@ -47,6 +47,7 @@ RE_SETS_ASIDE = re.compile('(.*) \- sets aside (.*)$')
 # Reveal for current player only, like Cartographer
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)$')
 RE_REVEALS = re.compile('(.*) \- reveals: (.*)$')
+RE_REVEALS2 = re.compile('(.*) \- reveals (.*)$')
 # Haven edge case (must be checked before edge case below)
 RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand$')
 # wording for Hunting Party, Wishing Well, Farming Village, etc
@@ -62,6 +63,7 @@ RE_NATIVE_VILLAGE_PULL = re.compile('(.*) \- takes set aside cards: (.*)$')
 RE_REACTION = re.compile('(.*) \- reveals reaction (.*)$')
 RE_DURATION = re.compile('(.*) \- duration (.*)$')
 RE_BUYS = re.compile('(.*) \- buys (.*)$')
+RE_WATCHTOWER = re.compile('(.*) \- applied Watchtower to (.*)$')
 
 # play line annotations
 TR_ANN = " (Throne Room)"
@@ -214,17 +216,6 @@ def get_cards_trashed(line):
     line = line[10:]
     return line.split(', ')
 
-def handle_treasure_case(hand, line):
-    line = line[line.rfind('-'):]
-    # Remove "- plays "
-    line = line[8:]
-    treasure_names_and_num = line.split(', ')
-    for token in treasure_names_and_num:
-        num, name = token.split(' ', 1)
-        num = int(num)
-        for _ in range(num):
-            hand.remove(name)
-
 def find_cleanup_phase_hands(log_lines):
     # Okay so dealing with this is just so annoying
     # the only way to differentiate hands drawn during cleanup is by where they are
@@ -271,6 +262,8 @@ def find_cleanup_phase_hands(log_lines):
 
 class GameState:
     # holds all the needed data and some extra methods
+    WILD = "WILDCARD"
+
     def __init__(self, pCount, playerInd):
         self.playerInd = playerInd
         self.pCount = pCount
@@ -282,12 +275,28 @@ class GameState:
         self.revealed_reaction = None
         self.revealed_by = None
         self.debug = True
+        self.phase = 'action'
 
     def player_index(self, pname):
         return self.playerInd[pname]
 
     def add_to_hand(self, pname, card):
         self.player_hands[self.player_index(pname)].append(card)
+
+    def handle_treasure_case(self, pname, line):
+        line = line[line.rfind('-'):]
+        # Remove "- plays "
+        line = line[8:]
+        treasure_names_and_num = line.split(', ')
+        for token in treasure_names_and_num:
+            num, cardname = token.split(' ', 1)
+            self.set_last_card_played(pname, cardname)
+            num = int(num)
+            for _ in range(num):
+                self.remove_from_hand(pname, cardname)
+
+    def add_wild(self, pname):
+        self.add_to_hand(pname, GameState.WILD)
 
     def draw_cleanup_hand(self, pname, hand):
         self.player_hands[self.player_index(pname)] = hand
@@ -299,16 +308,41 @@ class GameState:
         # disambiguating TR/KC chains isn't always possible
         # may have to ignore some Tr/KC removals later on, but ValueErrors are good bug signals
         lst = self.player_hands[self.player_index(pname)]
-        if "WILD" in lst:
+        if GameState.WILD in lst:
             try:
                 lst.remove(card)
             except ValueError:
-                lst.remove("WILD")
+                lst.remove(GameState.WILD)
         elif self.debug:
             lst.remove(card)
         else:
             if card in lst:
                 lst.remove(card)
+
+    def set_last_card_played(self, pname, card):
+        self.last_card_played = card
+        self.played_by = pname
+        self.last_card_bought = None
+        self.bought_by = None
+        self.revealed_reaction = None
+        self.revealed_by = None
+        if 'treasure' in CARDNAME_TO_TYPE[card]:
+            self.phase = 'buy'
+        else:
+            self.pahse = 'action'
+
+    def set_last_card_bought(self, pname, card):
+        self.last_card_played = None
+        self.played_by = None
+        self.last_card_bought = card
+        self.bought_by = pname
+        self.revealed_reaction = None
+        self.revealed_by = None
+
+    def set_revealed_reaction(self, pname, card):
+        # Don't want to set rest to anything else
+        self.revealed_reaction = card
+        self.revealed_by = pname
 
 
 def generate_game_states(logtext):
@@ -408,14 +442,13 @@ def generate_game_states(logtext):
             # This doesn't need to update state.last_card_played since
             # the play treasures buttons only plays treasures with no side effects
             pname = m.group(1)
-            handle_treasure_case(state.get_hand(pname), line)
+            state.handle_treasure_case(pname, line)
             continue
         m = RE_PLAYS.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.played_by = pname
-            state.last_card_played = card
+            state.set_last_card_played(pname, card)
             state.remove_from_hand(pname, card)
             continue
         m = RE_ANNOTATED_PLAYS.match(line)
@@ -423,18 +456,17 @@ def generate_game_states(logtext):
             # update the state but don't try to move the card
             pname = m.group(1)
             card = m.group(2)
-            state.played_by = pname
-            state.last_card_played = card
+            state.set_last_card_played(pname, card)
             continue
         m = RE_BUYS.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.bought_by = pname
-            state.last_card_bought = card
+            state.set_last_card_bought(pname, card)
+            state.phase = 'buy'
             continue
         m = RE_DISCARDS_MULTIPLE.match(line)
-        if m and state.last_card_played not in DISCARD_FROM_REVEAL:
+        if m and state.last_card_played not in DISCARD_FROM_REVEAL and state.last_card_bought not in DISCARD_ON_BUY:
             pname = m.group(1)
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
@@ -442,13 +474,14 @@ def generate_game_states(logtext):
                 state.remove_from_hand(pname, card)
             continue
         m = RE_DISCARDS.match(line)
-        if m and state.last_card_played not in DISCARD_FROM_REVEAL:
+        if m and state.last_card_played not in DISCARD_FROM_REVEAL and state.last_card_bought not in DISCARD_ON_BUY:
             pname = m.group(1)
             card = m.group(2)
             state.remove_from_hand(pname, card)
             continue
         m = RE_TOPDECKS.match(line)
-        if m and state.last_card_played not in TOPDECKS_FROM_REVEAL and state.last_card_played not in TOPDECKS_FROM_PLAY and state.last_card_bought not in TOPDECKS_ON_BUY:
+        # current phase is not very robust so odds are bugs are here
+        if m and state.last_card_played not in TOPDECKS_FROM_REVEAL and state.last_card_played not in TOPDECKS_FROM_PLAY and state.last_card_bought not in TOPDECKS_ON_BUY and state.phase == 'action':
             pname = m.group(1)
             card = m.group(2)
             state.remove_from_hand(pname, card)
@@ -460,16 +493,27 @@ def generate_game_states(logtext):
                 state.add_to_hand(pname, card)
             continue
         m = RE_TRASHES.match(line)
-        if m and state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL:
+        if m:
             pname = m.group(1)
             cards = get_cards_trashed(line)
-            # the TM in play is always trashed, so remove one from the list
-            if state.last_card_played == 'Treasure Map':
-                cards.remove('Treasure Map')
+            trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_ON_BUY and state.revealed_reaction != 'Watchtower'
+            if trash_from_hand:
+                # the TM in play is always trashed, so remove one from the list
+                if state.last_card_played == 'Treasure Map':
+                    cards.remove('Treasure Map')
 
-            for card in cards:
-                if card != 'Fortress':
-                    state.remove_from_hand(pname, card)
+                for card in cards:
+                    if card != 'Fortress':
+                        state.remove_from_hand(pname, card)
+            else:
+                # handle on-trash effects
+                for card in cards:
+                    if card == 'Fortress':
+                        # not trashed from the hand, so we need to put it back
+                        state.add_to_hand(pname, 'Fortress')
+                    elif card == 'Overgrown Estate':
+                        # doesn't log what card is drawn
+                        state.add_wild(pname)
             continue
         m = RE_HAVEN_DURATION.match(line)
         if m:
@@ -513,7 +557,7 @@ def generate_game_states(logtext):
             next_player_ind = (playerInd[pname] + 1) % pCount
             for p in playerInd:
                 if playerInd[p] == next_player_ind:
-                    next_player = playerInd[p]
+                    next_player = p
                     state.add_to_hand(next_player, card)
                     break
             continue
@@ -546,10 +590,13 @@ def generate_game_states(logtext):
                 if card == "Copper" or card == "Potion":
                     state.add_to_hand(pname, card)
             continue
+        m = RE_REVEALS2.match(line)
         if m and state.last_card_played == 'Scrying Pool':
             # Neither is Scrying Pool
             pname = m.group(1)
-            line = line.rsplit(":", 1)[1]
+            if pname != state.played_by:
+                continue
+            line = line[line.index("- reveals")+9:]
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
                 state.add_to_hand(pname, card)
@@ -558,8 +605,7 @@ def generate_game_states(logtext):
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.revealed_by = pname
-            state.revealed_reaction = card
+            state.set_revealed_reaction(pname, card)
             if card == 'Horse Traders':
                 state.remove_from_hand(pname, card)
             continue
@@ -569,6 +615,13 @@ def generate_game_states(logtext):
             card = m.group(2)
             if card == 'Horse Traders':
                 state.add_to_hand(pname, card)
+            continue
+        # Watchtower topdeck is not handled for now
+        # TODO implement it
+        m = RE_WATCHTOWER.match(line)
+        if m:
+            pname = m.group(1)
+            state.set_revealed_reaction(pname, 'Watchtower')
             continue
 
 # Parse a game log.  Create and return the resulting GameResult object

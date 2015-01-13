@@ -93,6 +93,34 @@ skip = [
     15,
     250,
     260,
+    # games with Procession or Counterfeit in supply
+    # (need to overhaul the annotation system to handle these cases)
+    233,
+    132,
+    162,
+    143,
+    248,
+    150,
+    15 ,
+    32 ,
+    64 ,
+    8 ,
+    74 ,
+    243,
+    23 ,
+    178,
+    173,
+    102,
+    158,
+    2 ,
+    1 ,
+    244,
+    249,
+    256,
+    49 ,
+    234,
+    260,
+    117,
 ]
 if args.run:
     passed = 0
@@ -110,4 +138,8 @@ if args.run:
     print 'Passed %d out of %d tests' % (passed, failed + passed)
     print 'Failing logs', failing
 else:
-    game = generate_game_states(open(args.name).read())
+    import re
+    if re.compile("[0-9]+").match(args.name):
+        game = generate_game_states(open("testlogs/log%d.txt" % int(args.name)).read())
+    else:
+        game = generate_game_states(open(args.name).read())

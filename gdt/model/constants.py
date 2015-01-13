@@ -318,7 +318,7 @@ DISCARD_FROM_REVEAL = [
     'Library', 'Hunting Party', 'Spy', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Sea Hag', 'Noble Brigand', 'Scrying Pool', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Jester', 'Duchess', 'Oracle', 'JackOfAllTrades', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
     'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
     'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
-    'Advisor', 'Journeyman', 'Envoy',
+    'Advisor', 'Journeyman', 'Envoy', 'Lookout',
 ]
 
 # TODO Inn on buy
@@ -342,4 +342,6 @@ SETS_ASIDE_FROM_DECK = ['Native Village']
 # TODO implement Band of Misfits (oh my god please no)
 # TODO implement Black Market
 
-TOPDECKS_ON_BUY = ['Herald', 'Inn']
+TOPDECKS_ON_BUY = ['Herald', 'Inn', 'Doctor']
+TRASHES_ON_BUY = ['Doctor', 'Mint']
+DISCARD_ON_BUY = ['Doctor']
