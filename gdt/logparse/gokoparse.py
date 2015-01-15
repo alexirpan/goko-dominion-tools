@@ -43,7 +43,7 @@ RE_TOPDECKS = re.compile('(.*) - places ([^,]*) on top of deck$')
 RE_TRASHES = re.compile('(.*) \- trashes (.*)$')
 RE_PASSES = re.compile('(.*) \- passes (.*)$')
 RE_RETURN_TO_SUPPLY = re.compile('(.*) \- returns (.*) to the Supply$')
-RE_SETS_ASIDE = re.compile('(.*) \- sets aside (.*)$')
+RE_SETS_ASIDE = re.compile('(.*) \- sets aside ([^\(]*)$')
 # Reveal for current player only, like Cartographer
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)$')
 RE_REVEALS = re.compile('(.*) \- reveals: (.*)$')
@@ -65,6 +65,7 @@ RE_DURATION = re.compile('(.*) \- duration (.*)$')
 RE_BUYS = re.compile('(.*) \- buys (.*)$')
 RE_WATCHTOWER = re.compile('(.*) \- applied Watchtower to (.*)$')
 RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
+RE_PRINCE = re.compile('(.*) \- duration Prince$')
 
 # play line annotations
 TR_ANN = " (Throne Room)"
@@ -74,7 +75,8 @@ PROCESSION_ANN = " (Procession)"
 COUNTERFEIT_ANN = " (Counterfeit)"
 GOLEM_ANN = " (Golem)"
 VENTURE_ANN = " (Venture)"
-ANNOTATIONS = [TR_ANN, KC_ANN, HERALD_ANN, PROCESSION_ANN, COUNTERFEIT_ANN, GOLEM_ANN, VENTURE_ANN]
+PRINCE_ANN = " (Prince)"
+ANNOTATIONS = [TR_ANN, KC_ANN, HERALD_ANN, PROCESSION_ANN, COUNTERFEIT_ANN, GOLEM_ANN, VENTURE_ANN, PRINCE_ANN]
 
 
 # TODO: fix this
@@ -104,84 +106,192 @@ def scores_to_ranks(scores):
         ranks[i] = len(larger) + 1
     return(ranks)
 
-# helper function for clean_play_lines, DO NOT CALL ELSEWHERE
-def read_til_resolved(lines):
+# this should be RE_PLAYS | RE_PRINCE
+RE_DEFAULT = re.compile("(.*) \- plays ([^\(]*)$|(.*) \- duration Prince")
+# helper functions for clean_play_lines, DO NOT CALL ELSEWHERE
+
+def read_until_next_matches(lines, parsed, matcher):
+    while lines and matcher.match(lines[0]) is None:
+        parsed.append(lines[0])
+        lines[:1] = []
+
+def baddecorator(f):
+    # very quick fix to check if logic is correct
+    # we need to read until the next RE_DEFAULTS line after every return and this is
+    # less code than doing it right
+    def read_until_resolved_patched(lines):
+        parsed = f(lines)
+        read_until_next_matches(lines, parsed, RE_DEFAULT)
+        return parsed
+    return read_until_resolved_patched
+
+@baddecorator
+def read_until_resolved(lines):
+    """
+    lines - passed in list of log lines, modified in place
+    curr_matcher - the regex that the first line should satisfy. Raise exception if not true
+    next_matcher - the regex that we want to match next
+    """
+    def remove_annotation(line):
+        if line[-1] == ')':
+            return line.rsplit(' (',1)[0]
+        return line
+
     # quick sanity check
     # this can happen if the last action played is a giant TR chain, with
     # no other actions in hand to copy
+    parsed = []
+    m = None
     if not lines:
         return []
-    # make sure the while loop runs at least once
     line = lines[0]
-    m = RE_PLAYS.match(line)
-    player, card = m.group(1), m.group(2)
     lines[:1] = []
+    curr_matcher = RE_DEFAULT
+    m = curr_matcher.match(line)
+    parsed.append(line)
+
+    # figure out what information to parse
+    # Prince case handled here
+    if RE_PRINCE.match(parsed[-1]):
+        read_until_next_matches(lines, parsed, RE_PLAYS)
+        next_play = read_until_resolved(lines)
+        if next_play:
+            next_play[0] += PRINCE_ANN
+        return parsed + next_play
+    else:
+        player, card = m.group(1), m.group(2)
+
+    # by this point, the only case is RE_PLAYS
 
     # TODO handle Herald
-    # TODO handle Prince
     # TODO handle Procession/Counterfeit differently
-    if card == "Throne Room" or card == "Procession" or card == "Counterfeit":
-        # check the next line to make sure it's an action by the same player
-        # this handles the edge case where someone plays Throne Room,
-        # but doesn't have any actions in hand to copy
-        # (might not handle all of it)
-        m = RE_PLAYS.match(lines[0])
-        next_player, next_card = m.group(1), m.group(2)
-        if next_player != player:
-            return [line]
-        if next_card not in CARDNAME_TO_TYPE:
-            return [line]
-        cardtype = CARDNAME_TO_TYPE[next_card]
-        if 'action' not in cardtype.split('-'):
-            return [line]
-
-        first_play = read_til_resolved(lines)
-        second_play = read_til_resolved(lines)
-        # first line of 2nd play is extra, but we need to make sure there is a first line
-        if second_play:
+    # Prince acse is handled above
+    if card == "Throne Room":
+        read_until_next_matches(parsed, RE_PLAYS)
+        first_play = read_until_resolved(lines)
+        second_play = read_until_resolved(lines)
+        # first verify an action got Throne Roomed
+        if not first_play:
+            copied = False
+        elif not second_play:
+            copied = False
+        else:
+            m = RE_PLAYS.match(first_play[0])
+            p1, c1 = m.group(1), m.group(2)
+            m2 = RE_PLAYS.match(second_play[0])
+            p2, c2 = m.group(1), m.group(2)
+            # Yes Python allows these equality chains. It's MAGIC
+            copied = (c1 == c2) and (player == p1 == p2) and ('action' in CARDNAME_TO_TYPE[c1])
+        if copied:
             second_play[0] += TR_ANN
-        return [line] + first_play + second_play
+            return parsed + first_play + second_play
+        else:
+            # put back other lines to process again
+            lines[:0] = first_play + second_play
+            return parsed
     elif card == "King's Court":
-        # again check same thing as TR
-        m = RE_PLAYS.match(lines[0])
-        next_player, next_card = m.group(1), m.group(2)
-        if next_player != player:
-            return [line]
-        if next_card not in CARDNAME_TO_TYPE:
-            return [line]
-        cardtype = CARDNAME_TO_TYPE[next_card]
-        if 'action' not in cardtype.split('-'):
-            return [line]
-        # TODO account for KC being optional
-        # (distinguish between KC-action, action, and KC choose nothing, action, action)
-        first_play = read_til_resolved(lines)
-        second_play = read_til_resolved(lines)
-        third_play = read_til_resolved(lines)
-        # same logic, first line of 2nd and 3rd plays are extra
-        if second_play:
+        read_until_next_matches(parsed, RE_PLAYS)
+        first_play = read_until_resolved(lines)
+        second_play = read_until_resolved(lines)
+        third_play = read_until_resolved(lines)
+        if not first_play or not second_play or not third_play:
+            copied = False
+        else:
+            m = RE_PLAYS.match(first_play[0])
+            p1, c1 = m.group(1), m.group(2)
+            m2 = RE_PLAYS.match(second_play[0])
+            p2, c2 = m.group(1), m.group(2)
+            m3 = RE_PLAYS.match(third_play[0])
+            p3, c3 = m.group(1), m.group(2)
+            copied = (c1 == c2 == c3) and (player == p1 == p2 == p3) and ('action' in CARDNAME_TO_TYPE[c1])
+        if copied:
             second_play[0] += KC_ANN
-        if third_play:
             third_play[0] += KC_ANN
-        return [line] + first_play + second_play + third_play
+            return parsed + first_play + second_play + third_play
+        else:
+            lines[:0] = [remove_annotation(line) for line in first_play + second_play + third_play]
+            return parsed
+    elif card == "Procession":
+        pass
+        """
+        read_until_next_matches(parsed, RE_PLAYS)
+        first_play = read_until_resolved(lines)
+        second_play = read_until_resolved(lines)
+        if not firstplay or not second_play:
+            copied = False
+        else:
+            m = RE_PLAYS.match(first_play[0])
+            p1, c1 = m.group(1), m.group(2)
+            m2 = RE_PLAYS.match(second_play[0])
+            p2, c2 = m.group(1), m.group(2)
+            copied = (c1 == c2) and (player == p1 == p2) and ('action' in CARDNAME_TO_TYPE[c1])
+        if not copied:
+            lines[:0] = first_play + second_play
+            return parse
+        # we still need to check that the card is trashed before fully commiting
+        action_card = RE_PLAYS.match(first_play[0]).group(2)
+        trash_lines = []
+        while lines:
+            trash_lines.append(lines[0])
+            lines[:1] = []
+            if RE_REVEALS.match(trash_lines[-1]):
+                continue
+            if RE_DEFAULT.match(trash_lines[-1]):
+                # must abort
+                # TODO how do we know to not process the trash lines in second play call?
+                continue
+            if RE_TRASHES.match(trash_lines[-1]).group(2) == action_card:
+                break
+
+        if not firstplay or not second_play:
+            copied = False
+        else:
+            m = RE_PLAYS.match(first_play[0])
+            p1, c1 = m.group(1), m.group(2)
+            m2 = RE_PLAYS.match(second_play[0])
+            p2, c2 = m.group(1), m.group(2)
+        return parsed + first_play + second_play + trashed
+        """
+    elif card == "Counterfeit":
+        pass
+    elif card == "Herald":
+        read_until_next_matches(lines, parsed, RE_REVEALS)
+        if lines and 'action' in CARDNAME_TO_TYPE[RE_REVEALS.match(lines[0]).group(2)]:
+            read_until_next_matches(lines, parsed, RE_PLAYS)
+            next_play = read_until_resolved(lines)
+            if next_play:
+                next_play[0] += HERALD_ANN
+            return parsed + next_play
+        else:
+            return parsed
     elif card == "Golem":
         # both plays are from the revealed cards, so ignore the first line of both
         # UNTESTED AND UNREFINED
-        first_play = read_til_resolved(lines)
-        second_play = read_til_resolved(lines)
+        read_until_next_matches(lines, parsed, RE_PLAYS)
+        first_play = read_until_resolved(lines)
+        second_play = read_until_resolved(lines)
         if first_play:
             first_play[0] += GOLEM_ANN
         if second_play:
             second_play[0] += GOLEM_ANN
-        return [line] + first_play + second_play
+        return parsed + first_play + second_play
     elif card == "Venture":
         # TODO account for when Venture doesn't find a treasure
         # the next played card comes from revealed cards and is ignorable
-        next_play = read_til_resolved(lines)
+        read_until_next_matches(lines, parsed, RE_PLAYS)
+        next_play = read_until_resolved(lines)
         if next_play:
             next_play[0] += VENTURE_ANN
-        return [line] + next_play
+        return parsed + next_play
+    elif card == "Prince":
+        m = RE_SETS_ASIDE.match(lines[0])
+        if m and m.group(2) == "Prince":
+            # this is the Prince setting itself aside
+            # TODO for now, adding this only makes it ignored, does nothing else
+            lines[0] += PRINCE_ANN
+        return parsed
     else:
-        return [line]
+        return parsed
 
 def clean_play_lines(log_lines):
     # return the log with all "plays X" lines annotated
@@ -191,18 +301,27 @@ def clean_play_lines(log_lines):
     # then, go back to the original log and apply these annotations
     # ideally, the method would operaate on the original log, instead of needing
     # a sanitized version. Implement that if this becomes a bottleneck?
-    all_play_lines = [line for line in log_lines if RE_PLAYS.match(line)]
+
+    def want_line(line):
+        return RE_PLAYS.match(line) or \
+            RE_REVEALS.match(line) or \
+            RE_PRINCE.match(line) or \
+            RE_SETS_ASIDE.match(line)
+            #RE_TRASHES.match(line) or \
+
+    all_play_lines = [line for line in log_lines if want_line(line)]
     annotated = []
     while all_play_lines:
-        # read_til_resolved returns a new list with annotations
-        annotated.extend(read_til_resolved(all_play_lines))
+        # read_until_resolved returns a new list with annotations
+        annotated.extend(read_until_resolved(all_play_lines))
     cleaned = []
     for line in log_lines:
-        if not RE_PLAYS.match(line):
+        if not want_line(line):
             cleaned.append(line)
         else:
             cleaned.append(annotated[0])
             annotated[:1] = []
+    print '\n'.join(cleaned)
     return cleaned
 
 def get_cards_drawn(line):

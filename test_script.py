@@ -14,7 +14,6 @@ for line in lines:
     print line
 print 1/ 0 
 """
-
 skip = [
     # games with TR or KC in supply
     29,
@@ -53,19 +52,6 @@ skip = [
     209,
     144,
     52,
-    # games with Prince in supply
-    108,
-    39,
-    60,
-    162,
-    101,
-    150,
-    203,
-    228,
-    18,
-    15,
-    250,
-    260,
     # games with Procession or Counterfeit in supply
     # (need to overhaul the annotation system to handle these cases)
     233,
