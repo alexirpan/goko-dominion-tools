@@ -76,7 +76,8 @@ COUNTERFEIT_ANN = " (Counterfeit)"
 GOLEM_ANN = " (Golem)"
 VENTURE_ANN = " (Venture)"
 PRINCE_ANN = " (Prince)"
-ANNOTATIONS = [TR_ANN, KC_ANN, HERALD_ANN, PROCESSION_ANN, COUNTERFEIT_ANN, GOLEM_ANN, VENTURE_ANN, PRINCE_ANN]
+BOM_ANN = " (Band of Misfits)"
+ANNOTATIONS = [TR_ANN, KC_ANN, HERALD_ANN, PROCESSION_ANN, COUNTERFEIT_ANN, GOLEM_ANN, VENTURE_ANN, PRINCE_ANN, BOM_ANN]
 
 
 # TODO: fix this
@@ -289,6 +290,15 @@ def read_until_resolved(lines):
             # this is the Prince setting itself aside
             # TODO for now, adding this only makes it ignored, does nothing else
             lines[0] += PRINCE_ANN
+        return parsed
+    elif card == "Band of Misfits":
+        # this acts weird if BoM has no target
+        # hopefully that's pretty rare...
+        if lines and RE_PLAYS.match(lines[0]):
+            next_play = read_until_resolved(lines)
+            if next_play:
+                next_play[0] += BOM_ANN
+            parsed += next_play
         return parsed
     else:
         return parsed
