@@ -30,7 +30,6 @@ RE_GAMEOVER = re.compile('--* Game Over --*')
 # Regex added for replay system
 
 RE_DRAWS = re.compile('(.*) \- draws (.*)$')
-RE_PLAYS = re.compile('(.*) \- plays ([^\(]*)$')
 RE_ANNOTATED_PLAYS = re.compile('(.*) \- plays ([^\(]*) \(.*\)$')
 RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9]+ .*$')
 RE_DISCARDS = re.compile('(.*) \- discards (.*)$')
@@ -40,7 +39,7 @@ RE_DISCARDS_MULTIPLE = re.compile('(.*) \- discards: (.*)$')
 RE_SHUFFLES = re.compile('(.*) \- shuffles deck$')
 # need this to catch multiple Alchemist case
 RE_TOPDECKS = re.compile('(.*) - places ([^,]*) on top of deck$')
-RE_TRASHES = re.compile('(.*) \- trashes (.*)$')
+RE_TRASHES = re.compile('(.*) \- trashes ([^\(]*)$')
 RE_PASSES = re.compile('(.*) \- passes (.*)$')
 RE_RETURN_TO_SUPPLY = re.compile('(.*) \- returns (.*) to the Supply$')
 RE_SETS_ASIDE = re.compile('(.*) \- sets aside ([^\(]*)$')
@@ -65,7 +64,27 @@ RE_DURATION = re.compile('(.*) \- duration (.*)$')
 RE_BUYS = re.compile('(.*) \- buys (.*)$')
 RE_WATCHTOWER = re.compile('(.*) \- applied Watchtower to (.*)$')
 RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
-RE_PRINCE = re.compile('(.*) \- duration Prince$')
+
+RE_PLAYS_STR = '(.*) \- plays ([^\(]*)$'
+RE_PRINCE_STR = '(.*) \- duration Prince$'
+RE_HERMIT_TRASH_STR = '(.*) \- trashes Hermit$'
+RE_URCHIN_TRASH_STR = '(.*) \- trashes Urchin$'
+RE_MADMAN_GAIN_STR = '(.*) \- gains Madman$'
+# think of RE_DEFAULT as something that triggers whenever something interesting happens
+RE_DEFAULT_STR = '|'.join([
+    RE_PLAYS_STR, RE_PRINCE_STR, RE_HERMIT_TRASH_STR, RE_URCHIN_TRASH_STR,
+])
+
+RE_PLAYS = re.compile(RE_PLAYS_STR)
+RE_PRINCE = re.compile(RE_PRINCE_STR)
+RE_HERMIT_TRASH = re.compile(RE_HERMIT_TRASH_STR)
+RE_URCHIN_TRASH = re.compile(RE_URCHIN_TRASH_STR)
+RE_MADMAN_GAIN = re.compile(RE_MADMAN_GAIN_STR)
+RE_DEFAULT = re.compile(RE_DEFAULT_STR)
+
+# woops forgot one
+RE_MERC_GAIN = re.compile('(.*) \- gains Mercenary$')
+
 
 # play line annotations
 TR_ANN = " (Throne Room)"
@@ -77,7 +96,9 @@ GOLEM_ANN = " (Golem)"
 VENTURE_ANN = " (Venture)"
 PRINCE_ANN = " (Prince)"
 BOM_ANN = " (Band of Misfits)"
-ANNOTATIONS = [TR_ANN, KC_ANN, HERALD_ANN, PROCESSION_ANN, COUNTERFEIT_ANN, GOLEM_ANN, VENTURE_ANN, PRINCE_ANN, BOM_ANN]
+HERMIT_ANN = " (trashing for Madman)"
+URCHIN_ANN = " (trashing for Mercenary)"
+ANNOTATIONS = [TR_ANN, KC_ANN, HERALD_ANN, PROCESSION_ANN, COUNTERFEIT_ANN, GOLEM_ANN, VENTURE_ANN, PRINCE_ANN, BOM_ANN, HERMIT_ANN, URCHIN_ANN]
 
 
 # TODO: fix this
@@ -107,8 +128,6 @@ def scores_to_ranks(scores):
         ranks[i] = len(larger) + 1
     return(ranks)
 
-# this should be RE_PLAYS | RE_PRINCE
-RE_DEFAULT = re.compile("(.*) \- plays ([^\(]*)$|(.*) \- duration Prince")
 # helper functions for clean_play_lines, DO NOT CALL ELSEWHERE
 
 def read_until_next_matches(lines, parsed, matcher):
@@ -159,6 +178,15 @@ def read_until_resolved(lines):
         if next_play:
             next_play[0] += PRINCE_ANN
         return parsed + next_play
+    # for both of these cases, this only makes the trash ignored. Does not explicitly remove from play
+    elif RE_HERMIT_TRASH.match(parsed[-1]):
+        if lines and RE_MADMAN_GAIN.match(lines[0]):
+            parsed[-1] += HERMIT_ANN
+        return parsed
+    elif RE_URCHIN_TRASH.match(parsed[-1]):
+        if lines and RE_MERC_GAIN.match(lines[0]):
+            parsed[-1] += URCHIN_ANN
+        return parsed
     else:
         player, card = m.group(1), m.group(2)
 
@@ -313,10 +341,15 @@ def clean_play_lines(log_lines):
     # a sanitized version. Implement that if this becomes a bottleneck?
 
     def want_line(line):
+        # Hermit trash regex will be redundant once counterfeit and proessino working
         return RE_PLAYS.match(line) or \
             RE_REVEALS.match(line) or \
             RE_PRINCE.match(line) or \
-            RE_SETS_ASIDE.match(line)
+            RE_SETS_ASIDE.match(line) or \
+            RE_MADMAN_GAIN.match(line) or \
+            RE_HERMIT_TRASH.match(line) or \
+            RE_URCHIN_TRASH.match(line) or \
+            RE_MERC_GAIN.match(line)
             #RE_TRASHES.match(line) or \
 
     all_play_lines = [line for line in log_lines if want_line(line)]
