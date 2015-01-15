@@ -99,6 +99,8 @@ if args.run:
 else:
     import re
     if re.compile("[0-9]+").match(args.name):
-        game = generate_game_states(open("testlogs/log%d.txt" % int(args.name)).read())
+        log, game = generate_game_states(open("testlogs/log%d.txt" % int(args.name)).read())
     else:
-        game = generate_game_states(open(args.name).read())
+        log, game = generate_game_states(open(args.name).read())
+    import sys
+    print '\n'.join(log)

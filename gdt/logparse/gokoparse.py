@@ -2,6 +2,7 @@
 import re
 import datetime
 import sys
+import copy
 
 # Project modules
 #from gdt.model import db_manager
@@ -196,7 +197,7 @@ def read_until_resolved(lines):
     # TODO handle Procession/Counterfeit differently
     # Prince acse is handled above
     if card == "Throne Room":
-        read_until_next_matches(parsed, RE_PLAYS)
+        read_until_next_matches(lines, parsed, RE_PLAYS)
         first_play = read_until_resolved(lines)
         second_play = read_until_resolved(lines)
         # first verify an action got Throne Roomed
@@ -219,7 +220,7 @@ def read_until_resolved(lines):
             lines[:0] = first_play + second_play
             return parsed
     elif card == "King's Court":
-        read_until_next_matches(parsed, RE_PLAYS)
+        read_until_next_matches(lines, parsed, RE_PLAYS)
         first_play = read_until_resolved(lines)
         second_play = read_until_resolved(lines)
         third_play = read_until_resolved(lines)
@@ -364,7 +365,6 @@ def clean_play_lines(log_lines):
         else:
             cleaned.append(annotated[0])
             annotated[:1] = []
-    print '\n'.join(cleaned)
     return cleaned
 
 def get_cards_drawn(line):
@@ -444,6 +444,7 @@ class GameState:
         self.revealed_by = None
         self.debug = True
         self.phase = 'action'
+        self.cards_in_play = []
 
     def player_index(self, pname):
         return self.playerInd[pname]
@@ -461,13 +462,18 @@ class GameState:
             self.set_last_card_played(pname, cardname)
             num = int(num)
             for _ in range(num):
+                self.add_card_to_play(cardname)
                 self.remove_from_hand(pname, cardname)
 
     def add_wild(self, pname):
         self.add_to_hand(pname, GameState.WILD)
 
+    def add_card_to_play(self, card):
+        self.cards_in_play.append(card)
+
     def draw_cleanup_hand(self, pname, hand):
         self.player_hands[self.player_index(pname)] = hand
+        self.cards_in_play = []
 
     def get_hand(self, pname):
         return self.player_hands[self.player_index(pname)]
@@ -582,14 +588,18 @@ def generate_game_states(logtext):
 
     # remove extra play lines for TR/KC
     log_lines = clean_play_lines(log_lines)
+    # the returned game_states
+    # maps index of log line to game state used
+    game_states = []
 
     # TODO this is the same structure as the above code (continue at the end of every case)
     # Someone this design feels clunky but I can't think of anything better right now?
     for line, next_line in zip(log_lines, log_lines[1:]):
+        game_states.append(copy.deepcopy(state))
         # debug printing
         for name in pnames:
-            print name
-            print state.get_hand(name)
+            print name + ' hand: ' + str(state.get_hand(name))
+        print 'Cards in play: ' + str(state.cards_in_play)
         print 'Next line to parse: ', line
         print ' '
 
@@ -619,6 +629,7 @@ def generate_game_states(logtext):
             card = m.group(2)
             state.set_last_card_played(pname, card)
             state.remove_from_hand(pname, card)
+            state.add_card_to_play(card)
             continue
         m = RE_ANNOTATED_PLAYS.match(line)
         if m:
@@ -825,6 +836,7 @@ def generate_game_states(logtext):
             pname = m.group(1)
             state.set_revealed_reaction(pname, 'Watchtower')
             continue
+    return log_lines, game_states
 
 # Parse a game log.  Create and return the resulting GameResult object
 def parse_goko_log(logtext):
