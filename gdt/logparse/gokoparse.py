@@ -255,8 +255,8 @@ def read_until_resolved(lines):
     elif card == "Counterfeit":
         pass
     elif card == "Herald":
-        read_until_next_matches(lines, parsed, RE_REVEALS)
-        if lines and 'action' in CARDNAME_TO_TYPE[RE_REVEALS.match(lines[0]).group(2)]:
+        # the next line can sometimes not be a Herald reveal, if there are no cards left in the deck
+        if lines and RE_REVEALS.match(lines[0]) and 'action' in CARDNAME_TO_TYPE[RE_REVEALS.match(lines[0]).group(2)]:
             read_until_next_matches(lines, parsed, RE_PLAYS)
             next_play = read_until_resolved(lines)
             if next_play:
