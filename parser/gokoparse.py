@@ -5,7 +5,7 @@ import sys
 import copy
 
 # Project modules
-from gdt.model.constants import *
+from parser.constants import *
 
 
 # Regular expressions used to parse goko logs.  Precompiled for speed.

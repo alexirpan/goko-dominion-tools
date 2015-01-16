@@ -1,4 +1,4 @@
-from gdt.logparse.gokoparse import *
+from parser.gokoparse import *
 import argparse
 
 p = argparse.ArgumentParser()
