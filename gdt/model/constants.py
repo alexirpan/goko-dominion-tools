@@ -4,6 +4,18 @@ CORE_CARDS = ['estate', 'duchy', 'province', 'colony',
               'copper', 'silver', 'gold', 'platinum',
               'potion', 'curse', 'ruins']
 
+# this stores all cards with more than 10 cards in the supply
+# doesn't hold victory cards, those are handled in another case
+SPECIAL_SUPPLY_COUNTS = {
+    'Copper': 50,
+    'Silver': 40,
+    'Gold': 30,
+    'Platinum': 12,
+    'Potion': 12,
+    'Spoils': 15,
+    'Rats': 20,
+}
+
 # NOTE: Spoils can't be handled unambigously
 NON_SUPPLY = {'diadem': 'tournament', 'followers': 'tournament',
               'trusty steed': 'tournament', 'princess': 'tournament',
