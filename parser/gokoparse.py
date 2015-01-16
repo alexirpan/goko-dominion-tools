@@ -401,7 +401,7 @@ class GameState:
     # holds all the needed data and some extra methods
     WILD = "WILDCARD"
 
-    def __init__(self, pCount, playerInd):
+    def __init__(self, pCount, playerInd, debug):
         self.playerInd = playerInd
         self.pCount = pCount
         self.player_hands = [ [] for _ in range(self.pCount) ]
@@ -411,9 +411,14 @@ class GameState:
         self.bought_by = None
         self.revealed_reaction = None
         self.revealed_by = None
-        self.debug = True
+        self.debug = debug
         self.phase = 'action'
         self.cards_in_play = []
+
+    def get_player_names_in_order(self):
+        pairs = self.playerInd.items()
+        pairs.sort(key=lambda it: it[1])
+        return [it[0] for it in pairs]
 
     def player_index(self, pname):
         return self.playerInd[pname]
@@ -488,7 +493,7 @@ class GameState:
         self.revealed_by = pname
 
 
-def generate_game_states(logtext):
+def generate_game_states(logtext, debug=True):
     # until I'm sure this code works, placing all replay system code
     # at the end in an easy-to-comment-out block
 
@@ -565,7 +570,7 @@ def generate_game_states(logtext):
     # log with all extra whitespace/lines removed
     log_lines = [line.strip() for line in log_lines if line.strip()]
 
-    state = GameState(pCount, playerInd)
+    state = GameState(pCount, playerInd, debug)
 
     # handles initializing starting hands for each player
     start_hands_processed = 0
@@ -594,12 +599,6 @@ def generate_game_states(logtext):
     # Someone this design feels clunky but I can't think of anything better right now?
     for line, next_line in zip(log_lines, log_lines[1:]):
         game_states.append(copy.deepcopy(state))
-        # debug printing
-        for name in pnames:
-            print name + ' hand: ' + str(state.get_hand(name))
-        print 'Cards in play: ' + str(state.cards_in_play)
-        print 'Next line to parse: ', line
-        print ' '
 
         # TODO do something useful for this case
         m = RE_TURNX.match(next_line)
@@ -611,8 +610,6 @@ def generate_game_states(logtext):
             state.draw_cleanup_hand(pname, next_hand)
             # remove first element of list
             hands_for_next_turn[0:1] = []
-            print '    Applying the following cleanup lines:'
-            print ''.join('    ' + line + '\n' for line in skipped_lines)
             continue
         m = RE_TREASURE_PLAYS.match(line)
         if m:

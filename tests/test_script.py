@@ -1,5 +1,13 @@
-from parser.gokoparse import *
 import argparse
+import sys
+import os
+
+# to get import below working
+basedir = os.path.join(os.path.abspath(os.path.dirname(__file__)), '../')
+# this should be append instead of insert...except for some reason that isn't working
+sys.path.insert(1, basedir)
+
+from parser.gokoparse import *
 
 p = argparse.ArgumentParser()
 p.add_argument('name')
