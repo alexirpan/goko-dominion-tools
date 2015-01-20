@@ -387,12 +387,14 @@ def find_cleanup_phase_hands(log_lines):
         hands_for_each_turn.append( (pname, cards, log_lines[start:ind]) )
     cleaned = []
     curr = 0
+    i = 0
     for start, end in lines_to_remove:
         cleaned.extend(log_lines[curr:start])
-        cleaned.append("DRAW NEW HAND")
+        cleaned.append("DRAW NEW HAND: " + ",".join(hands_for_each_turn[i][2]))
+        i += 1
         curr = end
     cleaned.extend(log_lines[curr:])
-    cleaned.append("DRAW NEW HAND")
+    cleaned.append("DRAW NEW HAND: " + ",".join(hands_for_each_turn[-1][2]))
     log_lines[:] = cleaned
     return hands_for_each_turn
 
@@ -613,7 +615,7 @@ def generate_game_states(logtext, debug=True):
         if m:
             pass
         # in preprocessing, add a special marker for when to trigger cleanup
-        if line == "DRAW NEW HAND":
+        if line.startswith("DRAW NEW HAND"):
             pname, next_hand, skipped_lines = hands_for_next_turn[0]
             state.draw_cleanup_hand(pname, next_hand)
             # remove first element of list
