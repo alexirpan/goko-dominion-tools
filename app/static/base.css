@@ -1,0 +1,70 @@
+p.line {
+    background-color: white;
+}
+
+p.selected {
+    background-color: yellow;
+}
+
+/* Copy pasted from the log-prettifier code */
+.action
+{ background-color:rgb(240,240,240) ; border-radius: 6px; padding: 0px 4px; }
+.treasure
+{ background-color:rgb(253,225,100) ; border-radius: 6px; padding: 0px 4px; }
+.action-reaction
+{ background-color:rgb(64,168,227) ; border-radius: 6px; padding: 0px 4px; }
+.action-duration
+{ background-color:rgb(254,143,78) ; border-radius: 6px; padding: 0px 4px; }
+.victory
+{ background-color:rgb(146,193,125) ; border-radius: 6px; padding: 0px 4px; }
+.curse
+{ background-color:rgb(215,138,219) ; border-radius: 6px; padding: 0px 4px; }
+.action-ruins
+{ background-color:rgb(150,104,51) ; border-radius: 6px; padding: 0px 4px; }
+.shelter
+{ background-color:rgb(230,108,104) ; border-radius: 6px; padding: 0px 4px; }
+.vp-chip
+{ background-color:rgb(0,0,0) ; border-radius: 6px; padding: 0px 4px;
+    color:rgb(255,255,255) ; }
+.treasure-victory
+{ background: -moz-linear-gradient(top, rgb(253,225,100), rgb(146,193,125));
+background: -webkit-linear-gradient(top, rgb(253,225,100), rgb(146,193,125));
+background: -o-linear-gradient(top, rgb(253,225,100), rgb(146,193,125));
+background: -ms-linear-gradient(top, rgb(253,225,100), rgb(146,193,125));
+background: linear-gradient(top, rgb(253,225,100), rgb(146,193,125)); border-radius: 6px; padding: 0px 4px; }
+.treasure-reaction
+{ background: -moz-linear-gradient(top, rgb(253,225,100), rgb(64,168,227));
+background: -webkit-linear-gradient(top, rgb(253,225,100), rgb(64,168,227));
+background: -o-linear-gradient(top, rgb(253,225,100), rgb(64,168,227));
+background: -ms-linear-gradient(top, rgb(253,225,100), rgb(64,168,227));
+background: linear-gradient(top, rgb(253,225,100), rgb(64,168,227)); border-radius: 6px; padding: 0px 4px; }
+.victory-reaction
+{ background: -moz-linear-gradient(top, rgb(146,193,125), rgb(64,168,227));
+background: -webkit-linear-gradient(top, rgb(146,193,125), rgb(64,168,227));
+background: -o-linear-gradient(top, rgb(146,193,125), rgb(64,168,227));
+background: -ms-linear-gradient(top, rgb(146,193,125), rgb(64,168,227));
+background: linear-gradient(top, rgb(146,193,125), rgb(64,168,227)); border-radius: 6px; padding: 0px 4px; }
+.shelter-reaction
+{ background: -moz-linear-gradient(top, rgb(230,108,104), rgb(64,168,227));
+background: -webkit-linear-gradient(top, rgb(230,108,104), rgb(64,168,227));
+background: -o-linear-gradient(top, rgb(230,108,104), rgb(64,168,227));
+background: -ms-linear-gradient(top, rgb(230,108,104), rgb(64,168,227));
+background: linear-gradient(top, rgb(230,108,104), rgb(64,168,227)); border-radius: 6px; padding: 0px 4px; }
+.action-shelter
+{ background: -moz-linear-gradient(top, rgb(240,240,240), rgb(230,108,104));
+background: -webkit-linear-gradient(top, rgb(240,240,240), rgb(230,108,104));
+background: -o-linear-gradient(top, rgb(240,240,240), rgb(230,108,104));
+background: -ms-linear-gradient(top, rgb(240,240,240), rgb(230,108,104));
+background: linear-gradient(top, rgb(240,240,240), rgb(230,108,104)); border-radius: 6px; padding: 0px 4px; }
+.shelter-victory
+{ background: -moz-linear-gradient(top, rgb(230,108,104), rgb(146,193,125));
+background: -webkit-linear-gradient(top, rgb(230,108,104), rgb(146,193,125));
+background: -o-linear-gradient(top, rgb(230,108,104), rgb(146,193,125));
+background: -ms-linear-gradient(top, rgb(230,108,104), rgb(146,193,125));
+background: linear-gradient(top, rgb(230,108,104), rgb(146,193,125)); border-radius: 6px; padding: 0px 4px; }
+.action-victory
+{ background: -moz-linear-gradient(top, rgb(240,240,240), rgb(146,193,125));
+background: -webkit-linear-gradient(top, rgb(240,240,240), rgb(146,193,125));
+background: -o-linear-gradient(top, rgb(240,240,240), rgb(146,193,125));
+background: -ms-linear-gradient(top, rgb(240,240,240), rgb(146,193,125));
+background: linear-gradient(top, rgb(240,240,240), rgb(146,193,125)); border-radius: 6px; padding: 0px 4px; }

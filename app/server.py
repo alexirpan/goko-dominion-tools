@@ -6,7 +6,7 @@ basedir = os.path.join(os.path.abspath(os.path.dirname(__file__)), '../')
 # this should be append instead of insert...except for some reason that isn't working
 sys.path.insert(1, basedir)
 
-from flask import Flask, Response
+from flask import Flask, Response, request, render_template
 import requests
 from parser.gokoparse import generate_game_states
 
@@ -25,10 +25,13 @@ def after_request(response):
 
 @app.route('/')
 def index():
-    return "This is the index page"
+    # just for developing
+    return render_template("index.html")
 
-@app.route('/<path:logurl>')
-def parse_log(logurl):
+@app.route('/replay')
+@app.route('/replay/')
+def parse_log():
+    logurl = request.args.get('log_url')
     try:
         log = requests.get(logurl, timeout=1.0)
     except requests.exceptions.Timeout:
@@ -37,13 +40,8 @@ def parse_log(logurl):
         return "Are you sure you gave a valid url?"
     try:
         text, game_states = generate_game_states(log.text, debug=False)
-        response = []
-        for line, state in zip(text, game_states):
-            response.append(line)
-            for name in state.get_player_names_in_order():
-                response.append(name)
-                response.append(str(state.get_hand(name)))
-        return Response("\n".join(response), mimetype='text/plain')
+        game_states = [state.to_dict() for state in game_states]
+        return render_template("replay.html", log=text, states=game_states)
     except Exception as e:
         print e
         return "An exception was raised when attempting to construct game states"

@@ -492,6 +492,14 @@ class GameState:
         self.revealed_reaction = card
         self.revealed_by = pname
 
+    def to_dict(self):
+        info = dict()
+        # TODO remove this list copying if it's not needed
+        for pname, index in self.playerInd.items():
+            info[pname] = list(self.player_hands[index])
+        info['PLAY'] = list(self.cards_in_play)
+        return info
+
 
 def generate_game_states(logtext, debug=True):
     # until I'm sure this code works, placing all replay system code
@@ -831,4 +839,6 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             state.set_revealed_reaction(pname, 'Watchtower')
             continue
-    return log_lines, game_states
+    # states are out of sync for some reason
+    # quick fix
+    return log_lines, game_states[1:]
