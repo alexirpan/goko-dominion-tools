@@ -1,8 +1,8 @@
 # Dominion game constants.
 
-CORE_CARDS = ['estate', 'duchy', 'province', 'colony',
-              'copper', 'silver', 'gold', 'platinum',
-              'potion', 'curse', 'ruins']
+CORE_CARDS = ['Estate', 'Duchy', 'Province', 'Colony',
+              'Copper', 'Silver', 'Gold', 'Platinum',
+              'Potion', 'Curse', 'Ruins']
 
 # this stores all cards with more than 10 cards in the supply
 # doesn't hold victory cards, those are handled in another case
@@ -17,23 +17,29 @@ SPECIAL_SUPPLY_COUNTS = {
 }
 
 # NOTE: Spoils can't be handled unambigously
-NON_SUPPLY = {'diadem': 'tournament', 'followers': 'tournament',
-              'trusty steed': 'tournament', 'princess': 'tournament',
-              'bag of gold': 'tournament', 'madman': 'hermit',
-              'mercenary': 'urchin'}
+NON_SUPPLY = {'Diadem': 'Tournament', 'Followers': 'Tournament',
+              'Trusty Steed': 'Tournament', 'Princess': 'Tournament',
+              'Bag of Gold': 'Tournament', 'Madman': 'Hermit',
+              'Mercenary': 'Urchin'}
 
-VP_CARDS = ['estate', 'duchy', 'province', 'colony', 'gardens', 'silk road',
-            'vineyard', 'fairgrounds', 'duke', 'feodum', 'great hall',
-            'nobles', 'tunnel', 'island']
+VP_CARDS = ['Estate', 'Duchy', 'Province', 'Colony', 'Gardens', 'Silk Road',
+            'Vineyard', 'Fairgrounds', 'Duke', 'Feodum', 'Great Hall',
+            'Nobles', 'Tunnel', 'Island']
 
-RUINSES = ['ruined library', 'ruined village', 'survivors', 'ruined mine',
-           'ruined market']
+RUINSES = ['Ruined Library', 'Ruined Village', 'Survivors', 'Ruined Mine',
+           'Ruined Market']
 
-KNIGHTS = ['dame anna', 'dame josephine', 'dame molly', 'dame natalie',
-           'dame sylvia', 'sir bailey', 'sir destry', 'sir vander',
-           'sir michael', 'sir martin']
+KNIGHTS = ['Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie',
+           'Dame Sylvia', 'Sir Bailey', 'Sir Destry', 'Sir Vander',
+           'Sir Michael', 'Sir Martin']
 
-SHELTERS = ['hovel', 'overgrown estate', 'necropolis']
+SHELTERS = ['Hovel', 'Overgrown Estate', 'Necropolis']
+
+LOOTERS = ['Marauder', 'Death Cart', 'Cultist']
+
+SPOILS_GIVERS = ['Marauder', 'Bandit Camp', 'Pillage']
+
+PRIZES = ['Diadem', 'Followers', 'Trusty Steed', 'Princess', 'Bag of Gold']
 
 BOT_NAMES = ['Banker Bot', 'Conqueror Bot', 'Defender Bot', 'Lord Bottington',
              'Serf Bot', 'Villager Bot', 'Warlord Bot', 'Village Idiot Bot']
@@ -301,10 +307,11 @@ GAIN_TO_HAND = [
     'Mine', 'Trading Post', 'Torturer', 'Explorer', 'Ill-Gotten Gains', 'Beggar',
 ]
 
-# these are cards that gain from somewhere not in the supply
+# these are cards that gain from somewhere not in the supply (usually a trashing attack)
 # for these purposes we treat Spoils, Madman, as supply piles
+# TODO find out if Graverobber gain is from trash or from supply
 GAIN_FROM_ELSEWHERE = [
-    'Thief', 'Noble Brigand',
+    'Thief', 'Noble Brigand', 'Rogue', 'Graverobber'
 ]
 
 # Treasure Map is not in this list because it's an odd edge case
@@ -342,9 +349,8 @@ DISCARD_FROM_REVEAL = [
     'Advisor', 'Journeyman', 'Envoy', 'Lookout',
 ]
 
-# TODO Inn on buy
 TOPDECKS_FROM_REVEAL = [
-    'Spy', 'Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades',
+    'Spy', 'Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger'
 ]
 
 # TODO all of these cards are triggered in cleanup
@@ -364,5 +370,10 @@ SETS_ASIDE_FROM_DECK = ['Native Village']
 # TODO implement Black Market
 
 TOPDECKS_ON_BUY = ['Herald', 'Inn', 'Doctor']
+# Nomad Camp isn't actually needed here, the NC topdeck isn't logged
+# just here for completion
+TOPDECKS_ON_GAIN = ['Inn', 'Nomad Camp']
 TRASHES_ON_BUY = ['Doctor', 'Mint', 'Noble Brigand']
 DISCARD_ON_BUY = ['Doctor', 'Noble Brigand']
+
+RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']

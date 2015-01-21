@@ -287,6 +287,12 @@
                 return sp;
             }
 
+            function createNumber(num) {
+                var sp = document.createElement("span");
+                sp.innerHTML = String(num);
+                return sp;
+            }
+
             var supply;
 
             function createDisplayElements(state) {
@@ -301,23 +307,46 @@
                 }
                 var cardsInPlay = null;
                 var pnames = [];
-                for (var key in state) {
-                    if (state.hasOwnProperty(key)) {
-                        if (key != "PLAY") {
-                            pnames.push(key);
-                        }
+                for (var key in state['hands']) {
+                    if (state['hands'].hasOwnProperty(key)) {
+                        pnames.push(key);
                     }
                 }
-                pnames.push("PLAY");
                 for (var i = 0; i < pnames.length; i++) {
                     var name = document.createElement("p");
                     name.className = "pname";
                     name.innerHTML = pnames[i];
                     node.appendChild(name);
-                    var hand = state[pnames[i]];
+                    var hand = state['hands'][pnames[i]];
                     for (var j = 0; j < hand.length; j++) {
                         var card = createCard(hand[j]);
                         node.appendChild(card);
+                    }
+                    var name2 = document.createElement("p");
+                    name2.innerHTML = pnames[i] + " deck";
+                    node.appendChild(name2);
+                    var deck = state['decks'][pnames[i]];
+                    for (var card in deck) {
+                        if (deck.hasOwnProperty(card)) {
+                            node.appendChild(createNumber(deck[card]));
+                            node.appendChild(createCard(card));
+                        }
+                    }
+                }
+                var play = document.createElement("p");
+                play.innerHTML = "Play";
+                node.appendChild(play);
+                for (var j = 0; j < state['play'].length; j++) {
+                    node.appendChild(createCard(state['play'][j]));
+                }
+                var sup = document.createElement("p");
+                sup.innerHTML = "Supply";
+                var supply = state['supply'];
+                node.appendChild(sup);
+                for (var card in supply) {
+                    if (supply.hasOwnProperty(card)) {
+                        node.appendChild(createNumber(supply[card]));
+                        node.appendChild(createCard(card));
                     }
                 }
             }

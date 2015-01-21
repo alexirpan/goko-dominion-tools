@@ -424,6 +424,7 @@ class GameState:
         self.bought_by = None
         self.revealed_reaction = None
         self.revealed_by = None
+        self.last_card_gained = None
         self.debug = debug
         self.phase = 'action'
         self.cards_in_play = []
@@ -486,20 +487,26 @@ class GameState:
         self.played_by = pname
         self.last_card_bought = None
         self.bought_by = None
+        self.last_card_gained = None
         self.revealed_reaction = None
         self.revealed_by = None
         if 'treasure' in CARDNAME_TO_TYPE[card]:
             self.phase = 'buy'
         else:
-            self.pahse = 'action'
+            self.phase = 'action'
 
     def set_last_card_bought(self, pname, card):
         self.last_card_played = None
         self.played_by = None
         self.last_card_bought = card
         self.bought_by = pname
+        self.last_card_gained = None
         self.revealed_reaction = None
         self.revealed_by = None
+
+    def set_last_card_gained(self, pname, card):
+        # don't want to reset anything else
+        self.last_card_gained = card
 
     def set_revealed_reaction(self, pname, card):
         # Don't want to set rest to anything else
@@ -508,17 +515,25 @@ class GameState:
 
     def to_dict(self):
         info = dict()
+        info['hands'] = dict()
+        info['decks'] = dict()
         # TODO remove this list copying if it's not needed
         for pname, index in self.playerInd.items():
-            info[pname] = list(self.player_hands[index])
-        info['PLAY'] = list(self.cards_in_play)
+            info['hands'][pname] = list(self.player_hands[index])
+            info['decks'][pname] = dict(self.player_decks[index])
+        info['play'] = list(self.cards_in_play)
+        info['supply'] = dict(self.supply)
         return info
 
     # below adapted from log prettifier
     def gain_card(self, pname, card):
         if card in RUINSES:
+            if self.supply['Ruins'] == 0 and self.debug:
+                raise ValueError("Could not gain Ruins")
             self.supply['Ruins'] -= 1
         elif card in self.supply:
+            if self.supply[card] == 0 and self.debug:
+                raise ValueError("Could not gain %s" % card)
             self.supply[card] -= 1
         self.gain_card_from_elsewhere(pname, card)
 
@@ -547,13 +562,6 @@ class GameState:
         if deck[card] == 0:
             del deck[card]
 
-
-        if card in RUINSES:
-            self.supply['Ruins'] -= 1
-        elif card in self.supply:
-            self.supply[card] -= 1
-
-
 def generate_game_states(logtext, debug=True):
     # until I'm sure this code works, placing all replay system code
     # at the end in an easy-to-comment-out block
@@ -581,28 +589,6 @@ def generate_game_states(logtext, debug=True):
         if m:
             supplyl = m
 
-    # Parse supply
-    supply = dict()
-    # defaults
-    # these counts ignore the starting decks
-    for cname in RE_COMMA.split(supplyl.group(1)):
-        if cname in RUINSES:
-            cname = 'Ruins'
-            supply[cname] = 10
-        elif cname in KNIGHTS:
-            cname = 'Knight'
-            supply[cname] = 10
-        elif cname in SPECIAL_SUPPLY_COUNTS:
-            supply[cname] = SPECIAL_SUPPLY_COUNTS[cname]
-            if cname == 'Copper':
-                supply[cname] -= 7 * pCount
-        elif cname == 'Ruins' or cname == 'Curse':
-            supply[cname] = 10 * (pCount - 1)
-        elif 'victory' in CARDNAME_TO_TYPE[cname]:
-            supply[cname] = min(4*pCount, 12)
-        else:
-            supply[cname] = 10
-
 
     for m in startcl:
         pname = m.group(1)
@@ -615,6 +601,39 @@ def generate_game_states(logtext, debug=True):
             raise ParseException('Duplicate name: %s' % (pname))
         else:
             pnames.add(pname)
+
+    # Parse supply
+    supply = dict()
+    # defaults
+    # these counts ignore the starting decks
+    for cname in RE_COMMA.split(supplyl.group(1)):
+        ## non-supply cards
+        if cname in LOOTERS:
+            supply['Ruins'] = 10
+        if cname in SPOILS_GIVERS:
+            supply['Spoils'] = SPECIAL_SUPPLY_COUNTS['Spoils']
+
+        if cname == 'Hermit':
+            supply['Madman'] = 10
+        elif cname == 'Urchin':
+            supply['Mercenary'] = 10
+        elif cname == 'Tournament':
+            for card in PRIZES:
+                supply[card] = 1
+
+        if cname in KNIGHTS:
+            cname = 'Knight'
+            supply[cname] = 10
+        elif cname in SPECIAL_SUPPLY_COUNTS:
+            supply[cname] = SPECIAL_SUPPLY_COUNTS[cname]
+            if cname == 'Copper':
+                supply[cname] -= 7 * pCount
+        elif cname == 'Ruins' or cname == 'Curse':
+            supply[cname] = 10 * (pCount - 1)
+        elif 'victory' in CARDNAME_TO_TYPE[cname]:
+            supply[cname] = min(4*pCount, 12)
+        else:
+            supply[cname] = 10
 
     ## GAME TURNS ##
     # Parse turn numbers to obtain player names, order, and turns taken
@@ -703,6 +722,8 @@ def generate_game_states(logtext, debug=True):
             state.set_last_card_played(pname, card)
             state.remove_from_hand(pname, card)
             state.add_card_to_play(card)
+            if card in RETURN_TO_SUPPLY_ON_PLAY:
+                state.return_to_supply(pname, card)
             continue
         m = RE_ANNOTATED_PLAYS.match(line)
         if m:
@@ -770,7 +791,7 @@ def generate_game_states(logtext, debug=True):
                 state.add_wild(pname)
             # don't continue, now check the actual topdeck case
 
-        if m and state.last_card_played not in TOPDECKS_FROM_REVEAL and state.last_card_played not in TOPDECKS_FROM_PLAY and state.last_card_bought not in TOPDECKS_ON_BUY and state.phase == 'action':
+        if m and state.last_card_played not in TOPDECKS_FROM_REVEAL and state.last_card_played not in TOPDECKS_FROM_PLAY and state.last_card_bought not in TOPDECKS_ON_BUY and state.phase == 'action' and state.last_card_gained not in TOPDECKS_ON_GAIN:
             pname = m.group(1)
             card = m.group(2)
             state.remove_from_hand(pname, card)
@@ -841,7 +862,9 @@ def generate_game_states(logtext, debug=True):
         if m:
             pname = m.group(1)
             card = m.group(2)
-            if state.last_card_played in GAIN_FROM_ELSEWHERE:
+            state.set_last_card_gained(pname, card)
+            # only one of last_played or last_bought should be None
+            if state.last_card_played in GAIN_FROM_ELSEWHERE or state.last_card_bought in GAIN_FROM_ELSEWHERE:
                 state.gain_card_from_elsewhere(pname, card)
             else:
                 state.gain_card(pname, card)

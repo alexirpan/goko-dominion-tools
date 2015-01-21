@@ -33,6 +33,12 @@ skip = [
 # a strange mix of Sir Michael and Jack, don't feel like fixing
 # figuring out what lines of Sir Micahel are the Miltia attack and what lines are the Knight attack is tricky
 767,
+# Treasury topdecked at end of turn without buying anything or playing any treasures
+# Some idea on how to find the phase of turn but skip for now
+615,
+627,
+674,
+740,
 # logs with TR, KC, Procession, or Counterfeit
 574,
 29,
