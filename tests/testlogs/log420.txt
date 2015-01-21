@@ -1,0 +1,555 @@
+------------ Game Setup ------------
+Supply cards: Moat, Chancellor, Shanty Town, Wishing Well, Woodcutter, Workshop, Scout, Spy, Festival, Library, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+EnXo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+EnXo - shuffles deck
+Titandrake - shuffles deck
+EnXo - draws Estate, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- EnXo: turn 1 ----------
+EnXo - plays 2 Copper
+EnXo - buys Moat
+EnXo - gains Moat
+EnXo - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - shuffles deck
+Titandrake - draws Copper, Spy, Copper, Copper, Copper
+ 
+---------- EnXo: turn 2 ----------
+EnXo - plays 5 Copper
+EnXo - buys Festival
+EnXo - gains Festival
+EnXo - shuffles deck
+EnXo - draws Copper, Copper, Estate, Moat, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Spy
+EnXo - reveals reaction Moat
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - draws Copper, Copper, Copper, Chancellor, Estate
+ 
+---------- EnXo: turn 3 ----------
+EnXo - plays Moat
+EnXo - draws Estate, Festival
+EnXo - plays 3 Copper
+EnXo - buys Silver
+EnXo - gains Silver
+EnXo - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chancellor
+Titandrake - plays 3 Copper
+Titandrake - buys Library
+Titandrake - gains Library
+Titandrake - shuffles deck
+Titandrake - draws Library, Shanty Town, Copper, Copper, Chancellor
+ 
+---------- EnXo: turn 4 ----------
+EnXo - plays 4 Copper
+EnXo - buys Spy
+EnXo - gains Spy
+EnXo - shuffles deck
+EnXo - draws Estate, Copper, Copper, Copper, Spy
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Library, Copper, Copper, Chancellor
+Titandrake - plays Library
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 6 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - shuffles deck
+Titandrake - draws Copper, Chancellor, Copper, Estate, Library
+ 
+---------- EnXo: turn 5 ----------
+EnXo - plays Spy
+EnXo - draws Copper
+EnXo - discards Estate
+Titandrake - places Copper on top of deck
+EnXo - plays 4 Copper
+EnXo - buys Spy
+EnXo - gains Spy
+EnXo - draws Festival, Silver, Copper, Moat, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 2 Copper
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - shuffles deck
+Titandrake - draws Copper, Shanty Town, Estate, Copper, Copper
+ 
+---------- EnXo: turn 6 ----------
+EnXo - plays Festival
+EnXo - plays Moat
+EnXo - draws Copper, Estate
+EnXo - plays 3 Copper, 1 Silver
+EnXo - buys Festival
+EnXo - gains Festival
+EnXo - buys Moat
+EnXo - gains Moat
+EnXo - shuffles deck
+EnXo - draws Copper, Copper, Estate, Spy, Festival
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Festival
+Titandrake - plays Festival
+Titandrake - plays 4 Copper
+Titandrake - buys Library
+Titandrake - gains Library
+Titandrake - draws Copper, Library, Spy, Estate, Copper
+ 
+---------- EnXo: turn 7 ----------
+EnXo - plays Festival
+EnXo - plays Spy
+EnXo - draws Copper
+EnXo - places Silver on top of deck
+Titandrake - places Estate on top of deck
+EnXo - plays 3 Copper
+EnXo - buys Festival
+EnXo - gains Festival
+EnXo - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Spy
+Titandrake - draws Estate
+Titandrake - discards Shanty Town
+EnXo - places Estate on top of deck
+Titandrake - plays Library
+Titandrake - discards Chancellor
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - draws Copper
+Titandrake - discards Chancellor
+Titandrake - plays 4 Copper
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - draws Copper, Shanty Town, Library, Copper, Festival
+ 
+---------- EnXo: turn 8 ----------
+EnXo - plays 3 Copper, 1 Silver
+EnXo - buys Festival
+EnXo - gains Festival
+EnXo - draws Estate, Moat, Copper, Spy, Moat
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Festival
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Library, Copper
+Titandrake - plays Library
+Titandrake - moves Shanty Town to hand
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - draws Copper
+Titandrake - draws Estate
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Spy
+Titandrake - plays Spy
+EnXo - reveals reaction Moat
+Titandrake - draws Library
+Titandrake - places Spy on top of deck
+Titandrake - plays 5 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Spy, Estate, Copper, Copper, Chancellor
+ 
+---------- EnXo: turn 9 ----------
+EnXo - plays Spy
+EnXo - draws Festival
+EnXo - shuffles deck
+EnXo - places Festival on top of deck
+Titandrake - shuffles deck
+Titandrake - discards Shanty Town
+EnXo - plays Festival
+EnXo - plays Moat
+EnXo - draws Festival, Silver
+EnXo - plays Festival
+EnXo - plays Moat
+EnXo - draws Festival, Estate
+EnXo - plays Festival
+EnXo - plays 1 Copper, 1 Silver
+EnXo - buys Gold
+EnXo - gains Gold
+EnXo - buys Silver
+EnXo - gains Silver
+EnXo - draws Copper, Copper, Copper, Spy, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Spy
+Titandrake - draws Copper
+Titandrake - discards Copper
+EnXo - places Copper on top of deck
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 3 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - shuffles deck
+Titandrake - draws Spy, Copper, Spy, Library, Festival
+ 
+---------- EnXo: turn 10 ----------
+EnXo - plays Spy
+EnXo - draws Copper
+EnXo - discards Estate
+Titandrake - places Copper on top of deck
+EnXo - plays 5 Copper
+EnXo - buys Library
+EnXo - gains Library
+EnXo - draws Festival, Copper
+EnXo - shuffles deck
+EnXo - draws Festival, Gold, Spy
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Spy
+Titandrake - draws Copper
+Titandrake - discards Copper
+EnXo - places Copper on top of deck
+Titandrake - plays Spy
+Titandrake - draws Copper
+Titandrake - discards Estate
+EnXo - places Copper on top of deck
+Titandrake - plays Festival
+Titandrake - plays Library
+Titandrake - moves Festival to hand
+Titandrake - moves Library to hand
+Titandrake - moves Festival to hand
+Titandrake - moves Chancellor to hand
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Library
+Titandrake - discards Shanty Town
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - discards Shanty Town
+Titandrake - draws Copper
+Titandrake - discards: Shanty Town, Shanty Town
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 6 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Shanty Town, Copper, Copper
+ 
+---------- EnXo: turn 11 ----------
+EnXo - plays Festival
+EnXo - plays Festival
+EnXo - plays Spy
+EnXo - draws Copper
+EnXo - places Silver on top of deck
+Titandrake - discards Library
+EnXo - plays 2 Copper, 1 Gold
+EnXo - buys Province
+EnXo - gains Province
+EnXo - draws Silver, Festival, Copper, Estate, Moat
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Estate, Copper, Copper
+Titandrake - draws Festival, Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays 3 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Spy, Copper, Library, Festival, Estate
+ 
+---------- EnXo: turn 12 ----------
+EnXo - plays Festival
+EnXo - plays Moat
+EnXo - draws Copper, Copper
+EnXo - plays 3 Copper, 1 Silver
+EnXo - buys Gold
+EnXo - gains Gold
+EnXo - draws Copper, Estate, Spy, Festival, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Spy
+Titandrake - draws Copper
+Titandrake - discards Spy
+EnXo - discards Library
+Titandrake - plays Festival
+Titandrake - plays Library
+Titandrake - moves Festival to hand
+Titandrake - moves Shanty Town to hand
+Titandrake - draws Estate
+Titandrake - moves Festival to hand
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Spy, Chancellor
+Titandrake - shuffles deck
+Titandrake - draws Festival, Spy, Estate
+ 
+---------- EnXo: turn 13 ----------
+EnXo - plays Festival
+EnXo - plays Spy
+EnXo - draws Silver
+EnXo - places Moat on top of deck
+Titandrake - discards Festival
+EnXo - plays 2 Copper, 1 Silver
+EnXo - buys Festival
+EnXo - gains Festival
+EnXo - draws Moat, Estate
+EnXo - shuffles deck
+EnXo - draws Gold, Province, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Spy
+EnXo - reveals reaction Moat
+Titandrake - draws Library
+Titandrake - discards Copper
+Titandrake - plays Spy
+EnXo - reveals reaction Moat
+Titandrake - draws Shanty Town
+Titandrake - discards Province
+Titandrake - plays Festival
+Titandrake - plays Shanty Town
+Titandrake - reveals Chancellor, Estate, Library
+Titandrake - plays Library
+Titandrake - draws Copper
+Titandrake - moves Spy to hand
+Titandrake - draws Estate
+Titandrake - draws Copper
+Titandrake - draws Gold
+Titandrake - plays Spy
+EnXo - reveals reaction Moat
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays Chancellor
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Moat
+Titandrake - gains Moat
+Titandrake - draws Copper, Estate, Shanty Town, Festival, Library
+ 
+---------- EnXo: turn 14 ----------
+EnXo - plays Moat
+EnXo - draws Gold, Library
+EnXo - plays 2 Gold, 1 Copper
+EnXo - buys Gold
+EnXo - gains Gold
+EnXo - draws Festival, Estate, Festival, Moat, Spy
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Festival
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Estate, Library
+Titandrake - plays Library
+Titandrake - moves Festival to hand
+Titandrake - draws Copper
+Titandrake - moves Festival to hand
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - moves Library to hand
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Library
+Titandrake - draws Copper
+Titandrake - moves Festival to hand
+Titandrake - draws Estate
+Titandrake - plays Festival
+Titandrake - plays 4 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Spy, Province, Province, Copper, Spy
+ 
+---------- EnXo: turn 15 ----------
+EnXo - plays Festival
+EnXo - plays Festival
+EnXo - plays Spy
+EnXo - draws Copper
+EnXo - places Festival on top of deck
+Titandrake - places Copper on top of deck
+EnXo - plays Moat
+EnXo - draws Festival, Festival
+EnXo - plays Festival
+EnXo - plays Festival
+EnXo - plays 1 Copper
+EnXo - buys Province
+EnXo - gains Province
+EnXo - draws Copper, Copper, Copper, Spy, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Spy
+Titandrake - draws Copper
+Titandrake - places Shanty Town on top of deck
+EnXo - discards Silver
+Titandrake - plays Spy
+Titandrake - draws Shanty Town
+Titandrake - discards Copper
+EnXo - places Copper on top of deck
+Titandrake - plays Shanty Town
+Titandrake - reveals Province, Province, Copper, Copper
+Titandrake - draws Moat, Gold
+Titandrake - plays Moat
+Titandrake - draws Estate, Festival
+Titandrake - plays Festival
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Chancellor, Spy
+Titandrake - shuffles deck
+Titandrake - draws Estate, Province, Library
+ 
+---------- EnXo: turn 16 ----------
+EnXo - plays Spy
+EnXo - draws Copper
+EnXo - discards Estate
+Titandrake - places Estate on top of deck
+EnXo - plays 5 Copper
+EnXo - buys Duchy
+EnXo - gains Duchy
+EnXo - draws Silver, Festival
+EnXo - shuffles deck
+EnXo - draws Moat, Estate, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Spy
+EnXo - reveals reaction Moat
+Titandrake - draws Estate
+Titandrake - discards Province
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - shuffles deck
+Titandrake - draws Silver, Festival, Copper, Shanty Town, Library
+ 
+---------- EnXo: turn 17 ----------
+EnXo - plays Festival
+EnXo - plays Moat
+EnXo - draws Copper, Spy
+EnXo - plays Spy
+EnXo - draws Province
+EnXo - discards Copper
+Titandrake - places Copper on top of deck
+EnXo - plays 1 Silver, 1 Copper
+EnXo - buys Duchy
+EnXo - gains Duchy
+EnXo - draws Estate, Estate, Moat, Duchy, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Festival
+Titandrake - plays Shanty Town
+Titandrake - reveals Silver, Copper, Library
+Titandrake - plays Library
+Titandrake - draws Copper
+Titandrake - moves Spy to hand
+Titandrake - draws Copper
+Titandrake - draws Copper
+Titandrake - moves Moat to hand
+Titandrake - plays Spy
+EnXo - reveals reaction Moat
+Titandrake - draws Province
+Titandrake - discards Library
+Titandrake - plays Moat
+Titandrake - draws Festival, Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Spy, Gold, Chancellor, Copper, Spy
+ 
+---------- EnXo: turn 18 ----------
+EnXo - plays Moat
+EnXo - draws Gold, Festival
+EnXo - plays 1 Copper, 1 Gold
+EnXo - buys Spy
+EnXo - gains Spy
+EnXo - draws Copper, Festival, Library, Festival, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Spy
+Titandrake - draws Estate
+Titandrake - discards Copper
+EnXo - places Copper on top of deck
+Titandrake - plays Spy
+Titandrake - draws Shanty Town
+Titandrake - discards Province
+EnXo - places Copper on top of deck
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Festival, Copper, Copper
+ 
+---------- EnXo: turn 19 ----------
+EnXo - plays Festival
+EnXo - plays Festival
+EnXo - plays Library
+EnXo - draws Copper
+EnXo - draws Copper
+EnXo - moves Spy to hand
+EnXo - draws Gold
+EnXo - draws Silver
+EnXo - plays Spy
+EnXo - draws Copper
+EnXo - places Festival on top of deck
+Titandrake - places Estate on top of deck
+EnXo - plays 4 Copper, 2 Gold, 1 Silver
+EnXo - buys Province
+EnXo - gains Province
+EnXo - buys Province
+EnXo - gains Province
+EnXo - draws Festival
+EnXo - shuffles deck
+EnXo - draws Copper, Copper, Copper, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Festival, 3 Spy, 2 Library, 2 Shanty Town, 1 Chancellor, 1 Moat, 7 Copper, 2 Silver, 1 Gold, 4 Estate, 4 Province, 2 Duchy
+Titandrake - total victory points: 34
+Titandrake - turns: 19
+ 
+EnXo - cards: 5 Festival, 3 Spy, 2 Moat, 1 Library, 7 Copper, 3 Gold, 2 Silver, 4 Province, 3 Estate, 2 Duchy
+EnXo - total victory points: 33
+EnXo - turns: 19
+ 
+1st place: Titandrake
+2nd place: EnXo
+ 

@@ -1,0 +1,543 @@
+------------ Game Setup ------------
+Supply cards: Lookout, Sage, Trade Route, Armory, Remodel, Scavenger, Young Witch, Jester, Stables, Farmland, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Lookout
+Rating system: pro
+HelloKitty - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HelloKitty - shuffles deck
+Titandrake - shuffles deck
+HelloKitty - draws Overgrown Estate, Copper, Necropolis, Copper, Copper
+Titandrake - draws Overgrown Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Copper, Necropolis, Copper, Copper, Hovel
+ 
+---------- HelloKitty: turn 1 ----------
+HelloKitty - plays 3 Copper
+HelloKitty - buys Sage
+HelloKitty - gains Sage
+HelloKitty - draws Hovel, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- HelloKitty: turn 2 ----------
+HelloKitty - plays 4 Copper
+HelloKitty - buys Young Witch
+HelloKitty - gains Young Witch
+HelloKitty - shuffles deck
+HelloKitty - draws Copper, Copper, Overgrown Estate, Sage, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Hovel, Copper, Lookout, Overgrown Estate, Copper
+ 
+---------- HelloKitty: turn 3 ----------
+HelloKitty - plays Sage
+HelloKitty - reveals Copper, Hovel, Copper, Young Witch
+HelloKitty - places Young Witch in hand
+HelloKitty - discards: Copper, Hovel, Copper
+HelloKitty - plays Young Witch
+HelloKitty - draws Copper, Necropolis
+HelloKitty - discards Necropolis
+HelloKitty - discards Overgrown Estate
+Titandrake - reveals bane Lookout
+HelloKitty - plays 4 Copper
+HelloKitty - buys Lookout
+HelloKitty - gains Lookout
+HelloKitty - draws Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Sage, Lookout, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Scavenger
+Titandrake - discards Necropolis
+Titandrake - places Jester on top of deck
+Titandrake - draws Jester, Copper, Copper, Copper, Copper
+ 
+---------- HelloKitty: turn 4 ----------
+HelloKitty - plays Lookout
+HelloKitty - trashes Copper
+HelloKitty - discards Necropolis
+HelloKitty - places Copper on top of deck
+HelloKitty - plays Sage
+HelloKitty - reveals Copper, Copper, Young Witch
+HelloKitty - places Young Witch in hand
+HelloKitty - discards: Copper, Copper
+HelloKitty - plays Young Witch
+HelloKitty - draws Copper, Copper
+HelloKitty - discards Overgrown Estate
+HelloKitty - discards Copper
+Titandrake - gains Curse
+HelloKitty - plays 3 Copper
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Hovel
+HelloKitty - shuffles deck
+HelloKitty - draws Sage, Overgrown Estate, Copper, Young Witch
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Jester
+HelloKitty - reveals Copper
+HelloKitty - discards Copper
+HelloKitty - gains Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Necropolis, Copper
+ 
+---------- HelloKitty: turn 5 ----------
+HelloKitty - plays Sage
+HelloKitty - reveals Necropolis, Copper, Copper, Copper, Copper, Silver
+HelloKitty - places Silver in hand
+HelloKitty - discards: Necropolis, Copper, Copper, Copper, Copper
+HelloKitty - plays Young Witch
+HelloKitty - draws Lookout
+HelloKitty - shuffles deck
+HelloKitty - draws Copper
+HelloKitty - discards Overgrown Estate
+HelloKitty - discards Hovel
+Titandrake - gains Curse
+HelloKitty - plays 2 Copper, 1 Silver
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Lookout, Copper, Copper, Jester
+ 
+---------- HelloKitty: turn 6 ----------
+HelloKitty - plays 5 Copper
+HelloKitty - buys Jester
+HelloKitty - gains Jester
+HelloKitty - draws Necropolis
+HelloKitty - shuffles deck
+HelloKitty - draws Overgrown Estate, Silver, Jester, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Hovel
+Titandrake - discards Overgrown Estate
+Titandrake - places Copper on top of deck
+Titandrake - plays Jester
+HelloKitty - reveals Copper
+HelloKitty - discards Copper
+HelloKitty - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Copper
+ 
+---------- HelloKitty: turn 7 ----------
+HelloKitty - plays Necropolis
+HelloKitty - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+HelloKitty - plays 1 Silver, 1 Copper
+HelloKitty - buys Jester
+HelloKitty - gains Jester
+HelloKitty - draws Copper, Lookout, Hovel, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Stables
+Titandrake - discards Curse
+Titandrake - discards Stables
+HelloKitty - reveals bane Lookout
+Titandrake - plays 4 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Curse, Jester, Silver, Copper, Lookout
+ 
+---------- HelloKitty: turn 8 ----------
+HelloKitty - plays Lookout
+HelloKitty - trashes Copper
+HelloKitty - discards Silver
+HelloKitty - places Young Witch on top of deck
+HelloKitty - plays 3 Copper
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Young Witch, Sage, Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Jester, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Curse
+Titandrake - discards Necropolis
+Titandrake - places Copper on top of deck
+Titandrake - plays Jester
+HelloKitty - reveals Lookout
+HelloKitty - discards Lookout
+Titandrake - gains Lookout
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Young Witch, Copper, Copper, Sage
+ 
+---------- HelloKitty: turn 9 ----------
+HelloKitty - plays Sage
+HelloKitty - reveals Silver
+HelloKitty - places Silver in hand
+HelloKitty - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+HelloKitty - plays 2 Copper, 1 Silver
+HelloKitty - buys Gold
+HelloKitty - gains Gold
+HelloKitty - draws Copper, Copper, Overgrown Estate, Jester, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Stables
+Titandrake - places Stables in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Lookout
+Titandrake - discards Lookout
+Titandrake - discards Copper
+HelloKitty - gains Curse
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Lookout, Copper, Copper, Curse, Jester
+ 
+---------- HelloKitty: turn 10 ----------
+HelloKitty - plays Jester
+Titandrake - reveals Stables
+Titandrake - discards Stables
+HelloKitty - gains Stables
+HelloKitty - plays 3 Copper
+HelloKitty - buys Stables
+HelloKitty - gains Stables
+HelloKitty - draws Silver, Copper, Necropolis, Copper, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Necropolis
+Titandrake - places Copper on top of deck
+Titandrake - plays Jester
+HelloKitty - reveals Hovel
+HelloKitty - discards Hovel
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Curse
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, Gold, Lookout
+ 
+---------- HelloKitty: turn 11 ----------
+HelloKitty - plays 2 Silver, 2 Copper
+HelloKitty - buys Gold
+HelloKitty - gains Gold
+HelloKitty - shuffles deck
+HelloKitty - draws Stables, Jester, Overgrown Estate, Young Witch, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Curse, Copper, Sage, Stables
+ 
+---------- HelloKitty: turn 12 ----------
+HelloKitty - plays Young Witch
+HelloKitty - draws Copper, Jester
+HelloKitty - discards Jester
+HelloKitty - discards Stables
+Titandrake - gains Curse
+HelloKitty - plays 1 Gold, 1 Copper
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Silver, Gold, Silver, Copper, Curse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Copper
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Lookout, Stables, Copper
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Young Witch on top of deck
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Young Witch, Jester
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Curse
+Titandrake - discards Jester
+HelloKitty - gains Curse
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Necropolis, Copper, Gold, Curse, Curse
+ 
+---------- HelloKitty: turn 13 ----------
+HelloKitty - plays 2 Silver, 1 Gold, 1 Copper
+HelloKitty - buys Gold
+HelloKitty - gains Gold
+HelloKitty - draws Copper, Copper, Necropolis, Silver, Sage
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Lookout, Silver
+Titandrake - shuffles deck
+Titandrake - draws Necropolis
+ 
+---------- HelloKitty: turn 14 ----------
+HelloKitty - plays Necropolis
+HelloKitty - plays Sage
+HelloKitty - reveals Stables
+HelloKitty - places Stables in hand
+HelloKitty - plays Stables
+HelloKitty - discards Copper
+HelloKitty - draws Hovel, Copper, Lookout
+HelloKitty - plays Lookout
+HelloKitty - shuffles deck
+HelloKitty - trashes Copper
+HelloKitty - discards Copper
+HelloKitty - places Young Witch on top of deck
+HelloKitty - plays 2 Copper, 1 Silver
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Young Witch, Stables, Overgrown Estate, Copper, Jester
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Stables
+Titandrake - places Jester on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Jester, Copper, Gold, Sage, Silver
+ 
+---------- HelloKitty: turn 15 ----------
+HelloKitty - plays Stables
+HelloKitty - discards Copper
+HelloKitty - draws Gold, Copper, Silver
+HelloKitty - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+HelloKitty - plays 1 Gold, 1 Copper, 1 Silver
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - draws Silver, Curse, Copper, Jester, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Jester
+HelloKitty - reveals Gold
+HelloKitty - discards Gold
+Titandrake - gains Gold
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Copper, Stables, Copper, Lookout
+ 
+---------- HelloKitty: turn 16 ----------
+HelloKitty - plays Jester
+Titandrake - reveals Silver
+Titandrake - discards Silver
+HelloKitty - gains Silver
+HelloKitty - plays 1 Silver, 1 Copper
+HelloKitty - buys Stables
+HelloKitty - gains Stables
+HelloKitty - draws Silver, Gold
+HelloKitty - shuffles deck
+HelloKitty - draws Copper, Silver, Necropolis
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Silver
+Titandrake - places Young Witch on top of deck
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Jester, Lookout
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Copper
+Titandrake - discards Jester
+Titandrake - discards Curse
+HelloKitty - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Gold, Silver, Sage, Silver, Silver
+ 
+---------- HelloKitty: turn 17 ----------
+HelloKitty - plays 2 Silver, 1 Gold, 1 Copper
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - draws Silver, Copper, Copper, Overgrown Estate, Stables
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - buys Farmland
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - draws Gold, Stables, Copper, Copper, Silver
+ 
+---------- HelloKitty: turn 18 ----------
+HelloKitty - plays Stables
+HelloKitty - discards Copper
+HelloKitty - draws Curse, Hovel, Lookout
+HelloKitty - plays Lookout
+HelloKitty - trashes Young Witch
+HelloKitty - discards Stables
+HelloKitty - places Gold on top of deck
+HelloKitty - plays 1 Silver, 1 Copper
+HelloKitty - buys Lookout
+HelloKitty - gains Lookout
+HelloKitty - draws Gold, Stables, Copper, Silver, Sage
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Necropolis, Gold
+Titandrake - plays Gold
+Titandrake - plays Copper
+Titandrake - plays Silver
+Titandrake - buys Farmland
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Farmland, Young Witch, Necropolis
+ 
+---------- HelloKitty: turn 19 ----------
+HelloKitty - plays Sage
+HelloKitty - reveals Curse, Silver
+HelloKitty - places Silver in hand
+HelloKitty - discards Curse
+HelloKitty - plays Stables
+HelloKitty - discards Copper
+HelloKitty - draws Gold, Jester, Province
+HelloKitty - plays Jester
+Titandrake - reveals Farmland
+Titandrake - discards Farmland
+Titandrake - gains Curse
+HelloKitty - plays Silver
+HelloKitty - plays Silver
+HelloKitty - plays Gold
+HelloKitty - buys Farmland
+HelloKitty - trashes Gold
+HelloKitty - gains Province
+HelloKitty - gains Farmland
+HelloKitty - draws Copper, Silver, Jester, Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Farmland
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Trade Route
+Titandrake - discards Farmland
+Titandrake - discards Copper
+HelloKitty - gains Curse
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Stables, Stables, Jester, Copper
+ 
+---------- HelloKitty: turn 20 ----------
+HelloKitty - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+HelloKitty - plays 2 Copper, 1 Silver
+HelloKitty - buys Farmland
+HelloKitty - trashes Farmland
+HelloKitty - gains Province
+HelloKitty - gains Farmland
+HelloKitty - draws Province, Gold, Copper, Stables, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Silver, Silver, Copper
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Lookout, Gold, Lookout
+Titandrake - plays Jester
+HelloKitty - reveals Overgrown Estate
+HelloKitty - discards Overgrown Estate
+HelloKitty - gains Curse
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - buys Farmland
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - draws Copper, Sage, Silver, Province, Curse
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Stables, 2 Lookout, 1 Sage, 1 Necropolis, 1 Young Witch, 1 Trade Route, 1 Jester, 6 Copper, 5 Silver, 4 Province, 3 Farmland, 2 Estate, 2 Curse
+Titandrake - total victory points: 30
+Titandrake - turns: 21
+ 
+HelloKitty - cards: 3 Stables, 2 Jester, 2 Lookout, 1 Necropolis, 1 Sage, 6 Copper, 6 Silver, 2 Gold, 4 Province, 1 Farmland, 1 Overgrown Estate, 5 Curse, 1 Hovel
+HelloKitty - total victory points: 21
+HelloKitty - turns: 20
+ 
+1st place: Titandrake
+2nd place: HelloKitty
+ 

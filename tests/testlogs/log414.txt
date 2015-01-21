@@ -1,0 +1,398 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Develop, Forager, Lookout, Trader, Wandering Minstrel, Cache, Contraband, Soothsayer, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+Titandrake - shuffles deck
+Gherald - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 5 Copper
+Gherald - buys Soothsayer
+Gherald - gains Soothsayer
+Gherald - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 2 Copper
+Gherald - buys Pawn
+Gherald - gains Pawn
+Gherald - shuffles deck
+Gherald - draws Copper, Soothsayer, Pawn, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Develop
+Titandrake - gains Develop
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays Pawn
+Gherald - takes 1 action
+Gherald - draws Copper
+Gherald - plays Soothsayer
+Gherald - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Estate
+Gherald - plays 4 Copper
+Gherald - buys Lookout
+Gherald - gains Lookout
+Gherald - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Develop, Trader
+ 
+---------- Gherald: turn 4 ----------
+Gherald - draws Copper
+Gherald - shuffles deck
+Gherald - draws Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Develop
+Titandrake - trashes Trader
+Titandrake - gains Soothsayer
+Titandrake - gains Lookout
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Lookout, Soothsayer, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse, Estate
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays 4 Copper
+Gherald - buys Trader
+Gherald - gains Trader
+Gherald - draws Copper, Gold, Estate, Pawn, Soothsayer
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Develop on top of deck
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Gherald - gains Curse
+Gherald - draws Copper
+Titandrake - draws Develop, Copper, Estate, Copper, Copper
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Pawn
+Gherald - takes 1 action
+Gherald - draws Estate
+Gherald - plays Soothsayer
+Gherald - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+Gherald - plays 2 Copper, 1 Gold
+Gherald - buys Venture
+Gherald - gains Venture
+Gherald - draws Copper, Lookout
+Gherald - shuffles deck
+Gherald - draws Estate, Estate, Trader
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Develop
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Pawn, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Lookout
+Gherald - trashes Copper
+Gherald - discards Copper
+Gherald - places Soothsayer on top of deck
+Gherald - plays Trader
+Gherald - trashes Estate
+Gherald - gains Silver
+Gherald - gains Silver
+Gherald - draws Soothsayer, Copper, Gold, Estate, Gold
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Copper
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Soothsayer, Copper, Estate, Silver, Lookout
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Soothsayer
+Gherald - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+Gherald - plays 2 Gold, 1 Copper
+Gherald - buys Venture
+Gherald - gains Venture
+Gherald - draws Venture, Copper, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Gherald - gains Curse
+Gherald - draws Pawn
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Copper, Gold, Develop, Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Pawn
+Gherald - takes 1 buy
+Gherald - shuffles deck
+Gherald - draws Copper
+Gherald - plays 4 Copper
+Gherald - plays Venture
+Gherald - reveals Copper
+Gherald - plays Copper
+Gherald - buys Venture
+Gherald - gains Venture
+Gherald - draws Trader, Copper, Silver, Soothsayer, Lookout
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Develop
+Titandrake - trashes Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - draws Pawn, Curse, Copper, Forager, Silver
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Lookout
+Gherald - trashes Curse
+Gherald - discards Silver
+Gherald - places Gold on top of deck
+Gherald - plays Soothsayer
+Gherald - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Gold
+Gherald - plays 1 Copper, 1 Silver
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Gold, Venture, Estate, Estate, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Forager
+Titandrake - trashes Curse
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Copper, Copper, Soothsayer, Lookout
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays 2 Gold
+Gherald - plays Venture
+Gherald - reveals Gold
+Gherald - plays Gold
+Gherald - buys Province
+Gherald - gains Province
+Gherald - shuffles deck
+Gherald - draws Gold, Copper, Copper, Estate, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Gherald - gains Curse
+Gherald - draws Gold
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Silver, Silver, Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Soothsayer
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays 2 Gold, 2 Copper
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Copper, Soothsayer, Province, Silver, Venture
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Gherald - gains Curse
+Gherald - draws Silver
+Titandrake - plays 2 Silver, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Pawn, Curse, Copper, Lookout
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Soothsayer
+Gherald - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+Gherald - plays 2 Silver, 1 Copper
+Gherald - plays Venture
+Gherald - reveals Copper
+Gherald - plays Copper
+Gherald - buys Venture
+Gherald - gains Venture
+Gherald - draws Venture, Trader, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Forager on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Forager
+Titandrake - plays Forager
+Titandrake - trashes Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Venture, Gold, Pawn, Gold, Silver
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Trader
+Gherald - trashes Copper
+Gherald - plays 1 Silver, 1 Copper
+Gherald - plays Venture
+Gherald - reveals Estate, Gold
+Gherald - discards Estate
+Gherald - plays Gold
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Gold, Venture, Lookout, Pawn
+Gherald - shuffles deck
+Gherald - draws Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - plays Venture
+Titandrake - reveals Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper, Develop
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Lookout
+Gherald - trashes Gold
+Gherald - discards Venture
+Gherald - places Gold on top of deck
+Gherald - plays Pawn
+Gherald - takes 1 buy
+Gherald - draws Gold
+Gherald - plays 2 Gold, 1 Copper
+Gherald - plays Venture
+Gherald - reveals Copper
+Gherald - plays Copper
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Silver, Copper, Trader, Soothsayer, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Silver, Estate, Province, Gold
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Trader
+Gherald - trashes Soothsayer
+Gherald - gains Silver
+Gherald - gains Silver
+Gherald - gains Silver
+Gherald - gains Silver
+Gherald - gains Silver
+Gherald - plays 1 Silver, 1 Copper
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Estate, Duchy, Gold, Silver, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Lookout, Forager, Gold, Gold
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays 1 Gold, 1 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Venture, Curse, Gold, Estate, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Pawn
+Titandrake - places Silver on top of deck
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Pawn, Gold, Soothsayer, Silver
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays 1 Gold, 1 Silver
+Gherald - plays Venture
+Gherald - reveals Copper
+Gherald - plays Copper
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Venture, Curse, Curse, Copper
+Gherald - shuffles deck
+Gherald - draws Province
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Venture, Province, Province, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Pawn, 1 Develop, 1 Lookout, 1 Forager, 1 Soothsayer, 5 Gold, 4 Copper, 4 Silver, 1 Venture, 5 Province, 2 Duchy, 1 Estate, 1 Curse
+Titandrake - total victory points: 36
+Titandrake - turns: 18
+ 
+Gherald - cards: 1 Pawn, 1 Lookout, 1 Trader, 8 Silver, 5 Copper, 4 Venture, 4 Gold, 3 Province, 3 Duchy, 3 Estate, 3 Curse
+Gherald - total victory points: 27
+Gherald - turns: 18
+ 
+1st place: Titandrake
+2nd place: Gherald
+ 

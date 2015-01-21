@@ -1,0 +1,551 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Vagrant, Smugglers, Village, Taxman, Tournament, Treasure Map, Haggler, Harvest, Royal Seal, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+frankdom - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays 4 Copper
+frankdom - buys Taxman
+frankdom - gains Taxman
+frankdom - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays 3 Copper
+frankdom - buys Village
+frankdom - gains Village
+frankdom - shuffles deck
+frankdom - draws Copper, Copper, Copper, Village, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays Village
+frankdom - draws Copper
+frankdom - plays 4 Copper
+frankdom - buys Tournament
+frankdom - gains Tournament
+frankdom - draws Taxman, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Tournament, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- frankdom: turn 4 ----------
+frankdom - plays Taxman
+frankdom - trashes Copper
+Titandrake - discards Copper
+frankdom - gains Silver
+frankdom - plays 2 Copper
+frankdom - buys Vagrant
+frankdom - gains Vagrant
+frankdom - draws Silver, Estate
+frankdom - shuffles deck
+frankdom - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Royal Seal
+Titandrake - gains Royal Seal
+Titandrake - draws Copper, Haggler, Copper, Vagrant, Copper
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Tournament
+frankdom - gains Tournament
+frankdom - draws Vagrant, Village, Copper, Taxman, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Haggler
+Titandrake - plays 3 Copper
+Titandrake - buys Royal Seal
+Titandrake - gains Tournament
+Titandrake - gains Royal Seal
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- frankdom: turn 6 ----------
+frankdom - plays Vagrant
+frankdom - draws Copper
+frankdom - reveals: Tournament
+frankdom - places Tournament on top of deck
+frankdom - plays Village
+frankdom - draws Tournament
+frankdom - plays Tournament
+frankdom - draws Estate
+frankdom - plays Taxman
+frankdom - trashes Copper
+Titandrake - discards Copper
+frankdom - gains Silver
+frankdom - plays 2 Copper
+frankdom - buys Village
+frankdom - gains Village
+frankdom - draws Silver, Copper
+frankdom - shuffles deck
+frankdom - draws Village, Estate, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Royal Seal, Tournament, Copper, Copper, Estate
+ 
+---------- frankdom: turn 7 ----------
+frankdom - plays Village
+frankdom - draws Copper
+frankdom - plays 2 Silver, 2 Copper
+frankdom - buys Harvest
+frankdom - gains Harvest
+frankdom - draws Tournament, Estate, Tournament, Estate, Taxman
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Royal Seal, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Royal Seal, Haggler
+Titandrake - shuffles deck
+Titandrake - draws Tournament
+ 
+---------- frankdom: turn 8 ----------
+frankdom - plays Tournament
+frankdom - draws Vagrant
+frankdom - plays Vagrant
+frankdom - draws Copper
+frankdom - reveals: Village
+frankdom - places Village on top of deck
+frankdom - plays Tournament
+frankdom - draws Village
+frankdom - plays Village
+frankdom - draws Copper
+frankdom - plays Taxman
+frankdom - trashes Copper
+Titandrake - discards Copper
+frankdom - gains Silver
+frankdom - plays 1 Copper
+frankdom - buys Village
+frankdom - gains Village
+frankdom - draws Silver, Copper
+frankdom - shuffles deck
+frankdom - draws Copper, Village, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tournament
+Titandrake - draws Province
+Titandrake - plays Haggler
+Titandrake - plays 1 Copper, 1 Royal Seal
+Titandrake - buys Gold
+Titandrake - gains Tournament
+Titandrake - applied Royal Seal to place Tournament on top of the deck
+Titandrake - gains Gold
+Titandrake - applied Royal Seal to place Gold on top of the deck
+Titandrake - draws Gold, Tournament, Vagrant, Copper, Silver
+ 
+---------- frankdom: turn 9 ----------
+frankdom - plays Village
+frankdom - draws Estate
+frankdom - plays 3 Copper, 1 Silver
+frankdom - buys Harvest
+frankdom - gains Harvest
+frankdom - draws Taxman, Tournament, Estate, Village, Village
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - reveals: Estate
+Titandrake - places Estate in hand
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Vagrant, Copper, Royal Seal, Copper, Copper
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays Village
+frankdom - draws Vagrant
+frankdom - plays Vagrant
+frankdom - draws Silver
+frankdom - reveals: Silver
+frankdom - places Silver on top of deck
+frankdom - plays Village
+frankdom - draws Silver
+frankdom - plays Tournament
+frankdom - draws Copper
+frankdom - plays Taxman
+frankdom - trashes Silver
+Titandrake - reveals Vagrant, Copper, Royal Seal, Copper, Copper
+frankdom - gains Gold
+frankdom - plays 1 Silver, 1 Copper
+frankdom - buys Tournament
+frankdom - gains Tournament
+frankdom - draws Gold, Tournament, Harvest, Estate
+frankdom - shuffles deck
+frankdom - draws Tournament
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - reveals: Tournament
+Titandrake - places Tournament on top of deck
+Titandrake - plays 3 Copper, 1 Royal Seal
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - applied Royal Seal to place Haggler on top of the deck
+Titandrake - draws Haggler, Tournament, Gold, Tournament, Tournament
+ 
+---------- frankdom: turn 11 ----------
+frankdom - plays Tournament
+frankdom - draws Silver
+frankdom - plays Tournament
+frankdom - draws Copper
+frankdom - plays Harvest
+frankdom - reveals: Copper, Estate, Vagrant, Village
+frankdom - discards: Copper, Estate, Vagrant, Village
+frankdom - plays 1 Gold, 1 Silver, 1 Copper
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Harvest, Tournament, Copper, Village, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Silver, Province, Province, Vagrant, Haggler
+ 
+---------- frankdom: turn 12 ----------
+frankdom - plays Village
+frankdom - draws Village
+frankdom - plays Village
+frankdom - draws Taxman
+frankdom - plays Tournament
+Titandrake - reveals Province
+frankdom - plays Harvest
+frankdom - reveals: Silver, Estate
+frankdom - shuffles deck
+frankdom - reveals: Estate, Estate
+frankdom - discards: Silver, Estate, Estate, Estate
+frankdom - plays Taxman
+frankdom - trashes Copper
+Titandrake - reveals Silver, Province, Vagrant, Haggler, Province
+frankdom - gains Silver
+frankdom - plays 1 Copper
+frankdom - buys Village
+frankdom - gains Village
+frankdom - draws Silver, Silver, Village, Harvest, Tournament
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - reveals: Royal Seal
+Titandrake - places Royal Seal on top of deck
+Titandrake - plays Haggler
+Titandrake - plays Silver
+Titandrake - buys Tournament
+Titandrake - gains Village
+Titandrake - gains Tournament
+Titandrake - draws Royal Seal, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper
+ 
+---------- frankdom: turn 13 ----------
+frankdom - plays Village
+frankdom - draws Copper
+frankdom - plays Harvest
+frankdom - reveals: Vagrant, Gold, Tournament, Province
+frankdom - discards: Vagrant, Gold, Tournament, Province
+frankdom - plays Tournament
+Titandrake - reveals Province
+frankdom - plays 2 Silver, 1 Copper
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Copper
+frankdom - shuffles deck
+frankdom - draws Estate, Silver, Tournament, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Copper, 1 Royal Seal
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Haggler, Village, Copper, Vagrant
+ 
+---------- frankdom: turn 14 ----------
+frankdom - plays Tournament
+frankdom - reveals Province
+Titandrake - reveals Province
+frankdom - discards Province
+frankdom - gains Followers
+frankdom - plays 1 Copper, 1 Silver
+frankdom - buys Village
+frankdom - gains Village
+frankdom - draws Followers, Gold, Harvest, Tournament, Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Estate
+Titandrake - places Estate in hand
+Titandrake - plays Village
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - draws Princess
+Titandrake - plays Haggler
+Titandrake - plays Princess
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Vagrant, Gold, Estate, Tournament, Estate
+ 
+---------- frankdom: turn 15 ----------
+frankdom - plays Village
+frankdom - draws Copper
+frankdom - plays Followers
+frankdom - draws Copper, Estate
+frankdom - gains Estate
+Titandrake - gains Curse
+Titandrake - discards Estate
+Titandrake - discards Estate
+frankdom - plays Tournament
+frankdom - draws Tournament
+frankdom - plays Tournament
+frankdom - draws Silver
+frankdom - plays Harvest
+frankdom - reveals: Taxman, Harvest, Estate, Silver
+frankdom - discards: Taxman, Harvest, Estate, Silver
+frankdom - plays 2 Copper, 1 Gold, 1 Silver
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Village, Vagrant, Village, Province, Village
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Haggler
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Tournament
+frankdom - reveals Province
+Titandrake - plays Haggler
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Tournament
+Titandrake - gains Duchy
+Titandrake - draws Copper, Tournament, Province, Tournament, Royal Seal
+ 
+---------- frankdom: turn 16 ----------
+frankdom - plays Vagrant
+frankdom - shuffles deck
+frankdom - draws Followers
+frankdom - reveals: Silver
+frankdom - places Silver on top of deck
+frankdom - plays Village
+frankdom - draws Silver
+frankdom - plays Followers
+frankdom - draws Copper, Copper
+frankdom - gains Estate
+Titandrake - gains Curse
+Titandrake - discards Copper
+Titandrake - discards Tournament
+frankdom - plays Village
+frankdom - draws Copper
+frankdom - plays Village
+frankdom - draws Province
+frankdom - plays 3 Copper, 1 Silver
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - draws Province, Gold, Village, Tournament, Tournament
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Tournament
+frankdom - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - plays Royal Seal
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - applied Royal Seal to place Vagrant on top of the deck
+Titandrake - draws Vagrant, Duchy, Copper, Copper, Gold
+ 
+---------- frankdom: turn 17 ----------
+frankdom - plays Tournament
+frankdom - reveals Province
+frankdom - discards Province
+frankdom - gains Trusty Steed
+frankdom - draws Trusty Steed
+frankdom - plays Trusty Steed
+frankdom - takes 2 actions
+frankdom - draws Silver, Harvest
+frankdom - plays Village
+frankdom - draws Taxman
+frankdom - plays Harvest
+frankdom - reveals: Silver, Estate, Estate, Estate
+frankdom - discards: Silver, Estate, Estate, Estate
+frankdom - plays Tournament
+frankdom - draws Harvest
+frankdom - plays Harvest
+frankdom - reveals: Tournament, Estate, Village
+frankdom - shuffles deck
+frankdom - reveals: Silver
+frankdom - discards: Tournament, Estate, Village, Silver
+frankdom - plays Taxman
+frankdom - trashes Silver
+Titandrake - reveals Vagrant, Duchy, Copper, Copper, Gold
+frankdom - gains Gold
+frankdom - plays 1 Gold
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - draws Gold, Silver, Village, Village, Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Tournament, Tournament, Tournament, Copper
+ 
+---------- frankdom: turn 18 ----------
+frankdom - plays Village
+frankdom - draws Copper
+frankdom - plays Village
+frankdom - draws Estate
+frankdom - plays Village
+frankdom - draws Province
+frankdom - plays 1 Gold, 1 Silver, 1 Copper
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - draws Province, Estate, Estate, Estate, Followers
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Tournament
+frankdom - reveals Province
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Haggler, Curse, Province, Tournament, Vagrant
+ 
+---------- frankdom: turn 19 ----------
+frankdom - plays Followers
+frankdom - draws Copper, Duchy
+frankdom - gains Estate
+Titandrake - gains Curse
+Titandrake - discards Curse
+Titandrake - discards Vagrant
+frankdom - draws Province, Vagrant, Copper
+frankdom - shuffles deck
+frankdom - draws Province, Estate
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Tournament
+frankdom - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - plays Haggler
+Titandrake - buys Estate
+Titandrake - gains Copper
+Titandrake - gains Estate
+Titandrake - draws Duchy, Duchy, Duchy, Royal Seal, Copper
+ 
+---------- frankdom: turn 20 ----------
+frankdom - plays Vagrant
+frankdom - draws Estate
+frankdom - reveals: Duchy
+frankdom - places Duchy in hand
+frankdom - draws Tournament, Copper, Gold, Estate, Village
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 1 Royal Seal, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Silver, Province, Haggler, Copper
+ 
+---------- frankdom: turn 21 ----------
+frankdom - plays Village
+frankdom - draws Silver
+frankdom - plays Tournament
+Titandrake - reveals Province
+frankdom - plays 1 Copper, 1 Gold, 1 Silver
+frankdom - buys Vagrant
+frankdom - gains Vagrant
+frankdom - draws Taxman, Village, Duchy, Province, Estate
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Haggler
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Gold, Province, Princess, Estate, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Tournament, 3 Vagrant, 2 Haggler, 1 Princess, 1 Village, 8 Copper, 4 Gold, 2 Royal Seal, 1 Silver, 7 Estate, 5 Province, 5 Duchy, 3 Curse
+Titandrake - total victory points: 49
+Titandrake - turns: 22
+ 
+frankdom - cards: 5 Village, 3 Tournament, 2 Vagrant, 2 Harvest, 1 Taxman, 1 Trusty Steed, 1 Followers, 3 Copper, 2 Gold, 2 Silver, 6 Estate, 3 Duchy, 3 Province
+frankdom - total victory points: 33
+frankdom - turns: 21
+ 
+1st place: Titandrake
+2nd place: frankdom
+ 

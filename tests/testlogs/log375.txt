@@ -1,0 +1,450 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Haven, Masterpiece, Quarry, Scout, Apprentice, City, Ghost Ship, Rebuild, Soothsayer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+frankdom - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays 3 Copper
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays 4 Copper
+frankdom - buys Quarry
+frankdom - gains Quarry
+frankdom - shuffles deck
+frankdom - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - shuffles deck
+Titandrake - draws Estate, Haven, Copper, Estate, Estate
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays 4 Copper, 1 Silver
+frankdom - buys Soothsayer
+frankdom - gains Soothsayer
+frankdom - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Haven
+Titandrake - draws Copper
+Titandrake - sets aside Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Copper, Rebuild, Copper, Copper, Copper
+ 
+---------- frankdom: turn 4 ----------
+frankdom - plays 3 Copper
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - draws Estate, Quarry
+frankdom - shuffles deck
+frankdom - draws Soothsayer, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Estate in hand
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Estate
+Titandrake - discards Copper
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Haven, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays Soothsayer
+frankdom - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+frankdom - plays 1 Copper
+frankdom - plays Quarry
+frankdom - buys Scout
+frankdom - gains Scout
+frankdom - draws Silver, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Haven
+Titandrake - draws Copper
+Titandrake - sets aside Estate
+Titandrake - plays 5 Copper
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Haven, Rebuild, Duchy, Estate, Silver
+ 
+---------- frankdom: turn 6 ----------
+frankdom - plays 3 Copper, 2 Silver
+frankdom - buys Apprentice
+frankdom - gains Apprentice
+frankdom - draws Estate, Copper, Copper, Copper
+frankdom - shuffles deck
+frankdom - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Estate in hand
+Titandrake - plays Haven
+Titandrake - draws Copper
+Titandrake - sets aside Duchy
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Curse, Rebuild, Copper, Copper, Copper, Copper
+Titandrake - discards: Copper, Copper, Curse, Rebuild, Copper, Copper, Copper, Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Haven, Copper
+ 
+---------- frankdom: turn 7 ----------
+frankdom - plays 4 Copper
+frankdom - buys Quarry
+frankdom - gains Quarry
+frankdom - draws Gold, Silver, Copper, Silver, Quarry
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Duchy in hand
+Titandrake - plays Haven
+Titandrake - draws Estate
+Titandrake - sets aside Duchy
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Estate, Copper, Curse, Copper
+ 
+---------- frankdom: turn 8 ----------
+frankdom - plays 2 Silver, 1 Gold, 1 Copper
+frankdom - plays Quarry
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Copper, Soothsayer, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Duchy in hand
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Rebuild, Rebuild, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- frankdom: turn 9 ----------
+frankdom - plays Soothsayer
+frankdom - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Estate
+frankdom - plays 2 Copper
+frankdom - buys Haven
+frankdom - gains Haven
+frankdom - draws Apprentice, Scout
+frankdom - shuffles deck
+frankdom - draws Copper, Province, Soothsayer
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - reveals Copper, Haven, Copper, Silver, Duchy, Estate
+Titandrake - discards: Copper, Haven, Copper, Silver, Duchy
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Copper, Silver, Copper, Haven, Silver, Curse, Duchy
+Titandrake - discards: Copper, Silver, Copper, Haven, Silver, Curse
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Curse, Silver, Estate
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays Apprentice
+frankdom - trashes Scout
+frankdom - draws Estate, Copper, Gold, Copper
+frankdom - plays Soothsayer
+frankdom - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+frankdom - plays 3 Copper, 1 Gold
+frankdom - buys Apprentice
+frankdom - gains Apprentice
+frankdom - draws Gold, Copper, Quarry, Haven, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Copper, Silver, Duchy, Copper
+ 
+---------- frankdom: turn 11 ----------
+frankdom - plays Haven
+frankdom - draws Copper
+frankdom - sets aside Gold
+frankdom - plays 3 Copper
+frankdom - plays Quarry
+frankdom - buys City
+frankdom - gains City
+frankdom - draws Copper, Quarry, Estate, Estate, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Haven, Copper, Rebuild, Duchy
+ 
+---------- frankdom: turn 12 ----------
+frankdom - duration Haven
+frankdom - places set aside Gold in hand
+frankdom - plays 1 Copper, 1 Silver, 1 Gold
+frankdom - plays Quarry
+frankdom - buys Ghost Ship
+frankdom - gains Ghost Ship
+frankdom - draws Silver
+frankdom - shuffles deck
+frankdom - draws Province, Copper, Haven, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Haven
+Titandrake - draws Haven
+Titandrake - sets aside Duchy
+Titandrake - plays Haven
+Titandrake - draws Silver
+Titandrake - sets aside Estate
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Rebuild, Copper, Province, Silver, Copper, Silver, Curse, Duchy
+Titandrake - discards: Rebuild, Copper, Province, Silver, Copper, Silver, Curse
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Silver, Curse, Copper
+ 
+---------- frankdom: turn 13 ----------
+frankdom - plays Haven
+frankdom - draws City
+frankdom - sets aside Province
+frankdom - plays City
+frankdom - draws Quarry
+frankdom - plays 1 Silver, 1 Copper
+frankdom - plays Quarry
+frankdom - buys Apprentice
+frankdom - gains Apprentice
+frankdom - draws Copper, Apprentice, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Duchy in hand
+Titandrake - duration Haven
+Titandrake - places set aside Estate in hand
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Duchy, Copper, Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- frankdom: turn 14 ----------
+frankdom - duration Haven
+frankdom - places set aside Province in hand
+frankdom - plays Apprentice
+frankdom - trashes Gold
+frankdom - draws Quarry, Gold, Ghost Ship, Copper, Copper, Estate
+frankdom - plays Ghost Ship
+frankdom - draws Copper, Gold
+Titandrake - places Silver on top of deck
+Titandrake - places Curse on top of deck
+frankdom - plays 6 Copper, 2 Gold
+frankdom - plays Quarry
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Estate, Apprentice, Soothsayer, Silver
+frankdom - shuffles deck
+frankdom - draws Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse, Silver, Province, Silver, Haven
+ 
+---------- frankdom: turn 15 ----------
+frankdom - plays Apprentice
+frankdom - trashes Silver
+frankdom - draws Quarry, Province, Gold
+frankdom - plays Soothsayer
+frankdom - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Curse
+frankdom - plays 1 Copper, 1 Gold
+frankdom - plays Quarry
+frankdom - buys City
+frankdom - gains City
+frankdom - draws Apprentice, Copper, Apprentice, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Haven
+Titandrake - draws Silver
+Titandrake - sets aside Province
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Curse, Rebuild, Copper, Estate
+ 
+---------- frankdom: turn 16 ----------
+frankdom - plays Apprentice
+frankdom - trashes Apprentice
+frankdom - draws Estate, City, Ghost Ship, Province, Copper
+frankdom - plays City
+frankdom - draws Silver
+frankdom - plays Ghost Ship
+frankdom - draws Copper, Copper
+Titandrake - places Curse on top of deck
+Titandrake - places Copper on top of deck
+frankdom - plays 6 Copper, 1 Silver
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Quarry, Haven, Gold, Estate
+frankdom - shuffles deck
+frankdom - draws Apprentice
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Province in hand
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Copper, Curse, Silver, Copper, Haven, Copper, Province, Silver, Copper, Silver, Rebuild, Estate
+Titandrake - discards: Copper, Curse, Silver, Copper, Haven, Copper, Province, Silver, Copper, Silver, Rebuild
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - draws Duchy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Estate
+ 
+---------- frankdom: turn 17 ----------
+frankdom - plays Apprentice
+frankdom - trashes Gold
+frankdom - draws Province, Silver, City, Copper, Gold, Copper
+frankdom - plays City
+frankdom - draws Province
+frankdom - plays Haven
+frankdom - draws Copper
+frankdom - sets aside Quarry
+frankdom - plays 3 Copper, 1 Silver, 1 Gold
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Estate, Soothsayer, Estate, Copper, Quarry
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Duchy, Curse, Haven, Estate, Copper
+ 
+---------- frankdom: turn 18 ----------
+frankdom - duration Haven
+frankdom - places set aside Quarry in hand
+frankdom - plays Soothsayer
+frankdom - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Silver
+frankdom - plays 1 Copper
+frankdom - plays Quarry
+frankdom - plays Quarry
+frankdom - buys Apprentice
+frankdom - gains Apprentice
+frankdom - draws Ghost Ship, City, Province, Copper, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Haven
+Titandrake - draws Province
+Titandrake - sets aside Copper
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Haven, Copper, Copper, Silver, Copper
+ 
+---------- frankdom: turn 19 ----------
+frankdom - plays City
+frankdom - draws Apprentice
+frankdom - plays Ghost Ship
+frankdom - draws Copper, Gold
+Titandrake - places Haven on top of deck
+Titandrake - places Copper on top of deck
+frankdom - plays Apprentice
+frankdom - trashes Gold
+frankdom - shuffles deck
+frankdom - draws Copper, Haven, Soothsayer, Apprentice, City, Province
+frankdom - plays City
+frankdom - draws Copper
+frankdom - plays Apprentice
+frankdom - trashes Soothsayer
+frankdom - draws Estate, Silver, Province, Copper, Gold
+frankdom - plays Haven
+frankdom - draws Quarry
+frankdom - sets aside Gold
+frankdom - plays 6 Copper, 1 Silver
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Quarry, Copper, Gold, Estate, Apprentice
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Haven, Silver, Province, Duchy
+ 
+---------- frankdom: turn 20 ----------
+frankdom - duration Haven
+frankdom - places set aside Gold in hand
+frankdom - plays 2 Gold, 1 Copper
+frankdom - plays Quarry
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Estate, Province
+frankdom - shuffles deck
+frankdom - draws Quarry, Copper, Copper
+ 
+------------ Game Over ------------
+frankdom - cards: 3 Apprentice, 2 City, 1 Ghost Ship, 1 Haven, 7 Copper, 2 Quarry, 2 Gold, 1 Silver, 6 Province, 3 Estate
+frankdom - total victory points: 39
+frankdom - turns: 20
+ 
+Titandrake - cards: 2 Haven, 2 Rebuild, 7 Copper, 6 Silver, 5 Duchy, 4 Estate, 2 Province, 5 Curse
+Titandrake - total victory points: 26
+Titandrake - turns: 19
+ 
+1st place: frankdom
+2nd place: Titandrake
+ 

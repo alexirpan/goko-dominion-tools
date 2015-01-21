@@ -1,0 +1,883 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Pawn, Village, Farming Village, Treasure Map, Embassy, Trading Post, Tribute, Goons, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+dudeabides - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dudeabides - shuffles deck
+Titandrake - shuffles deck
+dudeabides - draws Copper, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- dudeabides: turn 1 ----------
+dudeabides - plays 3 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Estate, Silver
+ 
+---------- dudeabides: turn 2 ----------
+dudeabides - plays 4 Copper
+dudeabides - buys Silver
+dudeabides - gains Silver
+dudeabides - shuffles deck
+dudeabides - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- dudeabides: turn 3 ----------
+dudeabides - plays 4 Copper
+dudeabides - buys Farming Village
+dudeabides - gains Farming Village
+dudeabides - draws Estate, Silver, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Farming Village, Copper
+ 
+---------- dudeabides: turn 4 ----------
+dudeabides - plays 2 Silver, 1 Copper
+dudeabides - buys Trading Post
+dudeabides - gains Trading Post
+dudeabides - draws Copper, Copper
+dudeabides - shuffles deck
+dudeabides - draws Trading Post, Farming Village, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+dudeabides - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 5 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Estate, Silver
+dudeabides - places Silver in hand
+dudeabides - discards Estate
+dudeabides - plays Trading Post
+dudeabides - trashes Copper, Copper
+dudeabides - gains Silver
+dudeabides - plays 2 Silver, 1 Copper
+dudeabides - buys Embassy
+dudeabides - gains Embassy
+Titandrake - gains Silver
+dudeabides - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Estate, Trading Post, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- dudeabides: turn 6 ----------
+dudeabides - plays 3 Copper, 1 Silver
+dudeabides - buys Farming Village
+dudeabides - gains Farming Village
+dudeabides - draws Estate, Copper
+dudeabides - shuffles deck
+dudeabides - draws Farming Village, Embassy, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Silver, Copper, Estate, Farming Village, Copper
+ 
+---------- dudeabides: turn 7 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Silver
+dudeabides - places Silver in hand
+dudeabides - plays Embassy
+dudeabides - draws Copper, Farming Village, Silver, Copper, Copper
+dudeabides - discards Copper
+dudeabides - discards Copper
+dudeabides - discards Copper
+dudeabides - plays Farming Village
+dudeabides - reveals Copper
+dudeabides - places Copper in hand
+dudeabides - plays 3 Silver, 2 Copper
+dudeabides - buys Goons
+dudeabides - gains Goons
+dudeabides - draws Trading Post, Estate, Estate, Silver
+dudeabides - shuffles deck
+dudeabides - draws Farming Village
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Tribute
+Titandrake - gains Tribute
+Titandrake - draws Farming Village, Copper, Copper, Embassy, Copper
+ 
+---------- dudeabides: turn 8 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Copper
+dudeabides - places Copper in hand
+dudeabides - plays Trading Post
+dudeabides - trashes Estate, Estate
+dudeabides - gains Silver
+dudeabides - plays 2 Silver, 1 Copper
+dudeabides - buys Embassy
+dudeabides - gains Embassy
+Titandrake - gains Silver
+dudeabides - draws Copper, Silver, Estate, Copper, Goons
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Embassy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Tribute, Silver, Silver, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Tribute
+dudeabides - reveals: Silver, Copper
+Titandrake - receives 4 coins
+dudeabides - discards: Silver, Copper
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Farming Village, Copper, Estate, Farming Village, Trading Post
+ 
+---------- dudeabides: turn 9 ----------
+dudeabides - plays Goons
+Titandrake - discards Estate
+Titandrake - discards Copper
+dudeabides - plays 2 Copper, 1 Silver
+dudeabides - buys Village
+dudeabides - receives 1 victory point chips
+dudeabides - gains Village
+dudeabides - buys Village
+dudeabides - receives 1 victory point chips
+dudeabides - gains Village
+dudeabides - draws Silver, Farming Village, Embassy, Copper
+dudeabides - shuffles deck
+dudeabides - draws Farming Village
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Silver
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Tribute, Estate, Silver
+ 
+---------- dudeabides: turn 10 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Silver
+dudeabides - places Silver in hand
+dudeabides - plays Farming Village
+dudeabides - reveals Silver
+dudeabides - places Silver in hand
+dudeabides - plays Embassy
+dudeabides - draws Village, Village, Silver, Estate, Copper
+dudeabides - discards Estate
+dudeabides - discards Copper
+dudeabides - discards Copper
+dudeabides - plays Village
+dudeabides - draws Embassy
+dudeabides - plays Embassy
+dudeabides - draws Copper, Goons, Copper, Copper, Silver
+dudeabides - discards Copper
+dudeabides - discards Copper
+dudeabides - discards Silver
+dudeabides - plays Village
+dudeabides - draws Trading Post
+dudeabides - plays Trading Post
+dudeabides - trashes Copper, Silver
+dudeabides - gains Silver
+dudeabides - plays Goons
+Titandrake - discards Estate
+Titandrake - discards Copper
+dudeabides - plays 4 Silver
+dudeabides - buys Goons
+dudeabides - receives 1 victory point chips
+dudeabides - gains Goons
+dudeabides - buys Farming Village
+dudeabides - receives 1 victory point chips
+dudeabides - gains Farming Village
+dudeabides - shuffles deck
+dudeabides - draws Copper, Goons, Silver, Copper, Farming Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Tribute
+dudeabides - reveals: Silver, Village
+Titandrake - receives 2 coins
+Titandrake - receives 2 actions
+dudeabides - discards: Silver, Village
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+dudeabides - gains Silver
+Titandrake - draws Farming Village, Goons, Copper, Silver, Farming Village
+ 
+---------- dudeabides: turn 11 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Farming Village
+dudeabides - places Farming Village in hand
+dudeabides - plays Farming Village
+dudeabides - reveals Trading Post
+dudeabides - places Trading Post in hand
+dudeabides - plays Trading Post
+dudeabides - trashes Copper, Copper
+dudeabides - gains Silver
+dudeabides - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Silver
+dudeabides - plays 2 Silver
+dudeabides - buys Goons
+dudeabides - receives 1 victory point chips
+dudeabides - gains Goons
+dudeabides - draws Goons, Copper, Silver, Embassy, Farming Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Pawn
+Titandrake - places Pawn in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Copper
+Titandrake - plays Goons
+dudeabides - discards Silver
+dudeabides - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Farming Village
+Titandrake - receives 1 victory point chips
+Titandrake - gains Farming Village
+Titandrake - draws Trading Post, Farming Village, Embassy, Silver, Silver
+ 
+---------- dudeabides: turn 12 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Embassy
+dudeabides - places Embassy in hand
+dudeabides - plays Embassy
+dudeabides - draws Silver, Village, Estate, Copper, Silver
+dudeabides - discards Estate
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Village
+dudeabides - shuffles deck
+dudeabides - draws Silver
+dudeabides - plays Embassy
+dudeabides - draws Farming Village, Silver, Silver, Copper, Silver
+dudeabides - discards Copper
+dudeabides - discards Copper
+dudeabides - discards Silver
+dudeabides - plays Farming Village
+dudeabides - reveals Goons
+dudeabides - places Goons in hand
+dudeabides - plays Goons
+Titandrake - discards Silver
+Titandrake - discards Trading Post
+dudeabides - plays Goons
+dudeabides - plays 3 Silver
+dudeabides - buys Embassy
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Embassy
+Titandrake - gains Silver
+dudeabides - buys Farming Village
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Farming Village
+dudeabides - draws Silver, Goons, Village, Silver, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Embassy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Copper, Silver, Pawn
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays Farming Village
+Titandrake - reveals Embassy
+Titandrake - places Embassy in hand
+Titandrake - plays Embassy
+Titandrake - draws Farming Village, Trading Post, Goons, Silver, Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Tribute
+Titandrake - places Tribute in hand
+Titandrake - discards Estate
+Titandrake - plays Tribute
+dudeabides - reveals: Trading Post, Farming Village
+Titandrake - receives 4 actions
+dudeabides - discards: Trading Post, Farming Village
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Silver
+Titandrake - plays Goons
+dudeabides - discards Silver
+dudeabides - discards Village
+Titandrake - plays 2 Silver
+Titandrake - buys Potion
+Titandrake - receives 1 victory point chips
+Titandrake - gains Potion
+Titandrake - buys Village
+Titandrake - receives 1 victory point chips
+Titandrake - gains Village
+Titandrake - draws Copper, Silver, Copper, Farming Village, Copper
+ 
+---------- dudeabides: turn 13 ----------
+dudeabides - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Copper
+dudeabides - plays 2 Silver
+dudeabides - buys Goons
+dudeabides - receives 1 victory point chips
+dudeabides - gains Goons
+dudeabides - draws Estate
+dudeabides - shuffles deck
+dudeabides - draws Goons, Farming Village, Silver, Embassy
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+dudeabides - gains Silver
+Titandrake - draws Copper, Trading Post, Farming Village, Copper, Tribute
+ 
+---------- dudeabides: turn 14 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Copper
+dudeabides - places Copper in hand
+dudeabides - plays Embassy
+dudeabides - draws Silver, Silver, Trading Post, Goons, Embassy
+dudeabides - discards Copper
+dudeabides - discards Embassy
+dudeabides - discards Trading Post
+dudeabides - plays Goons
+Titandrake - discards Trading Post
+Titandrake - discards Copper
+dudeabides - plays 3 Silver
+dudeabides - buys Village
+dudeabides - receives 1 victory point chips
+dudeabides - gains Village
+dudeabides - buys Embassy
+dudeabides - receives 1 victory point chips
+dudeabides - gains Embassy
+Titandrake - gains Silver
+dudeabides - draws Goons, Village, Village, Goons, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Pawn
+Titandrake - places Pawn in hand
+Titandrake - plays Tribute
+dudeabides - reveals: Copper, Farming Village
+Titandrake - receives 2 coins
+Titandrake - receives 2 actions
+dudeabides - discards: Copper, Farming Village
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Embassy, Potion, Goons, Silver, Farming Village
+ 
+---------- dudeabides: turn 15 ----------
+dudeabides - plays Village
+dudeabides - draws Silver
+dudeabides - plays Village
+dudeabides - draws Farming Village
+dudeabides - plays Farming Village
+dudeabides - reveals Embassy
+dudeabides - places Embassy in hand
+dudeabides - plays Embassy
+dudeabides - draws Silver, Farming Village, Silver
+dudeabides - shuffles deck
+dudeabides - draws Silver, Trading Post
+dudeabides - discards Trading Post
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Farming Village
+dudeabides - reveals Goons
+dudeabides - places Goons in hand
+dudeabides - plays Goons
+Titandrake - discards Potion
+Titandrake - discards Silver
+dudeabides - plays Goons
+dudeabides - plays Goons
+dudeabides - plays 3 Silver
+dudeabides - buys Farming Village
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Farming Village
+dudeabides - buys Goons
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Goons
+dudeabides - buys Pawn
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Pawn
+dudeabides - draws Farming Village, Embassy, Goons, Silver, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Embassy
+Titandrake - draws Estate, Farming Village, Copper, Silver, Silver
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Goons
+dudeabides - discards Estate
+dudeabides - discards Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - buys Pawn
+Titandrake - receives 1 victory point chips
+Titandrake - gains Pawn
+Titandrake - draws Village, Embassy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Silver
+ 
+---------- dudeabides: turn 16 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Village
+dudeabides - places Village in hand
+dudeabides - plays Village
+dudeabides - draws Copper
+dudeabides - plays Embassy
+dudeabides - draws Embassy, Silver, Silver, Embassy, Farming Village
+dudeabides - discards Copper
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Farming Village
+dudeabides - reveals Copper
+dudeabides - places Copper in hand
+dudeabides - plays Embassy
+dudeabides - shuffles deck
+dudeabides - draws Farming Village, Silver, Silver, Farming Village, Copper
+dudeabides - discards Copper
+dudeabides - discards Copper
+dudeabides - discards Silver
+dudeabides - plays Farming Village
+dudeabides - reveals Pawn
+dudeabides - places Pawn in hand
+dudeabides - plays Farming Village
+dudeabides - reveals Silver
+dudeabides - places Silver in hand
+dudeabides - plays Embassy
+dudeabides - draws Silver, Silver, Silver, Village, Estate
+dudeabides - discards Estate
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Village
+dudeabides - draws Embassy
+dudeabides - plays Embassy
+dudeabides - draws Silver, Goons, Trading Post, Goons, Goons
+dudeabides - discards Trading Post
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Pawn
+dudeabides - takes 1 action
+dudeabides - draws Silver
+dudeabides - plays Goons
+Titandrake - discards Estate
+Titandrake - discards Silver
+dudeabides - plays Goons
+dudeabides - plays Goons
+dudeabides - plays 3 Silver
+dudeabides - buys Village
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Village
+dudeabides - buys Village
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Village
+dudeabides - buys Embassy
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Embassy
+Titandrake - gains Silver
+dudeabides - draws Farming Village, Goons, Village
+dudeabides - shuffles deck
+dudeabides - draws Farming Village, Pawn
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Embassy
+Titandrake - draws Trading Post, Farming Village, Copper, Copper, Goons
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Tribute
+Titandrake - places Tribute in hand
+Titandrake - plays Tribute
+dudeabides - reveals: Silver, Copper
+Titandrake - receives 4 coins
+dudeabides - discards: Silver, Copper
+Titandrake - plays Goons
+dudeabides - discards Pawn
+dudeabides - discards Goons
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - receives 1 victory point chips
+Titandrake - gains Province
+Titandrake - draws Silver, Embassy, Pawn, Farming Village, Silver
+ 
+---------- dudeabides: turn 17 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Silver
+dudeabides - places Silver in hand
+dudeabides - plays Farming Village
+dudeabides - reveals Farming Village
+dudeabides - places Farming Village in hand
+dudeabides - plays Village
+dudeabides - draws Village
+dudeabides - plays Farming Village
+dudeabides - reveals Embassy
+dudeabides - places Embassy in hand
+dudeabides - plays Village
+dudeabides - draws Farming Village
+dudeabides - plays Farming Village
+dudeabides - reveals Silver
+dudeabides - places Silver in hand
+dudeabides - plays Embassy
+dudeabides - draws Village, Silver, Silver, Embassy, Silver
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Village
+dudeabides - draws Embassy
+dudeabides - plays Embassy
+dudeabides - draws Village, Village, Goons, Copper, Embassy
+dudeabides - discards Copper
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Village
+dudeabides - draws Estate
+dudeabides - plays Village
+dudeabides - draws Silver
+dudeabides - plays Embassy
+dudeabides - draws Embassy, Farming Village, Goons, Goons, Trading Post
+dudeabides - discards Estate
+dudeabides - discards Silver
+dudeabides - discards Trading Post
+dudeabides - plays Farming Village
+dudeabides - reveals Goons
+dudeabides - places Goons in hand
+dudeabides - plays Embassy
+dudeabides - draws Silver
+dudeabides - shuffles deck
+dudeabides - draws Silver, Pawn, Silver, Estate
+dudeabides - discards Estate
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Embassy
+dudeabides - draws Copper, Goons, Silver, Copper, Silver
+dudeabides - discards Copper
+dudeabides - discards Copper
+dudeabides - discards Silver
+dudeabides - plays Pawn
+dudeabides - takes 1 buy
+dudeabides - draws Silver
+dudeabides - plays Goons
+Titandrake - discards Silver
+Titandrake - discards Pawn
+dudeabides - plays Goons
+dudeabides - plays Goons
+dudeabides - plays Goons
+dudeabides - plays Goons
+dudeabides - plays 3 Silver
+dudeabides - buys Village
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Village
+dudeabides - buys Village
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Village
+dudeabides - buys Village
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Village
+dudeabides - buys Goons
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Goons
+dudeabides - draws Trading Post, Silver, Silver
+dudeabides - shuffles deck
+dudeabides - draws Farming Village, Farming Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Potion
+Titandrake - places Potion in hand
+Titandrake - plays Embassy
+Titandrake - draws Copper, Farming Village, Farming Village, Farming Village, Pawn
+Titandrake - discards Copper
+Titandrake - discards Potion
+Titandrake - discards Pawn
+Titandrake - plays Farming Village
+Titandrake - reveals Goons
+Titandrake - places Goons in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Embassy
+Titandrake - places Embassy in hand
+Titandrake - plays Embassy
+Titandrake - draws Silver, Silver, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays Goons
+dudeabides - discards Trading Post
+dudeabides - discards Silver
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - receives 1 victory point chips
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - receives 1 victory point chips
+Titandrake - gains Estate
+Titandrake - draws Copper, Silver, Trading Post, Copper, Pawn
+ 
+---------- dudeabides: turn 18 ----------
+dudeabides - plays Farming Village
+dudeabides - reveals Village
+dudeabides - places Village in hand
+dudeabides - plays Farming Village
+dudeabides - reveals Goons
+dudeabides - places Goons in hand
+dudeabides - plays Village
+dudeabides - draws Silver
+dudeabides - plays Goons
+Titandrake - discards Trading Post
+Titandrake - discards Copper
+dudeabides - plays 2 Silver
+dudeabides - buys Goons
+dudeabides - receives 1 victory point chips
+dudeabides - gains Goons
+dudeabides - draws Pawn, Farming Village, Village, Copper, Village
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Goons
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Silver, Potion, Copper, Farming Village, Silver
+ 
+---------- dudeabides: turn 19 ----------
+dudeabides - plays Village
+dudeabides - draws Embassy
+dudeabides - plays Village
+dudeabides - draws Village
+dudeabides - plays Village
+dudeabides - draws Silver
+dudeabides - plays Farming Village
+dudeabides - reveals Goons
+dudeabides - places Goons in hand
+dudeabides - plays Embassy
+dudeabides - draws Village, Goons, Silver, Silver, Silver
+dudeabides - discards Copper
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Village
+dudeabides - draws Silver
+dudeabides - plays Pawn
+dudeabides - takes 1 buy
+dudeabides - draws Embassy
+dudeabides - plays Embassy
+dudeabides - draws Village, Goons, Estate, Goons, Village
+dudeabides - discards Estate
+dudeabides - discards Silver
+dudeabides - discards Silver
+dudeabides - plays Village
+dudeabides - draws Embassy
+dudeabides - plays Village
+dudeabides - draws Farming Village
+dudeabides - plays Farming Village
+dudeabides - reveals Village
+dudeabides - places Village in hand
+dudeabides - plays Village
+dudeabides - draws Copper
+dudeabides - plays Embassy
+dudeabides - draws Farming Village, Goons, Embassy, Embassy
+dudeabides - shuffles deck
+dudeabides - draws Silver
+dudeabides - discards Copper
+dudeabides - discards Embassy
+dudeabides - discards Embassy
+dudeabides - plays Farming Village
+dudeabides - reveals Goons
+dudeabides - places Goons in hand
+dudeabides - plays Goons
+Titandrake - discards Potion
+Titandrake - discards Copper
+dudeabides - plays Goons
+dudeabides - plays Goons
+dudeabides - plays Goons
+dudeabides - plays Goons
+dudeabides - plays Goons
+dudeabides - plays 2 Silver
+dudeabides - buys Estate
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Estate
+dudeabides - buys Estate
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Estate
+dudeabides - buys Estate
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Estate
+dudeabides - buys Estate
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Estate
+dudeabides - buys Estate
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Estate
+dudeabides - buys Estate
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Estate
+dudeabides - buys Estate
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Estate
+dudeabides - buys Copper
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - receives 1 victory point chips
+dudeabides - gains Copper
+dudeabides - draws Silver, Silver, Farming Village, Silver, Silver
+ 
+------------ Game Over ------------
+dudeabides - cards: 8 Village, 7 Goons, 5 Farming Village, 5 Embassy, 1 Pawn, 1 Trading Post, 8 Silver, 3 Copper, 8 Estate
+dudeabides - victory point chips: 99
+dudeabides - total victory points: 107
+dudeabides - turns: 19
+ 
+Titandrake - cards: 5 Farming Village, 3 Embassy, 2 Goons, 2 Village, 2 Pawn, 1 Trading Post, 1 Tribute, 8 Silver, 6 Copper, 1 Potion, 2 Province, 2 Estate
+Titandrake - victory point chips: 8
+Titandrake - total victory points: 22
+Titandrake - turns: 19
+ 
+1st place: dudeabides
+2nd place: Titandrake
+ 

@@ -1,0 +1,495 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Candlestick Maker, University, Hermit, Armory, Nomad Camp, Scout, Baker, Knights, Library, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+strongpoet - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+strongpoet - shuffles deck
+Titandrake - shuffles deck
+strongpoet - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- strongpoet: turn 1 ----------
+strongpoet - plays 3 Copper
+strongpoet - buys Hermit
+strongpoet - gains Hermit
+strongpoet - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Estate, Hermit, Copper, Copper, Copper
+ 
+---------- strongpoet: turn 2 ----------
+strongpoet - plays 4 Copper
+strongpoet - buys Potion
+strongpoet - gains Potion
+strongpoet - shuffles deck
+strongpoet - draws Copper, Copper, Copper, Potion, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Candlestick Maker
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Potion, Copper, Estate
+ 
+---------- strongpoet: turn 3 ----------
+strongpoet - plays 3 Copper, 1 Potion
+strongpoet - buys University
+strongpoet - gains University
+strongpoet - draws Copper, Copper, Estate, Hermit, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Candlestick Maker, Copper
+ 
+---------- strongpoet: turn 4 ----------
+strongpoet - plays Hermit
+strongpoet - trashes Estate
+strongpoet - gains Hermit
+strongpoet - trashes Hermit
+strongpoet - gains Madman
+strongpoet - draws Copper, Copper
+strongpoet - shuffles deck
+strongpoet - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 3 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Sir Vander
+Titandrake - gains Sir Vander
+Titandrake - draws Hermit, Copper, Copper, Silver, Estate
+ 
+---------- strongpoet: turn 5 ----------
+strongpoet - plays 4 Copper
+strongpoet - uses 1 coin token
+strongpoet - buys Dame Molly
+strongpoet - gains Dame Molly
+strongpoet - draws Estate, Copper, Copper, Madman, Potion
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper, University, Copper, Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- strongpoet: turn 6 ----------
+strongpoet - plays 2 Copper, 1 Potion
+strongpoet - buys University
+strongpoet - gains University
+strongpoet - draws Copper, Hermit, University
+strongpoet - shuffles deck
+strongpoet - draws Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays University
+Titandrake - gains Sir Destry
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Silver, Sir Vander, Candlestick Maker, Hermit, Copper
+ 
+---------- strongpoet: turn 7 ----------
+strongpoet - plays University
+strongpoet - gains Baker
+strongpoet - plays Hermit
+strongpoet - trashes Estate
+strongpoet - gains Candlestick Maker
+strongpoet - trashes Hermit
+strongpoet - gains Madman
+strongpoet - draws University, Copper, Dame Molly, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Sir Vander
+strongpoet - reveals: Madman, Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Madman, Copper, Copper, Estate, Copper
+ 
+---------- strongpoet: turn 8 ----------
+strongpoet - plays Dame Molly
+Titandrake - shuffles deck
+Titandrake - reveals: University, Copper
+strongpoet - plays University
+strongpoet - gains Library
+strongpoet - plays 3 Copper
+strongpoet - buys Candlestick Maker
+strongpoet - gains Candlestick Maker
+strongpoet - draws Potion, Copper, Estate
+strongpoet - shuffles deck
+strongpoet - draws Candlestick Maker, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Madman
+Titandrake - draws Silver, Hermit, Copper, Sir Destry
+Titandrake - plays Sir Destry
+Titandrake - draws Sir Vander, Candlestick Maker
+strongpoet - reveals: Madman, Candlestick Maker
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Sir Vander
+strongpoet - reveals: Baker, Copper
+strongpoet - trashes Baker
+strongpoet - discards Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Sir Bailey
+Titandrake - gains Sir Bailey
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Copper, University, Silver, Potion
+ 
+---------- strongpoet: turn 9 ----------
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays 2 Copper, 1 Potion
+strongpoet - buys University
+strongpoet - gains University
+strongpoet - draws Copper, Copper, Madman, Copper, University
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays University
+Titandrake - gains Sir Michael
+Titandrake - plays 2 Copper, 1 Silver, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Sir Bailey, Copper, Silver, Copper
+ 
+---------- strongpoet: turn 10 ----------
+strongpoet - plays University
+strongpoet - gains Baker
+strongpoet - plays 3 Copper
+strongpoet - buys Candlestick Maker
+strongpoet - gains Candlestick Maker
+strongpoet - draws Library, Dame Molly, University, Copper
+strongpoet - shuffles deck
+strongpoet - draws Candlestick Maker
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Sir Bailey
+Titandrake - draws University
+strongpoet - reveals: Copper, Candlestick Maker
+Titandrake - plays University
+Titandrake - gains Baker
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws University, Copper, Silver, Copper, Estate
+ 
+---------- strongpoet: turn 11 ----------
+strongpoet - plays University
+strongpoet - gains Baker
+strongpoet - plays Dame Molly
+Titandrake - reveals: Candlestick Maker, Sir Michael
+Titandrake - trashes Sir Michael
+Titandrake - discards Candlestick Maker
+strongpoet - trashes Dame Molly
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays Library
+strongpoet - discards Madman
+strongpoet - moves Baker to hand
+strongpoet - discards Madman
+strongpoet - draws Copper
+strongpoet - draws Copper
+strongpoet - draws Copper
+strongpoet - moves Candlestick Maker to hand
+strongpoet - moves University to hand
+strongpoet - discards: Madman, Madman
+strongpoet - plays University
+strongpoet - gains Baker
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Copper
+strongpoet - plays 5 Copper
+strongpoet - buys Baker
+strongpoet - gains Baker
+strongpoet - draws Potion, Copper, Estate, University
+strongpoet - shuffles deck
+strongpoet - draws Candlestick Maker
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays University
+Titandrake - gains Baker
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Sir Martin
+Titandrake - gains Sir Martin
+Titandrake - draws Copper, Sir Destry, Sir Vander, Copper, Candlestick Maker
+ 
+---------- strongpoet: turn 12 ----------
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays University
+strongpoet - gains Baker
+strongpoet - plays 1 Potion, 1 Copper
+strongpoet - uses 1 coin token
+strongpoet - buys University
+strongpoet - gains University
+strongpoet - draws Copper, Madman, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Sir Destry
+Titandrake - draws Copper, Potion
+strongpoet - reveals: University, Madman
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - uses 1 coin token
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws University
+Titandrake - shuffles deck
+Titandrake - draws Copper, Sir Bailey, Sir Vander, Sir Destry
+ 
+---------- strongpoet: turn 13 ----------
+strongpoet - plays Madman
+strongpoet - draws Baker, University, Candlestick Maker, Copper
+strongpoet - plays University
+strongpoet - gains Baker
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Baker
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Copper
+strongpoet - plays 6 Copper
+strongpoet - uses 4 coin tokens
+strongpoet - buys Library
+strongpoet - gains Library
+strongpoet - buys Baker
+strongpoet - gains Baker
+strongpoet - draws Library, Baker, Candlestick Maker, Baker
+strongpoet - shuffles deck
+strongpoet - draws Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sir Bailey
+Titandrake - draws University
+strongpoet - reveals: Baker, Madman
+strongpoet - trashes Baker
+strongpoet - discards Madman
+Titandrake - plays University
+Titandrake - gains Library
+Titandrake - plays Sir Destry
+Titandrake - draws Copper, University
+strongpoet - reveals: University, Potion
+strongpoet - trashes Potion
+strongpoet - discards University
+Titandrake - plays University
+Titandrake - gains Candlestick Maker
+Titandrake - plays Sir Vander
+strongpoet - reveals: Baker, Baker
+strongpoet - trashes Baker
+strongpoet - discards Baker
+Titandrake - plays University
+Titandrake - gains Library
+Titandrake - draws Candlestick Maker, Copper, Sir Martin, Copper, Candlestick Maker
+ 
+---------- strongpoet: turn 14 ----------
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Copper
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Candlestick Maker
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays Library
+strongpoet - draws Estate
+strongpoet - draws Copper
+strongpoet - discards Library
+strongpoet - discards Candlestick Maker
+strongpoet - discards University
+strongpoet - discards University
+strongpoet - draws Copper
+strongpoet - draws Copper
+strongpoet - discards University
+strongpoet - discards Baker
+strongpoet - discards Baker
+strongpoet - draws Copper
+strongpoet - discards: Library, Candlestick Maker, University, University, University, Baker, Baker
+strongpoet - plays 6 Copper
+strongpoet - uses 4 coin tokens
+strongpoet - buys Dame Sylvia
+strongpoet - gains Dame Sylvia
+strongpoet - buys Dame Josephine
+strongpoet - gains Dame Josephine
+strongpoet - draws Copper
+strongpoet - shuffles deck
+strongpoet - draws University, Library, Estate, Candlestick Maker
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Sir Martin
+strongpoet - reveals: Madman, Candlestick Maker
+Titandrake - draws Silver, Candlestick Maker, Madman, Copper, Hermit
+ 
+---------- strongpoet: turn 15 ----------
+strongpoet - plays University
+strongpoet - gains Dame Anna
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays Library
+strongpoet - draws Copper
+strongpoet - moves University to hand
+strongpoet - moves Baker to hand
+strongpoet - moves University to hand
+strongpoet - draws Copper
+strongpoet - plays University
+strongpoet - gains Dame Natalie
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Baker
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Copper
+strongpoet - plays University
+strongpoet - gains Candlestick Maker
+strongpoet - plays 4 Copper
+strongpoet - uses 4 coin tokens
+strongpoet - buys Province
+strongpoet - gains Province
+strongpoet - draws Baker, Copper, Candlestick Maker, Copper, Dame Sylvia
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Madman
+Titandrake - draws Baker, Copper, Potion, Silver
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Estate
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays 2 Silver, 2 Copper, 1 Potion
+Titandrake - uses 4 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws University, Copper
+Titandrake - shuffles deck
+Titandrake - draws Province, Baker, Silver
+ 
+---------- strongpoet: turn 16 ----------
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Dame Josephine
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays Dame Sylvia
+Titandrake - reveals: Sir Destry, Candlestick Maker
+Titandrake - trashes Sir Destry
+Titandrake - discards Candlestick Maker
+strongpoet - trashes Dame Sylvia
+strongpoet - plays 2 Copper
+strongpoet - uses 4 coin tokens
+strongpoet - buys Province
+strongpoet - gains Province
+strongpoet - draws University, Baker, Library, Copper, Baker
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Sir Bailey
+Titandrake - plays Sir Bailey
+Titandrake - draws Copper
+strongpoet - shuffles deck
+strongpoet - reveals: Baker, Copper
+strongpoet - trashes Baker
+strongpoet - discards Copper
+Titandrake - plays University
+Titandrake - gains Nomad Camp
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Nomad Camp, Library, Candlestick Maker, Sir Vander, Estate
+ 
+---------- strongpoet: turn 17 ----------
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Copper
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Candlestick Maker
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays University
+strongpoet - gains Candlestick Maker
+strongpoet - plays Library
+strongpoet - moves Candlestick Maker to hand
+strongpoet - moves Candlestick Maker to hand
+strongpoet - discards University
+strongpoet - moves Candlestick Maker to hand
+strongpoet - draws Copper
+strongpoet - moves Baker to hand
+strongpoet - discards University
+strongpoet - plays Baker
+strongpoet - receives 1 coin token
+strongpoet - draws Province
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays Candlestick Maker
+strongpoet - receives 1 coin token
+strongpoet - plays 3 Copper
+strongpoet - uses 7 coin tokens
+strongpoet - buys Candlestick Maker
+strongpoet - gains Candlestick Maker
+strongpoet - buys Province
+strongpoet - gains Province
+strongpoet - draws Dame Josephine, Estate, Madman, Dame Anna, Baker
+ 
+------------ Game Over ------------
+strongpoet - cards: 6 Candlestick Maker, 4 Baker, 4 University, 2 Library, 1 Dame Josephine, 1 Madman, 1 Dame Anna, 1 Dame Natalie, 7 Copper, 3 Province, 1 Estate
+strongpoet - total victory points: 21
+strongpoet - turns: 17
+ 
+Titandrake - cards: 4 Candlestick Maker, 4 University, 2 Library, 2 Baker, 1 Nomad Camp, 1 Sir Vander, 1 Sir Bailey, 1 Sir Martin, 1 Hermit, 7 Copper, 2 Silver, 1 Potion, 3 Estate, 1 Duchy, 1 Province
+Titandrake - total victory points: 12
+Titandrake - turns: 17
+ 
+1st place: strongpoet
+2nd place: Titandrake
+ 

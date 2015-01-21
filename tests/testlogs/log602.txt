@@ -1,0 +1,617 @@
+------------ Game Setup ------------
+Supply cards: Market Square, Procession, Rats, Remodel, Bazaar, Council Room, Counterfeit, Duke, Market, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dirt - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dirt - shuffles deck
+Titandrake - shuffles deck
+dirt - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Rats
+Titandrake - gains Rats
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- dirt: turn 1 ----------
+dirt - plays 3 Copper
+dirt - buys Market Square
+dirt - gains Market Square
+dirt - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Rats, Copper, Market Square
+ 
+---------- dirt: turn 2 ----------
+dirt - plays 4 Copper
+dirt - buys Rats
+dirt - gains Rats
+dirt - shuffles deck
+dirt - draws Copper, Copper, Copper, Rats, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - plays 3 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- dirt: turn 3 ----------
+dirt - plays Rats
+dirt - draws Estate
+dirt - gains Rats
+dirt - trashes Estate
+dirt - plays 4 Copper
+dirt - buys Remodel
+dirt - gains Remodel
+dirt - draws Market Square, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Rats, Copper, Market Square, Estate
+ 
+---------- dirt: turn 4 ----------
+dirt - plays Market Square
+dirt - draws Copper
+dirt - plays 3 Copper
+dirt - buys Market Square
+dirt - gains Market Square
+dirt - shuffles deck
+dirt - draws Copper, Rats, Market Square, Copper, Remodel
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - plays 3 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Market Square, Copper, Gold, Rats, Estate
+ 
+---------- dirt: turn 5 ----------
+dirt - plays Remodel
+dirt - trashes Rats
+dirt - reveals reaction Market Square
+dirt - discards Market Square
+dirt - gains Gold
+dirt - draws Estate
+dirt - gains Gold
+dirt - draws Copper, Copper, Copper, Market Square, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Rats, Gold, Copper
+ 
+---------- dirt: turn 6 ----------
+dirt - plays Market Square
+dirt - draws Copper
+dirt - plays 5 Copper
+dirt - buys Counterfeit
+dirt - gains Counterfeit
+dirt - draws Rats, Estate
+dirt - shuffles deck
+dirt - draws Counterfeit, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Rats, Procession, Copper, Rats, Market Square
+ 
+---------- dirt: turn 7 ----------
+dirt - plays Rats
+dirt - draws Copper
+dirt - gains Rats
+dirt - trashes Estate
+dirt - plays Counterfeit
+dirt - plays Copper
+dirt - plays Copper
+dirt - trashes Copper
+dirt - plays 2 Copper
+dirt - buys Market
+dirt - gains Market
+dirt - draws Copper, Gold, Remodel, Market Square, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Procession
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - trashes Rats
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - draws Rats
+Titandrake - gains Council Room
+Titandrake - plays Rats
+Titandrake - draws Gold
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - plays Gold
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Market Square, Market Square, Gold
+Titandrake - shuffles deck
+Titandrake - draws Rats, Rats
+ 
+---------- dirt: turn 8 ----------
+dirt - plays Remodel
+dirt - trashes Copper
+dirt - reveals reaction Market Square
+dirt - discards Market Square
+dirt - gains Gold
+dirt - gains Estate
+dirt - plays 1 Copper, 1 Gold
+dirt - buys Remodel
+dirt - gains Remodel
+dirt - draws Copper, Copper, Gold, Market Square, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Market Square
+Titandrake - draws Rats
+Titandrake - plays Market Square
+Titandrake - draws Rats
+Titandrake - plays Gold
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Gold, Rats, Council Room, Gold, Copper
+ 
+---------- dirt: turn 9 ----------
+dirt - plays Market Square
+dirt - shuffles deck
+dirt - draws Rats
+dirt - plays Rats
+dirt - draws Copper
+dirt - gains Rats
+dirt - trashes Estate
+dirt - plays 3 Copper, 1 Gold
+dirt - buys Gold
+dirt - gains Gold
+dirt - draws Copper, Remodel, Copper, Gold, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Council Room
+Titandrake - draws Gold, Rats, Procession, Copper
+dirt - draws Rats
+Titandrake - plays 3 Gold, 2 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Market, Rats, Market Square, Market Square, Copper
+ 
+---------- dirt: turn 10 ----------
+dirt - plays Rats
+dirt - draws Market Square
+dirt - gains Rats
+dirt - trashes Copper
+dirt - reveals reaction Market Square
+dirt - discards Market Square
+dirt - gains Gold
+dirt - plays Remodel
+dirt - trashes Copper
+dirt - gains Estate
+dirt - plays 2 Gold
+dirt - buys Gold
+dirt - gains Gold
+dirt - draws Remodel, Counterfeit, Estate, Market
+dirt - shuffles deck
+dirt - draws Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Rats
+Titandrake - plays Market Square
+Titandrake - draws Gold
+Titandrake - plays Market Square
+Titandrake - draws Rats
+Titandrake - plays Rats
+Titandrake - draws Procession
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - plays Procession
+Titandrake - plays Rats
+Titandrake - draws Rats
+Titandrake - gains Rats
+Titandrake - trashes Gold
+Titandrake - plays Rats
+Titandrake - draws Market Square
+Titandrake - gains Rats
+Titandrake - trashes Market Square
+Titandrake - trashes Rats
+Titandrake - draws Copper
+Titandrake - gains Bazaar
+Titandrake - draws Gold, Council Room, Rats, Market Square, Rats
+ 
+---------- dirt: turn 11 ----------
+dirt - plays Market
+dirt - draws Rats
+dirt - plays Rats
+dirt - draws Rats
+dirt - gains Rats
+dirt - trashes Estate
+dirt - plays Remodel
+dirt - trashes Rats
+dirt - draws Market Square
+dirt - gains Gold
+dirt - plays 1 Gold
+dirt - plays Counterfeit
+dirt - buys Market
+dirt - gains Market
+dirt - draws Gold, Gold, Copper, Gold, Remodel
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Market Square
+Titandrake - draws Procession
+Titandrake - plays Procession
+Titandrake - plays Rats
+Titandrake - draws Rats
+Titandrake - gains Rats
+Titandrake - trashes Gold
+Titandrake - plays Rats
+Titandrake - draws Gold
+Titandrake - gains Rats
+Titandrake - trashes Gold
+Titandrake - trashes Rats
+Titandrake - draws Gold
+Titandrake - gains Bazaar
+Titandrake - plays Council Room
+Titandrake - draws King's Court, Copper, Market Square
+Titandrake - shuffles deck
+Titandrake - draws Rats
+dirt - draws Gold
+Titandrake - plays King's Court
+Titandrake - plays Market Square
+Titandrake - draws Rats
+Titandrake - plays Market Square
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Rats
+Titandrake - plays Market Square
+Titandrake - draws Rats
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - draws Market Square, Rats, Copper, Rats, Market
+ 
+---------- dirt: turn 12 ----------
+dirt - plays Remodel
+dirt - trashes Gold
+dirt - gains Province
+dirt - plays 3 Gold, 1 Copper
+dirt - buys Province
+dirt - gains Province
+dirt - draws Market Square, Rats, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Market
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Procession
+Titandrake - plays Market Square
+Titandrake - draws Rats
+Titandrake - plays Procession
+Titandrake - plays Rats
+Titandrake - draws Rats
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - plays Rats
+Titandrake - shuffles deck
+Titandrake - draws Rats
+Titandrake - reveals Rats, Rats, Rats, Rats
+Titandrake - trashes Rats
+Titandrake - draws Rats
+Titandrake - gains Council Room
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Market Square, Gold, King's Court, Council Room, Rats
+ 
+---------- dirt: turn 13 ----------
+dirt - plays Rats
+dirt - draws Gold
+dirt - trashes Estate
+dirt - reveals reaction Market Square
+dirt - discards Market Square
+dirt - gains Gold
+dirt - plays 2 Copper, 1 Gold
+dirt - buys Duchy
+dirt - gains Duchy
+dirt - draws Rats
+dirt - shuffles deck
+dirt - draws Copper, Copper, Remodel, Market Square
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays King's Court
+Titandrake - plays Market Square
+Titandrake - draws Remodel
+Titandrake - plays Market Square
+Titandrake - draws Rats
+Titandrake - plays Market Square
+Titandrake - draws Rats
+Titandrake - plays Council Room
+Titandrake - draws Rats, Market Square, Procession, Rats
+dirt - draws Remodel
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays Procession
+Titandrake - plays Remodel
+Titandrake - trashes Rats
+Titandrake - draws Market Square
+Titandrake - gains Gold
+Titandrake - plays Remodel
+Titandrake - trashes Rats
+Titandrake - shuffles deck
+Titandrake - draws Bazaar
+Titandrake - gains Council Room
+Titandrake - trashes Remodel
+Titandrake - gains Market
+Titandrake - plays Bazaar
+Titandrake - draws Procession
+Titandrake - plays Market Square
+Titandrake - draws Gold
+Titandrake - plays Procession
+Titandrake - plays Rats
+Titandrake - draws Market Square
+Titandrake - trashes Copper
+Titandrake - plays Rats
+Titandrake - draws Bazaar
+Titandrake - trashes Market Square
+Titandrake - trashes Rats
+Titandrake - draws Rats
+Titandrake - gains Market
+Titandrake - plays Bazaar
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Rats
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - draws Rats, Council Room, Rats, Rats
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+ 
+---------- dirt: turn 14 ----------
+dirt - plays Remodel
+dirt - trashes Rats
+dirt - reveals reaction Market Square
+dirt - discards Market Square
+dirt - gains Gold
+dirt - draws Gold
+dirt - gains Gold
+dirt - plays 2 Copper, 1 Gold
+dirt - buys Duchy
+dirt - gains Duchy
+dirt - draws Gold, Province, Counterfeit, Rats, Market
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - draws Rats, King's Court, Procession, Market Square, Market
+ 
+---------- dirt: turn 15 ----------
+dirt - plays Market
+dirt - draws Duchy
+dirt - plays Counterfeit
+dirt - plays Gold
+dirt - plays Gold
+dirt - trashes Gold
+dirt - buys Province
+dirt - gains Province
+dirt - draws Market, Gold, Rats, Market Square, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws Bazaar
+Titandrake - plays Market
+Titandrake - draws Council Room
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Bazaar
+Titandrake - draws Remodel
+Titandrake - plays Council Room
+Titandrake - draws Market Square, Rats, Council Room, Market Square
+dirt - draws Gold
+Titandrake - plays Market
+Titandrake - draws Market Square
+Titandrake - plays Procession
+Titandrake - plays Remodel
+Titandrake - trashes Rats
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - draws Market
+Titandrake - gains Market
+Titandrake - plays Remodel
+Titandrake - trashes Rats
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - draws Bazaar
+Titandrake - gains Duchy
+Titandrake - trashes Remodel
+Titandrake - gains Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Gold
+Titandrake - plays Council Room
+Titandrake - draws Gold, Rats, Procession, Rats
+dirt - draws Gold
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays Market Square
+Titandrake - draws Council Room
+Titandrake - plays Council Room
+Titandrake - draws Rats, Market Square, Duchy, Rats
+dirt - draws Province
+Titandrake - plays Market Square
+Titandrake - draws Gold
+Titandrake - plays 4 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Bazaar, Gold, Market Square, Market
+ 
+---------- dirt: turn 16 ----------
+dirt - plays Market
+dirt - draws Gold
+dirt - plays Rats
+dirt - draws Gold
+dirt - trashes Copper
+dirt - reveals reaction Market Square
+dirt - discards Market Square
+dirt - gains Gold
+dirt - plays 5 Gold
+dirt - buys Province
+dirt - gains Province
+dirt - buys Province
+dirt - gains Province
+dirt - draws Rats
+dirt - shuffles deck
+dirt - draws Market, Copper, Market, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Rats
+Titandrake - plays Market
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - shuffles deck
+Titandrake - draws Rats
+Titandrake - plays Market Square
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Council Room
+Titandrake - plays Council Room
+Titandrake - draws Rats, Duchy, Gold, Duchy
+dirt - draws Rats
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Market, Procession, Province, Bazaar, Bazaar
+ 
+---------- dirt: turn 17 ----------
+dirt - plays Market
+dirt - draws Copper
+dirt - plays Market
+dirt - draws Province
+dirt - plays Rats
+dirt - draws Duchy
+dirt - trashes Copper
+dirt - plays Rats
+dirt - draws Rats
+dirt - trashes Copper
+dirt - plays 1 Gold
+dirt - buys Duchy
+dirt - gains Duchy
+dirt - draws Market Square, Province, Gold, Remodel, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Market
+Titandrake - plays Bazaar
+Titandrake - draws King's Court
+Titandrake - plays Market
+Titandrake - draws Procession
+Titandrake - plays King's Court
+Titandrake - plays Market
+Titandrake - draws Remodel
+Titandrake - plays Market
+Titandrake - draws Council Room
+Titandrake - plays Market
+Titandrake - draws Council Room
+Titandrake - plays Council Room
+Titandrake - draws Gold, Market Square, Rats, Rats
+dirt - draws Gold
+Titandrake - plays Procession
+Titandrake - plays Remodel
+Titandrake - trashes Rats
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - draws Market
+Titandrake - gains Duke
+Titandrake - plays Remodel
+Titandrake - trashes Rats
+Titandrake - draws Gold
+Titandrake - gains Duke
+Titandrake - trashes Remodel
+Titandrake - gains Bazaar
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays Council Room
+Titandrake - shuffles deck
+Titandrake - draws Rats, Bazaar, Rats, Market
+dirt - draws Gold
+Titandrake - plays Bazaar
+Titandrake - draws Duchy
+Titandrake - plays Market
+Titandrake - draws Rats
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Duchy, Duchy, Council Room, Bazaar
+ 
+------------ Game Over ------------
+dirt - cards: 3 Rats, 2 Market Square, 2 Remodel, 2 Market, 9 Gold, 1 Counterfeit, 5 Province, 3 Duchy
+dirt - total victory points: 39
+dirt - turns: 17
+ 
+Titandrake - cards: 4 Bazaar, 4 Market, 4 Market Square, 3 Council Room, 3 Rats, 2 Procession, 1 King's Court, 6 Gold, 4 Duchy, 3 Province, 2 Duke, 1 Estate
+Titandrake - total victory points: 39
+Titandrake - turns: 18
+ 
+1st place: dirt
+2nd place: Titandrake
+ 

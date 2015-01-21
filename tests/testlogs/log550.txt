@@ -1,0 +1,670 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Warehouse, Caravan, Death Cart, Ironmonger, Procession, Tournament, Festival, Ill-Gotten Gains, Margrave, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+nidzela - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nidzela - shuffles deck
+Titandrake - shuffles deck
+nidzela - draws Copper, Copper, Copper, Necropolis, Overgrown Estate
+Titandrake - draws Necropolis, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- nidzela: turn 1 ----------
+nidzela - plays 3 Copper
+nidzela - buys Chapel
+nidzela - gains Chapel
+nidzela - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- nidzela: turn 2 ----------
+nidzela - plays 4 Copper
+nidzela - buys Tournament
+nidzela - gains Tournament
+nidzela - shuffles deck
+nidzela - draws Necropolis, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- nidzela: turn 3 ----------
+nidzela - plays 3 Copper
+nidzela - buys Silver
+nidzela - gains Silver
+nidzela - draws Tournament, Copper, Copper, Hovel, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Necropolis, Chapel, Copper, Tournament, Copper
+ 
+---------- nidzela: turn 4 ----------
+nidzela - plays Tournament
+nidzela - draws Chapel
+nidzela - plays Chapel
+nidzela - trashes Copper, Hovel, Copper, Copper
+nidzela - draws Copper
+nidzela - shuffles deck
+nidzela - draws Overgrown Estate, Copper, Chapel, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper
+Titandrake - draws Hovel
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Chapel, Copper, Overgrown Estate
+ 
+---------- nidzela: turn 5 ----------
+nidzela - plays Chapel
+nidzela - trashes Overgrown Estate, Copper, Copper, Copper
+nidzela - draws Copper
+nidzela - draws Tournament, Silver, Necropolis
+nidzela - shuffles deck
+nidzela - draws Chapel, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Hovel, Overgrown Estate, Copper
+Titandrake - draws Necropolis
+Titandrake - draws Copper, Tournament, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Chapel
+ 
+---------- nidzela: turn 6 ----------
+nidzela - plays Tournament
+nidzela - plays Chapel
+nidzela - trashes Necropolis
+nidzela - plays 1 Silver, 1 Copper
+nidzela - buys Procession
+nidzela - gains Procession
+nidzela - shuffles deck
+nidzela - draws Copper, Procession, Silver, Chapel, Tournament
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Caravan
+Titandrake - draws Necropolis
+Titandrake - plays Tournament
+Titandrake - plays 3 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Necropolis, Copper, Copper, Tournament
+ 
+---------- nidzela: turn 7 ----------
+nidzela - plays Procession
+nidzela - plays Tournament
+nidzela - plays Tournament
+nidzela - trashes Tournament
+nidzela - gains Festival
+nidzela - plays 1 Copper, 1 Silver
+nidzela - buys Margrave
+nidzela - gains Margrave
+nidzela - shuffles deck
+nidzela - draws Margrave, Silver, Copper, Chapel, Procession
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Chapel
+Titandrake - plays Chapel
+Titandrake - trashes Necropolis
+Titandrake - plays 3 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper, Procession, Chapel, Copper
+ 
+---------- nidzela: turn 8 ----------
+nidzela - plays 1 Silver, 1 Copper
+nidzela - buys Silver
+nidzela - gains Silver
+nidzela - draws Festival
+nidzela - shuffles deck
+nidzela - draws Procession, Copper, Silver, Chapel
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Procession
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - trashes Tournament
+Titandrake - gains Margrave
+Titandrake - plays Tournament
+Titandrake - shuffles deck
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+nidzela - draws Silver
+nidzela - discards Procession
+nidzela - discards Copper
+nidzela - discards Chapel
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - shuffles deck
+Titandrake - draws Copper, Tournament, Festival, Copper, Margrave
+ 
+---------- nidzela: turn 9 ----------
+nidzela - plays Festival
+nidzela - plays 2 Silver
+nidzela - buys Gold
+nidzela - gains Gold
+nidzela - draws Margrave
+nidzela - shuffles deck
+nidzela - draws Chapel, Festival, Procession, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Festival
+Titandrake - plays Margrave
+Titandrake - draws Caravan, Chapel, Procession
+nidzela - draws Silver
+nidzela - discards Procession
+nidzela - discards Chapel
+nidzela - discards Copper
+Titandrake - plays Caravan
+Titandrake - plays Tournament
+Titandrake - plays Procession
+Titandrake - plays Chapel
+Titandrake - plays Chapel
+Titandrake - trashes Chapel
+Titandrake - gains Warehouse
+Titandrake - plays 2 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - shuffles deck
+Titandrake - draws Procession, Margrave, Festival, Copper, Warehouse
+ 
+---------- nidzela: turn 10 ----------
+nidzela - plays Festival
+nidzela - plays Margrave
+nidzela - draws Gold, Silver
+nidzela - shuffles deck
+nidzela - draws Procession
+Titandrake - draws Margrave
+Titandrake - discards Copper
+Titandrake - discards Warehouse
+Titandrake - discards Procession
+nidzela - plays 2 Silver, 1 Gold
+nidzela - buys Tournament
+nidzela - gains Tournament
+nidzela - buys Margrave
+nidzela - gains Margrave
+nidzela - draws Copper, Chapel
+nidzela - shuffles deck
+nidzela - draws Silver, Festival, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Festival
+Titandrake - plays Margrave
+Titandrake - draws Tournament
+Titandrake - shuffles deck
+Titandrake - draws Procession, Copper
+nidzela - draws Margrave
+nidzela - discards Silver
+nidzela - discards Chapel
+nidzela - discards Copper
+Titandrake - plays Tournament
+Titandrake - draws Warehouse
+Titandrake - plays 2 Copper
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - gains Ruined Library
+Titandrake - gains Survivors
+Titandrake - shuffles deck
+Titandrake - draws Death Cart, Margrave, Copper, Tournament, Ruined Library
+ 
+---------- nidzela: turn 11 ----------
+nidzela - plays Festival
+nidzela - plays Margrave
+nidzela - draws Procession, Silver, Tournament
+Titandrake - draws Caravan
+Titandrake - discards Copper
+Titandrake - discards Ruined Library
+Titandrake - discards Death Cart
+nidzela - plays Procession
+nidzela - plays Tournament
+nidzela - draws Margrave
+nidzela - plays Tournament
+nidzela - shuffles deck
+nidzela - draws Copper
+nidzela - trashes Tournament
+nidzela - gains Festival
+nidzela - plays Margrave
+nidzela - draws Chapel, Silver
+nidzela - shuffles deck
+nidzela - draws Festival
+Titandrake - draws Warehouse
+Titandrake - discards Warehouse
+nidzela - plays Festival
+nidzela - plays Chapel
+nidzela - trashes Copper
+nidzela - plays 2 Silver, 1 Gold
+nidzela - buys Province
+nidzela - gains Province
+nidzela - buys Tournament
+nidzela - gains Tournament
+nidzela - shuffles deck
+nidzela - draws Margrave, Festival, Festival, Silver, Chapel
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Tournament
+Titandrake - draws Margrave
+Titandrake - plays Caravan
+Titandrake - draws Festival
+Titandrake - plays Festival
+Titandrake - plays Margrave
+Titandrake - draws Procession, Survivors, Copper
+nidzela - draws Silver
+nidzela - discards Silver
+nidzela - discards Chapel
+nidzela - discards Silver
+Titandrake - plays Margrave
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ruined Library, Death Cart
+nidzela - draws Procession
+nidzela - discards Procession
+Titandrake - plays 2 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Survivors, Copper, Margrave
+ 
+---------- nidzela: turn 12 ----------
+nidzela - plays Festival
+nidzela - plays Festival
+nidzela - plays Margrave
+nidzela - draws Tournament, Province, Gold
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Survivors
+nidzela - plays Tournament
+nidzela - reveals Province
+nidzela - discards Province
+nidzela - gains Followers
+nidzela - draws Followers
+nidzela - plays Followers
+nidzela - draws Margrave
+nidzela - shuffles deck
+nidzela - draws Chapel
+nidzela - gains Estate
+Titandrake - gains Curse
+nidzela - plays Margrave
+nidzela - draws Silver, Silver, Procession
+Titandrake - draws Ruined Library
+Titandrake - discards Ruined Library
+nidzela - plays 2 Silver, 1 Gold
+nidzela - buys Chapel
+nidzela - gains Chapel
+nidzela - buys Ironmonger
+nidzela - gains Ironmonger
+nidzela - buys Ironmonger
+nidzela - gains Ironmonger
+nidzela - draws Province
+nidzela - shuffles deck
+nidzela - draws Estate, Procession, Chapel, Followers
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Festival
+Titandrake - plays Tournament
+nidzela - reveals Province
+Titandrake - plays Festival
+Titandrake - plays Margrave
+Titandrake - draws Margrave, Ironmonger, Death Cart
+nidzela - draws Ironmonger
+nidzela - discards Province
+nidzela - discards Chapel
+nidzela - discards Estate
+Titandrake - plays Ironmonger
+Titandrake - draws Procession
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Procession
+Titandrake - plays Death Cart
+Titandrake - trashes Warehouse
+Titandrake - plays Death Cart
+Titandrake - trashes Death Cart
+Titandrake - gains Festival
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Survivors, Copper, Ruined Library, Curse
+Titandrake - shuffles deck
+Titandrake - draws Margrave
+ 
+---------- nidzela: turn 13 ----------
+nidzela - plays Procession
+nidzela - plays Ironmonger
+nidzela - draws Margrave
+nidzela - reveals: Silver
+nidzela - discards Silver
+nidzela - plays Ironmonger
+nidzela - draws Tournament
+nidzela - reveals: Silver
+nidzela - discards Silver
+nidzela - trashes Ironmonger
+nidzela - gains Margrave
+nidzela - plays Margrave
+nidzela - draws Gold, Ironmonger, Festival
+Titandrake - draws Ironmonger
+Titandrake - discards Curse
+Titandrake - discards Survivors
+Titandrake - discards Ruined Library
+nidzela - plays Festival
+nidzela - plays Ironmonger
+nidzela - draws Festival
+nidzela - reveals: Chapel
+nidzela - discards Chapel
+nidzela - plays Festival
+nidzela - plays Followers
+nidzela - draws Margrave
+nidzela - shuffles deck
+nidzela - draws Estate
+nidzela - gains Estate
+Titandrake - gains Curse
+nidzela - plays Margrave
+nidzela - draws Province, Chapel, Chapel
+Titandrake - draws Margrave
+Titandrake - discards Copper
+nidzela - plays Tournament
+nidzela - reveals Province
+nidzela - discards Province
+nidzela - gains Trusty Steed
+nidzela - draws Trusty Steed
+nidzela - plays Trusty Steed
+nidzela - takes 2 coins
+nidzela - draws Silver, Margrave
+nidzela - plays Chapel
+nidzela - trashes Chapel, Estate
+nidzela - plays 1 Gold, 1 Silver
+nidzela - buys Province
+nidzela - gains Province
+nidzela - buys Ironmonger
+nidzela - gains Ironmonger
+nidzela - draws Silver
+nidzela - shuffles deck
+nidzela - draws Ironmonger, Festival, Province, Festival
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Festival
+Titandrake - reveals: Province
+Titandrake - discards Province
+Titandrake - draws Festival
+Titandrake - plays Festival
+Titandrake - plays Margrave
+Titandrake - draws Tournament, Margrave, Caravan
+nidzela - draws Margrave
+nidzela - discards Province
+nidzela - discards Ironmonger
+nidzela - discards Silver
+Titandrake - plays Caravan
+Titandrake - draws Procession
+Titandrake - plays Festival
+Titandrake - plays Margrave
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse, Province
+nidzela - draws Gold
+nidzela - discards Gold
+Titandrake - plays Procession
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - draws Princess
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - trashes Tournament
+Titandrake - gains Festival
+Titandrake - plays Margrave
+Titandrake - draws Ruined Library, Survivors, Curse
+nidzela - draws Procession
+nidzela - discards Procession
+Titandrake - plays Princess
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Curse, Ironmonger, Margrave, Margrave, Procession
+ 
+---------- nidzela: turn 14 ----------
+nidzela - plays Festival
+nidzela - plays Festival
+nidzela - plays Margrave
+nidzela - draws Chapel, Ironmonger, Margrave
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Curse
+Titandrake - discards Margrave
+nidzela - plays Ironmonger
+nidzela - draws Estate
+nidzela - reveals: Margrave
+nidzela - places Margrave on top of deck
+nidzela - plays Margrave
+nidzela - draws Margrave, Silver, Trusty Steed
+Titandrake - draws Survivors
+Titandrake - discards Survivors
+nidzela - plays Margrave
+nidzela - draws Followers, Tournament, Province
+Titandrake - draws Margrave
+Titandrake - discards Margrave
+nidzela - plays Tournament
+nidzela - reveals Province
+nidzela - discards Province
+nidzela - gains Bag of Gold
+nidzela - draws Bag of Gold
+nidzela - plays Bag of Gold
+nidzela - gains Gold
+nidzela - plays Trusty Steed
+nidzela - takes 2 actions
+nidzela - draws Gold
+nidzela - shuffles deck
+nidzela - draws Silver
+nidzela - plays Followers
+nidzela - draws Ironmonger, Procession
+nidzela - gains Estate
+Titandrake - gains Curse
+nidzela - plays Procession
+nidzela - plays Ironmonger
+nidzela - draws Gold
+nidzela - reveals: Province
+nidzela - discards Province
+nidzela - draws Province
+nidzela - plays Ironmonger
+nidzela - shuffles deck
+nidzela - draws Province
+nidzela - reveals: Estate
+nidzela - discards Estate
+nidzela - shuffles deck
+nidzela - draws Estate
+nidzela - trashes Ironmonger
+nidzela - gains Festival
+nidzela - plays Chapel
+nidzela - trashes Estate, Estate
+nidzela - plays 2 Silver, 2 Gold
+nidzela - buys Province
+nidzela - gains Province
+nidzela - buys Ironmonger
+nidzela - gains Ironmonger
+nidzela - buys Warehouse
+nidzela - gains Warehouse
+nidzela - shuffles deck
+nidzela - draws Bag of Gold, Province, Margrave, Chapel, Margrave
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Procession
+Titandrake - plays Ironmonger
+Titandrake - draws Province
+Titandrake - reveals: Ruined Library
+Titandrake - discards Ruined Library
+Titandrake - plays Ironmonger
+Titandrake - draws Festival
+Titandrake - reveals: Princess
+Titandrake - places Princess on top of deck
+Titandrake - trashes Ironmonger
+Titandrake - gains Festival
+Titandrake - plays Margrave
+Titandrake - draws Princess, Curse, Festival
+nidzela - draws Gold
+nidzela - discards Chapel
+nidzela - discards Province
+nidzela - discards Margrave
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Princess
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - draws Festival, Tournament, Province
+Titandrake - shuffles deck
+Titandrake - draws Margrave, Festival
+ 
+---------- nidzela: turn 15 ----------
+nidzela - plays Bag of Gold
+nidzela - gains Gold
+nidzela - plays Margrave
+nidzela - draws Gold, Province, Silver
+Titandrake - draws Margrave
+Titandrake - discards Margrave
+Titandrake - discards Festival
+Titandrake - discards Province
+nidzela - plays 2 Gold, 1 Silver
+nidzela - buys Province
+nidzela - gains Province
+nidzela - draws Margrave, Silver, Ironmonger, Festival, Procession
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Festival
+Titandrake - plays Margrave
+Titandrake - draws Procession, Copper, Caravan
+nidzela - draws Gold
+nidzela - discards Gold
+nidzela - discards Ironmonger
+nidzela - discards Silver
+Titandrake - plays Procession
+Titandrake - plays Caravan
+Titandrake - draws Curse
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - trashes Caravan
+Titandrake - gains Margrave
+Titandrake - plays Tournament
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Ironmonger, Duchy, Festival
+nidzela - draws Festival
+nidzela - discards Festival
+Titandrake - plays Ironmonger
+Titandrake - draws Curse
+Titandrake - reveals: Festival
+Titandrake - places Festival on top of deck
+Titandrake - plays Festival
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Festival, Chapel, Chapel, Survivors, Province
+ 
+---------- nidzela: turn 16 ----------
+nidzela - plays Festival
+nidzela - plays Procession
+nidzela - plays Margrave
+nidzela - draws Festival, Tournament, Trusty Steed
+Titandrake - draws Curse
+Titandrake - discards Chapel
+Titandrake - discards Survivors
+Titandrake - discards Province
+nidzela - plays Margrave
+nidzela - draws Warehouse, Province, Followers
+Titandrake - draws Princess
+Titandrake - discards Chapel
+nidzela - trashes Margrave
+nidzela - plays Festival
+nidzela - plays Followers
+nidzela - draws Ironmonger
+nidzela - shuffles deck
+nidzela - draws Margrave
+nidzela - gains Estate
+Titandrake - gains Curse
+nidzela - plays Ironmonger
+nidzela - draws Silver
+nidzela - reveals: Gold
+nidzela - discards Gold
+nidzela - plays Trusty Steed
+nidzela - takes 2 actions
+nidzela - draws Festival, Silver
+nidzela - plays Festival
+nidzela - plays Margrave
+nidzela - draws Gold, Bag of Gold, Province
+Titandrake - draws Ruined Library
+Titandrake - discards Ruined Library
+nidzela - plays Bag of Gold
+nidzela - gains Gold
+nidzela - plays Warehouse
+nidzela - draws Gold, Chapel, Province
+nidzela - discards Chapel
+nidzela - discards Province
+nidzela - discards Province
+nidzela - plays Tournament
+nidzela - reveals Province
+nidzela - discards Province
+nidzela - gains Duchy
+nidzela - draws Duchy
+nidzela - plays 2 Silver, 2 Gold
+nidzela - buys Province
+nidzela - gains Province
+nidzela - buys Province
+nidzela - gains Province
+nidzela - buys Estate
+nidzela - gains Estate
+nidzela - draws Ironmonger, Margrave, Gold, Province
+nidzela - shuffles deck
+nidzela - draws Margrave
+ 
+------------ Game Over ------------
+nidzela - cards: 3 Festival, 2 Ironmonger, 2 Margrave, 1 Followers, 1 Warehouse, 1 Procession, 1 Bag of Gold, 1 Trusty Steed, 1 Tournament, 1 Chapel, 4 Gold, 2 Silver, 6 Province, 2 Estate, 1 Duchy
+nidzela - total victory points: 41
+nidzela - turns: 16
+ 
+Titandrake - cards: 4 Festival, 4 Margrave, 2 Chapel, 1 Princess, 1 Tournament, 1 Ironmonger, 1 Survivors, 1 Ruined Library, 1 Procession, 2 Copper, 2 Province, 2 Duchy, 1 Estate, 4 Curse
+Titandrake - total victory points: 15
+Titandrake - turns: 15
+ 
+1st place: nidzela
+2nd place: Titandrake
+ 

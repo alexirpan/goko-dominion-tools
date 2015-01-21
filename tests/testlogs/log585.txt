@@ -1,0 +1,793 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Crossroads, Haven, Sage, Village, Wishing Well, Moneylender, Pirate Ship, Smithy, Outpost, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Slyfox - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Slyfox - shuffles deck
+Titandrake - shuffles deck
+Slyfox - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Slyfox: turn 1 ----------
+Slyfox - plays 3 Copper
+Slyfox - buys Sage
+Slyfox - gains Sage
+Slyfox - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Slyfox: turn 2 ----------
+Slyfox - plays 4 Copper
+Slyfox - buys Moneylender
+Slyfox - gains Moneylender
+Slyfox - shuffles deck
+Slyfox - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Candlestick Maker, Copper
+ 
+---------- Slyfox: turn 3 ----------
+Slyfox - plays 4 Copper
+Slyfox - buys Candlestick Maker
+Slyfox - gains Candlestick Maker
+Slyfox - draws Sage, Moneylender, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Copper, Estate, Copper, Moneylender
+ 
+---------- Slyfox: turn 4 ----------
+Slyfox - plays Sage
+Slyfox - shuffles deck
+Slyfox - reveals Estate, Estate, Estate, Copper, Copper, Copper, Candlestick Maker, Copper
+Slyfox - discards: Estate, Estate, Estate, Copper, Copper, Copper, Candlestick Maker, Copper
+Slyfox - plays Moneylender
+Slyfox - trashes Copper
+Slyfox - plays 2 Copper
+Slyfox - buys Smithy
+Slyfox - gains Smithy
+Slyfox - shuffles deck
+Slyfox - draws Sage, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Candlestick Maker, Copper
+ 
+---------- Slyfox: turn 5 ----------
+Slyfox - plays Sage
+Slyfox - reveals Copper, Estate, Candlestick Maker, Moneylender
+Slyfox - places Moneylender in hand
+Slyfox - discards: Copper, Estate, Candlestick Maker
+Slyfox - plays Moneylender
+Slyfox - trashes Copper
+Slyfox - plays 2 Copper
+Slyfox - buys Smithy
+Slyfox - gains Smithy
+Slyfox - draws Estate, Copper, Copper, Smithy
+Slyfox - shuffles deck
+Slyfox - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Estate, Estate, Copper, Village
+ 
+---------- Slyfox: turn 6 ----------
+Slyfox - plays Smithy
+Slyfox - draws Estate, Copper, Copper
+Slyfox - plays 5 Copper
+Slyfox - buys Candlestick Maker
+Slyfox - gains Candlestick Maker
+Slyfox - draws Candlestick Maker, Smithy, Estate, Sage, Moneylender
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Village
+Titandrake - draws Moneylender
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - draws Estate, Smithy
+Titandrake - shuffles deck
+Titandrake - draws Estate, Smithy, Sage
+ 
+---------- Slyfox: turn 7 ----------
+Slyfox - plays Sage
+Slyfox - shuffles deck
+Slyfox - reveals Estate, Estate, Smithy
+Slyfox - places Smithy in hand
+Slyfox - discards: Estate, Estate
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Smithy
+Slyfox - draws Copper, Candlestick Maker, Copper
+Slyfox - plays 2 Copper
+Slyfox - buys Crossroads
+Slyfox - gains Crossroads
+Slyfox - draws Copper, Copper, Copper
+Slyfox - shuffles deck
+Slyfox - draws Candlestick Maker, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Estate, Copper, Candlestick Maker, Village
+Titandrake - places Village in hand
+Titandrake - discards: Copper, Estate, Copper, Candlestick Maker
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Smithy
+Titandrake - draws Candlestick Maker, Copper, Moneylender
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Smithy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Candlestick Maker, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Sage, Smithy, Moneylender
+ 
+---------- Slyfox: turn 8 ----------
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays 3 Copper
+Slyfox - uses 1 coin token
+Slyfox - buys Candlestick Maker
+Slyfox - gains Candlestick Maker
+Slyfox - buys Candlestick Maker
+Slyfox - gains Candlestick Maker
+Slyfox - draws Moneylender, Sage, Smithy, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Sage
+Titandrake - reveals Candlestick Maker, Copper, Candlestick Maker, Copper, Copper, Candlestick Maker, Estate, Smithy
+Titandrake - places Smithy in hand
+Titandrake - discards: Candlestick Maker, Copper, Candlestick Maker, Copper, Copper, Candlestick Maker, Estate
+Titandrake - plays Smithy
+Titandrake - draws Village, Candlestick Maker, Estate
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Candlestick Maker, Village, Candlestick Maker
+ 
+---------- Slyfox: turn 9 ----------
+Slyfox - plays Sage
+Slyfox - reveals Smithy
+Slyfox - places Smithy in hand
+Slyfox - plays Moneylender
+Slyfox - trashes Copper
+Slyfox - buys Crossroads
+Slyfox - gains Crossroads
+Slyfox - draws Candlestick Maker, Crossroads, Copper, Estate
+Slyfox - shuffles deck
+Slyfox - draws Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Smithy, Estate, Estate, Moneylender, Sage
+ 
+---------- Slyfox: turn 10 ----------
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Candlestick Maker, Copper, Estate, Copper
+Slyfox - draws Candlestick Maker
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays 2 Copper
+Slyfox - buys Crossroads
+Slyfox - gains Crossroads
+Slyfox - draws Moneylender, Sage, Crossroads, Candlestick Maker, Smithy
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Sage
+Titandrake - reveals Candlestick Maker, Copper, Candlestick Maker, Smithy
+Titandrake - places Smithy in hand
+Titandrake - discards: Candlestick Maker, Copper, Candlestick Maker
+Titandrake - plays Smithy
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Village
+Titandrake - plays 2 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Candlestick Maker, Copper, Candlestick Maker, Estate, Candlestick Maker
+ 
+---------- Slyfox: turn 11 ----------
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Moneylender, Sage, Candlestick Maker, Smithy
+Slyfox - plays Smithy
+Slyfox - draws Smithy, Candlestick Maker, Copper
+Slyfox - plays Smithy
+Slyfox - draws Estate, Copper, Estate
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Moneylender
+Slyfox - trashes Copper
+Slyfox - plays 1 Copper
+Slyfox - buys Smithy
+Slyfox - gains Smithy
+Slyfox - shuffles deck
+Slyfox - draws Candlestick Maker, Candlestick Maker, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - draws Candlestick Maker, Copper, Candlestick Maker, Candlestick Maker, Copper
+ 
+---------- Slyfox: turn 12 ----------
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - draws Candlestick Maker, Estate, Smithy, Smithy, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Smithy, Estate, Copper, Copper
+ 
+---------- Slyfox: turn 13 ----------
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Smithy
+Slyfox - draws Moneylender, Smithy, Candlestick Maker
+Slyfox - plays 1 Copper
+Slyfox - uses 2 coin tokens
+Slyfox - buys Village
+Slyfox - gains Village
+Slyfox - draws Copper, Crossroads, Crossroads, Crossroads, Sage
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Smithy
+Titandrake - draws Copper, Candlestick Maker, Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Moneylender, Crossroads, Smithy, Candlestick Maker, Estate
+ 
+---------- Slyfox: turn 14 ----------
+Slyfox - plays Sage
+Slyfox - shuffles deck
+Slyfox - reveals Estate, Smithy
+Slyfox - places Smithy in hand
+Slyfox - discards Estate
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Copper, Crossroads, Crossroads, Smithy
+Slyfox - plays Smithy
+Slyfox - draws Copper, Copper, Candlestick Maker
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays 3 Copper
+Slyfox - buys Village
+Slyfox - gains Village
+Slyfox - draws Estate, Candlestick Maker, Candlestick Maker, Village, Candlestick Maker
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Moneylender, Smithy, Estate
+Titandrake - draws Candlestick Maker
+Titandrake - plays Smithy
+Titandrake - draws Village, Candlestick Maker, Candlestick Maker
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Candlestick Maker, Village, Sage
+Titandrake - shuffles deck
+Titandrake - draws Candlestick Maker, Copper
+ 
+---------- Slyfox: turn 15 ----------
+Slyfox - plays Village
+Slyfox - draws Moneylender
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - draws Smithy, Smithy, Estate
+Slyfox - shuffles deck
+Slyfox - draws Crossroads, Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Village
+Titandrake - draws Estate
+Titandrake - plays Sage
+Titandrake - reveals Smithy
+Titandrake - places Smithy in hand
+Titandrake - plays Smithy
+Titandrake - draws Village, Copper, Crossroads
+Titandrake - plays Village
+Titandrake - draws Estate
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Candlestick Maker
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - draws Candlestick Maker, Candlestick Maker, Moneylender, Village, Smithy
+ 
+---------- Slyfox: turn 16 ----------
+Slyfox - plays Village
+Slyfox - draws Sage
+Slyfox - plays Smithy
+Slyfox - draws Copper, Candlestick Maker, Smithy
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Smithy, Estate, Sage, Copper, Candlestick Maker, Smithy
+Slyfox - draws Candlestick Maker
+Slyfox - plays Smithy
+Slyfox - draws Village, Candlestick Maker, Copper
+Slyfox - plays Village
+Slyfox - draws Copper
+Slyfox - plays Smithy
+Slyfox - draws Estate, Crossroads, Estate
+Slyfox - plays Sage
+Slyfox - reveals Candlestick Maker, Crossroads, Moneylender
+Slyfox - places Moneylender in hand
+Slyfox - discards: Candlestick Maker, Crossroads
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Candlestick Maker, Estate, Copper, Candlestick Maker, Candlestick Maker, Copper, Copper, Estate, Estate, Moneylender
+Slyfox - shuffles deck
+Slyfox - draws Candlestick Maker, Crossroads
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Moneylender
+Slyfox - trashes Copper
+Slyfox - plays 2 Copper
+Slyfox - uses 1 coin token
+Slyfox - buys Gold
+Slyfox - gains Gold
+Slyfox - shuffles deck
+Slyfox - draws Estate, Village, Gold, Copper, Crossroads
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Village
+Titandrake - draws Estate
+Titandrake - plays Smithy
+Titandrake - draws Village, Candlestick Maker, Copper
+Titandrake - plays Village
+Titandrake - shuffles deck
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Crossroads, Copper, Smithy
+Titandrake - places Smithy in hand
+Titandrake - discards: Crossroads, Copper
+Titandrake - plays Smithy
+Titandrake - draws Candlestick Maker, Smithy, Estate
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Village, Candlestick Maker, Estate, Candlestick Maker, Village
+ 
+---------- Slyfox: turn 17 ----------
+Slyfox - plays Village
+Slyfox - draws Smithy
+Slyfox - plays Smithy
+Slyfox - draws Crossroads, Sage, Candlestick Maker
+Slyfox - plays Sage
+Slyfox - reveals Candlestick Maker, Smithy
+Slyfox - places Smithy in hand
+Slyfox - discards Candlestick Maker
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Estate, Gold, Copper, Crossroads, Candlestick Maker, Smithy
+Slyfox - draws Crossroads
+Slyfox - plays Smithy
+Slyfox - draws Estate, Moneylender, Candlestick Maker
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Crossroads, Estate, Gold, Copper, Estate, Moneylender
+Slyfox - draws Village, Smithy
+Slyfox - plays Village
+Slyfox - draws Candlestick Maker
+Slyfox - plays Smithy
+Slyfox - draws Copper, Estate
+Slyfox - shuffles deck
+Slyfox - draws Candlestick Maker
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Moneylender
+Slyfox - trashes Copper
+Slyfox - plays 1 Gold, 1 Copper
+Slyfox - uses 9 coin tokens
+Slyfox - buys Province
+Slyfox - gains Province
+Slyfox - buys Province
+Slyfox - gains Province
+Slyfox - shuffles deck
+Slyfox - draws Crossroads, Crossroads, Candlestick Maker, Moneylender, Village
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Candlestick Maker, Smithy, Candlestick Maker
+ 
+---------- Slyfox: turn 18 ----------
+Slyfox - plays Village
+Slyfox - draws Smithy
+Slyfox - plays Smithy
+Slyfox - draws Province, Smithy, Estate
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Crossroads, Candlestick Maker, Moneylender, Province, Smithy, Estate
+Slyfox - draws Sage, Copper
+Slyfox - plays Smithy
+Slyfox - draws Estate, Candlestick Maker, Province
+Slyfox - plays Sage
+Slyfox - reveals Estate, Village
+Slyfox - places Village in hand
+Slyfox - discards Estate
+Slyfox - plays Village
+Slyfox - draws Candlestick Maker
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Copper, Candlestick Maker, Moneylender, Province, Estate, Estate, Candlestick Maker, Province, Candlestick Maker
+Slyfox - draws Smithy, Gold, Candlestick Maker, Crossroads
+Slyfox - plays Smithy
+Slyfox - shuffles deck
+Slyfox - draws Estate
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Moneylender
+Slyfox - trashes Copper
+Slyfox - plays 1 Gold
+Slyfox - uses 10 coin tokens
+Slyfox - buys Province
+Slyfox - gains Province
+Slyfox - buys Province
+Slyfox - gains Province
+Slyfox - shuffles deck
+Slyfox - draws Estate, Village, Candlestick Maker, Crossroads, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Smithy
+Titandrake - draws Estate, Moneylender, Smithy
+Titandrake - plays 2 Copper
+Titandrake - uses 6 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Candlestick Maker, Sage, Village, Village
+ 
+---------- Slyfox: turn 19 ----------
+Slyfox - plays Village
+Slyfox - draws Moneylender
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Estate, Candlestick Maker, Gold, Moneylender
+Slyfox - draws Province
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Moneylender
+Slyfox - plays 1 Gold
+Slyfox - uses 1 coin token
+Slyfox - buys Smithy
+Slyfox - gains Smithy
+Slyfox - draws Sage, Crossroads, Province, Candlestick Maker, Smithy
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Estate
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Sage
+Titandrake - reveals Crossroads, Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Crossroads, Copper
+Titandrake - plays Village
+Titandrake - draws Candlestick Maker
+Titandrake - plays Sage
+Titandrake - reveals Smithy
+Titandrake - places Smithy in hand
+Titandrake - plays Smithy
+Titandrake - draws Candlestick Maker, Candlestick Maker, Smithy
+Titandrake - plays Smithy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Candlestick Maker, Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 11 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Candlestick Maker, Estate, Smithy, Crossroads
+ 
+---------- Slyfox: turn 20 ----------
+Slyfox - plays Sage
+Slyfox - reveals Estate, Village
+Slyfox - places Village in hand
+Slyfox - discards Estate
+Slyfox - plays Village
+Slyfox - draws Crossroads
+Slyfox - plays Smithy
+Slyfox - draws Estate, Smithy, Candlestick Maker
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Crossroads, Province, Candlestick Maker, Estate, Smithy, Candlestick Maker
+Slyfox - draws Province, Candlestick Maker
+Slyfox - plays Smithy
+Slyfox - draws Province, Smithy
+Slyfox - shuffles deck
+Slyfox - draws Moneylender
+Slyfox - plays Smithy
+Slyfox - draws Smithy, Crossroads, Gold
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Province, Crossroads, Province, Estate, Province, Moneylender, Smithy, Gold
+Slyfox - draws Province, Estate, Candlestick Maker, Village
+Slyfox - plays 1 Gold
+Slyfox - uses 5 coin tokens
+Slyfox - buys Province
+Slyfox - gains Province
+Slyfox - draws Estate
+Slyfox - shuffles deck
+Slyfox - draws Candlestick Maker, Village, Smithy, Crossroads
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Estate, Smithy
+Titandrake - draws Smithy
+Titandrake - plays Smithy
+Titandrake - draws Province, Moneylender
+Titandrake - shuffles deck
+Titandrake - draws Candlestick Maker
+Titandrake - plays Smithy
+Titandrake - draws Province, Sage, Copper
+Titandrake - plays Sage
+Titandrake - reveals Village
+Titandrake - places Village in hand
+Titandrake - plays Village
+Titandrake - draws Smithy
+Titandrake - plays Smithy
+Titandrake - draws Village, Candlestick Maker, Candlestick Maker
+Titandrake - plays Village
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Duchy
+Titandrake - places Duchy in hand
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - uses 6 coin tokens
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Candlestick Maker, Candlestick Maker, Village, Smithy, Estate
+ 
+---------- Slyfox: turn 21 ----------
+Slyfox - plays Village
+Slyfox - draws Sage
+Slyfox - plays Sage
+Slyfox - reveals Crossroads, Smithy
+Slyfox - places Smithy in hand
+Slyfox - discards Crossroads
+Slyfox - plays Smithy
+Slyfox - draws Smithy, Estate, Province
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Estate, Candlestick Maker, Smithy, Smithy, Estate, Province
+Slyfox - draws Candlestick Maker, Estate, Province
+Slyfox - plays Smithy
+Slyfox - draws Province, Moneylender, Gold
+Slyfox - plays Smithy
+Slyfox - draws Province, Candlestick Maker, Village
+Slyfox - plays Village
+Slyfox - draws Crossroads
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Candlestick Maker, Estate, Province, Estate, Candlestick Maker, Estate, Province, Province, Moneylender, Gold, Province, Candlestick Maker
+Slyfox - draws Smithy, Province, Candlestick Maker
+Slyfox - shuffles deck
+Slyfox - draws Crossroads
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Candlestick Maker
+Slyfox - receives 1 coin token
+Slyfox - plays Crossroads
+Slyfox - reveals hand: Smithy, Province, Estate, Province, Estate, Estate, Province, Province, Moneylender, Gold, Province
+Slyfox - plays 1 Gold
+Slyfox - buys Village
+Slyfox - gains Village
+Slyfox - shuffles deck
+Slyfox - draws Gold, Sage, Crossroads, Province, Province
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Smithy
+Titandrake - draws Estate, Village
+Titandrake - shuffles deck
+Titandrake - draws Smithy
+Titandrake - plays Village
+Titandrake - draws Smithy
+Titandrake - plays Smithy
+Titandrake - draws Duchy, Crossroads, Smithy
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Estate, Copper, Estate, Smithy, Duchy, Smithy
+Titandrake - draws Duchy, Candlestick Maker, Copper
+Titandrake - plays Smithy
+Titandrake - draws Candlestick Maker, Duchy, Candlestick Maker
+Titandrake - plays Smithy
+Titandrake - draws Province, Village, Sage
+Titandrake - plays Sage
+Titandrake - reveals Candlestick Maker, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Candlestick Maker
+Titandrake - plays Sage
+Titandrake - reveals Moneylender
+Titandrake - places Moneylender in hand
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Province
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - uses 9 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Sage, Village, Sage, Smithy
+ 
+------------ Game Over ------------
+Slyfox - cards: 4 Smithy, 4 Candlestick Maker, 3 Crossroads, 3 Village, 1 Sage, 1 Moneylender, 1 Gold, 5 Province, 3 Estate
+Slyfox - total victory points: 33
+Slyfox - turns: 21
+ 
+Titandrake - cards: 6 Candlestick Maker, 4 Village, 4 Smithy, 2 Sage, 1 Crossroads, 1 Moneylender, 1 Copper, 4 Duchy, 3 Estate, 3 Province
+Titandrake - total victory points: 33
+Titandrake - turns: 21
+ 
+1st place: Slyfox
+1st place: Titandrake
+ 

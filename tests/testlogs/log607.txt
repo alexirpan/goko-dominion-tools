@@ -1,0 +1,547 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Cellar, Doctor, Menagerie, Armory, Baron, Graverobber, Highway, Saboteur, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+eliegel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+eliegel - shuffles deck
+Titandrake - shuffles deck
+eliegel - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- eliegel: turn 1 ----------
+eliegel - plays 4 Copper
+eliegel - buys Doctor
+eliegel - overpays for Doctor with 1 coin
+eliegel - looks at Copper
+eliegel - trashes Copper
+eliegel - gains Doctor
+eliegel - draws Estate, Copper, Estate, Copper
+eliegel - shuffles deck
+eliegel - draws Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Doctor
+Titandrake - gains Doctor
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- eliegel: turn 2 ----------
+eliegel - plays 3 Copper
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - draws Copper, Estate, Copper, Copper, Doctor
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- eliegel: turn 3 ----------
+eliegel - plays Doctor
+eliegel - names Estate
+eliegel - shuffles deck
+eliegel - reveals: Copper, Estate, Silver
+eliegel - trashes Estate
+eliegel - places Silver on top of deck
+eliegel - places Copper on top of deck
+eliegel - plays 3 Copper
+eliegel - buys Menagerie
+eliegel - gains Menagerie
+eliegel - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Copper, Doctor, Armory, Copper, Estate
+ 
+---------- eliegel: turn 4 ----------
+eliegel - plays 3 Copper, 1 Silver
+eliegel - buys Highway
+eliegel - gains Highway
+eliegel - shuffles deck
+eliegel - draws Copper, Doctor, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Copper, Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Estate
+Titandrake - trashes Copper, Copper
+Titandrake - places Estate on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Estate, Estate, Menagerie, Copper, Copper
+ 
+---------- eliegel: turn 5 ----------
+eliegel - plays Doctor
+eliegel - names Copper
+eliegel - reveals: Copper, Copper, Highway
+eliegel - trashes Copper, Copper
+eliegel - places Highway on top of deck
+eliegel - plays 2 Copper, 1 Silver
+eliegel - buys Cellar
+eliegel - gains Cellar
+eliegel - draws Highway, Menagerie, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Estate, Copper, Copper
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Doctor, Estate, Menagerie
+ 
+---------- eliegel: turn 6 ----------
+eliegel - plays Menagerie
+eliegel - reveals hand: Highway, Estate, Copper, Copper
+eliegel - shuffles deck
+eliegel - draws Copper
+eliegel - plays Highway
+eliegel - draws Cellar
+eliegel - plays Cellar
+eliegel - discards Copper
+eliegel - discards Copper
+eliegel - discards Estate
+eliegel - discards Copper
+eliegel - draws Doctor, Silver, Copper, Estate
+eliegel - plays Doctor
+eliegel - names Copper
+eliegel - shuffles deck
+eliegel - reveals: Copper, Copper, Copper
+eliegel - trashes Copper, Copper, Copper
+eliegel - plays 1 Silver, 1 Copper
+eliegel - buys Menagerie
+eliegel - gains Menagerie
+eliegel - draws Estate
+eliegel - shuffles deck
+eliegel - draws Menagerie, Estate, Doctor, Cellar
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Copper, Doctor, Estate
+Titandrake - draws Copper
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Cellar, Copper, Estate
+Titandrake - trashes Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Cellar on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Cellar, Estate, Copper, Copper, Silver
+ 
+---------- eliegel: turn 7 ----------
+eliegel - plays Cellar
+eliegel - discards Estate
+eliegel - discards Estate
+eliegel - draws Menagerie, Silver
+eliegel - plays Menagerie
+eliegel - reveals hand: Menagerie, Doctor, Silver
+eliegel - draws Copper, Highway
+eliegel - shuffles deck
+eliegel - draws Estate
+eliegel - plays Doctor
+eliegel - names Estate
+eliegel - reveals: Estate
+eliegel - trashes Estate
+eliegel - plays 1 Copper, 1 Silver
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - shuffles deck
+eliegel - draws Doctor, Menagerie, Cellar, Silver, Menagerie
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Armory
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Armory, Copper
+Titandrake - draws Estate, Copper, Estate
+Titandrake - plays Armory
+Titandrake - gains Menagerie
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Menagerie, Copper, Copper, Doctor, Estate
+ 
+---------- eliegel: turn 8 ----------
+eliegel - plays Menagerie
+eliegel - reveals hand: Doctor, Menagerie, Cellar, Silver
+eliegel - draws Copper, Silver, Estate
+eliegel - plays Menagerie
+eliegel - reveals hand: Copper, Silver, Estate, Doctor, Cellar, Silver
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - plays Cellar
+eliegel - discards Estate
+eliegel - shuffles deck
+eliegel - draws Estate
+eliegel - plays 2 Silver, 1 Copper
+eliegel - buys Highway
+eliegel - gains Highway
+eliegel - shuffles deck
+eliegel - draws Highway, Silver, Cellar, Menagerie, Menagerie
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Doctor, Estate
+Titandrake - draws Cellar
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Estate, Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Doctor, Estate, Copper
+Titandrake - draws Copper, Silver, Copper
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - reveals: Silver, Estate, Cellar
+Titandrake - trashes Estate
+Titandrake - places Cellar on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Silver, Cellar, Armory, Estate, Copper
+ 
+---------- eliegel: turn 9 ----------
+eliegel - plays Menagerie
+eliegel - reveals hand: Highway, Silver, Cellar, Menagerie
+eliegel - draws Estate, Highway, Doctor
+eliegel - plays Highway
+eliegel - draws Copper
+eliegel - plays Highway
+eliegel - draws Silver
+eliegel - plays 2 Silver, 1 Copper
+eliegel - buys Highway
+eliegel - gains Highway
+eliegel - shuffles deck
+eliegel - draws Copper, Highway, Menagerie, Estate, Doctor
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Armory
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Copper, Doctor
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Copper, Doctor
+Titandrake - draws Armory, Estate, Copper
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Copper, Silver, Menagerie
+Titandrake - trashes Copper
+Titandrake - places Menagerie on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Silver, Menagerie, Highway, Estate, Copper
+ 
+---------- eliegel: turn 10 ----------
+eliegel - plays Menagerie
+eliegel - reveals hand: Copper, Highway, Estate, Doctor
+eliegel - draws Silver, Highway, Silver
+eliegel - plays Highway
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - draws Menagerie
+eliegel - plays Highway
+eliegel - draws Cellar
+eliegel - plays 2 Silver, 1 Copper
+eliegel - buys Wharf
+eliegel - gains Wharf
+eliegel - shuffles deck
+eliegel - draws Menagerie, Wharf, Menagerie, Copper, Doctor
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Highway, Estate, Copper
+Titandrake - draws Cellar
+Titandrake - shuffles deck
+Titandrake - draws Doctor, Cellar
+Titandrake - plays Highway
+Titandrake - draws Menagerie
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - draws Silver
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Cellar, Doctor, Silver, Copper, Silver
+Titandrake - draws Copper
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Doctor
+Titandrake - discards Copper
+Titandrake - draws Copper, Menagerie, Estate
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Silver, Copper, Estate
+Titandrake - draws Armory
+Titandrake - plays Armory
+Titandrake - gains Wharf
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Wharf
+Titandrake - shuffles deck
+Titandrake - draws Cellar, Estate, Silver, Copper
+ 
+---------- eliegel: turn 11 ----------
+eliegel - plays Menagerie
+eliegel - reveals hand: Menagerie, Wharf, Copper, Doctor
+eliegel - draws Highway, Highway, Cellar
+eliegel - plays Highway
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - draws Silver
+eliegel - plays Highway
+eliegel - draws Estate
+eliegel - plays Menagerie
+eliegel - reveals hand: Cellar, Wharf, Copper, Doctor, Silver, Estate
+eliegel - draws Silver
+eliegel - plays Wharf
+eliegel - plays 2 Silver, 1 Copper
+eliegel - buys Highway
+eliegel - gains Highway
+eliegel - buys Wharf
+eliegel - gains Wharf
+eliegel - shuffles deck
+eliegel - draws Silver, Highway, Wharf, Menagerie, Doctor
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Silver
+Titandrake - discards Copper
+Titandrake - draws Estate, Doctor, Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Wharf, Estate, Doctor
+Titandrake - draws Copper, Highway, Cellar
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Cellar, Wharf, Estate, Doctor
+Titandrake - draws Armory, Copper, Menagerie
+Titandrake - plays Cellar
+Titandrake - discards Doctor
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Armory
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Doctor
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Wharf, Silver, Estate, Estate, Copper, Doctor
+Titandrake - draws Armory
+Titandrake - plays Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Highway, Silver, Menagerie, Menagerie
+ 
+---------- eliegel: turn 12 ----------
+eliegel - duration Wharf
+eliegel - draws Silver, Estate
+eliegel - plays Menagerie
+eliegel - reveals hand: Silver, Highway, Wharf, Doctor, Silver, Estate
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - draws Menagerie
+eliegel - plays Highway
+eliegel - draws Copper
+eliegel - plays Menagerie
+eliegel - reveals hand: Silver, Wharf, Doctor, Silver, Estate, Copper
+eliegel - draws Cellar
+eliegel - plays Cellar
+eliegel - discards Estate
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - shuffles deck
+eliegel - draws Estate
+eliegel - plays Wharf
+eliegel - plays 2 Silver, 1 Copper
+eliegel - buys Highway
+eliegel - gains Highway
+eliegel - buys Highway
+eliegel - gains Highway
+eliegel - buys Gold
+eliegel - gains Gold
+eliegel - shuffles deck
+eliegel - draws Wharf, Copper, Cellar, Gold, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Wharf
+Titandrake - draws Armory, Silver
+Titandrake - plays Highway
+Titandrake - draws Cellar
+Titandrake - plays Cellar
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - discards Copper
+Titandrake - draws Copper, Highway, Highway
+Titandrake - plays Highway
+Titandrake - draws Cellar
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Menagerie, Armory, Copper, Highway, Cellar
+Titandrake - draws Copper, Estate, Estate
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Menagerie
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Doctor
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Menagerie, Armory, Doctor, Silver, Silver, Copper
+Titandrake - draws Copper
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - reveals: Copper, Estate, Estate
+Titandrake - trashes Estate, Estate
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Armory, Doctor, Menagerie, Menagerie
+ 
+---------- eliegel: turn 13 ----------
+eliegel - duration Wharf
+eliegel - draws Highway, Doctor
+eliegel - plays Highway
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - draws Menagerie
+eliegel - plays Menagerie
+eliegel - reveals hand: Wharf, Copper, Cellar, Gold, Silver, Doctor
+eliegel - draws Silver, Highway, Estate
+eliegel - plays Highway
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - draws Highway
+eliegel - plays Highway
+eliegel - draws Menagerie
+eliegel - plays Wharf
+eliegel - plays 2 Silver, 1 Copper, 1 Gold
+eliegel - buys Province
+eliegel - gains Province
+eliegel - buys Province
+eliegel - gains Province
+eliegel - buys Province
+eliegel - gains Province
+eliegel - shuffles deck
+eliegel - draws Province, Cellar, Silver, Menagerie, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Armory, Doctor, Menagerie
+Titandrake - draws Silver, Wharf, Highway
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Wharf, Highway, Copper, Armory, Doctor
+Titandrake - draws Copper, Highway, Province
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Cellar
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Armory
+Titandrake - discards Doctor
+Titandrake - draws Silver, Cellar, Gold
+Titandrake - plays Wharf
+Titandrake - draws Highway, Menagerie
+Titandrake - plays 3 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Menagerie, Gold, Copper, Highway
+ 
+---------- eliegel: turn 14 ----------
+eliegel - duration Wharf
+eliegel - draws Highway, Highway
+eliegel - plays Highway
+eliegel - draws Gold
+eliegel - plays Highway
+eliegel - draws Province
+eliegel - plays Cellar
+eliegel - discards Province
+eliegel - discards Silver
+eliegel - discards Province
+eliegel - draws Highway, Province, Highway
+eliegel - plays Highway
+eliegel - draws Copper
+eliegel - plays Menagerie
+eliegel - reveals hand: Silver, Gold, Province, Highway, Copper
+eliegel - draws Wharf, Menagerie, Highway
+eliegel - plays Highway
+eliegel - draws Doctor
+eliegel - plays Menagerie
+eliegel - reveals hand: Wharf, Highway, Silver, Gold, Province, Copper, Doctor
+eliegel - draws Highway, Estate
+eliegel - shuffles deck
+eliegel - draws Province
+eliegel - plays Highway
+eliegel - draws Province
+eliegel - plays Highway
+eliegel - draws Silver
+eliegel - plays Wharf
+eliegel - plays 2 Silver, 1 Gold, 1 Copper
+eliegel - buys Province
+eliegel - gains Province
+eliegel - buys Province
+eliegel - gains Province
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - shuffles deck
+eliegel - draws Wharf, Menagerie, Highway, Province, Province
+ 
+------------ Game Over ------------
+eliegel - cards: 6 Highway, 2 Wharf, 2 Menagerie, 1 Doctor, 1 Cellar, 2 Silver, 1 Copper, 1 Gold, 5 Province, 1 Estate, 1 Duchy
+eliegel - total victory points: 34
+eliegel - turns: 14
+ 
+Titandrake - cards: 4 Highway, 3 Menagerie, 2 Cellar, 1 Doctor, 1 Armory, 1 Wharf, 3 Copper, 2 Silver, 1 Gold, 3 Province
+Titandrake - total victory points: 18
+Titandrake - turns: 13
+ 
+1st place: eliegel
+2nd place: Titandrake
+ 

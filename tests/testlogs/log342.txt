@@ -1,0 +1,330 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Herbalist, Masterpiece, Conspirator, Ironworks, Island, Nomad Camp, Smithy, Apprentice, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+ - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ - shuffles deck
+Titandrake - shuffles deck
+ - draws Copper, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- : turn 1 ----------
+ - plays 3 Copper
+ - buys Chapel
+ - gains Chapel
+ - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- : turn 2 ----------
+ - plays 4 Copper
+ - buys Ironworks
+ - gains Ironworks
+ - shuffles deck
+ - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Estate, Ironworks, Copper, Copper, Estate
+ 
+---------- : turn 3 ----------
+ - plays 4 Copper
+ - buys Ironworks
+ - gains Ironworks
+ - draws Copper, Estate, Copper, Estate, Chapel
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Island
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Chapel
+ 
+---------- : turn 4 ----------
+ - plays Chapel
+ - trashes Copper, Estate, Copper, Estate
+ - draws Copper, Ironworks
+ - shuffles deck
+ - draws Chapel, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper, Copper
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Ironworks, Estate, Copper, Estate
+ 
+---------- : turn 5 ----------
+ - plays Ironworks
+ - gains Island
+ - draws Ironworks
+ - plays Ironworks
+ - gains Island
+ - draws Copper
+ - plays Chapel
+ - trashes Copper, Estate, Copper, Copper
+ - draws Copper, Copper
+ - shuffles deck
+ - draws Ironworks, Chapel, Ironworks
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Island
+Titandrake - draws Island
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - draws Silver, Chapel, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- : turn 6 ----------
+ - plays Ironworks
+ - gains Island
+ - draws Island
+ - plays Ironworks
+ - gains Conspirator
+ - plays Island
+ - sets aside Chapel
+ - plays Copper
+ - plays Copper
+ - draws Island
+ - shuffles deck
+ - draws Copper, Copper, Ironworks, Conspirator
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Ironworks, Estate, Island, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- : turn 7 ----------
+ - plays Ironworks
+ - gains Conspirator
+ - plays Island
+ - sets aside Copper
+ - draws Ironworks, Island
+ - shuffles deck
+ - draws Conspirator, Copper, Ironworks
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Island
+Titandrake - draws Copper
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Apprentice, Copper, Copper, Chapel
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- : turn 8 ----------
+ - plays Ironworks
+ - gains Ironworks
+ - plays Ironworks
+ - gains Island
+ - draws Conspirator
+ - plays Conspirator
+ - shuffles deck
+ - draws Island
+ - plays Conspirator
+ - draws Ironworks
+ - plays Ironworks
+ - gains Island
+ - shuffles deck
+ - draws Island
+ - plays Island
+ - sets aside Island
+ - plays 1 Copper
+ - buys Apprentice
+ - gains Apprentice
+ - shuffles deck
+ - draws Copper, Ironworks, Apprentice, Island, Conspirator
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Chapel
+Titandrake - draws Copper, Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Masterpiece
+Titandrake - overpays for Masterpiece with 2 coins
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Masterpiece
+Titandrake - draws Island, Ironworks, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- : turn 9 ----------
+ - plays Ironworks
+ - gains Ironworks
+ - plays Apprentice
+ - trashes Copper
+ - plays Conspirator
+ - draws Ironworks
+ - plays Ironworks
+ - gains Silver
+ - buys Silver
+ - gains Silver
+ - draws Ironworks, Conspirator
+ - shuffles deck
+ - draws Ironworks, Silver, Apprentice
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Apprentice, Estate, Silver, Masterpiece
+ 
+---------- : turn 10 ----------
+ - plays Apprentice
+ - trashes Ironworks
+ - draws Ironworks, Conspirator, Island, Ironworks
+ - plays Ironworks
+ - gains Ironworks
+ - plays Ironworks
+ - gains Ironworks
+ - plays Conspirator
+ - draws Silver
+ - plays Conspirator
+ - shuffles deck
+ - draws Ironworks
+ - plays Ironworks
+ - gains Ironworks
+ - plays Island
+ - sets aside Ironworks
+ - plays 2 Silver
+ - buys Province
+ - gains Province
+ - draws Ironworks
+ - shuffles deck
+ - draws Province, Silver, Ironworks, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Masterpiece
+Titandrake - draws Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Ironworks, Apprentice, Copper, Silver, Silver
+ 
+---------- : turn 11 ----------
+ - plays Ironworks
+ - gains Ironworks
+ - plays Ironworks
+ - gains Silver
+ - plays 2 Silver
+ - buys Apprentice
+ - gains Apprentice
+ - draws Conspirator, Conspirator, Ironworks, Ironworks, Apprentice
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Silver
+Titandrake - draws Island
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+Titandrake - plays Island
+Titandrake - sets aside Ironworks
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Nomad Camp
+Titandrake - gains Nomad Camp
+Titandrake - draws Nomad Camp, Province, Apprentice, Silver, Copper
+ 
+---------- : turn 12 ----------
+ - plays Apprentice
+ - trashes Ironworks
+ - draws Ironworks
+ - shuffles deck
+ - draws Ironworks, Apprentice, Silver
+ - plays Apprentice
+ - trashes Ironworks
+ - draws Silver, Ironworks, Province, Ironworks
+ - plays Conspirator
+ - draws Silver
+ - plays Conspirator
+ - plays Ironworks
+ - gains Ironworks
+ - plays Ironworks
+ - gains Nomad Camp
+ - plays 3 Silver
+ - buys Province
+ - gains Province
+ - draws Nomad Camp
+ - shuffles deck
+ - draws Conspirator, Ironworks, Silver, Apprentice
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Nomad Camp
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Apprentice, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- : turn 13 ----------
+ - plays Ironworks
+ - gains Conspirator
+ - plays Apprentice
+ - trashes Nomad Camp
+ - draws Apprentice, Province, Ironworks, Silver
+ - plays Apprentice
+ - trashes Ironworks
+ - draws Silver, Province, Ironworks, Ironworks
+ - plays Conspirator
+ - draws Conspirator
+ - plays Conspirator
+ - draws Ironworks
+ - plays Ironworks
+ - gains Nomad Camp
+ - plays Ironworks
+ - gains Conspirator
+ - plays Ironworks
+ - gains Conspirator
+ - plays 3 Silver
+ - buys Province
+ - gains Province
+ - draws Nomad Camp
+ - shuffles deck
+ - draws Silver, Apprentice, Ironworks, Apprentice
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Province, Copper
+ 
+------------ Game Over ------------
+ - cards: 5 Island, 5 Ironworks, 5 Conspirator, 2 Apprentice, 1 Nomad Camp, 1 Chapel, 3 Silver, 1 Copper, 3 Province
+ - total victory points: 28
+ - turns: 13
+ 
+Titandrake - resigned
+Titandrake - cards: 3 Island, 1 Apprentice, 1 Ironworks, 4 Silver, 3 Copper, 1 Gold, 2 Estate, 1 Province
+Titandrake - total victory points: 14
+Titandrake - turns: 12
+ 
+1st place: 
+2nd place: Titandrake
+ 

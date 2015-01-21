@@ -1,0 +1,495 @@
+------------ Game Setup ------------
+Supply cards: Steward, Gardens, Navigator, Spy, Contraband, Council Room, Counting House, Mine, Upgrade, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Pinguin - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Pinguin - shuffles deck
+Titandrake - shuffles deck
+Pinguin - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Pinguin: turn 1 ----------
+Pinguin - plays 5 Copper
+Pinguin - buys Upgrade
+Pinguin - gains Upgrade
+Pinguin - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Upgrade
+ 
+---------- Pinguin: turn 2 ----------
+Pinguin - shuffles deck
+Pinguin - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Pinguin: turn 3 ----------
+Pinguin - plays 3 Copper
+Pinguin - buys Silver
+Pinguin - gains Silver
+Pinguin - draws Copper, Copper, Upgrade, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Pinguin: turn 4 ----------
+Pinguin - plays Upgrade
+Pinguin - draws Estate
+Pinguin - trashes Estate
+Pinguin - gains Silver
+Pinguin - plays 4 Copper
+Pinguin - buys Spy
+Pinguin - gains Spy
+Pinguin - shuffles deck
+Pinguin - draws Upgrade, Estate, Spy, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Copper, Copper, Estate, Upgrade, Spy
+ 
+---------- Pinguin: turn 5 ----------
+Pinguin - plays Spy
+Pinguin - draws Silver
+Pinguin - places Copper on top of deck
+Titandrake - places Copper on top of deck
+Pinguin - plays Upgrade
+Pinguin - draws Copper
+Pinguin - trashes Estate
+Pinguin - gains Silver
+Pinguin - plays 3 Copper, 1 Silver
+Pinguin - buys Upgrade
+Pinguin - gains Upgrade
+Pinguin - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Spy
+Titandrake - draws Copper
+Titandrake - discards Copper
+Pinguin - places Estate on top of deck
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - shuffles deck
+Titandrake - draws Venture, Silver, Copper, Spy, Copper
+ 
+---------- Pinguin: turn 6 ----------
+Pinguin - plays 4 Copper, 1 Silver
+Pinguin - buys Gold
+Pinguin - gains Gold
+Pinguin - draws Estate
+Pinguin - shuffles deck
+Pinguin - draws Silver, Copper, Spy, Upgrade
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Spy
+Titandrake - draws Silver
+Titandrake - discards Upgrade
+Pinguin - discards Silver
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - plays Venture
+Titandrake - reveals Estate, Copper
+Titandrake - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Upgrade, Copper, Copper, Copper
+ 
+---------- Pinguin: turn 7 ----------
+Pinguin - plays Spy
+Pinguin - draws Copper
+Pinguin - discards Copper
+Titandrake - places Copper on top of deck
+Pinguin - plays Upgrade
+Pinguin - draws Copper
+Pinguin - trashes Estate
+Pinguin - gains Silver
+Pinguin - plays 3 Copper, 1 Silver
+Pinguin - buys Venture
+Pinguin - gains Venture
+Pinguin - draws Upgrade, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - shuffles deck
+Titandrake - draws Silver, Upgrade, Copper, Venture, Upgrade
+ 
+---------- Pinguin: turn 8 ----------
+Pinguin - plays Upgrade
+Pinguin - draws Gold
+Pinguin - trashes Copper
+Pinguin - plays 2 Copper, 1 Silver, 1 Gold
+Pinguin - buys Gold
+Pinguin - gains Gold
+Pinguin - shuffles deck
+Pinguin - draws Copper, Silver, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Venture
+Titandrake - reveals Venture
+Titandrake - plays Venture
+Titandrake - reveals Silver
+Titandrake - plays Silver
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - draws Copper, Estate, Copper, Gold, Spy
+ 
+---------- Pinguin: turn 9 ----------
+Pinguin - plays 3 Copper, 2 Silver
+Pinguin - buys Venture
+Pinguin - gains Venture
+Pinguin - draws Gold, Silver, Venture, Gold, Upgrade
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Spy
+Titandrake - draws Copper
+Titandrake - places Silver on top of deck
+Pinguin - discards Silver
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Venture, Copper, Silver
+ 
+---------- Pinguin: turn 10 ----------
+Pinguin - plays Upgrade
+Pinguin - draws Upgrade
+Pinguin - trashes Silver
+Pinguin - gains Spy
+Pinguin - plays Upgrade
+Pinguin - draws Spy
+Pinguin - trashes Spy
+Pinguin - gains Venture
+Pinguin - plays 2 Gold
+Pinguin - plays Venture
+Pinguin - reveals Copper
+Pinguin - plays Copper
+Pinguin - buys Venture
+Pinguin - gains Venture
+Pinguin - draws Copper, Copper
+Pinguin - shuffles deck
+Pinguin - draws Gold, Venture, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - plays Venture
+Titandrake - reveals Silver
+Titandrake - plays Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Upgrade, Venture, Estate, Copper, Venture
+ 
+---------- Pinguin: turn 11 ----------
+Pinguin - plays 3 Copper, 1 Gold
+Pinguin - plays Venture
+Pinguin - reveals Copper
+Pinguin - plays Copper
+Pinguin - buys Venture
+Pinguin - gains Venture
+Pinguin - draws Venture, Copper, Venture, Silver, Spy
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Gold
+Titandrake - trashes Copper
+Titandrake - plays 1 Gold
+Titandrake - plays Venture
+Titandrake - reveals Copper
+Titandrake - plays Copper
+Titandrake - plays Venture
+Titandrake - reveals Upgrade, Spy, Venture
+Titandrake - discards: Upgrade, Spy
+Titandrake - plays Venture
+Titandrake - shuffles deck
+Titandrake - reveals Silver
+Titandrake - plays Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Silver, Silver, Venture, Spy, Platinum
+ 
+---------- Pinguin: turn 12 ----------
+Pinguin - plays Spy
+Pinguin - draws Upgrade
+Pinguin - discards Silver
+Titandrake - discards Upgrade
+Pinguin - plays Upgrade
+Pinguin - draws Venture
+Pinguin - trashes Copper
+Pinguin - plays 1 Silver
+Pinguin - plays Venture
+Pinguin - reveals Gold
+Pinguin - plays Gold
+Pinguin - plays Venture
+Pinguin - reveals Silver
+Pinguin - plays Silver
+Pinguin - plays Venture
+Pinguin - reveals Upgrade, Copper
+Pinguin - discards Upgrade
+Pinguin - plays Copper
+Pinguin - buys Platinum
+Pinguin - gains Platinum
+Pinguin - shuffles deck
+Pinguin - draws Silver, Venture, Gold, Gold, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Spy
+Titandrake - draws Copper
+Titandrake - places Copper on top of deck
+Pinguin - places Copper on top of deck
+Titandrake - plays 2 Silver, 1 Platinum, 1 Copper
+Titandrake - plays Venture
+Titandrake - reveals Copper
+Titandrake - plays Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Venture, Upgrade, Silver, Platinum, Colony
+ 
+---------- Pinguin: turn 13 ----------
+Pinguin - plays 2 Gold, 1 Silver, 1 Copper
+Pinguin - plays Venture
+Pinguin - reveals Copper
+Pinguin - plays Copper
+Pinguin - buys Colony
+Pinguin - gains Colony
+Pinguin - draws Upgrade, Copper, Venture, Venture, Spy
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Venture
+Titandrake - trashes Silver
+Titandrake - gains Navigator
+Titandrake - plays 1 Platinum
+Titandrake - plays Venture
+Titandrake - reveals Platinum
+Titandrake - plays Platinum
+Titandrake - plays Venture
+Titandrake - reveals Estate, Copper
+Titandrake - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Upgrade, Gold, Venture, Silver
+ 
+---------- Pinguin: turn 14 ----------
+Pinguin - plays Spy
+Pinguin - draws Upgrade
+Pinguin - places Silver on top of deck
+Titandrake - places Silver on top of deck
+Pinguin - plays Upgrade
+Pinguin - draws Silver
+Pinguin - trashes Copper
+Pinguin - plays Upgrade
+Pinguin - draws Copper
+Pinguin - trashes Copper
+Pinguin - plays 1 Silver
+Pinguin - plays Venture
+Pinguin - reveals Copper
+Pinguin - plays Copper
+Pinguin - plays Venture
+Pinguin - reveals Venture
+Pinguin - plays Venture
+Pinguin - reveals Venture
+Pinguin - plays Venture
+Pinguin - reveals Platinum
+Pinguin - plays Platinum
+Pinguin - buys Colony
+Pinguin - gains Colony
+Pinguin - draws Silver
+Pinguin - shuffles deck
+Pinguin - draws Gold, Silver, Colony, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - plays Venture
+Titandrake - reveals Venture
+Titandrake - plays Venture
+Titandrake - reveals Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Spy
+Titandrake - shuffles deck
+Titandrake - draws Colony, Estate, Colony, Copper
+ 
+---------- Pinguin: turn 15 ----------
+Pinguin - plays 2 Silver, 2 Gold
+Pinguin - buys Province
+Pinguin - gains Province
+Pinguin - draws Copper, Venture, Venture, Silver, Colony
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Spy
+Titandrake - draws Province
+Titandrake - discards Upgrade
+Pinguin - discards Venture
+Titandrake - draws Upgrade, Platinum, Venture, Silver, Silver
+ 
+---------- Pinguin: turn 16 ----------
+Pinguin - plays 1 Copper, 1 Silver
+Pinguin - plays Venture
+Pinguin - reveals Copper
+Pinguin - plays Copper
+Pinguin - plays Venture
+Pinguin - reveals Platinum
+Pinguin - plays Platinum
+Pinguin - buys Colony
+Pinguin - gains Colony
+Pinguin - draws Upgrade, Upgrade, Spy, Copper, Venture
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Platinum
+Titandrake - plays Venture
+Titandrake - reveals Gold
+Titandrake - plays Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Venture, Platinum, Venture, Copper, Navigator
+ 
+---------- Pinguin: turn 17 ----------
+Pinguin - plays Upgrade
+Pinguin - draws Venture
+Pinguin - trashes Spy
+Pinguin - gains Duchy
+Pinguin - plays Upgrade
+Pinguin - shuffles deck
+Pinguin - draws Gold
+Pinguin - trashes Copper
+Pinguin - plays 1 Gold
+Pinguin - plays Venture
+Pinguin - reveals Duchy, Province, Colony, Copper
+Pinguin - discards: Duchy, Province, Colony
+Pinguin - plays Copper
+Pinguin - plays Venture
+Pinguin - reveals Gold
+Pinguin - plays Gold
+Pinguin - buys Province
+Pinguin - gains Province
+Pinguin - draws Copper, Venture, Colony, Silver, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Navigator
+Titandrake - looks at Venture
+Titandrake - shuffles deck
+Titandrake - looks at Venture, Upgrade, Silver, Colony
+Titandrake - discards: Venture, Venture, Upgrade, Silver, Colony
+Titandrake - plays 1 Platinum, 1 Copper
+Titandrake - plays Venture
+Titandrake - reveals Silver
+Titandrake - plays Silver
+Titandrake - plays Venture
+Titandrake - reveals Gold
+Titandrake - plays Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Colony, Upgrade, Estate, Colony, Province
+ 
+---------- Pinguin: turn 18 ----------
+Pinguin - plays 2 Silver, 1 Copper
+Pinguin - plays Venture
+Pinguin - reveals Silver
+Pinguin - plays Silver
+Pinguin - buys Province
+Pinguin - gains Province
+Pinguin - draws Venture, Venture, Platinum, Colony
+Pinguin - shuffles deck
+Pinguin - draws Venture
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - draws Copper, Platinum, Spy
+Titandrake - shuffles deck
+Titandrake - draws Venture, Gold
+ 
+---------- Pinguin: turn 19 ----------
+Pinguin - plays 1 Platinum
+Pinguin - plays Venture
+Pinguin - reveals Province, Venture
+Pinguin - discards Province
+Pinguin - plays Venture
+Pinguin - reveals Duchy, Province, Copper
+Pinguin - discards: Duchy, Province
+Pinguin - plays Copper
+Pinguin - plays Venture
+Pinguin - reveals Province, Upgrade, Colony, Colony, Copper
+Pinguin - discards: Province, Upgrade, Colony, Colony
+Pinguin - plays Copper
+Pinguin - plays Venture
+Pinguin - reveals Upgrade, Silver
+Pinguin - discards Upgrade
+Pinguin - plays Silver
+Pinguin - buys Colony
+Pinguin - gains Colony
+Pinguin - draws Venture, Silver, Silver, Gold, Gold
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Spy
+Titandrake - draws Venture
+Titandrake - discards Colony
+Pinguin - shuffles deck
+Pinguin - discards Venture
+Titandrake - plays 1 Copper, 1 Platinum, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Upgrade, Venture, Colony, Estate, Province
+ 
+---------- Pinguin: turn 20 ----------
+Pinguin - plays 2 Silver, 2 Gold
+Pinguin - plays Venture
+Pinguin - reveals Copper
+Pinguin - plays Copper
+Pinguin - buys Colony
+Pinguin - gains Colony
+Pinguin - draws Duchy, Province, Venture, Platinum, Venture
+ 
+------------ Game Over ------------
+Pinguin - cards: 2 Upgrade, 5 Venture, 3 Silver, 2 Gold, 2 Copper, 1 Platinum, 5 Colony, 3 Province, 1 Duchy
+Pinguin - total victory points: 71
+Pinguin - turns: 20
+ 
+Titandrake - cards: 2 Upgrade, 1 Spy, 1 Navigator, 4 Venture, 2 Copper, 2 Platinum, 2 Silver, 1 Gold, 3 Colony, 3 Province, 1 Estate
+Titandrake - total victory points: 49
+Titandrake - turns: 20
+ 
+1st place: Pinguin
+2nd place: Titandrake
+ 

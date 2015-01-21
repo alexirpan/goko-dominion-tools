@@ -1,0 +1,449 @@
+------------ Game Setup ------------
+Supply cards: Moat, Scheme, Workshop, Feast, Procession, Talisman, Embassy, Vault, Wharf, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Estate, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Scheme, Estate
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 5 Copper
+SheCantSayNo - buys Wharf
+SheCantSayNo - gains Wharf
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Wharf, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Copper, Estate, Copper, Workshop
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Estate, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Workshop
+Titandrake - gains Feast
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - plays 6 Copper
+SheCantSayNo - buys Wharf
+SheCantSayNo - gains Wharf
+SheCantSayNo - draws Copper, Silver, Estate, Estate
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Workshop, Feast, Procession, Estate
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Copper, Copper, Copper, Estate, Wharf
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Procession
+Titandrake - plays Feast
+Titandrake - trashes Feast
+Titandrake - gains Wharf
+Titandrake - plays Feast
+Titandrake - trashes Feast
+Titandrake - gains Wharf
+Titandrake - gains Wharf
+Titandrake - Scheme choice: Procession
+Titandrake - draws Procession, Copper, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - plays 5 Copper
+SheCantSayNo - buys Wharf
+SheCantSayNo - gains Wharf
+SheCantSayNo - draws Wharf
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Scheme, Silver, Wharf, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - plays 5 Copper, 1 Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Estate, Wharf, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Procession, Workshop, Copper, Estate
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Estate, Wharf
+SheCantSayNo - plays 4 Copper, 1 Silver
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Gold
+SheCantSayNo - draws Copper, Silver, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays Procession
+Titandrake - plays Scheme
+Titandrake - draws Wharf
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - trashes Scheme
+Titandrake - gains Procession
+Titandrake - plays Wharf
+Titandrake - draws Scheme, Procession
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Procession
+Titandrake - plays Workshop
+Titandrake - gains Scheme
+Titandrake - plays Workshop
+Titandrake - gains Workshop
+Titandrake - trashes Workshop
+Titandrake - gains Procession
+Titandrake - plays 4 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Procession
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Wharf
+Titandrake - draws Wharf, Scheme, Procession
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Silver
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - plays 3 Copper, 3 Silver
+SheCantSayNo - buys Wharf
+SheCantSayNo - gains Wharf
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Gold, Copper, Wharf, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Wharf
+Titandrake - draws Procession, Copper
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Wharf
+Titandrake - draws Workshop, Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - trashes Wharf
+Titandrake - gains Altar
+Titandrake - plays Procession
+Titandrake - plays Scheme
+Titandrake - draws Scheme
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - trashes Scheme
+Titandrake - gains Procession
+Titandrake - trashes Procession
+Titandrake - gains Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Workshop
+Titandrake - gains Scheme
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Moat
+Titandrake - gains Moat
+Titandrake - Scheme choice: Procession
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Wharf
+Titandrake - draws Wharf, Scheme, Procession, Copper, Silver
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Estate, Wharf
+SheCantSayNo - plays 2 Silver, 1 Gold, 1 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Silver, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Procession
+Titandrake - duration Wharf
+Titandrake - draws Procession, Procession
+Titandrake - duration Wharf
+Titandrake - draws Scheme, Estate
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Gold
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Scheme
+Titandrake - draws Workshop
+Titandrake - trashes Scheme
+Titandrake - gains Procession
+Titandrake - plays Procession
+Titandrake - plays Wharf
+Titandrake - draws Scheme, Moat
+Titandrake - plays Wharf
+Titandrake - draws Silver, Copper
+Titandrake - trashes Wharf
+Titandrake - gains Altar
+Titandrake - trashes Procession
+Titandrake - gains Wharf
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Procession
+Titandrake - plays Moat
+Titandrake - draws Copper, Altar
+Titandrake - plays Moat
+Titandrake - draws Copper, Procession
+Titandrake - trashes Moat
+Titandrake - gains Scheme
+Titandrake - plays Procession
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - trashes Scheme
+Titandrake - gains Procession
+Titandrake - plays Wharf
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Altar
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 7 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - Scheme choice: Procession
+Titandrake - Scheme choice: Wharf
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Procession
+Titandrake - Scheme choice: Procession
+Titandrake - draws Procession, Procession, Scheme, Wharf, Procession
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Copper, Wharf
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - plays 4 Copper, 2 Silver
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Wharf, Silver, Copper, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Province
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Procession
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Scheme
+Titandrake - duration Wharf
+Titandrake - draws Procession, Procession
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Estate
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - trashes Scheme
+Titandrake - gains Procession
+Titandrake - plays Procession
+Titandrake - plays Wharf
+Titandrake - draws Altar, Gold
+Titandrake - plays Wharf
+Titandrake - draws Altar, Copper
+Titandrake - trashes Wharf
+Titandrake - gains Altar
+Titandrake - trashes Procession
+Titandrake - gains Wharf
+Titandrake - plays Procession
+Titandrake - plays Scheme
+Titandrake - draws Province
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - trashes Scheme
+Titandrake - gains Procession
+Titandrake - trashes Procession
+Titandrake - gains Vault
+Titandrake - plays Procession
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - trashes Wharf
+Titandrake - gains Altar
+Titandrake - trashes Procession
+Titandrake - gains Vault
+Titandrake - plays Procession
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Procession
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Scheme
+Titandrake - trashes Altar
+Titandrake - trashes Procession
+Titandrake - gains Vault
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Duchy
+Titandrake - plays 3 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - Scheme choice: Altar
+Titandrake - Scheme choice: Procession
+Titandrake - draws Procession, Altar, Gold, Copper, Workshop
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - duration Wharf
+SheCantSayNo - draws Estate, Copper
+SheCantSayNo - plays Wharf
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - plays 4 Copper, 2 Silver
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - buys Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - buys Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - draws Wharf, Estate, Estate, Copper, Wharf
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Procession
+Titandrake - duration Wharf
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Altar
+Titandrake - duration Wharf
+Titandrake - draws Duchy, Silver
+Titandrake - duration Procession
+Titandrake - duration Wharf
+Titandrake - draws Duchy, Province
+Titandrake - duration Wharf
+Titandrake - draws Procession, Altar
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Altar
+Titandrake - trashes Altar
+Titandrake - gains Duchy
+Titandrake - plays Altar
+Titandrake - trashes Altar
+Titandrake - gains Scheme
+Titandrake - trashes Altar
+Titandrake - plays Procession
+Titandrake - plays Workshop
+Titandrake - gains Scheme
+Titandrake - plays Workshop
+Titandrake - gains Scheme
+Titandrake - trashes Workshop
+Titandrake - gains Feast
+Titandrake - trashes Procession
+Titandrake - gains Vault
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Vault, Copper, Gold, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Vault, 4 Scheme, 3 Procession, 2 Wharf, 1 Feast, 6 Copper, 2 Silver, 2 Gold, 4 Duchy, 3 Estate, 2 Province
+Titandrake - total victory points: 27
+Titandrake - turns: 13
+ 
+SheCantSayNo - cards: 4 Wharf, 9 Copper, 5 Silver, 1 Gold, 3 Estate, 3 Province
+SheCantSayNo - total victory points: 21
+SheCantSayNo - turns: 12
+ 
+1st place: Titandrake
+2nd place: SheCantSayNo
+ 

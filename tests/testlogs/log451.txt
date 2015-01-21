@@ -1,0 +1,629 @@
+------------ Game Setup ------------
+Supply cards: Squire, Apothecary, University, Masquerade, Storeroom, Monument, Talisman, Treasure Map, Inn, Knights, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+frankdom - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Copper, Copper, Overgrown Estate, Copper, Copper
+Titandrake - draws Copper, Hovel, Copper, Necropolis, Copper
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays 4 Copper
+frankdom - buys Potion
+frankdom - gains Potion
+frankdom - draws Copper, Copper, Copper, Necropolis, Hovel
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - draws Copper, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays Necropolis
+frankdom - plays 3 Copper
+frankdom - buys Masquerade
+frankdom - gains Masquerade
+frankdom - shuffles deck
+frankdom - draws Masquerade, Copper, Hovel, Copper, Potion
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Necropolis, Hovel, Copper, Copper
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays Masquerade
+frankdom - draws Copper, Copper
+frankdom - passes Hovel
+Titandrake - passes Hovel
+frankdom - trashes Hovel
+frankdom - plays 4 Copper, 1 Potion
+frankdom - buys Apothecary
+frankdom - gains Apothecary
+frankdom - draws Necropolis, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Copper, Copper, Potion, Masquerade
+ 
+---------- frankdom: turn 4 ----------
+frankdom - plays Necropolis
+frankdom - plays 3 Copper
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - shuffles deck
+frankdom - draws Necropolis, Apothecary, Copper, Copper, Potion
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Copper
+Titandrake - passes Copper
+frankdom - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - shuffles deck
+Titandrake - draws Squire, Masquerade, Overgrown Estate, Hovel, Potion
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays Apothecary
+frankdom - draws Copper
+frankdom - reveals: Overgrown Estate, Masquerade, Copper, Copper
+frankdom - places Overgrown Estate on top of deck
+frankdom - places Masquerade on top of deck
+frankdom - plays Necropolis
+frankdom - plays 5 Copper, 1 Potion
+frankdom - buys Inn
+frankdom - gains Inn
+frankdom - places Inn on top of deck
+frankdom - shuffles deck
+frankdom - draws Overgrown Estate, Masquerade, Silver, Inn, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Necropolis, Copper
+Titandrake - passes Hovel
+frankdom - passes Overgrown Estate
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Copper, Apothecary, Copper, Copper, Copper
+ 
+---------- frankdom: turn 6 ----------
+frankdom - plays Inn
+frankdom - draws Copper
+frankdom - shuffles deck
+frankdom - draws Copper
+frankdom - discards Hovel
+frankdom - discards Copper
+frankdom - plays Masquerade
+frankdom - draws Potion, Copper
+frankdom - passes Copper
+Titandrake - passes Copper
+frankdom - trashes Copper
+frankdom - plays 2 Copper, 1 Silver, 1 Potion
+frankdom - buys University
+frankdom - gains University
+frankdom - draws Apothecary, Copper, Copper, Copper, Necropolis
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Apothecary
+Titandrake - shuffles deck
+Titandrake - draws Squire
+Titandrake - reveals: Copper, Apothecary, Necropolis, Masquerade
+Titandrake - places Masquerade on top of deck
+Titandrake - places Necropolis on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 5 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Apothecary, Necropolis, Masquerade, Copper, Potion
+ 
+---------- frankdom: turn 7 ----------
+frankdom - plays Apothecary
+frankdom - shuffles deck
+frankdom - draws Potion
+frankdom - reveals: Silver, Masquerade, Copper, Copper
+frankdom - places Masquerade on top of deck
+frankdom - places Silver on top of deck
+frankdom - plays Necropolis
+frankdom - plays 5 Copper, 1 Potion
+frankdom - buys University
+frankdom - gains University
+frankdom - draws Silver, Masquerade, Hovel, Copper, Inn
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - reveals: Squire, Apothecary, Monument, Copper
+Titandrake - places Monument on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Necropolis
+Titandrake - plays Masquerade
+Titandrake - draws Apothecary, Squire
+Titandrake - passes Copper
+frankdom - passes Hovel
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Monument
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Squire, Copper, Copper, Copper
+Titandrake - places Squire on top of deck
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 5 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Squire
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Apothecary
+ 
+---------- frankdom: turn 8 ----------
+frankdom - plays Inn
+frankdom - draws University
+frankdom - shuffles deck
+frankdom - draws Apothecary
+frankdom - discards Copper
+frankdom - discards Silver
+frankdom - plays Apothecary
+frankdom - draws Copper
+frankdom - reveals: University, Potion, Necropolis, Copper
+frankdom - places Necropolis on top of deck
+frankdom - places University on top of deck
+frankdom - plays University
+frankdom - gains Sir Martin
+frankdom - plays Masquerade
+frankdom - draws University, Necropolis
+frankdom - passes Necropolis
+Titandrake - passes Copper
+frankdom - trashes Copper
+frankdom - plays University
+frankdom - gains Dame Josephine
+frankdom - plays 3 Copper, 1 Potion
+frankdom - buys Apothecary
+frankdom - gains Apothecary
+frankdom - draws Copper, Copper, Copper
+frankdom - shuffles deck
+frankdom - draws Dame Josephine, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Potion, Silver, Apothecary, Monument
+Titandrake - places Monument on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Silver, Apothecary, Monument, Masquerade, Squire
+ 
+---------- frankdom: turn 9 ----------
+frankdom - plays Dame Josephine
+Titandrake - reveals: Necropolis, Copper
+frankdom - plays 4 Copper
+frankdom - buys Squire
+frankdom - gains Squire
+frankdom - draws Apothecary, Potion, Copper, University, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Hovel
+Titandrake - reveals: Apothecary
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Necropolis, Potion
+Titandrake - places Necropolis on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Apothecary, Necropolis
+Titandrake - passes Hovel
+frankdom - passes Copper
+Titandrake - trashes Necropolis
+Titandrake - plays Apothecary
+Titandrake - draws Necropolis
+Titandrake - reveals: Copper, Squire, Copper, Apothecary
+Titandrake - places Apothecary on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 4 Copper, 1 Silver, 1 Potion
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Squire, Apothecary, Copper, Copper, Apothecary
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays Apothecary
+frankdom - draws Sir Martin
+frankdom - reveals: Copper, Inn, Apothecary, Masquerade
+frankdom - places Inn on top of deck
+frankdom - places Apothecary on top of deck
+frankdom - places Masquerade on top of deck
+frankdom - plays University
+frankdom - gains Masquerade
+frankdom - plays Sir Martin
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Monument
+Titandrake - trashes Monument
+Titandrake - discards Copper
+frankdom - plays 2 Copper, 1 Potion
+frankdom - buys Apothecary
+frankdom - gains Apothecary
+frankdom - draws Masquerade, Apothecary, Inn, Silver, University
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Necropolis
+Titandrake - reveals: Copper, Apothecary, Potion, Silver
+Titandrake - places Silver on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Silver, Copper, Copper, Apothecary
+Titandrake - places Silver on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Silver, Masquerade, Squire, Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - places Masquerade on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Masquerade
+Titandrake - reveals: Squire, Silver, Province
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - places Province on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - plays Necropolis
+Titandrake - plays Masquerade
+Titandrake - draws Squire, Silver
+Titandrake - passes Copper
+frankdom - passes Silver
+Titandrake - trashes Silver
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 6 Copper, 1 Potion, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Squire, Apothecary, Copper, Necropolis
+ 
+---------- frankdom: turn 11 ----------
+frankdom - plays Apothecary
+frankdom - shuffles deck
+frankdom - draws Masquerade
+frankdom - reveals: Squire, Copper, Copper, University
+frankdom - places University on top of deck
+frankdom - places Squire on top of deck
+frankdom - plays University
+frankdom - gains Dame Molly
+frankdom - plays Masquerade
+frankdom - draws Squire, University
+frankdom - passes Copper
+Titandrake - passes Necropolis
+frankdom - trashes Necropolis
+frankdom - plays University
+frankdom - gains Monument
+frankdom - plays Masquerade
+frankdom - draws Copper, Sir Martin
+frankdom - passes Copper
+Titandrake - passes Copper
+frankdom - plays Inn
+frankdom - draws Apothecary, Apothecary
+frankdom - discards Copper
+frankdom - discards Copper
+frankdom - plays Apothecary
+frankdom - draws Copper
+frankdom - reveals: Dame Josephine, Hovel, Potion, Copper
+frankdom - places Hovel on top of deck
+frankdom - places Dame Josephine on top of deck
+frankdom - plays Apothecary
+frankdom - draws Dame Josephine
+frankdom - reveals: Hovel, Copper
+frankdom - shuffles deck
+frankdom - reveals: Dame Molly, Monument
+frankdom - places Monument on top of deck
+frankdom - places Dame Molly on top of deck
+frankdom - places Hovel on top of deck
+frankdom - plays Squire
+frankdom - takes 2 actions
+frankdom - plays Sir Martin
+Titandrake - reveals: Apothecary, Copper
+frankdom - plays Dame Josephine
+Titandrake - reveals: Copper, Copper
+frankdom - plays 4 Copper, 1 Potion
+frankdom - buys Monument
+frankdom - gains Monument
+frankdom - buys Copper
+frankdom - gains Copper
+frankdom - buys Copper
+frankdom - gains Copper
+frankdom - draws Hovel, Dame Molly, Monument, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Potion, Apothecary, Squire, Province
+Titandrake - places Province on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Squire, Province, Apothecary, Copper
+Titandrake - places Squire on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Province, Squire, Copper, Silver
+Titandrake - places Province on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Silver
+Titandrake - reveals: Squire, Province, Masquerade
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - places Masquerade on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 5 Copper, 1 Potion, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Squire, Province, Masquerade, Apothecary, Copper
+ 
+---------- frankdom: turn 12 ----------
+frankdom - plays Dame Molly
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+frankdom - plays Monument
+frankdom - receives 1 victory point chips
+frankdom - plays 2 Copper
+frankdom - buys Monument
+frankdom - gains Monument
+frankdom - shuffles deck
+frankdom - draws Copper, Copper, Sir Martin, University, Monument
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Apothecary, Copper, Apothecary, Copper
+Titandrake - places Apothecary on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Apothecary, Apothecary
+Titandrake - passes Copper
+frankdom - passes Copper
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Apothecary, Potion, Silver, Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Silver, Apothecary, Squire, Province
+Titandrake - places Silver on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Squire
+Titandrake - reveals: Province, Apothecary, Silver, Province
+Titandrake - places Province on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - places Province on top of deck
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 6 Copper, 1 Potion
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Province, Apothecary, Silver, Province
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- frankdom: turn 13 ----------
+frankdom - plays University
+frankdom - gains Dame Anna
+frankdom - plays Sir Martin
+Titandrake - reveals: Squire, Copper
+frankdom - plays Monument
+frankdom - receives 1 victory point chips
+frankdom - plays 2 Copper
+frankdom - buys Monument
+frankdom - gains Monument
+frankdom - draws Copper, Potion, Dame Molly, Masquerade, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Apothecary, Copper, Apothecary, Copper
+Titandrake - places Apothecary on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Sir Bailey
+Titandrake - gains Sir Bailey
+Titandrake - draws Apothecary, Apothecary, Copper, Copper, Copper
+ 
+---------- frankdom: turn 14 ----------
+frankdom - plays Dame Molly
+Titandrake - reveals: Copper, Copper
+frankdom - plays Masquerade
+frankdom - draws Inn, Copper
+frankdom - passes Copper
+Titandrake - passes Copper
+frankdom - plays Inn
+frankdom - draws Hovel, Copper
+frankdom - discards Hovel
+frankdom - discards Copper
+frankdom - plays 3 Copper, 1 Potion
+frankdom - buys Apothecary
+frankdom - gains Apothecary
+frankdom - draws Apothecary, Copper, Apothecary, Monument, Apothecary
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Province, Squire, Potion, Apothecary
+Titandrake - places Province on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Squire, Province, Masquerade
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - places Province on top of deck
+Titandrake - places Masquerade on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Squire
+Titandrake - reveals: Masquerade, Province, Sir Bailey, Squire
+Titandrake - places Province on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - places Masquerade on top of deck
+Titandrake - places Sir Bailey on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Sir Bailey
+Titandrake - reveals: Masquerade, Squire, Province, Silver
+Titandrake - places Silver on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Squire on top of deck
+Titandrake - places Masquerade on top of deck
+Titandrake - plays Sir Bailey
+Titandrake - draws Masquerade
+frankdom - reveals: Squire, Monument
+frankdom - trashes Monument
+frankdom - discards Squire
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Squire, Province
+Titandrake - passes Copper
+frankdom - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - buys Storeroom
+Titandrake - gains Storeroom
+Titandrake - draws Silver, Apothecary, Copper, Copper, Province
+ 
+---------- frankdom: turn 15 ----------
+frankdom - plays Apothecary
+frankdom - draws University
+frankdom - reveals: Masquerade, Copper, Dame Josephine
+frankdom - shuffles deck
+frankdom - reveals: University
+frankdom - places Dame Josephine on top of deck
+frankdom - places University on top of deck
+frankdom - places Masquerade on top of deck
+frankdom - plays University
+frankdom - gains Sir Vander
+frankdom - plays Apothecary
+frankdom - draws Masquerade
+frankdom - reveals: University, Dame Josephine, Apothecary, Hovel
+frankdom - places Hovel on top of deck
+frankdom - places University on top of deck
+frankdom - places Dame Josephine on top of deck
+frankdom - places Apothecary on top of deck
+frankdom - plays Masquerade
+frankdom - draws Apothecary, Dame Josephine
+frankdom - passes Copper
+Titandrake - passes Copper
+frankdom - plays Apothecary
+frankdom - draws University
+frankdom - reveals: Hovel, Copper, Dame Molly, Copper
+frankdom - places Hovel on top of deck
+frankdom - places Dame Molly on top of deck
+frankdom - plays University
+frankdom - gains Dame Sylvia
+frankdom - plays Apothecary
+frankdom - draws Dame Molly
+frankdom - reveals: Hovel, Copper, Copper, Squire
+frankdom - places Hovel on top of deck
+frankdom - places Squire on top of deck
+frankdom - plays Dame Molly
+Titandrake - reveals: Copper, Province
+frankdom - plays Dame Josephine
+Titandrake - reveals: Copper, Province
+frankdom - plays Monument
+frankdom - receives 1 victory point chips
+frankdom - plays 6 Copper
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Squire, Hovel, Copper, Dame Anna, Potion
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Copper, Copper, Apothecary
+Titandrake - places Apothecary on top of deck
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Apothecary, Copper, Squire, Apothecary, Province
+ 
+---------- frankdom: turn 16 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Apothecary, 2 Squire, 1 Masquerade, 1 Sir Bailey, 1 Storeroom, 8 Copper, 1 Silver, 1 Potion, 5 Province
+Titandrake - victory point chips: 1
+Titandrake - total victory points: 31
+Titandrake - turns: 15
+ 
+frankdom - resigned
+frankdom - cards: 4 Apothecary, 3 Monument, 2 University, 2 Masquerade, 1 Dame Josephine, 1 Squire, 1 Dame Anna, 1 Sir Vander, 1 Dame Sylvia, 1 Dame Molly, 1 Inn, 1 Sir Martin, 8 Copper, 1 Potion, 1 Province, 1 Hovel
+frankdom - victory point chips: 3
+frankdom - total victory points: 11
+frankdom - turns: 15
+ 
+1st place: Titandrake
+2nd place: frankdom
+ 

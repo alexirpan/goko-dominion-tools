@@ -1,0 +1,395 @@
+------------ Game Setup ------------
+Supply cards: Trade Route, Herald, Monument, Rats, Young Witch, Baker, Counting House, Haggler, Highway, Jester, Tactician, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Trade Route
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Titandrake - shuffles deck
+yed - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 4 Copper
+yed - uses 1 coin token
+yed - buys Haggler
+yed - gains Haggler
+yed - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Copper, Copper, Estate, Haggler, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays Haggler
+yed - plays 2 Copper, 1 Silver
+yed - buys Gold
+yed - gains Jester
+yed - gains Gold
+yed - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Silver, Jester
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays 3 Copper
+yed - buys Trade Route
+yed - gains Trade Route
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Copper, Estate, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Jester
+yed - reveals Copper
+yed - discards Copper
+yed - gains Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Young Witch, Copper, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Haggler, Silver, Trade Route, Gold, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+yed - reveals bane Trade Route
+Titandrake - plays 4 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Jester, Estate, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays Haggler
+yed - plays 1 Silver, 1 Gold, 1 Copper
+yed - buys Province
+yed - gains Gold
+yed - gains Province
+yed - draws Jester, Copper, Copper, Estate
+yed - shuffles deck
+yed - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Jester
+yed - reveals Estate
+yed - discards Estate
+yed - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - draws Estate, Copper, Young Witch, Estate, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Jester
+Titandrake - reveals Gold
+Titandrake - discards Gold
+yed - gains Gold
+yed - plays 3 Copper
+yed - buys Baker
+yed - gains Baker
+yed - draws Haggler, Gold, Trade Route, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Trade Route
+Titandrake - discards Estate
+Titandrake - discards Estate
+yed - reveals bane Trade Route
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- yed: turn 8 ----------
+yed - plays Haggler
+yed - plays 2 Copper, 1 Gold
+yed - buys Gold
+yed - gains Baker
+yed - gains Gold
+yed - draws Estate, Province, Silver, Copper, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Gold, Jester, Estate, Young Witch, Silver
+ 
+---------- yed: turn 9 ----------
+yed - plays 1 Silver, 1 Copper, 1 Gold
+yed - buys Gold
+yed - gains Gold
+yed - draws Copper, Copper, Silver
+yed - shuffles deck
+yed - draws Gold, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Jester
+yed - reveals Estate
+yed - discards Estate
+yed - gains Curse
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Estate, Silver, Trade Route
+ 
+---------- yed: turn 10 ----------
+yed - plays 3 Copper, 1 Silver, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - draws Gold, Silver, Gold, Curse, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - draws Copper, Baker
+Titandrake - shuffles deck
+Titandrake - draws Trade Route, Gold, Estate
+ 
+---------- yed: turn 11 ----------
+yed - plays 2 Gold, 1 Silver, 1 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Estate, Gold, Copper, Estate, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Gold, Monument, Copper, Young Witch
+ 
+---------- yed: turn 12 ----------
+yed - plays 2 Gold, 1 Copper
+yed - buys Gold
+yed - gains Gold
+yed - draws Copper, Haggler, Baker, Baker, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper, Silver, Haggler
+ 
+---------- yed: turn 13 ----------
+yed - plays Baker
+yed - receives 1 coin token
+yed - draws Copper
+yed - plays Baker
+yed - receives 1 coin token
+yed - draws Trade Route
+yed - plays Haggler
+yed - plays 2 Copper
+yed - uses 1 coin token
+yed - buys Baker
+yed - gains Monument
+yed - gains Baker
+yed - draws Copper, Jester
+yed - shuffles deck
+yed - draws Estate, Silver, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Haggler
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Young Witch
+Titandrake - gains Duchy
+Titandrake - draws Estate, Jester, Copper
+Titandrake - shuffles deck
+Titandrake - draws Province, Haggler
+ 
+---------- yed: turn 14 ----------
+yed - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+yed - plays 1 Copper, 1 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Gold, Gold, Gold, Haggler, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Jester
+yed - reveals Copper
+yed - discards Copper
+yed - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Gold, Silver, Copper, Young Witch, Baker
+ 
+---------- yed: turn 15 ----------
+yed - plays Haggler
+yed - plays 3 Gold
+yed - buys Province
+yed - gains Gold
+yed - gains Province
+yed - draws Gold, Baker, Gold, Province, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Young Witch
+Titandrake - draws Trade Route, Duchy
+Titandrake - discards Duchy
+Titandrake - discards Trade Route
+yed - gains Curse
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Gold, Copper, Young Witch, Copper
+ 
+---------- yed: turn 16 ----------
+yed - plays Baker
+yed - receives 1 coin token
+yed - draws Monument
+yed - plays Monument
+yed - receives 1 victory point chips
+yed - plays 2 Gold, 1 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Baker, Trade Route, Curse, Province, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+yed - reveals bane Trade Route
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Monument
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Trade Route, Silver
+ 
+---------- yed: turn 17 ----------
+yed - plays Baker
+yed - receives 1 coin token
+yed - draws Province
+yed - plays Trade Route
+yed - trashes Curse
+yed - plays 1 Copper
+yed - uses 2 coin tokens
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Copper, Estate, Copper, Baker, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Gold, Estate, Duchy, Copper
+ 
+---------- yed: turn 18 ----------
+yed - plays Baker
+yed - receives 1 coin token
+yed - draws Silver
+yed - plays 3 Copper, 1 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Gold, Copper
+yed - shuffles deck
+yed - draws Baker, Curse, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Young Witch, Haggler, Duchy, Gold
+ 
+---------- yed: turn 19 ----------
+yed - plays Baker
+yed - receives 1 coin token
+yed - draws Duchy
+yed - plays 1 Gold, 1 Copper
+yed - uses 1 coin token
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Haggler, Gold, Silver, Trade Route, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Duchy
+Titandrake - discards Haggler
+yed - reveals bane Trade Route
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Province, Trade Route, Baker, Copper, Gold
+ 
+---------- yed: turn 20 ----------
+yed - plays Trade Route
+yed - trashes Haggler
+yed - plays 1 Gold, 1 Silver, 1 Copper
+yed - uses 2 coin tokens
+yed - buys Province
+yed - gains Province
+yed - buys Estate
+yed - gains Estate
+yed - draws Province, Copper, Copper, Curse, Gold
+ 
+------------ Game Over ------------
+yed - cards: 3 Baker, 1 Trade Route, 1 Jester, 1 Monument, 9 Copper, 7 Gold, 2 Silver, 6 Province, 4 Duchy, 4 Estate, 2 Curse
+yed - victory point chips: 1
+yed - total victory points: 51
+yed - turns: 20
+ 
+Titandrake - cards: 3 Young Witch, 2 Trade Route, 1 Baker, 1 Monument, 1 Haggler, 1 Jester, 8 Copper, 3 Gold, 2 Silver, 4 Duchy, 2 Province, 1 Estate
+Titandrake - victory point chips: 2
+Titandrake - total victory points: 27
+Titandrake - turns: 20
+ 
+1st place: yed
+2nd place: Titandrake
+ 

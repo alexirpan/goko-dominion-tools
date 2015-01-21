@@ -1,0 +1,413 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Swindler, Talisman, Taxman, Apprentice, Count, Rabble, Trading Post, Border Village, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Pinguin - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Pinguin - shuffles deck
+Titandrake - shuffles deck
+Pinguin - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Pinguin: turn 1 ----------
+Pinguin - plays 4 Copper
+Pinguin - buys Silver
+Pinguin - gains Silver
+Pinguin - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Pinguin: turn 2 ----------
+Pinguin - plays 3 Copper
+Pinguin - buys Swindler
+Pinguin - gains Swindler
+Pinguin - shuffles deck
+Pinguin - draws Estate, Copper, Copper, Estate, Swindler
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Trading Post, Embargo
+ 
+---------- Pinguin: turn 3 ----------
+Pinguin - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+Pinguin - plays 2 Copper
+Pinguin - buys Silver
+Pinguin - gains Silver
+Pinguin - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Pinguin: turn 4 ----------
+Pinguin - plays 3 Copper, 1 Silver
+Pinguin - buys Count
+Pinguin - gains Count
+Pinguin - draws Copper, Copper
+Pinguin - shuffles deck
+Pinguin - draws Estate, Count, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Swindler, Estate
+ 
+---------- Pinguin: turn 5 ----------
+Pinguin - plays Count
+Pinguin - gains Copper
+Pinguin - takes 3 coins
+Pinguin - plays 3 Copper
+Pinguin - buys Border Village
+Pinguin - gains Border Village
+Pinguin - gains Rabble
+Pinguin - draws Copper, Copper, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Swindler
+Pinguin - reveals Copper
+Pinguin - trashes Copper
+Pinguin - gains Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Pinguin: turn 6 ----------
+Pinguin - plays 3 Copper, 2 Silver
+Pinguin - buys Border Village
+Pinguin - gains Border Village
+Pinguin - gains Rabble
+Pinguin - draws Estate, Estate, Swindler
+Pinguin - shuffles deck
+Pinguin - draws Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Apprentice
+Titandrake - draws Estate, Embargo, Trading Post
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- Pinguin: turn 7 ----------
+Pinguin - plays Swindler
+Titandrake - reveals Apprentice
+Titandrake - trashes Apprentice
+Titandrake - gains Duchy
+Pinguin - plays 1 Silver, 1 Copper
+Pinguin - buys Apprentice
+Pinguin - gains Apprentice
+Pinguin - draws Rabble, Copper, Count, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Embargo
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Silver, Copper, Estate, Estate, Apprentice
+ 
+---------- Pinguin: turn 8 ----------
+Pinguin - plays Count
+Pinguin - places Rabble on top of deck
+Pinguin - takes 3 coins
+Pinguin - plays 3 Copper
+Pinguin - buys Border Village
+Pinguin - gains Border Village
+Pinguin - gains Rabble
+Pinguin - draws Rabble, Curse, Copper, Silver, Rabble
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Swindler
+Titandrake - plays Swindler
+Pinguin - reveals Border Village
+Pinguin - trashes Border Village
+Pinguin - gains Hunting Grounds
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Rabble
+Titandrake - draws Copper, Copper, Border Village
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Trading Post
+ 
+---------- Pinguin: turn 9 ----------
+Pinguin - plays Rabble
+Pinguin - draws Copper, Estate, Border Village
+Titandrake - reveals Duchy, Silver, Copper
+Titandrake - discards: Silver, Copper
+Titandrake - places Duchy on top of deck
+Pinguin - plays 2 Copper, 1 Silver
+Pinguin - buys Silver
+Pinguin - gains Silver
+Pinguin - draws Copper
+Pinguin - shuffles deck
+Pinguin - draws Swindler, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Border Village
+Titandrake - draws Duchy
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Apprentice, Silver, Estate, Swindler, Apprentice
+ 
+---------- Pinguin: turn 10 ----------
+Pinguin - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+Pinguin - plays 3 Copper
+Pinguin - buys Apprentice
+Pinguin - gains Apprentice
+Pinguin - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Rabble
+Titandrake - plays Apprentice
+Titandrake - trashes Silver
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Silver, Silver
+Titandrake - plays Border Village
+Titandrake - draws Duchy
+Titandrake - plays Rabble
+Titandrake - draws Silver, Silver, Trading Post
+Pinguin - reveals Border Village, Copper, Rabble
+Pinguin - discards: Border Village, Copper, Rabble
+Titandrake - plays Swindler
+Pinguin - reveals Silver
+Pinguin - trashes Silver
+Pinguin - gains Silver
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Curse, Border Village
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Province
+ 
+---------- Pinguin: turn 11 ----------
+Pinguin - plays 3 Copper, 1 Silver
+Pinguin - buys Rabble
+Pinguin - gains Rabble
+Pinguin - draws Border Village, Apprentice, Hunting Grounds, Silver, Count
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays Border Village
+Titandrake - draws Rabble
+Titandrake - plays Rabble
+Titandrake - draws Silver, Apprentice, Trading Post
+Pinguin - reveals Rabble, Curse, Rabble
+Pinguin - discards: Rabble, Rabble
+Pinguin - places Curse on top of deck
+Titandrake - plays Apprentice
+Titandrake - trashes Silver
+Titandrake - draws Copper, Silver, Silver
+Titandrake - plays Trading Post
+Titandrake - trashes Curse, Copper
+Titandrake - gains Silver
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Apprentice, Swindler, Duchy
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver
+ 
+---------- Pinguin: turn 12 ----------
+Pinguin - plays Border Village
+Pinguin - draws Curse
+Pinguin - plays Hunting Grounds
+Pinguin - draws Estate
+Pinguin - shuffles deck
+Pinguin - draws Copper, Copper, Copper
+Pinguin - plays Apprentice
+Pinguin - trashes Estate
+Pinguin - draws Border Village, Copper
+Pinguin - plays Border Village
+Pinguin - draws Silver
+Pinguin - plays Count
+Pinguin - discards Silver
+Pinguin - discards Silver
+Pinguin - trashes Curse, Copper, Copper, Copper, Copper
+Pinguin - draws Rabble, Swindler, Copper, Rabble, Apprentice
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Duchy
+Titandrake - draws Copper, Silver, Silver, Province, Trading Post
+Titandrake - plays Swindler
+Pinguin - reveals Rabble
+Pinguin - trashes Rabble
+Pinguin - gains Duchy
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Border Village, Apprentice, Border Village, Rabble
+ 
+---------- Pinguin: turn 13 ----------
+Pinguin - plays Apprentice
+Pinguin - trashes Swindler
+Pinguin - draws Estate, Copper, Rabble
+Pinguin - plays Rabble
+Pinguin - draws Estate, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - reveals Province, Copper, Swindler
+Titandrake - discards: Copper, Swindler
+Titandrake - places Province on top of deck
+Pinguin - plays 3 Copper, 1 Silver
+Pinguin - buys Duchy
+Pinguin - gains Duchy
+Pinguin - shuffles deck
+Pinguin - draws Silver, Copper, Silver, Copper, Rabble
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Border Village
+Titandrake - draws Province
+Titandrake - plays Rabble
+Titandrake - draws Trading Post, Silver, Silver
+Pinguin - reveals Hunting Grounds, Count, Border Village
+Pinguin - discards: Hunting Grounds, Count, Border Village
+Titandrake - plays Apprentice
+Titandrake - trashes Silver
+Titandrake - draws Apprentice, Province, Province
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Count
+Titandrake - shuffles deck
+Titandrake - draws Apprentice, Silver, Trading Post, Province, Apprentice
+ 
+---------- Pinguin: turn 14 ----------
+Pinguin - plays Rabble
+Pinguin - draws Border Village, Apprentice, Copper
+Titandrake - reveals Border Village, Province, Count
+Titandrake - discards: Border Village, Count
+Titandrake - places Province on top of deck
+Pinguin - plays 3 Copper, 2 Silver
+Pinguin - buys Border Village
+Pinguin - gains Border Village
+Pinguin - gains Duchy
+Pinguin - draws Rabble, Rabble, Duchy, Estate, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Trading Post
+Titandrake - draws Province, Silver, Province, Swindler, Silver
+Titandrake - plays Swindler
+Pinguin - reveals Apprentice
+Pinguin - trashes Apprentice
+Pinguin - gains Duchy
+Titandrake - plays 3 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Border Village, Border Village, Copper, Rabble
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Pinguin: turn 15 ----------
+Pinguin - plays Rabble
+Pinguin - draws Silver, Duchy
+Pinguin - shuffles deck
+Pinguin - draws Hunting Grounds
+Titandrake - reveals Province, Silver, Apprentice
+Titandrake - discards: Silver, Apprentice
+Titandrake - places Province on top of deck
+Pinguin - draws Border Village, Copper, Duchy, Count, Apprentice
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Border Village
+Titandrake - draws Province
+Titandrake - plays Rabble
+Titandrake - draws Province, Border Village, Apprentice
+Pinguin - reveals Copper, Duchy, Border Village
+Pinguin - discards: Copper, Border Village
+Pinguin - places Duchy on top of deck
+Titandrake - plays Apprentice
+Titandrake - trashes Border Village
+Titandrake - draws Province, Count, Province, Swindler, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Border Village
+Titandrake - draws Apprentice
+Titandrake - plays Swindler
+Pinguin - reveals Duchy
+Pinguin - trashes Duchy
+Pinguin - gains Duchy
+Titandrake - plays Count
+Titandrake - places Apprentice on top of deck
+Titandrake - takes 3 coins
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Apprentice
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province, Province, Apprentice
+ 
+---------- Pinguin: turn 16 ----------
+Pinguin - plays Border Village
+Pinguin - draws Border Village
+Pinguin - plays Border Village
+Pinguin - draws Silver
+Pinguin - plays Apprentice
+Pinguin - trashes Duchy
+Pinguin - draws Silver, Copper, Rabble
+Pinguin - shuffles deck
+Pinguin - draws Duchy, Estate
+Pinguin - plays Rabble
+Pinguin - draws Rabble, Copper, Duchy
+Titandrake - reveals Swindler, Count, Rabble
+Titandrake - discards: Swindler, Count, Rabble
+Pinguin - plays Rabble
+Pinguin - draws Hunting Grounds, Estate, Border Village
+Titandrake - reveals Border Village, Province, Silver
+Titandrake - discards: Border Village, Silver
+Titandrake - places Province on top of deck
+Pinguin - plays Border Village
+Pinguin - draws Duchy
+Pinguin - plays Hunting Grounds
+Pinguin - draws Rabble, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Apprentice, 2 Border Village, 1 Swindler, 1 Count, 1 Rabble, 3 Silver, 1 Copper, 5 Province
+Titandrake - total victory points: 30
+Titandrake - turns: 15
+ 
+Pinguin - resigned
+Pinguin - cards: 1 Count, 1 Rabble, 3 Copper, 3 Silver, 3 Duchy, 2 Estate
+Pinguin - total victory points: 11
+Pinguin - turns: 15
+ 
+1st place: Titandrake
+2nd place: Pinguin
+ 

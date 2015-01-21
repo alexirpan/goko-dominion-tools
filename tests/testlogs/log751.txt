@@ -1,0 +1,710 @@
+------------ Game Setup ------------
+Supply cards: Warehouse, Bishop, Scout, Golem, Contraband, Highway, Knights, Margrave, Pillage, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+csu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+csu - shuffles deck
+Titandrake - shuffles deck
+csu - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- csu: turn 1 ----------
+csu - plays 4 Copper
+csu - buys Silver
+csu - gains Silver
+csu - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- csu: turn 2 ----------
+csu - plays 3 Copper
+csu - buys Silver
+csu - gains Silver
+csu - shuffles deck
+csu - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- csu: turn 3 ----------
+csu - plays 3 Copper, 1 Silver
+csu - buys Dame Molly
+csu - gains Dame Molly
+csu - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Sir Michael
+Titandrake - gains Sir Michael
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Sir Michael
+ 
+---------- csu: turn 4 ----------
+csu - plays 3 Copper, 1 Silver
+csu - buys Dame Sylvia
+csu - gains Dame Sylvia
+csu - draws Copper, Estate
+csu - shuffles deck
+csu - draws Dame Molly, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Sir Michael
+csu - discards Estate
+csu - discards Copper
+csu - reveals: Silver, Dame Sylvia
+csu - trashes Dame Sylvia
+csu - discards Silver
+Titandrake - trashes Sir Michael
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Sir Martin
+Titandrake - gains Sir Martin
+Titandrake - draws Estate, Copper, Warehouse, Estate, Copper
+ 
+---------- csu: turn 5 ----------
+csu - plays Dame Molly
+Titandrake - reveals: Copper, Estate
+csu - plays 1 Silver, 1 Copper
+csu - buys Warehouse
+csu - gains Warehouse
+csu - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- csu: turn 6 ----------
+csu - plays 3 Copper
+csu - buys Silver
+csu - gains Silver
+csu - draws Copper, Copper
+csu - shuffles deck
+csu - draws Copper, Silver, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Pillage
+Titandrake - gains Pillage
+Titandrake - draws Sir Martin
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper
+ 
+---------- csu: turn 7 ----------
+csu - plays 3 Copper, 1 Silver
+csu - buys Sir Destry
+csu - gains Sir Destry
+csu - draws Copper, Estate, Copper, Warehouse, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Sir Martin
+csu - reveals: Copper, Dame Molly
+csu - trashes Dame Molly
+csu - discards Copper
+Titandrake - trashes Sir Martin
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Silver, Copper, Estate
+ 
+---------- csu: turn 8 ----------
+csu - plays Warehouse
+csu - draws Silver, Silver, Copper
+csu - discards Estate
+csu - discards Estate
+csu - discards Copper
+csu - plays 2 Copper, 2 Silver
+csu - buys Gold
+csu - gains Gold
+csu - shuffles deck
+csu - draws Copper, Estate, Copper, Sir Destry, Warehouse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Silver, Bishop, Pillage, Warehouse
+ 
+---------- csu: turn 9 ----------
+csu - plays Warehouse
+csu - draws Estate, Copper, Estate
+csu - discards Estate
+csu - discards Estate
+csu - discards Estate
+csu - plays Sir Destry
+csu - draws Silver, Gold
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Silver
+Titandrake - trashes Silver
+Titandrake - discards Copper
+csu - plays 3 Copper, 1 Silver, 1 Gold
+csu - buys Province
+csu - gains Province
+csu - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Silver, Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Bishop
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+csu - reveals Copper, Copper, Copper, Copper, Silver
+csu - discards Silver
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Dame Anna
+Titandrake - gains Dame Anna
+Titandrake - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- csu: turn 10 ----------
+csu - plays 4 Copper
+csu - buys Silver
+csu - gains Silver
+csu - draws Silver
+csu - shuffles deck
+csu - draws Warehouse, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Sir Bailey
+Titandrake - gains Sir Bailey
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Spoils, Spoils, Silver
+ 
+---------- csu: turn 11 ----------
+csu - plays Warehouse
+csu - draws Silver, Province, Sir Destry
+csu - discards Estate
+csu - discards Province
+csu - discards Copper
+csu - plays Sir Destry
+csu - draws Gold, Copper
+Titandrake - reveals: Estate, Copper
+csu - plays 2 Silver, 2 Copper, 1 Gold
+csu - buys Province
+csu - gains Province
+csu - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Warehouse, Sir Bailey, Bishop
+ 
+---------- csu: turn 12 ----------
+csu - plays 4 Copper, 1 Silver
+csu - buys Gold
+csu - gains Gold
+csu - draws Estate, Estate, Silver
+csu - shuffles deck
+csu - draws Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Sir Bailey
+Titandrake - draws Silver
+csu - reveals: Sir Destry, Copper
+csu - trashes Sir Destry
+csu - discards Copper
+Titandrake - trashes Sir Bailey
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Estate, Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+csu - trashes Estate
+Titandrake - plays 2 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Estate, Dame Anna
+Titandrake - shuffles deck
+Titandrake - draws Spoils, Copper
+ 
+---------- csu: turn 13 ----------
+csu - plays 2 Copper, 1 Silver
+csu - buys Warehouse
+csu - gains Warehouse
+csu - draws Silver, Silver, Silver, Copper, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Dame Anna
+Titandrake - trashes Estate
+csu - reveals: Copper, Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Copper, Silver, Copper, Gold
+ 
+---------- csu: turn 14 ----------
+csu - plays 3 Silver, 1 Copper, 1 Gold
+csu - buys Province
+csu - gains Province
+csu - draws Gold, Province, Warehouse, Province, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Bishop, Silver, Estate, Silver, Copper
+ 
+---------- csu: turn 15 ----------
+csu - plays Warehouse
+csu - draws Copper
+csu - shuffles deck
+csu - draws Gold, Warehouse
+csu - discards Province
+csu - discards Estate
+csu - discards Province
+csu - plays Warehouse
+csu - draws Copper, Silver, Estate
+csu - discards Estate
+csu - discards Copper
+csu - discards Copper
+csu - plays 2 Gold, 1 Silver
+csu - buys Province
+csu - gains Province
+csu - draws Silver, Silver, Copper, Copper, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Highway, Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- csu: turn 16 ----------
+csu - plays 2 Silver, 2 Copper
+csu - buys Gold
+csu - gains Gold
+csu - draws Silver, Copper, Copper, Copper
+csu - shuffles deck
+csu - draws Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Warehouse
+Titandrake - draws Silver, Highway, Bishop
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+csu - trashes Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Dame Natalie
+Titandrake - gains Dame Natalie
+Titandrake - draws Highway, Copper, Province, Gold, Copper
+ 
+---------- csu: turn 17 ----------
+csu - plays 2 Silver, 2 Copper
+csu - buys Duchy
+csu - gains Duchy
+csu - draws Silver, Province, Province, Warehouse, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Highway
+Titandrake - draws Dame Anna
+Titandrake - plays Dame Anna
+Titandrake - trashes Copper
+csu - reveals: Copper, Estate
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Sir Vander
+Titandrake - gains Sir Vander
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Highway, Copper
+ 
+---------- csu: turn 18 ----------
+csu - plays Warehouse
+csu - draws Copper, Copper, Province
+csu - discards Province
+csu - discards Province
+csu - discards Province
+csu - plays 2 Copper, 1 Silver, 1 Gold
+csu - buys Duchy
+csu - gains Duchy
+csu - draws Warehouse, Silver, Copper, Estate, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Highway
+Titandrake - draws Dame Natalie
+Titandrake - plays Dame Natalie
+Titandrake - gains Bishop
+csu - reveals: Gold, Gold
+csu - trashes Gold
+csu - discards Gold
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Warehouse, Bishop, Copper, Silver, Province
+ 
+---------- csu: turn 19 ----------
+csu - plays Warehouse
+csu - shuffles deck
+csu - draws Silver, Copper, Province
+csu - discards Estate
+csu - discards Province
+csu - discards Province
+csu - plays 2 Silver, 2 Copper
+csu - buys Gold
+csu - gains Gold
+csu - draws Gold, Copper, Warehouse, Silver, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Highway, Sir Vander, Copper
+Titandrake - discards Province
+Titandrake - discards Bishop
+Titandrake - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Dame Anna
+Titandrake - plays Dame Anna
+Titandrake - trashes Copper
+csu - reveals: Copper, Province
+Titandrake - plays 1 Silver
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Silver, Highway, Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Highway
+ 
+---------- csu: turn 20 ----------
+csu - plays Warehouse
+csu - draws Duchy, Gold, Estate
+csu - discards Duchy
+csu - discards Estate
+csu - discards Copper
+csu - plays 2 Gold, 1 Copper, 1 Silver
+csu - buys Province
+csu - gains Province
+csu - draws Copper, Silver, Province, Duchy
+csu - shuffles deck
+csu - draws Duchy
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Highway
+Titandrake - draws Province
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Gold
+Titandrake - plays Copper
+Titandrake - buys Farmland
+Titandrake - trashes Silver
+Titandrake - gains Dame Josephine
+Titandrake - gains Farmland
+Titandrake - draws Silver, Copper, Sir Vander, Copper, Highway
+ 
+---------- csu: turn 21 ----------
+csu - plays 1 Copper, 1 Silver
+csu - buys Warehouse
+csu - gains Warehouse
+csu - draws Copper, Gold, Copper, Silver, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Dame Natalie
+Titandrake - plays Dame Natalie
+Titandrake - gains Highway
+csu - reveals: Gold, Warehouse
+csu - trashes Gold
+csu - discards Warehouse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Warehouse, Bishop, Warehouse, Dame Anna, Bishop
+ 
+---------- csu: turn 22 ----------
+csu - plays 2 Copper, 2 Gold, 1 Silver
+csu - buys Province
+csu - gains Province
+csu - draws Province, Copper, Copper, Province, Estate
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Dame Natalie, Highway
+Titandrake - discards Bishop
+Titandrake - discards Bishop
+Titandrake - discards Dame Anna
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Warehouse
+Titandrake - draws Highway, Copper, Highway
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Sir Vander
+Titandrake - plays Dame Natalie
+Titandrake - gains Gold
+csu - reveals: Province, Copper
+csu - trashes Province
+csu - discards Copper
+Titandrake - draws Gold, Highway, Dame Josephine, Copper, Farmland
+ 
+---------- csu: turn 23 ----------
+csu - plays 2 Copper
+csu - buys Estate
+csu - gains Estate
+csu - draws Estate, Province, Silver, Silver, Warehouse
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Dame Josephine
+csu - shuffles deck
+csu - reveals: Warehouse, Province
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Highway, Highway, Province
+Titandrake - shuffles deck
+Titandrake - draws Highway, Bishop
+ 
+---------- csu: turn 24 ----------
+csu - plays Warehouse
+csu - draws Gold, Duchy, Estate
+csu - discards Duchy
+csu - discards Estate
+csu - discards Province
+csu - plays 2 Silver, 1 Gold
+csu - buys Duchy
+csu - gains Duchy
+csu - draws Silver, Province, Copper, Copper, Warehouse
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Highway
+Titandrake - draws Gold
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Dame Anna
+Titandrake - plays Dame Anna
+csu - reveals: Province, Copper
+csu - trashes Province
+csu - discards Copper
+Titandrake - plays Gold
+Titandrake - buys Farmland
+Titandrake - trashes Copper
+Titandrake - gains Duchy
+Titandrake - gains Farmland
+Titandrake - draws Dame Josephine, Silver, Duchy, Bishop, Copper
+ 
+---------- csu: turn 25 ----------
+csu - plays Warehouse
+csu - draws Gold, Copper, Province
+csu - discards Province
+csu - discards Province
+csu - discards Copper
+csu - plays 2 Copper, 1 Silver, 1 Gold
+csu - buys Duchy
+csu - gains Duchy
+csu - draws Copper, Silver, Copper, Duchy, Estate
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+csu - trashes Copper
+Titandrake - plays 1 Silver
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Highway, Copper, Dame Natalie, Gold, Sir Vander
+ 
+---------- csu: turn 26 ----------
+csu - plays 1 Silver, 1 Copper
+csu - buys Silver
+csu - gains Silver
+csu - shuffles deck
+csu - draws Estate, Gold, Warehouse, Province, Copper
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Sir Vander
+csu - reveals: Estate, Gold
+csu - trashes Gold
+csu - discards Estate
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Warehouse, Highway, Copper, Highway, Farmland
+ 
+---------- csu: turn 27 ----------
+csu - plays Warehouse
+csu - draws Province, Copper, Warehouse
+csu - discards Province
+csu - discards Estate
+csu - discards Province
+csu - plays Warehouse
+csu - draws Silver, Duchy, Warehouse
+csu - discards Duchy
+csu - discards Warehouse
+csu - discards Copper
+csu - plays 1 Gold, 1 Copper, 1 Silver
+csu - buys Duchy
+csu - gains Duchy
+csu - draws Silver, Copper, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Highway
+Titandrake - draws Warehouse
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Gold
+Titandrake - plays Warehouse
+Titandrake - draws Province, Duchy, Sir Vander
+Titandrake - discards Farmland
+Titandrake - discards Province
+Titandrake - discards Duchy
+Titandrake - plays Sir Vander
+csu - reveals: Duchy, Province
+csu - trashes Province
+csu - discards Duchy
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Farmland
+Titandrake - trashes Warehouse
+Titandrake - gains Duchy
+Titandrake - gains Farmland
+Titandrake - draws Warehouse, Farmland, Highway, Highway, Gold
+ 
+---------- csu: turn 28 ----------
+csu - plays 2 Silver, 2 Copper
+csu - buys Gold
+csu - gains Gold
+csu - draws Copper, Duchy, Silver, Silver, Duchy
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays Highway
+Titandrake - draws Dame Josephine
+Titandrake - plays Highway
+Titandrake - draws Duchy
+Titandrake - plays Warehouse
+Titandrake - draws Silver, Copper, Bishop
+Titandrake - discards Duchy
+Titandrake - discards Farmland
+Titandrake - discards Bishop
+Titandrake - plays Dame Josephine
+csu - reveals: Province
+csu - shuffles deck
+csu - reveals: Gold
+csu - trashes Gold
+csu - discards Province
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Farmland
+Titandrake - gains Farmland
+Titandrake - draws Dame Natalie, Gold, Dame Anna, Bishop, Highway
+ 
+---------- csu: turn 29 ----------
+csu - plays 2 Silver, 1 Copper
+csu - buys Margrave
+csu - gains Margrave
+csu - draws Silver, Estate, Warehouse, Estate, Province
+ 
+---------- Titandrake: turn 30 ----------
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Bishop
+Titandrake - trashes Silver
+Titandrake - receives 1 victory point chips
+Titandrake - plays 1 Gold
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Farmland, Warehouse, Highway, Highway
+ 
+---------- csu: turn 30 ----------
+csu - plays Warehouse
+csu - draws Duchy, Duchy, Copper
+csu - discards Province
+csu - discards Duchy
+csu - discards Duchy
+csu - plays 1 Silver, 1 Copper
+csu - buys Estate
+csu - gains Estate
+csu - draws Province, Duchy, Warehouse, Copper, Copper
+ 
+---------- Titandrake: turn 31 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Bishop
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Warehouse
+Titandrake - draws Duchy, Highway, Province
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - discards Province
+Titandrake - plays Highway
+Titandrake - draws Dame Josephine
+Titandrake - plays Bishop
+Titandrake - trashes Dame Josephine
+Titandrake - receives 0 victory point chips
+Titandrake - plays 1 Copper
+Titandrake - buys Farmland
+Titandrake - trashes Farmland
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - draws Dame Anna, Highway, Highway, Warehouse, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Highway, 2 Warehouse, 2 Bishop, 1 Dame Anna, 1 Sir Vander, 1 Dame Natalie, 3 Gold, 2 Copper, 1 Silver, 4 Farmland, 3 Duchy, 2 Province
+Titandrake - victory point chips: 9
+Titandrake - total victory points: 38
+Titandrake - turns: 31
+ 
+csu - cards: 3 Warehouse, 1 Margrave, 5 Copper, 5 Silver, 1 Gold, 5 Duchy, 4 Estate, 3 Province
+csu - victory point chips: 0
+csu - total victory points: 37
+csu - turns: 30
+ 
+1st place: Titandrake
+2nd place: csu
+ 

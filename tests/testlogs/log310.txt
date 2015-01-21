@@ -1,0 +1,652 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Alchemist, Feast, Rats, Tournament, Horn of Plenty, Inn, Laboratory, Mint, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+2.71828..... - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+2.71828..... - shuffles deck
+Titandrake - shuffles deck
+2.71828..... - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- 2.71828.....: turn 1 ----------
+2.71828..... - plays 4 Copper
+2.71828..... - buys Tournament
+2.71828..... - gains Tournament
+2.71828..... - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- 2.71828.....: turn 2 ----------
+2.71828..... - plays 3 Copper
+2.71828..... - buys Silver
+2.71828..... - gains Silver
+2.71828..... - shuffles deck
+2.71828..... - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- 2.71828.....: turn 3 ----------
+2.71828..... - plays 5 Copper
+2.71828..... - buys Mint
+2.71828..... - trashes Copper, Copper, Copper, Copper, Copper
+2.71828..... - gains Mint
+2.71828..... - draws Estate, Silver, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Estate
+ 
+---------- 2.71828.....: turn 4 ----------
+2.71828..... - plays 2 Copper, 1 Silver
+2.71828..... - buys Tournament
+2.71828..... - gains Tournament
+2.71828..... - draws Tournament, Estate
+2.71828..... - shuffles deck
+2.71828..... - draws Estate, Mint, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Silver, Estate, Torturer
+ 
+---------- 2.71828.....: turn 5 ----------
+2.71828..... - plays Tournament
+2.71828..... - draws Copper
+2.71828..... - plays Mint
+2.71828..... - reveals Silver
+2.71828..... - gains Silver
+2.71828..... - plays 1 Copper, 1 Silver
+2.71828..... - buys Tournament
+2.71828..... - gains Tournament
+2.71828..... - draws Copper, Tournament, Estate
+2.71828..... - shuffles deck
+2.71828..... - draws Silver, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Torturer
+Titandrake - draws Copper, Copper, Copper
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver, Gold
+ 
+---------- 2.71828.....: turn 6 ----------
+2.71828..... - plays Tournament
+2.71828..... - draws Copper
+2.71828..... - plays 2 Copper, 1 Silver
+2.71828..... - buys Laboratory
+2.71828..... - gains Laboratory
+2.71828..... - draws Mint, Tournament, Silver, Estate, Tournament
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Tournament, Silver, Torturer, Estate, Copper
+ 
+---------- 2.71828.....: turn 7 ----------
+2.71828..... - plays Tournament
+2.71828..... - shuffles deck
+2.71828..... - draws Copper
+2.71828..... - plays Tournament
+2.71828..... - draws Laboratory
+2.71828..... - plays Laboratory
+2.71828..... - draws Copper, Tournament
+2.71828..... - plays Tournament
+2.71828..... - draws Estate
+2.71828..... - plays 2 Copper, 1 Silver
+2.71828..... - buys Laboratory
+2.71828..... - gains Laboratory
+2.71828..... - draws Estate, Silver
+2.71828..... - shuffles deck
+2.71828..... - draws Mint, Estate, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Copper, Copper, Estate
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Mint
+Titandrake - trashes Copper, Copper, Copper, Copper
+Titandrake - gains Mint
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Gold
+ 
+---------- 2.71828.....: turn 8 ----------
+2.71828..... - plays 1 Silver
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - draws Laboratory, Tournament, Copper, Silver, Tournament
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Province, Mint, Tournament, Silver
+ 
+---------- 2.71828.....: turn 9 ----------
+2.71828..... - plays Tournament
+Titandrake - reveals Province
+2.71828..... - plays Laboratory
+2.71828..... - draws Tournament, Copper
+2.71828..... - plays 2 Copper, 1 Silver
+2.71828..... - buys Silver
+2.71828..... - gains Silver
+2.71828..... - draws Laboratory
+2.71828..... - shuffles deck
+2.71828..... - draws Estate, Tournament, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Followers
+Titandrake - draws Followers
+Titandrake - plays Followers
+Titandrake - draws Estate, Estate
+Titandrake - gains Estate
+2.71828..... - gains Curse
+2.71828..... - discards Estate
+2.71828..... - discards Copper
+Titandrake - plays Silver
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Torturer
+Titandrake - shuffles deck
+Titandrake - draws Silver, Mint, Estate
+ 
+---------- 2.71828.....: turn 10 ----------
+2.71828..... - plays Laboratory
+2.71828..... - draws Silver, Vagrant
+2.71828..... - plays Tournament
+2.71828..... - draws Laboratory
+2.71828..... - plays Laboratory
+2.71828..... - draws Silver, Estate
+2.71828..... - plays Vagrant
+2.71828..... - draws Tournament
+2.71828..... - reveals: Mint
+2.71828..... - places Mint on top of deck
+2.71828..... - plays Tournament
+2.71828..... - draws Mint
+2.71828..... - plays 3 Silver
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - draws Copper, Estate, Tournament
+2.71828..... - shuffles deck
+2.71828..... - draws Copper, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Torturer
+Titandrake - draws Estate, Estate, Tournament
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Vagrant, Gold, Copper, Estate, Province
+ 
+---------- 2.71828.....: turn 11 ----------
+2.71828..... - plays Tournament
+Titandrake - reveals Province
+2.71828..... - plays 2 Copper
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - draws Silver, Vagrant, Curse, Silver, Province
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Province
+Titandrake - reveals: Followers
+Titandrake - places Followers on top of deck
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Followers, Silver, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- 2.71828.....: turn 12 ----------
+2.71828..... - plays Vagrant
+2.71828..... - draws Tournament
+2.71828..... - reveals: Laboratory
+2.71828..... - places Laboratory on top of deck
+2.71828..... - plays Tournament
+2.71828..... - reveals Province
+2.71828..... - discards Province
+2.71828..... - gains Trusty Steed
+2.71828..... - draws Trusty Steed
+2.71828..... - plays Trusty Steed
+2.71828..... - takes 2 actions
+2.71828..... - draws Laboratory, Estate
+2.71828..... - plays Laboratory
+2.71828..... - draws Silver, Laboratory
+2.71828..... - plays Laboratory
+2.71828..... - draws Tournament, Mint
+2.71828..... - plays Tournament
+2.71828..... - shuffles deck
+2.71828..... - draws Copper
+2.71828..... - plays 3 Silver, 1 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - draws Vagrant, Province, Tournament, Estate, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Followers
+Titandrake - draws Copper, Province
+Titandrake - gains Estate
+2.71828..... - gains Curse
+2.71828..... - discards Copper
+2.71828..... - discards Estate
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province, Mint, Silver, Torturer, Estate
+ 
+---------- 2.71828.....: turn 13 ----------
+2.71828..... - plays Tournament
+2.71828..... - reveals Province
+Titandrake - reveals Province
+2.71828..... - discards Province
+2.71828..... - gains Princess
+2.71828..... - plays Vagrant
+2.71828..... - draws Princess
+2.71828..... - reveals: Estate
+2.71828..... - places Estate in hand
+2.71828..... - plays Princess
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - shuffles deck
+2.71828..... - draws Silver, Curse, Laboratory, Silver, Vagrant
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Torturer
+Titandrake - draws Estate, Silver, Vagrant
+2.71828..... - discards Curse
+2.71828..... - discards Vagrant
+Titandrake - plays 2 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Gold, Tournament, Estate, Tournament, Estate
+ 
+---------- 2.71828.....: turn 14 ----------
+2.71828..... - plays Laboratory
+2.71828..... - draws Copper, Tournament
+2.71828..... - plays Tournament
+2.71828..... - draws Trusty Steed
+2.71828..... - plays Trusty Steed
+2.71828..... - takes 2 actions
+2.71828..... - draws Mint, Estate
+2.71828..... - plays Mint
+2.71828..... - reveals Silver
+2.71828..... - gains Silver
+2.71828..... - plays 2 Silver, 1 Copper
+2.71828..... - buys Inn
+2.71828..... - gains Inn
+2.71828..... - places Vagrant, Inn on top of deck
+2.71828..... - shuffles deck
+2.71828..... - draws Vagrant, Province, Curse, Copper, Vagrant
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Tournament
+2.71828..... - reveals Province
+Titandrake - plays Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Tournament, Province, Gold
+ 
+---------- 2.71828.....: turn 15 ----------
+2.71828..... - plays Vagrant
+2.71828..... - draws Inn
+2.71828..... - reveals: Laboratory
+2.71828..... - places Laboratory on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Laboratory
+2.71828..... - reveals: Princess
+2.71828..... - places Princess on top of deck
+2.71828..... - plays Laboratory
+2.71828..... - draws Princess, Vagrant
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - reveals: Tournament
+2.71828..... - places Tournament on top of deck
+2.71828..... - plays Inn
+2.71828..... - draws Tournament, Estate
+2.71828..... - discards Curse
+2.71828..... - discards Estate
+2.71828..... - plays Tournament
+2.71828..... - reveals Province
+Titandrake - reveals Province
+2.71828..... - discards Province
+2.71828..... - gains Bag of Gold
+2.71828..... - plays Princess
+2.71828..... - plays 1 Copper
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - draws Bag of Gold, Vagrant, Province, Tournament, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Tournament
+2.71828..... - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Province, Inn, Copper, Mint, Copper
+ 
+---------- 2.71828.....: turn 16 ----------
+2.71828..... - plays Tournament
+2.71828..... - reveals Province
+Titandrake - reveals Province
+2.71828..... - discards Province
+2.71828..... - gains Duchy
+2.71828..... - plays Bag of Gold
+2.71828..... - gains Gold
+2.71828..... - plays Vagrant
+2.71828..... - draws Gold
+2.71828..... - reveals: Duchy
+2.71828..... - places Duchy in hand
+2.71828..... - plays 1 Silver, 1 Gold
+2.71828..... - buys Inn
+2.71828..... - gains Inn
+2.71828..... - places Trusty Steed, Laboratory, Laboratory, Princess, Tournament, Tournament, Inn on top of deck
+2.71828..... - shuffles deck
+2.71828..... - draws Inn, Tournament, Laboratory, Princess, Tournament
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Inn
+Titandrake - draws Tournament, Silver
+Titandrake - discards Mint
+Titandrake - discards Copper
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Diadem
+Titandrake - draws Diadem
+Titandrake - plays 1 Copper, 1 Silver, 1 Diadem
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Silver, Copper, Estate, Estate
+ 
+---------- 2.71828.....: turn 17 ----------
+2.71828..... - plays Laboratory
+2.71828..... - draws Trusty Steed, Laboratory
+2.71828..... - plays Laboratory
+2.71828..... - shuffles deck
+2.71828..... - draws Silver, Province
+2.71828..... - plays Tournament
+2.71828..... - reveals Province
+2.71828..... - discards Province
+2.71828..... - gains Duchy
+2.71828..... - draws Duchy
+2.71828..... - plays Inn
+2.71828..... - draws Mint, Silver
+2.71828..... - discards Duchy
+2.71828..... - discards Mint
+2.71828..... - plays Trusty Steed
+2.71828..... - takes 2 coins
+2.71828..... - draws Vagrant, Vagrant
+2.71828..... - plays Vagrant
+2.71828..... - draws Estate
+2.71828..... - reveals: Silver
+2.71828..... - places Silver on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Silver
+2.71828..... - reveals: Curse
+2.71828..... - places Curse in hand
+2.71828..... - plays Tournament
+2.71828..... - draws Vagrant
+2.71828..... - plays Vagrant
+2.71828..... - draws Inn
+2.71828..... - reveals: Province
+2.71828..... - places Province in hand
+2.71828..... - plays Inn
+2.71828..... - draws Vagrant, Vagrant
+2.71828..... - discards Curse
+2.71828..... - discards Estate
+2.71828..... - plays Vagrant
+2.71828..... - draws Duchy
+2.71828..... - reveals: Estate
+2.71828..... - places Estate in hand
+2.71828..... - plays Vagrant
+2.71828..... - draws Vagrant
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Copper
+2.71828..... - reveals: Bag of Gold
+2.71828..... - places Bag of Gold on top of deck
+2.71828..... - plays Princess
+2.71828..... - plays 3 Silver, 1 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - buys Duchy
+2.71828..... - gains Duchy
+2.71828..... - draws Bag of Gold, Curse, Silver, Gold, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Silver, Duchy, Tournament, Torturer
+ 
+---------- 2.71828.....: turn 18 ----------
+2.71828..... - plays Bag of Gold
+2.71828..... - gains Gold
+2.71828..... - plays 1 Silver, 1 Gold, 1 Copper
+2.71828..... - buys Inn
+2.71828..... - gains Inn
+2.71828..... - places Laboratory, Laboratory, Tournament, Trusty Steed, Tournament, Princess, Inn on top of deck
+2.71828..... - shuffles deck
+2.71828..... - draws Tournament, Estate, Laboratory, Gold, Trusty Steed
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Tournament
+Titandrake - draws Gold
+Titandrake - plays Torturer
+Titandrake - draws Estate, Vagrant, Followers
+2.71828..... - gains Curse
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Silver, Inn, Estate, Tournament
+ 
+---------- 2.71828.....: turn 19 ----------
+2.71828..... - plays Laboratory
+2.71828..... - draws Laboratory, Princess
+2.71828..... - plays Laboratory
+2.71828..... - draws Inn, Tournament
+2.71828..... - plays Inn
+2.71828..... - draws Tournament
+2.71828..... - shuffles deck
+2.71828..... - draws Estate
+2.71828..... - discards Estate
+2.71828..... - discards Estate
+2.71828..... - plays Trusty Steed
+2.71828..... - takes 2 coins
+2.71828..... - draws Province, Province
+2.71828..... - plays Tournament
+2.71828..... - reveals Province
+2.71828..... - discards Province
+2.71828..... - gains Duchy
+2.71828..... - draws Duchy
+2.71828..... - plays Tournament
+2.71828..... - reveals Province
+2.71828..... - discards Province
+2.71828..... - gains Duchy
+2.71828..... - draws Duchy
+2.71828..... - plays Tournament
+2.71828..... - draws Vagrant
+2.71828..... - plays Vagrant
+2.71828..... - draws Curse
+2.71828..... - reveals: Duchy
+2.71828..... - places Duchy in hand
+2.71828..... - plays Princess
+2.71828..... - plays 1 Gold
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - buys Estate
+2.71828..... - gains Estate
+2.71828..... - draws Vagrant, Estate, Copper, Vagrant, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Inn
+Titandrake - draws Silver, Estate
+Titandrake - discards Duchy
+Titandrake - discards Estate
+Titandrake - plays Tournament
+2.71828..... - reveals Province
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Silver, Followers, Vagrant, Province
+ 
+---------- 2.71828.....: turn 20 ----------
+2.71828..... - plays Vagrant
+2.71828..... - draws Inn
+2.71828..... - reveals: Duchy
+2.71828..... - places Duchy in hand
+2.71828..... - plays Inn
+2.71828..... - draws Silver, Duchy
+2.71828..... - discards Estate
+2.71828..... - discards Duchy
+2.71828..... - plays Vagrant
+2.71828..... - draws Vagrant
+2.71828..... - reveals: Silver
+2.71828..... - places Silver on top of deck
+2.71828..... - plays Vagrant
+2.71828..... - draws Silver
+2.71828..... - reveals: Silver
+2.71828..... - places Silver on top of deck
+2.71828..... - plays 2 Silver, 1 Copper
+2.71828..... - buys Duchy
+2.71828..... - gains Duchy
+2.71828..... - draws Silver, Vagrant, Silver, Inn, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Province
+Titandrake - reveals: Torturer
+Titandrake - places Torturer on top of deck
+Titandrake - plays Followers
+Titandrake - draws Torturer, Gold
+Titandrake - gains Estate
+2.71828..... - gains Curse
+2.71828..... - discards Inn
+2.71828..... - discards Vagrant
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Tournament, Inn, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Diadem, Mint, Estate, Gold, Estate
+ 
+---------- 2.71828.....: turn 21 ----------
+2.71828..... - plays 2 Silver, 1 Copper
+2.71828..... - buys Inn
+2.71828..... - gains Inn
+2.71828..... - places Laboratory, Laboratory, Trusty Steed, Tournament, Tournament, Tournament, Princess, Inn on top of deck
+2.71828..... - shuffles deck
+2.71828..... - draws Curse, Mint, Bag of Gold, Tournament, Laboratory
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Gold
+Titandrake - plays Diadem
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Vagrant, Followers, Inn, Torturer on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Copper, Inn, Tournament, Inn, Duchy
+ 
+---------- 2.71828.....: turn 22 ----------
+2.71828..... - plays Laboratory
+2.71828..... - draws Vagrant, Laboratory
+2.71828..... - plays Laboratory
+2.71828..... - draws Gold, Princess
+2.71828..... - plays Vagrant
+2.71828..... - draws Inn
+2.71828..... - reveals: Tournament
+2.71828..... - places Tournament on top of deck
+2.71828..... - plays Bag of Gold
+2.71828..... - gains Gold
+2.71828..... - plays Tournament
+2.71828..... - draws Gold
+2.71828..... - plays Inn
+2.71828..... - draws Tournament, Tournament
+2.71828..... - discards Curse
+2.71828..... - discards Mint
+2.71828..... - plays Tournament
+2.71828..... - draws Trusty Steed
+2.71828..... - plays Tournament
+2.71828..... - shuffles deck
+2.71828..... - draws Vagrant
+2.71828..... - plays Vagrant
+2.71828..... - draws Silver
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Trusty Steed
+2.71828..... - takes 2 coins
+2.71828..... - draws Copper, Curse
+2.71828..... - plays Princess
+2.71828..... - plays 2 Gold, 1 Silver, 1 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - buys Estate
+2.71828..... - gains Estate
+2.71828..... - draws Province, Duchy, Curse, Inn, Copper
+ 
+------------ Game Over ------------
+2.71828..... - cards: 6 Vagrant, 4 Inn, 3 Tournament, 2 Laboratory, 1 Bag of Gold, 1 Trusty Steed, 1 Princess, 1 Mint, 4 Silver, 3 Gold, 2 Copper, 6 Duchy, 5 Province, 5 Estate, 4 Curse
+2.71828..... - total victory points: 49
+2.71828..... - turns: 22
+ 
+Titandrake - cards: 3 Inn, 3 Tournament, 1 Mint, 1 Vagrant, 1 Followers, 1 Torturer, 5 Silver, 3 Copper, 3 Gold, 1 Diadem, 8 Estate, 3 Province, 2 Duchy
+Titandrake - total victory points: 32
+Titandrake - turns: 22
+ 
+1st place: 2.71828.....
+2nd place: Titandrake
+ 

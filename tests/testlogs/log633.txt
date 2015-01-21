@@ -1,0 +1,512 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Duchess, Scrying Pool, Smugglers, Village, Wishing Well, Cutpurse, Death Cart, Gardens, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Pinguin - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Pinguin - shuffles deck
+Titandrake - shuffles deck
+Pinguin - draws Estate, Estate, Copper, Estate, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Pinguin: turn 1 ----------
+Pinguin - plays 2 Copper
+Pinguin - buys Courtyard
+Pinguin - gains Courtyard
+Pinguin - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Smugglers
+Titandrake - gains Smugglers
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Pinguin: turn 2 ----------
+Pinguin - plays 5 Copper
+Pinguin - buys Mine
+Pinguin - gains Mine
+Pinguin - shuffles deck
+Pinguin - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - gains Ruined Village
+Titandrake - gains Ruined Market
+Titandrake - shuffles deck
+Titandrake - draws Ruined Village, Estate, Ruined Market, Copper, Death Cart
+ 
+---------- Pinguin: turn 3 ----------
+Pinguin - plays 3 Copper
+Pinguin - buys Village
+Pinguin - gains Village
+Pinguin - draws Copper, Mine, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Ruined Market
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Pinguin: turn 4 ----------
+Pinguin - plays Mine
+Pinguin - trashes Copper
+Pinguin - gains Silver
+Pinguin - plays 3 Copper, 1 Silver
+Pinguin - buys Potion
+Pinguin - gains Potion
+Pinguin - draws Estate, Courtyard
+Pinguin - shuffles deck
+Pinguin - draws Copper, Copper, Mine
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - gains Ruined Library
+Titandrake - gains Survivors
+Titandrake - draws Estate, Copper, Copper, Smugglers
+Titandrake - shuffles deck
+Titandrake - draws Ruined Village
+ 
+---------- Pinguin: turn 5 ----------
+Pinguin - plays Mine
+Pinguin - trashes Copper
+Pinguin - gains Silver
+Pinguin - plays 1 Copper, 1 Silver
+Pinguin - buys Village
+Pinguin - gains Village
+Pinguin - draws Silver, Estate, Copper, Village, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Smugglers
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Death Cart, Ruined Library, Ruined Market, Copper, Copper
+ 
+---------- Pinguin: turn 6 ----------
+Pinguin - plays Village
+Pinguin - draws Copper
+Pinguin - plays 2 Copper, 1 Silver
+Pinguin - buys Gardens
+Pinguin - gains Gardens
+Pinguin - draws Copper, Potion, Copper
+Pinguin - shuffles deck
+Pinguin - draws Estate, Village
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Death Cart
+Titandrake - trashes Ruined Library
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Copper, Estate, Estate, Copper, Death Cart
+ 
+---------- Pinguin: turn 7 ----------
+Pinguin - plays Village
+Pinguin - draws Mine
+Pinguin - plays Mine
+Pinguin - trashes Copper
+Pinguin - gains Silver
+Pinguin - plays 1 Copper, 1 Potion, 1 Silver
+Pinguin - buys Scrying Pool
+Pinguin - gains Scrying Pool
+Pinguin - draws Copper, Courtyard, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Death Cart
+Titandrake - trashes Death Cart
+Titandrake - plays 2 Copper
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Copper, Copper, Copper, Survivors
+Titandrake - shuffles deck
+Titandrake - draws Gardens
+ 
+---------- Pinguin: turn 8 ----------
+Pinguin - plays 3 Copper, 1 Silver
+Pinguin - buys Gardens
+Pinguin - gains Gardens
+Pinguin - draws Estate, Gardens, Estate, Village, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Ruined Market, Ruined Village
+Titandrake - discards: Ruined Market, Ruined Village
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Smugglers, Copper, Death Cart, Estate, Copper
+ 
+---------- Pinguin: turn 9 ----------
+Pinguin - plays Village
+Pinguin - shuffles deck
+Pinguin - draws Estate
+Pinguin - plays 1 Silver
+Pinguin - buys Courtyard
+Pinguin - gains Courtyard
+Pinguin - draws Courtyard, Mine, Silver, Village, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Death Cart
+Titandrake - trashes Death Cart
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Estate, Gardens, Estate, Copper, Courtyard
+ 
+---------- Pinguin: turn 10 ----------
+Pinguin - plays Village
+Pinguin - draws Copper
+Pinguin - plays Courtyard
+Pinguin - draws Silver, Gardens, Copper
+Pinguin - places Gardens on top of deck
+Pinguin - plays Mine
+Pinguin - trashes Silver
+Pinguin - gains Gold
+Pinguin - plays 3 Copper, 1 Silver, 1 Gold
+Pinguin - buys Province
+Pinguin - gains Province
+Pinguin - draws Gardens, Potion, Scrying Pool, Copper
+Pinguin - shuffles deck
+Pinguin - draws Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Silver, Copper, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Survivors, Copper
+ 
+---------- Pinguin: turn 11 ----------
+Pinguin - plays Scrying Pool
+Pinguin - discards Estate
+Titandrake - places Gardens on top of deck
+Pinguin - reveals Silver
+Pinguin - plays 1 Potion, 1 Copper, 1 Silver
+Pinguin - buys Scrying Pool
+Pinguin - gains Scrying Pool
+Pinguin - draws Copper, Gold, Copper, Village, Courtyard
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Gardens, Ruined Village
+Titandrake - discards: Gardens, Ruined Village
+Titandrake - plays 3 Copper
+Titandrake - buys Smugglers
+Titandrake - gains Smugglers
+Titandrake - draws Copper, Estate, Ruined Market, Silver, Copper
+ 
+---------- Pinguin: turn 12 ----------
+Pinguin - plays Village
+Pinguin - draws Copper
+Pinguin - plays Courtyard
+Pinguin - draws Silver, Estate, Province
+Pinguin - places Gold on top of deck
+Pinguin - plays 3 Copper, 1 Silver
+Pinguin - buys Gardens
+Pinguin - gains Gardens
+Pinguin - draws Gold, Courtyard, Mine, Gardens, Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ruined Market
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - buys Ruined Market
+Titandrake - gains Ruined Market
+Titandrake - draws Copper, Gardens, Gardens, Courtyard, Copper
+ 
+---------- Pinguin: turn 13 ----------
+Pinguin - plays Village
+Pinguin - shuffles deck
+Pinguin - draws Copper
+Pinguin - plays Courtyard
+Pinguin - draws Silver, Province, Silver
+Pinguin - places Copper on top of deck
+Pinguin - plays Mine
+Pinguin - trashes Silver
+Pinguin - gains Gold
+Pinguin - plays 2 Gold, 1 Silver
+Pinguin - buys Province
+Pinguin - gains Province
+Pinguin - draws Copper, Estate, Courtyard, Estate, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Gardens, Silver, Smugglers
+Titandrake - places Smugglers on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - gains Ruined Library
+Titandrake - gains Ruined Village
+Titandrake - draws Smugglers, Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Pinguin: turn 14 ----------
+Pinguin - plays Courtyard
+Pinguin - draws Copper, Scrying Pool, Gardens
+Pinguin - places Scrying Pool on top of deck
+Pinguin - plays 3 Copper
+Pinguin - buys Village
+Pinguin - gains Village
+Pinguin - draws Scrying Pool, Copper, Potion, Scrying Pool, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Smugglers
+Titandrake - gains Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - gains Ruined Library
+Titandrake - gains Ruined Village
+Titandrake - draws Copper, Gardens, Ruined Library, Copper, Copper
+ 
+---------- Pinguin: turn 15 ----------
+Pinguin - plays Scrying Pool
+Pinguin - discards Gardens
+Titandrake - discards Ruined Market
+Pinguin - shuffles deck
+Pinguin - reveals Village, Village, Gardens
+Pinguin - plays Village
+Pinguin - draws Gold
+Pinguin - plays Village
+Pinguin - draws Province
+Pinguin - plays Scrying Pool
+Pinguin - discards Estate
+Titandrake - places Estate on top of deck
+Pinguin - reveals Province
+Pinguin - plays 1 Copper, 1 Potion, 1 Gold
+Pinguin - buys Scrying Pool
+Pinguin - gains Scrying Pool
+Pinguin - draws Silver, Estate, Gold, Gardens, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ruined Library
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Gardens, Ruined Market, Survivors, Estate, Death Cart
+ 
+---------- Pinguin: turn 16 ----------
+Pinguin - plays 1 Silver, 1 Gold, 1 Copper
+Pinguin - buys Duchy
+Pinguin - gains Duchy
+Pinguin - draws Village, Mine, Courtyard, Courtyard, Gardens
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Death Cart
+Titandrake - trashes Survivors
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - gains Duchess
+Titandrake - draws Smugglers, Copper, Ruined Village, Gardens, Silver
+ 
+---------- Pinguin: turn 17 ----------
+Pinguin - plays Village
+Pinguin - draws Copper
+Pinguin - plays Courtyard
+Pinguin - draws Copper
+Pinguin - shuffles deck
+Pinguin - draws Gardens, Scrying Pool
+Pinguin - places Courtyard on top of deck
+Pinguin - plays Scrying Pool
+Pinguin - places Courtyard on top of deck
+Titandrake - discards Copper
+Pinguin - reveals Courtyard, Copper
+Pinguin - plays Courtyard
+Pinguin - draws Estate, Province, Potion
+Pinguin - places Mine on top of deck
+Pinguin - plays 3 Copper, 1 Potion
+Pinguin - buys Scrying Pool
+Pinguin - gains Scrying Pool
+Pinguin - draws Mine, Duchy, Scrying Pool, Estate, Gardens
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Smugglers
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Gardens, Copper, Gardens, Copper, Courtyard
+ 
+---------- Pinguin: turn 18 ----------
+Pinguin - plays Scrying Pool
+Pinguin - places Copper on top of deck
+Titandrake - places Ruined Village on top of deck
+Pinguin - reveals Copper
+Pinguin - plays Mine
+Pinguin - trashes Copper
+Pinguin - gains Silver
+Pinguin - plays 1 Silver
+Pinguin - buys Estate
+Pinguin - gains Estate
+Pinguin - draws Gold, Gold, Province, Estate, Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Ruined Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gardens
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Estate, Ruined Village, Village, Ruined Library
+ 
+---------- Pinguin: turn 19 ----------
+Pinguin - plays Village
+Pinguin - draws Village
+Pinguin - plays Village
+Pinguin - draws Scrying Pool
+Pinguin - plays Scrying Pool
+Pinguin - places Silver on top of deck
+Titandrake - discards Death Cart
+Pinguin - reveals Silver
+Pinguin - plays 2 Gold, 1 Silver
+Pinguin - buys Province
+Pinguin - gains Province
+Pinguin - shuffles deck
+Pinguin - draws Estate, Scrying Pool, Duchy, Estate, Village
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Ruined Library
+Titandrake - draws Gardens
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Ruined Market, Smugglers, Smugglers, Ruined Library, Copper
+ 
+---------- Pinguin: turn 20 ----------
+Pinguin - plays Scrying Pool
+Pinguin - discards Copper
+Titandrake - discards Copper
+Pinguin - reveals Estate
+Pinguin - plays Village
+Pinguin - draws Gold
+Pinguin - plays 1 Gold
+Pinguin - buys Estate
+Pinguin - gains Estate
+Pinguin - draws Gardens, Copper, Gardens, Mine, Gardens
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Smugglers
+Titandrake - gains Estate
+Titandrake - buys Ruined Market
+Titandrake - gains Ruined Market
+Titandrake - draws Ruined Market, Silver, Death Cart, Copper, Estate
+ 
+---------- Pinguin: turn 21 ----------
+Pinguin - plays Mine
+Pinguin - trashes Copper
+Pinguin - gains Silver
+Pinguin - plays 1 Silver
+Pinguin - buys Estate
+Pinguin - gains Estate
+Pinguin - draws Gold, Courtyard, Scrying Pool, Village, Province
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Death Cart
+Titandrake - trashes Ruined Market
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Gardens, Duchy, Duchess, Estate
+ 
+---------- Pinguin: turn 22 ----------
+Pinguin - plays Scrying Pool
+Pinguin - places Silver on top of deck
+Titandrake - places Ruined Village on top of deck
+Pinguin - reveals Silver
+Pinguin - plays Village
+Pinguin - draws Scrying Pool
+Pinguin - plays Scrying Pool
+Pinguin - places Scrying Pool on top of deck
+Titandrake - places Ruined Village on top of deck
+Pinguin - reveals Scrying Pool, Potion
+Pinguin - plays Scrying Pool
+Pinguin - discards Estate
+Titandrake - places Ruined Village on top of deck
+Pinguin - reveals Province
+Pinguin - plays Courtyard
+Pinguin - draws Province, Copper, Silver
+Pinguin - places Potion on top of deck
+Pinguin - plays 2 Silver, 1 Gold, 1 Copper
+Pinguin - buys Province
+Pinguin - gains Province
+Pinguin - draws Potion, Village, Courtyard
+Pinguin - shuffles deck
+Pinguin - draws Duchy, Estate
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Duchess
+Titandrake - discards Ruined Village
+Pinguin - places Silver on top of deck
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Silver, Village, Village
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Pinguin: turn 23 ----------
+Pinguin - plays Village
+Pinguin - draws Silver
+Pinguin - plays Courtyard
+Pinguin - draws Scrying Pool, Copper, Scrying Pool
+Pinguin - places Estate on top of deck
+Pinguin - plays Scrying Pool
+Pinguin - discards Estate
+Titandrake - discards Death Cart
+Pinguin - reveals Village, Courtyard, Silver
+Pinguin - plays Scrying Pool
+Pinguin - discards Estate
+Titandrake - places Gardens on top of deck
+Pinguin - reveals Province
+Pinguin - plays Village
+Pinguin - draws Gardens
+Pinguin - plays Courtyard
+Pinguin - draws Gold, Scrying Pool, Estate
+Pinguin - places Gardens on top of deck
+Pinguin - plays Scrying Pool
+Pinguin - discards Gardens
+Titandrake - places Gardens on top of deck
+Pinguin - reveals Village, Copper
+Pinguin - plays Village
+Pinguin - draws Estate
+Pinguin - plays 2 Silver, 2 Copper, 1 Potion, 1 Gold
+Pinguin - buys Province
+Pinguin - gains Province
+Pinguin - draws Mine, Scrying Pool, Estate, Province, Silver
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Village
+Titandrake - draws Gardens
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Village, Ruined Market, Copper, Copper, Estate
+ 
+------------ Game Over ------------
+Pinguin - cards: 4 Scrying Pool, 3 Village, 2 Courtyard, 1 Mine, 3 Silver, 2 Copper, 2 Gold, 1 Potion, 6 Estate, 5 Province, 3 Gardens, 1 Duchy
+Pinguin - total victory points: 48
+Pinguin - turns: 23
+ 
+Titandrake - cards: 3 Village, 3 Ruined Village, 2 Ruined Market, 2 Death Cart, 2 Ruined Library, 2 Smugglers, 1 Courtyard, 1 Duchess, 9 Copper, 2 Silver, 8 Estate, 5 Gardens, 1 Duchy, 1 Province
+Titandrake - total victory points: 37
+Titandrake - turns: 23
+ 
+1st place: Pinguin
+2nd place: Titandrake
+ 

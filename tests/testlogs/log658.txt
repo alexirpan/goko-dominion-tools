@@ -1,0 +1,519 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Village, Marauder, Procession, Salvager, Apprentice, Harvest, Outpost, Goons, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Ruins
+Rating system: pro
+isellsunshine - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+isellsunshine - shuffles deck
+Titandrake - shuffles deck
+isellsunshine - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- isellsunshine: turn 1 ----------
+isellsunshine - plays 5 Copper
+isellsunshine - buys Apprentice
+isellsunshine - gains Apprentice
+isellsunshine - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- isellsunshine: turn 2 ----------
+isellsunshine - plays 2 Copper
+isellsunshine - buys Courtyard
+isellsunshine - gains Courtyard
+isellsunshine - shuffles deck
+isellsunshine - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Marauder
+ 
+---------- isellsunshine: turn 3 ----------
+isellsunshine - plays 2 Copper
+isellsunshine - buys Courtyard
+isellsunshine - gains Courtyard
+isellsunshine - draws Copper, Courtyard, Apprentice, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+isellsunshine - gains Survivors
+Titandrake - plays 2 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Courtyard, Copper, Copper, Estate, Copper
+ 
+---------- isellsunshine: turn 4 ----------
+isellsunshine - plays Apprentice
+isellsunshine - trashes Courtyard
+isellsunshine - draws Copper, Copper
+isellsunshine - plays 5 Copper
+isellsunshine - buys Harvest
+isellsunshine - gains Harvest
+isellsunshine - shuffles deck
+isellsunshine - draws Apprentice, Survivors, Harvest, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+Titandrake - places Spoils on top of deck
+Titandrake - plays 5 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Spoils, Estate, Copper, Estate, Marauder
+ 
+---------- isellsunshine: turn 5 ----------
+isellsunshine - plays Apprentice
+isellsunshine - trashes Estate
+isellsunshine - draws Estate, Estate
+isellsunshine - plays Harvest
+isellsunshine - reveals: Copper, Copper, Copper, Courtyard
+isellsunshine - discards: Copper, Copper, Copper, Courtyard
+isellsunshine - plays 1 Copper
+isellsunshine - buys Silver
+isellsunshine - gains Silver
+isellsunshine - draws Copper, Copper, Copper
+isellsunshine - shuffles deck
+isellsunshine - draws Harvest, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+isellsunshine - gains Ruined Market
+Titandrake - plays Copper
+Titandrake - plays Spoils
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - draws Copper, Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Copper, Marauder, Estate
+ 
+---------- isellsunshine: turn 6 ----------
+isellsunshine - plays Harvest
+isellsunshine - reveals: Copper, Estate, Copper, Courtyard
+isellsunshine - discards: Copper, Estate, Copper, Courtyard
+isellsunshine - plays 4 Copper
+isellsunshine - buys Goons
+isellsunshine - gains Goons
+isellsunshine - draws Apprentice, Silver, Estate, Survivors, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Spoils, Estate, Procession
+Titandrake - places Procession on top of deck
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Procession, Copper, Copper, Copper, Courtyard
+ 
+---------- isellsunshine: turn 7 ----------
+isellsunshine - plays Apprentice
+isellsunshine - trashes Estate
+isellsunshine - shuffles deck
+isellsunshine - draws Estate, Harvest
+isellsunshine - plays Harvest
+isellsunshine - reveals: Copper, Courtyard, Copper, Ruined Market
+isellsunshine - discards: Copper, Courtyard, Copper, Ruined Market
+isellsunshine - plays 1 Silver, 1 Copper
+isellsunshine - buys Nobles
+isellsunshine - gains Nobles
+isellsunshine - draws Copper, Copper, Copper, Copper, Goons
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Procession
+Titandrake - plays Courtyard
+Titandrake - draws Marauder, Copper, Estate
+Titandrake - places Marauder on top of deck
+Titandrake - plays Courtyard
+Titandrake - draws Marauder, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - places Marauder on top of deck
+Titandrake - trashes Courtyard
+Titandrake - gains Village
+Titandrake - plays 6 Copper
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Marauder, Courtyard, Marauder, Copper, Estate
+ 
+---------- isellsunshine: turn 8 ----------
+isellsunshine - plays Goons
+Titandrake - discards Marauder
+Titandrake - discards Estate
+isellsunshine - plays 4 Copper
+isellsunshine - buys Gold
+isellsunshine - receives 1 victory point chips
+isellsunshine - gains Gold
+isellsunshine - shuffles deck
+isellsunshine - draws Estate, Copper, Copper, Courtyard, Ruined Market
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+isellsunshine - gains Survivors
+Titandrake - draws Apprentice, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Marauder
+ 
+---------- isellsunshine: turn 9 ----------
+isellsunshine - plays Courtyard
+isellsunshine - draws Copper, Nobles, Gold
+isellsunshine - places Nobles on top of deck
+isellsunshine - plays 3 Copper, 1 Gold
+isellsunshine - buys Gold
+isellsunshine - gains Gold
+isellsunshine - draws Nobles, Survivors, Goons, Copper, Harvest
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Courtyard, Copper
+Titandrake - plays Courtyard
+Titandrake - draws Marauder, Copper, Goons
+Titandrake - places Goons on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Goons, Procession, Spoils, Copper, Copper
+ 
+---------- isellsunshine: turn 10 ----------
+isellsunshine - plays Nobles
+isellsunshine - takes 2 actions
+isellsunshine - plays Harvest
+isellsunshine - reveals: Copper, Apprentice, Copper, Silver
+isellsunshine - discards: Copper, Apprentice, Copper, Silver
+isellsunshine - plays Goons
+Titandrake - discards Procession
+Titandrake - discards Copper
+isellsunshine - plays 1 Copper
+isellsunshine - buys Nobles
+isellsunshine - receives 1 victory point chips
+isellsunshine - gains Nobles
+isellsunshine - draws Copper
+isellsunshine - shuffles deck
+isellsunshine - draws Courtyard, Survivors, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Goons
+isellsunshine - discards Survivors
+isellsunshine - discards Copper
+Titandrake - plays Copper
+Titandrake - plays Spoils
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - draws Estate, Copper, Village, Copper
+Titandrake - shuffles deck
+Titandrake - draws Village
+ 
+---------- isellsunshine: turn 11 ----------
+isellsunshine - plays Courtyard
+isellsunshine - draws Harvest, Ruined Market, Estate
+isellsunshine - places Harvest on top of deck
+isellsunshine - plays 2 Copper
+isellsunshine - buys Courtyard
+isellsunshine - gains Courtyard
+isellsunshine - draws Harvest, Survivors, Nobles, Apprentice, Nobles
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Village
+Titandrake - draws Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Goons, Procession, Marauder, Courtyard
+ 
+---------- isellsunshine: turn 12 ----------
+isellsunshine - plays Nobles
+isellsunshine - takes 2 actions
+isellsunshine - plays Apprentice
+isellsunshine - trashes Harvest
+isellsunshine - draws Goons, Copper, Gold, Silver, Copper
+isellsunshine - plays Nobles
+isellsunshine - takes 2 actions
+isellsunshine - plays Goons
+Titandrake - discards Courtyard
+Titandrake - discards Goons
+isellsunshine - plays Survivors
+isellsunshine - looks at Gold, Copper
+isellsunshine - discards Gold
+isellsunshine - discards Copper
+isellsunshine - plays 2 Copper, 1 Gold, 1 Silver
+isellsunshine - buys Platinum
+isellsunshine - receives 1 victory point chips
+isellsunshine - gains Platinum
+isellsunshine - buys Copper
+isellsunshine - receives 1 victory point chips
+isellsunshine - gains Copper
+isellsunshine - draws Copper
+isellsunshine - shuffles deck
+isellsunshine - draws Survivors, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Procession
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+isellsunshine - gains Ruined Library
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+isellsunshine - gains Ruined Village
+Titandrake - trashes Marauder
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Goons, Copper, Marauder
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+ 
+---------- isellsunshine: turn 13 ----------
+isellsunshine - plays Survivors
+isellsunshine - looks at Courtyard, Copper
+isellsunshine - discards: Courtyard, Copper
+isellsunshine - plays 3 Copper, 1 Silver
+isellsunshine - buys Procession
+isellsunshine - gains Procession
+isellsunshine - draws Copper, Survivors, Ruined Market, Copper, Apprentice
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Goons
+isellsunshine - discards Ruined Market
+isellsunshine - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Nobles
+Titandrake - receives 1 victory point chips
+Titandrake - gains Nobles
+Titandrake - draws Estate, Goons, Copper, Copper, Courtyard
+ 
+---------- isellsunshine: turn 14 ----------
+isellsunshine - plays Apprentice
+isellsunshine - trashes Survivors
+isellsunshine - draws Nobles, Copper, Gold, Nobles, Platinum
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Village, Copper, Procession
+Titandrake - places Goons on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Goons, Village, Spoils, Copper, Village
+ 
+---------- isellsunshine: turn 15 ----------
+isellsunshine - plays Nobles
+isellsunshine - takes 2 actions
+isellsunshine - plays Nobles
+isellsunshine - draws Estate, Goons, Gold
+isellsunshine - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Village
+isellsunshine - plays 2 Gold, 1 Copper, 1 Platinum
+isellsunshine - buys Platinum
+isellsunshine - receives 1 victory point chips
+isellsunshine - gains Platinum
+isellsunshine - buys Apprentice
+isellsunshine - receives 1 victory point chips
+isellsunshine - gains Apprentice
+isellsunshine - draws Courtyard, Copper
+isellsunshine - shuffles deck
+isellsunshine - draws Apprentice, Platinum, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Village
+Titandrake - draws Apprentice
+Titandrake - plays Goons
+isellsunshine - discards Copper
+isellsunshine - discards Apprentice
+Titandrake - plays Spoils
+Titandrake - buys Procession
+Titandrake - receives 1 victory point chips
+Titandrake - gains Procession
+Titandrake - draws Apprentice, Copper
+Titandrake - shuffles deck
+Titandrake - draws Apprentice, Copper, Estate
+ 
+---------- isellsunshine: turn 16 ----------
+isellsunshine - plays Courtyard
+isellsunshine - draws Copper, Nobles, Courtyard
+isellsunshine - places Nobles on top of deck
+isellsunshine - plays 1 Platinum, 1 Silver, 1 Copper
+isellsunshine - buys Nobles
+isellsunshine - gains Nobles
+isellsunshine - draws Nobles, Copper, Copper, Procession, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Marauder, Goons
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+isellsunshine - gains Ruined Village
+Titandrake - draws Copper, Procession, Procession, Village, Copper
+ 
+---------- isellsunshine: turn 17 ----------
+isellsunshine - plays Nobles
+isellsunshine - draws Ruined Market, Nobles, Survivors
+isellsunshine - plays 2 Copper, 1 Gold
+isellsunshine - buys Marauder
+isellsunshine - gains Marauder
+isellsunshine - draws Copper, Platinum, Goons, Gold, Ruined Library
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Procession
+Titandrake - plays Procession
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Village
+Titandrake - draws Nobles
+Titandrake - trashes Village
+Titandrake - gains Procession
+Titandrake - plays Procession
+Titandrake - trashes Procession
+Titandrake - gains Outpost
+Titandrake - plays Nobles
+Titandrake - draws Goons, Village, Village
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Courtyard
+Titandrake - plays Goons
+isellsunshine - discards Ruined Library
+isellsunshine - discards Copper
+Titandrake - plays Courtyard
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Outpost, Apprentice
+Titandrake - places Apprentice on top of deck
+Titandrake - plays Outpost
+Titandrake - plays 5 Copper
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - duration Outpost
+Titandrake - draws Apprentice, Apprentice, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Apprentice
+Titandrake - draws Procession, Spoils, Marauder, Goons
+Titandrake - shuffles deck
+Titandrake - draws Goons
+Titandrake - plays Procession
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+isellsunshine - gains Ruined Village
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+isellsunshine - gains Ruined Market
+Titandrake - trashes Marauder
+Titandrake - gains Apprentice
+Titandrake - plays 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Procession, Copper, Copper, Village
+ 
+---------- isellsunshine: turn 18 ----------
+isellsunshine - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Copper
+isellsunshine - plays 1 Platinum, 1 Gold
+isellsunshine - buys Procession
+isellsunshine - receives 1 victory point chips
+isellsunshine - gains Procession
+isellsunshine - buys Nobles
+isellsunshine - receives 1 victory point chips
+isellsunshine - gains Nobles
+isellsunshine - draws Estate, Copper, Copper, Ruined Village, Apprentice
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Procession
+Titandrake - plays Village
+Titandrake - draws Goons
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - trashes Village
+Titandrake - gains Marauder
+Titandrake - plays Goons
+isellsunshine - discards Ruined Village
+isellsunshine - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Courtyard
+Titandrake - receives 1 victory point chips
+Titandrake - gains Courtyard
+Titandrake - buys Courtyard
+Titandrake - receives 1 victory point chips
+Titandrake - gains Courtyard
+Titandrake - draws Village, Copper, Village, Nobles, Courtyard
+ 
+---------- isellsunshine: turn 19 ----------
+isellsunshine - plays Apprentice
+isellsunshine - trashes Estate
+isellsunshine - draws Copper
+isellsunshine - shuffles deck
+isellsunshine - draws Courtyard
+isellsunshine - plays Courtyard
+isellsunshine - draws Nobles, Gold, Copper
+isellsunshine - places Nobles on top of deck
+isellsunshine - plays 3 Copper, 1 Gold
+isellsunshine - buys Nobles
+isellsunshine - gains Nobles
+isellsunshine - draws Nobles, Copper, Copper, Survivors, Ruined Market
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Village
+Titandrake - shuffles deck
+Titandrake - draws Outpost
+Titandrake - plays Nobles
+Titandrake - draws Village, Procession, Copper
+Titandrake - plays Village
+Titandrake - draws Goons
+Titandrake - plays Procession
+Titandrake - plays Courtyard
+Titandrake - draws Goons, Goons, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Courtyard, Procession
+Titandrake - places Copper on top of deck
+Titandrake - trashes Courtyard
+Titandrake - gains Village
+Titandrake - plays Procession
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - trashes Village
+Titandrake - gains Procession
+Titandrake - plays Goons
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Goons, 2 Courtyard, 2 Apprentice, 1 Outpost, 1 Village, 1 Procession, 1 Marauder, 6 Copper, 2 Spoils
+Titandrake - victory point chips: 6
+Titandrake - total victory points: 6
+Titandrake - turns: 18
+ 
+isellsunshine - resigned
+isellsunshine - cards: 5 Nobles, 3 Ruined Village, 2 Procession, 2 Ruined Market, 2 Apprentice, 2 Courtyard, 1 Survivors, 1 Goons, 1 Ruined Library, 1 Marauder, 8 Copper, 2 Gold, 2 Platinum, 1 Silver
+isellsunshine - victory point chips: 8
+isellsunshine - total victory points: 18
+isellsunshine - turns: 19
+ 
+1st place: Titandrake
+2nd place: isellsunshine
+ 

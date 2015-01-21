@@ -1,0 +1,525 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Chancellor, Baron, Ironmonger, Monument, Taxman, Young Witch, Jester, Mystic, Saboteur, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Chancellor
+Rating system: pro
+Kirian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kirian - shuffles deck
+Titandrake - shuffles deck
+Kirian - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Kirian: turn 1 ----------
+Kirian - plays 3 Copper
+Kirian - buys Silver
+Kirian - gains Silver
+Kirian - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Kirian: turn 2 ----------
+Kirian - plays 4 Copper
+Kirian - buys Young Witch
+Kirian - gains Young Witch
+Kirian - shuffles deck
+Kirian - draws Silver, Copper, Estate, Estate, Young Witch
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Young Witch, Copper, Copper, Chancellor, Copper
+ 
+---------- Kirian: turn 3 ----------
+Kirian - plays Young Witch
+Kirian - draws Estate, Copper
+Kirian - discards Estate
+Kirian - discards Estate
+Titandrake - reveals bane Chancellor
+Kirian - plays 2 Copper, 1 Silver
+Kirian - buys Ironmonger
+Kirian - gains Ironmonger
+Kirian - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Chancellor
+Kirian - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Kirian: turn 4 ----------
+Kirian - plays 5 Copper
+Kirian - buys Jester
+Kirian - gains Jester
+Kirian - shuffles deck
+Kirian - draws Copper, Copper, Copper, Copper, Jester
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Chancellor, Ironmonger, Estate, Copper
+ 
+---------- Kirian: turn 5 ----------
+Kirian - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Kirian - plays 4 Copper
+Kirian - buys Gold
+Kirian - gains Gold
+Kirian - draws Copper, Estate, Copper, Ironmonger, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Chancellor
+Titandrake - plays 2 Copper
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Silver, Copper, Copper, Young Witch, Copper
+ 
+---------- Kirian: turn 6 ----------
+Kirian - plays Ironmonger
+Kirian - draws Silver
+Kirian - reveals: Copper
+Kirian - discards Copper
+Kirian - plays 2 Copper, 1 Silver
+Kirian - buys Baron
+Kirian - gains Baron
+Kirian - draws Young Witch, Estate, Curse
+Kirian - shuffles deck
+Kirian - draws Copper, Ironmonger
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Kirian - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Ironmonger, Silver, Copper
+ 
+---------- Kirian: turn 7 ----------
+Kirian - plays Ironmonger
+Kirian - draws Silver
+Kirian - reveals: Estate
+Kirian - discards Estate
+Kirian - draws Copper
+Kirian - plays Young Witch
+Kirian - draws Copper, Copper
+Kirian - discards Estate
+Kirian - discards Curse
+Titandrake - gains Curse
+Kirian - plays 4 Copper, 1 Silver
+Kirian - buys Gold
+Kirian - gains Gold
+Kirian - draws Copper, Estate, Gold, Baron, Jester
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Chancellor
+Titandrake - places Chancellor on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Chancellor, Estate, Copper, Copper, Copper
+ 
+---------- Kirian: turn 8 ----------
+Kirian - plays Baron
+Kirian - discards Estate
+Kirian - plays 1 Copper, 1 Gold
+Kirian - buys Native Village
+Kirian - gains Native Village
+Kirian - buys Gold
+Kirian - gains Gold
+Kirian - draws Copper, Copper
+Kirian - shuffles deck
+Kirian - draws Baron, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Chancellor
+Titandrake - plays 3 Copper
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - draws Estate, Young Witch, Jester, Estate, Copper
+ 
+---------- Kirian: turn 9 ----------
+Kirian - plays 4 Copper
+Kirian - buys Ironmonger
+Kirian - gains Ironmonger
+Kirian - draws Curse, Curse, Gold, Copper, Young Witch
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Jester
+Kirian - reveals Ironmonger
+Kirian - discards Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Estate, Chancellor, Copper, Copper
+ 
+---------- Kirian: turn 10 ----------
+Kirian - plays Young Witch
+Kirian - draws Silver, Gold
+Kirian - discards Curse
+Kirian - discards Curse
+Titandrake - reveals bane Chancellor
+Kirian - plays 2 Gold, 1 Copper, 1 Silver
+Kirian - buys Province
+Kirian - gains Province
+Kirian - draws Copper, Jester, Native Village, Estate, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Young Witch
+Titandrake - places Young Witch on top of deck
+Titandrake - plays Chancellor
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Young Witch, Mystic, Copper, Copper, Silver
+ 
+---------- Kirian: turn 11 ----------
+Kirian - plays Native Village
+Kirian - sets aside Copper
+Kirian - plays Jester
+Titandrake - reveals Gold
+Titandrake - discards Gold
+Kirian - gains Gold
+Kirian - plays 1 Copper
+Kirian - buys Chancellor
+Kirian - gains Chancellor
+Kirian - draws Gold, Estate
+Kirian - shuffles deck
+Kirian - draws Silver, Estate, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Curse
+Titandrake - plays Young Witch
+Titandrake - draws Curse, Copper
+Titandrake - discards Curse
+Titandrake - discards Copper
+Kirian - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Silver, Ironmonger, Jester, Copper
+ 
+---------- Kirian: turn 12 ----------
+Kirian - plays 1 Gold, 1 Silver, 1 Copper
+Kirian - buys Jester
+Kirian - gains Jester
+Kirian - draws Province, Native Village, Copper, Gold, Baron
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Jester
+Kirian - reveals Chancellor
+Kirian - discards Chancellor
+Titandrake - gains Chancellor
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ironmonger, Young Witch, Gold
+ 
+---------- Kirian: turn 13 ----------
+Kirian - plays Native Village
+Kirian - sets aside Ironmonger
+Kirian - plays Baron
+Kirian - gains Estate
+Kirian - plays 1 Copper, 1 Gold
+Kirian - buys Ironmonger
+Kirian - gains Ironmonger
+Kirian - draws Curse, Curse, Copper, Copper, Jester
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Silver
+Titandrake - reveals: Curse
+Titandrake - discards Curse
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+Kirian - gains Curse
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Chancellor, Copper, Jester, Ironmonger
+ 
+---------- Kirian: turn 14 ----------
+Kirian - plays Jester
+Titandrake - reveals Mystic
+Titandrake - discards Mystic
+Kirian - gains Mystic
+Kirian - plays 2 Copper
+Kirian - buys Native Village
+Kirian - gains Native Village
+Kirian - draws Ironmonger, Copper, Estate, Gold, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Gold
+Titandrake - reveals: Chancellor
+Titandrake - discards Chancellor
+Titandrake - plays Jester
+Kirian - reveals Gold
+Kirian - discards Gold
+Titandrake - gains Gold
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger, Young Witch, Province, Silver, Gold
+ 
+---------- Kirian: turn 15 ----------
+Kirian - plays Ironmonger
+Kirian - draws Young Witch
+Kirian - shuffles deck
+Kirian - reveals: Province
+Kirian - discards Province
+Kirian - draws Copper
+Kirian - plays Young Witch
+Kirian - draws Estate, Jester
+Kirian - discards Estate
+Kirian - discards Estate
+Titandrake - gains Curse
+Kirian - plays 3 Copper, 1 Gold
+Kirian - buys Saboteur
+Kirian - gains Saboteur
+Kirian - draws Baron, Native Village, Jester, Curse, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Gold
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Estate
+Titandrake - discards Province
+Titandrake - discards Estate
+Kirian - gains Curse
+Titandrake - plays 2 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Jester, Province, Curse, Ironmonger, Copper
+ 
+---------- Kirian: turn 16 ----------
+Kirian - plays Native Village
+Kirian - takes set aside cards: Copper, Ironmonger
+Kirian - plays Ironmonger
+Kirian - draws Gold
+Kirian - reveals: Curse
+Kirian - discards Curse
+Kirian - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Kirian - plays Baron
+Kirian - gains Estate
+Kirian - plays 2 Gold, 1 Copper
+Kirian - buys Province
+Kirian - gains Province
+Kirian - draws Copper, Curse, Mystic, Native Village, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Silver
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Jester
+Kirian - reveals Ironmonger
+Kirian - discards Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Silver, Estate, Chancellor, Copper
+ 
+---------- Kirian: turn 17 ----------
+Kirian - plays Mystic
+Kirian - names Young Witch
+Kirian - reveals Silver
+Kirian - plays Native Village
+Kirian - sets aside Silver
+Kirian - plays 1 Copper, 1 Gold
+Kirian - buys Duchy
+Kirian - gains Duchy
+Kirian - draws Copper, Estate, Copper, Estate, Curse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Chancellor, Copper, Estate, Copper, Copper
+ 
+---------- Kirian: turn 18 ----------
+Kirian - plays 2 Copper
+Kirian - buys Native Village
+Kirian - gains Native Village
+Kirian - draws Chancellor
+Kirian - shuffles deck
+Kirian - draws Mystic, Saboteur, Young Witch, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Chancellor
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Copper, Ironmonger, Province, Jester
+ 
+---------- Kirian: turn 19 ----------
+Kirian - plays Mystic
+Kirian - names Native Village
+Kirian - reveals Province
+Kirian - plays Saboteur
+Titandrake - reveals Mystic
+Titandrake - trashes Mystic
+Titandrake - gains Estate
+Kirian - plays 1 Copper
+Kirian - buys Native Village
+Kirian - gains Native Village
+Kirian - draws Province, Curse, Gold, Jester, Ironmonger
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Young Witch
+Titandrake - places Young Witch on top of deck
+Titandrake - plays Jester
+Kirian - reveals Curse
+Kirian - discards Curse
+Kirian - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Young Witch, Copper, Chancellor, Copper, Gold
+ 
+---------- Kirian: turn 20 ----------
+Kirian - plays Ironmonger
+Kirian - draws Curse
+Kirian - reveals: Jester
+Kirian - places Jester on top of deck
+Kirian - plays Jester
+Titandrake - reveals Silver
+Titandrake - discards Silver
+Kirian - gains Silver
+Kirian - plays 1 Gold
+Kirian - buys Duchy
+Kirian - gains Duchy
+Kirian - draws Jester, Estate, Gold, Native Village, Ironmonger
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Curse, Province
+Titandrake - discards Curse
+Titandrake - discards Province
+Kirian - gains Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Ironmonger, Ironmonger, Province, Estate, Curse
+ 
+---------- Kirian: turn 21 ----------
+Kirian - plays Ironmonger
+Kirian - draws Gold
+Kirian - reveals: Copper
+Kirian - discards Copper
+Kirian - plays Native Village
+Kirian - sets aside Estate
+Kirian - plays Jester
+Titandrake - reveals Gold
+Titandrake - discards Gold
+Kirian - gains Gold
+Kirian - plays 2 Gold
+Kirian - buys Province
+Kirian - gains Province
+Kirian - draws Copper, Curse, Estate, Copper, Gold
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Duchy
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Ironmonger, Gold, Silver, Province, Gold
+ 
+---------- Kirian: turn 22 ----------
+Kirian - plays 2 Copper, 1 Gold
+Kirian - buys Duchy
+Kirian - gains Duchy
+Kirian - draws Native Village, Copper, Ironmonger, Copper, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Young Witch
+Titandrake - reveals: Ironmonger
+Titandrake - discards Ironmonger
+Titandrake - plays Young Witch
+Titandrake - draws Province, Duchy
+Titandrake - discards Province
+Titandrake - discards Province
+Kirian - gains Curse
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Chancellor, Copper, Curse, Curse
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Ironmonger, 2 Chancellor, 1 Young Witch, 1 Jester, 9 Copper, 4 Gold, 3 Silver, 5 Province, 5 Estate, 4 Duchy, 2 Curse
+Titandrake - victory point chips: 0
+Titandrake - total victory points: 45
+Titandrake - turns: 22
+ 
+Kirian - cards: 4 Native Village, 3 Ironmonger, 2 Jester, 1 Mystic, 1 Saboteur, 1 Chancellor, 1 Young Witch, 1 Baron, 7 Copper, 5 Gold, 2 Silver, 5 Estate, 3 Duchy, 3 Province, 8 Curse
+Kirian - victory point chips: 0
+Kirian - total victory points: 24
+Kirian - turns: 22
+ 
+1st place: Titandrake
+2nd place: Kirian
+ 

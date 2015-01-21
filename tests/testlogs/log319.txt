@@ -1,0 +1,832 @@
+------------ Game Setup ------------
+Supply cards: Sage, Scheme, Urchin, Death Cart, Quarry, Cartographer, Haggler, Jester, Merchant Ship, Tribute, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Ruins
+Rating system: pro
+AJ - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+AJ - shuffles deck
+Titandrake - shuffles deck
+AJ - draws Copper, Overgrown Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Overgrown Estate, Copper, Copper, Necropolis, Copper
+ 
+---------- AJ: turn 1 ----------
+AJ - plays 4 Copper
+AJ - buys Urchin
+AJ - gains Urchin
+AJ - draws Necropolis, Copper, Hovel, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - shuffles deck
+Titandrake - draws Urchin, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- AJ: turn 2 ----------
+AJ - plays 3 Copper
+AJ - buys Urchin
+AJ - gains Urchin
+AJ - shuffles deck
+AJ - draws Necropolis, Urchin, Copper, Urchin, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Urchin
+Titandrake - draws Quarry
+AJ - discards Necropolis
+Titandrake - plays 3 Copper
+Titandrake - plays Quarry
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Copper, Hovel, Copper, Necropolis, Copper
+ 
+---------- AJ: turn 3 ----------
+AJ - plays Urchin
+AJ - draws Hovel
+Titandrake - discards Hovel
+AJ - plays Urchin
+AJ - trashes Urchin
+AJ - gains Mercenary
+AJ - draws Copper
+AJ - plays 3 Copper
+AJ - buys Scheme
+AJ - gains Scheme
+AJ - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Scheme, Copper, Copper, Copper
+ 
+---------- AJ: turn 4 ----------
+AJ - plays 4 Copper
+AJ - buys Silver
+AJ - gains Silver
+AJ - shuffles deck
+AJ - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Scheme
+Titandrake - draws Necropolis
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Overgrown Estate, Urchin, Jester, Copper
+ 
+---------- AJ: turn 5 ----------
+AJ - plays 5 Copper
+AJ - buys Haggler
+AJ - gains Haggler
+AJ - draws Urchin, Mercenary, Overgrown Estate, Necropolis, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Scheme
+Titandrake - draws Hovel
+Titandrake - plays Urchin
+Titandrake - draws Quarry
+AJ - discards Urchin
+Titandrake - plays Jester
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+AJ - reveals Silver
+AJ - discards Silver
+Titandrake - gains Silver
+Titandrake - plays Copper
+Titandrake - plays Quarry
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hovel
+ 
+---------- AJ: turn 6 ----------
+AJ - plays Necropolis
+AJ - plays Mercenary
+AJ - trashes Overgrown Estate, Copper
+AJ - draws Hovel
+AJ - draws Copper, Scheme
+Titandrake - discards Hovel
+Titandrake - discards Copper
+AJ - plays Scheme
+AJ - shuffles deck
+AJ - draws Copper
+AJ - plays 2 Copper
+AJ - buys Silver
+AJ - gains Silver
+AJ - Scheme choice: Mercenary
+AJ - draws Mercenary, Silver, Copper, Haggler, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scheme
+Titandrake - draws Quarry
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Silver, Copper, Jester, Silver
+ 
+---------- AJ: turn 7 ----------
+AJ - plays Mercenary
+AJ - trashes Copper, Copper
+AJ - draws Urchin, Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+AJ - plays 1 Silver, 1 Copper
+AJ - buys Tribute
+AJ - gains Tribute
+AJ - draws Copper
+AJ - shuffles deck
+AJ - draws Urchin, Copper, Hovel, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Jester
+AJ - reveals Copper
+AJ - discards Copper
+AJ - gains Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Overgrown Estate, Copper, Necropolis, Haggler
+ 
+---------- AJ: turn 8 ----------
+AJ - plays Urchin
+AJ - draws Tribute
+Titandrake - discards Copper
+AJ - plays Tribute
+Titandrake - reveals: Copper, Mercenary
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Copper, Mercenary
+AJ - plays 2 Copper, 1 Silver
+AJ - buys Gold
+AJ - gains Gold
+AJ - draws Necropolis, Scheme, Haggler, Mercenary, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Cartographer
+Titandrake - looks at Copper, Copper, Silver, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Copper, Quarry, Hovel, Copper
+Titandrake - discards Copper
+Titandrake - discards Hovel
+Titandrake - discards Quarry
+Titandrake - discards Copper
+Titandrake - plays Haggler
+Titandrake - plays Silver
+Titandrake - Scheme choice: Cartographer
+Titandrake - draws Cartographer, Silver, Jester, Copper, Mercenary
+ 
+---------- AJ: turn 9 ----------
+AJ - plays Scheme
+AJ - draws Copper
+AJ - plays Necropolis
+AJ - plays Mercenary
+AJ - trashes Silver, Copper
+AJ - shuffles deck
+AJ - draws Tribute, Copper
+Titandrake - discards Silver
+Titandrake - discards Jester
+AJ - plays Tribute
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Scheme
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Copper, Scheme
+AJ - plays Haggler
+AJ - plays 1 Copper
+AJ - buys Gold
+AJ - gains Tribute
+AJ - gains Gold
+AJ - Scheme choice: Mercenary
+AJ - draws Mercenary, Hovel, Copper, Gold, Urchin
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Necropolis
+Titandrake - looks at Copper, Copper, Haggler, Copper
+Titandrake - discards Haggler
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Necropolis
+Titandrake - draws Silver, Overgrown Estate
+AJ - discards Urchin
+AJ - discards Gold
+Titandrake - plays Silver
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Silver, Copper, Quarry, Copper, Cartographer
+ 
+---------- AJ: turn 10 ----------
+AJ - plays Mercenary
+AJ - trashes Hovel, Copper
+AJ - draws Copper, Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+AJ - plays 1 Copper, 1 Silver
+AJ - buys Merchant Ship
+AJ - gains Merchant Ship
+AJ - draws Copper
+AJ - shuffles deck
+AJ - draws Scheme, Tribute, Gold, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Hovel
+Titandrake - looks at Jester
+Titandrake - shuffles deck
+Titandrake - looks at Copper, Scheme, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Scheme on top of deck
+Titandrake - places Jester on top of deck
+Titandrake - plays 1 Silver
+Titandrake - plays Quarry
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Jester, Scheme, Copper, Urchin, Cartographer
+ 
+---------- AJ: turn 11 ----------
+AJ - plays Scheme
+AJ - draws Tribute
+AJ - plays Tribute
+Titandrake - reveals: Haggler, Mercenary
+AJ - receives 4 actions
+Titandrake - discards: Haggler, Mercenary
+AJ - plays Tribute
+Titandrake - reveals: Copper, Copper
+AJ - receives 2 coins
+Titandrake - discards: Copper, Copper
+AJ - plays 2 Copper, 1 Gold
+AJ - buys Gold
+AJ - gains Gold
+AJ - Scheme choice: Tribute
+AJ - draws Tribute, Gold, Necropolis, Urchin, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Overgrown Estate, Silver
+Titandrake - shuffles deck
+Titandrake - looks at Quarry, Cartographer
+Titandrake - discards Overgrown Estate
+Titandrake - discards Quarry
+Titandrake - discards Silver
+Titandrake - places Cartographer on top of deck
+Titandrake - plays Urchin
+Titandrake - draws Cartographer
+AJ - discards Copper
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Hovel, Copper, Cartographer, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Hovel
+Titandrake - places Cartographer on top of deck
+Titandrake - plays Scheme
+Titandrake - draws Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Mercenary
+Titandrake - looks at Silver, Copper, Haggler
+Titandrake - shuffles deck
+Titandrake - looks at Copper
+Titandrake - discards Haggler
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Mercenary
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Silver, Copper
+AJ - discards Necropolis
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - Scheme choice: Mercenary
+Titandrake - draws Mercenary, Silver, Overgrown Estate, Quarry, Hovel
+ 
+---------- AJ: turn 12 ----------
+AJ - plays Urchin
+AJ - draws Merchant Ship
+Titandrake - discards Quarry
+AJ - plays Tribute
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+AJ - receives 2 coins
+Titandrake - discards: Copper, Copper
+AJ - plays 1 Gold
+AJ - buys Tribute
+AJ - gains Tribute
+AJ - draws Haggler, Silver, Mercenary
+AJ - shuffles deck
+AJ - draws Scheme, Necropolis
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Overgrown Estate, Hovel
+Titandrake - draws Haggler
+Titandrake - draws Cartographer, Cartographer
+AJ - discards Mercenary
+AJ - discards Necropolis
+Titandrake - plays Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Quarry, Copper, Scheme, Mercenary, Gold
+ 
+---------- AJ: turn 13 ----------
+AJ - plays Scheme
+AJ - draws Tribute
+AJ - plays Tribute
+Titandrake - reveals: Silver, Cartographer
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Silver, Cartographer
+AJ - plays Haggler
+AJ - plays 1 Silver
+AJ - buys Gold
+AJ - gains Merchant Ship
+AJ - gains Gold
+AJ - Scheme choice: Tribute
+AJ - draws Tribute, Copper, Gold, Urchin, Tribute
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Scheme
+Titandrake - draws Jester
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Quarry
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Cartographer
+AJ - discards Copper
+AJ - discards Urchin
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - Scheme choice: Mercenary
+Titandrake - draws Mercenary, Cartographer, Silver, Copper, Cartographer
+ 
+---------- AJ: turn 14 ----------
+AJ - plays Tribute
+Titandrake - reveals: Haggler, Copper
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Haggler, Copper
+AJ - plays Tribute
+Titandrake - reveals: Silver, Mercenary
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Silver, Mercenary
+AJ - plays 1 Gold
+AJ - buys Cartographer
+AJ - gains Cartographer
+AJ - draws Copper, Copper, Gold, Merchant Ship, Tribute
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Scheme
+Titandrake - shuffles deck
+Titandrake - looks at Scheme, Copper, Silver, Gold
+Titandrake - places Scheme on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Scheme
+Titandrake - draws Gold
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Copper, Scheme, Copper, Cartographer
+Titandrake - discards Scheme
+Titandrake - discards Cartographer
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Silver
+Titandrake - draws Copper, Jester
+AJ - discards Copper
+AJ - discards Copper
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - Scheme choice: Cartographer
+Titandrake - draws Cartographer, Gold, Haggler, Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Scheme
+ 
+---------- AJ: turn 15 ----------
+AJ - plays Tribute
+Titandrake - reveals: Silver, Cartographer
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Silver, Cartographer
+AJ - plays Merchant Ship
+AJ - plays 1 Gold
+AJ - buys Cartographer
+AJ - gains Cartographer
+AJ - draws Gold
+AJ - shuffles deck
+AJ - draws Silver, Mercenary, Copper, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Copper, Gold, Gold, Jester
+Titandrake - discards Copper
+Titandrake - places Jester on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Scheme
+Titandrake - draws Gold
+Titandrake - plays Haggler
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Platinum
+Titandrake - gains Gold
+Titandrake - gains Platinum
+Titandrake - Scheme choice: Cartographer
+Titandrake - draws Cartographer, Gold, Jester, Cartographer, Scheme
+ 
+---------- AJ: turn 16 ----------
+AJ - duration Merchant Ship
+AJ - plays Mercenary
+AJ - trashes Copper, Silver
+AJ - draws Necropolis, Tribute
+Titandrake - discards Scheme
+Titandrake - discards Gold
+AJ - plays 2 Gold
+AJ - buys Platinum
+AJ - gains Platinum
+AJ - draws Scheme, Tribute, Haggler, Copper, Cartographer
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Mercenary
+Titandrake - shuffles deck
+Titandrake - looks at Silver, Cartographer, Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - places Cartographer on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Cartographer
+Titandrake - looks at Haggler, Mercenary, Gold, Gold
+Titandrake - discards Mercenary
+Titandrake - places Haggler on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Gold
+Titandrake - looks at Gold, Haggler, Scheme, Gold
+Titandrake - places Gold on top of deck
+Titandrake - places Scheme on top of deck
+Titandrake - places Haggler on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Jester
+AJ - reveals Tribute
+AJ - discards Tribute
+Titandrake - gains Tribute
+Titandrake - plays Gold
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Gold, Haggler, Scheme, Gold, Gold
+ 
+---------- AJ: turn 17 ----------
+AJ - plays Cartographer
+AJ - draws Gold
+AJ - looks at Copper, Cartographer, Gold, Urchin
+AJ - discards Copper
+AJ - places Gold on top of deck
+AJ - places Cartographer on top of deck
+AJ - places Urchin on top of deck
+AJ - plays Scheme
+AJ - draws Urchin
+AJ - plays Urchin
+AJ - draws Cartographer
+Titandrake - discards Scheme
+AJ - plays Cartographer
+AJ - draws Gold
+AJ - looks at Merchant Ship
+AJ - shuffles deck
+AJ - looks at Mercenary, Platinum, Gold
+AJ - discards Mercenary
+AJ - places Merchant Ship on top of deck
+AJ - places Platinum on top of deck
+AJ - places Gold on top of deck
+AJ - plays Tribute
+Titandrake - reveals: Platinum, Scheme
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Platinum, Scheme
+AJ - plays Haggler
+AJ - plays 2 Gold, 1 Copper
+AJ - buys Colony
+AJ - gains Platinum
+AJ - gains Colony
+AJ - Scheme choice: Cartographer
+AJ - draws Cartographer, Gold, Platinum, Merchant Ship, Necropolis
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Haggler
+Titandrake - plays 3 Gold
+Titandrake - buys Colony
+Titandrake - gains Platinum
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Copper, Scheme, Cartographer, Scheme, Gold
+ 
+---------- AJ: turn 18 ----------
+AJ - plays Cartographer
+AJ - draws Copper
+AJ - looks at Merchant Ship, Gold, Tribute, Tribute
+AJ - places Merchant Ship on top of deck
+AJ - places Gold on top of deck
+AJ - places Tribute on top of deck
+AJ - places Tribute on top of deck
+AJ - plays Merchant Ship
+AJ - plays 1 Gold, 1 Platinum, 1 Copper
+AJ - buys Colony
+AJ - gains Colony
+AJ - draws Tribute, Tribute, Gold, Merchant Ship
+AJ - shuffles deck
+AJ - draws Necropolis
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Mercenary
+Titandrake - looks at Platinum, Copper, Gold, Tribute
+Titandrake - discards Tribute
+Titandrake - discards Copper
+Titandrake - places Gold on top of deck
+Titandrake - places Platinum on top of deck
+Titandrake - plays Scheme
+Titandrake - draws Platinum
+Titandrake - plays Scheme
+Titandrake - draws Gold
+Titandrake - plays 2 Gold, 1 Copper, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - Scheme choice: Cartographer
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Cartographer, Cartographer, Gold, Gold
+ 
+---------- AJ: turn 19 ----------
+AJ - duration Merchant Ship
+AJ - plays Necropolis
+AJ - plays Tribute
+Titandrake - reveals: Haggler, Cartographer
+AJ - receives 4 actions
+Titandrake - discards: Haggler, Cartographer
+AJ - plays Tribute
+Titandrake - reveals: Jester, Platinum
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Jester, Platinum
+AJ - plays Merchant Ship
+AJ - plays 1 Gold
+AJ - buys Province
+AJ - gains Province
+AJ - draws Colony, Mercenary, Gold, Urchin, Cartographer
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Mercenary
+Titandrake - looks at Cartographer, Silver, Colony
+Titandrake - shuffles deck
+Titandrake - looks at Jester
+Titandrake - discards Colony
+Titandrake - places Silver on top of deck
+Titandrake - places Jester on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - plays Scheme
+Titandrake - draws Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Jester
+Titandrake - looks at Silver, Haggler, Copper, Gold
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Haggler on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Gold
+Titandrake - looks at Haggler, Silver, Colony, Scheme
+Titandrake - discards Colony
+Titandrake - places Scheme on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Haggler on top of deck
+Titandrake - plays Jester
+AJ - reveals Cartographer
+AJ - discards Cartographer
+Titandrake - gains Cartographer
+Titandrake - plays 3 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - Scheme choice: Cartographer
+Titandrake - draws Cartographer, Haggler, Silver, Scheme, Gold
+ 
+---------- AJ: turn 20 ----------
+AJ - duration Merchant Ship
+AJ - plays Cartographer
+AJ - draws Tribute
+AJ - looks at Haggler, Platinum, Platinum, Copper
+AJ - discards Copper
+AJ - places Haggler on top of deck
+AJ - places Platinum on top of deck
+AJ - places Platinum on top of deck
+AJ - plays Mercenary
+AJ - trashes Urchin, Tribute
+AJ - draws Platinum, Platinum
+Titandrake - discards Haggler
+Titandrake - discards Silver
+AJ - plays 2 Platinum, 1 Gold
+AJ - buys Colony
+AJ - gains Colony
+AJ - draws Haggler, Gold, Gold, Copper, Scheme
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Platinum
+Titandrake - looks at Copper, Cartographer, Mercenary, Platinum
+Titandrake - discards Copper
+Titandrake - discards Mercenary
+Titandrake - discards Cartographer
+Titandrake - places Platinum on top of deck
+Titandrake - plays Scheme
+Titandrake - draws Platinum
+Titandrake - plays 2 Platinum, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Cartographer
+Titandrake - draws Cartographer, Tribute
+Titandrake - shuffles deck
+Titandrake - draws Copper, Cartographer, Platinum
+ 
+---------- AJ: turn 21 ----------
+AJ - plays Scheme
+AJ - draws Colony
+AJ - plays Haggler
+AJ - plays 2 Gold, 1 Copper
+AJ - buys Province
+AJ - gains Gold
+AJ - gains Province
+AJ - Scheme choice: Scheme
+AJ - draws Scheme
+AJ - shuffles deck
+AJ - draws Tribute, Colony, Colony, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Jester
+Titandrake - looks at Gold, Cartographer, Colony, Silver
+Titandrake - discards Colony
+Titandrake - places Gold on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Jester
+AJ - reveals Platinum
+AJ - discards Platinum
+Titandrake - gains Platinum
+Titandrake - plays 1 Copper, 1 Platinum
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Cartographer, Gold, Gold, Cartographer
+ 
+---------- AJ: turn 22 ----------
+AJ - plays Scheme
+AJ - draws Province
+AJ - plays Tribute
+Titandrake - reveals: Scheme, Mercenary
+AJ - receives 4 actions
+Titandrake - discards: Scheme, Mercenary
+AJ - plays 1 Gold
+AJ - buys Estate
+AJ - gains Estate
+AJ - Scheme choice: Tribute
+AJ - draws Tribute, Gold, Platinum, Cartographer, Tribute
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Scheme
+Titandrake - looks at Mercenary, Gold, Gold, Colony
+Titandrake - discards Colony
+Titandrake - places Gold on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Mercenary on top of deck
+Titandrake - plays Scheme
+Titandrake - draws Mercenary
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Cartographer
+Titandrake - draws Cartographer, Gold, Gold, Colony, Province
+ 
+---------- AJ: turn 23 ----------
+AJ - plays Cartographer
+AJ - draws Copper
+AJ - looks at Gold, Merchant Ship, Gold, Province
+AJ - discards Province
+AJ - places Gold on top of deck
+AJ - places Merchant Ship on top of deck
+AJ - places Gold on top of deck
+AJ - plays Tribute
+Titandrake - reveals: Cartographer, Copper
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Cartographer, Copper
+AJ - plays Tribute
+Titandrake - reveals: Haggler, Platinum
+AJ - receives 2 coins
+AJ - receives 2 actions
+Titandrake - discards: Haggler, Platinum
+AJ - plays 1 Gold, 1 Platinum, 1 Copper
+AJ - buys Colony
+AJ - gains Colony
+AJ - draws Gold, Merchant Ship, Gold, Merchant Ship, Copper
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Cartographer
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - looks at Cartographer, Cartographer, Platinum, Cartographer
+Titandrake - places Cartographer on top of deck
+Titandrake - places Platinum on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Cartographer, Cartographer, Platinum, Cartographer, Platinum
+ 
+---------- AJ: turn 24 ----------
+AJ - plays Merchant Ship
+AJ - plays 2 Gold, 1 Copper
+AJ - buys Province
+AJ - gains Province
+AJ - draws Haggler, Colony, Gold, Mercenary, Necropolis
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Tribute, Copper, Colony, Jester
+Titandrake - discards Colony
+Titandrake - discards Copper
+Titandrake - discards Tribute
+Titandrake - places Jester on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Jester
+Titandrake - looks at Haggler, Province, Mercenary, Colony
+Titandrake - discards Colony
+Titandrake - discards Province
+Titandrake - discards Mercenary
+Titandrake - discards Haggler
+Titandrake - plays Cartographer
+Titandrake - draws Gold
+Titandrake - looks at Cartographer, Platinum, Mercenary, Province
+Titandrake - discards Province
+Titandrake - discards Mercenary
+Titandrake - places Platinum on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - plays Jester
+AJ - reveals Cartographer
+AJ - discards Cartographer
+Titandrake - gains Cartographer
+Titandrake - plays 2 Platinum, 1 Copper, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Cartographer, Platinum, Gold, Scheme, Scheme
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Cartographer, 2 Scheme, 2 Mercenary, 1 Tribute, 1 Haggler, 1 Jester, 4 Gold, 3 Platinum, 2 Copper, 1 Silver, 4 Province, 4 Colony
+Titandrake - total victory points: 64
+Titandrake - turns: 25
+ 
+AJ - cards: 2 Cartographer, 2 Tribute, 2 Merchant Ship, 1 Haggler, 1 Mercenary, 1 Necropolis, 1 Scheme, 5 Gold, 2 Platinum, 2 Copper, 4 Colony, 3 Province, 1 Estate
+AJ - total victory points: 59
+AJ - turns: 24
+ 
+1st place: Titandrake
+2nd place: AJ
+ 

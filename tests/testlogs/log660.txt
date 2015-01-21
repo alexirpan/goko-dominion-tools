@@ -1,0 +1,649 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Pawn, Lookout, Workshop, Remodel, Library, Minion, Vault, Adventurer, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+chenda - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+chenda - shuffles deck
+Titandrake - shuffles deck
+chenda - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- chenda: turn 1 ----------
+chenda - plays 4 Copper
+chenda - buys Remodel
+chenda - gains Remodel
+chenda - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- chenda: turn 2 ----------
+chenda - plays 3 Copper
+chenda - buys Silver
+chenda - gains Silver
+chenda - shuffles deck
+chenda - draws Estate, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- chenda: turn 3 ----------
+chenda - plays 2 Copper, 1 Silver
+chenda - buys Silver
+chenda - gains Silver
+chenda - draws Remodel, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Estate, Copper, Chapel, Pawn, Copper
+ 
+---------- chenda: turn 4 ----------
+chenda - plays Remodel
+chenda - trashes Copper
+chenda - gains Chapel
+chenda - plays 3 Copper
+chenda - buys Silver
+chenda - gains Silver
+chenda - draws Copper, Estate
+chenda - shuffles deck
+chenda - draws Estate, Remodel, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper, Copper, Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Pawn, Chapel, Estate
+ 
+---------- chenda: turn 5 ----------
+chenda - plays Remodel
+chenda - trashes Estate
+chenda - gains Silver
+chenda - plays 2 Copper
+chenda - buys Pawn
+chenda - gains Pawn
+chenda - draws Silver, Silver, Estate, Copper, Chapel
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Estate, Pawn
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Chapel
+ 
+---------- chenda: turn 6 ----------
+chenda - plays Chapel
+chenda - trashes Estate
+chenda - plays 2 Silver, 1 Copper
+chenda - buys Minion
+chenda - gains Minion
+chenda - draws Copper, Copper, Silver, Copper
+chenda - shuffles deck
+chenda - draws Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Pawn, Pawn, Copper, Copper
+ 
+---------- chenda: turn 7 ----------
+chenda - plays 3 Copper, 1 Silver
+chenda - buys Minion
+chenda - gains Minion
+chenda - draws Copper, Minion, Copper, Silver, Chapel
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Chapel
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Pawn, Copper, Chapel, Silver
+ 
+---------- chenda: turn 8 ----------
+chenda - plays Minion
+chenda - discards: Copper, Copper, Silver, Chapel
+chenda - draws Remodel, Silver, Pawn, Silver
+Titandrake - discards: Copper, Pawn, Copper, Chapel, Silver
+Titandrake - draws Copper, Pawn, Pawn, Minion
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - draws Copper
+chenda - plays Remodel
+chenda - trashes Silver
+chenda - gains Minion
+chenda - plays 1 Silver, 1 Copper
+chenda - buys Pawn
+chenda - gains Pawn
+chenda - shuffles deck
+chenda - draws Remodel, Chapel, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - discards Copper
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Copper, Copper, Copper
+chenda - discards: Remodel, Chapel, Copper, Silver, Copper
+chenda - draws Pawn, Silver, Copper, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Pawn, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- chenda: turn 9 ----------
+chenda - plays Pawn
+chenda - takes 1 coin
+chenda - draws Silver
+chenda - plays 2 Silver, 2 Copper
+chenda - buys Minion
+chenda - gains Minion
+chenda - draws Copper, Minion, Minion, Estate, Pawn
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Pawn
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Pawn, Chapel, Minion, Minion
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- chenda: turn 10 ----------
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Minion
+chenda - takes 2 coins
+chenda - plays Minion
+chenda - discards: Copper, Estate
+chenda - draws Minion, Copper
+chenda - shuffles deck
+chenda - draws Estate, Chapel
+Titandrake - discards: Pawn, Chapel, Minion, Minion, Copper
+Titandrake - draws Silver, Copper, Pawn, Minion
+chenda - plays Minion
+chenda - takes 2 coins
+chenda - plays Chapel
+chenda - trashes Estate, Copper
+chenda - buys Minion
+chenda - gains Minion
+chenda - draws Copper, Silver, Minion, Silver, Pawn
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - discards: Silver, Copper
+Titandrake - draws Pawn, Copper
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Copper
+chenda - discards: Copper, Silver, Minion, Silver, Pawn
+chenda - draws Remodel, Copper, Copper, Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Silver
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Minion
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Minion, Copper, Chapel
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Minion
+ 
+---------- chenda: turn 11 ----------
+chenda - plays Remodel
+chenda - trashes Copper
+chenda - gains Pawn
+chenda - plays 2 Copper
+chenda - buys Pawn
+chenda - gains Pawn
+chenda - draws Copper, Silver
+chenda - shuffles deck
+chenda - draws Minion, Minion, Pawn
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Copper, Chapel
+Titandrake - draws Copper, Copper, Pawn, Pawn
+chenda - discards: Copper, Silver, Minion, Minion, Pawn
+chenda - draws Minion, Copper, Pawn, Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Silver
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Minion, Minion
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Minion, Silver
+ 
+---------- chenda: turn 12 ----------
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Minion
+chenda - discards Copper
+chenda - draws Silver, Copper, Copper, Silver
+Titandrake - discards: Minion, Minion, Pawn, Minion, Silver
+Titandrake - draws Chapel, Copper, Minion, Silver
+chenda - plays 2 Silver, 2 Copper
+chenda - buys Gold
+chenda - gains Gold
+chenda - draws Pawn, Remodel, Minion, Chapel, Minion
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Minion
+Titandrake - discards: Chapel, Copper, Silver
+Titandrake - draws Copper, Pawn, Minion, Pawn
+chenda - discards: Pawn, Remodel, Minion, Chapel, Minion
+chenda - shuffles deck
+chenda - draws Silver, Copper, Minion, Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - discards Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Chapel, Minion
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - discards: Copper, Chapel
+Titandrake - draws Minion, Silver, Copper, Silver
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Copper, Minion
+Titandrake - shuffles deck
+Titandrake - draws Minion, Platinum, Pawn
+ 
+---------- chenda: turn 13 ----------
+chenda - plays Pawn
+chenda - takes 1 coin
+chenda - takes 1 action
+chenda - plays Minion
+chenda - discards: Silver, Copper
+chenda - draws Silver, Gold, Chapel, Remodel
+Titandrake - discards: Copper, Minion, Minion, Platinum, Pawn
+Titandrake - draws Pawn, Chapel, Silver, Pawn
+chenda - plays Remodel
+chenda - trashes Chapel
+chenda - gains Remodel
+chenda - plays 1 Silver, 1 Gold
+chenda - buys Gold
+chenda - gains Gold
+chenda - draws Copper, Pawn, Minion, Silver, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Minion
+Titandrake - plays Minion
+Titandrake - discards: Chapel, Silver, Copper
+Titandrake - draws Minion, Minion, Silver, Copper
+chenda - discards: Copper, Pawn, Minion, Silver, Copper
+chenda - draws Minion, Pawn, Minion, Copper
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Copper, Silver, Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper
+Titandrake - plays Silver
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - draws Minion, Platinum, Minion, Copper, Silver
+ 
+---------- chenda: turn 14 ----------
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Minion
+chenda - takes 2 coins
+chenda - plays Minion
+chenda - discards Copper
+chenda - draws Pawn, Minion
+chenda - shuffles deck
+chenda - draws Pawn, Silver
+Titandrake - discards: Minion, Platinum, Minion, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Minion, Silver, Copper, Chapel
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Minion
+chenda - discards Silver
+chenda - draws Gold, Copper, Copper, Remodel
+chenda - plays Remodel
+chenda - trashes Copper
+chenda - gains Pawn
+chenda - plays 1 Gold, 1 Copper
+chenda - buys Platinum
+chenda - gains Platinum
+chenda - draws Remodel, Copper, Silver, Pawn, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Minion
+Titandrake - discards: Silver, Copper, Chapel
+Titandrake - draws Pawn, Minion, Remodel, Minion
+chenda - discards: Remodel, Copper, Silver, Pawn, Copper
+chenda - draws Silver, Minion, Minion, Gold
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards Remodel
+Titandrake - draws Pawn, Pawn, Minion, Silver
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 1 Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Platinum, Minion
+Titandrake - shuffles deck
+Titandrake - draws Platinum, Silver, Pawn
+ 
+---------- chenda: turn 15 ----------
+chenda - plays Minion
+chenda - takes 2 coins
+chenda - plays Minion
+chenda - takes 2 coins
+chenda - plays 1 Silver, 1 Gold
+chenda - buys Platinum
+chenda - gains Platinum
+chenda - shuffles deck
+chenda - draws Pawn, Pawn, Remodel, Minion, Platinum
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 2 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Minion, Minion, Silver, Chapel, Copper
+ 
+---------- chenda: turn 16 ----------
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Minion
+chenda - discards: Remodel, Platinum
+chenda - draws Platinum, Gold, Gold, Copper
+Titandrake - discards: Minion, Minion, Silver, Chapel, Copper
+Titandrake - draws Minion, Pawn, Pawn, Remodel
+chenda - plays 2 Gold, 1 Platinum, 1 Copper
+chenda - buys Colony
+chenda - gains Colony
+chenda - draws Pawn, Pawn, Copper, Silver, Remodel
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - discards Remodel
+Titandrake - draws Minion
+Titandrake - shuffles deck
+Titandrake - draws Platinum, Remodel, Minion
+chenda - discards: Pawn, Pawn, Copper, Silver, Remodel
+chenda - draws Minion, Minion, Minion, Silver
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Platinum, Remodel
+Titandrake - draws Pawn, Silver, Minion, Platinum
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 1 Silver, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Minion, Colony, Pawn, Copper, Silver
+ 
+---------- chenda: turn 17 ----------
+chenda - plays Minion
+chenda - takes 2 coins
+chenda - plays Minion
+chenda - takes 2 coins
+chenda - plays Minion
+chenda - discards Silver
+chenda - draws Minion, Copper, Pawn, Silver
+Titandrake - discards: Minion, Colony, Pawn, Copper, Silver
+Titandrake - draws Chapel
+Titandrake - shuffles deck
+Titandrake - draws Platinum, Pawn, Silver
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Minion
+chenda - discards: Copper, Silver
+chenda - shuffles deck
+chenda - draws Copper, Gold, Remodel, Copper
+chenda - plays Remodel
+chenda - trashes Copper
+chenda - gains Pawn
+chenda - plays 1 Copper, 1 Gold
+chenda - buys Platinum
+chenda - gains Platinum
+chenda - draws Silver, Gold, Platinum, Pawn, Pawn
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 1 Platinum
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Minion, Minion, Pawn, Colony, Remodel
+ 
+---------- chenda: turn 18 ----------
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - draws Colony
+chenda - plays Pawn
+chenda - takes 1 coin
+chenda - draws Silver
+chenda - plays 2 Silver, 1 Gold, 1 Platinum
+chenda - buys Colony
+chenda - gains Colony
+chenda - draws Pawn, Platinum, Pawn, Remodel, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Colony, Remodel
+Titandrake - draws Minion, Pawn, Pawn, Minion
+chenda - discards: Pawn, Platinum, Pawn, Remodel, Silver
+chenda - draws Minion, Copper
+chenda - shuffles deck
+chenda - draws Silver, Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - draws Platinum, Minion, Colony, Copper
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 1 Platinum, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Silver, Minion, Minion, Pawn, Minion
+ 
+---------- chenda: turn 19 ----------
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Minion
+chenda - discards: Copper, Silver
+chenda - draws Minion, Minion, Silver, Gold
+Titandrake - discards: Silver, Minion, Minion, Pawn, Minion
+Titandrake - draws Pawn, Platinum, Silver, Copper
+chenda - plays Minion
+chenda - takes 2 coins
+chenda - plays Minion
+chenda - discards: Silver, Gold
+chenda - draws Colony, Platinum, Platinum, Gold
+chenda - plays 2 Platinum, 1 Gold
+chenda - buys Colony
+chenda - gains Colony
+chenda - draws Pawn, Pawn, Silver, Minion, Platinum
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 1 Platinum, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Colony, Minion, Pawn, Platinum, Remodel
+ 
+---------- chenda: turn 20 ----------
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Pawn
+chenda - takes 1 action
+chenda - takes 1 coin
+chenda - plays Minion
+chenda - takes 2 coins
+chenda - plays 1 Silver, 1 Platinum
+chenda - buys Colony
+chenda - gains Colony
+chenda - draws Minion, Remodel, Remodel, Pawn, Pawn
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Remodel
+Titandrake - trashes Platinum
+Titandrake - gains Colony
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Platinum, Pawn, Colony, Chapel, Colony
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Minion, 4 Pawn, 1 Chapel, 1 Remodel, 2 Platinum, 2 Silver, 1 Copper, 4 Colony, 1 Province, 1 Estate
+Titandrake - total victory points: 47
+Titandrake - turns: 20
+ 
+chenda - cards: 6 Pawn, 5 Minion, 2 Remodel, 3 Silver, 3 Platinum, 2 Copper, 2 Gold, 4 Colony
+chenda - total victory points: 40
+chenda - turns: 20
+ 
+1st place: Titandrake
+2nd place: chenda
+ 

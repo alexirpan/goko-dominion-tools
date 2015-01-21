@@ -1,0 +1,394 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Moat, Chancellor, Urchin, Nomad Camp, Salvager, Talisman, Harvest, Upgrade, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Wolfhere - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Wolfhere - shuffles deck
+Titandrake - shuffles deck
+Wolfhere - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Wolfhere: turn 1 ----------
+Wolfhere - plays 5 Copper
+Wolfhere - buys Upgrade
+Wolfhere - gains Upgrade
+Wolfhere - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Wolfhere: turn 2 ----------
+Wolfhere - plays 2 Copper
+Wolfhere - buys Moat
+Wolfhere - gains Moat
+Wolfhere - shuffles deck
+Wolfhere - draws Upgrade, Copper, Copper, Moat, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - shuffles deck
+Titandrake - draws Copper, Urchin, Urchin, Estate, Copper
+ 
+---------- Wolfhere: turn 3 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Estate
+Wolfhere - trashes Estate
+Wolfhere - gains Silver
+Wolfhere - plays Moat
+Wolfhere - draws Copper, Copper
+Wolfhere - plays 4 Copper
+Wolfhere - buys Nomad Camp
+Wolfhere - gains Nomad Camp
+Wolfhere - draws Nomad Camp, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+Wolfhere - discards Estate
+Titandrake - plays Urchin
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Wolfhere: turn 4 ----------
+Wolfhere - plays Nomad Camp
+Wolfhere - plays 3 Copper
+Wolfhere - buys Upgrade
+Wolfhere - gains Upgrade
+Wolfhere - shuffles deck
+Wolfhere - draws Copper, Estate, Copper, Upgrade, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Wolfhere: turn 5 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Copper
+Wolfhere - trashes Estate
+Wolfhere - gains Silver
+Wolfhere - plays 4 Copper
+Wolfhere - buys Salvager
+Wolfhere - gains Salvager
+Wolfhere - draws Estate, Nomad Camp, Copper, Upgrade, Moat
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Mercenary, Copper, Silver, Copper, Estate
+ 
+---------- Wolfhere: turn 6 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Copper
+Wolfhere - trashes Estate
+Wolfhere - gains Silver
+Wolfhere - plays Nomad Camp
+Wolfhere - plays 2 Copper
+Wolfhere - buys Silver
+Wolfhere - gains Silver
+Wolfhere - draws Silver, Copper
+Wolfhere - shuffles deck
+Wolfhere - draws Upgrade, Copper, Salvager
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Silver, Copper
+Wolfhere - discards Salvager
+Wolfhere - discards Copper
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Urchin
+Titandrake - shuffles deck
+Titandrake - draws Silver, Mercenary, Estate
+ 
+---------- Wolfhere: turn 7 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Nomad Camp
+Wolfhere - trashes Copper
+Wolfhere - plays Nomad Camp
+Wolfhere - plays 1 Silver
+Wolfhere - buys Silver
+Wolfhere - gains Silver
+Wolfhere - draws Copper, Silver, Copper, Upgrade, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Urchin
+Titandrake - draws Silver
+Wolfhere - discards Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Estate
+Wolfhere - discards Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Silver, Copper, Gold
+ 
+---------- Wolfhere: turn 8 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Moat
+Wolfhere - trashes Copper
+Wolfhere - plays Moat
+Wolfhere - draws Copper, Silver
+Wolfhere - plays 2 Silver, 1 Copper
+Wolfhere - buys Harvest
+Wolfhere - gains Harvest
+Wolfhere - draws Silver, Copper
+Wolfhere - shuffles deck
+Wolfhere - draws Copper, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Gold, Gold, Copper
+ 
+---------- Wolfhere: turn 9 ----------
+Wolfhere - plays 3 Copper, 2 Silver
+Wolfhere - buys Gold
+Wolfhere - gains Gold
+Wolfhere - draws Nomad Camp, Silver, Salvager, Upgrade, Harvest
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 2 Gold, 1 Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Silver, Gold, Copper, Estate, Mercenary
+ 
+---------- Wolfhere: turn 10 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Copper
+Wolfhere - trashes Copper
+Wolfhere - plays Harvest
+Wolfhere - reveals: Upgrade, Silver, Silver, Copper
+Wolfhere - discards: Upgrade, Silver, Silver, Copper
+Wolfhere - plays 1 Silver
+Wolfhere - buys Upgrade
+Wolfhere - gains Upgrade
+Wolfhere - draws Moat
+Wolfhere - shuffles deck
+Wolfhere - draws Copper, Nomad Camp, Silver, Salvager
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mercenary
+Wolfhere - reveals reaction Moat
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Silver
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Copper, Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Copper
+ 
+---------- Wolfhere: turn 11 ----------
+Wolfhere - plays Nomad Camp
+Wolfhere - plays 1 Copper, 1 Silver
+Wolfhere - buys Upgrade
+Wolfhere - gains Upgrade
+Wolfhere - draws Silver, Gold, Upgrade, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Platinum, Platinum
+Wolfhere - discards Upgrade
+Wolfhere - discards Copper
+Titandrake - plays 2 Silver, 2 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Copper, Copper, Mercenary, Gold
+ 
+---------- Wolfhere: turn 12 ----------
+Wolfhere - plays 1 Silver, 1 Gold, 1 Copper
+Wolfhere - buys Gold
+Wolfhere - gains Gold
+Wolfhere - draws Silver, Upgrade, Silver, Upgrade, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Silver, Gold
+Wolfhere - discards Copper
+Wolfhere - discards Silver
+Titandrake - plays 3 Gold, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Colony, Platinum, Platinum, Mercenary, Silver
+ 
+---------- Wolfhere: turn 13 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Harvest
+Wolfhere - trashes Upgrade
+Wolfhere - gains Gold
+Wolfhere - plays Harvest
+Wolfhere - reveals: Silver
+Wolfhere - shuffles deck
+Wolfhere - reveals: Upgrade, Moat, Copper
+Wolfhere - discards: Silver, Upgrade, Moat, Copper
+Wolfhere - plays 1 Silver
+Wolfhere - buys Gold
+Wolfhere - gains Gold
+Wolfhere - draws Gold, Gold, Upgrade, Silver, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Silver, Colony, Gold, Mercenary
+ 
+---------- Wolfhere: turn 14 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Silver
+Wolfhere - trashes Copper
+Wolfhere - plays 2 Gold, 2 Silver
+Wolfhere - buys Platinum
+Wolfhere - gains Platinum
+Wolfhere - draws Salvager, Nomad Camp, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Forge
+Titandrake - gains Forge
+Titandrake - draws Gold, Silver
+Titandrake - shuffles deck
+Titandrake - draws Mercenary, Mercenary, Platinum
+ 
+---------- Wolfhere: turn 15 ----------
+Wolfhere - plays Salvager
+Wolfhere - trashes Nomad Camp
+Wolfhere - plays 2 Copper, 1 Gold
+Wolfhere - buys Platinum
+Wolfhere - gains Platinum
+Wolfhere - draws Silver
+Wolfhere - shuffles deck
+Wolfhere - draws Salvager, Copper, Moat, Platinum
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Mercenary
+Wolfhere - reveals reaction Moat
+Titandrake - trashes Mercenary, Silver
+Titandrake - draws Colony, Silver
+Titandrake - plays 1 Gold, 1 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Platinum, Silver, Colony, Colony
+ 
+---------- Wolfhere: turn 16 ----------
+Wolfhere - plays Moat
+Wolfhere - draws Silver, Gold
+Wolfhere - plays 2 Silver, 1 Copper, 1 Platinum, 1 Gold
+Wolfhere - buys Colony
+Wolfhere - gains Colony
+Wolfhere - draws Copper, Silver, Gold, Silver, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Gold, 1 Platinum, 1 Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Forge, Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Mercenary
+ 
+---------- Wolfhere: turn 17 ----------
+Wolfhere - plays 2 Silver, 2 Gold, 1 Copper
+Wolfhere - buys Colony
+Wolfhere - gains Colony
+Wolfhere - draws Upgrade, Silver, Upgrade, Upgrade, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Forge, Silver
+Titandrake - draws Platinum, Colony
+Wolfhere - discards Silver
+Wolfhere - discards Upgrade
+Titandrake - plays 2 Gold, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Colony, Colony, Silver, Platinum
+ 
+---------- Wolfhere: turn 18 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Platinum
+Wolfhere - trashes Upgrade
+Wolfhere - gains Gold
+Wolfhere - plays 1 Gold, 1 Platinum
+Wolfhere - buys Province
+Wolfhere - gains Province
+Wolfhere - draws Harvest, Copper
+Wolfhere - shuffles deck
+Wolfhere - draws Copper, Gold, Salvager
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 1 Gold, 1 Silver, 1 Platinum
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Colony, Platinum
+Titandrake - shuffles deck
+Titandrake - draws Silver, Colony, Colony
+ 
+---------- Wolfhere: turn 19 ----------
+Wolfhere - plays Harvest
+Wolfhere - reveals: Silver, Gold, Gold, Silver
+Wolfhere - discards: Silver, Gold, Gold, Silver
+Wolfhere - plays 2 Copper, 1 Gold
+Wolfhere - buys Gold
+Wolfhere - gains Gold
+Wolfhere - draws Colony, Gold, Upgrade, Silver, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 1 Platinum, 1 Silver
+Titandrake - buys Forge
+Titandrake - gains Forge
+Titandrake - draws Platinum, Platinum, Gold, Colony, Gold
+ 
+---------- Wolfhere: turn 20 ----------
+Wolfhere - plays Upgrade
+Wolfhere - draws Silver
+Wolfhere - trashes Silver
+Wolfhere - gains Nomad Camp
+Wolfhere - plays 2 Gold, 1 Silver
+Wolfhere - buys Province
+Wolfhere - gains Province
+Wolfhere - draws Nomad Camp, Upgrade, Platinum, Platinum, Colony
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Platinum, 2 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Colony, Gold, Province, Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Mercenary, 1 Forge, 3 Gold, 3 Platinum, 1 Silver, 6 Colony, 1 Province
+Titandrake - total victory points: 66
+Titandrake - turns: 20
+ 
+Wolfhere - cards: 2 Upgrade, 1 Nomad Camp, 1 Harvest, 1 Salvager, 1 Moat, 6 Gold, 4 Silver, 3 Copper, 2 Platinum, 2 Colony, 2 Province
+Wolfhere - total victory points: 32
+Wolfhere - turns: 20
+ 
+1st place: Titandrake
+2nd place: Wolfhere
+ 

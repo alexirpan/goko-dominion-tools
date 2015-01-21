@@ -1,0 +1,570 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Horse Traders, Treasure Map, Embassy, Ghost Ship, Inn, Upgrade, Hunting Grounds, Bank, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Copper, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Horse Traders
+SheCantSayNo - gains Horse Traders
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate, Horse Traders, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Upgrade
+SheCantSayNo - gains Upgrade
+SheCantSayNo - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Estate, Horse Traders, Silver, Estate, Copper
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Horse Traders
+SheCantSayNo - gains Horse Traders
+SheCantSayNo - draws Silver, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Horse Traders, Silver, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays 4 Copper, 1 Silver
+SheCantSayNo - buys Hunting Grounds
+SheCantSayNo - gains Hunting Grounds
+SheCantSayNo - draws Estate, Estate, Copper, Upgrade, Horse Traders
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - draws Copper, Estate, Copper, Copper, Horse Traders
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Estate
+SheCantSayNo - trashes Estate
+SheCantSayNo - gains Silver
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - buys Horse Traders
+SheCantSayNo - gains Horse Traders
+SheCantSayNo - draws Copper, Horse Traders, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Upgrade, Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Copper
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Upgrade
+SheCantSayNo - gains Upgrade
+SheCantSayNo - draws Horse Traders, Hunting Grounds, Silver, Silver, Upgrade
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Crossroads, Copper
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Estate
+SheCantSayNo - trashes Estate
+SheCantSayNo - gains Silver
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Hunting Grounds
+SheCantSayNo - discards Silver
+SheCantSayNo - plays 1 Silver
+SheCantSayNo - buys Inn
+SheCantSayNo - gains Inn
+SheCantSayNo - places Inn, Hunting Grounds, Upgrade, Horse Traders on top of deck
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Hunting Grounds, Horse Traders, Estate, Horse Traders
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Crossroads, Hunting Grounds, Estate, Horse Traders, Horse Traders
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Horse Traders
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - buys Crossroads
+SheCantSayNo - gains Crossroads
+SheCantSayNo - buys Crossroads
+SheCantSayNo - gains Crossroads
+SheCantSayNo - draws Copper, Upgrade, Copper, Inn
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Hunting Grounds, Estate, Horse Traders, Horse Traders
+Titandrake - draws Copper
+Titandrake - plays Hunting Grounds
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Upgrade
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Horse Traders
+Titandrake - gains Upgrade
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Upgrade, Crossroads, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver, Copper, Estate
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Horse Traders
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Horse Traders
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - buys Horse Traders
+SheCantSayNo - gains Horse Traders
+SheCantSayNo - draws Copper, Horse Traders, Hunting Grounds, Silver, Upgrade
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - draws Crossroads, Inn, Upgrade, Crossroads, Horse Traders
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Horse Traders
+SheCantSayNo - trashes Horse Traders
+SheCantSayNo - gains Inn
+SheCantSayNo - places Inn, Inn, Upgrade, Horse Traders, Horse Traders on top of deck
+SheCantSayNo - shuffles deck
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Hunting Grounds
+SheCantSayNo - discards Copper
+SheCantSayNo - plays 1 Silver
+SheCantSayNo - buys Upgrade
+SheCantSayNo - gains Upgrade
+SheCantSayNo - draws Copper, Horse Traders, Estate, Inn, Inn
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Inn
+Titandrake - shuffles deck
+Titandrake - draws Hunting Grounds, Silver
+Titandrake - discards Crossroads
+Titandrake - discards Silver
+Titandrake - plays Hunting Grounds
+Titandrake - draws Copper, Silver, Estate, Crossroads
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Upgrade, Horse Traders, Copper, Silver, Estate, Crossroads
+Titandrake - draws Copper
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Horse Traders, Silver, Estate, Copper
+Titandrake - draws Copper
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Expand
+Titandrake - gains Expand
+Titandrake - draws Copper, Estate, Copper, Horse Traders, Upgrade
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Crossroads, Crossroads
+SheCantSayNo - discards Inn
+SheCantSayNo - discards Crossroads
+SheCantSayNo - plays Crossroads
+SheCantSayNo - reveals hand: Copper, Horse Traders, Estate
+SheCantSayNo - draws Horse Traders
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - buys Hunting Grounds
+SheCantSayNo - gains Hunting Grounds
+SheCantSayNo - draws Copper, Upgrade, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Inn
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Estate
+Titandrake - trashes Copper
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 1 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Hunting Grounds
+Titandrake - shuffles deck
+Titandrake - draws Inn, Horse Traders, Crossroads, Copper
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Copper
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Hunting Grounds, Hunting Grounds
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Hunting Grounds
+SheCantSayNo - draws Copper, Inn, Estate, Crossroads
+SheCantSayNo - plays Crossroads
+SheCantSayNo - reveals hand: Silver, Hunting Grounds, Copper, Inn, Estate
+SheCantSayNo - draws Horse Traders
+SheCantSayNo - plays Hunting Grounds
+SheCantSayNo - draws Upgrade, Copper, Horse Traders, Silver
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Copper
+SheCantSayNo - trashes Estate
+SheCantSayNo - gains Silver
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Silver, Horse Traders
+SheCantSayNo - discards Horse Traders
+SheCantSayNo - discards Horse Traders
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Copper
+SheCantSayNo - plays 3 Silver, 1 Copper
+SheCantSayNo - buys Hunting Grounds
+SheCantSayNo - gains Hunting Grounds
+SheCantSayNo - buys Crossroads
+SheCantSayNo - gains Crossroads
+SheCantSayNo - draws Crossroads, Upgrade
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Crossroads, Upgrade, Hunting Grounds
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Inn
+Titandrake - draws Silver, Estate
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - plays Hunting Grounds
+Titandrake - draws Copper, Upgrade, Horse Traders, Crossroads
+Titandrake - plays Upgrade
+Titandrake - draws Estate
+Titandrake - trashes Copper
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Horse Traders, Silver, Horse Traders, Crossroads, Estate
+Titandrake - draws Hunting Grounds
+Titandrake - plays Hunting Grounds
+Titandrake - draws Upgrade, Copper, Silver, Copper
+Titandrake - plays Upgrade
+Titandrake - draws Estate
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Horse Traders
+Titandrake - discards Crossroads
+Titandrake - discards Estate
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Crossroads, Expand, Horse Traders
+Titandrake - shuffles deck
+Titandrake - draws Estate, Upgrade
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Crossroads
+SheCantSayNo - reveals hand: Crossroads, Upgrade, Upgrade, Hunting Grounds
+SheCantSayNo - plays Hunting Grounds
+SheCantSayNo - draws Copper, Inn, Copper, Horse Traders
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Copper
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Horse Traders
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Copper, Horse Traders
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Crossroads
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Horse Traders
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - buys Hunting Grounds
+SheCantSayNo - gains Hunting Grounds
+SheCantSayNo - draws Silver, Copper, Upgrade, Silver, Hunting Grounds
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Upgrade
+Titandrake - trashes Horse Traders
+Titandrake - gains Inn
+Titandrake - places Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Expand, Estate, Upgrade
+Titandrake - draws Horse Traders
+Titandrake - plays Upgrade
+Titandrake - draws Crossroads
+Titandrake - trashes Expand
+Titandrake - gains Province
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Horse Traders, Estate
+Titandrake - draws Hunting Grounds
+Titandrake - plays Hunting Grounds
+Titandrake - draws Silver, Crossroads, Horse Traders, Copper
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Crossroads
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - draws Inn, Copper, Inn, Estate, Silver
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Silver
+SheCantSayNo - trashes Hunting Grounds
+SheCantSayNo - gains Duchy
+SheCantSayNo - gains Expand
+SheCantSayNo - plays 3 Silver, 1 Copper
+SheCantSayNo - buys Expand
+SheCantSayNo - gains Expand
+SheCantSayNo - draws Inn, Hunting Grounds, Crossroads, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Inn
+Titandrake - draws Horse Traders, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Inn
+Titandrake - draws Hunting Grounds, Hunting Grounds
+Titandrake - discards Copper
+Titandrake - discards Horse Traders
+Titandrake - plays Hunting Grounds
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper
+Titandrake - plays Hunting Grounds
+Titandrake - draws Crossroads, Horse Traders, Crossroads, Upgrade
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Silver, Silver, Estate, Copper, Copper, Horse Traders, Crossroads, Upgrade
+Titandrake - draws Hunting Grounds
+Titandrake - plays Upgrade
+Titandrake - draws Province
+Titandrake - trashes Hunting Grounds
+Titandrake - gains Duchy
+Titandrake - gains Expand
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Silver, Silver, Estate, Copper, Copper, Horse Traders, Province
+Titandrake - draws Silver, Hunting Grounds
+Titandrake - plays Hunting Grounds
+Titandrake - draws Horse Traders, Horse Traders, Upgrade, Copper
+Titandrake - plays Upgrade
+Titandrake - draws Crossroads
+Titandrake - trashes Horse Traders
+Titandrake - gains Inn
+Titandrake - places Expand, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - plays Horse Traders
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - plays 3 Silver, 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Inn, Expand, Estate
+Titandrake - shuffles deck
+Titandrake - draws Upgrade, Copper
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Crossroads
+SheCantSayNo - reveals hand: Inn, Hunting Grounds, Silver, Silver
+SheCantSayNo - plays Hunting Grounds
+SheCantSayNo - draws Copper, Horse Traders, Silver, Copper
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Hunting Grounds, Expand
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Hunting Grounds
+SheCantSayNo - draws Crossroads, Inn, Crossroads, Hunting Grounds
+SheCantSayNo - plays Inn
+SheCantSayNo - draws Horse Traders, Silver
+SheCantSayNo - discards Crossroads
+SheCantSayNo - discards Crossroads
+SheCantSayNo - plays Hunting Grounds
+SheCantSayNo - draws Horse Traders, Upgrade, Expand, Copper
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Duchy
+SheCantSayNo - trashes Expand
+SheCantSayNo - gains Province
+SheCantSayNo - plays Expand
+SheCantSayNo - trashes Duchy
+SheCantSayNo - gains Province
+SheCantSayNo - plays Horse Traders
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Horse Traders
+SheCantSayNo - plays 4 Silver
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Upgrade, Upgrade
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Hunting Grounds, Upgrade, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Upgrade
+Titandrake - trashes Copper
+Titandrake - plays Inn
+Titandrake - draws Estate, Silver
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays Expand
+Titandrake - trashes Upgrade
+Titandrake - gains Province
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Hunting Grounds, Horse Traders, Hunting Grounds, Silver, Inn
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Estate
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Silver
+SheCantSayNo - trashes Estate
+SheCantSayNo - gains Silver
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Expand
+SheCantSayNo - trashes Expand
+SheCantSayNo - gains Province
+SheCantSayNo - plays Hunting Grounds
+SheCantSayNo - draws Inn, Copper, Horse Traders, Silver
+SheCantSayNo - plays 2 Silver, 1 Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Horse Traders, Horse Traders, Province, Province, Hunting Grounds
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Inn
+Titandrake - draws Inn, Duchy
+Titandrake - discards Duchy
+Titandrake - discards Silver
+Titandrake - plays Hunting Grounds
+Titandrake - draws Silver, Copper, Hunting Grounds, Crossroads
+Titandrake - plays Inn
+Titandrake - draws Province, Crossroads
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays Hunting Grounds
+Titandrake - draws Crossroads, Horse Traders, Copper, Horse Traders
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Hunting Grounds, Horse Traders, Crossroads, Province, Crossroads, Horse Traders, Copper, Horse Traders
+Titandrake - draws Province
+Titandrake - plays Horse Traders
+Titandrake - discards Province
+Titandrake - discards Hunting Grounds
+Titandrake - plays Horse Traders
+Titandrake - discards Province
+Titandrake - discards Crossroads
+Titandrake - plays Horse Traders
+Titandrake - discards Crossroads
+Titandrake - discards Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Inn, Crossroads, Crossroads, Crossroads, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Inn, 3 Hunting Grounds, 3 Horse Traders, 3 Crossroads, 1 Expand, 1 Upgrade, 3 Silver, 2 Copper, 4 Province, 3 Estate, 1 Duchy
+Titandrake - total victory points: 30
+Titandrake - turns: 17
+ 
+SheCantSayNo - cards: 3 Horse Traders, 3 Hunting Grounds, 3 Upgrade, 3 Crossroads, 2 Inn, 5 Silver, 2 Copper, 4 Province, 1 Duchy
+SheCantSayNo - total victory points: 27
+SheCantSayNo - turns: 17
+ 
+1st place: Titandrake
+2nd place: SheCantSayNo
+ 

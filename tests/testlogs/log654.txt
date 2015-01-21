@@ -1,0 +1,518 @@
+------------ Game Setup ------------
+Supply cards: Secret Chamber, Scheme, JackOfAllTrades, Rats, Council Room, Counting House, Cultist, Library, Adventurer, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+matste - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+matste - shuffles deck
+Titandrake - shuffles deck
+matste - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- matste: turn 1 ----------
+matste - plays 4 Copper
+matste - buys JackOfAllTrades
+matste - gains JackOfAllTrades
+matste - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, JackOfAllTrades
+ 
+---------- matste: turn 2 ----------
+matste - plays 3 Copper
+matste - buys Silver
+matste - gains Silver
+matste - shuffles deck
+matste - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Silver on top of deck
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- matste: turn 3 ----------
+matste - plays 2 Copper, 1 Silver
+matste - buys Rats
+matste - gains Rats
+matste - draws Copper, Copper, Estate, Copper, JackOfAllTrades
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Copper
+ 
+---------- matste: turn 4 ----------
+matste - plays JackOfAllTrades
+matste - gains Silver
+matste - places Copper on top of deck
+matste - trashes Estate
+matste - plays 4 Copper
+matste - buys Scheme
+matste - gains Scheme
+matste - draws Copper
+matste - shuffles deck
+matste - draws Copper, Copper, Copper, JackOfAllTrades
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Copper, Silver, Estate, Copper
+ 
+---------- matste: turn 5 ----------
+matste - plays JackOfAllTrades
+matste - gains Silver
+matste - discards Copper
+matste - plays 5 Copper
+matste - buys Cultist
+matste - gains Cultist
+matste - draws Copper, Estate, Rats, Scheme, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Rats
+Titandrake - gains Rats
+Titandrake - draws Copper, Cultist, JackOfAllTrades, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- matste: turn 6 ----------
+matste - plays Scheme
+matste - draws Silver
+matste - plays Rats
+matste - draws Silver
+matste - gains Rats
+matste - trashes Estate
+matste - plays 2 Silver, 1 Copper
+matste - buys Cultist
+matste - gains Cultist
+matste - Scheme choice: Rats
+matste - draws Rats
+matste - shuffles deck
+matste - draws Silver, Copper, Rats, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cultist
+Titandrake - draws Gold, Copper
+matste - gains Abandoned Mine
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Estate, Silver, Copper, Copper
+ 
+---------- matste: turn 7 ----------
+matste - plays Rats
+matste - draws Cultist
+matste - gains Rats
+matste - trashes Copper
+matste - plays Cultist
+matste - draws Copper, Copper
+Titandrake - gains Survivors
+matste - plays 2 Silver, 2 Copper
+matste - buys Farmland
+matste - trashes Rats
+matste - draws JackOfAllTrades
+matste - gains Gold
+matste - gains Farmland
+matste - draws Copper, Cultist, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Rats, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- matste: turn 8 ----------
+matste - plays Cultist
+matste - draws Scheme, Estate
+Titandrake - gains Ruined Village
+matste - plays 3 Copper, 1 Silver
+matste - buys Cultist
+matste - gains Cultist
+matste - draws Copper
+matste - shuffles deck
+matste - draws Estate, Silver, Silver, Scheme
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Silver, Copper, Cultist, Copper, Gold
+ 
+---------- matste: turn 9 ----------
+matste - plays Scheme
+matste - draws Copper
+matste - plays 2 Copper, 2 Silver
+matste - buys Gold
+matste - gains Gold
+matste - Scheme choice: Scheme
+matste - draws Scheme, Farmland, Cultist, Copper, JackOfAllTrades
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cultist
+Titandrake - draws Survivors, Estate
+matste - gains Ruined Village
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Province, JackOfAllTrades, Copper
+ 
+---------- matste: turn 10 ----------
+matste - plays Scheme
+matste - draws Copper
+matste - plays Cultist
+matste - draws Silver, Cultist
+Titandrake - gains Abandoned Mine
+matste - plays Cultist
+matste - draws Copper, Gold
+Titandrake - gains Ruined Library
+matste - plays 3 Copper, 1 Silver, 1 Gold
+matste - buys Province
+matste - gains Province
+matste - Scheme choice: Cultist
+matste - draws Cultist, Abandoned Mine, Copper, Rats, Rats
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Abandoned Mine, Ruined Library, Copper
+ 
+---------- matste: turn 11 ----------
+matste - plays Rats
+matste - draws Cultist
+matste - gains Rats
+matste - trashes Abandoned Mine
+matste - plays Cultist
+matste - shuffles deck
+matste - draws Estate, Copper
+Titandrake - gains Ruined Village
+matste - plays Cultist
+matste - draws Silver, Ruined Village
+Titandrake - gains Ruined Market
+matste - plays 2 Copper, 1 Silver
+matste - buys Scheme
+matste - gains Scheme
+matste - draws Silver, Silver, Gold, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Rats
+Titandrake - gains Rats
+Titandrake - draws Silver, Province, Copper, Copper, Survivors
+ 
+---------- matste: turn 12 ----------
+matste - plays 2 Silver, 2 Copper, 1 Gold
+matste - buys Province
+matste - gains Province
+matste - draws Gold, Copper, Copper, JackOfAllTrades, Rats
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Copper, Gold
+Titandrake - places Gold on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Copper, Gold, Cultist, Copper, Silver
+ 
+---------- matste: turn 13 ----------
+matste - plays JackOfAllTrades
+matste - gains Silver
+matste - discards Farmland
+matste - trashes Rats
+matste - draws Scheme
+matste - plays 2 Copper, 1 Gold
+matste - buys Cultist
+matste - gains Cultist
+matste - draws Cultist
+matste - shuffles deck
+matste - draws Cultist, Cultist, Province, Farmland
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Cultist
+Titandrake - draws Cultist, Rats
+matste - gains Ruined Library
+Titandrake - plays Cultist
+Titandrake - draws JackOfAllTrades, Gold
+matste - gains Ruined Market
+Titandrake - plays 2 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Ruined Village, Copper, Gold, Silver
+ 
+---------- matste: turn 14 ----------
+matste - plays Cultist
+matste - draws Copper, Gold
+matste - plays Cultist
+matste - draws Gold, Silver
+matste - plays Cultist
+matste - draws Scheme, Copper
+matste - plays 2 Copper, 2 Gold, 1 Silver
+matste - buys Province
+matste - gains Province
+matste - draws Copper, Copper, Province, Silver, Rats
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Rats
+Titandrake - shuffles deck
+Titandrake - draws Rats, Ruined Village, Silver
+ 
+---------- matste: turn 15 ----------
+matste - plays Rats
+matste - draws Silver
+matste - gains Rats
+matste - trashes Copper
+matste - plays 2 Silver, 1 Copper
+matste - buys Cultist
+matste - gains Cultist
+matste - draws Scheme, Estate, Copper, Cultist, JackOfAllTrades
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Rats
+Titandrake - draws Gold
+Titandrake - gains Rats
+Titandrake - trashes Ruined Village
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Silver, Abandoned Mine, Copper, Rats
+ 
+---------- matste: turn 16 ----------
+matste - plays Scheme
+matste - draws Copper
+matste - plays JackOfAllTrades
+matste - gains Silver
+matste - discards Rats
+matste - trashes Cultist
+matste - draws Silver
+matste - shuffles deck
+matste - draws Copper, Cultist
+matste - plays 3 Copper, 1 Silver
+matste - buys Duchy
+matste - gains Duchy
+matste - Scheme choice: JackOfAllTrades
+matste - draws JackOfAllTrades, Cultist, Ruined Library, Farmland, Rats
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Rats
+Titandrake - draws Gold
+Titandrake - gains Rats
+Titandrake - trashes Abandoned Mine
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Ruined Library, Survivors, Scheme, Silver, Ruined Market
+ 
+---------- matste: turn 17 ----------
+matste - plays JackOfAllTrades
+matste - gains Silver
+matste - places Silver on top of deck
+matste - trashes Cultist
+matste - draws Cultist, Province, Scheme
+matste - plays 1 Silver
+matste - buys Estate
+matste - gains Estate
+matste - draws Silver, Cultist, Copper, Gold, Ruined Market
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Ruined Market
+Titandrake - plays 2 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Province, Silver, Cultist, Gold
+ 
+---------- matste: turn 18 ----------
+matste - plays Cultist
+matste - draws Copper, Province
+matste - plays 2 Copper, 1 Silver, 1 Gold
+matste - buys Duchy
+matste - gains Duchy
+matste - draws Silver, Gold, Rats, Silver, Rats
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Scheme
+Titandrake - draws JackOfAllTrades
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - trashes Cultist
+Titandrake - draws Ruined Village, Copper, Copper
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - Scheme choice: JackOfAllTrades
+Titandrake - draws JackOfAllTrades, Copper, Copper, Cultist, Copper
+ 
+---------- matste: turn 19 ----------
+matste - plays 2 Silver, 1 Gold
+matste - buys Farmland
+matste - trashes Rats
+matste - draws Province
+matste - gains Farmland
+matste - gains Farmland
+matste - shuffles deck
+matste - draws Duchy, Estate, Duchy, Gold, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - discards Ruined Village
+Titandrake - trashes Cultist
+Titandrake - draws Rats, Rats, Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Ruined Market, Copper, Estate, Duchy
+ 
+---------- matste: turn 20 ----------
+matste - plays 1 Gold, 1 Copper
+matste - buys Estate
+matste - gains Estate
+matste - draws Scheme, Ruined Market, Province, Copper, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - draws Copper, Province, Silver, Duchy, Silver
+ 
+---------- matste: turn 21 ----------
+matste - plays Scheme
+matste - draws Silver
+matste - plays 2 Silver, 1 Copper
+matste - buys Duchy
+matste - gains Duchy
+matste - Scheme choice: Scheme
+matste - draws Scheme, JackOfAllTrades, Farmland, Copper, Province
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Rats, Silver, Estate, Silver
+ 
+---------- matste: turn 22 ----------
+matste - plays Scheme
+matste - draws Rats
+matste - plays JackOfAllTrades
+matste - gains Silver
+matste - discards Cultist
+matste - trashes Rats
+matste - draws Ruined Library
+matste - Scheme choice: Scheme
+matste - draws Scheme, Cultist, Copper, Farmland, Silver
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Farmland
+Titandrake - trashes Rats
+Titandrake - draws Silver
+Titandrake - gains Farmland
+Titandrake - gains Farmland
+Titandrake - draws Copper, Survivors, Estate, Scheme, Rats
+ 
+---------- matste: turn 23 ----------
+matste - plays Scheme
+matste - draws Cultist
+matste - plays Cultist
+matste - draws Silver, Gold
+matste - plays Cultist
+matste - draws Silver, Farmland
+matste - plays 3 Silver, 1 Copper, 1 Gold
+matste - buys Province
+matste - gains Province
+matste - Scheme choice: Cultist
+matste - draws Cultist, Copper, Estate, Silver, Ruined Village
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Scheme
+Titandrake - draws Province
+Titandrake - plays Rats
+Titandrake - draws Gold
+Titandrake - gains Rats
+Titandrake - trashes Survivors
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Rats, Copper, Province, Gold
+ 
+---------- matste: turn 24 ----------
+matste - plays Cultist
+matste - draws Rats, Scheme
+matste - plays 1 Copper, 1 Silver
+matste - buys Estate
+matste - gains Estate
+matste - shuffles deck
+matste - draws Silver, Province, Silver, Silver, Copper
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Farmland
+Titandrake - trashes Rats
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - gains Farmland
+Titandrake - gains Farmland
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Farmland, Copper, Estate, Rats
+ 
+---------- matste: turn 25 ----------
+matste - plays Silver
+matste - plays Silver
+matste - plays Silver
+matste - buys Farmland
+matste - trashes Copper
+matste - gains Estate
+matste - gains Farmland
+matste - draws Province, Duchy, Copper, Gold, Estate
+ 
+------------ Game Over ------------
+matste - cards: 3 Cultist, 2 Scheme, 1 Ruined Library, 1 Rats, 1 JackOfAllTrades, 1 Ruined Village, 1 Ruined Market, 7 Silver, 4 Copper, 2 Gold, 5 Estate, 4 Province, 4 Farmland, 3 Duchy
+matste - total victory points: 46
+matste - turns: 25
+ 
+Titandrake - cards: 4 Rats, 1 Scheme, 1 Ruined Village, 1 Ruined Library, 1 JackOfAllTrades, 1 Ruined Market, 7 Copper, 7 Silver, 3 Gold, 5 Duchy, 4 Farmland, 4 Estate, 3 Province
+Titandrake - total victory points: 45
+Titandrake - turns: 25
+ 
+1st place: matste
+2nd place: Titandrake
+ 

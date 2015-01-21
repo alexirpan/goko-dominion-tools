@@ -1,0 +1,609 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Hermit, Baron, Coppersmith, Rats, Count, Mountebank, Royal Seal, Hunting Grounds, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+madsen - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+madsen - shuffles deck
+Titandrake - shuffles deck
+madsen - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- madsen: turn 1 ----------
+madsen - plays 4 Copper
+madsen - buys Coppersmith
+madsen - gains Coppersmith
+madsen - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Baron
+Titandrake - gains Baron
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- madsen: turn 2 ----------
+madsen - plays 3 Copper
+madsen - buys Hermit
+madsen - gains Hermit
+madsen - shuffles deck
+madsen - draws Copper, Hermit, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Copper, Copper, Copper, Baron, Copper
+ 
+---------- madsen: turn 3 ----------
+madsen - plays Hermit
+madsen - trashes Estate
+madsen - gains Silver
+madsen - plays 3 Copper
+madsen - buys Silver
+madsen - gains Silver
+madsen - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Hermit
+Titandrake - shuffles deck
+Titandrake - draws Baron, Estate, Estate
+ 
+---------- madsen: turn 4 ----------
+madsen - plays 3 Copper
+madsen - buys Silver
+madsen - gains Silver
+madsen - draws Coppersmith, Copper
+madsen - shuffles deck
+madsen - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- madsen: turn 5 ----------
+madsen - plays Coppersmith
+madsen - plays 3 Copper
+madsen - buys Mountebank
+madsen - gains Mountebank
+madsen - draws Silver, Copper, Hermit, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Count
+Titandrake - gains Count
+Titandrake - draws Cellar, Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hermit
+ 
+---------- madsen: turn 6 ----------
+madsen - plays Hermit
+madsen - trashes Estate
+madsen - gains Silver
+madsen - plays 2 Silver, 2 Copper
+madsen - buys Nobles
+madsen - gains Nobles
+madsen - draws Silver, Copper, Copper, Estate
+madsen - shuffles deck
+madsen - draws Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Count, Estate, Baron, Silver, Copper
+ 
+---------- madsen: turn 7 ----------
+madsen - plays 2 Silver, 2 Copper
+madsen - buys Nobles
+madsen - gains Nobles
+madsen - draws Silver, Nobles, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Estate, Estate, Mountebank, Copper, Copper
+ 
+---------- madsen: turn 8 ----------
+madsen - plays 2 Silver, 2 Copper
+madsen - buys Nobles
+madsen - gains Nobles
+madsen - draws Hermit, Mountebank, Copper, Copper, Coppersmith
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Mountebank
+madsen - gains Curse
+madsen - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Cellar, Copper, Mountebank, Hermit
+ 
+---------- madsen: turn 9 ----------
+madsen - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+madsen - plays 2 Copper
+madsen - buys Silver
+madsen - gains Silver
+madsen - draws Copper
+madsen - shuffles deck
+madsen - draws Copper, Nobles, Copper, Nobles
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cellar
+Titandrake - discards Hermit
+Titandrake - draws Estate
+Titandrake - plays Mountebank
+madsen - gains Curse
+madsen - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Count, Copper, Estate, Hermit, Copper
+ 
+---------- madsen: turn 10 ----------
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Nobles
+madsen - draws Silver, Copper, Hermit
+madsen - plays Hermit
+madsen - trashes Curse
+madsen - gains Hermit
+madsen - plays 4 Copper, 1 Silver
+madsen - buys Gold
+madsen - gains Gold
+madsen - draws Silver, Copper, Mountebank, Silver, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Count
+Titandrake - places Hermit on top of deck
+Titandrake - trashes Copper, Estate, Copper
+Titandrake - draws Hermit, Madman, Copper, Nobles, Silver
+ 
+---------- madsen: turn 11 ----------
+madsen - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+madsen - plays 2 Silver, 1 Copper
+madsen - buys Nobles
+madsen - gains Nobles
+madsen - draws Silver, Nobles, Coppersmith, Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Madman
+Titandrake - draws Baron, Copper, Estate, Copper
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Silver
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Silver, Hermit, Silver, Silver
+ 
+---------- madsen: turn 12 ----------
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Coppersmith
+madsen - plays 1 Silver, 1 Copper
+madsen - buys Cellar
+madsen - gains Cellar
+madsen - draws Silver, Copper, Copper
+madsen - shuffles deck
+madsen - draws Estate, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Copper, Copper, Mountebank, Cellar
+ 
+---------- madsen: turn 13 ----------
+madsen - plays 2 Silver, 2 Copper
+madsen - buys Nobles
+madsen - gains Nobles
+madsen - draws Copper, Nobles, Mountebank, Nobles, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Mountebank
+madsen - gains Curse
+madsen - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Royal Seal
+Titandrake - gains Royal Seal
+Titandrake - draws Estate, Nobles, Copper, Nobles, Count
+ 
+---------- madsen: turn 14 ----------
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Nobles
+madsen - draws Coppersmith, Silver, Copper
+madsen - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+madsen - plays 2 Copper, 2 Silver
+madsen - buys Gold
+madsen - gains Gold
+madsen - draws Copper, Copper, Nobles, Copper, Nobles
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Estate, Silver, Copper
+Titandrake - plays Count
+Titandrake - places Silver on top of deck
+Titandrake - trashes Estate, Copper, Estate, Copper
+Titandrake - draws Silver, Copper, Curse, Baron, Copper
+ 
+---------- madsen: turn 15 ----------
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Nobles
+madsen - draws Silver, Copper, Curse
+madsen - plays 4 Copper, 1 Silver
+madsen - buys Hunting Grounds
+madsen - gains Hunting Grounds
+madsen - draws Hermit, Hermit, Gold, Cellar, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse, Silver, Silver, Curse
+ 
+---------- madsen: turn 16 ----------
+madsen - plays Cellar
+madsen - discards Copper
+madsen - discards Hermit
+madsen - shuffles deck
+madsen - draws Copper, Silver
+madsen - plays Hermit
+madsen - gains Silver
+madsen - plays 1 Gold, 1 Copper, 1 Silver
+madsen - buys Gold
+madsen - gains Gold
+madsen - draws Coppersmith, Gold, Hunting Grounds, Copper, Nobles
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Copper, Mountebank, Copper, Royal Seal
+ 
+---------- madsen: turn 17 ----------
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Hunting Grounds
+madsen - draws Nobles, Copper, Copper, Mountebank
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+madsen - plays Coppersmith
+madsen - plays 3 Copper, 1 Gold
+madsen - buys Province
+madsen - gains Province
+madsen - draws Copper, Hermit, Copper, Copper, Nobles
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Mountebank
+madsen - gains Curse
+madsen - gains Copper
+Titandrake - plays 3 Copper, 1 Royal Seal
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - applied Royal Seal to place Gold on top of the deck
+Titandrake - draws Gold, Baron, Cellar, Count, Silver
+ 
+---------- madsen: turn 18 ----------
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Hermit
+madsen - trashes Curse
+madsen - gains Silver
+madsen - trashes Hermit
+madsen - gains Madman
+madsen - draws Estate, Silver, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Cellar
+Titandrake - discards Count
+Titandrake - discards Baron
+Titandrake - discards Silver
+Titandrake - draws Cellar, Silver, Copper
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - draws Nobles
+Titandrake - plays Nobles
+Titandrake - draws Hermit, Nobles, Copper
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Hermit, Nobles
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- madsen: turn 19 ----------
+madsen - plays 2 Copper, 1 Silver
+madsen - buys Silver
+madsen - gains Silver
+madsen - draws Silver, Curse, Nobles, Silver, Nobles
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Hermit, Cellar, Copper, Copper, Curse
+ 
+---------- madsen: turn 20 ----------
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Nobles
+madsen - draws Copper, Silver
+madsen - shuffles deck
+madsen - draws Nobles
+madsen - plays Nobles
+madsen - draws Copper, Copper, Silver
+madsen - plays 4 Silver, 3 Copper
+madsen - buys Province
+madsen - gains Province
+madsen - draws Gold, Coppersmith, Copper, Madman, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Curse, Silver
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Gold, Royal Seal, Copper, Curse, Mountebank
+ 
+---------- madsen: turn 21 ----------
+madsen - plays Madman
+madsen - draws Nobles, Hunting Grounds, Copper, Copper
+madsen - plays Hunting Grounds
+madsen - draws Silver, Copper, Hermit, Gold
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Hermit
+madsen - trashes Curse
+madsen - gains Silver
+madsen - plays Coppersmith
+madsen - plays 4 Copper, 2 Gold, 2 Silver
+madsen - buys Province
+madsen - gains Province
+madsen - draws Silver, Province, Curse, Copper, Silver
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Mountebank
+madsen - discards Curse
+Titandrake - plays 1 Gold, 1 Royal Seal, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Baron, Nobles, Silver, Silver
+ 
+---------- madsen: turn 22 ----------
+madsen - plays 2 Silver, 1 Copper
+madsen - buys Silver
+madsen - gains Silver
+madsen - draws Gold, Mountebank, Copper, Copper, Nobles
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Nobles
+Titandrake - draws Mountebank, Nobles, Cellar
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Gold, Copper, Count
+Titandrake - shuffles deck
+Titandrake - draws Cellar
+ 
+---------- madsen: turn 23 ----------
+madsen - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+madsen - plays 2 Copper, 1 Gold
+madsen - buys Gold
+madsen - gains Gold
+madsen - draws Cellar, Estate, Copper
+madsen - shuffles deck
+madsen - draws Nobles, Copper
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Count
+Titandrake - places Gold on top of deck
+Titandrake - takes 3 coins
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Copper, Mountebank, Curse, Hermit
+ 
+---------- madsen: turn 24 ----------
+madsen - plays Cellar
+madsen - discards Estate
+madsen - discards Copper
+madsen - discards Copper
+madsen - draws Nobles, Silver, Coppersmith
+madsen - plays Nobles
+madsen - takes 2 actions
+madsen - plays Nobles
+madsen - draws Gold, Copper, Hermit
+madsen - plays Hermit
+madsen - trashes Estate
+madsen - gains Silver
+madsen - plays 1 Silver, 1 Gold, 1 Copper
+madsen - buys Gold
+madsen - gains Gold
+madsen - draws Silver, Nobles, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Silver
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Silver, Nobles, Silver, Copper, Province
+ 
+---------- madsen: turn 25 ----------
+madsen - plays Nobles
+madsen - draws Mountebank, Gold, Silver
+madsen - plays 3 Silver, 2 Copper, 1 Gold
+madsen - buys Province
+madsen - gains Province
+madsen - draws Silver, Silver, Silver, Gold, Hunting Grounds
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Silver, Copper, Copper, Silver
+ 
+---------- madsen: turn 26 ----------
+madsen - plays Hunting Grounds
+madsen - draws Copper, Copper, Copper, Province
+madsen - plays 3 Silver, 3 Copper, 1 Gold
+madsen - buys Province
+madsen - gains Province
+madsen - draws Silver, Silver, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Nobles, Royal Seal, Mountebank, Baron, Curse
+ 
+---------- madsen: turn 27 ----------
+madsen - plays 3 Silver, 2 Copper
+madsen - buys Province
+madsen - gains Province
+madsen - draws Nobles, Copper, Gold, Province, Province
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Mountebank
+madsen - gains Curse
+madsen - gains Copper
+Titandrake - plays Baron
+Titandrake - gains Estate
+Titandrake - plays Royal Seal
+Titandrake - buys Baron
+Titandrake - gains Baron
+Titandrake - applied Royal Seal to place Baron on top of the deck
+Titandrake - draws Baron, Silver, Nobles, Cellar, Silver
+ 
+---------- madsen: turn 28 ----------
+madsen - plays Nobles
+madsen - draws Nobles, Curse
+madsen - shuffles deck
+madsen - draws Gold
+madsen - plays 2 Gold, 1 Copper
+madsen - buys Duchy
+madsen - gains Duchy
+madsen - draws Copper, Copper, Copper, Curse, Silver
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays Baron
+Titandrake - gains Estate
+Titandrake - plays 2 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Madman, Gold, Madman
+Titandrake - shuffles deck
+Titandrake - draws Madman
+ 
+---------- madsen: turn 29 ----------
+madsen - plays 3 Copper, 1 Silver
+madsen - buys Duchy
+madsen - gains Duchy
+madsen - draws Gold, Cellar, Copper, Hermit, Copper
+ 
+---------- Titandrake: turn 30 ----------
+Titandrake - plays Madman
+Titandrake - draws Duchy, Duchy, Royal Seal, Duchy
+Titandrake - plays Madman
+Titandrake - draws Silver, Cellar, Baron, Mountebank, Copper, Silver, Nobles
+Titandrake - plays Madman
+Titandrake - draws Estate, Curse, Copper, Silver, Copper, Silver, Estate, Silver, Duchy, Copper, Cellar, Copper, Nobles
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Silver, Silver
+Titandrake - plays Cellar
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - discards Curse
+Titandrake - draws Copper, Mountebank, Curse, Silver, Baron
+Titandrake - plays Cellar
+Titandrake - discards Curse
+Titandrake - draws Count
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Mountebank
+madsen - gains Copper
+Titandrake - plays Mountebank
+madsen - gains Copper
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays Count
+Titandrake - gains Copper
+Titandrake - gains Duchy
+Titandrake - plays 8 Silver, 7 Copper, 1 Gold, 1 Royal Seal
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Gold, Province
+Titandrake - shuffles deck
+Titandrake - draws Royal Seal, Copper
+ 
+------------ Game Over ------------
+madsen - cards: 5 Nobles, 14 Copper, 11 Silver, 1 Cellar, 1 Hermit, 1 Hunting Grounds, 1 Coppersmith, 1 Mountebank, 5 Gold, 6 Province, 2 Duchy, 2 Curse
+madsen - total victory points: 50
+madsen - turns: 29
+ 
+Titandrake - cards: 3 Nobles, 2 Cellar, 2 Baron, 2 Mountebank, 1 Count, 9 Copper, 8 Silver, 2 Gold, 1 Royal Seal, 6 Duchy, 3 Estate, 2 Province, 2 Curse
+Titandrake - total victory points: 37
+Titandrake - turns: 30
+ 
+1st place: madsen
+2nd place: Titandrake
+ 

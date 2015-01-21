@@ -1,0 +1,409 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Vagrant, Great Hall, Oracle, Swindler, Herald, Militia, Salvager, Venture, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+2.71828..... - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+2.71828..... - shuffles deck
+Titandrake - shuffles deck
+2.71828..... - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- 2.71828.....: turn 1 ----------
+2.71828..... - plays 4 Copper
+2.71828..... - buys Salvager
+2.71828..... - gains Salvager
+2.71828..... - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- 2.71828.....: turn 2 ----------
+2.71828..... - plays 3 Copper
+2.71828..... - buys Swindler
+2.71828..... - gains Swindler
+2.71828..... - shuffles deck
+2.71828..... - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Militia, Estate, Copper, Copper, Estate
+ 
+---------- 2.71828.....: turn 3 ----------
+2.71828..... - plays 3 Copper
+2.71828..... - buys Silver
+2.71828..... - gains Silver
+2.71828..... - draws Copper, Swindler, Copper, Salvager, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Militia
+2.71828..... - discards Salvager
+2.71828..... - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Swindler, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Estate
+ 
+---------- 2.71828.....: turn 4 ----------
+2.71828..... - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+2.71828..... - plays 2 Copper
+2.71828..... - buys Herald
+2.71828..... - gains Herald
+2.71828..... - draws Copper, Estate
+2.71828..... - shuffles deck
+2.71828..... - draws Salvager, Estate, Herald
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Swindler
+2.71828..... - reveals Copper
+2.71828..... - trashes Copper
+2.71828..... - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Copper, Militia, Copper
+ 
+---------- 2.71828.....: turn 5 ----------
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Salvager
+2.71828..... - trashes Estate
+2.71828..... - plays 2 Copper
+2.71828..... - buys Herald
+2.71828..... - gains Herald
+2.71828..... - draws Copper, Copper, Swindler, Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Militia
+2.71828..... - discards Copper
+2.71828..... - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold
+ 
+---------- 2.71828.....: turn 6 ----------
+2.71828..... - plays Swindler
+Titandrake - reveals Militia
+Titandrake - trashes Militia
+Titandrake - gains Potion
+2.71828..... - plays 1 Copper, 1 Silver
+2.71828..... - buys Herald
+2.71828..... - overpays for Herald with 1 coin
+2.71828..... - places Herald on top of deck
+2.71828..... - gains Herald
+2.71828..... - draws Herald, Estate, Copper
+2.71828..... - shuffles deck
+2.71828..... - draws Swindler, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- 2.71828.....: turn 7 ----------
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Swindler
+Titandrake - reveals Gold
+Titandrake - trashes Gold
+Titandrake - gains Gold
+2.71828..... - plays 2 Copper
+2.71828..... - buys Herald
+2.71828..... - gains Herald
+2.71828..... - draws Copper, Estate, Copper, Salvager, Herald
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Copper, Swindler, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- 2.71828.....: turn 8 ----------
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Herald
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Silver
+2.71828..... - places Silver on top of deck
+2.71828..... - plays Salvager
+2.71828..... - trashes Estate
+2.71828..... - plays 4 Copper
+2.71828..... - buys Gold
+2.71828..... - gains Gold
+2.71828..... - draws Silver
+2.71828..... - shuffles deck
+2.71828..... - draws Copper, Herald, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Swindler
+2.71828..... - reveals Copper
+2.71828..... - trashes Copper
+2.71828..... - gains Curse
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Salvager, Estate, Copper, Estate, Copper
+ 
+---------- 2.71828.....: turn 9 ----------
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays 3 Copper, 1 Silver
+2.71828..... - buys Herald
+2.71828..... - overpays for Herald with 1 coin
+2.71828..... - places Curse on top of deck
+2.71828..... - gains Herald
+2.71828..... - draws Curse, Copper, Swindler, Herald, Curse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Gold, Copper, Gold, Silver, Copper
+ 
+---------- 2.71828.....: turn 10 ----------
+2.71828..... - plays Herald
+2.71828..... - draws Salvager
+2.71828..... - reveals: Herald
+2.71828..... - plays Herald
+2.71828..... - draws Gold
+2.71828..... - reveals: Herald
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - shuffles deck
+2.71828..... - reveals: Silver
+2.71828..... - places Silver on top of deck
+2.71828..... - plays Swindler
+Titandrake - reveals Potion
+Titandrake - trashes Potion
+Titandrake - gains Salvager
+2.71828..... - plays Salvager
+2.71828..... - trashes Curse
+2.71828..... - plays 2 Copper, 1 Gold
+2.71828..... - buys Gold
+2.71828..... - gains Gold
+2.71828..... - draws Silver, Copper, Herald, Herald, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Gold, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Salvager
+ 
+---------- 2.71828.....: turn 11 ----------
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - shuffles deck
+2.71828..... - reveals: Curse
+2.71828..... - places Curse on top of deck
+2.71828..... - plays 3 Copper, 1 Silver
+2.71828..... - buys Militia
+2.71828..... - gains Militia
+2.71828..... - draws Curse, Gold, Herald, Gold, Swindler
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Province
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Swindler, Swindler, Copper, Copper, Estate
+ 
+---------- 2.71828.....: turn 12 ----------
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Herald
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Salvager
+2.71828..... - plays Salvager
+2.71828..... - trashes Curse
+2.71828..... - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+2.71828..... - plays 2 Gold, 2 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - buys Vagrant
+2.71828..... - gains Vagrant
+2.71828..... - draws Herald
+2.71828..... - shuffles deck
+2.71828..... - draws Herald, Herald, Copper, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Swindler
+2.71828..... - reveals Silver
+2.71828..... - trashes Silver
+2.71828..... - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Gold, Gold, Copper, Salvager, Copper
+ 
+---------- 2.71828.....: turn 13 ----------
+2.71828..... - plays Herald
+2.71828..... - draws Herald
+2.71828..... - reveals: Province
+2.71828..... - places Province on top of deck
+2.71828..... - plays Herald
+2.71828..... - draws Province
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Salvager
+2.71828..... - plays Salvager
+2.71828..... - trashes Gold
+2.71828..... - plays Herald
+2.71828..... - draws Estate
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays 2 Copper
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - draws Copper, Copper, Militia, Gold, Vagrant
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Gold
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Province, Silver, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Swindler
+ 
+---------- 2.71828.....: turn 14 ----------
+2.71828..... - plays Vagrant
+2.71828..... - draws Copper
+2.71828..... - reveals: Herald
+2.71828..... - places Herald on top of deck
+2.71828..... - plays Militia
+Titandrake - discards Province
+Titandrake - discards Estate
+2.71828..... - plays 3 Copper, 1 Gold
+2.71828..... - buys Duchy
+2.71828..... - gains Duchy
+2.71828..... - draws Herald, Swindler
+2.71828..... - shuffles deck
+2.71828..... - draws Silver, Vagrant, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Swindler
+2.71828..... - reveals Herald
+2.71828..... - trashes Herald
+2.71828..... - gains Potion
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Gold, Herald, Silver
+ 
+---------- 2.71828.....: turn 15 ----------
+2.71828..... - plays Vagrant
+2.71828..... - draws Herald
+2.71828..... - reveals: Province
+2.71828..... - places Province in hand
+2.71828..... - plays Herald
+2.71828..... - draws Herald
+2.71828..... - reveals: Copper
+2.71828..... - places Copper on top of deck
+2.71828..... - plays Herald
+2.71828..... - draws Copper
+2.71828..... - reveals: Militia
+2.71828..... - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+2.71828..... - plays Herald
+2.71828..... - draws Estate
+2.71828..... - reveals: Duchy
+2.71828..... - places Duchy on top of deck
+2.71828..... - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Silver
+2.71828..... - plays 2 Copper, 1 Silver
+2.71828..... - buys Province
+2.71828..... - gains Province
+2.71828..... - draws Duchy, Copper, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Province
+Titandrake - places Province on top of deck
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Copper, Silver, Copper, Salvager
+ 
+---------- 2.71828.....: turn 16 ----------
+2.71828..... - plays 3 Copper, 1 Gold
+2.71828..... - buys Duchy
+2.71828..... - gains Duchy
+2.71828..... - draws Herald, Salvager, Province
+2.71828..... - shuffles deck
+2.71828..... - draws Militia, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Province
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Copper, Great Hall, Province, Gold, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Great Hall, 2 Salvager, 1 Swindler, 1 Herald, 7 Copper, 4 Silver, 2 Gold, 3 Province, 2 Estate, 2 Duchy
+Titandrake - total victory points: 28
+Titandrake - turns: 17
+ 
+2.71828..... - cards: 4 Herald, 1 Salvager, 1 Militia, 1 Swindler, 1 Vagrant, 5 Copper, 1 Gold, 1 Potion, 1 Silver, 3 Province, 2 Duchy, 1 Estate
+2.71828..... - total victory points: 25
+2.71828..... - turns: 16
+ 
+1st place: Titandrake
+2nd place: 2.71828.....
+ 

@@ -1,0 +1,368 @@
+------------ Game Setup ------------
+Supply cards: Moat, Vagrant, Loan, Scheme, Smugglers, Herald, JackOfAllTrades, Tournament, Duke, Merchant Ship, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Eevee - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - shuffles deck
+Titandrake - shuffles deck
+Eevee - draws Copper, Hovel, Copper, Copper, Overgrown Estate
+Titandrake - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays 3 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Copper, Necropolis, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Copper, Hovel, Copper, Overgrown Estate, Copper
+ 
+---------- Eevee: turn 2 ----------
+Eevee - plays 4 Copper
+Eevee - buys JackOfAllTrades
+Eevee - gains JackOfAllTrades
+Eevee - shuffles deck
+Eevee - draws Copper, Copper, JackOfAllTrades, Copper, Silver
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - shuffles deck
+Titandrake - draws Copper, Necropolis, Overgrown Estate, Copper, Copper
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays JackOfAllTrades
+Eevee - gains Silver
+Eevee - discards Copper
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys Merchant Ship
+Eevee - gains Merchant Ship
+Eevee - draws Hovel, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Hovel, Copper, JackOfAllTrades, Copper
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays 3 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - shuffles deck
+Eevee - draws Copper, Copper, Copper, Silver, Necropolis
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - trashes Hovel
+Titandrake - plays 3 Copper
+Titandrake - plays Loan
+Titandrake - shuffles deck
+Titandrake - reveals Overgrown Estate, Copper
+Titandrake - trashes Copper
+Titandrake - discards Overgrown Estate
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Silver, Necropolis, Copper, Copper, Silver
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys Tournament
+Eevee - gains Tournament
+Eevee - draws Copper, Copper, Merchant Ship, JackOfAllTrades, Overgrown Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Silver, Copper
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays Merchant Ship
+Eevee - plays 2 Copper
+Eevee - buys Tournament
+Eevee - gains Tournament
+Eevee - draws Silver, Copper, Copper, Hovel, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Loan, Copper, Copper, Tournament, Silver
+ 
+---------- Eevee: turn 7 ----------
+Eevee - duration Merchant Ship
+Eevee - plays 2 Silver, 2 Copper
+Eevee - buys Province
+Eevee - trashes Hovel
+Eevee - gains Province
+Eevee - shuffles deck
+Eevee - draws Copper, Necropolis, Tournament, Silver, Merchant Ship
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Tournament
+Titandrake - draws Overgrown Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Loan
+Titandrake - reveals JackOfAllTrades, Copper
+Titandrake - trashes Copper
+Titandrake - discards JackOfAllTrades
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Copper, Overgrown Estate, Copper, Tournament
+ 
+---------- Eevee: turn 8 ----------
+Eevee - plays Necropolis
+Eevee - plays Tournament
+Eevee - draws Province
+Eevee - plays Merchant Ship
+Eevee - plays 1 Copper, 1 Silver
+Eevee - buys Gold
+Eevee - gains Gold
+Eevee - draws JackOfAllTrades, Tournament, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Tournament
+Titandrake - draws Loan
+Titandrake - plays 2 Copper
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, JackOfAllTrades, Province, Copper, Tournament
+ 
+---------- Eevee: turn 9 ----------
+Eevee - duration Merchant Ship
+Eevee - plays Tournament
+Titandrake - reveals Province
+Eevee - plays JackOfAllTrades
+Eevee - gains Silver
+Eevee - discards Copper
+Eevee - trashes Overgrown Estate
+Eevee - draws Silver
+Eevee - plays 4 Copper, 1 Silver
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Copper, Silver
+Eevee - shuffles deck
+Eevee - draws Copper, Province, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tournament
+Eevee - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Followers
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Followers
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 5 coins
+Titandrake - places Necropolis on top of deck
+Titandrake - places Followers on top of deck
+Titandrake - places Tournament on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - gains Herald
+Titandrake - draws Silver, Province, Tournament, Followers, Necropolis
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays 2 Copper, 1 Silver, 1 Gold
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Copper, Province, Merchant Ship, Necropolis, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Tournament
+Eevee - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Trusty Steed
+Titandrake - plays Necropolis
+Titandrake - plays Followers
+Titandrake - draws Trusty Steed
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - gains Estate
+Eevee - gains Curse
+Eevee - discards Province
+Eevee - discards Necropolis
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 coins
+Titandrake - draws Loan, Overgrown Estate
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Silver, Tournament, JackOfAllTrades
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays Merchant Ship
+Eevee - plays 1 Copper, 1 Silver
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Silver, Copper, Copper, Tournament, JackOfAllTrades
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Province
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Herald
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Loan
+ 
+---------- Eevee: turn 12 ----------
+Eevee - duration Merchant Ship
+Eevee - plays Tournament
+Eevee - draws Copper
+Eevee - plays JackOfAllTrades
+Eevee - gains Silver
+Eevee - discards Tournament
+Eevee - plays 4 Copper, 1 Silver
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Silver
+Eevee - shuffles deck
+Eevee - draws Copper, Province, Tournament, Merchant Ship
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Tournament, Province, Province, Followers
+ 
+---------- Eevee: turn 13 ----------
+Eevee - plays Tournament
+Eevee - reveals Province
+Titandrake - reveals Province
+Eevee - discards Province
+Eevee - gains Duchy
+Eevee - plays Merchant Ship
+Eevee - plays 1 Silver, 1 Copper
+Eevee - buys Duchy
+Eevee - gains Duchy
+Eevee - draws Duchy, Copper, Duchy, Copper, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Tournament
+Eevee - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - plays Followers
+Titandrake - draws Duchy, Necropolis
+Titandrake - gains Estate
+Eevee - gains Curse
+Eevee - discards Province
+Eevee - discards Duchy
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Tournament, Trusty Steed, Copper, Overgrown Estate, Gold
+ 
+---------- Eevee: turn 14 ----------
+Eevee - duration Merchant Ship
+Eevee - plays 2 Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Copper, Duchy, Necropolis, Copper, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Tournament
+Titandrake - draws Province
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 coins
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - moves deck to discards
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Copper, JackOfAllTrades, Duchy, Estate, Duchy
+ 
+---------- Eevee: turn 15 ----------
+Eevee - plays Necropolis
+Eevee - plays 2 Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Copper, Silver, Tournament, Province, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Tournament, Silver, Silver, Estate, Copper
+ 
+---------- Eevee: turn 16 ----------
+Eevee - plays Tournament
+Eevee - reveals Province
+Eevee - discards Province
+Eevee - gains Duchy
+Eevee - draws Duchy
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Duke
+Eevee - gains Duke
+Eevee - draws Silver, Gold, Silver, JackOfAllTrades, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Tournament
+Titandrake - draws Silver
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Silver, Loan, Trusty Steed, Herald
+ 
+---------- Eevee: turn 17 ----------
+Eevee - plays JackOfAllTrades
+Eevee - gains Silver
+Eevee - shuffles deck
+Eevee - places Copper on top of deck
+Eevee - plays 3 Silver, 1 Gold, 1 Copper
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Province, Copper, Estate, Duchy, Duchy
+ 
+------------ Game Over ------------
+Eevee - cards: 2 Tournament, 1 JackOfAllTrades, 1 Merchant Ship, 1 Necropolis, 7 Copper, 6 Silver, 1 Gold, 5 Duchy, 4 Province, 2 Estate, 1 Duke, 2 Curse
+Eevee - total victory points: 44
+Eevee - turns: 17
+ 
+Titandrake - cards: 2 Tournament, 10 Silver, 1 Trusty Steed, 1 Herald, 1 JackOfAllTrades, 1 Necropolis, 1 Followers, 2 Copper, 1 Gold, 1 Loan, 4 Estate, 4 Province, 3 Duchy, 1 Overgrown Estate
+Titandrake - total victory points: 37
+Titandrake - turns: 16
+ 
+1st place: Eevee
+2nd place: Titandrake
+ 

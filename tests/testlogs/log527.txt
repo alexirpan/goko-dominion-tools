@@ -1,0 +1,451 @@
+------------ Game Setup ------------
+Supply cards: Market Square, Watchtower, Farming Village, Plaza, Talisman, Embassy, Festival, Soothsayer, Hoard, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+theRZJ - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+theRZJ - shuffles deck
+Titandrake - shuffles deck
+theRZJ - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- theRZJ: turn 1 ----------
+theRZJ - plays 3 Copper
+theRZJ - buys Silver
+theRZJ - gains Silver
+theRZJ - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- theRZJ: turn 2 ----------
+theRZJ - plays 4 Copper
+theRZJ - buys Plaza
+theRZJ - gains Plaza
+theRZJ - shuffles deck
+theRZJ - draws Plaza, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- theRZJ: turn 3 ----------
+theRZJ - plays Plaza
+theRZJ - draws Copper
+theRZJ - discards Copper
+theRZJ - receives 1 coin token
+theRZJ - plays 3 Copper, 1 Silver
+theRZJ - buys Festival
+theRZJ - gains Festival
+theRZJ - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Copper, Soothsayer, Copper, Copper, Estate
+ 
+---------- theRZJ: turn 4 ----------
+theRZJ - plays 3 Copper
+theRZJ - buys Watchtower
+theRZJ - gains Watchtower
+theRZJ - draws Estate
+theRZJ - shuffles deck
+theRZJ - draws Plaza, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+theRZJ - gains Curse
+theRZJ - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Soothsayer, Copper, Copper, Copper
+ 
+---------- theRZJ: turn 5 ----------
+theRZJ - plays Plaza
+theRZJ - draws Copper
+theRZJ - discards Copper
+theRZJ - receives 1 coin token
+theRZJ - plays 4 Copper
+theRZJ - buys Plaza
+theRZJ - gains Plaza
+theRZJ - draws Copper, Estate, Festival, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+theRZJ - gains Curse
+theRZJ - draws Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Market Square, Gold, Estate, Estate
+ 
+---------- theRZJ: turn 6 ----------
+theRZJ - plays Festival
+theRZJ - plays 2 Copper, 1 Silver
+theRZJ - uses 2 coin tokens
+theRZJ - buys Soothsayer
+theRZJ - gains Soothsayer
+theRZJ - buys Watchtower
+theRZJ - gains Watchtower
+theRZJ - draws Watchtower
+theRZJ - shuffles deck
+theRZJ - draws Plaza, Copper, Soothsayer, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Market Square
+Titandrake - draws Estate
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Watchtower, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- theRZJ: turn 7 ----------
+theRZJ - plays Plaza
+theRZJ - draws Plaza
+theRZJ - discards Copper
+theRZJ - receives 1 coin token
+theRZJ - plays Plaza
+theRZJ - draws Silver
+theRZJ - discards Copper
+theRZJ - receives 1 coin token
+theRZJ - plays Soothsayer
+theRZJ - gains Gold
+theRZJ - applied Watchtower to place Gold on top of the deck
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - draws Plaza
+theRZJ - plays Watchtower
+theRZJ - draws Gold, Copper, Copper, Copper, Copper
+theRZJ - plays 4 Copper, 1 Silver, 1 Gold
+theRZJ - buys Province
+theRZJ - gains Province
+theRZJ - draws Estate, Curse, Festival, Curse, Watchtower
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Watchtower
+Titandrake - draws Gold, Soothsayer
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+theRZJ - gains Curse
+theRZJ - applied Watchtower to trash Curse
+theRZJ - trashes Curse
+theRZJ - draws Estate
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Estate, Gold, Copper, Estate, Market Square
+ 
+---------- theRZJ: turn 8 ----------
+theRZJ - plays Festival
+theRZJ - plays Watchtower
+theRZJ - draws Copper, Estate
+theRZJ - plays 1 Copper
+theRZJ - uses 2 coin tokens
+theRZJ - buys Festival
+theRZJ - gains Festival
+theRZJ - shuffles deck
+theRZJ - draws Festival, Gold, Copper, Festival, Watchtower
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Market Square
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Estate
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Gold
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Watchtower, Estate, Market Square
+ 
+---------- theRZJ: turn 9 ----------
+theRZJ - plays Festival
+theRZJ - plays Festival
+theRZJ - plays Watchtower
+theRZJ - draws Soothsayer, Plaza, Copper, Estate
+theRZJ - plays Plaza
+theRZJ - draws Province
+theRZJ - discards Copper
+theRZJ - receives 1 coin token
+theRZJ - plays Soothsayer
+theRZJ - gains Gold
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - applied Watchtower to place Gold on top of the deck
+Titandrake - draws Gold
+theRZJ - plays 1 Gold, 1 Copper
+theRZJ - buys Watchtower
+theRZJ - gains Watchtower
+theRZJ - buys Festival
+theRZJ - gains Festival
+theRZJ - draws Plaza, Curse, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Plaza, Estate
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Gold, Copper, Festival, Copper
+ 
+---------- theRZJ: turn 10 ----------
+theRZJ - plays Plaza
+theRZJ - draws Copper
+theRZJ - discards Copper
+theRZJ - receives 1 coin token
+theRZJ - plays 1 Silver, 1 Copper
+theRZJ - uses 1 coin token
+theRZJ - buys Plaza
+theRZJ - gains Plaza
+theRZJ - draws Watchtower, Curse, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Festival
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Watchtower, Gold, Soothsayer, Copper, Copper
+ 
+---------- theRZJ: turn 11 ----------
+theRZJ - plays 3 Copper
+theRZJ - uses 1 coin token
+theRZJ - buys Farming Village
+theRZJ - gains Farming Village
+theRZJ - applied Watchtower to place Farming Village on top of the deck
+theRZJ - draws Farming Village, Estate
+theRZJ - shuffles deck
+theRZJ - draws Copper, Curse, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Titandrake - applied Watchtower to place Gold on top of the deck
+theRZJ - gains Curse
+theRZJ - draws Estate
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - applied Watchtower to place Festival on top of the deck
+Titandrake - draws Festival, Gold, Copper, Copper, Plaza
+ 
+---------- theRZJ: turn 12 ----------
+theRZJ - plays Farming Village
+theRZJ - reveals Province, Copper
+theRZJ - places Copper in hand
+theRZJ - discards Province
+theRZJ - plays 2 Copper, 1 Silver
+theRZJ - buys Plaza
+theRZJ - gains Plaza
+theRZJ - draws Copper, Festival, Copper, Copper, Festival
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Plaza
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Festival
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Market Square, Copper, Gold, Gold
+ 
+---------- theRZJ: turn 13 ----------
+theRZJ - plays Festival
+theRZJ - plays Festival
+theRZJ - plays 3 Copper
+theRZJ - buys Watchtower
+theRZJ - gains Watchtower
+theRZJ - buys Watchtower
+theRZJ - gains Watchtower
+theRZJ - draws Watchtower, Copper, Copper, Festival, Watchtower
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Market Square
+Titandrake - draws Watchtower
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Province
+Titandrake - plays 3 Gold, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Copper, Estate, Gold, Watchtower, Plaza
+ 
+---------- theRZJ: turn 14 ----------
+theRZJ - plays Festival
+theRZJ - plays Watchtower
+theRZJ - draws Gold, Gold, Curse
+theRZJ - plays 2 Copper, 2 Gold
+theRZJ - buys Province
+theRZJ - gains Province
+theRZJ - buys Curse
+theRZJ - gains Curse
+theRZJ - applied Watchtower to trash Curse
+theRZJ - trashes Curse
+theRZJ - draws Plaza, Watchtower, Estate, Plaza, Soothsayer
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Plaza
+Titandrake - draws Soothsayer
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Estate, Estate
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+theRZJ - gains Curse
+theRZJ - applied Watchtower to trash Curse
+theRZJ - trashes Curse
+theRZJ - draws Plaza
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Plaza, Watchtower, Festival
+Titandrake - shuffles deck
+Titandrake - draws Province, Estate
+ 
+---------- theRZJ: turn 15 ----------
+theRZJ - plays Plaza
+theRZJ - shuffles deck
+theRZJ - draws Watchtower
+theRZJ - plays Watchtower
+theRZJ - draws Curse
+theRZJ - plays Plaza
+theRZJ - draws Festival
+theRZJ - plays Festival
+theRZJ - plays Plaza
+theRZJ - draws Estate
+theRZJ - plays Watchtower
+theRZJ - draws Gold, Copper
+theRZJ - plays Soothsayer
+theRZJ - gains Gold
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+Titandrake - draws Gold
+theRZJ - plays 1 Gold, 1 Copper
+theRZJ - buys Embassy
+theRZJ - gains Embassy
+Titandrake - gains Silver
+theRZJ - draws Curse, Copper, Festival, Silver, Watchtower
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Festival
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Watchtower
+Titandrake - draws Market Square, Gold, Gold
+Titandrake - plays Market Square
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Gold, Copper, Province, Copper, Watchtower
+ 
+---------- theRZJ: turn 16 ----------
+theRZJ - plays Festival
+theRZJ - plays Watchtower
+theRZJ - draws Watchtower, Copper, Curse
+theRZJ - plays Watchtower
+theRZJ - draws Copper
+theRZJ - plays 3 Copper, 1 Silver
+theRZJ - buys Gold
+theRZJ - gains Gold
+theRZJ - draws Province, Farming Village, Festival, Plaza, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Watchtower, Duchy
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - uses 3 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Watchtower, Estate, Copper, Soothsayer
+ 
+---------- theRZJ: turn 17 ----------
+theRZJ - plays Farming Village
+theRZJ - reveals Copper
+theRZJ - places Copper in hand
+theRZJ - plays Festival
+theRZJ - plays Plaza
+theRZJ - draws Copper
+theRZJ - discards Copper
+theRZJ - receives 1 coin token
+theRZJ - plays 1 Copper
+theRZJ - buys Silver
+theRZJ - gains Silver
+theRZJ - draws Copper, Gold, Province, Watchtower
+theRZJ - shuffles deck
+theRZJ - draws Festival
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Titandrake - applied Watchtower to place Gold on top of the deck
+theRZJ - gains Curse
+theRZJ - applied Watchtower to trash Curse
+theRZJ - trashes Curse
+theRZJ - draws Curse
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - applied Watchtower to place Plaza on top of the deck
+Titandrake - draws Plaza, Gold, Copper, Copper, Festival
+ 
+---------- theRZJ: turn 18 ----------
+theRZJ - plays Festival
+theRZJ - plays Watchtower
+theRZJ - draws Copper, Estate
+theRZJ - plays 2 Copper, 1 Gold
+theRZJ - uses 1 coin token
+theRZJ - buys Province
+theRZJ - gains Province
+theRZJ - draws Soothsayer, Festival, Gold, Watchtower, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Watchtower, 4 Plaza, 2 Festival, 1 Market Square, 1 Soothsayer, 7 Gold, 7 Copper, 1 Silver, 5 Province, 3 Estate, 1 Duchy
+Titandrake - total victory points: 36
+Titandrake - turns: 17
+ 
+theRZJ - cards: 5 Watchtower, 4 Plaza, 3 Festival, 1 Soothsayer, 1 Embassy, 1 Farming Village, 7 Copper, 4 Gold, 2 Silver, 3 Province, 3 Estate, 3 Curse
+theRZJ - total victory points: 18
+theRZJ - turns: 18
+ 
+1st place: Titandrake
+2nd place: theRZJ
+ 

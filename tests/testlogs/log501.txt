@@ -1,0 +1,851 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Great Hall, Masquerade, Advisor, Gardens, Herald, Remodel, Torturer, Nobles, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+scs - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+scs - shuffles deck
+Titandrake - shuffles deck
+scs - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- scs: turn 1 ----------
+scs - plays 3 Copper
+scs - buys Silver
+scs - gains Silver
+scs - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Herald, Copper
+ 
+---------- scs: turn 2 ----------
+scs - plays 4 Copper
+scs - buys Masquerade
+scs - gains Masquerade
+scs - shuffles deck
+scs - draws Estate, Copper, Copper, Copper, Masquerade
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- scs: turn 3 ----------
+scs - plays Masquerade
+scs - draws Estate, Copper
+scs - passes Estate
+Titandrake - passes Estate
+scs - trashes Estate
+scs - plays 4 Copper
+scs - buys Herald
+scs - gains Herald
+scs - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Estate
+ 
+---------- scs: turn 4 ----------
+scs - plays 3 Copper, 1 Silver
+scs - buys Torturer
+scs - gains Torturer
+scs - shuffles deck
+scs - draws Estate, Masquerade, Herald, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Estate, Copper
+Titandrake - passes Estate
+scs - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 1 coin
+Titandrake - gains Herald
+Titandrake - draws Estate, Masquerade, Copper, Copper, Herald
+ 
+---------- scs: turn 5 ----------
+scs - plays Herald
+scs - draws Copper
+scs - reveals: Estate
+scs - places Estate on top of deck
+scs - plays Masquerade
+scs - draws Estate, Copper
+scs - passes Estate
+Titandrake - passes Estate
+scs - trashes Estate
+scs - plays 4 Copper
+scs - buys Herald
+scs - gains Herald
+scs - draws Copper, Copper, Torturer, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Masquerade
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - passes Estate
+scs - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Estate, Copper, Copper, Herald
+ 
+---------- scs: turn 6 ----------
+scs - plays Torturer
+scs - shuffles deck
+scs - draws Copper, Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+scs - plays 4 Copper, 1 Silver
+scs - buys Nobles
+scs - gains Nobles
+scs - draws Masquerade, Herald, Herald, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Herald
+Titandrake - draws Masquerade
+Titandrake - shuffles deck
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Masquerade
+Titandrake - draws Silver, Copper
+Titandrake - passes Copper
+scs - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Herald, Copper, Masquerade, Estate, Copper
+ 
+---------- scs: turn 7 ----------
+scs - plays Herald
+scs - shuffles deck
+scs - draws Estate
+scs - reveals: Estate
+scs - places Estate on top of deck
+scs - plays Herald
+scs - draws Estate
+scs - reveals: Copper
+scs - places Copper on top of deck
+scs - plays Masquerade
+scs - draws Copper, Silver
+scs - passes Estate
+Titandrake - passes Estate
+scs - trashes Estate
+scs - plays 3 Copper, 1 Silver
+scs - buys Peddler
+scs - gains Peddler
+scs - draws Torturer, Copper, Copper, Copper, Nobles
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Nobles
+Titandrake - passes Estate
+scs - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - shuffles deck
+Titandrake - draws Copper, Nobles, Copper, Copper, Masquerade
+ 
+---------- scs: turn 8 ----------
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Torturer
+scs - shuffles deck
+scs - draws Peddler, Herald, Herald
+Titandrake - gains Curse
+scs - plays Herald
+scs - draws Estate
+scs - reveals: Silver
+scs - places Silver on top of deck
+scs - plays Herald
+scs - draws Silver
+scs - reveals: Copper
+scs - places Copper on top of deck
+scs - plays Peddler
+scs - draws Copper
+scs - plays 3 Copper, 1 Silver
+scs - buys Nobles
+scs - gains Nobles
+scs - draws Copper, Copper, Masquerade
+scs - shuffles deck
+scs - draws Herald, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Peddler, Herald
+Titandrake - passes Curse
+scs - passes Copper
+Titandrake - plays Peddler
+Titandrake - draws Silver
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Masquerade
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Peddler
+Titandrake - passes Copper
+scs - passes Curse
+Titandrake - trashes Curse
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Herald
+Titandrake - shuffles deck
+Titandrake - draws Masquerade, Masquerade, Peddler, Copper
+ 
+---------- scs: turn 9 ----------
+scs - plays Herald
+scs - draws Copper
+scs - reveals: Nobles
+scs - plays Nobles
+scs - draws Silver, Herald, Estate
+scs - plays Herald
+scs - draws Nobles
+scs - reveals: Copper
+scs - places Copper on top of deck
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Masquerade
+scs - draws Copper, Peddler
+scs - passes Estate
+Titandrake - passes Copper
+scs - trashes Copper
+scs - plays Peddler
+scs - draws Torturer
+scs - plays Torturer
+scs - draws Estate
+Titandrake - gains Curse
+scs - plays 5 Copper, 1 Silver
+scs - buys Peddler
+scs - gains Peddler
+scs - shuffles deck
+scs - draws Copper, Estate, Copper, Torturer, Nobles
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Peddler
+Titandrake - draws Silver
+Titandrake - plays Herald
+Titandrake - draws Nobles
+Titandrake - reveals: Platinum
+Titandrake - places Platinum on top of deck
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Platinum, Copper
+Titandrake - passes Curse
+scs - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays 1 Silver, 1 Platinum, 1 Copper
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Herald, Copper, Copper, Copper
+ 
+---------- scs: turn 10 ----------
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Torturer
+scs - draws Silver, Copper, Peddler
+Titandrake - discards Copper
+Titandrake - discards Copper
+scs - plays Peddler
+scs - draws Herald
+scs - plays Herald
+scs - draws Herald
+scs - reveals: Copper
+scs - places Copper on top of deck
+scs - plays Herald
+scs - draws Copper
+scs - reveals: Masquerade
+scs - plays Masquerade
+scs - draws Peddler, Copper
+scs - passes Curse
+Titandrake - passes Copper
+scs - trashes Copper
+scs - plays Peddler
+scs - draws Nobles
+scs - plays 5 Copper, 1 Silver
+scs - buys Platinum
+scs - gains Platinum
+scs - shuffles deck
+scs - draws Masquerade, Copper, Copper, Torturer, Peddler
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Herald
+Titandrake - draws Peddler
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Masquerade, Silver, Nobles, Estate, Copper
+ 
+---------- scs: turn 11 ----------
+scs - plays Peddler
+scs - draws Copper
+scs - plays Torturer
+scs - draws Herald, Silver, Herald
+Titandrake - gains Curse
+scs - plays 3 Copper, 1 Silver
+scs - buys Pawn
+scs - gains Pawn
+scs - draws Copper, Nobles, Nobles, Copper, Platinum
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Nobles
+Titandrake - passes Curse
+scs - passes Copper
+Titandrake - trashes Estate
+Titandrake - plays Nobles
+Titandrake - draws Peddler, Platinum, Masquerade
+Titandrake - plays 3 Copper, 1 Silver, 1 Platinum
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Herald
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Copper, Copper
+ 
+---------- scs: turn 12 ----------
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Nobles
+scs - draws Peddler
+scs - shuffles deck
+scs - draws Copper, Torturer
+scs - plays Peddler
+scs - draws Herald
+scs - plays Herald
+scs - draws Peddler
+scs - reveals: Herald
+scs - plays Herald
+scs - draws Copper
+scs - reveals: Copper
+scs - places Copper on top of deck
+scs - plays Peddler
+scs - draws Copper
+scs - plays Torturer
+scs - draws Masquerade, Pawn, Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+scs - plays Pawn
+scs - takes 1 action
+scs - takes 1 buy
+scs - plays Masquerade
+scs - passes Curse
+Titandrake - passes Curse
+scs - trashes Curse
+scs - plays 4 Copper, 1 Platinum, 1 Silver
+scs - buys Platinum
+scs - gains Platinum
+scs - buys Peddler
+scs - gains Peddler
+scs - shuffles deck
+scs - draws Masquerade, Nobles, Peddler, Copper, Pawn
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Herald
+Titandrake - draws Peddler
+Titandrake - reveals: Nobles
+Titandrake - plays Nobles
+Titandrake - draws Peddler, Platinum, Nobles
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Nobles
+Titandrake - draws Masquerade, Masquerade, Platinum
+Titandrake - plays 3 Copper, 2 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Silver, Pawn, Herald
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Herald
+ 
+---------- scs: turn 13 ----------
+scs - plays Peddler
+scs - draws Torturer
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Torturer
+scs - draws Copper, Peddler, Platinum
+Titandrake - gains Curse
+scs - plays Peddler
+scs - draws Silver
+scs - plays Pawn
+scs - takes 1 buy
+scs - draws Platinum
+scs - plays 2 Copper, 2 Platinum, 1 Silver
+scs - buys Colony
+scs - gains Colony
+scs - buys Herald
+scs - overpays for Herald with 1 coin
+scs - places Colony on top of deck
+scs - gains Herald
+scs - draws Colony, Copper, Herald, Herald, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 1 coin
+Titandrake - places Peddler on top of deck
+Titandrake - gains Herald
+Titandrake - draws Peddler, Copper, Masquerade, Copper, Peddler
+ 
+---------- scs: turn 14 ----------
+scs - plays Herald
+scs - draws Peddler
+scs - reveals: Nobles
+scs - plays Nobles
+scs - shuffles deck
+scs - draws Pawn, Peddler, Nobles
+scs - plays Herald
+scs - draws Silver
+scs - reveals: Copper
+scs - places Copper on top of deck
+scs - plays Peddler
+scs - draws Copper
+scs - plays Peddler
+scs - draws Masquerade
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Masquerade
+scs - draws Torturer, Copper
+scs - passes Copper
+Titandrake - passes Copper
+scs - trashes Copper
+scs - plays Pawn
+scs - takes 1 buy
+scs - takes 1 action
+scs - plays Torturer
+scs - draws Herald, Peddler, Platinum
+Titandrake - gains Curse
+scs - plays 3 Copper, 1 Silver, 1 Platinum
+scs - buys Pawn
+scs - gains Pawn
+scs - buys Platinum
+scs - gains Platinum
+scs - draws Platinum
+scs - shuffles deck
+scs - draws Nobles, Herald, Pawn, Peddler
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Peddler
+Titandrake - draws Curse
+Titandrake - plays Peddler
+Titandrake - draws Nobles
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Platinum, Peddler
+Titandrake - passes Curse
+scs - passes Peddler
+Titandrake - trashes Curse
+Titandrake - plays Peddler
+Titandrake - draws Masquerade
+Titandrake - plays Peddler
+Titandrake - draws Colony
+Titandrake - plays Masquerade
+Titandrake - draws Platinum
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - passes Copper
+scs - passes Curse
+Titandrake - trashes Curse
+Titandrake - plays 2 Copper, 2 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Curse, Pawn, Herald, Silver, Herald
+ 
+---------- scs: turn 15 ----------
+scs - plays Herald
+scs - draws Copper
+scs - reveals: Peddler
+scs - plays Peddler
+scs - draws Copper
+scs - plays Nobles
+scs - draws Herald, Torturer, Pawn
+scs - plays Herald
+scs - draws Nobles
+scs - reveals: Platinum
+scs - places Platinum on top of deck
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Torturer
+scs - draws Platinum, Platinum, Masquerade
+Titandrake - gains Curse
+scs - plays Pawn
+scs - takes 1 action
+scs - takes 1 buy
+scs - plays Pawn
+scs - takes 1 buy
+scs - draws Colony
+scs - plays 3 Platinum, 3 Copper
+scs - buys Colony
+scs - gains Colony
+scs - buys Peddler
+scs - gains Peddler
+scs - buys Herald
+scs - overpays for Herald with 1 coin
+scs - places Peddler on top of deck
+scs - gains Herald
+scs - draws Peddler, Herald, Copper, Silver, Peddler
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Nobles
+Titandrake - plays Nobles
+Titandrake - shuffles deck
+Titandrake - draws Platinum, Masquerade, Platinum
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Masquerade
+Titandrake - draws Colony, Peddler
+Titandrake - passes Curse
+scs - passes Copper
+Titandrake - trashes Curse
+Titandrake - plays 3 Copper, 2 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Masquerade, Copper, Peddler, Copper, Colony
+ 
+---------- scs: turn 16 ----------
+scs - plays Herald
+scs - shuffles deck
+scs - draws Platinum
+scs - reveals: Colony
+scs - places Colony on top of deck
+scs - plays Peddler
+scs - draws Colony
+scs - plays Peddler
+scs - draws Pawn
+scs - plays Pawn
+scs - takes 1 action
+scs - draws Colony
+scs - plays 1 Silver, 1 Platinum
+scs - buys Province
+scs - gains Province
+scs - draws Herald, Copper, Platinum, Peddler, Pawn
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Nobles
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Peddler, Masquerade
+Titandrake - passes Copper
+scs - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Masquerade
+Titandrake - draws Silver, Colony
+Titandrake - passes Copper
+scs - passes Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Nobles, Herald, Colony, Platinum, Platinum
+ 
+---------- scs: turn 17 ----------
+scs - plays Herald
+scs - draws Nobles
+scs - reveals: Herald
+scs - plays Herald
+scs - draws Masquerade
+scs - reveals: Platinum
+scs - places Platinum on top of deck
+scs - plays Peddler
+scs - draws Platinum
+scs - plays Nobles
+scs - draws Herald, Nobles, Torturer
+scs - plays Herald
+scs - draws Copper
+scs - reveals: Copper
+scs - places Copper on top of deck
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Torturer
+scs - draws Copper
+scs - shuffles deck
+scs - draws Province, Silver
+Titandrake - gains Curse
+scs - plays Pawn
+scs - takes 1 buy
+scs - takes 1 action
+scs - plays Masquerade
+scs - draws Herald, Peddler
+scs - passes Copper
+Titandrake - passes Curse
+scs - trashes Curse
+scs - plays 2 Platinum, 2 Copper, 1 Silver
+scs - buys Nobles
+scs - gains Nobles
+scs - buys Province
+scs - gains Province
+scs - draws Pawn, Platinum, Curse, Peddler, Colony
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Herald
+Titandrake - draws Pawn
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Copper
+Titandrake - plays 2 Platinum, 2 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Herald, Copper, Great Hall, Herald
+Titandrake - shuffles deck
+Titandrake - draws Colony
+ 
+---------- scs: turn 18 ----------
+scs - plays Peddler
+scs - draws Colony
+scs - plays Pawn
+scs - takes 1 action
+scs - shuffles deck
+scs - draws Nobles
+scs - plays Nobles
+scs - draws Masquerade, Copper, Peddler
+scs - plays 1 Platinum, 1 Copper
+scs - buys Nobles
+scs - gains Nobles
+scs - draws Herald, Platinum, Silver, Nobles, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Platinum
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Colony
+Titandrake - places Colony on top of deck
+Titandrake - plays 3 Copper, 1 Platinum
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Colony, Masquerade, Peddler, Platinum, Nobles
+ 
+---------- scs: turn 19 ----------
+scs - plays Herald
+scs - draws Herald
+scs - reveals: Herald
+scs - plays Herald
+scs - draws Nobles
+scs - reveals: Herald
+scs - plays Herald
+scs - draws Peddler
+scs - reveals: Platinum
+scs - places Platinum on top of deck
+scs - plays Herald
+scs - draws Platinum
+scs - reveals: Province
+scs - places Province on top of deck
+scs - plays Peddler
+scs - draws Province
+scs - plays Nobles
+scs - draws Pawn, Torturer, Copper
+scs - plays Torturer
+scs - shuffles deck
+scs - draws Masquerade, Platinum, Colony
+Titandrake - gains Curse
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Masquerade
+scs - draws Nobles, Peddler
+scs - passes Copper
+Titandrake - passes Curse
+scs - trashes Curse
+scs - plays Peddler
+scs - draws Pawn
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Pawn
+scs - takes 1 buy
+scs - draws Peddler
+scs - plays Peddler
+scs - draws Curse
+scs - plays Pawn
+scs - takes 1 buy
+scs - draws Copper
+scs - plays 3 Platinum, 1 Silver, 1 Copper
+scs - buys Nobles
+scs - gains Nobles
+scs - buys Province
+scs - gains Province
+scs - buys Remodel
+scs - gains Remodel
+scs - draws Colony, Nobles
+scs - shuffles deck
+scs - draws Copper, Peddler, Nobles
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Peddler
+Titandrake - draws Silver
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Nobles, Masquerade
+Titandrake - passes Copper
+scs - passes Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Masquerade
+Titandrake - draws Colony, Herald
+Titandrake - passes Copper
+scs - passes Copper
+Titandrake - plays Herald
+Titandrake - draws Peddler
+Titandrake - reveals: Colony
+Titandrake - places Colony on top of deck
+Titandrake - plays Peddler
+Titandrake - draws Colony
+Titandrake - plays 1 Platinum, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Pawn, Peddler, Province, Peddler
+ 
+---------- scs: turn 20 ----------
+scs - plays Peddler
+scs - draws Colony
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Nobles
+scs - draws Peddler, Curse, Platinum
+scs - plays Peddler
+scs - draws Herald
+scs - plays Herald
+scs - draws Silver
+scs - reveals: Torturer
+scs - plays Torturer
+scs - draws Province, Herald, Herald
+Titandrake - gains Curse
+scs - plays Herald
+scs - draws Pawn
+scs - reveals: Pawn
+scs - plays Pawn
+scs - takes 1 action
+scs - draws Nobles
+scs - plays Herald
+scs - draws Platinum
+scs - reveals: Herald
+scs - plays Herald
+scs - draws Peddler
+scs - reveals: Province
+scs - places Province on top of deck
+scs - plays Peddler
+scs - draws Province
+scs - plays Nobles
+scs - draws Platinum, Masquerade, Nobles
+scs - plays Masquerade
+scs - draws Province, Nobles
+scs - passes Curse
+Titandrake - passes Curse
+scs - trashes Curse
+scs - plays Nobles
+scs - takes 2 actions
+scs - plays Nobles
+scs - draws Remodel
+scs - plays Pawn
+scs - takes 1 action
+scs - takes 1 buy
+scs - plays Remodel
+scs - trashes Platinum
+scs - gains Colony
+scs - plays 2 Platinum, 1 Copper, 1 Silver
+scs - buys Colony
+scs - gains Colony
+scs - buys Duchy
+scs - gains Duchy
+scs - shuffles deck
+scs - draws Colony, Colony, Pawn, Nobles, Nobles
+ 
+------------ Game Over ------------
+scs - cards: 5 Nobles, 4 Herald, 3 Peddler, 2 Pawn, 1 Torturer, 1 Remodel, 1 Masquerade, 2 Platinum, 1 Silver, 1 Copper, 4 Colony, 3 Province, 1 Duchy
+scs - total victory points: 71
+scs - turns: 20
+ 
+Titandrake - cards: 4 Peddler, 3 Nobles, 3 Herald, 2 Masquerade, 1 Great Hall, 1 Pawn, 6 Copper, 2 Platinum, 1 Silver, 4 Colony, 2 Province, 1 Curse
+Titandrake - total victory points: 58
+Titandrake - turns: 20
+ 
+1st place: scs
+2nd place: Titandrake
+ 

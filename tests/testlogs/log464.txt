@@ -1,0 +1,340 @@
+------------ Game Setup ------------
+Supply cards: Ambassador, Oracle, Wishing Well, Cutpurse, Taxman, Graverobber, Junk Dealer, Saboteur, Expand, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Bardolator - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Bardolator - shuffles deck
+Titandrake - shuffles deck
+Bardolator - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Bardolator: turn 1 ----------
+Bardolator - plays 4 Copper
+Bardolator - buys Taxman
+Bardolator - gains Taxman
+Bardolator - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Oracle, Estate
+ 
+---------- Bardolator: turn 2 ----------
+Bardolator - plays 3 Copper
+Bardolator - buys Ambassador
+Bardolator - gains Ambassador
+Bardolator - shuffles deck
+Bardolator - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Estate
+Titandrake - discards: Copper, Estate
+Bardolator - reveals: Estate, Copper
+Bardolator - places Estate on top of deck
+Bardolator - places Copper on top of deck
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Silver, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Bardolator: turn 3 ----------
+Bardolator - plays 4 Copper
+Bardolator - buys Silver
+Bardolator - gains Silver
+Bardolator - draws Copper, Estate, Taxman, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Ambassador, Copper, Estate
+ 
+---------- Bardolator: turn 4 ----------
+Bardolator - plays Taxman
+Bardolator - trashes Copper
+Titandrake - discards Copper
+Bardolator - gains Silver
+Bardolator - draws Silver, Copper, Ambassador
+Bardolator - shuffles deck
+Bardolator - draws Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+Bardolator - gains Estate
+Titandrake - draws Copper, Oracle, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ambassador
+ 
+---------- Bardolator: turn 5 ----------
+Bardolator - plays Ambassador
+Bardolator - reveals Estate
+Bardolator - returns Estate to the Supply
+Titandrake - gains Estate
+Bardolator - plays 2 Copper, 1 Silver
+Bardolator - buys Taxman
+Bardolator - gains Taxman
+Bardolator - draws Estate, Copper, Copper, Copper, Taxman
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+Bardolator - gains Copper
+Titandrake - draws Copper, Gold, Copper, Copper, Copper
+ 
+---------- Bardolator: turn 6 ----------
+Bardolator - plays Taxman
+Bardolator - trashes Copper
+Titandrake - discards Copper
+Bardolator - gains Silver
+Bardolator - draws Silver, Silver, Copper, Estate
+Bardolator - shuffles deck
+Bardolator - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Ambassador
+ 
+---------- Bardolator: turn 7 ----------
+Bardolator - plays 2 Silver, 2 Copper
+Bardolator - buys Gold
+Bardolator - gains Gold
+Bardolator - draws Copper, Estate, Taxman, Taxman, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Bardolator - gains Copper
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Oracle, Copper, Copper, Estate, Gold
+ 
+---------- Bardolator: turn 8 ----------
+Bardolator - plays Taxman
+Bardolator - trashes Copper
+Titandrake - discards Copper
+Bardolator - gains Silver
+Bardolator - draws Silver, Copper, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Estate, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Estate on top of deck
+Bardolator - reveals: Ambassador
+Bardolator - shuffles deck
+Bardolator - reveals: Estate
+Bardolator - discards: Ambassador, Estate
+Titandrake - draws Estate, Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Oracle, Copper, Estate, Estate, Gold
+ 
+---------- Bardolator: turn 9 ----------
+Bardolator - plays 2 Silver, 2 Copper
+Bardolator - buys Gold
+Bardolator - gains Gold
+Bardolator - draws Copper, Taxman, Taxman, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Junk Dealer
+Titandrake - discards: Copper, Junk Dealer
+Bardolator - reveals: Estate, Silver
+Bardolator - discards: Estate, Silver
+Titandrake - draws Copper, Gold
+Titandrake - plays 2 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Ambassador, Silver, Copper, Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Bardolator: turn 10 ----------
+Bardolator - plays Taxman
+Bardolator - trashes Copper
+Titandrake - discards Copper
+Bardolator - gains Silver
+Bardolator - draws Silver, Gold, Copper, Silver
+Bardolator - shuffles deck
+Bardolator - draws Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Bardolator - gains Copper
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Oracle, Copper, Junk Dealer, Gold
+ 
+---------- Bardolator: turn 11 ----------
+Bardolator - plays 2 Silver, 1 Gold, 1 Copper
+Bardolator - buys Province
+Bardolator - gains Province
+Bardolator - draws Silver, Copper, Taxman, Silver, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Estate
+Titandrake - trashes Estate
+Titandrake - plays Oracle
+Titandrake - reveals: Estate, Province
+Titandrake - places Province on top of deck
+Titandrake - places Estate on top of deck
+Bardolator - reveals: Taxman, Silver
+Bardolator - discards: Taxman, Silver
+Titandrake - draws Estate, Province
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Province, Gold, Gold, Province
+ 
+---------- Bardolator: turn 12 ----------
+Bardolator - plays Taxman
+Bardolator - trashes Silver
+Titandrake - reveals Copper, Province, Gold, Gold, Province
+Bardolator - gains Gold
+Bardolator - plays 2 Copper, 1 Silver
+Bardolator - buys Wishing Well
+Bardolator - gains Wishing Well
+Bardolator - draws Gold, Copper, Ambassador, Gold, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Expand
+Titandrake - gains Expand
+Titandrake - draws Copper, Gold, Copper, Junk Dealer, Ambassador
+ 
+---------- Bardolator: turn 13 ----------
+Bardolator - plays 2 Gold, 2 Copper
+Bardolator - buys Province
+Bardolator - gains Province
+Bardolator - draws Estate, Estate
+Bardolator - shuffles deck
+Bardolator - draws Silver, Wishing Well, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Oracle
+Titandrake - trashes Ambassador
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Estate
+Titandrake - discards: Copper, Estate
+Bardolator - reveals: Gold, Copper
+Bardolator - discards: Gold, Copper
+Titandrake - draws Silver, Gold
+Titandrake - plays 2 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Oracle, Expand, Copper
+ 
+---------- Bardolator: turn 14 ----------
+Bardolator - plays Wishing Well
+Bardolator - draws Copper
+Bardolator - names Gold
+Bardolator - reveals Province
+Bardolator - plays 2 Silver, 1 Copper
+Bardolator - buys Duchy
+Bardolator - gains Duchy
+Bardolator - draws Province, Copper, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Expand
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Province, Gold, Estate, Copper
+ 
+---------- Bardolator: turn 15 ----------
+Bardolator - plays 2 Copper, 1 Silver
+Bardolator - buys Wishing Well
+Bardolator - gains Wishing Well
+Bardolator - draws Silver, Taxman, Gold, Copper, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Gold, Junk Dealer, Province, Copper
+ 
+---------- Bardolator: turn 16 ----------
+Bardolator - plays Taxman
+Bardolator - trashes Copper
+Titandrake - discards Copper
+Bardolator - gains Silver
+Bardolator - plays 2 Gold, 1 Silver
+Bardolator - buys Province
+Bardolator - gains Province
+Bardolator - draws Silver, Copper, Taxman, Province, Ambassador
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Junk Dealer, Copper, Gold, Silver
+ 
+---------- Bardolator: turn 17 ----------
+Bardolator - plays Taxman
+Bardolator - trashes Silver
+Titandrake - discards Silver
+Bardolator - gains Gold
+Bardolator - draws Gold
+Bardolator - shuffles deck
+Bardolator - draws Gold, Copper, Estate, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Expand
+Titandrake - trashes Copper
+Titandrake - plays Expand
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Gold, Oracle, Copper, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Oracle, 1 Junk Dealer, 1 Expand, 3 Copper, 2 Gold, 2 Silver, 5 Province, 3 Estate, 1 Duchy
+Titandrake - total victory points: 36
+Titandrake - turns: 18
+ 
+Bardolator - cards: 2 Wishing Well, 2 Taxman, 1 Ambassador, 5 Copper, 4 Gold, 4 Silver, 3 Estate, 3 Province, 1 Duchy
+Bardolator - total victory points: 24
+Bardolator - turns: 17
+ 
+1st place: Titandrake
+2nd place: Bardolator
+ 

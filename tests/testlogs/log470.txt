@@ -1,0 +1,627 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Cellar, Pawn, Fishing Village, Village, Caravan, Spy, Laboratory, Witch, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+gamesou - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+gamesou - shuffles deck
+Titandrake - shuffles deck
+gamesou - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- gamesou: turn 1 ----------
+gamesou - plays 4 Copper
+gamesou - buys Fishing Village
+gamesou - gains Fishing Village
+gamesou - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Fishing Village
+ 
+---------- gamesou: turn 2 ----------
+gamesou - plays 3 Copper
+gamesou - buys Fishing Village
+gamesou - gains Fishing Village
+gamesou - shuffles deck
+gamesou - draws Estate, Copper, Copper, Fishing Village, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 3 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Silver, Estate, Estate, Copper
+ 
+---------- gamesou: turn 3 ----------
+gamesou - plays Fishing Village
+gamesou - plays 3 Copper
+gamesou - buys Caravan
+gamesou - gains Caravan
+gamesou - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Fishing Village, Copper, Copper
+ 
+---------- gamesou: turn 4 ----------
+gamesou - duration Fishing Village
+gamesou - plays 3 Copper
+gamesou - buys Potion
+gamesou - gains Potion
+gamesou - draws Copper, Fishing Village
+gamesou - shuffles deck
+gamesou - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 4 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Copper, Estate, Silver, Copper, Pawn
+ 
+---------- gamesou: turn 5 ----------
+gamesou - plays Fishing Village
+gamesou - plays 3 Copper
+gamesou - buys Potion
+gamesou - gains Potion
+gamesou - draws Fishing Village, Copper, Potion, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Estate, Copper, Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- gamesou: turn 6 ----------
+gamesou - duration Fishing Village
+gamesou - plays Fishing Village
+gamesou - plays 3 Copper, 1 Potion
+gamesou - buys Witch
+gamesou - gains Witch
+gamesou - draws Estate, Caravan, Copper, Estate
+gamesou - shuffles deck
+gamesou - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Witch
+Titandrake - draws Fishing Village, Copper
+gamesou - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Pawn, Copper, Witch, Copper, Caravan
+ 
+---------- gamesou: turn 7 ----------
+gamesou - duration Fishing Village
+gamesou - plays Caravan
+gamesou - draws Copper
+gamesou - plays 3 Copper
+gamesou - buys Pawn
+gamesou - gains Pawn
+gamesou - draws Copper, Copper, Fishing Village, Witch, Potion
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Witch
+Titandrake - draws Estate, Silver
+gamesou - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Laboratory
+ 
+---------- gamesou: turn 8 ----------
+gamesou - duration Caravan
+gamesou - draws Copper
+gamesou - plays Witch
+gamesou - draws Estate, Potion
+Titandrake - gains Curse
+gamesou - plays 3 Copper, 2 Potion
+gamesou - buys Vineyard
+gamesou - gains Vineyard
+gamesou - draws Copper
+gamesou - shuffles deck
+gamesou - draws Copper, Copper, Witch, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Caravan
+Titandrake - draws Witch
+Titandrake - plays Laboratory
+Titandrake - draws Estate, Silver
+Titandrake - plays Witch
+Titandrake - draws Witch, Estate
+gamesou - gains Curse
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Farmland
+Titandrake - trashes Estate
+Titandrake - gains Potion
+Titandrake - gains Farmland
+Titandrake - draws Copper, Copper, Fishing Village, Pawn, Copper
+ 
+---------- gamesou: turn 9 ----------
+gamesou - plays Witch
+gamesou - draws Vineyard, Fishing Village
+Titandrake - gains Curse
+gamesou - plays 4 Copper
+gamesou - buys Pawn
+gamesou - gains Pawn
+gamesou - draws Curse, Estate, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Laboratory, Pawn, Farmland
+ 
+---------- gamesou: turn 10 ----------
+gamesou - plays 2 Copper
+gamesou - buys Pawn
+gamesou - gains Pawn
+gamesou - draws Potion, Copper, Pawn, Estate, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Laboratory
+Titandrake - draws Curse, Curse
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Witch
+Titandrake - plays Fishing Village
+Titandrake - plays Witch
+Titandrake - draws Copper, Potion
+gamesou - gains Curse
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Laboratory, Copper, Estate, Copper, Silver
+ 
+---------- gamesou: turn 11 ----------
+gamesou - plays Pawn
+gamesou - takes 1 buy
+gamesou - takes 1 coin
+gamesou - plays 1 Potion, 1 Copper
+gamesou - buys Vineyard
+gamesou - gains Vineyard
+gamesou - buys Pawn
+gamesou - gains Pawn
+gamesou - draws Fishing Village, Potion, Caravan
+gamesou - shuffles deck
+gamesou - draws Estate, Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - duration Fishing Village
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Witch, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse, Estate, Copper
+ 
+---------- gamesou: turn 12 ----------
+gamesou - plays Caravan
+gamesou - draws Vineyard
+gamesou - plays Fishing Village
+gamesou - plays 1 Potion
+gamesou - buys Vineyard
+gamesou - gains Vineyard
+gamesou - draws Curse, Witch, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Witch
+Titandrake - draws Gold, Copper
+gamesou - gains Curse
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Curse, Witch, Fishing Village, Laboratory, Fishing Village
+ 
+---------- gamesou: turn 13 ----------
+gamesou - duration Caravan
+gamesou - draws Vineyard
+gamesou - duration Fishing Village
+gamesou - plays Witch
+gamesou - draws Potion, Fishing Village
+Titandrake - gains Curse
+gamesou - plays Fishing Village
+gamesou - plays 2 Copper, 1 Potion
+gamesou - buys Vineyard
+gamesou - gains Vineyard
+gamesou - draws Copper, Curse, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Witch
+Titandrake - draws Caravan, Laboratory
+gamesou - gains Curse
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Silver
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Copper
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Fishing Village
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Laboratory, Estate, Farmland, Pawn, Potion
+ 
+---------- gamesou: turn 14 ----------
+gamesou - duration Fishing Village
+gamesou - plays 3 Copper
+gamesou - buys Pawn
+gamesou - gains Pawn
+gamesou - draws Copper, Curse, Pawn, Pawn, Pawn
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - duration Fishing Village
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Laboratory
+Titandrake - plays Laboratory
+Titandrake - draws Laboratory, Province
+Titandrake - plays Laboratory
+Titandrake - draws Witch, Curse
+Titandrake - plays Witch
+Titandrake - draws Copper, Copper
+gamesou - gains Curse
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Farmland
+Titandrake - trashes Farmland
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - draws Curse, Witch, Copper, Laboratory, Gold
+ 
+---------- gamesou: turn 15 ----------
+gamesou - plays Pawn
+gamesou - takes 1 action
+gamesou - draws Copper
+gamesou - plays Pawn
+gamesou - takes 1 action
+gamesou - draws Pawn
+gamesou - plays Pawn
+gamesou - takes 1 action
+gamesou - shuffles deck
+gamesou - draws Fishing Village
+gamesou - plays Fishing Village
+gamesou - plays Pawn
+gamesou - takes 1 buy
+gamesou - draws Copper
+gamesou - plays 3 Copper
+gamesou - buys Pawn
+gamesou - gains Pawn
+gamesou - buys Cellar
+gamesou - gains Cellar
+gamesou - draws Copper, Potion, Copper, Curse, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Copper
+Titandrake - plays Witch
+Titandrake - draws Curse, Silver
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Estate, Caravan, Copper, Pawn, Laboratory
+ 
+---------- gamesou: turn 16 ----------
+gamesou - duration Fishing Village
+gamesou - plays 2 Copper, 1 Potion
+gamesou - buys Vineyard
+gamesou - gains Vineyard
+gamesou - draws Estate, Witch, Curse, Pawn, Caravan
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Silver, Fishing Village
+Titandrake - plays Caravan
+Titandrake - draws Province
+Titandrake - plays Fishing Village
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Laboratory
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Province
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Laboratory, Potion, Gold, Copper, Fishing Village
+ 
+---------- gamesou: turn 17 ----------
+gamesou - plays Caravan
+gamesou - draws Estate
+gamesou - plays Pawn
+gamesou - takes 1 action
+gamesou - draws Copper
+gamesou - plays Witch
+gamesou - draws Vineyard, Estate
+gamesou - plays 1 Copper
+gamesou - buys Copper
+gamesou - gains Copper
+gamesou - draws Vineyard, Curse, Potion, Vineyard, Vineyard
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Caravan
+Titandrake - draws Curse
+Titandrake - duration Fishing Village
+Titandrake - plays Laboratory
+Titandrake - draws Curse, Copper
+Titandrake - plays Fishing Village
+Titandrake - plays Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Copper, Laboratory, Witch, Witch, Province
+ 
+---------- gamesou: turn 18 ----------
+gamesou - duration Caravan
+gamesou - draws Curse
+gamesou - plays Potion
+gamesou - buys Vineyard
+gamesou - gains Vineyard
+gamesou - draws Curse, Fishing Village, Copper
+gamesou - shuffles deck
+gamesou - draws Copper, Pawn
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Laboratory
+Titandrake - draws Vineyard, Curse
+Titandrake - plays Witch
+Titandrake - draws Farmland, Estate
+Titandrake - plays Witch
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - shuffles deck
+Titandrake - draws Province, Laboratory, Copper, Copper, Province
+ 
+---------- gamesou: turn 19 ----------
+gamesou - plays Fishing Village
+gamesou - plays Pawn
+gamesou - takes 1 buy
+gamesou - takes 1 coin
+gamesou - buys Cellar
+gamesou - gains Cellar
+gamesou - draws Curse, Witch, Pawn, Pawn, Vineyard
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Witch, Caravan
+Titandrake - plays Caravan
+Titandrake - draws Witch
+Titandrake - plays Witch
+Titandrake - draws Fishing Village, Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Vineyard, Gold, Estate, Cellar, Copper
+ 
+---------- gamesou: turn 20 ----------
+gamesou - duration Fishing Village
+gamesou - plays Pawn
+gamesou - takes 1 action
+gamesou - draws Pawn
+gamesou - plays Witch
+gamesou - draws Vineyard, Potion
+gamesou - plays Pawn
+gamesou - takes 1 coin
+gamesou - draws Copper
+gamesou - plays 1 Potion, 1 Copper
+gamesou - buys Pawn
+gamesou - gains Pawn
+gamesou - draws Vineyard, Curse, Curse, Pawn, Curse
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - duration Caravan
+Titandrake - draws Curse
+Titandrake - plays Cellar
+Titandrake - discards Vineyard
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - draws Province, Potion, Caravan, Laboratory
+Titandrake - plays Caravan
+Titandrake - draws Village
+Titandrake - plays Laboratory
+Titandrake - draws Curse, Laboratory
+Titandrake - plays Village
+Titandrake - draws Curse
+Titandrake - plays Laboratory
+Titandrake - draws Farmland, Estate
+Titandrake - plays 1 Gold, 1 Potion
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Pawn, Copper, Laboratory, Copper
+ 
+---------- gamesou: turn 21 ----------
+gamesou - plays Pawn
+gamesou - takes 1 action
+gamesou - draws Estate
+gamesou - draws Pawn, Estate, Caravan, Fishing Village, Cellar
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - duration Caravan
+Titandrake - draws Fishing Village
+Titandrake - plays Laboratory
+Titandrake - draws Vineyard, Copper
+Titandrake - plays Fishing Village
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - shuffles deck
+Titandrake - draws Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Farmland
+Titandrake - trashes Curse
+Titandrake - gains Estate
+Titandrake - gains Farmland
+Titandrake - draws Fishing Village, Potion, Laboratory, Gold, Laboratory
+ 
+---------- gamesou: turn 22 ----------
+gamesou - plays Caravan
+gamesou - draws Vineyard
+gamesou - plays Fishing Village
+gamesou - plays Pawn
+gamesou - takes 1 coin
+gamesou - draws Vineyard
+gamesou - plays Cellar
+gamesou - discards Estate
+gamesou - discards Vineyard
+gamesou - discards Vineyard
+gamesou - draws Estate, Copper, Vineyard
+gamesou - plays 1 Copper
+gamesou - buys Fishing Village
+gamesou - gains Fishing Village
+gamesou - draws Copper, Copper, Curse, Copper, Potion
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Laboratory
+Titandrake - draws Silver, Witch
+Titandrake - plays Laboratory
+Titandrake - draws Vineyard, Laboratory
+Titandrake - plays Laboratory
+Titandrake - draws Farmland, Copper
+Titandrake - plays Fishing Village
+Titandrake - plays Witch
+Titandrake - draws Witch, Estate
+Titandrake - plays Witch
+Titandrake - draws Province, Village
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Potion, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Caravan, Cellar, Copper, Estate, Province
+ 
+---------- gamesou: turn 23 ----------
+gamesou - duration Caravan
+gamesou - draws Curse
+gamesou - duration Fishing Village
+gamesou - plays 3 Copper, 1 Potion
+gamesou - buys Caravan
+gamesou - gains Caravan
+gamesou - draws Copper
+gamesou - shuffles deck
+gamesou - draws Curse, Pawn, Potion, Pawn
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Caravan
+Titandrake - draws Province
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - draws Curse, Caravan, Curse
+Titandrake - shuffles deck
+Titandrake - draws Laboratory
+Titandrake - plays Caravan
+Titandrake - draws Village
+Titandrake - plays Laboratory
+Titandrake - draws Province, Witch
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays Witch
+Titandrake - draws Estate, Province
+Titandrake - plays 1 Silver
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Copper, Pawn, Laboratory, Laboratory
+ 
+---------- gamesou: turn 24 ----------
+gamesou - plays Pawn
+gamesou - takes 1 action
+gamesou - draws Curse
+gamesou - plays Pawn
+gamesou - takes 1 coin
+gamesou - draws Copper
+gamesou - plays 2 Copper, 1 Potion
+gamesou - buys Fishing Village
+gamesou - gains Fishing Village
+gamesou - draws Vineyard, Cellar, Copper, Fishing Village, Copper
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - duration Caravan
+Titandrake - draws Laboratory
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Laboratory
+Titandrake - draws Vineyard, Copper
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Copper
+Titandrake - plays Laboratory
+Titandrake - draws Province, Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Estate
+Titandrake - plays 5 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Witch, Farmland, Vineyard, Gold, Village
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Laboratory, 4 Caravan, 3 Pawn, 2 Witch, 2 Village, 2 Fishing Village, 1 Cellar, 7 Copper, 1 Gold, 1 Silver, 1 Potion, 4 Province, 3 Estate, 2 Farmland, 2 Vineyard, 2 Curse
+Titandrake - total victory points: 41
+Titandrake - turns: 25
+ 
+gamesou - cards: 7 Pawn, 4 Fishing Village, 2 Cellar, 2 Caravan, 1 Witch, 8 Copper, 2 Potion, 6 Vineyard, 3 Estate, 7 Curse
+gamesou - total victory points: 26
+gamesou - turns: 24
+ 
+1st place: Titandrake
+2nd place: gamesou
+ 

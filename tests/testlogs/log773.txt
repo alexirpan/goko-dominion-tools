@@ -1,0 +1,549 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Scrying Pool, Menagerie, Sage, Scheme, Wishing Well, Philosopher's Stone, Catacombs, Highway, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Nate Forman - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Nate Forman - shuffles deck
+Titandrake - shuffles deck
+Nate Forman - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Nate Forman: turn 1 ----------
+Nate Forman - plays 4 Copper
+Nate Forman - buys Silver
+Nate Forman - gains Silver
+Nate Forman - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Potion, Copper, Copper
+ 
+---------- Nate Forman: turn 2 ----------
+Nate Forman - plays 3 Copper
+Nate Forman - buys Scheme
+Nate Forman - gains Scheme
+Nate Forman - shuffles deck
+Nate Forman - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Nate Forman: turn 3 ----------
+Nate Forman - plays 3 Copper, 1 Silver
+Nate Forman - buys Wharf
+Nate Forman - gains Wharf
+Nate Forman - draws Copper, Scheme, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - draws Sage, Copper
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Copper, Copper
+ 
+---------- Nate Forman: turn 4 ----------
+Nate Forman - plays Scheme
+Nate Forman - draws Estate
+Nate Forman - plays 3 Copper
+Nate Forman - buys Silver
+Nate Forman - gains Silver
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Copper
+Nate Forman - shuffles deck
+Nate Forman - draws Estate, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Sage
+Titandrake - reveals Estate, Copper, Copper, Potion
+Titandrake - places Potion in hand
+Titandrake - discards: Estate, Copper, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+Nate Forman - places Copper on top of deck
+Titandrake - reveals Estate
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- Nate Forman: turn 5 ----------
+Nate Forman - plays Scheme
+Nate Forman - draws Copper
+Nate Forman - plays 3 Copper, 1 Silver
+Nate Forman - buys Highway
+Nate Forman - gains Highway
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Copper, Copper, Estate, Scrying Pool, Sage
+ 
+---------- Nate Forman: turn 6 ----------
+Nate Forman - plays Scheme
+Nate Forman - draws Wharf
+Nate Forman - plays Wharf
+Nate Forman - draws Copper, Silver
+Nate Forman - plays 4 Copper, 1 Silver
+Nate Forman - buys Gold
+Nate Forman - gains Gold
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Estate
+Nate Forman - shuffles deck
+Nate Forman - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Potion
+Nate Forman - places Copper on top of deck
+Titandrake - reveals Silver
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Copper, Potion
+Titandrake - places Potion in hand
+Titandrake - discards: Estate, Copper
+Titandrake - plays 2 Copper, 1 Silver, 1 Potion
+Titandrake - buys Philosopher's Stone
+Titandrake - gains Philosopher's Stone
+Titandrake - draws Menagerie, Copper, Estate, Copper, Copper
+ 
+---------- Nate Forman: turn 7 ----------
+Nate Forman - duration Wharf
+Nate Forman - draws Copper, Copper
+Nate Forman - plays Scheme
+Nate Forman - draws Highway
+Nate Forman - plays Highway
+Nate Forman - draws Silver
+Nate Forman - plays 5 Copper, 1 Silver
+Nate Forman - buys Gold
+Nate Forman - gains Gold
+Nate Forman - Scheme choice: Highway
+Nate Forman - draws Highway, Estate, Estate, Copper, Gold
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Estate, Copper, Copper
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Estate, Scheme, Estate, Copper
+ 
+---------- Nate Forman: turn 8 ----------
+Nate Forman - plays Highway
+Nate Forman - draws Silver
+Nate Forman - plays 1 Copper, 1 Gold, 1 Silver
+Nate Forman - buys Gold
+Nate Forman - gains Gold
+Nate Forman - draws Copper
+Nate Forman - shuffles deck
+Nate Forman - draws Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+Nate Forman - places Estate on top of deck
+Titandrake - reveals Potion
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - Scheme choice: Scrying Pool
+Titandrake - draws Scrying Pool, Copper, Menagerie, Copper, Estate
+ 
+---------- Nate Forman: turn 9 ----------
+Nate Forman - plays 3 Copper
+Nate Forman - buys Scheme
+Nate Forman - gains Scheme
+Nate Forman - draws Estate, Silver, Copper, Wharf, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+Nate Forman - discards Scheme
+Titandrake - reveals Sage, Silver
+Titandrake - plays Sage
+Titandrake - reveals Philosopher's Stone
+Titandrake - places Philosopher's Stone in hand
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Philosopher's Stone
+Titandrake - has 9 cards in discards
+Titandrake - receives 2 coins
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Wharf, Potion
+ 
+---------- Nate Forman: turn 10 ----------
+Nate Forman - plays Wharf
+Nate Forman - draws Gold, Gold
+Nate Forman - plays 3 Gold, 1 Silver, 1 Copper
+Nate Forman - buys Gold
+Nate Forman - gains Gold
+Nate Forman - buys Gold
+Nate Forman - gains Gold
+Nate Forman - draws Highway, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Scrying Pool
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Philosopher's Stone, Menagerie, Estate, Copper
+ 
+---------- Nate Forman: turn 11 ----------
+Nate Forman - duration Wharf
+Nate Forman - shuffles deck
+Nate Forman - draws Copper, Scheme
+Nate Forman - plays Highway
+Nate Forman - draws Scheme
+Nate Forman - plays Scheme
+Nate Forman - draws Estate
+Nate Forman - plays Scheme
+Nate Forman - draws Gold
+Nate Forman - plays 4 Copper, 1 Silver, 1 Gold
+Nate Forman - buys Province
+Nate Forman - gains Province
+Nate Forman - buys Scheme
+Nate Forman - gains Scheme
+Nate Forman - Scheme choice: Wharf
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Wharf, Gold, Estate, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Philosopher's Stone, Estate, Copper, Copper, Silver
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Philosopher's Stone
+Titandrake - has 7 cards in discards
+Titandrake - receives 2 coins
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Scheme, Sage, Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Nate Forman: turn 12 ----------
+Nate Forman - plays Scheme
+Nate Forman - draws Copper
+Nate Forman - plays Wharf
+Nate Forman - draws Silver, Copper
+Nate Forman - plays 2 Gold, 2 Copper, 1 Silver
+Nate Forman - buys Province
+Nate Forman - gains Province
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Copper, Estate, Gold, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+Nate Forman - shuffles deck
+Nate Forman - places Copper on top of deck
+Titandrake - reveals Philosopher's Stone
+Titandrake - plays Sage
+Titandrake - reveals Highway
+Titandrake - places Highway in hand
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Scheme
+Titandrake - draws Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Philosopher's Stone, Silver
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Philosopher's Stone
+Titandrake - has 1 cards in discards
+Titandrake - receives 2 coins
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - Scheme choice: Scrying Pool
+Titandrake - draws Scrying Pool, Copper, Copper, Scrying Pool, Scrying Pool
+ 
+---------- Nate Forman: turn 13 ----------
+Nate Forman - duration Wharf
+Nate Forman - draws Copper, Gold
+Nate Forman - plays Scheme
+Nate Forman - draws Silver
+Nate Forman - plays 3 Gold, 2 Copper, 1 Silver
+Nate Forman - buys Province
+Nate Forman - gains Province
+Nate Forman - buys Highway
+Nate Forman - gains Highway
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Highway, Province, Estate, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+Nate Forman - discards Scheme
+Titandrake - reveals Wharf, Estate
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+Nate Forman - places Copper on top of deck
+Titandrake - reveals Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Potion
+Nate Forman - places Copper on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Copper
+Titandrake - plays Wharf
+Titandrake - draws Potion, Copper
+Titandrake - plays 5 Copper, 1 Potion
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Copper, Estate, Silver, Sage
+ 
+---------- Nate Forman: turn 14 ----------
+Nate Forman - plays Highway
+Nate Forman - draws Copper
+Nate Forman - plays Scheme
+Nate Forman - draws Gold
+Nate Forman - plays 1 Silver, 1 Copper, 1 Gold
+Nate Forman - buys Wharf
+Nate Forman - gains Wharf
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Copper, Estate, Scheme, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Wharf
+Titandrake - draws Highway, Estate
+Titandrake - plays Sage
+Titandrake - reveals Scheme
+Titandrake - places Scheme in hand
+Titandrake - plays Scheme
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Philosopher's Stone
+Titandrake - plays Highway
+Titandrake - draws Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Estate, Silver, Estate, Philosopher's Stone
+Titandrake - shuffles deck
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Philosopher's Stone
+Titandrake - has 0 cards in discards
+Titandrake - receives 1 coins
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Wharf
+Titandrake - draws Wharf, Estate, Copper, Copper, Scrying Pool
+ 
+---------- Nate Forman: turn 15 ----------
+Nate Forman - plays Scheme
+Nate Forman - draws Copper
+Nate Forman - plays Scheme
+Nate Forman - draws Province
+Nate Forman - plays 2 Copper, 1 Gold
+Nate Forman - buys Highway
+Nate Forman - gains Highway
+Nate Forman - Scheme choice: Scheme
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Scheme, Copper, Copper
+Nate Forman - shuffles deck
+Nate Forman - draws Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+Nate Forman - places Estate on top of deck
+Titandrake - reveals Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+Nate Forman - places Estate on top of deck
+Titandrake - reveals Scrying Pool, Potion
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - places Sage on top of deck
+Nate Forman - places Estate on top of deck
+Titandrake - reveals Sage, Copper
+Titandrake - plays Sage
+Titandrake - reveals Copper, Province
+Titandrake - places Province in hand
+Titandrake - discards Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Highway
+Titandrake - plays 5 Copper, 1 Potion
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Estate, Scheme, Philosopher's Stone, Highway, Estate
+ 
+---------- Nate Forman: turn 16 ----------
+Nate Forman - plays Scheme
+Nate Forman - draws Estate
+Nate Forman - plays Scheme
+Nate Forman - draws Gold
+Nate Forman - plays 3 Copper, 1 Gold
+Nate Forman - buys Gold
+Nate Forman - gains Gold
+Nate Forman - Scheme choice: Scheme
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Scheme, Estate, Province, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Scheme
+Titandrake - plays Highway
+Titandrake - draws Menagerie
+Titandrake - plays Scheme
+Titandrake - draws Highway
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Philosopher's Stone, Estate, Silver, Copper, Copper
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Philosopher's Stone
+Titandrake - has 0 cards in discards
+Titandrake - receives 2 coins
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - Scheme choice: Wharf
+Titandrake - Scheme choice: Highway
+Titandrake - draws Highway, Wharf, Province, Copper, Scrying Pool
+ 
+---------- Nate Forman: turn 17 ----------
+Nate Forman - plays Scheme
+Nate Forman - draws Wharf
+Nate Forman - plays Scheme
+Nate Forman - draws Wharf
+Nate Forman - plays Wharf
+Nate Forman - draws Copper, Highway
+Nate Forman - plays 2 Copper
+Nate Forman - Scheme choice: Scheme
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Scheme, Gold, Estate, Highway
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Highway on top of deck
+Nate Forman - places Province on top of deck
+Titandrake - reveals Highway, Copper
+Titandrake - plays Highway
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - places Sage on top of deck
+Nate Forman - places Province on top of deck
+Titandrake - reveals Sage, Scrying Pool, Copper
+Titandrake - plays Highway
+Titandrake - draws Potion
+Titandrake - plays Sage
+Titandrake - reveals Copper, Highway
+Titandrake - places Highway in hand
+Titandrake - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - places Highway on top of deck
+Nate Forman - places Province on top of deck
+Titandrake - reveals Highway, Silver
+Titandrake - plays Highway
+Titandrake - draws Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Wharf, Province, Copper, Copper, Copper, Potion, Estate, Silver
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Philosopher's Stone
+Titandrake - plays Wharf
+Titandrake - draws Estate, Scheme
+Titandrake - plays 3 Copper, 1 Potion, 1 Silver
+Titandrake - plays Philosopher's Stone
+Titandrake - has 0 cards in discards
+Titandrake - receives 1 coins
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Scheme, Copper, Estate
+ 
+---------- Nate Forman: turn 18 ----------
+Nate Forman - duration Wharf
+Nate Forman - draws Province, Province
+Nate Forman - plays Scheme
+Nate Forman - draws Gold
+Nate Forman - plays Scheme
+Nate Forman - draws Silver
+Nate Forman - plays Highway
+Nate Forman - draws Gold
+Nate Forman - plays 3 Gold, 1 Silver
+Nate Forman - buys Province
+Nate Forman - gains Province
+Nate Forman - buys Duchy
+Nate Forman - gains Duchy
+Nate Forman - Scheme choice: Wharf
+Nate Forman - Scheme choice: Scheme
+Nate Forman - draws Scheme, Wharf, Gold, Copper, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Wharf
+Titandrake - draws Highway, Copper
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - Scheme choice: Wharf
+Titandrake - draws Wharf, Province, Highway, Scrying Pool, Estate
+ 
+---------- Nate Forman: turn 19 ----------
+Nate Forman - plays Scheme
+Nate Forman - draws Highway
+Nate Forman - plays Highway
+Nate Forman - draws Silver
+Nate Forman - plays Wharf
+Nate Forman - draws Scheme
+Nate Forman - shuffles deck
+Nate Forman - draws Highway
+Nate Forman - plays 2 Copper, 1 Gold, 1 Silver
+Nate Forman - buys Province
+Nate Forman - gains Province
+Nate Forman - draws Duchy, Copper, Estate, Gold, Gold
+ 
+------------ Game Over ------------
+Nate Forman - cards: 3 Scheme, 3 Highway, 2 Wharf, 7 Copper, 6 Gold, 2 Silver, 5 Province, 3 Estate, 1 Duchy
+Nate Forman - total victory points: 36
+Nate Forman - turns: 19
+ 
+Titandrake - cards: 6 Highway, 3 Scrying Pool, 2 Scheme, 1 Wharf, 1 Sage, 1 Menagerie, 7 Copper, 1 Silver, 1 Potion, 1 Philosopher's Stone, 4 Estate, 3 Province, 1 Duchy
+Titandrake - total victory points: 25
+Titandrake - turns: 19
+ 
+1st place: Nate Forman
+2nd place: Titandrake
+ 

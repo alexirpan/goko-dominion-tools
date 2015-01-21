@@ -1,0 +1,390 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Squire, Develop, Island, Worker's Village, Bandit Camp, Knights, Mine, Tactician, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+astrosity - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+astrosity - shuffles deck
+Titandrake - shuffles deck
+astrosity - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- astrosity: turn 1 ----------
+astrosity - plays 3 Copper
+astrosity - buys Develop
+astrosity - gains Develop
+astrosity - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- astrosity: turn 2 ----------
+astrosity - plays 4 Copper
+astrosity - buys Silver
+astrosity - gains Silver
+astrosity - shuffles deck
+astrosity - draws Copper, Develop, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Copper, Copper, Island
+ 
+---------- astrosity: turn 3 ----------
+astrosity - plays Develop
+astrosity - trashes Estate
+astrosity - gains Silver
+astrosity - plays 3 Copper
+astrosity - buys Squire
+astrosity - gains Squire
+astrosity - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Island, Copper, Copper
+ 
+---------- astrosity: turn 4 ----------
+astrosity - plays 4 Copper, 1 Silver
+astrosity - buys Gold
+astrosity - gains Gold
+astrosity - draws Estate, Estate, Silver
+astrosity - shuffles deck
+astrosity - draws Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- astrosity: turn 5 ----------
+astrosity - plays 2 Copper, 1 Silver
+astrosity - buys Worker's Village
+astrosity - gains Worker's Village
+astrosity - draws Develop, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Silver, Estate, Bandit Camp, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- astrosity: turn 6 ----------
+astrosity - plays Develop
+astrosity - trashes Copper
+astrosity - plays 3 Copper
+astrosity - buys Silver
+astrosity - gains Silver
+astrosity - draws Silver, Copper, Gold, Squire
+astrosity - shuffles deck
+astrosity - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Silver, Squire, Copper, Copper, Copper
+ 
+---------- astrosity: turn 7 ----------
+astrosity - plays Squire
+astrosity - gains Silver
+astrosity - plays 2 Copper, 1 Silver, 1 Gold
+astrosity - buys Forge
+astrosity - gains Forge
+astrosity - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Tactician, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Squire
+ 
+---------- astrosity: turn 8 ----------
+astrosity - plays 3 Copper, 1 Silver
+astrosity - buys Tactician
+astrosity - gains Tactician
+astrosity - draws Worker's Village, Silver, Estate, Develop, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Copper, Copper, Squire
+Titandrake - draws Silver, Spoils, Island, Gold, Silver
+ 
+---------- astrosity: turn 9 ----------
+astrosity - plays Worker's Village
+astrosity - shuffles deck
+astrosity - draws Silver
+astrosity - plays Develop
+astrosity - trashes Estate
+astrosity - gains Silver
+astrosity - plays 2 Silver, 1 Copper
+astrosity - buys Bandit Camp
+astrosity - gains Bandit Camp
+astrosity - draws Silver, Silver, Gold, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Tactician
+Titandrake - draws Copper, Copper, Estate, Silver, Copper
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - plays 3 Silver, 3 Copper, 1 Gold
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Bandit Camp, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- astrosity: turn 10 ----------
+astrosity - plays 2 Silver, 1 Gold, 1 Copper
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Copper, Copper, Squire, Copper, Tactician
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Gold
+Titandrake - gains Spoils
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Silver, Gold, Silver
+ 
+---------- astrosity: turn 11 ----------
+astrosity - plays Squire
+astrosity - takes 2 actions
+astrosity - plays Tactician
+astrosity - discards: Copper, Copper, Copper
+astrosity - draws Forge, Copper, Silver
+astrosity - shuffles deck
+astrosity - draws Estate, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Squire, Copper, Silver, Copper, Province
+ 
+---------- astrosity: turn 12 ----------
+astrosity - duration Tactician
+astrosity - draws Copper, Copper, Worker's Village, Gold, Squire
+astrosity - plays Worker's Village
+astrosity - draws Silver
+astrosity - plays Squire
+astrosity - gains Silver
+astrosity - plays Forge
+astrosity - trashes Estate, Silver, Silver, Copper, Copper, Copper, Copper
+astrosity - gains Province
+astrosity - plays 1 Gold
+astrosity - buys Island
+astrosity - gains Island
+astrosity - draws Develop, Copper, Province, Copper, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Tactician
+Titandrake - shuffles deck
+Titandrake - draws Gold, Bandit Camp, Copper, Squire
+ 
+---------- astrosity: turn 13 ----------
+astrosity - plays Develop
+astrosity - trashes Copper
+astrosity - plays 1 Copper, 1 Silver
+astrosity - buys Crossroads
+astrosity - gains Crossroads
+astrosity - draws Silver, Silver, Bandit Camp
+astrosity - shuffles deck
+astrosity - draws Develop, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Tactician
+Titandrake - discards: Gold, Copper, Copper
+Titandrake - draws Silver, Copper, Estate, Duchy, Copper
+ 
+---------- astrosity: turn 14 ----------
+astrosity - plays Bandit Camp
+astrosity - draws Silver
+astrosity - gains Spoils
+astrosity - plays 3 Silver, 1 Gold
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Worker's Village, Silver, Forge, Tactician, Island
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Tactician
+Titandrake - draws Spoils, Silver, Copper, Copper, Silver
+Titandrake - plays 4 Copper, 3 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Silver, Gold, Province, Gold
+ 
+---------- astrosity: turn 15 ----------
+astrosity - plays Worker's Village
+astrosity - draws Copper
+astrosity - plays Island
+astrosity - sets aside Copper
+astrosity - plays Tactician
+astrosity - discards: Silver, Forge
+astrosity - draws Province, Squire, Province, Crossroads
+astrosity - shuffles deck
+astrosity - draws Spoils
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Squire, Bandit Camp, Province
+ 
+---------- astrosity: turn 16 ----------
+astrosity - duration Tactician
+astrosity - draws Gold, Province, Develop, Worker's Village, Silver
+astrosity - plays Crossroads
+astrosity - reveals hand: Province, Squire, Province, Spoils, Gold, Province, Develop, Worker's Village, Silver
+astrosity - draws Forge, Silver, Bandit Camp
+astrosity - plays Worker's Village
+astrosity - draws Silver
+astrosity - plays Bandit Camp
+astrosity - draws Silver
+astrosity - gains Spoils
+astrosity - plays Forge
+astrosity - trashes Squire, Develop
+astrosity - gains Sir Vander
+astrosity - gains Duchy
+astrosity - plays 4 Silver, 1 Gold
+astrosity - buys Duchy
+astrosity - gains Duchy
+astrosity - buys Duchy
+astrosity - gains Duchy
+astrosity - shuffles deck
+astrosity - draws Spoils, Spoils, Forge, Sir Vander, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Silver, Gold, Province, Silver
+ 
+---------- astrosity: turn 17 ----------
+astrosity - plays Forge
+astrosity - trashes Sir Vander
+astrosity - gains Gold
+astrosity - gains Duchy
+astrosity - plays Spoils
+astrosity - plays Spoils
+astrosity - buys Duchy
+astrosity - gains Duchy
+astrosity - draws Duchy, Bandit Camp, Silver, Duchy, Province
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Duchy, Province, Copper, Gold, Silver
+ 
+---------- astrosity: turn 18 ----------
+astrosity - plays Bandit Camp
+astrosity - draws Silver
+astrosity - gains Spoils
+astrosity - plays 2 Silver
+astrosity - buys Island
+astrosity - gains Island
+astrosity - draws Crossroads, Tactician, Worker's Village, Province, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Province, Copper, Duchy, Tactician, Silver
+ 
+---------- astrosity: turn 19 ----------
+astrosity - plays Worker's Village
+astrosity - draws Silver
+astrosity - plays Crossroads
+astrosity - reveals hand: Tactician, Province, Silver, Silver
+astrosity - draws Gold
+astrosity - plays Tactician
+astrosity - discards: Gold, Province, Silver, Silver
+astrosity - draws Duchy
+astrosity - shuffles deck
+astrosity - draws Gold, Forge, Silver, Duchy
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Province, Copper, Duchy, Silver
+Titandrake - draws Copper, Gold, Copper, Spoils, Copper
+ 
+---------- astrosity: turn 20 ----------
+astrosity - duration Tactician
+astrosity - draws Duchy, Gold, Spoils, Bandit Camp, Crossroads
+astrosity - plays Bandit Camp
+astrosity - draws Province
+astrosity - gains Spoils
+astrosity - plays Crossroads
+astrosity - reveals hand: Duchy, Gold, Forge, Silver, Duchy, Duchy, Gold, Spoils, Province
+astrosity - draws Province, Silver, Duchy, Silver
+astrosity - plays 3 Silver, 2 Gold
+astrosity - plays Spoils
+astrosity - buys Province
+astrosity - gains Province
+astrosity - buys Island
+astrosity - gains Island
+astrosity - draws Silver, Duchy, Island, Worker's Village, Province
+ 
+------------ Game Over ------------
+astrosity - cards: 3 Island, 1 Worker's Village, 1 Tactician, 1 Bandit Camp, 1 Crossroads, 1 Forge, 4 Silver, 2 Gold, 1 Spoils, 1 Copper, 5 Duchy, 4 Province
+astrosity - total victory points: 45
+astrosity - turns: 20
+ 
+Titandrake - cards: 4 Island, 1 Bandit Camp, 1 Squire, 1 Tactician, 7 Copper, 6 Silver, 3 Gold, 2 Spoils, 4 Province, 3 Duchy, 3 Estate
+Titandrake - total victory points: 44
+Titandrake - turns: 20
+ 
+1st place: astrosity
+2nd place: Titandrake
+ 

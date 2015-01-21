@@ -1,0 +1,432 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Duchess, Doctor, Workshop, Island, Salvager, Smithy, Bazaar, Cartographer, Governor, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Toblakai - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Toblakai - shuffles deck
+Titandrake - shuffles deck
+Toblakai - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Toblakai: turn 1 ----------
+Toblakai - plays 4 Copper
+Toblakai - buys Doctor
+Toblakai - overpays for Doctor with 1 coin
+Toblakai - looks at Copper
+Toblakai - trashes Copper
+Toblakai - gains Doctor
+Toblakai - draws Estate, Estate, Copper, Copper
+Toblakai - shuffles deck
+Toblakai - draws Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Doctor
+Titandrake - overpays for Doctor with 1 coin
+Titandrake - shuffles deck
+Titandrake - looks at Silver
+Titandrake - places Silver on top of deck
+Titandrake - gains Doctor
+Titandrake - draws Silver, Estate, Estate, Copper, Copper
+ 
+---------- Toblakai: turn 2 ----------
+Toblakai - plays 3 Copper
+Toblakai - buys Silver
+Toblakai - gains Silver
+Toblakai - draws Copper, Copper, Estate, Doctor, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate, Copper
+ 
+---------- Toblakai: turn 3 ----------
+Toblakai - plays Doctor
+Toblakai - names Estate
+Toblakai - shuffles deck
+Toblakai - reveals: Copper, Estate, Copper
+Toblakai - trashes Estate
+Toblakai - places Copper on top of deck
+Toblakai - places Copper on top of deck
+Toblakai - plays 3 Copper
+Toblakai - buys Silver
+Toblakai - gains Silver
+Toblakai - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bazaar
+Titandrake - gains Bazaar
+Titandrake - draws Copper, Estate, Doctor, Salvager, Copper
+ 
+---------- Toblakai: turn 4 ----------
+Toblakai - plays 3 Copper, 1 Silver
+Toblakai - buys Governor
+Toblakai - gains Governor
+Toblakai - shuffles deck
+Toblakai - draws Copper, Copper, Estate, Governor, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Estate, Copper, Copper
+Titandrake - trashes Copper, Copper
+Titandrake - places Estate on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Cellar
+ 
+---------- Toblakai: turn 5 ----------
+Toblakai - plays Governor
+Toblakai - chooses to gain a gold
+Toblakai - gains Gold
+Titandrake - gains Silver
+Toblakai - plays 3 Copper
+Toblakai - buys Cellar
+Toblakai - gains Cellar
+Toblakai - draws Estate, Copper, Copper, Doctor, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Copper, Salvager, Silver, Doctor
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - reveals: Estate, Bazaar, Copper
+Titandrake - trashes Estate
+Titandrake - places Copper on top of deck
+Titandrake - places Bazaar on top of deck
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Bazaar, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Cellar
+ 
+---------- Toblakai: turn 6 ----------
+Toblakai - plays Doctor
+Toblakai - names Estate
+Toblakai - reveals: Silver, Copper
+Toblakai - shuffles deck
+Toblakai - reveals: Copper
+Toblakai - places Copper on top of deck
+Toblakai - places Copper on top of deck
+Toblakai - places Silver on top of deck
+Toblakai - plays 2 Copper, 1 Silver
+Toblakai - buys Smithy
+Toblakai - gains Smithy
+Toblakai - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Copper
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Estate, Copper, Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Governor
+Titandrake - gains Governor
+Titandrake - draws Copper, Silver, Doctor, Salvager, Copper
+ 
+---------- Toblakai: turn 7 ----------
+Toblakai - plays 3 Copper, 1 Silver
+Toblakai - buys Bazaar
+Toblakai - gains Bazaar
+Toblakai - draws Cellar, Governor, Gold, Copper
+Toblakai - shuffles deck
+Toblakai - draws Bazaar
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate, Salvager, Estate
+ 
+---------- Toblakai: turn 8 ----------
+Toblakai - plays Bazaar
+Toblakai - draws Silver
+Toblakai - plays Cellar
+Toblakai - discards Copper
+Toblakai - draws Copper
+Toblakai - plays Governor
+Toblakai - chooses to gain a gold
+Toblakai - gains Gold
+Titandrake - gains Silver
+Toblakai - plays 1 Gold, 1 Silver, 1 Copper
+Toblakai - buys Governor
+Toblakai - gains Governor
+Toblakai - draws Copper, Estate, Doctor, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Governor
+Titandrake - gains Governor
+Titandrake - draws Doctor, Silver, Copper, Copper, Cellar
+ 
+---------- Toblakai: turn 9 ----------
+Toblakai - plays Doctor
+Toblakai - names Estate
+Toblakai - reveals: Copper, Smithy, Silver
+Toblakai - places Copper on top of deck
+Toblakai - places Smithy on top of deck
+Toblakai - places Silver on top of deck
+Toblakai - plays 3 Copper
+Toblakai - buys Silver
+Toblakai - gains Silver
+Toblakai - draws Silver, Smithy, Copper, Estate
+Toblakai - shuffles deck
+Toblakai - draws Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Bazaar, Silver
+Titandrake - plays Bazaar
+Titandrake - draws Governor
+Titandrake - plays Governor
+Titandrake - chooses to gain a gold
+Titandrake - gains Gold
+Toblakai - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Governor
+Titandrake - gains Governor
+Titandrake - draws Copper, Cellar
+Titandrake - shuffles deck
+Titandrake - draws Governor, Doctor, Governor
+ 
+---------- Toblakai: turn 10 ----------
+Toblakai - plays Smithy
+Toblakai - draws Gold, Estate, Copper
+Toblakai - plays 3 Copper, 1 Silver, 1 Gold
+Toblakai - buys Governor
+Toblakai - gains Governor
+Toblakai - draws Copper, Silver, Governor, Governor, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Governor
+Titandrake - chooses to gain a gold
+Titandrake - gains Gold
+Toblakai - gains Silver
+Titandrake - plays Governor
+Titandrake - chooses to gain a gold
+Titandrake - gains Gold
+Toblakai - gains Silver
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Estate, Gold, Copper
+Titandrake - trashes Copper
+Titandrake - places Gold on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - draws Estate, Gold, Copper, Silver, Silver
+ 
+---------- Toblakai: turn 11 ----------
+Toblakai - plays Governor
+Toblakai - chooses to gain a gold
+Toblakai - gains Gold
+Titandrake - gains Silver
+Toblakai - plays Governor
+Toblakai - chooses to gain a gold
+Toblakai - gains Gold
+Titandrake - gains Silver
+Toblakai - plays 2 Copper, 1 Silver
+Toblakai - buys Salvager
+Toblakai - gains Salvager
+Toblakai - draws Bazaar, Doctor, Silver, Cellar, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Salvager, Cellar, Bazaar, Silver, Silver
+ 
+---------- Toblakai: turn 12 ----------
+Toblakai - plays Bazaar
+Toblakai - draws Gold
+Toblakai - plays Doctor
+Toblakai - names Copper
+Toblakai - shuffles deck
+Toblakai - reveals: Governor, Silver, Salvager
+Toblakai - places Salvager on top of deck
+Toblakai - places Silver on top of deck
+Toblakai - places Governor on top of deck
+Toblakai - plays Cellar
+Toblakai - discards Copper
+Toblakai - draws Governor
+Toblakai - plays Governor
+Toblakai - chooses to gain a gold
+Toblakai - gains Gold
+Titandrake - gains Silver
+Toblakai - plays 1 Silver, 1 Gold
+Toblakai - buys Governor
+Toblakai - gains Governor
+Toblakai - draws Silver, Salvager, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bazaar
+Titandrake - draws Governor
+Titandrake - plays Governor
+Titandrake - chooses to gain a gold
+Titandrake - gains Gold
+Toblakai - gains Silver
+Titandrake - plays Cellar
+Titandrake - discards Silver
+Titandrake - draws Copper
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays Copper
+Titandrake - buys Governor
+Titandrake - gains Governor
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Governor, Salvager, Governor
+ 
+---------- Toblakai: turn 13 ----------
+Toblakai - plays 3 Copper, 1 Silver
+Toblakai - buys Governor
+Toblakai - gains Governor
+Toblakai - draws Governor, Silver, Silver, Gold, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Governor
+Titandrake - chooses to gain a gold
+Titandrake - gains Gold
+Toblakai - gains Silver
+Titandrake - plays Governor
+Titandrake - chooses to trash a card
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Gold, Doctor, Gold, Cellar, Silver
+ 
+---------- Toblakai: turn 14 ----------
+Toblakai - plays Governor
+Toblakai - chooses to draw cards
+Toblakai - draws Estate, Smithy, Silver
+Titandrake - draws Estate
+Toblakai - plays Smithy
+Toblakai - draws Estate, Gold, Copper
+Toblakai - plays 4 Silver, 2 Gold, 1 Copper
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - draws Governor, Gold, Copper
+Toblakai - shuffles deck
+Toblakai - draws Silver, Bazaar
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Cellar
+Titandrake - discards Doctor
+Titandrake - discards Estate
+Titandrake - draws Gold, Cellar
+Titandrake - plays Cellar
+Titandrake - discards Silver
+Titandrake - draws Bazaar
+Titandrake - plays Bazaar
+Titandrake - draws Silver
+Titandrake - plays 3 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Governor, Copper, Silver, Silver, Province
+ 
+---------- Toblakai: turn 15 ----------
+Toblakai - plays Governor
+Toblakai - chooses to draw cards
+Toblakai - draws Silver, Gold, Governor
+Titandrake - draws Copper
+Toblakai - plays Governor
+Toblakai - chooses to draw cards
+Toblakai - draws Province, Silver, Silver
+Titandrake - draws Copper
+Toblakai - plays Bazaar
+Toblakai - draws Silver
+Toblakai - plays 5 Silver, 2 Gold, 1 Copper
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - draws Copper, Copper, Silver, Gold, Governor
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Governor
+Titandrake - chooses to draw cards
+Titandrake - draws Governor, Silver
+Titandrake - shuffles deck
+Titandrake - draws Cellar
+Toblakai - draws Copper
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Gold, Gold, Silver, Province
+Titandrake - plays Governor
+Titandrake - chooses to trash a card
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - plays 4 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Doctor, Gold, Gold, Governor
+ 
+---------- Toblakai: turn 16 ----------
+Toblakai - plays Governor
+Toblakai - chooses to draw cards
+Toblakai - draws Silver, Smithy, Doctor
+Titandrake - draws Estate
+Toblakai - plays Doctor
+Toblakai - names Copper
+Toblakai - reveals: Estate, Estate, Silver
+Toblakai - places Silver on top of deck
+Toblakai - places Estate on top of deck
+Toblakai - places Estate on top of deck
+Toblakai - plays 3 Copper, 2 Silver, 1 Gold
+Toblakai - buys Duchy
+Toblakai - gains Duchy
+Toblakai - gains Duchess
+Toblakai - draws Estate, Estate, Silver, Copper, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Governor
+Titandrake - chooses to trash a card
+Titandrake - trashes Gold
+Titandrake - gains Province
+Toblakai - trashes Copper
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Cellar, Silver, Cellar, Bazaar, Governor
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Governor, 3 Cellar, 1 Bazaar, 1 Doctor, 1 Salvager, 5 Silver, 3 Copper, 2 Gold, 6 Province, 2 Estate
+Titandrake - total victory points: 38
+Titandrake - turns: 17
+ 
+Toblakai - cards: 5 Governor, 1 Bazaar, 1 Duchess, 1 Doctor, 1 Smithy, 1 Cellar, 1 Salvager, 8 Silver, 5 Gold, 5 Copper, 2 Estate, 2 Province, 1 Duchy
+Toblakai - total victory points: 17
+Toblakai - turns: 16
+ 
+1st place: Titandrake
+2nd place: Toblakai
+ 

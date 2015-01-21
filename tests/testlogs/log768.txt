@@ -1,0 +1,348 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Duchess, Vagrant, Alchemist, Bishop, Island, Remake, Thief, Treasury, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+csu - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+csu - shuffles deck
+Titandrake - shuffles deck
+csu - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- csu: turn 1 ----------
+csu - plays 3 Copper
+csu - buys Silver
+csu - gains Silver
+csu - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Chapel, Copper, Estate, Copper
+ 
+---------- csu: turn 2 ----------
+csu - plays 4 Copper
+csu - buys Chapel
+csu - gains Chapel
+csu - shuffles deck
+csu - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- csu: turn 3 ----------
+csu - plays 4 Copper, 1 Silver
+csu - buys Gold
+csu - gains Gold
+csu - draws Estate, Copper, Chapel, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Bishop
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper
+ 
+---------- csu: turn 4 ----------
+csu - plays Chapel
+csu - trashes Estate, Copper, Estate, Estate
+csu - draws Copper, Copper
+csu - shuffles deck
+csu - draws Copper, Gold, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+csu - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Chapel, Copper
+Titandrake - shuffles deck
+Titandrake - draws Bishop
+ 
+---------- csu: turn 5 ----------
+csu - plays 2 Copper, 1 Gold, 1 Silver
+csu - buys Gold
+csu - gains Gold
+csu - draws Copper, Chapel, Copper, Copper
+csu - shuffles deck
+csu - draws Gold
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Chapel
+ 
+---------- csu: turn 6 ----------
+csu - plays Chapel
+csu - trashes Copper, Copper, Copper
+csu - draws Copper, Silver, Gold, Copper
+csu - shuffles deck
+csu - draws Gold
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Bishop, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Copper
+ 
+---------- csu: turn 7 ----------
+csu - plays 2 Gold, 1 Silver
+csu - buys Grand Market
+csu - gains Grand Market
+csu - draws Chapel
+csu - shuffles deck
+csu - draws Copper, Copper, Gold, Grand Market
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Chapel
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Silver, Bishop
+ 
+---------- csu: turn 8 ----------
+csu - plays Grand Market
+csu - draws Silver
+csu - plays Chapel
+csu - trashes Copper, Copper
+csu - plays 1 Gold, 1 Silver
+csu - buys Grand Market
+csu - gains Grand Market
+csu - draws Gold
+csu - shuffles deck
+csu - draws Gold, Silver, Grand Market, Grand Market
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Chapel
+Titandrake - receives 1 victory point chips
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Grand Market, Bishop
+ 
+---------- csu: turn 9 ----------
+csu - plays Grand Market
+csu - draws Chapel
+csu - plays Grand Market
+csu - plays 2 Gold, 1 Silver
+csu - buys Grand Market
+csu - gains Grand Market
+csu - buys Grand Market
+csu - gains Grand Market
+csu - shuffles deck
+csu - draws Grand Market, Grand Market, Chapel, Grand Market, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - plays Bishop
+Titandrake - trashes Silver
+Titandrake - receives 1 victory point chips
+csu - trashes Chapel
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Grand Market, Silver, Silver, Bishop
+ 
+---------- csu: turn 10 ----------
+csu - plays Grand Market
+csu - draws Silver
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - draws Gold
+csu - plays Grand Market
+csu - plays 2 Gold, 1 Silver
+csu - buys Grand Market
+csu - gains Grand Market
+csu - buys Grand Market
+csu - gains Grand Market
+csu - buys Silver
+csu - gains Silver
+csu - shuffles deck
+csu - draws Silver, Grand Market, Grand Market, Gold, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Province
+Titandrake - plays Grand Market
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver, Bishop, Silver, Grand Market
+ 
+---------- csu: turn 11 ----------
+csu - plays Grand Market
+csu - draws Gold
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - plays 2 Silver, 2 Gold
+csu - buys Grand Market
+csu - gains Grand Market
+csu - buys Grand Market
+csu - gains Grand Market
+csu - buys Province
+csu - gains Province
+csu - shuffles deck
+csu - draws Grand Market, Province, Grand Market, Silver, Grand Market
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+csu - trashes Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Province, Bishop, Grand Market
+ 
+---------- csu: turn 12 ----------
+csu - plays Grand Market
+csu - draws Gold
+csu - plays Grand Market
+csu - draws Gold
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - draws Silver
+csu - plays 2 Gold, 1 Silver
+csu - buys Province
+csu - gains Province
+csu - buys Province
+csu - gains Province
+csu - draws Grand Market, Grand Market, Grand Market
+csu - shuffles deck
+csu - draws Gold, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - plays Bishop
+Titandrake - trashes Silver
+Titandrake - receives 1 victory point chips
+Titandrake - plays 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Silver, Province, Grand Market, Duchy
+ 
+---------- csu: turn 13 ----------
+csu - plays Grand Market
+csu - draws Silver
+csu - plays Grand Market
+csu - draws Province
+csu - plays Grand Market
+csu - draws Province
+csu - plays 2 Gold, 1 Silver
+csu - buys Duchy
+csu - gains Duchy
+csu - buys Duchy
+csu - gains Duchy
+csu - buys Island
+csu - gains Island
+csu - draws Grand Market, Grand Market, Province, Grand Market, Grand Market
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Bishop
+Titandrake - plays Grand Market
+Titandrake - plays Bishop
+Titandrake - trashes Duchy
+Titandrake - receives 2 victory point chips
+Titandrake - plays 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Province, Grand Market, Gold, Grand Market, Silver
+ 
+---------- csu: turn 14 ----------
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - shuffles deck
+csu - draws Duchy
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - draws Island
+csu - plays Grand Market
+csu - draws Grand Market
+csu - plays Grand Market
+csu - draws Gold
+csu - plays Grand Market
+csu - draws Duchy
+csu - plays Island
+csu - sets aside Province
+csu - plays Gold
+csu - buys Province
+csu - gains Province
+csu - buys Province
+csu - gains Province
+csu - buys Estate
+csu - gains Estate
+csu - draws Silver, Province, Province, Gold
+csu - shuffles deck
+csu - draws Estate
+ 
+------------ Game Over ------------
+csu - cards: 8 Grand Market, 1 Island, 2 Gold, 1 Silver, 5 Province, 2 Duchy, 1 Estate
+csu - victory point chips: 0
+csu - total victory points: 39
+csu - turns: 14
+ 
+Titandrake - cards: 2 Grand Market, 1 Bishop, 1 Gold, 1 Silver, 1 Province
+Titandrake - victory point chips: 22
+Titandrake - total victory points: 28
+Titandrake - turns: 14
+ 
+1st place: csu
+2nd place: Titandrake
+ 

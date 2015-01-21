@@ -1,0 +1,668 @@
+------------ Game Setup ------------
+Supply cards: Great Hall, Shanty Town, Bureaucrat, Feast, Plaza, City, Contraband, Minion, Harem, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+scs - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+scs - shuffles deck
+Titandrake - shuffles deck
+scs - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- scs: turn 1 ----------
+scs - plays 4 Copper
+scs - buys Feast
+scs - gains Feast
+scs - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Feast
+Titandrake - gains Feast
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Silver
+ 
+---------- scs: turn 2 ----------
+scs - plays 3 Copper
+scs - buys Silver
+scs - gains Silver
+scs - shuffles deck
+scs - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- scs: turn 3 ----------
+scs - plays 4 Copper
+scs - buys Plaza
+scs - gains Plaza
+scs - draws Silver, Copper, Copper, Feast, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Feast, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- scs: turn 4 ----------
+scs - plays Feast
+scs - trashes Feast
+scs - gains Minion
+scs - plays 3 Copper, 1 Silver
+scs - buys Minion
+scs - gains Minion
+scs - draws Estate, Estate
+scs - shuffles deck
+scs - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Feast
+Titandrake - trashes Feast
+Titandrake - gains Minion
+Titandrake - plays 4 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Estate, Plaza, Plaza, Copper
+ 
+---------- scs: turn 5 ----------
+scs - plays 3 Copper
+scs - buys Shanty Town
+scs - gains Shanty Town
+scs - draws Copper, Minion, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - uses 2 coin tokens
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Plaza
+ 
+---------- scs: turn 6 ----------
+scs - plays Minion
+scs - takes 2 coins
+scs - plays 3 Copper, 1 Silver
+scs - buys Expand
+scs - gains Expand
+scs - draws Estate, Copper, Minion, Plaza
+scs - shuffles deck
+scs - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Silver
+Titandrake - draws Copper, Copper, Copper, Minion, Copper
+ 
+---------- scs: turn 7 ----------
+scs - plays Plaza
+scs - draws Copper
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Minion
+scs - discards: Estate, Copper, Copper
+scs - draws Estate, Estate, Copper, Shanty Town
+Titandrake - discards: Copper, Copper, Copper, Minion, Copper
+Titandrake - draws Copper, Minion, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+scs - plays Shanty Town
+scs - reveals Estate, Estate, Copper
+scs - draws Silver, Copper
+scs - plays 2 Copper, 1 Silver
+scs - uses 1 coin token
+scs - buys Minion
+scs - gains Minion
+scs - draws Expand, Copper, Minion, Copper
+scs - shuffles deck
+scs - draws Plaza
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Minion
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Estate, Estate
+scs - discards: Expand, Copper, Minion, Copper, Plaza
+scs - draws Minion, Shanty Town, Copper, Copper
+Titandrake - draws Plaza, Copper, Copper, Silver, Plaza
+ 
+---------- scs: turn 8 ----------
+scs - plays Minion
+scs - discards: Shanty Town, Copper, Copper
+scs - draws Silver, Estate, Copper, Estate
+Titandrake - discards: Plaza, Copper, Copper, Silver, Plaza
+Titandrake - draws Minion, Copper, Plaza
+Titandrake - shuffles deck
+Titandrake - draws Copper
+scs - plays 1 Silver, 1 Copper
+scs - buys Shanty Town
+scs - gains Shanty Town
+scs - draws Copper, Minion, Copper, Estate
+scs - shuffles deck
+scs - draws Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Minion
+Titandrake - discards: Copper, Copper
+Titandrake - draws Plaza, Estate, Minion, Copper
+scs - discards: Copper, Minion, Copper, Estate, Estate
+scs - draws Estate, Shanty Town, Copper, Minion
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Minion
+Titandrake - discards Estate
+Titandrake - draws Estate, Copper, Estate, Copper
+Titandrake - plays 2 Copper
+Titandrake - uses 3 coin tokens
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Minion, Plaza, Copper, Estate
+ 
+---------- scs: turn 9 ----------
+scs - plays Shanty Town
+scs - reveals Estate, Copper, Minion
+scs - plays Minion
+scs - discards: Estate, Copper
+scs - draws Copper, Plaza, Silver, Shanty Town
+Titandrake - discards: Silver, Minion, Plaza, Copper, Estate
+Titandrake - draws Plaza, Estate, Copper, Copper
+scs - plays Plaza
+scs - draws Copper
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Shanty Town
+scs - reveals Silver, Copper
+scs - draws Copper, Copper
+scs - plays 3 Copper, 1 Silver
+scs - buys Minion
+scs - gains Minion
+scs - draws Expand, Minion
+scs - shuffles deck
+scs - draws Copper, Shanty Town, Shanty Town
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Plaza
+Titandrake - draws Estate
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - draws Copper, Minion, Copper, Copper, Minion
+ 
+---------- scs: turn 10 ----------
+scs - plays Shanty Town
+scs - reveals Expand, Minion, Copper, Shanty Town
+scs - plays Expand
+scs - trashes Shanty Town
+scs - gains Minion
+scs - plays Minion
+scs - discards Copper
+scs - draws Estate, Copper, Copper, Copper
+Titandrake - discards: Copper, Minion, Copper, Copper, Minion
+Titandrake - draws Plaza, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+scs - plays 3 Copper
+scs - uses 1 coin token
+scs - buys Plaza
+scs - gains Plaza
+scs - draws Minion, Copper, Copper, Plaza, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Estate
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Silver
+Titandrake - uses 3 coin tokens
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper, Plaza, Minion, Copper, Copper
+ 
+---------- scs: turn 11 ----------
+scs - plays Plaza
+scs - draws Minion
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Minion
+scs - takes 2 coins
+scs - plays Minion
+scs - discards: Copper, Silver
+scs - draws Minion, Estate, Copper, Estate
+Titandrake - discards: Copper, Plaza, Minion, Copper, Copper
+Titandrake - draws Copper, Estate, Estate, Minion
+scs - plays Minion
+scs - discards: Estate, Copper, Estate
+scs - shuffles deck
+scs - draws Copper, Copper, Shanty Town, Copper
+scs - plays Shanty Town
+scs - reveals Copper, Copper, Copper
+scs - draws Estate, Estate
+scs - plays 3 Copper
+scs - buys City
+scs - gains City
+scs - draws Estate, Plaza, Minion, Copper, Minion
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Minion
+Titandrake - discards: Copper, Estate, Estate
+Titandrake - draws Copper, Minion
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+scs - discards: Estate, Plaza, Minion, Copper, Minion
+scs - draws Copper, Copper, Copper, Silver
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Plaza, Estate, Copper, Plaza, Plaza
+ 
+---------- scs: turn 12 ----------
+scs - plays 3 Copper, 1 Silver
+scs - buys City
+scs - gains City
+scs - draws Expand
+scs - shuffles deck
+scs - draws Estate, Minion, Minion, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Estate
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - uses 3 coin tokens
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - draws Minion, Minion, Copper, Copper, Estate
+ 
+---------- scs: turn 13 ----------
+scs - plays Minion
+scs - takes 2 coins
+scs - plays Minion
+scs - discards: Expand, Estate, Copper
+scs - draws Copper, Estate, Plaza, Copper
+Titandrake - discards: Minion, Minion, Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Minion, Minion
+scs - plays Plaza
+scs - draws Copper
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays 2 Copper
+scs - uses 1 coin token
+scs - buys City
+scs - gains City
+scs - draws Minion, City, Silver, Copper, Plaza
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Estate, Copper
+Titandrake - draws Plaza, Minion, Copper, Minion
+scs - discards: Minion, City, Silver, Copper, Plaza
+scs - draws Minion, City, Copper, Shanty Town
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards Copper
+Titandrake - draws Copper, Estate, Plaza, Gold
+Titandrake - plays Plaza
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Shanty Town, Copper, Copper, Copper, Plaza
+ 
+---------- scs: turn 14 ----------
+scs - plays City
+scs - draws Estate
+scs - plays Minion
+scs - discards: Copper, Shanty Town, Estate
+scs - draws Copper, Minion
+scs - shuffles deck
+scs - draws Expand, Minion
+Titandrake - discards: Shanty Town, Copper, Copper, Copper, Plaza
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Minion
+scs - plays Expand
+scs - trashes Copper
+scs - gains Great Hall
+scs - plays Minion
+scs - takes 2 coins
+scs - plays Minion
+scs - draws Copper, City, Copper, Copper
+scs - plays City
+scs - draws Silver
+scs - plays 3 Copper, 1 Silver
+scs - uses 1 coin token
+scs - buys Province
+scs - gains Province
+scs - draws Copper, Estate, Estate, Minion, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Minion
+Titandrake - discards: Estate, Copper, Copper
+Titandrake - draws Shanty Town, Minion, Silver, Minion
+scs - discards: Copper, Estate, Estate, Minion, Estate
+scs - draws Shanty Town, Plaza, Plaza, Copper
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Shanty Town
+Titandrake - reveals Silver
+Titandrake - draws Estate, Minion
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Plaza, Copper, Plaza
+ 
+---------- scs: turn 15 ----------
+scs - plays Plaza
+scs - draws Minion
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Plaza
+scs - draws Copper
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Minion
+scs - discards Shanty Town
+scs - draws City
+scs - shuffles deck
+scs - draws City, Minion, Estate
+Titandrake - discards: Copper, Copper, Plaza, Copper, Plaza
+Titandrake - draws Gold, Copper, Province, Copper
+scs - plays City
+scs - draws Copper
+scs - plays City
+scs - draws Great Hall
+scs - plays Great Hall
+scs - draws Copper
+scs - plays Minion
+scs - discards: Estate, Copper, Copper
+scs - draws Copper, Shanty Town, Silver, Minion
+scs - plays Minion
+scs - takes 2 coins
+scs - plays Shanty Town
+scs - reveals Copper, Silver
+scs - draws Copper, Estate
+scs - plays 2 Copper, 1 Silver
+scs - uses 2 coin tokens
+scs - buys Province
+scs - gains Province
+scs - draws Minion, Copper, Copper, Estate, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - uses 3 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Plaza, Estate
+Titandrake - shuffles deck
+Titandrake - draws Minion, Copper, Copper
+ 
+---------- scs: turn 16 ----------
+scs - plays Minion
+scs - discards: Copper, Copper, Estate, Province
+scs - draws Minion, Expand, City
+scs - shuffles deck
+scs - draws Copper
+Titandrake - discards: Plaza, Estate, Minion, Copper, Copper
+Titandrake - draws Province, Copper, Copper, Estate
+scs - plays City
+scs - draws Plaza
+scs - plays Plaza
+scs - draws Silver
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Expand
+scs - trashes Silver
+scs - gains Harem
+scs - plays Minion
+scs - draws City, Great Hall, Minion, Minion
+scs - plays Great Hall
+scs - draws Copper
+scs - plays City
+scs - draws Copper
+scs - plays Minion
+scs - takes 2 coins
+scs - plays Minion
+scs - discards: Copper, Copper
+scs - draws Copper, Plaza, Province, Estate
+scs - plays Plaza
+scs - draws Estate
+scs - discards Copper
+scs - receives 1 coin token
+scs - uses 1 coin token
+scs - buys Great Hall
+scs - gains Great Hall
+scs - draws Copper, Minion, Estate, Copper, City
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Copper, Province, Plaza, Minion
+ 
+---------- scs: turn 17 ----------
+scs - plays City
+scs - draws Shanty Town
+scs - plays Minion
+scs - discards: Copper, Estate, Copper, Shanty Town
+scs - draws Province
+scs - shuffles deck
+scs - draws Plaza, Estate, Harem
+Titandrake - discards: Estate, Copper, Province, Plaza, Minion
+Titandrake - draws Silver, Copper, Copper, Shanty Town
+scs - plays Plaza
+scs - draws Copper
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Harem
+scs - uses 1 coin token
+scs - buys Great Hall
+scs - gains Great Hall
+scs - draws Estate, Minion, Copper, Minion, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Silver, Copper, Copper
+Titandrake - draws Minion, Gold
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Minion, Plaza, Province
+Titandrake - shuffles deck
+Titandrake - draws Minion, Minion
+ 
+---------- scs: turn 18 ----------
+scs - plays Minion
+scs - takes 2 coins
+scs - plays Minion
+scs - discards: Estate, Copper, Copper
+scs - draws Great Hall, Copper, Province, City
+Titandrake - discards: Minion, Plaza, Province, Minion, Minion
+Titandrake - draws Silver, Estate, Copper, Copper
+scs - plays City
+scs - draws Plaza
+scs - plays Great Hall
+scs - draws Shanty Town
+scs - plays Plaza
+scs - draws Estate
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Shanty Town
+scs - reveals Province, Estate
+scs - draws City, Copper
+scs - plays City
+scs - draws Minion
+scs - plays Minion
+scs - discards: Copper, Province, Estate
+scs - draws Copper, Minion, Great Hall, Expand
+scs - plays Great Hall
+scs - shuffles deck
+scs - draws Great Hall
+scs - plays Great Hall
+scs - draws Province
+scs - plays Expand
+scs - trashes Copper
+scs - gains Great Hall
+scs - plays Minion
+scs - discards Province
+scs - draws Harem, Province, Minion, Plaza
+scs - plays Plaza
+scs - draws Copper
+scs - discards Copper
+scs - receives 1 coin token
+scs - plays Minion
+scs - takes 2 coins
+scs - plays Harem
+scs - uses 2 coin tokens
+scs - buys Province
+scs - gains Province
+scs - draws Estate, City, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Copper, Copper, Shanty Town, Estate, Minion
+ 
+---------- scs: turn 19 ----------
+scs - plays City
+scs - draws Copper
+scs - plays 2 Copper
+scs - uses 1 coin token
+scs - buys Great Hall
+scs - gains Great Hall
+scs - draws Copper, Copper
+scs - shuffles deck
+scs - draws Province, Copper, Minion
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Copper, Estate
+Titandrake - draws Copper, Province
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Plaza, Province, Estate, Plaza
+ 
+---------- scs: turn 20 ----------
+scs - plays Minion
+scs - discards: Copper, Copper, Province, Copper
+scs - draws Plaza, Province, Estate, Minion
+Titandrake - discards: Province, Plaza, Province, Estate, Plaza
+Titandrake - draws Gold, Copper, Copper, Estate
+scs - plays Plaza
+scs - draws Minion
+scs - plays Minion
+scs - takes 2 coins
+scs - plays Minion
+scs - discards: Province, Estate
+scs - draws City, Great Hall, Plaza, Minion
+scs - plays Great Hall
+scs - draws Great Hall
+scs - plays Great Hall
+scs - draws Harem
+scs - plays Plaza
+scs - draws Shanty Town
+scs - discards Harem
+scs - receives 1 coin token
+scs - plays City
+scs - draws Great Hall
+scs - plays Great Hall
+scs - draws Estate
+scs - plays Minion
+scs - discards: Shanty Town, Estate
+scs - draws Minion, Expand, City, Great Hall
+scs - plays Great Hall
+scs - draws City
+scs - plays City
+scs - draws Copper
+scs - plays Expand
+scs - trashes City
+scs - gains Province
+scs - plays Minion
+scs - takes 2 coins
+scs - plays Copper
+scs - buys Duchy
+scs - gains Duchy
+scs - draws Great Hall, Copper, Province, Estate
+scs - shuffles deck
+scs - draws Plaza
+ 
+------------ Game Over ------------
+scs - cards: 5 Great Hall, 5 Minion, 2 Plaza, 2 City, 1 Expand, 1 Shanty Town, 5 Copper, 1 Harem, 4 Province, 3 Estate, 1 Duchy
+scs - total victory points: 37
+scs - turns: 20
+ 
+Titandrake - cards: 4 Minion, 3 Plaza, 1 Great Hall, 1 Shanty Town, 7 Copper, 1 Gold, 1 Silver, 4 Estate, 4 Province, 1 Duchy
+Titandrake - total victory points: 32
+Titandrake - turns: 20
+ 
+1st place: scs
+2nd place: Titandrake
+ 

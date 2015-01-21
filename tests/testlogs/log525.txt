@@ -1,0 +1,865 @@
+------------ Game Setup ------------
+Supply cards: Warehouse, Horse Traders, Salvager, Spice Merchant, Throne Room, Junk Dealer, Saboteur, Torturer, Goons, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+moharimo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+moharimo - shuffles deck
+Titandrake - shuffles deck
+moharimo - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- moharimo: turn 1 ----------
+moharimo - plays 3 Copper
+moharimo - buys Warehouse
+moharimo - gains Warehouse
+moharimo - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- moharimo: turn 2 ----------
+moharimo - plays 4 Copper
+moharimo - buys Salvager
+moharimo - gains Salvager
+moharimo - shuffles deck
+moharimo - draws Copper, Copper, Copper, Salvager, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- moharimo: turn 3 ----------
+moharimo - plays Salvager
+moharimo - trashes Estate
+moharimo - plays 3 Copper
+moharimo - buys Torturer
+moharimo - gains Torturer
+moharimo - draws Estate, Copper, Copper, Copper, Warehouse
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Salvager, Copper, Copper, Copper, Estate
+ 
+---------- moharimo: turn 4 ----------
+moharimo - plays Warehouse
+moharimo - draws Estate, Copper
+moharimo - shuffles deck
+moharimo - draws Copper
+moharimo - discards Estate
+moharimo - discards Estate
+moharimo - discards Copper
+moharimo - plays 4 Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - draws Copper, Torturer, Salvager, Copper
+moharimo - shuffles deck
+moharimo - draws Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Warehouse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate
+ 
+---------- moharimo: turn 5 ----------
+moharimo - plays Torturer
+moharimo - draws Copper, Silver, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+moharimo - plays 4 Copper, 1 Silver
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Copper, Estate, Copper, Warehouse, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Silver, Copper, Torturer, Salvager, Copper
+ 
+---------- moharimo: turn 6 ----------
+moharimo - plays Warehouse
+moharimo - shuffles deck
+moharimo - draws Estate, Copper, Torturer
+moharimo - discards Estate
+moharimo - discards Estate
+moharimo - discards Copper
+moharimo - plays Torturer
+moharimo - draws Silver, Gold, Salvager
+Titandrake - discards Salvager
+Titandrake - discards Copper
+moharimo - plays 3 Copper, 1 Silver, 1 Gold
+moharimo - buys King's Court
+moharimo - gains King's Court
+moharimo - draws Copper, Copper, Copper
+moharimo - shuffles deck
+moharimo - draws Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Torturer
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Salvager
+moharimo - discards Copper
+moharimo - discards Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Warehouse, Estate, Copper, Copper, Copper
+ 
+---------- moharimo: turn 7 ----------
+moharimo - plays 3 Copper
+moharimo - buys Warehouse
+moharimo - gains Warehouse
+moharimo - draws Estate, Warehouse, Gold, Copper, King's Court
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Salvager, Torturer, Copper, Estate
+ 
+---------- moharimo: turn 8 ----------
+moharimo - plays Warehouse
+moharimo - draws Torturer, Salvager, Copper
+moharimo - discards Estate
+moharimo - discards Salvager
+moharimo - discards Copper
+moharimo - plays King's Court
+moharimo - plays Torturer
+moharimo - draws Silver, Copper
+moharimo - shuffles deck
+moharimo - draws Copper
+Titandrake - gains Curse
+moharimo - plays Torturer
+moharimo - draws Copper, Copper, Salvager
+Titandrake - discards Curse
+Titandrake - discards Estate
+moharimo - plays Torturer
+moharimo - draws Estate, Estate, Warehouse
+Titandrake - discards Salvager
+Titandrake - discards Copper
+moharimo - plays 5 Copper, 1 Gold, 1 Silver
+moharimo - buys Torturer
+moharimo - gains Torturer
+moharimo - draws Copper, Copper
+moharimo - shuffles deck
+moharimo - draws Warehouse, Salvager, Torturer
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Torturer
+Titandrake - draws Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse
+moharimo - discards Salvager
+moharimo - discards Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- moharimo: turn 9 ----------
+moharimo - plays Warehouse
+moharimo - draws Copper, Estate, Silver
+moharimo - discards Copper
+moharimo - discards Estate
+moharimo - discards Copper
+moharimo - plays Torturer
+moharimo - draws Copper, Gold, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+moharimo - plays 2 Copper, 1 Silver, 1 Gold
+moharimo - buys King's Court
+moharimo - gains King's Court
+moharimo - draws Copper, Torturer, King's Court, Warehouse, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Copper, Silver, Warehouse, Copper, Estate
+ 
+---------- moharimo: turn 10 ----------
+moharimo - plays Warehouse
+moharimo - draws Estate
+moharimo - shuffles deck
+moharimo - draws Copper, Copper
+moharimo - discards Estate
+moharimo - discards Copper
+moharimo - discards Copper
+moharimo - plays King's Court
+moharimo - plays Torturer
+moharimo - draws Estate, Warehouse, Copper
+Titandrake - gains Curse
+moharimo - plays Torturer
+moharimo - draws Copper, Copper, Silver
+Titandrake - gains Curse
+moharimo - plays Torturer
+moharimo - draws Gold, King's Court, Salvager
+Titandrake - discards Estate
+Titandrake - discards Curse
+moharimo - plays 5 Copper, 1 Silver, 1 Gold
+moharimo - buys King's Court
+moharimo - gains King's Court
+moharimo - draws Torturer
+moharimo - shuffles deck
+moharimo - draws Warehouse, Silver, Estate, Warehouse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Salvager
+Titandrake - shuffles deck
+Titandrake - draws Throne Room, Copper
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Salvager
+Titandrake - trashes Throne Room
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Silver, Estate, Warehouse, Silver, Copper
+ 
+---------- moharimo: turn 11 ----------
+moharimo - plays Warehouse
+moharimo - draws Torturer, Copper, King's Court
+moharimo - discards Estate
+moharimo - discards Copper
+moharimo - discards Silver
+moharimo - plays Warehouse
+moharimo - draws Gold, Copper, Salvager
+moharimo - discards Torturer
+moharimo - discards Salvager
+moharimo - discards Copper
+moharimo - plays King's Court
+moharimo - plays Torturer
+moharimo - draws King's Court, King's Court, Copper
+Titandrake - gains Curse
+moharimo - plays Torturer
+moharimo - draws Copper, Estate, Copper
+Titandrake - gains Curse
+moharimo - plays Torturer
+moharimo - draws Copper, Copper
+moharimo - shuffles deck
+moharimo - draws Silver
+Titandrake - discards Curse
+Titandrake - discards Curse
+moharimo - plays 5 Copper, 1 Gold, 1 Silver
+moharimo - buys King's Court
+moharimo - gains King's Court
+moharimo - draws Copper, Torturer, Estate, Salvager, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Estate, Torturer
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Torturer
+Titandrake - draws Curse, Copper, Copper
+moharimo - discards Estate
+moharimo - discards Salvager
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Warehouse, Curse
+ 
+---------- moharimo: turn 12 ----------
+moharimo - plays Torturer
+moharimo - shuffles deck
+moharimo - draws Salvager, Copper, Torturer
+Titandrake - gains Curse
+moharimo - plays 3 Copper
+moharimo - buys Warehouse
+moharimo - gains Warehouse
+moharimo - draws Gold, King's Court, King's Court, Copper, King's Court
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Silver, Curse
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws King's Court, Curse, Silver, Copper, Goons
+ 
+---------- moharimo: turn 13 ----------
+moharimo - plays 1 Gold, 1 Copper
+moharimo - buys Horse Traders
+moharimo - gains Horse Traders
+moharimo - draws Silver, Estate, Estate, Warehouse, King's Court
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays King's Court
+Titandrake - plays Goons
+moharimo - discards Estate
+moharimo - discards Estate
+Titandrake - plays Goons
+Titandrake - plays Goons
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys King's Court
+Titandrake - receives 1 victory point chips
+Titandrake - gains King's Court
+Titandrake - draws Estate, Copper, Salvager, Copper, Copper
+ 
+---------- moharimo: turn 14 ----------
+moharimo - plays Warehouse
+moharimo - draws Copper, Copper, Warehouse
+moharimo - discards Silver
+moharimo - discards Copper
+moharimo - discards Copper
+moharimo - plays Warehouse
+moharimo - draws Copper
+moharimo - shuffles deck
+moharimo - draws Copper, King's Court
+moharimo - discards King's Court
+moharimo - discards King's Court
+moharimo - discards Copper
+moharimo - draws King's Court, Torturer, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Warehouse, Torturer, Silver, Curse, Copper
+ 
+---------- moharimo: turn 15 ----------
+moharimo - plays King's Court
+moharimo - plays Torturer
+moharimo - draws Estate, King's Court, Copper
+Titandrake - gains Curse
+moharimo - plays Torturer
+moharimo - draws Gold, Silver, Torturer
+Titandrake - gains Curse
+moharimo - plays Torturer
+moharimo - draws Copper, Horse Traders, Copper
+Titandrake - discards Curse
+Titandrake - discards Curse
+moharimo - plays 5 Copper, 1 Gold, 1 Silver
+moharimo - buys Goons
+moharimo - gains Goons
+moharimo - draws Warehouse, Salvager
+moharimo - shuffles deck
+moharimo - draws Copper, Torturer, Horse Traders
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Warehouse
+Titandrake - shuffles deck
+Titandrake - draws King's Court, Curse, Curse
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - plays King's Court
+Titandrake - plays Torturer
+moharimo - reveals reaction Horse Traders
+Titandrake - draws Curse, King's Court, Curse
+moharimo - gains Curse
+Titandrake - plays Torturer
+Titandrake - draws Copper, Goons, Copper
+moharimo - gains Curse
+Titandrake - plays Torturer
+Titandrake - draws Copper, Estate, Copper
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Silver, Copper, Copper, Junk Dealer, Curse
+ 
+---------- moharimo: turn 16 ----------
+moharimo - duration Horse Traders
+moharimo - draws Goons
+moharimo - plays Warehouse
+moharimo - draws Copper, Copper, Estate
+moharimo - discards Curse
+moharimo - discards Curse
+moharimo - discards Estate
+moharimo - plays Salvager
+moharimo - trashes Torturer
+moharimo - plays 3 Copper
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Copper, Silver, King's Court, Warehouse, King's Court
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Curse
+Titandrake - trashes Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Salvager, Warehouse, Curse, Salvager, Silver
+ 
+---------- moharimo: turn 17 ----------
+moharimo - plays Warehouse
+moharimo - draws Estate, King's Court, Gold
+moharimo - discards Estate
+moharimo - discards King's Court
+moharimo - discards King's Court
+moharimo - plays 1 Copper, 1 Silver, 1 Gold
+moharimo - buys Junk Dealer
+moharimo - gains Junk Dealer
+moharimo - draws Copper, King's Court, Copper, Copper, Warehouse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Curse, Curse, Silver
+Titandrake - discards Salvager
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - plays Salvager
+Titandrake - trashes Curse
+Titandrake - plays 2 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Torturer, King's Court, Copper, Copper, Estate
+ 
+---------- moharimo: turn 18 ----------
+moharimo - plays Warehouse
+moharimo - draws Torturer
+moharimo - shuffles deck
+moharimo - draws Goons, Copper
+moharimo - discards Copper
+moharimo - discards Copper
+moharimo - discards Torturer
+moharimo - plays King's Court
+moharimo - plays Goons
+Titandrake - discards Estate
+Titandrake - discards Copper
+moharimo - plays Goons
+moharimo - plays Goons
+moharimo - plays 2 Copper
+moharimo - buys Province
+moharimo - receives 1 victory point chips
+moharimo - gains Province
+moharimo - draws Province, Silver, Horse Traders, Gold, King's Court
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays King's Court
+Titandrake - plays Torturer
+moharimo - reveals reaction Horse Traders
+Titandrake - draws King's Court, Goons, Copper
+Titandrake - plays Torturer
+Titandrake - draws Copper, Junk Dealer, Silver
+Titandrake - plays Torturer
+Titandrake - draws Curse, Curse, King's Court
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Junk Dealer, Copper, Curse, Copper, Copper
+ 
+---------- moharimo: turn 19 ----------
+moharimo - duration Horse Traders
+moharimo - draws Salvager
+moharimo - plays King's Court
+moharimo - plays Horse Traders
+moharimo - discards Salvager
+moharimo - discards Gold
+moharimo - plays Horse Traders
+moharimo - discards Province
+moharimo - discards Silver
+moharimo - plays Horse Traders
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Curse, Copper, Warehouse, King's Court, Junk Dealer
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Warehouse
+Titandrake - trashes Curse
+Titandrake - plays Warehouse
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Warehouse, Salvager
+Titandrake - discards Warehouse
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Salvager
+Titandrake - trashes Curse
+Titandrake - draws King's Court, Curse, Curse, Silver, Copper
+ 
+---------- moharimo: turn 20 ----------
+moharimo - plays King's Court
+moharimo - plays Junk Dealer
+moharimo - draws Warehouse
+moharimo - trashes Curse
+moharimo - plays Junk Dealer
+moharimo - draws Copper
+moharimo - trashes Copper
+moharimo - plays Junk Dealer
+moharimo - draws King's Court
+moharimo - trashes Copper
+moharimo - plays Warehouse
+moharimo - draws Curse, Copper, Estate
+moharimo - discards Curse
+moharimo - discards Copper
+moharimo - discards Estate
+moharimo - plays Warehouse
+moharimo - draws Estate
+moharimo - shuffles deck
+moharimo - draws Copper, Province
+moharimo - discards King's Court
+moharimo - discards Estate
+moharimo - discards Province
+moharimo - plays Copper
+moharimo - buys Throne Room
+moharimo - gains Throne Room
+moharimo - draws King's Court, Curse, Province, Torturer, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Curse, Goons, Curse, Torturer
+ 
+---------- moharimo: turn 21 ----------
+moharimo - plays King's Court
+moharimo - plays Torturer
+moharimo - draws Salvager, Copper, Silver
+moharimo - plays Torturer
+moharimo - draws Estate, Goons, Copper
+moharimo - plays Torturer
+moharimo - draws Copper, King's Court, Horse Traders
+moharimo - plays 4 Copper, 1 Silver
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Province, Gold, Warehouse
+moharimo - shuffles deck
+moharimo - draws King's Court, King's Court
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Goons
+moharimo - discards King's Court
+moharimo - discards Province
+Titandrake - draws Copper, Estate, King's Court, Silver, Silver
+ 
+---------- moharimo: turn 22 ----------
+moharimo - plays Warehouse
+moharimo - draws Salvager, Copper, Curse
+moharimo - discards Gold
+moharimo - discards King's Court
+moharimo - discards Copper
+moharimo - plays Salvager
+moharimo - trashes Curse
+moharimo - draws Junk Dealer, Estate, Goons, Throne Room, Province
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Salvager, King's Court, Torturer, Junk Dealer, Throne Room
+ 
+---------- moharimo: turn 23 ----------
+moharimo - plays Throne Room
+moharimo - plays Junk Dealer
+moharimo - draws Horse Traders
+moharimo - trashes Estate
+moharimo - plays Junk Dealer
+moharimo - draws King's Court
+moharimo - trashes Horse Traders
+moharimo - plays King's Court
+moharimo - plays Goons
+Titandrake - discards Salvager
+Titandrake - discards Junk Dealer
+moharimo - plays Goons
+moharimo - plays Goons
+moharimo - buys Province
+moharimo - receives 1 victory point chips
+moharimo - gains Province
+moharimo - draws Estate, Warehouse, Province, Copper, Warehouse
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Throne Room
+Titandrake - plays King's Court
+Titandrake - plays Torturer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Junk Dealer
+Titandrake - plays Torturer
+Titandrake - draws Copper, Estate, Curse
+Titandrake - plays Torturer
+Titandrake - draws Warehouse, Copper, Salvager
+Titandrake - plays King's Court
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Curse
+Titandrake - plays Junk Dealer
+Titandrake - draws Salvager
+Titandrake - trashes Estate
+Titandrake - plays Junk Dealer
+Titandrake - draws Warehouse
+Titandrake - trashes Copper
+Titandrake - plays Warehouse
+Titandrake - draws Curse, Silver, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Salvager
+Titandrake - trashes Curse
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Curse, Silver
+Titandrake - discards Copper
+Titandrake - discards Salvager
+Titandrake - discards Curse
+Titandrake - plays 4 Silver
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws King's Court, Torturer, Copper, Goons, Curse
+ 
+---------- moharimo: turn 24 ----------
+moharimo - plays Warehouse
+moharimo - draws Copper, Gold, Copper
+moharimo - discards Estate
+moharimo - discards Province
+moharimo - discards Copper
+moharimo - plays Warehouse
+moharimo - draws Torturer, Silver, Copper
+moharimo - discards Copper
+moharimo - discards Copper
+moharimo - discards Copper
+moharimo - plays Torturer
+moharimo - draws King's Court
+moharimo - shuffles deck
+moharimo - draws Copper, Copper
+moharimo - plays 2 Copper, 1 Gold, 1 Silver
+moharimo - buys King's Court
+moharimo - gains King's Court
+moharimo - draws Goons, Copper, Province, King's Court, Gold
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays King's Court
+Titandrake - plays Goons
+moharimo - discards Province
+moharimo - discards Copper
+Titandrake - plays Goons
+Titandrake - plays Goons
+Titandrake - plays Copper
+Titandrake - buys King's Court
+Titandrake - receives 1 victory point chips
+Titandrake - gains King's Court
+Titandrake - draws Junk Dealer, Junk Dealer, King's Court, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- moharimo: turn 25 ----------
+moharimo - plays King's Court
+moharimo - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Junk Dealer
+moharimo - plays Goons
+moharimo - plays Goons
+moharimo - plays Gold
+moharimo - buys Province
+moharimo - receives 1 victory point chips
+moharimo - gains Province
+moharimo - draws Salvager, Province, Warehouse, Estate, Copper
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays King's Court
+Titandrake - plays Junk Dealer
+Titandrake - draws Torturer
+Titandrake - trashes Curse
+Titandrake - plays Junk Dealer
+Titandrake - draws King's Court
+Titandrake - trashes Torturer
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Silver
+Titandrake - draws King's Court, Silver, Junk Dealer, Copper, Goons
+ 
+---------- moharimo: turn 26 ----------
+moharimo - plays Warehouse
+moharimo - draws King's Court, Province, Throne Room
+moharimo - discards Throne Room
+moharimo - discards Estate
+moharimo - discards Province
+moharimo - plays Salvager
+moharimo - trashes King's Court
+moharimo - plays Copper
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Copper, King's Court, Junk Dealer, Province
+moharimo - shuffles deck
+moharimo - draws Province
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays King's Court
+Titandrake - plays Junk Dealer
+Titandrake - draws Torturer
+Titandrake - trashes Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Warehouse
+Titandrake - trashes Warehouse
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Torturer
+Titandrake - draws Torturer, Curse, Throne Room
+Titandrake - plays Torturer
+Titandrake - draws Salvager, Warehouse, Copper
+Titandrake - plays Throne Room
+Titandrake - plays Warehouse
+Titandrake - draws Salvager, Silver, King's Court
+Titandrake - discards Curse
+Titandrake - discards Salvager
+Titandrake - discards Copper
+Titandrake - plays Warehouse
+Titandrake - draws Goons, Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Salvager
+Titandrake - plays King's Court
+Titandrake - plays Goons
+moharimo - discards Province
+moharimo - discards Province
+Titandrake - plays Goons
+Titandrake - plays Goons
+Titandrake - plays Goons
+Titandrake - plays 2 Silver
+Titandrake - buys King's Court
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains King's Court
+Titandrake - buys Torturer
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Torturer
+Titandrake - buys Warehouse
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Warehouse
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, King's Court, Salvager, Torturer
+ 
+---------- moharimo: turn 27 ----------
+moharimo - plays Junk Dealer
+moharimo - draws Gold
+moharimo - trashes Copper
+moharimo - plays Gold
+moharimo - buys Horse Traders
+moharimo - gains Horse Traders
+moharimo - draws Copper, Throne Room, King's Court, Copper, King's Court
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays King's Court
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays Salvager
+Titandrake - trashes Torturer
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Copper, Silver, Torturer, Curse, Silver
+ 
+---------- moharimo: turn 28 ----------
+moharimo - draws Warehouse, Province, Warehouse, King's Court, Silver
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Torturer
+Titandrake - draws Junk Dealer, Throne Room, Junk Dealer
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Junk Dealer, Warehouse, Copper, Goons, Goons
+ 
+---------- moharimo: turn 29 ----------
+moharimo - plays Warehouse
+moharimo - draws Estate, Province, Copper
+moharimo - discards Estate
+moharimo - discards Province
+moharimo - discards Province
+moharimo - plays Warehouse
+moharimo - draws Goons, Province, Province
+moharimo - discards Copper
+moharimo - discards Province
+moharimo - discards Province
+moharimo - plays King's Court
+moharimo - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Goons
+moharimo - plays Goons
+moharimo - plays Goons
+moharimo - plays Silver
+moharimo - buys Province
+moharimo - receives 1 victory point chips
+moharimo - gains Province
+moharimo - buys Copper
+moharimo - receives 1 victory point chips
+moharimo - gains Copper
+moharimo - buys Copper
+moharimo - receives 1 victory point chips
+moharimo - gains Copper
+moharimo - buys Copper
+moharimo - receives 1 victory point chips
+moharimo - gains Copper
+moharimo - draws Warehouse, Gold, Salvager, Torturer, Copper
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays Warehouse
+Titandrake - draws King's Court, King's Court, King's Court
+Titandrake - discards King's Court
+Titandrake - discards King's Court
+Titandrake - discards Junk Dealer
+Titandrake - plays King's Court
+Titandrake - plays Goons
+moharimo - discards Copper
+moharimo - discards Warehouse
+Titandrake - plays Goons
+Titandrake - plays Goons
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - draws Warehouse, Salvager, Torturer, Copper, King's Court
+ 
+---------- moharimo: turn 30 ----------
+moharimo - plays Salvager
+moharimo - trashes Torturer
+moharimo - plays Gold
+moharimo - buys Province
+moharimo - gains Province
+moharimo - shuffles deck
+moharimo - draws Gold, Warehouse, King's Court, King's Court, Estate
+ 
+------------ Game Over ------------
+moharimo - cards: 4 King's Court, 3 Warehouse, 1 Salvager, 1 Throne Room, 1 Junk Dealer, 1 Goons, 1 Horse Traders, 7 Copper, 2 Gold, 1 Silver, 8 Province, 1 Estate
+moharimo - victory point chips: 7
+moharimo - total victory points: 56
+moharimo - turns: 30
+ 
+Titandrake - cards: 5 King's Court, 4 Goons, 3 Junk Dealer, 2 Warehouse, 2 Salvager, 2 Torturer, 2 Throne Room, 3 Copper, 2 Silver, 1 Curse
+Titandrake - victory point chips: 9
+Titandrake - total victory points: 8
+Titandrake - turns: 29
+ 
+1st place: moharimo
+2nd place: Titandrake
+ 

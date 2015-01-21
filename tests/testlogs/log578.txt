@@ -1,0 +1,412 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Vagrant, Hermit, Scout, Throne Room, Trader, Laboratory, Margrave, Stables, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Toblakai - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Toblakai - shuffles deck
+Titandrake - shuffles deck
+Toblakai - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Toblakai: turn 1 ----------
+Toblakai - plays 3 Copper
+Toblakai - buys Hermit
+Toblakai - gains Hermit
+Toblakai - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Toblakai: turn 2 ----------
+Toblakai - plays 4 Copper
+Toblakai - buys Trader
+Toblakai - gains Trader
+Toblakai - shuffles deck
+Toblakai - draws Copper, Copper, Estate, Copper, Hermit
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Chapel, Copper
+ 
+---------- Toblakai: turn 3 ----------
+Toblakai - plays Hermit
+Toblakai - trashes Estate
+Toblakai - gains Silver
+Toblakai - trashes Hermit
+Toblakai - gains Madman
+Toblakai - draws Trader, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Trader, Estate, Copper
+ 
+---------- Toblakai: turn 4 ----------
+Toblakai - plays Trader
+Toblakai - trashes Estate
+Toblakai - gains Silver
+Toblakai - gains Silver
+Toblakai - plays 2 Copper
+Toblakai - buys Chapel
+Toblakai - gains Chapel
+Toblakai - draws Copper, Copper
+Toblakai - shuffles deck
+Toblakai - draws Chapel, Silver, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Trader
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Vagrant
+ 
+---------- Toblakai: turn 5 ----------
+Toblakai - plays Chapel
+Toblakai - trashes Copper, Estate
+Toblakai - plays 1 Copper, 1 Silver
+Toblakai - buys Silver
+Toblakai - gains Silver
+Toblakai - draws Copper, Copper, Silver, Madman, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Chapel
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Estate, Copper, Copper
+Titandrake - draws Silver, Silver, Trader, Estate
+Titandrake - shuffles deck
+Titandrake - draws Chapel
+ 
+---------- Toblakai: turn 6 ----------
+Toblakai - plays Madman
+Toblakai - draws Copper, Silver, Copper, Trader
+Toblakai - plays Trader
+Toblakai - trashes Copper
+Toblakai - plays 4 Copper, 2 Silver
+Toblakai - buys Gold
+Toblakai - gains Gold
+Toblakai - shuffles deck
+Toblakai - draws Chapel, Silver, Trader, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Trader
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Silver, Chapel, Silver, Silver
+ 
+---------- Toblakai: turn 7 ----------
+Toblakai - plays Trader
+Toblakai - trashes Chapel
+Toblakai - gains Silver
+Toblakai - gains Silver
+Toblakai - plays 2 Copper, 1 Silver
+Toblakai - buys Throne Room
+Toblakai - gains Throne Room
+Toblakai - draws Copper, Silver, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Trader
+Titandrake - places Trader on top of deck
+Titandrake - plays 4 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Trader, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Grand Market, Silver
+ 
+---------- Toblakai: turn 8 ----------
+Toblakai - plays 3 Copper, 2 Silver
+Toblakai - buys Gold
+Toblakai - gains Gold
+Toblakai - draws Gold, Silver
+Toblakai - shuffles deck
+Toblakai - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays 4 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Chapel, Vagrant, Silver
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Silver
+ 
+---------- Toblakai: turn 9 ----------
+Toblakai - plays Gold
+Toblakai - plays Silver
+Toblakai - plays Silver
+Toblakai - buys Grand Market
+Toblakai - gains Grand Market
+Toblakai - draws Silver, Copper, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Grand Market
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Trader
+Titandrake - plays Trader
+Titandrake - trashes Chapel
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Throne Room, Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Silver
+ 
+---------- Toblakai: turn 10 ----------
+Toblakai - plays Silver
+Toblakai - plays Silver
+Toblakai - plays Silver
+Toblakai - buys Grand Market
+Toblakai - gains Grand Market
+Toblakai - draws Silver, Copper, Trader, Gold, Throne Room
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Trader
+Titandrake - plays Grand Market
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Throne Room
+Titandrake - places Throne Room on top of deck
+Titandrake - plays 4 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Throne Room, Grand Market, Silver, Silver, Silver
+ 
+---------- Toblakai: turn 11 ----------
+Toblakai - plays Trader
+Toblakai - trashes Copper
+Toblakai - plays Gold
+Toblakai - plays Silver
+Toblakai - buys Margrave
+Toblakai - gains Margrave
+Toblakai - shuffles deck
+Toblakai - draws Copper, Copper, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Vagrant
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Vagrant
+Titandrake - draws Grand Market
+Titandrake - reveals: Throne Room
+Titandrake - places Throne Room on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Throne Room
+Titandrake - plays 4 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Grand Market, Silver, Vagrant, Silver, Trader
+ 
+---------- Toblakai: turn 12 ----------
+Toblakai - plays 3 Copper, 2 Silver
+Toblakai - buys Stables
+Toblakai - gains Stables
+Toblakai - draws Silver, Gold, Trader, Silver, Grand Market
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - reveals: Throne Room
+Titandrake - places Throne Room on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Throne Room
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Silver, Throne Room, Grand Market, Margrave, Grand Market
+ 
+---------- Toblakai: turn 13 ----------
+Toblakai - plays Grand Market
+Toblakai - draws Gold
+Toblakai - plays 2 Silver, 2 Gold
+Toblakai - buys Gold
+Toblakai - gains Gold
+Toblakai - buys Laboratory
+Toblakai - gains Laboratory
+Toblakai - draws Grand Market, Margrave, Silver, Throne Room, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Throne Room
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - draws Vagrant
+Titandrake - plays Margrave
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Grand Market
+Toblakai - draws Copper
+Toblakai - discards Silver
+Toblakai - discards Silver
+Toblakai - discards Copper
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Throne Room
+Titandrake - places Throne Room on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - draws Trader
+Titandrake - plays 6 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Vagrant, Silver
+Titandrake - shuffles deck
+Titandrake - draws Province, Grand Market, Grand Market
+ 
+---------- Toblakai: turn 14 ----------
+Toblakai - plays Throne Room
+Toblakai - plays Grand Market
+Toblakai - shuffles deck
+Toblakai - draws Gold
+Toblakai - plays Grand Market
+Toblakai - draws Grand Market
+Toblakai - plays Grand Market
+Toblakai - draws Copper
+Toblakai - plays Margrave
+Toblakai - draws Silver, Silver, Gold
+Titandrake - draws Grand Market
+Titandrake - discards Province
+Titandrake - discards Vagrant
+Titandrake - discards Silver
+Toblakai - plays 2 Gold, 2 Silver, 1 Copper
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - draws Gold, Stables, Trader, Laboratory, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Throne Room
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Throne Room
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - draws Province
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Grand Market, Throne Room, Silver, Trader, Margrave
+ 
+---------- Toblakai: turn 15 ----------
+Toblakai - plays Laboratory
+Toblakai - draws Silver, Copper
+Toblakai - plays Stables
+Toblakai - discards Copper
+Toblakai - draws Copper, Copper, Silver
+Toblakai - plays Trader
+Toblakai - trashes Copper
+Toblakai - plays 3 Silver, 1 Gold, 1 Copper
+Toblakai - buys Duchy
+Toblakai - gains Duchy
+Toblakai - draws Silver
+Toblakai - shuffles deck
+Toblakai - draws Margrave, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Province
+Titandrake - reveals: Province
+Titandrake - places Province in hand
+Titandrake - plays Margrave
+Titandrake - draws Silver, Silver, Grand Market
+Toblakai - draws Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Grand Market, 1 Trader, 1 Vagrant, 1 Throne Room, 7 Silver, 5 Province, 1 Duchy
+Titandrake - total victory points: 33
+Titandrake - turns: 14
+ 
+Toblakai - resigned
+Toblakai - cards: 2 Grand Market, 1 Margrave, 1 Stables, 1 Laboratory, 1 Trader, 1 Throne Room, 6 Silver, 3 Copper, 3 Gold, 2 Province, 1 Duchy
+Toblakai - total victory points: 15
+Toblakai - turns: 15
+ 
+1st place: Titandrake
+2nd place: Toblakai
+ 

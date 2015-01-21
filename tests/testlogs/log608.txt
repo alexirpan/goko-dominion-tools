@@ -1,0 +1,260 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Pearl Diver, Lookout, Smugglers, Steward, Trade Route, Watchtower, Pirate Ship, Treasure Map, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+chenda - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+chenda - shuffles deck
+Titandrake - shuffles deck
+chenda - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- chenda: turn 1 ----------
+chenda - plays 3 Copper
+chenda - buys Lookout
+chenda - gains Lookout
+chenda - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- chenda: turn 2 ----------
+chenda - plays 4 Copper
+chenda - buys Treasure Map
+chenda - gains Treasure Map
+chenda - shuffles deck
+chenda - draws Copper, Estate, Copper, Treasure Map, Lookout
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - shuffles deck
+Titandrake - draws Steward, Estate, Copper, Copper, Copper
+ 
+---------- chenda: turn 3 ----------
+chenda - plays Lookout
+chenda - trashes Copper
+chenda - discards Copper
+chenda - places Copper on top of deck
+chenda - plays 2 Copper
+chenda - buys Native Village
+chenda - gains Native Village
+chenda - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Steward
+Titandrake - trashes Estate, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Estate, Copper, Copper, Copper, Trade Route
+ 
+---------- chenda: turn 4 ----------
+chenda - plays 3 Copper
+chenda - buys Steward
+chenda - gains Steward
+chenda - shuffles deck
+chenda - draws Treasure Map, Copper, Copper, Copper, Lookout
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Trade Route
+ 
+---------- chenda: turn 5 ----------
+chenda - plays Lookout
+chenda - trashes Estate
+chenda - discards Copper
+chenda - places Steward on top of deck
+chenda - plays 3 Copper
+chenda - buys Steward
+chenda - gains Steward
+chenda - draws Steward, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Copper, Native Village, Copper, Silver, Steward
+ 
+---------- chenda: turn 6 ----------
+chenda - plays Steward
+chenda - trashes Estate, Estate
+chenda - plays 2 Copper
+chenda - buys Native Village
+chenda - gains Native Village
+chenda - draws Native Village
+chenda - shuffles deck
+chenda - draws Copper, Copper, Copper, Lookout
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - shuffles deck
+Titandrake - draws Copper, Nobles, Copper, Native Village, Trade Route
+ 
+---------- chenda: turn 7 ----------
+chenda - plays Lookout
+chenda - trashes Copper
+chenda - discards Treasure Map
+chenda - places Native Village on top of deck
+chenda - plays 3 Copper
+chenda - buys Steward
+chenda - gains Steward
+chenda - draws Native Village, Steward, Steward, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Nobles
+Titandrake - draws Silver, Copper, Steward
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Copper, Native Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Trade Route, Copper
+ 
+---------- chenda: turn 8 ----------
+chenda - plays Native Village
+chenda - shuffles deck
+chenda - sets aside Steward
+chenda - plays Steward
+chenda - draws Lookout, Copper
+chenda - plays Lookout
+chenda - trashes Copper
+chenda - discards Treasure Map
+chenda - places Native Village on top of deck
+chenda - plays Steward
+chenda - draws Native Village, Copper
+chenda - plays 4 Copper
+chenda - buys Treasure Map
+chenda - gains Treasure Map
+chenda - shuffles deck
+chenda - draws Treasure Map, Steward, Steward, Native Village, Lookout
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Native Village, Nobles, Native Village, Silver, Steward
+ 
+---------- chenda: turn 9 ----------
+chenda - plays Native Village
+chenda - takes set aside cards: Steward
+chenda - plays Steward
+chenda - draws Treasure Map, Copper
+chenda - plays Lookout
+chenda - trashes Copper
+chenda - discards Copper
+chenda - places Copper on top of deck
+chenda - plays Treasure Map
+chenda - trashes Treasure Map, Treasure Map
+chenda - gains Gold
+chenda - gains Gold
+chenda - gains Gold
+chenda - gains Gold
+chenda - draws Gold, Gold, Gold, Gold, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Native Village
+Titandrake - shuffles deck
+Titandrake - sets aside Trade Route
+Titandrake - plays Nobles
+Titandrake - draws Copper, Watchtower, Copper
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Copper, Copper, Native Village, Trade Route
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Treasure Map
+Titandrake - gains Treasure Map
+Titandrake - applied Watchtower to place Treasure Map on top of the deck
+Titandrake - buys Treasure Map
+Titandrake - gains Treasure Map
+Titandrake - applied Watchtower to place Treasure Map on top of the deck
+Titandrake - draws Treasure Map, Treasure Map
+Titandrake - shuffles deck
+Titandrake - draws Steward, Trade Route, Native Village
+ 
+---------- chenda: turn 10 ----------
+chenda - plays 4 Gold, 1 Copper
+chenda - buys Province
+chenda - gains Province
+chenda - draws Native Village
+chenda - shuffles deck
+chenda - draws Native Village, Copper, Gold, Lookout
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Watchtower
+Titandrake - plays Steward
+Titandrake - draws Native Village, Nobles
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Nobles
+Titandrake - draws Silver, Native Village, Copper
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Native Village, Watchtower, Copper
+Titandrake - plays Treasure Map
+Titandrake - trashes Treasure Map, Treasure Map
+Titandrake - gains Gold
+Titandrake - gains Gold
+Titandrake - gains Gold
+Titandrake - gains Gold
+Titandrake - plays Native Village
+Titandrake - sets aside Gold
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Watchtower
+Titandrake - draws Gold, Gold, Gold, Copper
+Titandrake - plays 3 Gold, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - shuffles deck
+Titandrake - draws Watchtower, Native Village, Trade Route, Steward, Gold
+ 
+---------- chenda: turn 11 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Native Village, 2 Nobles, 1 Watchtower, 1 Trade Route, 1 Steward, 4 Gold, 2 Copper, 1 Silver, 1 Province
+Titandrake - total victory points: 10
+Titandrake - turns: 10
+ 
+chenda - resigned
+chenda - cards: 3 Steward, 2 Native Village, 1 Lookout, 4 Gold, 3 Copper, 1 Province
+chenda - total victory points: 6
+chenda - turns: 10
+ 
+1st place: Titandrake
+2nd place: chenda
+ 

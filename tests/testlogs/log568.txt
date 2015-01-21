@@ -1,0 +1,655 @@
+------------ Game Setup ------------
+Supply cards: Fortune Teller, Advisor, Bureaucrat, Salvager, Taxman, City, Horn of Plenty, Inn, Farmland, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Eevee - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Eevee - shuffles deck
+Titandrake - shuffles deck
+Eevee - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Eevee: turn 1 ----------
+Eevee - plays 5 Copper
+Eevee - buys Inn
+Eevee - gains Inn
+Eevee - places Inn on top of deck
+Eevee - shuffles deck
+Eevee - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Eevee: turn 2 ----------
+Eevee - draws Inn
+Eevee - shuffles deck
+Eevee - draws Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- Eevee: turn 3 ----------
+Eevee - plays Inn
+Eevee - draws Copper, Copper
+Eevee - discards Copper
+Eevee - discards Estate
+Eevee - plays 4 Copper
+Eevee - buys Salvager
+Eevee - gains Salvager
+Eevee - draws Estate, Copper, Copper, Estate
+Eevee - shuffles deck
+Eevee - draws Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Salvager, Estate
+ 
+---------- Eevee: turn 4 ----------
+Eevee - plays 3 Copper
+Eevee - buys Silver
+Eevee - gains Silver
+Eevee - draws Copper, Inn, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Taxman
+Titandrake - gains Taxman
+Titandrake - draws Estate, Inn, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Eevee: turn 5 ----------
+Eevee - plays Inn
+Eevee - draws Estate, Salvager
+Eevee - discards Copper
+Eevee - discards Copper
+Eevee - plays Salvager
+Eevee - trashes Estate
+Eevee - plays 2 Copper
+Eevee - buys Advisor
+Eevee - gains Advisor
+Eevee - shuffles deck
+Eevee - draws Copper, Copper, Salvager, Copper, Advisor
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Inn
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Advisor
+Titandrake - gains Advisor
+Titandrake - draws Copper, Estate, Salvager, Copper, Taxman
+ 
+---------- Eevee: turn 6 ----------
+Eevee - plays Advisor
+Eevee - reveals: Copper, Inn, Estate
+Titandrake - discards Inn
+Eevee - places cards in hand:  Copper, Estate
+Eevee - plays Salvager
+Eevee - trashes Estate
+Eevee - plays 4 Copper
+Eevee - buys Gold
+Eevee - gains Gold
+Eevee - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Advisor
+Titandrake - gains Advisor
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Advisor, Taxman, Advisor, Copper
+ 
+---------- Eevee: turn 7 ----------
+Eevee - plays 3 Copper, 1 Silver
+Eevee - buys Inn
+Eevee - gains Inn
+Eevee - places Inn, Advisor, Salvager, Inn on top of deck
+Eevee - shuffles deck
+Eevee - draws Salvager, Inn, Inn, Advisor
+Eevee - shuffles deck
+Eevee - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Copper, Copper
+Eevee - discards Copper
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays Advisor
+Titandrake - reveals: Inn, Copper, Salvager
+Eevee - discards Salvager
+Titandrake - places cards in hand:  Inn, Copper
+Titandrake - plays Inn
+Titandrake - draws Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Taxman
+Titandrake - trashes Silver
+Eevee - reveals Salvager, Inn, Inn, Advisor, Copper
+Titandrake - gains Horn of Plenty
+Titandrake - plays 4 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Horn of Plenty, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- Eevee: turn 8 ----------
+Eevee - plays Advisor
+Eevee - reveals: Copper, Copper, Copper
+Titandrake - discards Copper
+Eevee - places cards in hand:  Copper, Copper
+Eevee - plays Inn
+Eevee - draws Estate, Copper
+Eevee - discards Copper
+Eevee - discards Copper
+Eevee - plays Inn
+Eevee - draws Copper, Copper
+Eevee - discards Copper
+Eevee - discards Copper
+Eevee - plays Salvager
+Eevee - trashes Estate
+Eevee - plays 2 Copper
+Eevee - buys Salvager
+Eevee - gains Salvager
+Eevee - buys Peddler
+Eevee - gains Peddler
+Eevee - draws Gold, Silver
+Eevee - shuffles deck
+Eevee - draws Inn, Copper, Inn
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Advisor, Copper, Advisor, Taxman, Peddler
+ 
+---------- Eevee: turn 9 ----------
+Eevee - plays Inn
+Eevee - draws Advisor, Copper
+Eevee - discards Copper
+Eevee - discards Copper
+Eevee - plays Advisor
+Eevee - reveals: Copper, Salvager, Peddler
+Titandrake - discards Salvager
+Eevee - places cards in hand:  Copper, Peddler
+Eevee - plays Peddler
+Eevee - draws Copper
+Eevee - plays Inn
+Eevee - draws Copper, Copper
+Eevee - discards Copper
+Eevee - discards Copper
+Eevee - plays 2 Copper, 1 Gold, 1 Silver
+Eevee - buys Province
+Eevee - gains Province
+Eevee - draws Copper, Salvager
+Eevee - shuffles deck
+Eevee - draws Silver, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Salvager, Copper, Copper
+Eevee - discards Salvager
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Inn
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Eevee - discards Inn
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays Peddler
+Titandrake - draws Estate
+Titandrake - plays Taxman
+Titandrake - trashes Copper
+Eevee - discards Copper
+Titandrake - gains Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Inn, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Inn, Copper, Silver, Silver, Inn
+ 
+---------- Eevee: turn 10 ----------
+Eevee - plays Salvager
+Eevee - trashes Copper
+Eevee - plays 1 Silver, 1 Copper
+Eevee - buys Fortune Teller
+Eevee - gains Fortune Teller
+Eevee - draws Inn, Copper, Advisor, Copper, Salvager
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Inn
+Titandrake - draws Copper, Horn of Plenty
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Inn
+Titandrake - draws Salvager
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Horn of Plenty
+Titandrake - discards Salvager
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Inn, Salvager on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Advisor, Inn, Peddler, Copper, Estate
+ 
+---------- Eevee: turn 11 ----------
+Eevee - plays Advisor
+Eevee - reveals: Inn, Gold, Province
+Titandrake - discards Gold
+Eevee - places cards in hand:  Inn, Province
+Eevee - plays Inn
+Eevee - draws Copper, Peddler
+Eevee - discards Province
+Eevee - discards Inn
+Eevee - plays Salvager
+Eevee - trashes Peddler
+Eevee - plays 3 Copper
+Eevee - buys Province
+Eevee - gains Province
+Eevee - buys Peddler
+Eevee - gains Peddler
+Eevee - draws Copper
+Eevee - shuffles deck
+Eevee - draws Fortune Teller, Salvager, Copper, Province
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Inn
+Titandrake - draws Copper, Salvager
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Copper, Advisor
+Eevee - discards Advisor
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays Salvager
+Titandrake - trashes Peddler
+Titandrake - plays 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Taxman, Copper
+Titandrake - shuffles deck
+Titandrake - draws Advisor, Horn of Plenty, Silver
+ 
+---------- Eevee: turn 12 ----------
+Eevee - plays Fortune Teller
+Titandrake - reveals Inn, Province
+Titandrake - discards Inn
+Eevee - plays 2 Copper
+Eevee - buys Advisor
+Eevee - gains Advisor
+Eevee - draws Silver, Copper, Copper, Inn, Advisor
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Province, Copper, Advisor
+Eevee - discards Advisor
+Titandrake - places cards in hand:  Province, Copper
+Titandrake - plays Taxman
+Titandrake - trashes Copper
+Eevee - discards Copper
+Titandrake - gains Silver
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Horn of Plenty
+Titandrake - gains Peddler
+Titandrake - buys Fortune Teller
+Titandrake - gains Fortune Teller
+Titandrake - draws Silver, Copper, Salvager, Copper, Inn
+ 
+---------- Eevee: turn 13 ----------
+Eevee - plays Advisor
+Eevee - reveals: Peddler, Copper, Salvager
+Titandrake - discards Salvager
+Eevee - places cards in hand:  Peddler, Copper
+Eevee - plays Inn
+Eevee - draws Gold, Copper
+Eevee - discards Copper
+Eevee - discards Copper
+Eevee - plays Peddler
+Eevee - draws Province
+Eevee - plays 1 Silver, 1 Copper, 1 Gold
+Eevee - buys Inn
+Eevee - gains Inn
+Eevee - places Advisor, Fortune Teller, Salvager, Salvager, Inn on top of deck
+Eevee - shuffles deck
+Eevee - draws Inn, Inn, Advisor, Salvager, Fortune Teller
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Inn
+Titandrake - draws Silver, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Inn, Advisor, Peddler, Fortune Teller, Advisor, Taxman, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Peddler, Taxman, Fortune Teller, Inn, Advisor
+ 
+---------- Eevee: turn 14 ----------
+Eevee - plays Advisor
+Eevee - reveals: Salvager
+Eevee - shuffles deck
+Eevee - reveals: Copper, Copper
+Titandrake - discards Salvager
+Eevee - places cards in hand:  Copper, Copper
+Eevee - plays Inn
+Eevee - draws Copper, Inn
+Eevee - discards Copper
+Eevee - discards Copper
+Eevee - plays Inn
+Eevee - draws Copper, Province
+Eevee - discards Province
+Eevee - discards Copper
+Eevee - plays Salvager
+Eevee - trashes Inn
+Eevee - plays Fortune Teller
+Titandrake - reveals Estate
+Eevee - plays 1 Copper
+Eevee - buys Province
+Eevee - gains Province
+Eevee - buys Peddler
+Eevee - gains Peddler
+Eevee - draws Province, Peddler, Advisor, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Estate, Inn, Advisor
+Eevee - discards Advisor
+Titandrake - places cards in hand:  Estate, Inn
+Titandrake - plays Inn
+Titandrake - draws Inn, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Inn
+Titandrake - draws Peddler
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Taxman
+Titandrake - plays Peddler
+Titandrake - draws Silver
+Titandrake - plays Inn
+Titandrake - draws Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Fortune Teller
+Eevee - shuffles deck
+Eevee - reveals Gold, Silver, Copper, Advisor, Salvager, Copper, Copper, Peddler, Province
+Eevee - discards: Gold, Silver, Copper, Advisor, Salvager, Copper, Copper, Peddler
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Advisor, Salvager, Inn, Silver
+ 
+---------- Eevee: turn 15 ----------
+Eevee - plays Advisor
+Eevee - reveals: Province, Inn, Province
+Titandrake - discards Inn
+Eevee - places cards in hand:  Province, Province
+Eevee - plays Peddler
+Eevee - draws Fortune Teller
+Eevee - plays Fortune Teller
+Titandrake - reveals Horn of Plenty, Estate
+Titandrake - discards Horn of Plenty
+Eevee - plays 2 Copper
+Eevee - buys Horn of Plenty
+Eevee - gains Horn of Plenty
+Eevee - draws Inn, Copper, Salvager
+Eevee - shuffles deck
+Eevee - draws Horn of Plenty, Peddler
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Estate, Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Advisor
+Eevee - discards Advisor
+Titandrake - places cards in hand:  Estate, Copper
+Titandrake - plays Salvager
+Titandrake - trashes Inn
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Inn, Duchy, Silver, Inn
+ 
+---------- Eevee: turn 16 ----------
+Eevee - plays Inn
+Eevee - draws Peddler, Inn
+Eevee - discards Copper
+Eevee - discards Inn
+Eevee - plays Peddler
+Eevee - draws Copper
+Eevee - plays Salvager
+Eevee - trashes Peddler
+Eevee - plays Copper
+Eevee - plays Horn of Plenty
+Eevee - gains Horn of Plenty
+Eevee - buys Province
+Eevee - gains Province
+Eevee - buys Peddler
+Eevee - gains Peddler
+Eevee - draws Fortune Teller, Copper, Advisor, Gold, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Inn
+Titandrake - draws Peddler, Copper
+Titandrake - discards Duchy
+Titandrake - discards Copper
+Titandrake - plays Inn
+Titandrake - draws Horn of Plenty, Fortune Teller
+Titandrake - discards Copper
+Titandrake - discards Horn of Plenty
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Fortune Teller
+Eevee - reveals Salvager, Advisor, Province
+Eevee - discards: Salvager, Advisor
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Inn, Taxman, Copper, Peddler
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Eevee: turn 17 ----------
+Eevee - plays Advisor
+Eevee - reveals: Province, Copper, Copper
+Titandrake - discards Copper
+Eevee - places cards in hand:  Province, Copper
+Eevee - plays Fortune Teller
+Titandrake - reveals Province
+Eevee - plays Copper
+Eevee - plays Gold
+Eevee - buys Farmland
+Eevee - trashes Copper
+Eevee - gains Estate
+Eevee - gains Farmland
+Eevee - draws Silver, Province, Copper
+Eevee - shuffles deck
+Eevee - draws Copper, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Inn
+Titandrake - draws Province, Advisor
+Titandrake - discards Taxman
+Titandrake - discards Province
+Titandrake - plays Advisor
+Titandrake - reveals: Advisor, Copper, Fortune Teller
+Eevee - discards Advisor
+Titandrake - places cards in hand:  Copper, Fortune Teller
+Titandrake - plays Peddler
+Titandrake - draws Duchy
+Titandrake - plays Fortune Teller
+Eevee - reveals Inn, Salvager, Horn of Plenty, Peddler, Advisor, Inn, Gold, Advisor, Salvager, Province
+Eevee - discards: Inn, Salvager, Horn of Plenty, Peddler, Advisor, Inn, Gold, Advisor, Salvager
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Salvager, Horn of Plenty, Province, Duchy
+ 
+---------- Eevee: turn 18 ----------
+Eevee - plays 2 Copper, 1 Silver
+Eevee - buys Advisor
+Eevee - gains Advisor
+Eevee - draws Province, Horn of Plenty, Estate, Province, Fortune Teller
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Horn of Plenty
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver, Peddler, Estate, Inn
+ 
+---------- Eevee: turn 19 ----------
+Eevee - plays Fortune Teller
+Titandrake - shuffles deck
+Titandrake - reveals Inn, Copper, Duchy
+Titandrake - discards: Inn, Copper
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Farmland, Copper, Copper, Peddler, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Inn
+Titandrake - draws Duchy, Duchy
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - plays Peddler
+Titandrake - draws Salvager
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Inn, Copper, Copper, Duchy
+ 
+---------- Eevee: turn 20 ----------
+Eevee - plays Peddler
+Eevee - shuffles deck
+Eevee - draws Province
+Eevee - plays 3 Copper
+Eevee - buys Advisor
+Eevee - gains Advisor
+Eevee - draws Estate, Province, Province, Advisor, Horn of Plenty
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Inn
+Titandrake - draws Taxman, Advisor
+Titandrake - discards Duchy
+Titandrake - discards Province
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Peddler, Fortune Teller
+Eevee - discards Peddler
+Titandrake - places cards in hand:  Copper, Fortune Teller
+Titandrake - plays Fortune Teller
+Eevee - reveals Gold, Peddler, Salvager, Silver, Copper, Inn, Copper, Estate
+Eevee - discards: Gold, Peddler, Salvager, Silver, Copper, Inn, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Province, Duchy, Advisor
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Eevee: turn 21 ----------
+Eevee - plays Advisor
+Eevee - reveals: Estate, Fortune Teller, Province
+Titandrake - discards Fortune Teller
+Eevee - places cards in hand:  Estate, Province
+Eevee - draws Horn of Plenty, Advisor, Inn, Advisor, Salvager
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Fortune Teller, Peddler, Inn
+Eevee - discards Peddler
+Titandrake - places cards in hand:  Fortune Teller, Inn
+Titandrake - plays Inn
+Titandrake - draws Estate, Copper
+Titandrake - discards Duchy
+Titandrake - discards Province
+Titandrake - plays Fortune Teller
+Eevee - shuffles deck
+Eevee - reveals Copper, Copper, Salvager, Province
+Eevee - discards: Copper, Copper, Salvager
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Duchy, Peddler, Copper, Salvager
+ 
+---------- Eevee: turn 22 ----------
+Eevee - plays Advisor
+Eevee - reveals: Province, Farmland, Peddler
+Titandrake - discards Peddler
+Eevee - places cards in hand:  Province, Farmland
+Eevee - plays Advisor
+Eevee - reveals: Inn, Province, Advisor
+Titandrake - discards Inn
+Eevee - places cards in hand:  Province, Advisor
+Eevee - plays Advisor
+Eevee - reveals: Province, Copper, Advisor
+Titandrake - discards Advisor
+Eevee - places cards in hand:  Province, Copper
+Eevee - plays Inn
+Eevee - draws Fortune Teller, Horn of Plenty
+Eevee - discards Province
+Eevee - discards Province
+Eevee - plays Salvager
+Eevee - trashes Horn of Plenty
+Eevee - plays Fortune Teller
+Titandrake - reveals Duchy
+Eevee - plays Copper
+Eevee - plays Horn of Plenty
+Eevee - gains Duchy
+Eevee - trashes Horn of Plenty
+Eevee - buys Farmland
+Eevee - trashes Farmland
+Eevee - gains Province
+Eevee - gains Farmland
+Eevee - buys Estate
+Eevee - gains Estate
+Eevee - draws Copper, Silver, Estate, Copper, Peddler
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Peddler
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Duchy, Copper, Advisor, Province, Inn
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Inn, 2 Advisor, 1 Peddler, 1 Fortune Teller, 1 Salvager, 1 Taxman, 5 Copper, 1 Silver, 7 Duchy, 3 Province, 1 Estate
+Titandrake - total victory points: 40
+Titandrake - turns: 22
+ 
+Eevee - cards: 4 Advisor, 2 Peddler, 2 Salvager, 2 Inn, 1 Fortune Teller, 5 Copper, 1 Silver, 1 Gold, 5 Province, 3 Estate, 1 Duchy, 1 Farmland
+Eevee - total victory points: 38
+Eevee - turns: 22
+ 
+1st place: Titandrake
+2nd place: Eevee
+ 

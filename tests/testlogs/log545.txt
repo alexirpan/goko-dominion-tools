@@ -1,0 +1,196 @@
+------------ Game Setup ------------
+Supply cards: Hermit, Conspirator, Feodum, Worker's Village, Highway, Jester, Saboteur, Venture, Goons, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+frankdom - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays 3 Copper
+frankdom - buys Hermit
+frankdom - gains Hermit
+frankdom - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays 4 Copper
+frankdom - buys Feodum
+frankdom - gains Feodum
+frankdom - shuffles deck
+frankdom - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays 5 Copper
+frankdom - buys Jester
+frankdom - gains Jester
+frankdom - draws Estate, Copper, Estate, Copper, Feodum
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- frankdom: turn 4 ----------
+frankdom - plays 2 Copper
+frankdom - draws Estate, Hermit
+frankdom - shuffles deck
+frankdom - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - draws Jester
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Highway, Estate
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays Hermit
+frankdom - trashes Estate
+frankdom - gains Silver
+frankdom - trashes Hermit
+frankdom - gains Madman
+frankdom - draws Copper, Copper, Jester, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Jester
+frankdom - reveals Copper
+frankdom - discards Copper
+frankdom - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- frankdom: turn 6 ----------
+frankdom - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+frankdom - plays 3 Copper
+frankdom - buys Saboteur
+frankdom - gains Saboteur
+frankdom - draws Estate, Feodum
+frankdom - shuffles deck
+frankdom - draws Copper, Saboteur, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Jester, Worker's Village
+ 
+---------- frankdom: turn 7 ----------
+frankdom - plays Saboteur
+Titandrake - reveals Copper, Worker's Village
+Titandrake - trashes Worker's Village
+Titandrake - discards Copper
+frankdom - plays 1 Copper, 1 Silver
+frankdom - buys Hermit
+frankdom - gains Hermit
+frankdom - draws Copper, Copper, Copper, Madman, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Jester
+frankdom - reveals Copper
+frankdom - discards Copper
+frankdom - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Copper, Copper, Highway, Copper, Estate
+ 
+---------- frankdom: turn 8 ----------
+frankdom - plays Madman
+frankdom - draws Jester, Estate, Copper, Copper
+frankdom - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+frankdom - plays 6 Copper
+frankdom - buys Goons
+frankdom - gains Goons
+frankdom - shuffles deck
+frankdom - draws Silver, Copper, Estate, Jester, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - shuffles deck
+Titandrake - draws Copper, Highway, Copper, Highway, Copper
+ 
+---------- frankdom: turn 9 ----------
+frankdom - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Nobles
+frankdom - gains Nobles
+frankdom - draws Hermit, Feodum, Saboteur, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Jester
+Titandrake - plays Jester
+frankdom - reveals Copper
+frankdom - discards Copper
+frankdom - gains Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Worker's Village, Copper, Copper, Worker's Village, Copper
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays Hermit
+frankdom - trashes Feodum
+frankdom - gains Silver
+frankdom - gains Silver
+frankdom - gains Silver
+frankdom - gains Hermit
+frankdom - trashes Hermit
+frankdom - gains Madman
+frankdom - draws Copper, Copper, Estate, Goons, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays 4 Copper
+ 
+------------ Game Over ------------
+frankdom - cards: 1 Nobles, 10 Copper, 1 Goons, 1 Jester, 1 Hermit, 1 Madman, 1 Saboteur, 4 Silver, 2 Estate
+frankdom - victory point chips: 0
+frankdom - total victory points: 4
+frankdom - turns: 10
+ 
+Titandrake - resigned
+Titandrake - cards: 2 Highway, 1 Goons, 1 Jester, 6 Copper, 3 Estate
+Titandrake - victory point chips: 0
+Titandrake - total victory points: 3
+Titandrake - turns: 9
+ 
+1st place: frankdom
+2nd place: Titandrake
+ 

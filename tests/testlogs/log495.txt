@@ -1,0 +1,484 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Pearl Diver, Village, Procession, Library, Market, Mystic, Outpost, Trading Post, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+HelloKitty - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HelloKitty - shuffles deck
+Titandrake - shuffles deck
+HelloKitty - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Hovel, Copper, Copper, Copper
+ 
+---------- HelloKitty: turn 1 ----------
+HelloKitty - plays 5 Copper
+HelloKitty - buys Trading Post
+HelloKitty - gains Trading Post
+HelloKitty - draws Hovel, Necropolis, Copper, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Overgrown Estate, Copper, Copper, Necropolis
+ 
+---------- HelloKitty: turn 2 ----------
+HelloKitty - plays 2 Copper
+HelloKitty - buys Pearl Diver
+HelloKitty - gains Pearl Diver
+HelloKitty - shuffles deck
+HelloKitty - draws Copper, Copper, Hovel, Copper, Necropolis
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Necropolis, Copper, Copper, Copper
+ 
+---------- HelloKitty: turn 3 ----------
+HelloKitty - plays 3 Copper
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Copper, Trading Post, Copper, Pearl Diver, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Silver, Silver, Copper, Copper
+ 
+---------- HelloKitty: turn 4 ----------
+HelloKitty - plays Pearl Diver
+HelloKitty - draws Copper
+HelloKitty - places Overgrown Estate on bottom of deck
+HelloKitty - plays Trading Post
+HelloKitty - trashes Copper, Copper
+HelloKitty - gains Silver
+HelloKitty - plays 2 Copper, 1 Silver
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Overgrown Estate
+HelloKitty - shuffles deck
+HelloKitty - draws Hovel, Copper, Pearl Diver, Trading Post
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - draws Hovel, Copper
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, Silver, Copper
+ 
+---------- HelloKitty: turn 5 ----------
+HelloKitty - plays Pearl Diver
+HelloKitty - draws Necropolis
+HelloKitty - places Silver on top of deck
+HelloKitty - plays Necropolis
+HelloKitty - plays Trading Post
+HelloKitty - trashes Hovel, Overgrown Estate
+HelloKitty - draws Silver
+HelloKitty - gains Silver
+HelloKitty - plays 2 Silver, 1 Copper
+HelloKitty - buys Mystic
+HelloKitty - gains Mystic
+HelloKitty - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Copper, Copper, Village, Overgrown Estate
+ 
+---------- HelloKitty: turn 6 ----------
+HelloKitty - plays 4 Copper, 1 Silver
+HelloKitty - buys Nobles
+HelloKitty - gains Nobles
+HelloKitty - draws Silver
+HelloKitty - shuffles deck
+HelloKitty - draws Silver, Nobles, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Village
+Titandrake - draws Trading Post
+Titandrake - plays Trading Post
+Titandrake - trashes Overgrown Estate, Copper
+Titandrake - draws Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Hovel
+ 
+---------- HelloKitty: turn 7 ----------
+HelloKitty - plays 2 Silver, 2 Copper
+HelloKitty - buys Nobles
+HelloKitty - gains Nobles
+HelloKitty - draws Silver, Trading Post, Pearl Diver, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Nobles
+Titandrake - trashes Hovel
+Titandrake - gains Nobles
+Titandrake - draws Village, Silver, Copper, Trading Post, Necropolis
+ 
+---------- HelloKitty: turn 8 ----------
+HelloKitty - plays Pearl Diver
+HelloKitty - draws Mystic
+HelloKitty - places Copper on top of deck
+HelloKitty - plays Mystic
+HelloKitty - names Copper
+HelloKitty - reveals Copper
+HelloKitty - places Copper in hand
+HelloKitty - plays Trading Post
+HelloKitty - trashes Copper, Copper
+HelloKitty - gains Silver
+HelloKitty - plays 2 Silver, 1 Copper
+HelloKitty - buys Nobles
+HelloKitty - gains Nobles
+HelloKitty - draws Silver, Necropolis
+HelloKitty - shuffles deck
+HelloKitty - draws Silver, Mystic, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Village
+Titandrake - draws Nobles
+Titandrake - plays Nobles
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Village
+Titandrake - shuffles deck
+Titandrake - draws Silver, Necropolis, Nobles, Trading Post
+ 
+---------- HelloKitty: turn 9 ----------
+HelloKitty - plays Necropolis
+HelloKitty - plays Mystic
+HelloKitty - names Nobles
+HelloKitty - reveals Nobles
+HelloKitty - places Nobles in hand
+HelloKitty - plays Nobles
+HelloKitty - draws Copper, Nobles, Copper
+HelloKitty - plays 3 Copper, 2 Silver
+HelloKitty - buys Nobles
+HelloKitty - gains Nobles
+HelloKitty - draws Silver, Nobles, Silver, Pearl Diver, Trading Post
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Nobles
+Titandrake - draws Silver, Silver, Copper
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 4 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Silver, Copper, Village, Nobles, Nobles
+ 
+---------- HelloKitty: turn 10 ----------
+HelloKitty - plays Pearl Diver
+HelloKitty - draws Silver
+HelloKitty - shuffles deck
+HelloKitty - places Nobles on bottom of deck
+HelloKitty - plays 3 Silver
+HelloKitty - buys Market
+HelloKitty - gains Market
+HelloKitty - draws Silver, Copper, Necropolis, Silver, Nobles
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Nobles
+Titandrake - shuffles deck
+Titandrake - draws Village, Necropolis, Silver
+Titandrake - plays Village
+Titandrake - draws Trading Post
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Nobles, Silver
+Titandrake - plays Necropolis
+Titandrake - plays Nobles
+Titandrake - draws Silver, Silver
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 6 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Silver, Trading Post, Nobles, Silver, Necropolis
+ 
+---------- HelloKitty: turn 11 ----------
+HelloKitty - plays Necropolis
+HelloKitty - plays Nobles
+HelloKitty - draws Nobles, Copper, Copper
+HelloKitty - plays Nobles
+HelloKitty - draws Mystic, Nobles
+HelloKitty - shuffles deck
+HelloKitty - draws Pearl Diver
+HelloKitty - plays 3 Copper, 2 Silver
+HelloKitty - buys Market
+HelloKitty - gains Market
+HelloKitty - draws Silver, Trading Post, Silver, Nobles, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Silver, Silver
+Titandrake - plays 4 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Village, Village, Nobles, Nobles, Market
+ 
+---------- HelloKitty: turn 12 ----------
+HelloKitty - plays Nobles
+HelloKitty - draws Market
+HelloKitty - shuffles deck
+HelloKitty - draws Necropolis, Copper
+HelloKitty - plays 3 Silver, 1 Copper
+HelloKitty - buys Library
+HelloKitty - gains Library
+HelloKitty - draws Silver, Silver, Nobles, Copper, Nobles
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Nobles
+Titandrake - draws Silver, Nobles, Silver
+Titandrake - plays Nobles
+Titandrake - draws Trading Post, Nobles, Necropolis
+Titandrake - plays Necropolis
+Titandrake - plays Nobles
+Titandrake - draws Silver
+Titandrake - plays 6 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - shuffles deck
+Titandrake - draws Village, Village, Nobles, Silver, Silver
+ 
+---------- HelloKitty: turn 13 ----------
+HelloKitty - plays Nobles
+HelloKitty - takes 2 actions
+HelloKitty - plays Nobles
+HelloKitty - draws Pearl Diver, Market, Mystic
+HelloKitty - plays Market
+HelloKitty - draws Copper
+HelloKitty - plays Pearl Diver
+HelloKitty - draws Nobles
+HelloKitty - shuffles deck
+HelloKitty - places Nobles on top of deck
+HelloKitty - plays Nobles
+HelloKitty - takes 2 actions
+HelloKitty - plays Mystic
+HelloKitty - names Nobles
+HelloKitty - reveals Nobles
+HelloKitty - places Nobles in hand
+HelloKitty - plays Nobles
+HelloKitty - draws Library, Silver, Silver
+HelloKitty - plays Library
+HelloKitty - discards Necropolis
+HelloKitty - draws Silver
+HelloKitty - discards Necropolis
+HelloKitty - plays 5 Silver, 2 Copper
+HelloKitty - buys Gold
+HelloKitty - gains Gold
+HelloKitty - buys Gold
+HelloKitty - gains Gold
+HelloKitty - draws Copper, Market, Trading Post
+HelloKitty - shuffles deck
+HelloKitty - draws Pearl Diver, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Village
+Titandrake - draws Nobles
+Titandrake - plays Village
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Necropolis
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Silver, Village
+Titandrake - plays Village
+Titandrake - draws Trading Post
+Titandrake - plays Nobles
+Titandrake - draws Silver, Nobles, Market
+Titandrake - plays Necropolis
+Titandrake - plays Nobles
+Titandrake - draws Gold, Silver, Silver
+Titandrake - plays Market
+Titandrake - plays 6 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Village, Province, Silver, Gold, Silver
+ 
+---------- HelloKitty: turn 14 ----------
+HelloKitty - plays Pearl Diver
+HelloKitty - draws Gold
+HelloKitty - places Necropolis on bottom of deck
+HelloKitty - plays Market
+HelloKitty - draws Silver
+HelloKitty - plays Trading Post
+HelloKitty - trashes Copper, Silver
+HelloKitty - gains Silver
+HelloKitty - plays 2 Gold, 1 Silver
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - draws Silver, Nobles, Market, Silver, Nobles
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Village
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Trading Post
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Nobles, Market, Nobles, Village, Silver
+ 
+---------- HelloKitty: turn 15 ----------
+HelloKitty - plays Market
+HelloKitty - draws Nobles
+HelloKitty - plays Nobles
+HelloKitty - takes 2 actions
+HelloKitty - plays Nobles
+HelloKitty - draws Mystic, Copper, Silver
+HelloKitty - plays Mystic
+HelloKitty - names Library
+HelloKitty - reveals Library
+HelloKitty - places Library in hand
+HelloKitty - plays Nobles
+HelloKitty - takes 2 actions
+HelloKitty - plays Library
+HelloKitty - moves Nobles to hand
+HelloKitty - draws Copper
+HelloKitty - draws Silver
+HelloKitty - plays Nobles
+HelloKitty - draws Necropolis
+HelloKitty - shuffles deck
+HelloKitty - draws Gold, Market
+HelloKitty - plays 4 Silver, 2 Copper, 1 Gold
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - draws Province, Gold, Trading Post, Silver, Pearl Diver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Village
+Titandrake - draws Nobles
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Nobles
+Titandrake - draws Market, Market, Silver
+Titandrake - plays Market
+Titandrake - draws Nobles
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Village, Market
+Titandrake - plays Market
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Trading Post
+Titandrake - plays Village
+Titandrake - draws Gold
+Titandrake - plays Nobles
+Titandrake - draws Silver, Province, Silver
+Titandrake - plays 6 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Village, Trading Post, Market, Nobles
+ 
+---------- HelloKitty: turn 16 ----------
+HelloKitty - plays Pearl Diver
+HelloKitty - shuffles deck
+HelloKitty - draws Nobles
+HelloKitty - places Province on bottom of deck
+HelloKitty - plays Nobles
+HelloKitty - draws Silver, Nobles, Copper
+HelloKitty - plays 2 Silver, 1 Gold, 1 Copper
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - draws Silver, Necropolis, Market, Copper, Nobles
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Village
+Titandrake - draws Province
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Nobles
+Titandrake - draws Market, Duchy, Nobles
+Titandrake - plays Market
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Nobles
+Titandrake - draws Village, Market, Nobles
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Village
+Titandrake - draws Province
+Titandrake - plays Nobles
+Titandrake - draws Necropolis, Market, Silver
+Titandrake - plays Market
+Titandrake - draws Duchy
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Nobles, Pearl Diver, Silver, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Market, 4 Nobles, 3 Village, 1 Pearl Diver, 1 Trading Post, 1 Necropolis, 6 Silver, 1 Gold, 4 Province, 3 Duchy
+Titandrake - total victory points: 41
+Titandrake - turns: 16
+ 
+HelloKitty - cards: 4 Nobles, 2 Market, 1 Necropolis, 1 Pearl Diver, 1 Trading Post, 1 Library, 1 Mystic, 5 Silver, 2 Copper, 2 Gold, 4 Province
+HelloKitty - total victory points: 32
+HelloKitty - turns: 16
+ 
+1st place: Titandrake
+2nd place: HelloKitty
+ 

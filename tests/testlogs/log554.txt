@@ -1,0 +1,503 @@
+------------ Game Setup ------------
+Supply cards: Squire, Forager, Lookout, Woodcutter, Ironmonger, Spice Merchant, Hunting Party, Laboratory, Upgrade, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Lucidity - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lucidity - shuffles deck
+Titandrake - shuffles deck
+Lucidity - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Lucidity: turn 1 ----------
+Lucidity - plays 3 Copper
+Lucidity - buys Forager
+Lucidity - gains Forager
+Lucidity - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Lucidity: turn 2 ----------
+Lucidity - plays 4 Copper
+Lucidity - buys Spice Merchant
+Lucidity - gains Spice Merchant
+Lucidity - shuffles deck
+Lucidity - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Woodcutter
+Titandrake - gains Woodcutter
+Titandrake - shuffles deck
+Titandrake - draws Woodcutter, Copper, Silver, Estate, Copper
+ 
+---------- Lucidity: turn 3 ----------
+Lucidity - plays 4 Copper
+Lucidity - buys Silver
+Lucidity - gains Silver
+Lucidity - draws Estate, Copper, Copper, Spice Merchant, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Woodcutter
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Lucidity: turn 4 ----------
+Lucidity - plays Spice Merchant
+Lucidity - trashes Copper
+Lucidity - chooses two cards and one action
+Lucidity - draws Estate, Forager
+Lucidity - plays Forager
+Lucidity - trashes Estate
+Lucidity - plays 2 Copper
+Lucidity - buys Silver
+Lucidity - gains Silver
+Lucidity - shuffles deck
+Lucidity - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Woodcutter, Silver
+ 
+---------- Lucidity: turn 5 ----------
+Lucidity - plays 3 Copper, 1 Silver
+Lucidity - buys Laboratory
+Lucidity - gains Laboratory
+Lucidity - draws Forager, Copper, Spice Merchant, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Woodcutter
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Estate, Hunting Party, Copper, Copper, Estate
+ 
+---------- Lucidity: turn 6 ----------
+Lucidity - plays Forager
+Lucidity - trashes Estate
+Lucidity - plays Spice Merchant
+Lucidity - trashes Copper
+Lucidity - chooses two cards and one action
+Lucidity - draws Copper, Silver
+Lucidity - plays 2 Copper, 1 Silver
+Lucidity - buys Hunting Party
+Lucidity - gains Hunting Party
+Lucidity - shuffles deck
+Lucidity - draws Estate, Laboratory, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Estate, Copper, Copper, Estate, Copper
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Hunting Party
+ 
+---------- Lucidity: turn 7 ----------
+Lucidity - plays Laboratory
+Lucidity - draws Copper, Forager
+Lucidity - plays Forager
+Lucidity - trashes Estate
+Lucidity - plays 4 Copper
+Lucidity - buys Hunting Party
+Lucidity - gains Hunting Party
+Lucidity - draws Spice Merchant, Silver, Silver, Hunting Party, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Estate, Copper, Silver, Estate, Copper
+Titandrake - reveals Copper, Copper, Copper, Silver, Copper, Woodcutter
+Titandrake - places Woodcutter in hand
+Titandrake - discards: Copper, Copper, Copper, Silver, Copper
+Titandrake - plays Woodcutter
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Hunting Party, Copper, Estate, Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Lucidity: turn 8 ----------
+Lucidity - plays Hunting Party
+Lucidity - shuffles deck
+Lucidity - draws Copper
+Lucidity - reveals hand: Spice Merchant, Silver, Silver, Copper, Copper
+Lucidity - reveals Laboratory
+Lucidity - places Laboratory in hand
+Lucidity - plays Laboratory
+Lucidity - draws Copper, Copper
+Lucidity - plays Spice Merchant
+Lucidity - trashes Copper
+Lucidity - chooses two cards and one action
+Lucidity - draws Copper, Hunting Party
+Lucidity - plays Hunting Party
+Lucidity - draws Forager
+Lucidity - reveals hand: Silver, Silver, Copper, Copper, Copper, Copper, Forager
+Lucidity - plays Forager
+Lucidity - trashes Copper
+Lucidity - plays 3 Copper, 2 Silver
+Lucidity - buys Hunting Party
+Lucidity - gains Hunting Party
+Lucidity - buys Silver
+Lucidity - gains Silver
+Lucidity - shuffles deck
+Lucidity - draws Silver, Forager, Hunting Party, Silver, Hunting Party
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Hunting Party, Copper, Estate, Estate, Copper
+Titandrake - reveals Hunting Party, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Hunting Party
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Estate, Estate, Copper, Silver, Hunting Party
+Titandrake - reveals Copper, Copper, Woodcutter
+Titandrake - places Woodcutter in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Estate, Estate, Copper, Silver, Woodcutter, Copper
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Silver, Copper, Copper, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Estate, Silver, Copper, Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Estate, Estate, Copper, Silver, Woodcutter, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Estate, Copper, Copper, Silver
+Titandrake - discards: Copper, Estate, Copper, Copper, Silver
+Titandrake - plays Woodcutter
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Copper, Hunting Party, Gold, Estate
+ 
+---------- Lucidity: turn 9 ----------
+Lucidity - plays Hunting Party
+Lucidity - draws Laboratory
+Lucidity - reveals hand: Silver, Forager, Hunting Party, Silver, Laboratory
+Lucidity - reveals Spice Merchant
+Lucidity - places Spice Merchant in hand
+Lucidity - plays Hunting Party
+Lucidity - draws Silver
+Lucidity - reveals hand: Silver, Forager, Silver, Laboratory, Spice Merchant, Silver
+Lucidity - reveals Copper
+Lucidity - places Copper in hand
+Lucidity - plays Spice Merchant
+Lucidity - trashes Copper
+Lucidity - chooses two cards and one action
+Lucidity - draws Hunting Party, Copper
+Lucidity - plays Hunting Party
+Lucidity - draws Copper
+Lucidity - reveals hand: Silver, Forager, Silver, Laboratory, Silver, Copper, Copper
+Lucidity - plays Forager
+Lucidity - trashes Copper
+Lucidity - plays 3 Silver, 1 Copper
+Lucidity - buys Gold
+Lucidity - gains Gold
+Lucidity - buys Squire
+Lucidity - gains Squire
+Lucidity - shuffles deck
+Lucidity - draws Silver, Spice Merchant, Squire, Gold, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Hunting Party, Copper, Gold, Estate, Estate
+Titandrake - reveals Hunting Party, Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Hunting Party, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Gold, Estate, Estate, Silver, Copper
+Titandrake - reveals Woodcutter
+Titandrake - places Woodcutter in hand
+Titandrake - plays Woodcutter
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Hunting Party, Copper, Copper
+ 
+---------- Lucidity: turn 10 ----------
+Lucidity - plays Spice Merchant
+Lucidity - trashes Copper
+Lucidity - chooses two cards and one action
+Lucidity - draws Silver, Hunting Party
+Lucidity - plays Hunting Party
+Lucidity - draws Forager
+Lucidity - reveals hand: Silver, Squire, Gold, Silver, Forager
+Lucidity - reveals Laboratory
+Lucidity - places Laboratory in hand
+Lucidity - plays Laboratory
+Lucidity - draws Hunting Party, Silver
+Lucidity - plays Hunting Party
+Lucidity - draws Hunting Party
+Lucidity - reveals hand: Silver, Squire, Gold, Silver, Forager, Silver, Hunting Party
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays 3 Silver, 1 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - shuffles deck
+Lucidity - draws Silver, Gold, Hunting Party, Laboratory, Province
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Estate, Copper, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Silver, Estate, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Silver, Estate
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Copper, Estate, Copper, Copper, Silver, Estate
+Titandrake - reveals Copper, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Woodcutter
+Titandrake - reveals hand: Copper, Estate, Copper, Copper, Silver, Estate, Woodcutter
+Titandrake - reveals Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Estate, Copper, Copper, Silver, Estate, Woodcutter, Hunting Party
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Estate, Copper, Copper, Silver, Estate, Woodcutter, Gold, Silver
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Estate, Copper, Copper, Silver
+Titandrake - discards: Copper, Copper, Estate, Copper, Copper, Silver
+Titandrake - plays Woodcutter
+Titandrake - plays 3 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Silver, Estate, Copper
+ 
+---------- Lucidity: turn 11 ----------
+Lucidity - plays Laboratory
+Lucidity - draws Silver, Forager
+Lucidity - plays Hunting Party
+Lucidity - draws Hunting Party
+Lucidity - reveals hand: Silver, Gold, Province, Silver, Forager, Hunting Party
+Lucidity - reveals Spice Merchant
+Lucidity - places Spice Merchant in hand
+Lucidity - plays Hunting Party
+Lucidity - draws Hunting Party
+Lucidity - reveals hand: Silver, Gold, Province, Silver, Forager, Spice Merchant, Hunting Party
+Lucidity - reveals Silver, Squire
+Lucidity - places Squire in hand
+Lucidity - discards Silver
+Lucidity - plays Hunting Party
+Lucidity - draws Silver
+Lucidity - reveals hand: Silver, Gold, Province, Silver, Forager, Spice Merchant, Squire, Silver
+Lucidity - shuffles deck
+Lucidity - reveals Silver
+Lucidity - discards Silver
+Lucidity - plays Forager
+Lucidity - trashes Silver
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays 2 Silver, 1 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - shuffles deck
+Lucidity - draws Laboratory, Squire, Silver, Hunting Party, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Woodcutter, Estate, Silver, Hunting Party
+ 
+---------- Lucidity: turn 12 ----------
+Lucidity - plays Hunting Party
+Lucidity - draws Province
+Lucidity - reveals hand: Laboratory, Squire, Silver, Gold, Province
+Lucidity - reveals Silver, Hunting Party
+Lucidity - places Hunting Party in hand
+Lucidity - discards Silver
+Lucidity - plays Laboratory
+Lucidity - draws Forager, Spice Merchant
+Lucidity - plays Hunting Party
+Lucidity - draws Hunting Party
+Lucidity - reveals hand: Squire, Silver, Gold, Province, Forager, Spice Merchant, Hunting Party
+Lucidity - shuffles deck
+Lucidity - reveals Silver, Silver, Province, Silver
+Lucidity - discards: Silver, Silver, Province, Silver
+Lucidity - plays Hunting Party
+Lucidity - shuffles deck
+Lucidity - draws Silver
+Lucidity - reveals hand: Squire, Silver, Gold, Province, Forager, Spice Merchant, Silver
+Lucidity - reveals Silver, Province, Silver
+Lucidity - discards: Silver, Province, Silver
+Lucidity - plays Spice Merchant
+Lucidity - trashes Silver
+Lucidity - chooses two cards and one action
+Lucidity - shuffles deck
+Lucidity - draws Province, Silver
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays 2 Silver, 1 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Silver
+Lucidity - shuffles deck
+Lucidity - draws Gold, Silver, Province, Hunting Party
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Woodcutter, Estate, Silver, Copper
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Woodcutter, Estate, Silver, Copper, Hunting Party
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Estate, Silver, Hunting Party, Hunting Party, Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Copper, Copper, Copper, Estate, Silver, Hunting Party, Hunting Party, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Woodcutter, Estate, Silver, Copper, Gold, Silver
+Titandrake - reveals Gold, Province
+Titandrake - places Province in hand
+Titandrake - discards Gold
+Titandrake - plays Woodcutter
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Hunting Party, Copper
+ 
+---------- Lucidity: turn 13 ----------
+Lucidity - plays Hunting Party
+Lucidity - draws Spice Merchant
+Lucidity - reveals hand: Silver, Gold, Silver, Province, Spice Merchant
+Lucidity - reveals Squire
+Lucidity - places Squire in hand
+Lucidity - plays Squire
+Lucidity - takes 2 actions
+Lucidity - plays 2 Silver, 1 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Forager, Hunting Party, Laboratory, Hunting Party, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Estate, Copper, Estate, Copper, Hunting Party
+Titandrake - reveals Copper, Forager
+Titandrake - places Forager in hand
+Titandrake - discards Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Estate, Copper, Estate, Copper, Forager, Copper
+Titandrake - reveals Woodcutter
+Titandrake - places Woodcutter in hand
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Woodcutter
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver, Estate, Province, Copper
+ 
+---------- Lucidity: turn 14 ----------
+Lucidity - plays Hunting Party
+Lucidity - draws Silver
+Lucidity - reveals hand: Forager, Hunting Party, Laboratory, Province, Silver
+Lucidity - shuffles deck
+Lucidity - reveals Silver, Province, Province, Squire
+Lucidity - places Squire in hand
+Lucidity - discards: Silver, Province, Province
+Lucidity - plays Hunting Party
+Lucidity - draws Gold
+Lucidity - reveals hand: Forager, Laboratory, Province, Silver, Squire, Gold
+Lucidity - reveals Hunting Party
+Lucidity - places Hunting Party in hand
+Lucidity - plays Laboratory
+Lucidity - draws Silver, Spice Merchant
+Lucidity - plays Hunting Party
+Lucidity - draws Province
+Lucidity - reveals hand: Forager, Province, Silver, Squire, Gold, Silver, Spice Merchant, Province
+Lucidity - shuffles deck
+Lucidity - reveals Silver, Province, Province, Silver
+Lucidity - discards: Silver, Province, Province, Silver
+Lucidity - plays Squire
+Lucidity - takes 2 actions
+Lucidity - plays 2 Silver, 1 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - shuffles deck
+Lucidity - draws Province, Silver, Gold, Hunting Party, Forager
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Hunting Party, Gold, Hunting Party, Silver, Silver
+ 
+---------- Lucidity: turn 15 ----------
+Lucidity - plays Hunting Party
+Lucidity - draws Laboratory
+Lucidity - reveals hand: Province, Silver, Gold, Forager, Laboratory
+Lucidity - reveals Province, Hunting Party
+Lucidity - places Hunting Party in hand
+Lucidity - discards Province
+Lucidity - plays Laboratory
+Lucidity - draws Silver, Silver
+Lucidity - plays Hunting Party
+Lucidity - draws Squire
+Lucidity - reveals hand: Province, Silver, Gold, Forager, Silver, Silver, Squire
+Lucidity - reveals Spice Merchant
+Lucidity - places Spice Merchant in hand
+Lucidity - plays Squire
+Lucidity - takes 2 actions
+Lucidity - plays 3 Silver, 1 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Province, Province, Hunting Party, Province, Silver
+ 
+------------ Game Over ------------
+Lucidity - cards: 3 Hunting Party, 1 Laboratory, 1 Squire, 1 Forager, 1 Spice Merchant, 4 Silver, 1 Gold, 6 Province
+Lucidity - total victory points: 36
+Lucidity - turns: 15
+ 
+Titandrake - cards: 5 Hunting Party, 1 Forager, 1 Woodcutter, 6 Copper, 3 Silver, 2 Gold, 4 Estate, 2 Province, 1 Duchy
+Titandrake - total victory points: 19
+Titandrake - turns: 14
+ 
+1st place: Lucidity
+2nd place: Titandrake
+ 

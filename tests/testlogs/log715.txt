@@ -1,0 +1,423 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Apothecary, Hermit, Market Square, Pirate Ship, Thief, Inn, Stables, Farmland, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+greens - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+greens - shuffles deck
+Titandrake - shuffles deck
+greens - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- greens: turn 1 ----------
+greens - plays 3 Copper
+greens - buys Hermit
+greens - gains Hermit
+greens - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- greens: turn 2 ----------
+greens - plays 4 Copper
+greens - buys Market Square
+greens - gains Market Square
+greens - shuffles deck
+greens - draws Hermit, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- greens: turn 3 ----------
+greens - plays Hermit
+greens - trashes Estate
+greens - gains Market Square
+greens - plays 3 Copper
+greens - buys Native Village
+greens - gains Native Village
+greens - draws Copper, Copper, Copper, Copper, Market Square
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Estate, Hermit
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Hermit
+ 
+---------- greens: turn 4 ----------
+greens - plays Market Square
+greens - draws Estate
+greens - plays 4 Copper
+greens - buys Native Village
+greens - gains Native Village
+greens - buys Native Village
+greens - gains Native Village
+greens - draws Estate
+greens - shuffles deck
+greens - draws Market Square, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Market Square
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Silver, Copper, Market Square, Copper, Copper
+ 
+---------- greens: turn 5 ----------
+greens - plays Market Square
+greens - draws Market Square
+greens - plays Market Square
+greens - draws Native Village
+greens - plays Native Village
+greens - sets aside Native Village
+greens - plays 2 Copper
+greens - buys Native Village
+greens - gains Native Village
+greens - draws Hermit, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Madman, Copper
+ 
+---------- greens: turn 6 ----------
+greens - plays Hermit
+greens - trashes Estate
+greens - gains Hermit
+greens - plays 4 Copper
+greens - buys Pirate Ship
+greens - gains Pirate Ship
+greens - draws Copper, Native Village
+greens - shuffles deck
+greens - draws Market Square, Native Village, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Copper, Market Square, Copper, Copper, Market Square
+ 
+---------- greens: turn 7 ----------
+greens - plays Native Village
+greens - sets aside Hermit
+greens - plays Market Square
+greens - draws Copper
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays 3 Copper
+greens - buys Native Village
+greens - gains Native Village
+greens - draws Estate, Market Square, Hermit, Pirate Ship, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Market Square
+Titandrake - draws Silver
+Titandrake - plays Market Square
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Market Square, Hermit, Hermit, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- greens: turn 8 ----------
+greens - plays Market Square
+greens - draws Copper
+greens - plays Pirate Ship
+Titandrake - reveals Copper, Hermit
+Titandrake - trashes Copper
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - discards Hermit
+greens - receives a pirate coin, now has 1 pirate coin(s)
+greens - plays 2 Copper
+greens - buys Native Village
+greens - gains Native Village
+greens - draws Native Village, Copper
+greens - shuffles deck
+greens - draws Copper, Hermit, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Market Square, Estate, Copper, Market Square, Copper
+ 
+---------- greens: turn 9 ----------
+greens - plays Native Village
+greens - takes set aside cards: Native Village, Hermit, Copper
+greens - plays Native Village
+greens - sets aside Native Village
+greens - plays Hermit
+greens - gains Hermit
+greens - plays Hermit
+greens - gains Hermit
+greens - trashes Hermit
+greens - gains Madman
+greens - trashes Hermit
+greens - gains Madman
+greens - draws Native Village, Pirate Ship, Market Square, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Market Square
+Titandrake - draws Madman
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Copper, Silver, Estate, Hermit, Native Village
+ 
+---------- greens: turn 10 ----------
+greens - plays Market Square
+greens - draws Native Village
+greens - plays Native Village
+greens - sets aside Estate
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays Pirate Ship
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Hermit
+Titandrake - trashes Copper
+Titandrake - discards Hermit
+greens - receives a pirate coin, now has 2 pirate coin(s)
+greens - plays 2 Copper
+greens - buys Native Village
+greens - gains Native Village
+greens - draws Market Square, Native Village
+greens - shuffles deck
+greens - draws Madman, Copper, Hermit
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hermit
+Titandrake - gains Market Square
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Madman, Hermit, Market Square, Hermit, Gold
+ 
+---------- greens: turn 11 ----------
+greens - plays Madman
+greens - draws Madman, Market Square, Copper, Native Village
+greens - plays Native Village
+greens - takes set aside cards: Native Village, Estate, Copper
+greens - plays Hermit
+greens - trashes Estate
+greens - reveals reaction Market Square
+greens - discards Market Square
+greens - gains Gold
+greens - reveals reaction Market Square
+greens - discards Market Square
+greens - gains Gold
+greens - gains Market Square
+greens - plays Madman
+greens - draws Copper, Copper, Pirate Ship, Native Village, Native Village
+greens - plays Native Village
+greens - sets aside Hermit
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays Native Village
+greens - sets aside Native Village
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays Pirate Ship
+greens - takes 2 coins
+greens - plays 5 Copper
+greens - buys Goons
+greens - gains Goons
+greens - draws Native Village
+greens - shuffles deck
+greens - draws Native Village, Native Village, Market Square, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Madman
+Titandrake - draws Market Square, Copper, Copper, Estate
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays Market Square
+Titandrake - draws Market Square
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Estate
+Titandrake - plays Market Square
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Madman
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Estate
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Market Square, Market Square, Copper
+ 
+---------- greens: turn 12 ----------
+greens - plays Market Square
+greens - draws Native Village
+greens - plays Native Village
+greens - sets aside Hermit
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays Native Village
+greens - sets aside Gold
+greens - plays Native Village
+greens - takes set aside cards: Hermit, Copper, Native Village, Copper, Hermit, Copper, Gold
+greens - plays Native Village
+greens - sets aside Copper
+greens - plays Hermit
+greens - gains Estate
+greens - plays Hermit
+greens - gains Estate
+greens - plays Gold
+greens - plays Copper
+greens - plays Copper
+greens - plays Copper
+greens - buys Farmland
+greens - trashes Copper
+greens - gains Estate
+greens - gains Farmland
+greens - draws Pirate Ship, Goons, Copper, Market Square, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Market Square
+Titandrake - draws Native Village
+Titandrake - plays Market Square
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Hermit, Estate, Copper, Copper
+ 
+---------- greens: turn 13 ----------
+greens - plays Market Square
+greens - draws Gold
+greens - plays Goons
+Titandrake - discards Estate
+Titandrake - discards Hermit
+greens - plays 2 Copper, 1 Gold
+greens - buys Duchy
+greens - receives 1 victory point chips
+greens - gains Duchy
+greens - buys Native Village
+greens - receives 1 victory point chips
+greens - gains Native Village
+greens - buys Copper
+greens - receives 1 victory point chips
+greens - gains Copper
+greens - draws Market Square, Native Village, Native Village
+greens - shuffles deck
+greens - draws Copper, Native Village
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Madman, Madman, Market Square, Estate, Market Square
+ 
+---------- greens: turn 14 ----------
+greens - plays Native Village
+greens - sets aside Market Square
+greens - plays Market Square
+greens - draws Gold
+greens - plays Native Village
+greens - sets aside Estate
+greens - plays Native Village
+greens - takes set aside cards: Copper, Market Square, Estate
+greens - plays Market Square
+greens - draws Estate
+greens - plays 2 Copper, 1 Gold
+greens - buys Duchy
+greens - gains Duchy
+greens - draws Native Village, Native Village, Copper, Native Village, Market Square
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Madman
+Titandrake - draws Madman, Market Square, Madman
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays Madman
+Titandrake - draws Duchy, Copper, Duchy, Market Square, Copper, Silver, Copper
+Titandrake - plays Madman
+Titandrake - draws Copper, Copper, Hermit, Market Square, Estate, Native Village
+Titandrake - plays Hermit
+Titandrake - trashes Native Village
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - gains Estate
+Titandrake - plays Madman
+Titandrake - shuffles deck
+Titandrake - draws Gold, Market Square, Market Square, Gold, Gold, Estate, Gold, Gold, Market Square, Market Square, Market Square
+Titandrake - plays Market Square
+Titandrake - plays Market Square
+Titandrake - plays Market Square
+Titandrake - plays Market Square
+Titandrake - plays Market Square
+Titandrake - plays 6 Gold, 5 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Market Square, Estate, Market Square, Market Square
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Market Square, 1 Hermit, 1 Native Village, 6 Gold, 5 Copper, 1 Silver, 5 Estate, 2 Province, 2 Duchy
+Titandrake - victory point chips: 0
+Titandrake - total victory points: 23
+Titandrake - turns: 15
+ 
+greens - cards: 8 Native Village, 3 Market Square, 2 Hermit, 1 Pirate Ship, 1 Goons, 7 Copper, 2 Gold, 3 Estate, 2 Duchy, 1 Farmland
+greens - victory point chips: 3
+greens - total victory points: 14
+greens - turns: 14
+ 
+1st place: Titandrake
+2nd place: greens
+ 

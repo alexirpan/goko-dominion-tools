@@ -1,0 +1,542 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Village, Workshop, Marauder, Bandit Camp, Cache, Cartographer, Cultist, Embassy, Mystic, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Sir Elamo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Sir Elamo - shuffles deck
+Titandrake - shuffles deck
+Sir Elamo - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Sir Elamo: turn 1 ----------
+Sir Elamo - plays 5 Copper
+Sir Elamo - buys Bandit Camp
+Sir Elamo - gains Bandit Camp
+Sir Elamo - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Sir Elamo: turn 2 ----------
+Sir Elamo - plays 2 Copper
+Sir Elamo - buys Poor House
+Sir Elamo - gains Poor House
+Sir Elamo - shuffles deck
+Sir Elamo - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Marauder, Estate, Copper, Copper, Estate
+ 
+---------- Sir Elamo: turn 3 ----------
+Sir Elamo - plays 3 Copper
+Sir Elamo - buys Silver
+Sir Elamo - gains Silver
+Sir Elamo - draws Copper, Poor House, Copper, Copper, Bandit Camp
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Sir Elamo - gains Survivors
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- Sir Elamo: turn 4 ----------
+Sir Elamo - plays Bandit Camp
+Sir Elamo - draws Estate
+Sir Elamo - gains Spoils
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Copper, Copper, Copper, Estate
+Sir Elamo - plays 3 Copper
+Sir Elamo - buys Marauder
+Sir Elamo - gains Marauder
+Sir Elamo - draws Copper
+Sir Elamo - shuffles deck
+Sir Elamo - draws Copper, Copper, Silver, Bandit Camp
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Spoils, Copper, Silver, Marauder
+ 
+---------- Sir Elamo: turn 5 ----------
+Sir Elamo - plays Bandit Camp
+Sir Elamo - draws Copper
+Sir Elamo - gains Spoils
+Sir Elamo - plays 4 Copper, 1 Silver
+Sir Elamo - buys Gold
+Sir Elamo - gains Gold
+Sir Elamo - draws Estate, Copper, Copper, Marauder, Poor House
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Sir Elamo - gains Ruined Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Cultist, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Sir Elamo: turn 6 ----------
+Sir Elamo - plays Marauder
+Sir Elamo - gains Spoils
+Titandrake - gains Ruined Market
+Sir Elamo - plays 2 Copper
+Sir Elamo - buys Poor House
+Sir Elamo - gains Poor House
+Sir Elamo - draws Survivors, Spoils, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+Sir Elamo - gains Ruined Village
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Marauder, Copper, Copper, Copper, Estate
+ 
+---------- Sir Elamo: turn 7 ----------
+Sir Elamo - plays Survivors
+Sir Elamo - shuffles deck
+Sir Elamo - looks at Copper, Estate
+Sir Elamo - discards: Copper, Estate
+Sir Elamo - plays 1 Copper
+Sir Elamo - plays Spoils
+Sir Elamo - buys Village
+Sir Elamo - gains Village
+Sir Elamo - draws Copper, Copper, Silver, Ruined Village, Bandit Camp
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Sir Elamo - gains Survivors
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Spoils, Gold
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Sir Elamo: turn 8 ----------
+Sir Elamo - plays Bandit Camp
+Sir Elamo - draws Copper
+Sir Elamo - gains Spoils
+Sir Elamo - plays 3 Copper, 1 Silver
+Sir Elamo - buys Cultist
+Sir Elamo - gains Cultist
+Sir Elamo - draws Marauder, Gold, Ruined Village, Poor House, Spoils
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Ruined Market, Copper, Copper, Spoils
+ 
+---------- Sir Elamo: turn 9 ----------
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Marauder, Gold, Ruined Village, Spoils
+Sir Elamo - plays 1 Gold
+Sir Elamo - plays Spoils
+Sir Elamo - buys Province
+Sir Elamo - gains Province
+Sir Elamo - draws Copper, Spoils, Poor House, Copper
+Sir Elamo - shuffles deck
+Sir Elamo - draws Spoils
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+Sir Elamo - gains Silver
+Titandrake - draws Copper, Copper, Copper, Marauder, Cultist
+ 
+---------- Sir Elamo: turn 10 ----------
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Copper, Spoils, Copper, Spoils
+Sir Elamo - plays 2 Copper
+Sir Elamo - plays Spoils
+Sir Elamo - plays Spoils
+Sir Elamo - buys Province
+Sir Elamo - gains Province
+Sir Elamo - draws Estate, Village, Marauder, Copper, Survivors
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Silver
+Sir Elamo - gains Abandoned Mine
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Cultist, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- Sir Elamo: turn 11 ----------
+Sir Elamo - plays Village
+Sir Elamo - draws Copper
+Sir Elamo - plays Marauder
+Sir Elamo - gains Spoils
+Titandrake - gains Ruined Market
+Sir Elamo - plays Survivors
+Sir Elamo - looks at Survivors, Copper
+Sir Elamo - discards: Survivors, Copper
+Sir Elamo - plays 2 Copper
+Sir Elamo - buys Poor House
+Sir Elamo - gains Poor House
+Sir Elamo - draws Ruined Village, Province, Estate, Silver, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Cultist
+Titandrake - draws Embassy, Gold
+Sir Elamo - gains Abandoned Mine
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- Sir Elamo: turn 12 ----------
+Sir Elamo - plays Silver
+Sir Elamo - buys Poor House
+Sir Elamo - gains Poor House
+Sir Elamo - draws Bandit Camp, Copper, Copper, Cultist, Ruined Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Estate, Ruined Market, Cultist, Copper
+ 
+---------- Sir Elamo: turn 13 ----------
+Sir Elamo - plays Bandit Camp
+Sir Elamo - draws Gold
+Sir Elamo - gains Spoils
+Sir Elamo - plays Cultist
+Sir Elamo - draws Poor House
+Sir Elamo - shuffles deck
+Sir Elamo - draws Copper
+Titandrake - gains Survivors
+Sir Elamo - plays 3 Copper, 1 Gold
+Sir Elamo - buys Gold
+Sir Elamo - gains Gold
+Sir Elamo - draws Poor House, Estate, Copper, Poor House, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Cultist
+Titandrake - draws Gold, Silver
+Sir Elamo - gains Survivors
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Marauder
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Cultist
+ 
+---------- Sir Elamo: turn 14 ----------
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Poor House, Estate, Copper, Silver
+Sir Elamo - plays 1 Copper, 1 Silver
+Sir Elamo - buys Bandit Camp
+Sir Elamo - gains Bandit Camp
+Sir Elamo - draws Survivors, Province, Spoils, Abandoned Mine, Survivors
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Titandrake - draws Ruined Market, Duchy, Silver, Gold, Estate
+ 
+---------- Sir Elamo: turn 15 ----------
+Sir Elamo - plays Survivors
+Sir Elamo - looks at Copper, Silver
+Sir Elamo - places Copper on top of deck
+Sir Elamo - places Silver on top of deck
+Sir Elamo - plays Spoils
+Sir Elamo - buys Village
+Sir Elamo - gains Village
+Sir Elamo - draws Silver, Copper, Village, Province, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Copper, Silver, Estate, Cultist
+ 
+---------- Sir Elamo: turn 16 ----------
+Sir Elamo - plays Village
+Sir Elamo - draws Ruined Village
+Sir Elamo - plays 1 Silver, 1 Copper
+Sir Elamo - buys Village
+Sir Elamo - gains Village
+Sir Elamo - draws Estate, Copper, Copper, Poor House, Marauder
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cultist
+Titandrake - draws Ruined Market, Gold
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Gold, Copper, Survivors, Silver
+ 
+---------- Sir Elamo: turn 17 ----------
+Sir Elamo - plays Marauder
+Sir Elamo - gains Spoils
+Sir Elamo - plays 2 Copper
+Sir Elamo - buys Poor House
+Sir Elamo - gains Poor House
+Sir Elamo - draws Abandoned Mine, Spoils
+Sir Elamo - shuffles deck
+Sir Elamo - draws Estate, Bandit Camp, Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Embassy, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Embassy on top of deck
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+Sir Elamo - gains Silver
+Titandrake - draws Embassy, Copper, Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Sir Elamo: turn 18 ----------
+Sir Elamo - plays Bandit Camp
+Sir Elamo - draws Copper
+Sir Elamo - gains Spoils
+Sir Elamo - plays Village
+Sir Elamo - draws Abandoned Mine
+Sir Elamo - plays Abandoned Mine
+Sir Elamo - plays Abandoned Mine
+Sir Elamo - plays 1 Copper
+Sir Elamo - plays Spoils
+Sir Elamo - buys Gold
+Sir Elamo - gains Gold
+Sir Elamo - draws Silver, Ruined Village, Copper, Silver, Survivors
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Embassy
+Titandrake - draws Survivors, Copper, Cultist, Gold, Spoils
+Titandrake - discards Survivors
+Titandrake - discards Cultist
+Titandrake - discards Spoils
+Titandrake - plays 3 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Cultist, Estate, Ruined Market, Gold, Copper
+ 
+---------- Sir Elamo: turn 19 ----------
+Sir Elamo - plays Survivors
+Sir Elamo - looks at Poor House, Village
+Sir Elamo - places Village on top of deck
+Sir Elamo - places Poor House on top of deck
+Sir Elamo - plays 2 Silver, 1 Copper
+Sir Elamo - buys Duchy
+Sir Elamo - gains Duchy
+Sir Elamo - draws Poor House, Village, Marauder, Gold, Estate
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Embassy
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Province, Silver, Estate, Duchy
+ 
+---------- Sir Elamo: turn 20 ----------
+Sir Elamo - plays Village
+Sir Elamo - draws Copper
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Marauder, Gold, Estate, Copper
+Sir Elamo - plays Marauder
+Sir Elamo - gains Spoils
+Sir Elamo - plays 1 Gold, 1 Copper
+Sir Elamo - buys Duchy
+Sir Elamo - gains Duchy
+Sir Elamo - draws Poor House, Province, Village, Copper, Survivors
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Ruined Market, Copper, Duchy, Marauder
+ 
+---------- Sir Elamo: turn 21 ----------
+Sir Elamo - plays Village
+Sir Elamo - draws Province
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Province, Copper, Survivors, Province
+Sir Elamo - plays Survivors
+Sir Elamo - looks at Gold, Poor House
+Sir Elamo - places Poor House on top of deck
+Sir Elamo - places Gold on top of deck
+Sir Elamo - plays 1 Copper
+Sir Elamo - buys Silver
+Sir Elamo - gains Silver
+Sir Elamo - draws Gold, Poor House, Bandit Camp, Cultist, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Titandrake - draws Copper, Gold, Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold
+ 
+---------- Sir Elamo: turn 22 ----------
+Sir Elamo - plays Bandit Camp
+Sir Elamo - draws Poor House
+Sir Elamo - gains Spoils
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Gold, Poor House, Cultist, Copper
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Gold, Cultist, Copper
+Sir Elamo - plays 1 Gold, 1 Copper
+Sir Elamo - buys Province
+Sir Elamo - gains Province
+Sir Elamo - draws Estate, Spoils, Poor House, Copper, Survivors
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 4 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Spoils, Province, Province, Silver, Copper
+ 
+---------- Sir Elamo: turn 23 ----------
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Estate, Spoils, Copper, Survivors
+Sir Elamo - plays 1 Copper
+Sir Elamo - plays Spoils
+Sir Elamo - buys Duchy
+Sir Elamo - gains Duchy
+Sir Elamo - draws Ruined Village, Copper
+Sir Elamo - shuffles deck
+Sir Elamo - draws Province, Estate, Copper
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Silver
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Embassy, Copper, Duchy, Spoils, Ruined Market
+ 
+---------- Sir Elamo: turn 24 ----------
+Sir Elamo - plays 2 Copper
+Sir Elamo - buys Estate
+Sir Elamo - gains Estate
+Sir Elamo - draws Copper, Poor House, Marauder, Bandit Camp, Village
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Embassy
+Titandrake - draws Estate, Silver, Embassy, Cultist, Survivors
+Titandrake - discards Duchy
+Titandrake - discards Estate
+Titandrake - discards Ruined Market
+Titandrake - plays Silver
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Ruined Market, Copper, Estate, Gold, Copper
+ 
+---------- Sir Elamo: turn 25 ----------
+Sir Elamo - plays Bandit Camp
+Sir Elamo - draws Spoils
+Sir Elamo - gains Spoils
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Copper, Marauder, Village, Spoils
+Sir Elamo - plays Village
+Sir Elamo - draws Silver
+Sir Elamo - plays Marauder
+Sir Elamo - gains Spoils
+Sir Elamo - plays 1 Copper, 1 Silver
+Sir Elamo - plays Spoils
+Sir Elamo - buys Province
+Sir Elamo - gains Province
+Sir Elamo - draws Copper, Abandoned Mine, Duchy, Survivors, Estate
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Cache
+Titandrake - gains Cache
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - draws Marauder, Duchy, Copper, Duchy, Cultist
+ 
+---------- Sir Elamo: turn 26 ----------
+Sir Elamo - plays Abandoned Mine
+Sir Elamo - plays Copper
+Sir Elamo - buys Estate
+Sir Elamo - gains Estate
+Sir Elamo - draws Abandoned Mine, Poor House, Silver, Copper, Survivors
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Cultist
+Titandrake - draws Estate, Estate
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Marauder
+ 
+---------- Sir Elamo: turn 27 ----------
+Sir Elamo - plays Poor House
+Sir Elamo - reveals hand: Abandoned Mine, Silver, Copper, Survivors
+Sir Elamo - plays 1 Silver, 1 Copper
+Sir Elamo - buys Bandit Camp
+Sir Elamo - gains Bandit Camp
+Sir Elamo - draws Silver, Estate, Duchy, Village, Duchy
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province, Province, Copper, Copper, Ruined Market
+ 
+---------- Sir Elamo: turn 28 ----------
+Sir Elamo - plays Village
+Sir Elamo - draws Gold
+Sir Elamo - plays 1 Silver, 1 Gold
+Sir Elamo - buys Embassy
+Sir Elamo - gains Embassy
+Titandrake - gains Silver
+Sir Elamo - draws Gold, Village, Silver, Province, Spoils
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - draws Gold, Cultist, Duchy, Estate, Copper
+ 
+---------- Sir Elamo: turn 29 ----------
+Sir Elamo - plays Village
+Sir Elamo - draws Ruined Village
+Sir Elamo - plays 1 Gold, 1 Silver
+Sir Elamo - plays Spoils
+Sir Elamo - buys Province
+Sir Elamo - gains Province
+Sir Elamo - draws Gold, Copper, Copper, Poor House, Poor House
+ 
+------------ Game Over ------------
+Sir Elamo - cards: 5 Poor House, 3 Village, 3 Survivors, 3 Bandit Camp, 2 Ruined Village, 2 Abandoned Mine, 1 Cultist, 1 Embassy, 1 Marauder, 7 Copper, 4 Silver, 3 Spoils, 3 Gold, 5 Province, 5 Estate, 3 Duchy
+Sir Elamo - total victory points: 44
+Sir Elamo - turns: 29
+ 
+Titandrake - cards: 2 Embassy, 2 Ruined Market, 2 Cultist, 1 Marauder, 1 Survivors, 9 Copper, 6 Gold, 4 Silver, 1 Cache, 5 Duchy, 4 Estate, 3 Province
+Titandrake - total victory points: 37
+Titandrake - turns: 29
+ 
+1st place: Sir Elamo
+2nd place: Titandrake
+ 

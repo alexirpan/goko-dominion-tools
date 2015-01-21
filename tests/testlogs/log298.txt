@@ -1,0 +1,402 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Sage, Trade Route, Wishing Well, Cutpurse, Nomad Camp, Procession, Governor, Mandarin, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+luliin - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+luliin - shuffles deck
+Titandrake - shuffles deck
+luliin - draws Copper, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- luliin: turn 1 ----------
+luliin - plays 3 Copper
+luliin - buys Sage
+luliin - gains Sage
+luliin - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Nomad Camp
+Titandrake - gains Nomad Camp
+Titandrake - draws Nomad Camp, Copper, Estate, Estate, Copper
+ 
+---------- luliin: turn 2 ----------
+luliin - plays 4 Copper
+luliin - buys Cutpurse
+luliin - gains Cutpurse
+luliin - shuffles deck
+luliin - draws Copper, Copper, Cutpurse, Copper, Sage
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 2 Copper
+Titandrake - buys Fool's Gold
+Titandrake - gains Fool's Gold
+Titandrake - buys Fool's Gold
+Titandrake - gains Fool's Gold
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Estate
+ 
+---------- luliin: turn 3 ----------
+luliin - plays Sage
+luliin - reveals Estate, Estate, Estate, Copper, Copper, Copper, Copper
+luliin - discards: Estate, Estate, Estate, Copper, Copper, Copper, Copper
+luliin - plays Cutpurse
+Titandrake - discards Copper
+luliin - plays 3 Copper
+luliin - buys Governor
+luliin - gains Governor
+luliin - shuffles deck
+luliin - draws Copper, Sage, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - draws Fool's Gold, Fool's Gold, Copper, Copper, Nomad Camp
+ 
+---------- luliin: turn 4 ----------
+luliin - plays Sage
+luliin - reveals Copper, Estate, Copper, Estate, Cutpurse
+luliin - places Cutpurse in hand
+luliin - discards: Copper, Estate, Copper, Estate
+luliin - plays Cutpurse
+Titandrake - discards Copper
+luliin - plays 4 Copper
+luliin - buys Governor
+luliin - gains Governor
+luliin - draws Governor, Copper, Estate
+luliin - shuffles deck
+luliin - draws Cutpurse, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 2 Fool's Gold, 1 Copper
+Titandrake - buys Fool's Gold
+Titandrake - gains Fool's Gold
+Titandrake - buys Fool's Gold
+Titandrake - gains Fool's Gold
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Fool's Gold
+ 
+---------- luliin: turn 5 ----------
+luliin - plays Governor
+luliin - chooses to gain a gold
+luliin - gains Gold
+Titandrake - gains Silver
+luliin - plays Cutpurse
+Titandrake - discards Copper
+luliin - plays 1 Copper
+luliin - buys Sage
+luliin - gains Sage
+luliin - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Fool's Gold
+Titandrake - buys Fool's Gold
+Titandrake - gains Fool's Gold
+Titandrake - draws Estate, Estate, Fool's Gold, Copper, Copper
+ 
+---------- luliin: turn 6 ----------
+luliin - plays 5 Copper
+luliin - buys Governor
+luliin - gains Governor
+luliin - draws Estate, Governor, Copper, Sage
+luliin - shuffles deck
+luliin - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Fool's Gold
+Titandrake - buys Fool's Gold
+Titandrake - gains Fool's Gold
+Titandrake - draws Estate, Fool's Gold, Fool's Gold, Copper, Nomad Camp
+ 
+---------- luliin: turn 7 ----------
+luliin - plays Sage
+luliin - reveals Governor
+luliin - places Governor in hand
+luliin - plays Governor
+luliin - chooses to gain a gold
+luliin - gains Gold
+Titandrake - gains Silver
+luliin - plays Governor
+luliin - chooses to gain a gold
+luliin - gains Gold
+Titandrake - gains Silver
+luliin - plays 2 Copper
+luliin - buys Fool's Gold
+luliin - gains Fool's Gold
+luliin - draws Copper, Copper, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 2 Fool's Gold, 1 Copper
+Titandrake - buys Fool's Gold
+Titandrake - gains Fool's Gold
+Titandrake - buys Fool's Gold
+Titandrake - gains Fool's Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Fool's Gold, Estate, Copper
+ 
+---------- luliin: turn 8 ----------
+luliin - plays 4 Copper, 1 Gold
+luliin - buys Governor
+luliin - gains Governor
+luliin - draws Estate, Governor, Copper, Cutpurse, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Fool's Gold
+Titandrake - buys Fool's Gold
+Titandrake - gains Fool's Gold
+Titandrake - draws Fool's Gold, Fool's Gold, Copper, Fool's Gold, Nomad Camp
+ 
+---------- luliin: turn 9 ----------
+luliin - plays Governor
+luliin - chooses to gain a gold
+luliin - gains Gold
+Titandrake - gains Silver
+luliin - plays Cutpurse
+Titandrake - discards Copper
+luliin - plays 1 Copper
+luliin - buys Sage
+luliin - gains Sage
+luliin - draws Sage
+luliin - shuffles deck
+luliin - draws Gold, Estate, Governor, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 3 Fool's Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - draws Fool's Gold, Silver, Fool's Gold, Copper, Silver
+ 
+---------- luliin: turn 10 ----------
+luliin - plays Sage
+luliin - reveals Copper, Copper, Copper, Sage
+luliin - places Sage in hand
+luliin - discards: Copper, Copper, Copper
+luliin - plays Sage
+luliin - reveals Gold
+luliin - places Gold in hand
+luliin - plays Governor
+luliin - chooses to gain a gold
+luliin - gains Gold
+Titandrake - gains Silver
+luliin - plays 2 Gold, 1 Copper
+luliin - buys Governor
+luliin - gains Governor
+luliin - draws Gold, Fool's Gold, Governor, Cutpurse, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Fool's Gold, 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+luliin - trashes Fool's Gold
+luliin - gains Gold
+Titandrake - draws Fool's Gold, Fool's Gold, Copper, Copper, Estate
+ 
+---------- luliin: turn 11 ----------
+luliin - plays Governor
+luliin - chooses to gain a gold
+luliin - gains Gold
+Titandrake - gains Silver
+luliin - plays Cutpurse
+Titandrake - discards Copper
+luliin - plays 2 Gold
+luliin - buys Province
+luliin - gains Province
+luliin - draws Gold, Sage, Estate, Governor, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Fool's Gold
+Titandrake - plays Fool's Gold
+Titandrake - buys Mandarin
+Titandrake - gains Mandarin
+Titandrake - places Fool's Gold on top of deck
+Titandrake - places Fool's Gold on top of deck
+Titandrake - draws Fool's Gold, Fool's Gold, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- luliin: turn 12 ----------
+luliin - plays Sage
+luliin - reveals Copper, Governor
+luliin - places Governor in hand
+luliin - discards Copper
+luliin - plays Governor
+luliin - chooses to gain a gold
+luliin - gains Gold
+Titandrake - gains Silver
+luliin - plays Governor
+luliin - chooses to draw cards
+luliin - draws Estate, Copper
+luliin - shuffles deck
+luliin - draws Sage
+Titandrake - draws Estate
+luliin - plays Sage
+luliin - reveals Gold
+luliin - places Gold in hand
+luliin - plays 2 Gold, 2 Copper
+luliin - buys Province
+luliin - gains Province
+luliin - draws Province, Copper, Cutpurse, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Fool's Gold, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Fool's Gold, Province, Fool's Gold
+ 
+---------- luliin: turn 13 ----------
+luliin - plays Cutpurse
+Titandrake - discards Copper
+luliin - plays 3 Copper
+luliin - buys Duchy
+luliin - gains Duchy
+luliin - draws Gold, Governor, Governor, Gold, Sage
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Fool's Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Silver, Silver, Nomad Camp, Copper
+ 
+---------- luliin: turn 14 ----------
+luliin - plays Sage
+luliin - reveals Gold
+luliin - places Gold in hand
+luliin - plays Governor
+luliin - chooses to draw cards
+luliin - draws Gold, Copper, Governor
+Titandrake - draws Mandarin
+luliin - plays Governor
+luliin - chooses to trash a card
+luliin - trashes Gold
+luliin - gains Province
+Titandrake - trashes Nomad Camp
+Titandrake - gains Duchy
+luliin - plays Governor
+luliin - chooses to draw cards
+luliin - draws Estate, Gold, Copper
+Titandrake - draws Fool's Gold
+luliin - plays Gold
+luliin - plays Gold
+luliin - buys Farmland
+luliin - trashes Copper
+luliin - gains Estate
+luliin - gains Farmland
+luliin - draws Gold
+luliin - shuffles deck
+luliin - draws Duchy, Province, Governor, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Mandarin
+Titandrake - places Fool's Gold on top of deck
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - buys Farmland
+Titandrake - trashes Silver
+Titandrake - gains Duchy
+Titandrake - gains Farmland
+Titandrake - draws Fool's Gold, Estate, Fool's Gold, Fool's Gold, Fool's Gold
+ 
+---------- luliin: turn 15 ----------
+luliin - plays Governor
+luliin - chooses to draw cards
+luliin - draws Sage, Sage, Copper
+Titandrake - draws Copper
+luliin - plays Sage
+luliin - reveals Estate, Copper, Estate, Province
+luliin - places Province in hand
+luliin - discards: Estate, Copper, Estate
+luliin - plays Sage
+luliin - reveals Copper, Gold
+luliin - places Gold in hand
+luliin - discards Copper
+luliin - plays Gold
+luliin - plays Gold
+luliin - buys Farmland
+luliin - trashes Copper
+luliin - gains Estate
+luliin - gains Farmland
+luliin - draws Copper, Estate, Gold, Gold, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Fool's Gold
+Titandrake - plays Fool's Gold
+Titandrake - plays Fool's Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Province, Silver, Fool's Gold, Silver
+ 
+---------- luliin: turn 16 ----------
+luliin - plays Gold
+luliin - plays Gold
+luliin - buys Farmland
+luliin - trashes Copper
+luliin - gains Estate
+luliin - gains Farmland
+luliin - draws Estate, Gold, Copper, Governor, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Silver, 1 Copper, 1 Fool's Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Wishing Well
+Titandrake - shuffles deck
+Titandrake - draws Province, Fool's Gold, Fool's Gold
+ 
+---------- luliin: turn 17 ----------
+luliin - plays Governor
+luliin - chooses to draw cards
+luliin - draws Farmland, Governor, Governor
+Titandrake - draws Mandarin
+luliin - plays Governor
+luliin - chooses to draw cards
+luliin - draws Gold, Cutpurse, Governor
+Titandrake - draws Fool's Gold
+luliin - plays Governor
+luliin - chooses to trash a card
+luliin - trashes Cutpurse
+luliin - gains Farmland
+Titandrake - trashes Mandarin
+Titandrake - gains Farmland
+luliin - plays Governor
+luliin - chooses to draw cards
+luliin - draws Sage
+luliin - shuffles deck
+luliin - draws Province, Estate
+Titandrake - draws Fool's Gold
+luliin - plays Sage
+luliin - reveals Gold
+luliin - places Gold in hand
+luliin - plays Gold
+luliin - plays Gold
+luliin - buys Duchy
+luliin - gains Duchy
+luliin - draws Duchy, Estate, Gold, Estate, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Copper
+Titandrake - names Nomad Camp
+Titandrake - reveals Copper
+Titandrake - plays 4 Fool's Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Duchy, Copper, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Wishing Well, 9 Fool's Gold, 7 Copper, 6 Silver, 5 Province, 4 Duchy, 3 Estate, 2 Farmland
+Titandrake - total victory points: 49
+Titandrake - turns: 17
+ 
+luliin - cards: 5 Governor, 3 Sage, 7 Gold, 4 Copper, 6 Estate, 4 Farmland, 3 Province, 2 Duchy
+luliin - total victory points: 38
+luliin - turns: 17
+ 
+1st place: Titandrake
+2nd place: luliin
+ 

@@ -1,0 +1,583 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Fishing Village, Swindler, Trade Route, Tunnel, Silk Road, Thief, Rogue, Altar, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+eliegel - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+eliegel - shuffles deck
+Titandrake - shuffles deck
+eliegel - draws Overgrown Estate, Copper, Copper, Necropolis, Copper
+Titandrake - draws Hovel, Copper, Copper, Copper, Copper
+ 
+---------- eliegel: turn 1 ----------
+eliegel - plays 3 Copper
+eliegel - buys Trade Route
+eliegel - gains Trade Route
+eliegel - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Copper, Overgrown Estate, Necropolis, Copper
+ 
+---------- eliegel: turn 2 ----------
+eliegel - plays 4 Copper
+eliegel - buys Trade Route
+eliegel - gains Trade Route
+eliegel - shuffles deck
+eliegel - draws Necropolis, Copper, Copper, Hovel, Trade Route
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - shuffles deck
+Titandrake - draws Copper, Trade Route, Hovel, Overgrown Estate, Swindler
+ 
+---------- eliegel: turn 3 ----------
+eliegel - plays Trade Route
+eliegel - trashes Hovel
+eliegel - plays 2 Copper
+eliegel - buys Lighthouse
+eliegel - gains Lighthouse
+eliegel - draws Copper, Copper, Trade Route, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Swindler
+eliegel - reveals Overgrown Estate
+eliegel - trashes Overgrown Estate
+eliegel - draws Copper
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Necropolis
+ 
+---------- eliegel: turn 4 ----------
+eliegel - plays Trade Route
+eliegel - trashes Copper
+eliegel - plays 4 Copper
+eliegel - buys Fishing Village
+eliegel - gains Fishing Village
+eliegel - shuffles deck
+eliegel - draws Copper, Trade Route, Copper, Lighthouse, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Overgrown Estate
+ 
+---------- eliegel: turn 5 ----------
+eliegel - plays Lighthouse
+eliegel - plays Trade Route
+eliegel - trashes Copper
+eliegel - plays 2 Copper
+eliegel - buys Trade Route
+eliegel - gains Trade Route
+eliegel - draws Fishing Village, Necropolis, Trade Route, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Trade Route, Necropolis, Copper, Fishing Village, Copper
+ 
+---------- eliegel: turn 6 ----------
+eliegel - duration Lighthouse
+eliegel - plays Fishing Village
+eliegel - plays Trade Route
+eliegel - trashes Necropolis
+eliegel - plays 2 Copper
+eliegel - buys Fishing Village
+eliegel - gains Fishing Village
+eliegel - draws Copper
+eliegel - shuffles deck
+eliegel - draws Copper, Copper, Trade Route, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Hovel, Copper, Silver, Swindler
+Titandrake - shuffles deck
+Titandrake - draws Trade Route
+ 
+---------- eliegel: turn 7 ----------
+eliegel - duration Fishing Village
+eliegel - plays Trade Route
+eliegel - trashes Copper
+eliegel - plays 3 Copper
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - draws Lighthouse, Copper, Trade Route, Trade Route, Fishing Village
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Swindler
+eliegel - shuffles deck
+eliegel - reveals Copper
+eliegel - trashes Copper
+eliegel - gains Curse
+Titandrake - plays Trade Route
+Titandrake - trashes Hovel
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Necropolis, Overgrown Estate, Copper, Copper, Lighthouse
+ 
+---------- eliegel: turn 8 ----------
+eliegel - plays Fishing Village
+eliegel - plays Lighthouse
+eliegel - plays Trade Route
+eliegel - trashes Copper
+eliegel - buys Lighthouse
+eliegel - gains Lighthouse
+eliegel - draws Trade Route, Copper, Copper, Silver, Fishing Village
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays 2 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Swindler, Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Necropolis
+ 
+---------- eliegel: turn 9 ----------
+eliegel - duration Fishing Village
+eliegel - duration Lighthouse
+eliegel - plays Fishing Village
+eliegel - plays Trade Route
+eliegel - trashes Copper
+eliegel - plays 1 Copper, 1 Silver
+eliegel - buys Gold
+eliegel - gains Gold
+eliegel - shuffles deck
+eliegel - draws Copper, Lighthouse, Fishing Village, Gold, Trade Route
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Swindler
+eliegel - reveals Silver
+eliegel - trashes Silver
+eliegel - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Silver, Swindler, Overgrown Estate, Gold
+ 
+---------- eliegel: turn 10 ----------
+eliegel - duration Fishing Village
+eliegel - plays Fishing Village
+eliegel - plays Lighthouse
+eliegel - plays Trade Route
+eliegel - trashes Copper
+eliegel - plays 1 Gold
+eliegel - buys Grand Market
+eliegel - gains Grand Market
+eliegel - draws Trade Route, Curse, Lighthouse, Trade Route
+eliegel - shuffles deck
+eliegel - draws Trade Route
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Swindler
+Titandrake - plays Silver
+Titandrake - plays Gold
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Trade Route, Fishing Village, Copper, Trade Route, Copper
+ 
+---------- eliegel: turn 11 ----------
+eliegel - duration Fishing Village
+eliegel - duration Lighthouse
+eliegel - plays Lighthouse
+eliegel - plays Trade Route
+eliegel - trashes Curse
+eliegel - plays Trade Route
+eliegel - trashes Trade Route
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - draws Gold, Fishing Village, Grand Market, Silver
+eliegel - shuffles deck
+eliegel - draws Lighthouse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - shuffles deck
+Titandrake - draws Swindler, Overgrown Estate, Copper, Swindler, Copper
+ 
+---------- eliegel: turn 12 ----------
+eliegel - duration Lighthouse
+eliegel - plays Lighthouse
+eliegel - plays Grand Market
+eliegel - draws Trade Route
+eliegel - plays Fishing Village
+eliegel - plays Trade Route
+eliegel - trashes Silver
+eliegel - plays 1 Gold
+eliegel - buys Grand Market
+eliegel - gains Grand Market
+eliegel - draws Fishing Village, Trade Route, Silver
+eliegel - shuffles deck
+eliegel - draws Trade Route, Lighthouse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Swindler
+Titandrake - plays Swindler
+Titandrake - plays 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Trade Route, Trade Route, Grand Market
+ 
+---------- eliegel: turn 13 ----------
+eliegel - duration Lighthouse
+eliegel - duration Fishing Village
+eliegel - plays Lighthouse
+eliegel - plays Trade Route
+eliegel - trashes Fishing Village
+eliegel - plays Trade Route
+eliegel - trashes Silver
+eliegel - draws Grand Market, Gold, Grand Market
+eliegel - shuffles deck
+eliegel - draws Trade Route, Trade Route
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Necropolis, Gold, Gold, Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- eliegel: turn 14 ----------
+eliegel - duration Lighthouse
+eliegel - plays Grand Market
+eliegel - draws Fishing Village
+eliegel - plays Grand Market
+eliegel - draws Lighthouse
+eliegel - plays Fishing Village
+eliegel - plays Lighthouse
+eliegel - plays Trade Route
+eliegel - trashes Trade Route
+eliegel - plays 1 Gold
+eliegel - buys Grand Market
+eliegel - gains Grand Market
+eliegel - buys Swindler
+eliegel - gains Swindler
+eliegel - shuffles deck
+eliegel - draws Grand Market, Gold, Grand Market, Lighthouse, Swindler
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Gold
+Titandrake - plays Gold
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Trade Route, Trade Route, Fishing Village, Swindler, Swindler
+ 
+---------- eliegel: turn 15 ----------
+eliegel - duration Fishing Village
+eliegel - duration Lighthouse
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Trade Route
+eliegel - plays Grand Market
+eliegel - plays Lighthouse
+eliegel - plays Swindler
+eliegel - plays 1 Gold
+eliegel - buys Grand Market
+eliegel - gains Grand Market
+eliegel - buys Grand Market
+eliegel - gains Grand Market
+eliegel - shuffles deck
+eliegel - draws Grand Market, Gold, Grand Market, Fishing Village, Lighthouse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Fishing Village
+Titandrake - plays Swindler
+Titandrake - plays Swindler
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Grand Market, Copper, Fishing Village, Silver, Overgrown Estate
+ 
+---------- eliegel: turn 16 ----------
+eliegel - duration Lighthouse
+eliegel - plays Fishing Village
+eliegel - plays Lighthouse
+eliegel - plays Grand Market
+eliegel - draws Swindler
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Trade Route
+eliegel - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+eliegel - plays 1 Gold
+eliegel - buys Grand Market
+eliegel - gains Grand Market
+eliegel - buys Grand Market
+eliegel - gains Grand Market
+eliegel - draws Grand Market
+eliegel - shuffles deck
+eliegel - draws Lighthouse, Swindler, Grand Market, Grand Market
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Fishing Village
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Rogue
+Titandrake - gains Rogue
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Rogue, Copper, Grand Market, Copper
+ 
+---------- eliegel: turn 17 ----------
+eliegel - duration Fishing Village
+eliegel - duration Lighthouse
+eliegel - plays Grand Market
+eliegel - draws Trade Route
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Gold
+eliegel - plays Grand Market
+eliegel - plays Lighthouse
+eliegel - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Fishing Village
+eliegel - plays Trade Route
+eliegel - trashes Gold
+eliegel - buys Platinum
+eliegel - gains Platinum
+eliegel - buys Platinum
+eliegel - gains Platinum
+eliegel - shuffles deck
+eliegel - draws Platinum, Grand Market, Grand Market, Fishing Village, Grand Market
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Grand Market
+Titandrake - draws Trade Route
+Titandrake - plays Lighthouse
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Rogue
+Titandrake - gains Gold
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Gold, Gold, Overgrown Estate, Curse, Swindler
+ 
+---------- eliegel: turn 18 ----------
+eliegel - duration Lighthouse
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Lighthouse
+eliegel - plays Grand Market
+eliegel - draws Trade Route
+eliegel - plays Grand Market
+eliegel - draws Swindler
+eliegel - plays Lighthouse
+eliegel - plays Fishing Village
+eliegel - plays Swindler
+eliegel - plays 1 Platinum
+eliegel - buys Colony
+eliegel - gains Colony
+eliegel - buys Colony
+eliegel - gains Colony
+eliegel - draws Platinum
+eliegel - shuffles deck
+eliegel - draws Colony, Trade Route, Grand Market, Grand Market
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Swindler
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Trade Route, Necropolis, Grand Market, Fishing Village
+ 
+---------- eliegel: turn 19 ----------
+eliegel - duration Lighthouse
+eliegel - duration Fishing Village
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Swindler
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Platinum
+eliegel - plays Swindler
+Titandrake - reveals Grand Market
+Titandrake - trashes Grand Market
+Titandrake - gains Altar
+eliegel - plays 2 Platinum
+eliegel - buys Colony
+eliegel - gains Colony
+eliegel - buys Colony
+eliegel - gains Colony
+eliegel - buys Fishing Village
+eliegel - gains Fishing Village
+eliegel - draws Lighthouse, Colony, Grand Market
+eliegel - shuffles deck
+eliegel - draws Lighthouse, Grand Market
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Trade Route
+Titandrake - trashes Necropolis
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Lighthouse, Rogue, Overgrown Estate
+ 
+---------- eliegel: turn 20 ----------
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Fishing Village
+eliegel - plays Grand Market
+eliegel - draws Platinum
+eliegel - plays Fishing Village
+eliegel - plays Lighthouse
+eliegel - plays Lighthouse
+eliegel - plays 1 Platinum
+eliegel - buys Colony
+eliegel - gains Colony
+eliegel - buys Fishing Village
+eliegel - gains Fishing Village
+eliegel - draws Grand Market, Grand Market, Grand Market, Colony, Colony
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Rogue
+Titandrake - gains Grand Market
+Titandrake - plays Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Province, Province, Trade Route, Fishing Village
+ 
+---------- eliegel: turn 21 ----------
+eliegel - duration Fishing Village
+eliegel - duration Lighthouse
+eliegel - duration Lighthouse
+eliegel - plays Grand Market
+eliegel - draws Platinum
+eliegel - plays Grand Market
+eliegel - draws Trade Route
+eliegel - plays Grand Market
+eliegel - draws Swindler
+eliegel - plays Swindler
+eliegel - plays 1 Platinum
+eliegel - buys Colony
+eliegel - gains Colony
+eliegel - buys Fishing Village
+eliegel - gains Fishing Village
+eliegel - buys Lighthouse
+eliegel - gains Lighthouse
+eliegel - draws Grand Market, Colony, Fishing Village
+eliegel - shuffles deck
+eliegel - draws Lighthouse, Colony
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays Fishing Village
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Fishing Village, Gold, Trade Route, Altar, Swindler
+ 
+---------- eliegel: turn 22 ----------
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Grand Market
+eliegel - plays Grand Market
+eliegel - draws Trade Route
+eliegel - plays Lighthouse
+eliegel - plays Fishing Village
+eliegel - plays Trade Route
+eliegel - trashes Colony
+eliegel - buys Lighthouse
+eliegel - gains Lighthouse
+eliegel - buys Lighthouse
+eliegel - gains Lighthouse
+eliegel - buys Lighthouse
+eliegel - gains Lighthouse
+eliegel - buys Lighthouse
+eliegel - gains Lighthouse
+eliegel - buys Lighthouse
+eliegel - gains Lighthouse
+eliegel - draws Lighthouse, Colony, Grand Market, Platinum, Grand Market
+ 
+------------ Game Over ------------
+eliegel - cards: 8 Lighthouse, 7 Grand Market, 4 Fishing Village, 1 Trade Route, 1 Swindler, 2 Platinum, 5 Colony
+eliegel - total victory points: 50
+eliegel - turns: 22
+ 
+Titandrake - cards: 5 Fishing Village, 3 Grand Market, 2 Trade Route, 2 Swindler, 2 Lighthouse, 1 Altar, 1 Rogue, 4 Gold, 1 Copper, 1 Silver, 3 Province, 1 Overgrown Estate, 1 Duchy
+Titandrake - total victory points: 21
+Titandrake - turns: 21
+ 
+1st place: eliegel
+2nd place: Titandrake
+ 

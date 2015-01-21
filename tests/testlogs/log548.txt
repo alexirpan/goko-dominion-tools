@@ -1,0 +1,437 @@
+------------ Game Setup ------------
+Supply cards: Pearl Diver, Steward, Mining Village, Scout, Talisman, Catacombs, Council Room, Haggler, Royal Seal, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Zaphod - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Zaphod - shuffles deck
+Titandrake - shuffles deck
+Zaphod - draws Copper, Estate, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Talisman
+Titandrake - gains Talisman
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Zaphod: turn 1 ----------
+Zaphod - plays 3 Copper
+Zaphod - buys Steward
+Zaphod - gains Steward
+Zaphod - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper, Steward, Copper, Copper, Copper
+ 
+---------- Zaphod: turn 2 ----------
+Zaphod - plays 4 Copper
+Zaphod - buys Mining Village
+Zaphod - gains Mining Village
+Zaphod - shuffles deck
+Zaphod - draws Copper, Copper, Steward, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Copper, Talisman, Copper, Estate, Estate
+ 
+---------- Zaphod: turn 3 ----------
+Zaphod - plays Steward
+Zaphod - trashes Estate, Copper
+Zaphod - plays 2 Copper
+Zaphod - buys Pearl Diver
+Zaphod - gains Pearl Diver
+Zaphod - draws Mining Village, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Talisman
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Estate
+ 
+---------- Zaphod: turn 4 ----------
+Zaphod - plays Mining Village
+Zaphod - draws Estate
+Zaphod - plays 3 Copper
+Zaphod - buys Silver
+Zaphod - gains Silver
+Zaphod - draws Copper
+Zaphod - shuffles deck
+Zaphod - draws Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Pearl Diver, Copper, Copper, Talisman, Steward
+ 
+---------- Zaphod: turn 5 ----------
+Zaphod - plays 4 Copper, 1 Silver
+Zaphod - buys Gold
+Zaphod - gains Gold
+Zaphod - draws Copper, Copper, Estate, Pearl Diver, Mining Village
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Silver
+Titandrake - places Estate on bottom of deck
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays 1 Silver
+Titandrake - plays Talisman
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Pearl Diver, Pearl Diver
+ 
+---------- Zaphod: turn 6 ----------
+Zaphod - plays Pearl Diver
+Zaphod - draws Steward
+Zaphod - places Estate on bottom of deck
+Zaphod - plays Mining Village
+Zaphod - draws Estate
+Zaphod - plays Steward
+Zaphod - trashes Estate, Estate
+Zaphod - plays 2 Copper
+Zaphod - buys Pearl Diver
+Zaphod - gains Pearl Diver
+Zaphod - shuffles deck
+Zaphod - draws Gold, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Mining Village
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Silver
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Mining Village
+Titandrake - draws Pearl Diver
+Titandrake - plays Pearl Diver
+Titandrake - draws Steward
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Steward
+Titandrake - trashes Estate, Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Copper, Estate, Talisman, Silver, Copper
+ 
+---------- Zaphod: turn 7 ----------
+Zaphod - plays 4 Copper, 1 Gold
+Zaphod - buys King's Court
+Zaphod - gains King's Court
+Zaphod - draws Mining Village, Pearl Diver, Copper, Pearl Diver, Steward
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Talisman
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - shuffles deck
+Titandrake - draws Pearl Diver, Talisman, Steward, Pearl Diver, Silver
+ 
+---------- Zaphod: turn 8 ----------
+Zaphod - plays Mining Village
+Zaphod - draws Silver
+Zaphod - plays Pearl Diver
+Zaphod - draws Copper
+Zaphod - shuffles deck
+Zaphod - places Copper on bottom of deck
+Zaphod - plays Pearl Diver
+Zaphod - draws Gold
+Zaphod - places Copper on bottom of deck
+Zaphod - plays Steward
+Zaphod - trashes Copper, Copper
+Zaphod - plays 1 Silver, 1 Gold
+Zaphod - buys Council Room
+Zaphod - gains Council Room
+Zaphod - draws King's Court, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Mining Village
+Titandrake - places Silver on top of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Silver
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Steward
+Titandrake - draws Steward, Pearl Diver
+Titandrake - plays Pearl Diver
+Titandrake - draws Estate
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - plays Talisman
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Copper, Haggler, Copper
+Titandrake - shuffles deck
+Titandrake - draws Talisman, Pearl Diver
+ 
+---------- Zaphod: turn 9 ----------
+Zaphod - plays 4 Copper
+Zaphod - buys Mining Village
+Zaphod - gains Mining Village
+Zaphod - shuffles deck
+Zaphod - draws Mining Village, King's Court, Steward, Mining Village, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Pearl Diver
+Titandrake - places Mining Village on top of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Mining Village
+Titandrake - places Estate on bottom of deck
+Titandrake - plays Mining Village
+Titandrake - draws King's Court
+Titandrake - plays King's Court
+Titandrake - plays Haggler
+Titandrake - plays Haggler
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper
+Titandrake - plays Talisman
+Titandrake - buys Province
+Titandrake - gains King's Court
+Titandrake - gains Province
+Titandrake - draws Silver, Steward, Steward, Copper, Pearl Diver
+ 
+---------- Zaphod: turn 10 ----------
+Zaphod - plays Mining Village
+Zaphod - draws Council Room
+Zaphod - plays King's Court
+Zaphod - plays Steward
+Zaphod - draws Copper, Gold
+Zaphod - plays Steward
+Zaphod - draws Copper, Pearl Diver
+Zaphod - plays Steward
+Zaphod - draws Copper, Pearl Diver
+Zaphod - plays Pearl Diver
+Zaphod - draws Silver
+Zaphod - plays 4 Copper, 1 Gold, 1 Silver
+Zaphod - buys Gold
+Zaphod - gains Gold
+Zaphod - shuffles deck
+Zaphod - draws Gold, Steward, Copper, Pearl Diver, Mining Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Silver
+Titandrake - places Estate on bottom of deck
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Pearl Diver, Pearl Diver, Council Room, Copper
+ 
+---------- Zaphod: turn 11 ----------
+Zaphod - plays Pearl Diver
+Zaphod - draws Pearl Diver
+Zaphod - places Copper on bottom of deck
+Zaphod - plays Mining Village
+Zaphod - draws Silver
+Zaphod - plays Steward
+Zaphod - draws Copper, Mining Village
+Zaphod - plays Mining Village
+Zaphod - draws King's Court
+Zaphod - plays King's Court
+Zaphod - plays Pearl Diver
+Zaphod - draws Copper
+Zaphod - places Copper on top of deck
+Zaphod - plays Pearl Diver
+Zaphod - draws Copper
+Zaphod - places Gold on top of deck
+Zaphod - plays Pearl Diver
+Zaphod - draws Gold
+Zaphod - places Council Room on top of deck
+Zaphod - plays 4 Copper, 2 Gold, 1 Silver
+Zaphod - buys Province
+Zaphod - gains Province
+Zaphod - draws Council Room
+Zaphod - shuffles deck
+Zaphod - draws Gold, Gold, Mining Village, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places King's Court on top of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws King's Court
+Titandrake - places Haggler on bottom of deck
+Titandrake - plays King's Court
+Titandrake - plays Council Room
+Titandrake - draws Steward, Province, Mining Village, Silver
+Zaphod - draws Pearl Diver
+Titandrake - plays Council Room
+Titandrake - draws Silver, Copper, King's Court, Pearl Diver
+Zaphod - draws Province
+Titandrake - plays Council Room
+Titandrake - draws Talisman, Steward, Haggler
+Zaphod - draws King's Court
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - plays Talisman
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Steward, King's Court, Province, Talisman
+ 
+---------- Zaphod: turn 12 ----------
+Zaphod - plays Mining Village
+Zaphod - draws Mining Village
+Zaphod - plays Council Room
+Zaphod - draws Copper, Copper, Steward, Pearl Diver
+Titandrake - draws Pearl Diver
+Zaphod - plays King's Court
+Zaphod - plays Steward
+Zaphod - draws Silver, Copper
+Zaphod - plays Steward
+Zaphod - takes 2 coins
+Zaphod - plays Steward
+Zaphod - takes 2 coins
+Zaphod - plays 4 Copper, 2 Gold, 1 Silver
+Zaphod - buys Province
+Zaphod - gains Province
+Zaphod - buys Province
+Zaphod - gains Province
+Zaphod - shuffles deck
+Zaphod - draws Province, Province, Copper, Mining Village, Mining Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays King's Court
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Steward on top of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Steward
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Pearl Diver
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Council Room
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Council Room
+Titandrake - draws King's Court, Silver, Pearl Diver, Province
+Zaphod - draws Copper
+Titandrake - plays Pearl Diver
+Titandrake - draws Mining Village
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays King's Court
+Titandrake - plays Steward
+Titandrake - draws Haggler, Estate
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - plays Talisman
+Titandrake - buys Province
+Titandrake - gains King's Court
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Mining Village
+Titandrake - gains Duchy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Talisman, King's Court, King's Court
+ 
+---------- Zaphod: turn 13 ----------
+Zaphod - plays Mining Village
+Zaphod - draws Copper
+Zaphod - plays Mining Village
+Zaphod - draws Gold
+Zaphod - trashes Mining Village
+Zaphod - plays 3 Copper, 1 Gold
+Zaphod - buys Province
+Zaphod - gains Province
+Zaphod - draws Council Room, Silver, Steward, Gold, Pearl Diver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Steward, Mining Village, Pearl Diver, Province
+ 
+---------- Zaphod: turn 14 ----------
+Zaphod - plays Pearl Diver
+Zaphod - draws Province
+Zaphod - places Copper on top of deck
+Zaphod - plays Council Room
+Zaphod - draws Copper, King's Court, Pearl Diver
+Zaphod - shuffles deck
+Zaphod - draws Province
+Titandrake - draws Province
+Zaphod - plays 1 Silver, 1 Gold, 1 Copper
+Zaphod - buys Duchy
+Zaphod - gains Duchy
+Zaphod - draws Province, Mining Village, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Mining Village
+Titandrake - places Pearl Diver on top of deck
+Titandrake - plays Mining Village
+Titandrake - draws Pearl Diver
+Titandrake - trashes Mining Village
+Titandrake - plays Pearl Diver
+Titandrake - draws Silver
+Titandrake - places Province on bottom of deck
+Titandrake - plays Mining Village
+Titandrake - draws Council Room
+Titandrake - trashes Mining Village
+Titandrake - plays Council Room
+Titandrake - draws Haggler, Pearl Diver, Copper, Steward
+Zaphod - draws Copper
+Titandrake - plays Pearl Diver
+Titandrake - draws Duchy
+Titandrake - places Province on bottom of deck
+Titandrake - plays Haggler
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains King's Court
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Mining Village
+Titandrake - gains Duchy
+Titandrake - draws Estate, King's Court, Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Pearl Diver
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 King's Court, 3 Pearl Diver, 2 Steward, 1 Mining Village, 1 Haggler, 1 Council Room, 3 Copper, 2 Silver, 1 Talisman, 4 Province, 2 Estate, 2 Duchy
+Titandrake - total victory points: 32
+Titandrake - turns: 15
+ 
+Zaphod - cards: 2 Pearl Diver, 1 Mining Village, 1 Council Room, 1 Steward, 1 King's Court, 4 Copper, 2 Gold, 1 Silver, 4 Province, 1 Duchy
+Zaphod - total victory points: 27
+Zaphod - turns: 14
+ 
+1st place: Titandrake
+2nd place: Zaphod
+ 

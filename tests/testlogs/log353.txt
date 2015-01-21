@@ -1,0 +1,837 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Familiar, Philosopher's Stone, Caravan, Conspirator, Graverobber, Laboratory, Stash, Tactician, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+A Drowned Kernel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+A Drowned Kernel - shuffles deck
+Titandrake - shuffles deck
+A Drowned Kernel - draws Estate, Estate, Copper, Copper, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- A Drowned Kernel: turn 1 ----------
+A Drowned Kernel - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 2 ----------
+A Drowned Kernel - plays 5 Copper
+A Drowned Kernel - buys Tactician
+A Drowned Kernel - gains Tactician
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- A Drowned Kernel: turn 3 ----------
+A Drowned Kernel - plays 4 Copper
+A Drowned Kernel - buys Potion
+A Drowned Kernel - gains Potion
+A Drowned Kernel - draws Copper, Copper, Estate, Tactician, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Native Village, Copper, Tactician, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 4 ----------
+A Drowned Kernel - plays Tactician
+A Drowned Kernel - discards: Copper, Copper, Estate, Estate
+A Drowned Kernel - draws Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Native Village, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 5 ----------
+A Drowned Kernel - duration Tactician
+A Drowned Kernel - draws Estate, Copper, Estate, Potion, Estate
+A Drowned Kernel - plays 6 Copper, 1 Potion
+A Drowned Kernel - buys Familiar
+A Drowned Kernel - gains Familiar
+A Drowned Kernel - buys Silver
+A Drowned Kernel - gains Silver
+A Drowned Kernel - draws Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper, Copper, Estate, Tactician
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Tactician
+Titandrake - draws Copper, Copper, Estate, Copper, Silver
+Titandrake - plays Native Village
+Titandrake - sets aside Estate
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Conspirator
+ 
+---------- A Drowned Kernel: turn 6 ----------
+A Drowned Kernel - plays Tactician
+A Drowned Kernel - discards: Copper, Copper, Copper, Estate
+A Drowned Kernel - draws Copper, Copper, Familiar, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Conspirator
+Titandrake - plays 3 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper, Native Village, Estate, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 7 ----------
+A Drowned Kernel - duration Tactician
+A Drowned Kernel - draws Estate, Potion, Copper, Silver
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Copper
+Titandrake - gains Curse
+A Drowned Kernel - plays 5 Copper, 1 Potion, 1 Silver
+A Drowned Kernel - buys Possession
+A Drowned Kernel - gains Possession
+A Drowned Kernel - draws Copper, Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Tactician
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Potion, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse, Estate
+ 
+---------- A Drowned Kernel: turn 8 ----------
+A Drowned Kernel - plays 4 Copper
+A Drowned Kernel - buys Caravan
+A Drowned Kernel - gains Caravan
+A Drowned Kernel - draws Familiar, Potion, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 1 Potion, 1 Silver, 1 Copper
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Copper, Caravan, Copper, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 9 ----------
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Possession
+Titandrake - gains Curse
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 1 Potion, 1 Copper, 1 Silver
+A Drowned Kernel - buys Familiar
+A Drowned Kernel - gains Familiar
+A Drowned Kernel - draws Copper, Copper, Tactician, Estate
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate
+ 
+---------- Titandrake: turn 9 [possessed] ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+A Drowned Kernel - gains Caravan
+Titandrake - draws Estate, Silver, Native Village, Copper, Conspirator
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Copper, Estate, Tactician
+Titandrake - plays Conspirator
+Titandrake - plays Tactician
+Titandrake - discards: Estate, Silver, Copper, Copper, Estate
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 10 ----------
+A Drowned Kernel - plays Tactician
+A Drowned Kernel - discards: Copper, Copper, Estate, Estate
+A Drowned Kernel - draws Copper, Caravan, Copper, Silver, Possession
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Tactician
+Titandrake - draws Estate, Copper, Caravan, Familiar, Native Village
+Titandrake - plays Native Village
+Titandrake - sets aside Potion
+Titandrake - plays Caravan
+Titandrake - draws Curse
+Titandrake - plays Familiar
+Titandrake - draws Copper
+A Drowned Kernel - gains Curse
+Titandrake - plays 6 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Conspirator, Curse, Silver, Estate, Copper
+ 
+---------- A Drowned Kernel: turn 11 ----------
+A Drowned Kernel - duration Tactician
+A Drowned Kernel - draws Copper, Familiar, Familiar, Estate, Potion
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Copper
+Titandrake - gains Curse
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate
+Titandrake - gains Curse
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 5 Copper, 1 Silver, 1 Potion
+A Drowned Kernel - buys Laboratory
+A Drowned Kernel - gains Laboratory
+A Drowned Kernel - draws Copper, Curse, Caravan, Estate, Copper
+ 
+---------- Titandrake: turn 11 [possessed] ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Conspirator
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Laboratory
+A Drowned Kernel - gains Laboratory
+Titandrake - draws Native Village
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Tactician, Curse, Estate, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 12 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Tactician
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays Tactician
+A Drowned Kernel - discards: Copper, Curse, Estate, Copper, Copper
+A Drowned Kernel - draws Laboratory, Copper, Familiar, Potion, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Native Village, Curse, Copper, Familiar, Copper
+ 
+---------- A Drowned Kernel: turn 13 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Possession
+A Drowned Kernel - duration Tactician
+A Drowned Kernel - draws Laboratory, Estate, Estate, Copper, Silver
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Familiar
+Titandrake - gains Curse
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Copper
+Titandrake - gains Curse
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper, Copper
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Curse, Estate
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 6 Copper, 1 Potion, 1 Silver
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Copper, Caravan
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate, Estate, Province
+ 
+---------- Titandrake: turn 13 [possessed] ----------
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Potion, Native Village
+Titandrake - draws Silver, Curse, Estate, Caravan, Conspirator
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - shuffles deck
+Titandrake - draws Curse, Curse, Conspirator, Estate, Copper
+ 
+---------- A Drowned Kernel: turn 14 ----------
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Copper
+A Drowned Kernel - draws Possession, Copper, Potion, Curse, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Conspirator
+Titandrake - plays Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Native Village, Native Village, Conspirator, Copper, Curse
+ 
+---------- A Drowned Kernel: turn 15 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Caravan
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Laboratory
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Familiar, Familiar
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Tactician
+Titandrake - gains Curse
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Copper
+Titandrake - gains Curse
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 3 Copper, 1 Potion
+A Drowned Kernel - buys Philosopher's Stone
+A Drowned Kernel - gains Philosopher's Stone
+A Drowned Kernel - draws Laboratory, Estate, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 15 [possessed] ----------
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: 
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: 
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Caravan
+A Drowned Kernel - gains Caravan
+Titandrake - draws Curse, Copper, Estate, Familiar, Native Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Familiar
+Titandrake - draws Curse
+A Drowned Kernel - gains Curse
+Titandrake - draws Native Village, Silver, Copper, Copper, Silver
+ 
+---------- A Drowned Kernel: turn 16 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Province, Caravan
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Tactician
+A Drowned Kernel - plays Tactician
+A Drowned Kernel - discards: Estate, Copper, Silver, Copper, Copper, Province
+A Drowned Kernel - draws Copper, Familiar, Possession, Caravan, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Caravan
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Tactician, Copper, Curse, Potion, Laboratory
+ 
+---------- A Drowned Kernel: turn 17 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Potion
+A Drowned Kernel - duration Tactician
+A Drowned Kernel - draws Copper, Copper, Familiar, Curse, Estate
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Curse
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Laboratory
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Philosopher's Stone
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Laboratory
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Copper, Silver
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 5 Copper, 1 Potion, 1 Silver
+A Drowned Kernel - plays Philosopher's Stone
+A Drowned Kernel - has 0 cards in discards
+A Drowned Kernel - receives 1 coins
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Copper, Province, Estate, Copper, Caravan
+ 
+---------- Titandrake: turn 17 [possessed] ----------
+Titandrake - plays Laboratory
+Titandrake - shuffles deck
+Titandrake - draws Native Village, Copper
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Caravan
+Titandrake - draws Familiar, Estate, Curse, Copper, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Native Village, Silver, Curse, Curse, Curse
+ 
+---------- A Drowned Kernel: turn 18 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Caravan
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays 4 Copper
+A Drowned Kernel - buys Caravan
+A Drowned Kernel - gains Caravan
+A Drowned Kernel - draws Curse, Laboratory, Province, Possession, Familiar
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Curse
+Titandrake - draws Copper, Native Village, Laboratory, Copper, Conspirator
+ 
+---------- A Drowned Kernel: turn 19 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Silver
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Estate
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Potion, Familiar
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Estate
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 1 Silver, 1 Potion, 1 Copper
+A Drowned Kernel - buys Philosopher's Stone
+A Drowned Kernel - gains Philosopher's Stone
+A Drowned Kernel - draws Laboratory, Curse, Copper, Philosopher's Stone, Tactician
+ 
+---------- Titandrake: turn 19 [possessed] ----------
+Titandrake - plays Laboratory
+Titandrake - draws Native Village, Silver
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Curse, Native Village
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Province
+A Drowned Kernel - gains Province
+Titandrake - draws Estate, Curse, Curse, Caravan
+Titandrake - shuffles deck
+Titandrake - draws Conspirator
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Caravan
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Curse, Caravan, Native Village, Native Village, Estate
+ 
+---------- A Drowned Kernel: turn 20 ----------
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Province
+A Drowned Kernel - plays Tactician
+A Drowned Kernel - discards: Curse, Copper, Philosopher's Stone, Copper, Province
+A Drowned Kernel - draws Estate, Province, Potion, Copper, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays Native Village
+Titandrake - sets aside Curse
+Titandrake - draws Silver, Laboratory, Copper, Native Village, Copper
+ 
+---------- A Drowned Kernel: turn 21 ----------
+A Drowned Kernel - duration Tactician
+A Drowned Kernel - draws Estate, Laboratory, Copper, Possession, Curse
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Philosopher's Stone, Caravan
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Province
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 3 Copper, 1 Potion
+A Drowned Kernel - plays Philosopher's Stone
+A Drowned Kernel - has 6 cards in discards
+A Drowned Kernel - receives 3 coins
+A Drowned Kernel - buys Possession
+A Drowned Kernel - gains Possession
+A Drowned Kernel - draws Copper, Caravan, Silver, Caravan, Copper
+ 
+---------- Titandrake: turn 21 [possessed] ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Laboratory
+Titandrake - draws Curse, Silver
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Native Village, Curse
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Laboratory
+A Drowned Kernel - gains Laboratory
+Titandrake - draws Curse, Familiar, Copper, Copper, Native Village
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Familiar
+Titandrake - draws Native Village
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Tactician
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Potion, Curse, Curse, Laboratory
+Titandrake - shuffles deck
+Titandrake - draws Native Village
+ 
+---------- A Drowned Kernel: turn 22 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Familiar
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Caravan
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Estate
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Familiar
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Laboratory
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Philosopher's Stone
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Province, Estate
+A Drowned Kernel - plays 2 Copper, 1 Silver
+A Drowned Kernel - plays Philosopher's Stone
+A Drowned Kernel - has 0 cards in discards
+A Drowned Kernel - receives 3 coins
+A Drowned Kernel - buys Laboratory
+A Drowned Kernel - gains Laboratory
+A Drowned Kernel - draws Laboratory, Estate, Curse, Copper, Philosopher's Stone
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Copper
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Copper, Tactician
+Titandrake - plays Tactician
+Titandrake - discards: Potion, Curse, Curse, Copper, Copper, Copper
+Titandrake - draws Native Village, Native Village, Caravan, Estate, Laboratory
+ 
+---------- A Drowned Kernel: turn 23 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Possession
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Copper
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Potion, Copper
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 4 Copper, 1 Potion
+A Drowned Kernel - plays Philosopher's Stone
+A Drowned Kernel - has 12 cards in discards
+A Drowned Kernel - receives 3 coins
+A Drowned Kernel - buys Laboratory
+A Drowned Kernel - gains Laboratory
+A Drowned Kernel - draws Curse, Copper, Tactician, Province, Province
+ 
+---------- Titandrake: turn 23 [possessed] ----------
+Titandrake - duration Tactician
+Titandrake - draws Native Village, Native Village, Copper, Curse, Copper
+Titandrake - plays Laboratory
+Titandrake - draws Silver, Curse
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays Native Village
+Titandrake - sets aside Conspirator
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Copper, Native Village, Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Province
+A Drowned Kernel - gains Province
+Titandrake - draws Curse, Curse, Silver, Native Village, Caravan
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse, Native Village, Familiar, Estate
+Titandrake - shuffles deck
+Titandrake - draws Native Village
+ 
+---------- A Drowned Kernel: turn 24 ----------
+A Drowned Kernel - plays Tactician
+A Drowned Kernel - discards: Curse, Copper, Province, Province
+A Drowned Kernel - draws Laboratory, Possession
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Province, Estate, Familiar
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Familiar
+Titandrake - draws Native Village
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Conspirator
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Curse, Copper, Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Native Village
+Titandrake - plays Native Village
+Titandrake - sets aside Potion
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Curse, Copper, Curse, Caravan, Silver
+ 
+---------- A Drowned Kernel: turn 25 ----------
+A Drowned Kernel - duration Tactician
+A Drowned Kernel - draws Caravan, Copper, Province, Caravan, Caravan
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Laboratory
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Philosopher's Stone
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Curse
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Curse
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Province, Copper
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Estate, Caravan
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Province
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 2 Copper
+A Drowned Kernel - plays Philosopher's Stone
+A Drowned Kernel - has 0 cards in discards
+A Drowned Kernel - receives 2 coins
+A Drowned Kernel - buys Conspirator
+A Drowned Kernel - gains Conspirator
+A Drowned Kernel - draws Copper, Copper, Estate, Copper, Familiar
+ 
+---------- Titandrake: turn 25 [possessed] ----------
+Titandrake - plays Caravan
+Titandrake - draws Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+A Drowned Kernel - gains Silver
+Titandrake - draws Curse, Native Village, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Laboratory
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Tactician, Curse, Estate, Curse, Estate
+ 
+---------- A Drowned Kernel: turn 26 ----------
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Laboratory
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Philosopher's Stone
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Copper
+A Drowned Kernel - duration Caravan
+A Drowned Kernel - draws Silver
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Potion
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Laboratory, Possession
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Laboratory, Copper
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper, Estate
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 6 Copper, 1 Silver, 1 Potion
+A Drowned Kernel - plays Philosopher's Stone
+A Drowned Kernel - has 0 cards in discards
+A Drowned Kernel - receives 3 coins
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Silver, Province, Curse, Province, Curse
+ 
+---------- Titandrake: turn 26 [possessed] ----------
+Titandrake - draws Copper, Laboratory, Native Village, Native Village, Copper
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Native Village, Conspirator
+Titandrake - plays Native Village
+Titandrake - shuffles deck
+Titandrake - sets aside Familiar
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Potion, Laboratory, Familiar, Copper
+Titandrake - plays Laboratory
+Titandrake - draws Native Village, Silver
+Titandrake - plays Familiar
+Titandrake - draws Curse
+Titandrake - plays Conspirator
+Titandrake - draws Curse
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays 3 Copper, 1 Potion, 1 Silver
+Titandrake - buys Possession
+Titandrake - gains Possession
+Titandrake - draws Curse, Caravan, Copper, Native Village, Estate
+ 
+---------- A Drowned Kernel: turn 27 ----------
+A Drowned Kernel - draws Philosopher's Stone, Laboratory, Copper, Province, Province
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Caravan
+Titandrake - draws Conspirator
+Titandrake - plays Native Village
+Titandrake - sets aside Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Curse
+Titandrake - plays 1 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Native Village, Curse, Curse, Tactician, Native Village
+ 
+---------- A Drowned Kernel: turn 28 ----------
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Laboratory, Possession
+A Drowned Kernel - plays Laboratory
+A Drowned Kernel - draws Tactician, Conspirator
+A Drowned Kernel - plays Conspirator
+A Drowned Kernel - draws Familiar
+A Drowned Kernel - plays Familiar
+A Drowned Kernel - draws Estate
+A Drowned Kernel - plays Possession
+A Drowned Kernel - plays 1 Copper
+A Drowned Kernel - plays Philosopher's Stone
+A Drowned Kernel - has 26 cards in discards
+A Drowned Kernel - receives 5 coins
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Curse, Estate, Conspirator, Caravan, Estate
+ 
+---------- Titandrake: turn 28 [possessed] ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Native Village
+Titandrake - sets aside Curse
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Native Village, Conspirator, Curse
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+A Drowned Kernel - gains Duchy
+Titandrake - draws Copper, Caravan, Tactician, Estate, Copper
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Caravan
+Titandrake - draws Curse
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Estate, Copper, Curse
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Native Village, Curse, Native Village
+ 
+---------- A Drowned Kernel: turn 29 ----------
+A Drowned Kernel - plays Caravan
+A Drowned Kernel - draws Philosopher's Stone
+A Drowned Kernel - plays Conspirator
+A Drowned Kernel - plays Philosopher's Stone
+A Drowned Kernel - has 1 cards in discards
+A Drowned Kernel - receives 6 coins
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Possession, Familiar, Possession, Potion, Province
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - duration Tactician
+Titandrake - draws Familiar, Caravan, Curse, Laboratory, Conspirator
+Titandrake - plays Laboratory
+Titandrake - draws Native Village, Native Village
+Titandrake - plays Caravan
+Titandrake - draws Native Village
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Native Village
+Titandrake - sets aside Silver
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays Native Village
+Titandrake - sets aside Curse
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Copper, Silver, Native Village, Curse
+Titandrake - plays Native Village
+Titandrake - sets aside Curse
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Possession, Tactician, Curse, Estate, Conspirator
+ 
+------------ Game Over ------------
+A Drowned Kernel - cards: 5 Laboratory, 4 Caravan, 2 Possession, 2 Familiar, 1 Conspirator, 1 Tactician, 7 Copper, 2 Philosopher's Stone, 2 Silver, 1 Potion, 7 Province, 3 Estate, 1 Duchy, 2 Curse
+A Drowned Kernel - total victory points: 46
+A Drowned Kernel - turns: 29
+ 
+Titandrake - cards: 9 Native Village, 3 Conspirator, 2 Tactician, 2 Caravan, 2 Laboratory, 1 Possession, 1 Familiar, 7 Copper, 3 Silver, 1 Potion, 3 Estate, 1 Province, 8 Curse
+Titandrake - total victory points: 1
+Titandrake - turns: 29
+ 
+1st place: A Drowned Kernel
+2nd place: Titandrake
+ 

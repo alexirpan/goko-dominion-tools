@@ -1,0 +1,691 @@
+------------ Game Setup ------------
+Supply cards: University, Ambassador, Bridge, Herald, JackOfAllTrades, Nomad Camp, Quarry, Explorer, Torturer, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+D_dreamer - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+D_dreamer - shuffles deck
+Titandrake - shuffles deck
+D_dreamer - draws Estate, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- D_dreamer: turn 1 ----------
+D_dreamer - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- D_dreamer: turn 2 ----------
+D_dreamer - plays 5 Copper
+D_dreamer - buys Torturer
+D_dreamer - gains Torturer
+D_dreamer - shuffles deck
+D_dreamer - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Copper, Copper, Estate, Quarry, Ambassador
+ 
+---------- D_dreamer: turn 3 ----------
+D_dreamer - plays 3 Copper
+D_dreamer - buys Ambassador
+D_dreamer - gains Ambassador
+D_dreamer - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+D_dreamer - gains Copper
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Quarry, Estate, Ambassador
+ 
+---------- D_dreamer: turn 4 ----------
+D_dreamer - plays 4 Copper
+D_dreamer - buys Potion
+D_dreamer - gains Potion
+D_dreamer - draws Torturer
+D_dreamer - shuffles deck
+D_dreamer - draws Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+D_dreamer - gains Copper
+Titandrake - draws Estate, Copper, Ambassador, Estate, Copper
+ 
+---------- D_dreamer: turn 5 ----------
+D_dreamer - plays Torturer
+D_dreamer - draws Copper, Ambassador, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+D_dreamer - plays 4 Copper
+D_dreamer - buys Herald
+D_dreamer - gains Herald
+D_dreamer - draws Copper, Potion, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+D_dreamer - gains Estate
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Ambassador, Copper, Quarry
+ 
+---------- D_dreamer: turn 6 ----------
+D_dreamer - plays 3 Copper, 1 Potion
+D_dreamer - buys University
+D_dreamer - gains University
+D_dreamer - draws Copper
+D_dreamer - shuffles deck
+D_dreamer - draws Herald, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+D_dreamer - gains Copper
+Titandrake - plays Quarry
+Titandrake - plays Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Quarry, Herald, Ambassador
+ 
+---------- D_dreamer: turn 7 ----------
+D_dreamer - plays Herald
+D_dreamer - draws Torturer
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays Torturer
+D_dreamer - draws Copper, Copper, Copper
+Titandrake - gains Curse
+D_dreamer - plays 5 Copper
+D_dreamer - buys Herald
+D_dreamer - overpays for Herald with 1 coin
+D_dreamer - places Copper on top of deck
+D_dreamer - gains Herald
+D_dreamer - draws Copper, Potion, Ambassador, Estate, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Herald
+Titandrake - draws Ambassador
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Ambassador
+Titandrake - reveals Curse
+Titandrake - returns Curse to the Supply
+D_dreamer - gains Curse
+Titandrake - plays Quarry
+Titandrake - plays Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Herald, Herald, Quarry, Ambassador
+ 
+---------- D_dreamer: turn 8 ----------
+D_dreamer - plays Ambassador
+D_dreamer - reveals Estate
+D_dreamer - returns Estate to the Supply
+D_dreamer - returns Estate to the Supply
+Titandrake - gains Estate
+D_dreamer - draws Copper, Copper, Copper, Copper, University
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Ambassador
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+D_dreamer - gains Copper
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+D_dreamer - gains Estate
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Quarry
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Quarry, Silver, Herald, Ambassador
+ 
+---------- D_dreamer: turn 9 ----------
+D_dreamer - plays University
+D_dreamer - gains Herald
+D_dreamer - plays 4 Copper
+D_dreamer - buys Ambassador
+D_dreamer - gains Ambassador
+D_dreamer - shuffles deck
+D_dreamer - draws Estate, Copper, Potion, Torturer, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Ambassador
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+D_dreamer - gains Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+D_dreamer - gains Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Quarry
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Herald
+Titandrake - shuffles deck
+Titandrake - draws Potion, Ambassador, Quarry
+ 
+---------- D_dreamer: turn 10 ----------
+D_dreamer - plays Torturer
+D_dreamer - draws Copper, Herald, University
+Titandrake - gains Curse
+D_dreamer - plays 3 Copper, 1 Potion
+D_dreamer - buys University
+D_dreamer - gains University
+D_dreamer - draws Estate, Herald, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Ambassador
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Ambassador
+Titandrake - reveals Curse
+D_dreamer - gains Curse
+Titandrake - plays Ambassador
+Titandrake - reveals Curse
+Titandrake - returns Curse to the Supply
+D_dreamer - gains Curse
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Quarry, Ambassador, Copper, Potion
+ 
+---------- D_dreamer: turn 11 ----------
+D_dreamer - plays Herald
+D_dreamer - draws Copper
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays 4 Copper
+D_dreamer - buys Herald
+D_dreamer - gains Herald
+D_dreamer - draws Copper, Curse, Ambassador, Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Potion
+Titandrake - returns Potion to the Supply
+D_dreamer - gains Potion
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Quarry
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Herald, Herald, Ambassador, Copper, University
+ 
+---------- D_dreamer: turn 12 ----------
+D_dreamer - plays Ambassador
+D_dreamer - reveals Curse
+D_dreamer - returns Curse to the Supply
+Titandrake - gains Curse
+D_dreamer - draws Ambassador, Herald, Copper, Copper
+D_dreamer - shuffles deck
+D_dreamer - draws Torturer
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Herald
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - plays Herald
+Titandrake - draws Curse
+Titandrake - reveals: Ambassador
+Titandrake - plays Ambassador
+Titandrake - reveals Curse
+D_dreamer - gains Curse
+Titandrake - plays University
+Titandrake - gains Herald
+Titandrake - plays Ambassador
+Titandrake - reveals Curse
+Titandrake - returns Curse to the Supply
+D_dreamer - gains Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Bridge, Quarry
+Titandrake - shuffles deck
+Titandrake - draws Herald, Silver
+ 
+---------- D_dreamer: turn 13 ----------
+D_dreamer - plays Herald
+D_dreamer - draws Herald
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays Herald
+D_dreamer - draws Copper
+D_dreamer - reveals: Herald
+D_dreamer - plays Herald
+D_dreamer - draws Copper
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays Torturer
+D_dreamer - draws Copper, Copper, Copper
+Titandrake - gains Curse
+D_dreamer - plays Ambassador
+D_dreamer - reveals Copper
+D_dreamer - returns Copper to the Supply
+D_dreamer - returns Copper to the Supply
+Titandrake - gains Copper
+D_dreamer - plays 5 Copper
+D_dreamer - buys Herald
+D_dreamer - overpays for Herald with 1 coin
+D_dreamer - places Curse on top of deck
+D_dreamer - gains Herald
+D_dreamer - draws Curse, Herald, Curse, Ambassador, Potion
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Herald
+Titandrake - draws Ambassador
+Titandrake - reveals: University
+Titandrake - plays University
+Titandrake - gains Herald
+Titandrake - plays Bridge
+Titandrake - plays Ambassador
+Titandrake - reveals Curse
+Titandrake - returns Curse to the Supply
+D_dreamer - gains Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Quarry
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 3 coins
+Titandrake - places Bridge on top of deck
+Titandrake - places Herald on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - gains Herald
+Titandrake - draws Copper, Herald, Bridge, Silver, Herald
+ 
+---------- D_dreamer: turn 14 ----------
+D_dreamer - plays Herald
+D_dreamer - draws Estate
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays Ambassador
+D_dreamer - reveals Curse
+D_dreamer - returns Curse to the Supply
+D_dreamer - returns Curse to the Supply
+Titandrake - gains Curse
+D_dreamer - draws Copper, Copper, Curse, Estate, University
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - reveals: Ambassador
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+D_dreamer - gains Copper
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - plays Herald
+Titandrake - draws Curse
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Quarry
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Ambassador
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Ambassador
+Titandrake - reveals Curse
+Titandrake - returns Curse to the Supply
+D_dreamer - gains Curse
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Quarry
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Silver, University, Bridge, Copper
+Titandrake - shuffles deck
+Titandrake - draws Bridge
+ 
+---------- D_dreamer: turn 15 ----------
+D_dreamer - plays University
+D_dreamer - gains Ambassador
+D_dreamer - draws Copper, Potion, University, Estate, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays University
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Herald, Ambassador, Ambassador, Quarry, Herald
+ 
+---------- D_dreamer: turn 16 ----------
+D_dreamer - plays University
+D_dreamer - gains Torturer
+D_dreamer - plays 2 Copper, 1 Potion
+D_dreamer - buys University
+D_dreamer - gains University
+D_dreamer - draws Estate, Copper
+D_dreamer - shuffles deck
+D_dreamer - draws Torturer, Curse, Ambassador
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Herald
+Titandrake - draws Bridge
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Gold
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Bridge
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+D_dreamer - gains Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+D_dreamer - gains Copper
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - plays Quarry
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Silver, Bridge, Province
+ 
+---------- D_dreamer: turn 17 ----------
+D_dreamer - plays Ambassador
+D_dreamer - reveals Curse
+D_dreamer - returns Curse to the Supply
+Titandrake - gains Curse
+D_dreamer - draws Herald, Ambassador, Estate, Curse, University
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Bridge
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Herald, Gold, Bridge, Gold, Bridge
+ 
+---------- D_dreamer: turn 18 ----------
+D_dreamer - plays Herald
+D_dreamer - draws Torturer
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays University
+D_dreamer - gains Bridge
+D_dreamer - plays Torturer
+D_dreamer - draws Copper, University, Copper
+Titandrake - gains Curse
+D_dreamer - plays University
+D_dreamer - gains Torturer
+D_dreamer - plays Ambassador
+D_dreamer - reveals Curse
+D_dreamer - returns Curse to the Supply
+Titandrake - gains Curse
+D_dreamer - draws Estate, Copper, Herald, Copper, Curse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Ambassador
+Titandrake - reveals: University
+Titandrake - plays University
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Ambassador
+Titandrake - reveals Curse
+Titandrake - returns Curse to the Supply
+D_dreamer - gains Curse
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Quarry, Herald, Herald, Silver, Herald
+ 
+---------- D_dreamer: turn 19 ----------
+D_dreamer - plays Herald
+D_dreamer - draws Copper
+D_dreamer - reveals: Herald
+D_dreamer - plays Herald
+D_dreamer - draws University
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays University
+D_dreamer - gains Bridge
+D_dreamer - plays 3 Copper
+D_dreamer - buys Ambassador
+D_dreamer - gains Ambassador
+D_dreamer - draws Copper, Copper, Estate, Herald, Herald
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Herald
+Titandrake - shuffles deck
+Titandrake - draws Ambassador
+Titandrake - reveals: Bridge
+Titandrake - plays Bridge
+Titandrake - plays Herald
+Titandrake - draws University
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Herald
+Titandrake - draws Gold
+Titandrake - reveals: Bridge
+Titandrake - plays Bridge
+Titandrake - plays University
+Titandrake - gains Bridge
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - plays Quarry
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Ambassador, Gold, Copper, Herald, Province
+ 
+---------- D_dreamer: turn 20 ----------
+D_dreamer - plays Herald
+D_dreamer - draws Potion
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays Herald
+D_dreamer - draws Copper
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays 3 Copper, 1 Potion
+D_dreamer - buys University
+D_dreamer - gains University
+D_dreamer - draws Copper, Copper, Curse, Ambassador, Potion
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Herald
+Titandrake - draws Bridge
+Titandrake - reveals: Torturer
+Titandrake - plays Torturer
+Titandrake - draws Curse, Herald, Curse
+D_dreamer - gains Curse
+Titandrake - plays Herald
+Titandrake - draws Bridge
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Ambassador
+Titandrake - reveals Curse
+Titandrake - returns Curse to the Supply
+Titandrake - returns Curse to the Supply
+D_dreamer - gains Curse
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Copper, Province, Silver
+Titandrake - shuffles deck
+Titandrake - draws Bridge, Quarry
+ 
+---------- D_dreamer: turn 21 ----------
+D_dreamer - plays Ambassador
+D_dreamer - reveals Curse
+D_dreamer - returns Curse to the Supply
+D_dreamer - returns Curse to the Supply
+Titandrake - gains Curse
+D_dreamer - plays 2 Copper, 1 Potion
+D_dreamer - buys University
+D_dreamer - gains University
+D_dreamer - shuffles deck
+D_dreamer - draws Copper, Copper, University, Torturer, University
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Bridge
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Quarry
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws University, Bridge, Bridge, Copper, Province
+ 
+---------- D_dreamer: turn 22 ----------
+D_dreamer - plays University
+D_dreamer - plays Torturer
+D_dreamer - draws Herald, Copper, Torturer
+Titandrake - discards Province
+Titandrake - discards Copper
+D_dreamer - plays Herald
+D_dreamer - draws Ambassador
+D_dreamer - reveals: Curse
+D_dreamer - places Curse on top of deck
+D_dreamer - plays University
+D_dreamer - plays Torturer
+D_dreamer - draws Curse, Herald, Potion
+Titandrake - gains Curse
+D_dreamer - plays Herald
+D_dreamer - draws Potion
+D_dreamer - reveals: Copper
+D_dreamer - places Copper on top of deck
+D_dreamer - plays Ambassador
+D_dreamer - reveals Potion
+D_dreamer - returns Potion to the Supply
+D_dreamer - returns Potion to the Supply
+Titandrake - gains Potion
+D_dreamer - draws Copper, Ambassador, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays University
+Titandrake - gains Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Torturer, Gold, Herald, Ambassador, Herald
+ 
+---------- D_dreamer: turn 23 ----------
+D_dreamer - plays Ambassador
+D_dreamer - reveals Copper
+D_dreamer - returns Copper to the Supply
+D_dreamer - returns Copper to the Supply
+Titandrake - gains Copper
+D_dreamer - draws Copper, University, Ambassador, University, Copper
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Herald
+Titandrake - draws Province
+Titandrake - reveals: Bridge
+Titandrake - plays Bridge
+Titandrake - plays Herald
+Titandrake - draws Torturer
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Bridge
+Titandrake - reveals: Ambassador
+Titandrake - plays Ambassador
+Titandrake - reveals Ambassador
+D_dreamer - gains Ambassador
+Titandrake - plays Torturer
+Titandrake - draws Herald, Gold, Herald
+D_dreamer - discards University
+D_dreamer - discards University
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Bridge
+Titandrake - plays Bridge
+Titandrake - plays Herald
+Titandrake - shuffles deck
+Titandrake - draws Bridge
+Titandrake - reveals: Province
+Titandrake - places Province on top of deck
+Titandrake - plays Bridge
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Copper, Bridge, Copper, Potion
+ 
+------------ Game Over ------------
+Titandrake - cards: 8 Bridge, 5 Ambassador, 5 Herald, 2 Torturer, 1 University, 3 Copper, 3 Gold, 2 Silver, 1 Potion, 1 Quarry, 4 Province, 2 Curse
+Titandrake - total victory points: 22
+Titandrake - turns: 24
+ 
+D_dreamer - cards: 5 Ambassador, 5 University, 5 Herald, 3 Torturer, 2 Bridge, 11 Copper, 4 Estate, 3 Curse
+D_dreamer - total victory points: 1
+D_dreamer - turns: 23
+ 
+1st place: Titandrake
+2nd place: D_dreamer
+ 

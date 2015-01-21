@@ -1,0 +1,743 @@
+------------ Game Setup ------------
+Supply cards: Moat, Scrying Pool, Hermit, Menagerie, Urchin, Ill-Gotten Gains, Pillage, Farmland, Possession, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+awall - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+awall - shuffles deck
+Titandrake - shuffles deck
+awall - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- awall: turn 1 ----------
+awall - plays 4 Copper
+awall - buys Potion
+awall - gains Potion
+awall - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Hermit, Copper, Potion
+ 
+---------- awall: turn 2 ----------
+awall - plays 3 Copper
+awall - buys Hermit
+awall - gains Hermit
+awall - shuffles deck
+awall - draws Hermit, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Hermit
+Titandrake - gains Urchin
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- awall: turn 3 ----------
+awall - plays Hermit
+awall - trashes Estate
+awall - gains Urchin
+awall - plays 3 Copper
+awall - buys Menagerie
+awall - gains Menagerie
+awall - draws Copper, Estate, Potion, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Urchin, Copper
+ 
+---------- awall: turn 4 ----------
+awall - plays 2 Copper, 1 Potion
+awall - buys Scrying Pool
+awall - gains Scrying Pool
+awall - draws Copper, Copper
+awall - shuffles deck
+awall - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+awall - discards Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Copper, Urchin, Copper, Estate, Potion
+ 
+---------- awall: turn 5 ----------
+awall - plays 4 Copper
+awall - buys Urchin
+awall - gains Urchin
+awall - draws Urchin, Copper, Menagerie, Estate, Hermit
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Urchin
+Titandrake - draws Scrying Pool
+awall - discards Estate
+Titandrake - plays Scrying Pool
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - places Hermit on top of deck
+awall - discards Scrying Pool
+Titandrake - reveals Hermit, Copper
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Menagerie
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Scrying Pool, Copper, Urchin
+ 
+---------- awall: turn 6 ----------
+awall - plays Menagerie
+awall - reveals hand: Urchin, Copper, Hermit
+awall - draws Copper, Potion, Copper
+awall - plays Hermit
+awall - trashes Estate
+awall - gains Menagerie
+awall - plays 3 Copper, 1 Potion
+awall - buys Scrying Pool
+awall - gains Scrying Pool
+awall - shuffles deck
+awall - draws Potion, Copper, Urchin, Menagerie, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+awall - discards Hermit
+Titandrake - reveals Potion
+Titandrake - plays Urchin
+Titandrake - draws Menagerie
+awall - discards Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Hermit on top of deck
+awall - places Copper on top of deck
+Titandrake - reveals Hermit, Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Potion, Hermit, Copper
+Titandrake - draws Copper
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Copper, Menagerie, Estate, Mercenary
+ 
+---------- awall: turn 7 ----------
+awall - plays Menagerie
+awall - reveals hand: Potion, Copper, Urchin
+awall - draws Copper, Scrying Pool, Scrying Pool
+awall - plays Urchin
+awall - draws Copper
+Titandrake - discards Copper
+awall - plays Scrying Pool
+awall - trashes Urchin
+awall - gains Mercenary
+awall - discards Copper
+Titandrake - places Copper on top of deck
+awall - reveals Estate
+awall - plays Scrying Pool
+awall - discards Copper
+Titandrake - places Copper on top of deck
+awall - reveals Copper
+awall - plays 4 Copper, 1 Potion
+awall - buys Scrying Pool
+awall - gains Scrying Pool
+awall - draws Urchin, Menagerie
+awall - shuffles deck
+awall - draws Copper, Scrying Pool, Mercenary
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Estate, Mercenary
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - places Menagerie on top of deck
+awall - places Copper on top of deck
+Titandrake - reveals Menagerie, Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Mercenary, Copper
+Titandrake - draws Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Scrying Pool
+awall - discards Copper
+awall - discards Urchin
+Titandrake - plays 5 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Scrying Pool, Potion, Urchin, Silver, Hermit
+ 
+---------- awall: turn 8 ----------
+awall - plays Menagerie
+awall - reveals hand: Scrying Pool, Mercenary
+awall - draws Copper, Hermit, Potion
+awall - plays Scrying Pool
+awall - places Scrying Pool on top of deck
+Titandrake - places Copper on top of deck
+awall - reveals Scrying Pool, Copper
+awall - plays Scrying Pool
+awall - places Menagerie on top of deck
+Titandrake - places Copper on top of deck
+awall - reveals Menagerie, Estate
+awall - plays Menagerie
+awall - reveals hand: Copper, Hermit, Potion, Mercenary, Copper, Estate
+awall - draws Copper
+awall - plays Mercenary
+awall - trashes Copper, Estate
+awall - draws Copper, Copper
+Titandrake - discards Potion
+Titandrake - discards Urchin
+awall - plays 4 Copper, 1 Potion
+awall - buys Possession
+awall - gains Possession
+awall - draws Scrying Pool, Copper
+awall - shuffles deck
+awall - draws Copper, Urchin, Possession
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+awall - places Copper on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Copper
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Mercenary, Menagerie, Copper, Potion, Urchin
+ 
+---------- awall: turn 9 ----------
+awall - plays Scrying Pool
+awall - discards Copper
+Titandrake - places Menagerie on top of deck
+awall - reveals Menagerie, Mercenary, Copper
+awall - plays Menagerie
+awall - reveals hand: Copper, Copper, Urchin, Possession, Mercenary, Copper
+awall - draws Copper
+awall - plays Possession
+awall - plays 4 Copper
+awall - buys Silver
+awall - gains Silver
+awall - draws Scrying Pool, Hermit, Menagerie, Potion, Scrying Pool
+ 
+---------- Titandrake: turn 10 [possessed] ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Mercenary, Copper, Potion, Urchin
+Titandrake - draws Menagerie, Copper, Gold
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Gold, Mercenary, Copper, Potion, Urchin
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+awall - discards Copper
+Titandrake - reveals Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+awall - shuffles deck
+awall - discards Copper
+Titandrake - shuffles deck
+Titandrake - reveals Copper
+Titandrake - plays Urchin
+Titandrake - draws Madman
+awall - discards Potion
+Titandrake - plays Madman
+Titandrake - draws Scrying Pool, Silver, Copper, Hermit, Copper
+Titandrake - plays Scrying Pool
+Titandrake - trashes Urchin
+awall - gains Mercenary
+awall - discards Copper
+Titandrake - plays Hermit
+awall - gains Menagerie
+Titandrake - plays 6 Copper, 1 Gold, 1 Potion, 1 Silver
+Titandrake - buys Province
+awall - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Silver, Hermit, Copper, Scrying Pool
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+awall - places Copper on top of deck
+Titandrake - reveals Mercenary, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+awall - places Copper on top of deck
+Titandrake - reveals Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Gold, Menagerie
+awall - discards Hermit
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Menagerie, Scrying Pool, Potion, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- awall: turn 10 ----------
+awall - plays Scrying Pool
+awall - discards Copper
+Titandrake - places Copper on top of deck
+awall - reveals Possession, Urchin, Menagerie, Copper
+awall - plays Menagerie
+awall - reveals hand: Scrying Pool, Menagerie, Possession, Urchin, Copper
+awall - draws Scrying Pool, Mercenary, Copper
+awall - plays Scrying Pool
+awall - places Silver on top of deck
+Titandrake - places Copper on top of deck
+awall - reveals Silver
+awall - plays Menagerie
+awall - reveals hand: Scrying Pool, Mercenary, Copper, Possession, Urchin, Copper, Silver
+awall - draws Copper
+awall - plays Scrying Pool
+awall - shuffles deck
+awall - discards Potion
+Titandrake - discards Copper
+awall - reveals Copper
+awall - plays Possession
+awall - plays 4 Copper, 1 Silver
+awall - buys Gold
+awall - gains Gold
+awall - draws Copper, Mercenary, Province, Menagerie, Hermit
+ 
+---------- Titandrake: turn 11 [possessed] ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Gold on top of deck
+awall - discards Copper
+Titandrake - reveals Gold
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Potion, Copper, Copper, Gold
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Potion, 1 Gold
+Titandrake - buys Scrying Pool
+awall - gains Scrying Pool
+Titandrake - draws Hermit, Scrying Pool, Province, Mercenary, Urchin
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+awall - shuffles deck
+awall - discards Menagerie
+Titandrake - reveals Scrying Pool, Silver
+Titandrake - plays Urchin
+Titandrake - draws Menagerie
+awall - discards Province
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Hermit, Province, Mercenary, Scrying Pool, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Menagerie, Potion
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Potion, Hermit, Province, Mercenary, Scrying Pool, Silver
+Titandrake - draws Copper, Gold, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+awall - places Copper on top of deck
+Titandrake - reveals Scrying Pool, Copper
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays 4 Copper, 1 Gold, 1 Potion, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Silver, Copper, Potion, Province
+ 
+---------- awall: turn 11 ----------
+awall - plays Menagerie
+awall - reveals hand: Copper, Mercenary, Hermit
+awall - draws Copper, Urchin, Potion
+awall - plays Urchin
+awall - draws Silver
+Titandrake - discards Province
+awall - plays Mercenary
+awall - trashes Hermit, Potion
+awall - draws Scrying Pool, Scrying Pool
+Titandrake - discards Potion
+awall - plays 2 Copper, 1 Silver
+awall - buys Gold
+awall - gains Gold
+awall - draws Possession, Scrying Pool, Copper, Copper, Scrying Pool
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Menagerie on top of deck
+awall - places Copper on top of deck
+Titandrake - reveals Menagerie, Province
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Copper, Province
+Titandrake - draws Silver, Mercenary, Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Copper, Hermit
+awall - discards Copper
+awall - discards Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+awall - gains Curse
+Titandrake - draws Gold, Copper, Scrying Pool, Menagerie, Urchin
+ 
+---------- awall: turn 12 ----------
+awall - plays Scrying Pool
+awall - discards Copper
+Titandrake - places Scrying Pool on top of deck
+awall - reveals Copper
+awall - plays Scrying Pool
+awall - places Menagerie on top of deck
+Titandrake - places Scrying Pool on top of deck
+awall - reveals Menagerie, Gold
+awall - plays Menagerie
+awall - reveals hand: Possession, Copper, Gold
+awall - draws Mercenary
+awall - shuffles deck
+awall - draws Copper, Province
+awall - plays Possession
+awall - plays 2 Copper, 1 Gold
+awall - buys Menagerie
+awall - gains Menagerie
+awall - draws Copper, Urchin, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 13 [possessed] ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Gold, Copper, Scrying Pool, Urchin
+Titandrake - draws Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Mercenary
+Titandrake - plays Scrying Pool
+Titandrake - discards Province
+awall - places Scrying Pool on top of deck
+Titandrake - reveals Silver
+Titandrake - plays Scrying Pool
+Titandrake - discards Potion
+awall - places Scrying Pool on top of deck
+Titandrake - reveals Ill-Gotten Gains
+Titandrake - plays Urchin
+Titandrake - draws Menagerie
+awall - discards Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Hermit, Mercenary, Gold, Copper, Silver, Ill-Gotten Gains
+Titandrake - draws Copper, Scrying Pool, Silver
+Titandrake - plays Scrying Pool
+Titandrake - discards Province
+awall - places Scrying Pool on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Potion
+Titandrake - plays Hermit
+awall - gains Menagerie
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold, 1 Potion
+Titandrake - buys Province
+awall - gains Province
+Titandrake - draws Province, Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Menagerie, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Province, Province, Silver, Copper
+Titandrake - draws Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Province, Province, Silver, Copper
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Scrying Pool, Scrying Pool, Scrying Pool, Copper, Potion
+ 
+---------- awall: turn 13 ----------
+awall - plays Urchin
+awall - draws Scrying Pool
+Titandrake - discards Potion
+awall - plays Scrying Pool
+awall - discards Curse
+Titandrake - places Mercenary on top of deck
+awall - reveals Menagerie, Scrying Pool, Menagerie, Gold
+awall - plays Scrying Pool
+awall - places Mercenary on top of deck
+Titandrake - places Mercenary on top of deck
+awall - reveals Mercenary, Copper
+awall - plays 3 Copper, 1 Silver, 1 Gold
+awall - buys Province
+awall - gains Province
+awall - shuffles deck
+awall - draws Copper, Silver, Province, Scrying Pool, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Mercenary on top of deck
+awall - discards Gold
+Titandrake - reveals Mercenary, Urchin, Ill-Gotten Gains
+Titandrake - plays Scrying Pool
+Titandrake - places Hermit on top of deck
+awall - discards Possession
+Titandrake - reveals Hermit, Gold
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - discards Silver
+awall - discards Menagerie
+Titandrake - reveals Province
+Titandrake - plays Urchin
+Titandrake - draws Menagerie
+awall - discards Province
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Mercenary, Ill-Gotten Gains, Hermit, Gold, Province
+Titandrake - draws Duchy, Menagerie, Silver
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Duchy, Silver, Copper, Mercenary, Ill-Gotten Gains, Hermit, Gold, Province
+Titandrake - draws Potion, Copper, Province
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver, 1 Gold
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Copper, Hermit, Urchin, Gold
+ 
+---------- awall: turn 14 ----------
+awall - plays Scrying Pool
+awall - discards Province
+Titandrake - places Province on top of deck
+awall - reveals Copper
+awall - plays 3 Copper, 1 Silver
+awall - buys Duchy
+awall - gains Duchy
+awall - draws Copper, Menagerie, Curse, Copper, Urchin
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Hermit, Urchin, Gold
+Titandrake - draws Province, Scrying Pool, Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+awall - places Province on top of deck
+Titandrake - reveals Duchy
+Titandrake - plays Scrying Pool
+Titandrake - discards Potion
+awall - places Province on top of deck
+Titandrake - reveals Ill-Gotten Gains
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Farmland
+Titandrake - trashes Urchin
+Titandrake - gains Duchy
+Titandrake - gains Farmland
+Titandrake - draws Copper, Province, Mercenary, Menagerie, Silver
+ 
+---------- awall: turn 15 ----------
+awall - plays Urchin
+awall - draws Province
+Titandrake - discards Province
+awall - plays Menagerie
+awall - reveals hand: Copper, Curse, Copper, Province
+awall - draws Menagerie
+awall - plays Menagerie
+awall - reveals hand: Copper, Curse, Copper, Province
+awall - draws Menagerie
+awall - plays Menagerie
+awall - reveals hand: Copper, Curse, Copper, Province
+awall - draws Menagerie
+awall - plays Menagerie
+awall - reveals hand: Copper, Curse, Copper, Province
+awall - draws Copper
+awall - plays 3 Copper
+awall - buys Menagerie
+awall - gains Menagerie
+awall - draws Mercenary, Scrying Pool, Mercenary, Gold, Scrying Pool
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Mercenary, Silver
+Titandrake - draws Province, Scrying Pool, Silver
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - places Menagerie on top of deck
+awall - discards Scrying Pool
+Titandrake - reveals Menagerie, Duchy
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Province, Silver, Copper, Mercenary, Silver, Duchy
+Titandrake - draws Gold
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Ill-Gotten Gains, Farmland, Copper, Copper, Potion
+ 
+---------- awall: turn 16 ----------
+awall - plays Scrying Pool
+awall - shuffles deck
+awall - discards Province
+Titandrake - discards Scrying Pool
+awall - reveals Copper
+awall - plays Scrying Pool
+awall - discards Province
+Titandrake - places Hermit on top of deck
+awall - reveals Copper
+awall - plays Mercenary
+awall - trashes Mercenary, Copper
+awall - draws Menagerie, Copper
+Titandrake - discards Farmland
+Titandrake - discards Ill-Gotten Gains
+awall - plays Gold
+awall - plays Copper
+awall - buys Farmland
+awall - trashes Menagerie
+awall - gains Duchy
+awall - gains Farmland
+awall - draws Silver, Scrying Pool, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Hermit, Province, Duchy, Province, Estate
+ 
+---------- awall: turn 17 ----------
+awall - plays Scrying Pool
+awall - discards Province
+Titandrake - places Estate on top of deck
+awall - reveals Menagerie, Menagerie, Scrying Pool, Copper
+awall - plays Menagerie
+awall - reveals hand: Silver, Copper, Gold, Copper, Menagerie, Scrying Pool, Copper
+awall - draws Possession
+awall - plays Scrying Pool
+awall - places Menagerie on top of deck
+Titandrake - discards Estate
+awall - reveals Menagerie, Menagerie, Duchy
+awall - plays Menagerie
+awall - reveals hand: Possession, Silver, Copper, Gold, Copper, Menagerie, Copper, Menagerie, Duchy
+awall - draws Menagerie
+awall - plays Menagerie
+awall - reveals hand: Menagerie, Possession, Silver, Copper, Gold, Copper, Menagerie, Copper, Duchy
+awall - draws Urchin
+awall - plays Menagerie
+awall - reveals hand: Urchin, Menagerie, Possession, Silver, Copper, Gold, Copper, Copper, Duchy
+awall - draws Curse
+awall - plays Possession
+awall - plays 3 Copper, 1 Silver, 1 Gold
+awall - buys Farmland
+awall - trashes Urchin
+awall - gains Duchy
+awall - gains Farmland
+awall - shuffles deck
+awall - draws Copper, Scrying Pool, Menagerie, Province, Duchy
+ 
+---------- Titandrake: turn 18 [possessed] ----------
+Titandrake - plays Hermit
+awall - gains Estate
+Titandrake - trashes Hermit
+awall - gains Madman
+Titandrake - draws Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Province, Scrying Pool, Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Menagerie on top of deck
+awall - places Curse on top of deck
+Titandrake - reveals Menagerie, Province
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+awall - places Curse on top of deck
+Titandrake - reveals Ill-Gotten Gains
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+awall - places Curse on top of deck
+Titandrake - reveals Silver
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Province, Estate, Province, Ill-Gotten Gains, Silver
+Titandrake - draws Duchy
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Copper, Mercenary, Menagerie, Silver
+ 
+---------- awall: turn 18 ----------
+awall - plays Menagerie
+awall - reveals hand: Copper, Scrying Pool, Province, Duchy
+awall - draws Curse, Scrying Pool, Duchy
+awall - plays Scrying Pool
+awall - places Menagerie on top of deck
+Titandrake - discards Gold
+awall - reveals Menagerie, Copper
+awall - plays Scrying Pool
+awall - discards Copper
+Titandrake - places Duchy on top of deck
+awall - reveals Province
+awall - plays Menagerie
+awall - reveals hand: Curse, Duchy, Copper, Province, Duchy, Copper, Province
+awall - draws Copper
+awall - plays 3 Copper
+awall - buys Estate
+awall - gains Estate
+awall - draws Scrying Pool, Copper, Mercenary, Farmland, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Province, Copper, Mercenary, Silver
+Titandrake - draws Duchy, Farmland, Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Estate, Province
+awall - discards Farmland
+awall - discards Province
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Potion
+Titandrake - shuffles deck
+Titandrake - draws Province, Province, Province, Estate
+ 
+---------- awall: turn 19 ----------
+awall - plays Scrying Pool
+awall - places Menagerie on top of deck
+Titandrake - places Duchy on top of deck
+awall - reveals Menagerie, Duchy
+awall - plays Menagerie
+awall - reveals hand: Copper, Mercenary, Duchy
+awall - draws Menagerie, Gold, Possession
+awall - plays Menagerie
+awall - reveals hand: Gold, Possession, Copper, Mercenary, Duchy
+awall - draws Gold, Scrying Pool, Silver
+awall - plays Scrying Pool
+awall - places Menagerie on top of deck
+Titandrake - places Duchy on top of deck
+awall - reveals Menagerie, Farmland
+awall - plays Possession
+awall - plays 2 Gold, 1 Silver, 1 Copper
+awall - buys Province
+awall - gains Province
+awall - shuffles deck
+awall - draws Menagerie, Menagerie, Silver, Scrying Pool, Mercenary
+ 
+------------ Game Over ------------
+awall - cards: 5 Menagerie, 4 Scrying Pool, 1 Mercenary, 1 Possession, 1 Madman, 5 Copper, 2 Gold, 1 Silver, 4 Province, 3 Duchy, 2 Farmland, 2 Estate, 1 Curse
+awall - total victory points: 38
+awall - turns: 19
+ 
+Titandrake - cards: 3 Scrying Pool, 2 Menagerie, 1 Hermit, 1 Mercenary, 3 Silver, 1 Potion, 1 Gold, 1 Copper, 1 Ill-Gotten Gains, 4 Province, 4 Estate, 2 Duchy, 1 Farmland
+Titandrake - total victory points: 36
+Titandrake - turns: 19
+ 
+1st place: awall
+2nd place: Titandrake
+ 

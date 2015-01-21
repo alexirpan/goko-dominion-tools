@@ -1,0 +1,556 @@
+------------ Game Setup ------------
+Supply cards: Squire, Tunnel, Village, Cutpurse, Mining Village, Moneylender, Butcher, City, Pillage, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+attrill - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+attrill - shuffles deck
+Titandrake - shuffles deck
+attrill - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- attrill: turn 1 ----------
+attrill - plays 3 Copper
+attrill - buys Silver
+attrill - gains Silver
+attrill - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- attrill: turn 2 ----------
+attrill - plays 4 Copper
+attrill - buys Moneylender
+attrill - gains Moneylender
+attrill - shuffles deck
+attrill - draws Copper, Moneylender, Estate, Silver, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - shuffles deck
+Titandrake - draws Moneylender, Estate, Estate, Copper, Estate
+ 
+---------- attrill: turn 3 ----------
+attrill - plays Moneylender
+attrill - trashes Copper
+attrill - plays 1 Silver
+attrill - buys Butcher
+attrill - gains Butcher
+attrill - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- attrill: turn 4 ----------
+attrill - plays 5 Copper
+attrill - buys Pillage
+attrill - gains Pillage
+attrill - draws Estate, Copper
+attrill - shuffles deck
+attrill - draws Estate, Moneylender, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Butcher
+ 
+---------- attrill: turn 5 ----------
+attrill - plays Moneylender
+attrill - trashes Copper
+attrill - buys Village
+attrill - gains Village
+attrill - draws Copper, Silver, Copper, Butcher, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Pillage
+Titandrake - gains Pillage
+Titandrake - draws Moneylender, Estate, Copper, Copper, Copper
+ 
+---------- attrill: turn 6 ----------
+attrill - plays Butcher
+attrill - receives 2 coin tokens
+attrill - trashes Copper
+attrill - uses 1 coin token
+attrill - uses 1 coin token
+attrill - gains Squire
+attrill - plays 2 Copper, 1 Silver
+attrill - buys Mining Village
+attrill - gains Mining Village
+attrill - draws Copper, Pillage, Copper
+attrill - shuffles deck
+attrill - draws Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Estate, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Moneylender, Copper
+ 
+---------- attrill: turn 7 ----------
+attrill - plays Pillage
+attrill - trashes Pillage
+Titandrake - reveals Estate, Estate, Silver, Moneylender, Copper
+Titandrake - discards Moneylender
+attrill - gains Spoils
+attrill - gains Spoils
+attrill - plays 3 Copper
+attrill - buys Silver
+attrill - gains Silver
+attrill - draws Butcher, Moneylender, Squire, Silver, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- attrill: turn 8 ----------
+attrill - plays Squire
+attrill - takes 2 actions
+attrill - plays Butcher
+attrill - receives 2 coin tokens
+attrill - trashes Estate
+attrill - uses 1 coin token
+attrill - gains Silver
+attrill - plays 1 Silver
+attrill - buys Silver
+attrill - gains Silver
+attrill - draws Village, Estate, Copper, Mining Village
+attrill - shuffles deck
+attrill - draws Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Silver, Butcher, Butcher, Pillage
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- attrill: turn 9 ----------
+attrill - plays Village
+attrill - draws Silver
+attrill - plays Mining Village
+attrill - draws Squire
+attrill - plays Squire
+attrill - gains Silver
+attrill - plays 2 Silver, 1 Copper
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Copper, Spoils, Spoils, Silver, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Pillage
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Platinum
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Village, Copper, Estate, Copper
+ 
+---------- attrill: turn 10 ----------
+attrill - plays 1 Copper, 1 Silver
+attrill - plays Spoils
+attrill - plays Spoils
+attrill - buys Platinum
+attrill - gains Platinum
+attrill - draws Silver, Butcher, Moneylender, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Pillage
+Titandrake - gains Pillage
+Titandrake - draws Mining Village, Estate, Copper, Moneylender, Estate
+ 
+---------- attrill: turn 11 ----------
+attrill - plays Moneylender
+attrill - trashes Copper
+attrill - plays 1 Silver, 1 Copper
+attrill - buys Gold
+attrill - gains Gold
+attrill - shuffles deck
+attrill - draws Squire, Silver, Mining Village, Platinum, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Butcher, Platinum, Copper, Silver, Copper
+ 
+---------- attrill: turn 12 ----------
+attrill - plays Mining Village
+attrill - draws Copper
+attrill - plays Squire
+attrill - gains Silver
+attrill - plays 2 Silver, 1 Platinum, 1 Copper
+attrill - buys Colony
+attrill - gains Colony
+attrill - draws Copper, Gold, Village, Moneylender, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - plays 2 Copper, 1 Platinum, 1 Silver
+Titandrake - uses 2 coin tokens
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Butcher, Copper, Copper, Estate, Village
+ 
+---------- attrill: turn 13 ----------
+attrill - plays Village
+attrill - draws Estate
+attrill - plays Moneylender
+attrill - trashes Copper
+attrill - plays 1 Gold, 1 Silver
+attrill - uses 1 coin token
+attrill - buys Platinum
+attrill - gains Platinum
+attrill - draws Gold, Silver, Butcher, Estate, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Village
+Titandrake - draws Pillage
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+attrill - reveals Gold, Silver, Butcher, Estate, Silver
+attrill - discards Butcher
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Estate
+Titandrake - gains Squire
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Squire, Copper, Estate, Platinum, Spoils
+ 
+---------- attrill: turn 14 ----------
+attrill - plays 2 Silver, 1 Gold
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Copper
+attrill - shuffles deck
+attrill - draws Silver, Silver, Silver, Butcher
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Platinum
+Titandrake - plays Spoils
+Titandrake - uses 1 coin token
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Butcher, Butcher, Spoils, Silver
+ 
+---------- attrill: turn 15 ----------
+attrill - plays Butcher
+attrill - receives 2 coin tokens
+attrill - trashes Copper
+attrill - uses 1 coin token
+attrill - uses 1 coin token
+attrill - gains Squire
+attrill - plays 3 Silver
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Platinum, Silver, Village, Copper, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Butcher
+Titandrake - gains Pillage
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Mining Village, Colony, Silver, Copper, Village
+ 
+---------- attrill: turn 16 ----------
+attrill - plays Village
+attrill - draws Moneylender
+attrill - plays Moneylender
+attrill - trashes Copper
+attrill - plays 1 Platinum, 1 Silver, 1 Gold
+attrill - buys Colony
+attrill - gains Colony
+attrill - draws Gold, Mining Village, Silver, Platinum, Squire
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - trashes Mining Village
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Estate, Moneylender, Village
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- attrill: turn 17 ----------
+attrill - plays Mining Village
+attrill - draws Gold
+attrill - plays Squire
+attrill - gains Silver
+attrill - plays 2 Gold, 1 Silver, 1 Platinum
+attrill - buys Colony
+attrill - gains Colony
+attrill - draws Estate, Estate, Silver, Colony
+attrill - shuffles deck
+attrill - draws Platinum
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Copper, Pillage, Colony
+ 
+---------- attrill: turn 18 ----------
+attrill - plays 1 Silver, 1 Platinum
+attrill - buys Pillage
+attrill - gains Pillage
+attrill - draws Silver, Squire, Gold, Silver, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+attrill - reveals Silver, Squire, Gold, Silver, Silver
+attrill - discards Gold
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Platinum, Copper, Province, Colony, Estate
+ 
+---------- attrill: turn 19 ----------
+attrill - plays Squire
+attrill - gains Silver
+attrill - plays 3 Silver
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Gold, Gold, Silver, Village, Butcher
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 1 Platinum, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Village, Silver, Silver, Squire, Copper
+ 
+---------- attrill: turn 20 ----------
+attrill - plays Village
+attrill - draws Squire
+attrill - plays Squire
+attrill - takes 2 actions
+attrill - plays Butcher
+attrill - receives 2 coin tokens
+attrill - trashes Gold
+attrill - uses 1 coin token
+attrill - uses 1 coin token
+attrill - gains Province
+attrill - plays 1 Gold, 1 Silver
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Mining Village, Colony, Moneylender, Silver, Colony
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Village
+Titandrake - draws Butcher
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Squire
+Titandrake - gains Cutpurse
+Titandrake - gains Squire
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Village, Spoils, Estate, Colony, Estate
+ 
+---------- attrill: turn 21 ----------
+attrill - plays Mining Village
+attrill - draws Gold
+attrill - plays 1 Silver, 1 Gold
+attrill - buys Pillage
+attrill - gains Pillage
+attrill - draws Silver, Platinum
+attrill - shuffles deck
+attrill - draws Pillage, Silver, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Village
+Titandrake - draws Province
+Titandrake - draws Silver, Duchy, Spoils, Squire, Platinum
+ 
+---------- attrill: turn 22 ----------
+attrill - plays Pillage
+attrill - trashes Pillage
+Titandrake - reveals Silver, Duchy, Spoils, Squire, Platinum
+Titandrake - discards Platinum
+attrill - gains Spoils
+attrill - gains Spoils
+attrill - plays 3 Silver, 1 Platinum
+attrill - buys Colony
+attrill - gains Colony
+attrill - draws Gold, Silver, Colony, Estate, Colony
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Colony, Copper, Gold, Village
+ 
+---------- attrill: turn 23 ----------
+attrill - plays 1 Gold, 1 Silver
+attrill - buys Duchy
+attrill - gains Duchy
+attrill - draws Silver, Province, Silver, Village, Gold
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Village
+Titandrake - draws Cutpurse
+Titandrake - plays Cutpurse
+attrill - reveals Silver, Province, Silver, Village, Gold
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Copper, Gold, Butcher, Silver
+ 
+---------- attrill: turn 24 ----------
+attrill - plays Village
+attrill - draws Silver
+attrill - plays 3 Silver, 1 Gold
+attrill - buys Province
+attrill - gains Province
+attrill - draws Colony, Gold, Butcher, Mining Village, Squire
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Province
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Colony
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Moneylender, Copper, Copper, Silver
+ 
+---------- attrill: turn 25 ----------
+attrill - plays Mining Village
+attrill - draws Gold
+attrill - trashes Mining Village
+attrill - plays Squire
+attrill - gains Silver
+attrill - plays Butcher
+attrill - receives 2 coin tokens
+attrill - trashes Gold
+attrill - uses 1 coin token
+attrill - uses 1 coin token
+attrill - gains Province
+attrill - plays 1 Gold
+attrill - buys Duchy
+attrill - gains Duchy
+attrill - draws Moneylender, Gold, Pillage, Squire, Silver
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Province, Spoils, Silver, Squire
+ 
+---------- attrill: turn 26 ----------
+attrill - plays Squire
+attrill - takes 2 actions
+attrill - plays Pillage
+attrill - trashes Pillage
+Titandrake - reveals Silver, Province, Spoils, Silver, Squire
+Titandrake - discards Spoils
+attrill - gains Spoils
+attrill - gains Spoils
+attrill - plays 1 Gold, 1 Silver
+attrill - buys Duchy
+attrill - gains Duchy
+attrill - draws Estate, Platinum
+attrill - shuffles deck
+attrill - draws Village, Moneylender, Squire
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Village, Copper, Moneylender, Village, Duchy
+ 
+---------- attrill: turn 27 ----------
+attrill - plays Village
+attrill - draws Silver
+attrill - plays Squire
+attrill - gains Silver
+attrill - plays 1 Platinum, 1 Silver
+attrill - buys Province
+attrill - gains Province
+attrill - draws Butcher, Province, Spoils, Province, Spoils
+ 
+------------ Game Over ------------
+attrill - cards: 2 Squire, 1 Butcher, 10 Silver, 1 Village, 1 Moneylender, 4 Spoils, 4 Gold, 2 Platinum, 4 Province, 4 Colony, 3 Duchy, 2 Estate
+attrill - total victory points: 75
+attrill - turns: 27
+ 
+Titandrake - cards: 2 Village, 1 Moneylender, 1 Squire, 1 Butcher, 1 Cutpurse, 7 Silver, 3 Copper, 3 Gold, 1 Spoils, 1 Platinum, 4 Duchy, 3 Province, 3 Colony, 2 Estate
+Titandrake - total victory points: 62
+Titandrake - turns: 26
+ 
+1st place: attrill
+2nd place: Titandrake
+ 

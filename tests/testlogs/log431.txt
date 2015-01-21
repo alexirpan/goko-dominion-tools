@@ -1,0 +1,675 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Forager, Shanty Town, Advisor, Coppersmith, Monument, Pirate Ship, Graverobber, Wharf, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+charlietuna - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+charlietuna - shuffles deck
+Titandrake - shuffles deck
+charlietuna - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- charlietuna: turn 1 ----------
+charlietuna - plays 3 Copper
+charlietuna - buys Forager
+charlietuna - gains Forager
+charlietuna - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- charlietuna: turn 2 ----------
+charlietuna - plays 4 Copper
+charlietuna - buys Monument
+charlietuna - gains Monument
+charlietuna - shuffles deck
+charlietuna - draws Monument, Copper, Forager, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - shuffles deck
+Titandrake - draws Estate, Forager, Copper, Copper, Copper
+ 
+---------- charlietuna: turn 3 ----------
+charlietuna - plays Forager
+charlietuna - trashes Copper
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays 2 Copper
+charlietuna - buys Wharf
+charlietuna - gains Wharf
+charlietuna - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Monument, Estate, Copper
+ 
+---------- charlietuna: turn 4 ----------
+charlietuna - plays 3 Copper
+charlietuna - buys Shanty Town
+charlietuna - gains Shanty Town
+charlietuna - draws Estate, Copper
+charlietuna - shuffles deck
+charlietuna - draws Estate, Monument, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 3 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver
+ 
+---------- charlietuna: turn 5 ----------
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays 2 Copper
+charlietuna - buys Shanty Town
+charlietuna - gains Shanty Town
+charlietuna - draws Wharf, Copper, Forager, Shanty Town, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Forager, Copper, Copper, Copper
+ 
+---------- charlietuna: turn 6 ----------
+charlietuna - plays Shanty Town
+charlietuna - reveals Wharf, Copper, Forager, Copper
+charlietuna - plays Wharf
+charlietuna - draws Copper, Copper
+charlietuna - plays Forager
+charlietuna - trashes Copper
+charlietuna - plays 3 Copper
+charlietuna - buys Shanty Town
+charlietuna - gains Shanty Town
+charlietuna - draws Estate
+charlietuna - shuffles deck
+charlietuna - draws Monument, Forager, Shanty Town, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - draws Copper, Wharf, Monument
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- charlietuna: turn 7 ----------
+charlietuna - duration Wharf
+charlietuna - draws Copper, Estate
+charlietuna - plays Forager
+charlietuna - trashes Estate
+charlietuna - plays Shanty Town
+charlietuna - reveals Estate, Monument, Copper, Copper
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays 2 Copper
+charlietuna - buys Wharf
+charlietuna - gains Wharf
+charlietuna - draws Shanty Town, Copper, Copper, Shanty Town, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Wharf
+Titandrake - draws Shanty Town, Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Wharf, Copper, Copper
+ 
+---------- charlietuna: turn 8 ----------
+charlietuna - plays Shanty Town
+charlietuna - reveals Copper, Copper, Shanty Town, Estate
+charlietuna - plays Shanty Town
+charlietuna - reveals Copper, Copper, Estate
+charlietuna - draws Copper
+charlietuna - shuffles deck
+charlietuna - draws Monument
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays 3 Copper
+charlietuna - buys Wharf
+charlietuna - gains Wharf
+charlietuna - draws Copper, Estate, Shanty Town, Copper, Wharf
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Forager
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Copper, Silver, Shanty Town, Monument
+ 
+---------- charlietuna: turn 9 ----------
+charlietuna - plays Shanty Town
+charlietuna - reveals Copper, Estate, Copper, Wharf
+charlietuna - plays Wharf
+charlietuna - draws Wharf, Forager
+charlietuna - plays Forager
+charlietuna - trashes Estate
+charlietuna - plays Wharf
+charlietuna - shuffles deck
+charlietuna - draws Copper, Copper
+charlietuna - plays 4 Copper
+charlietuna - buys Wharf
+charlietuna - gains Wharf
+charlietuna - draws Copper, Shanty Town, Estate, Wharf, Shanty Town
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Silver, Wharf
+Titandrake - plays Shanty Town
+Titandrake - reveals Estate, Copper, Silver, Monument, Silver, Wharf
+Titandrake - plays Wharf
+Titandrake - draws Forager, Copper
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Gold, Copper, Copper
+ 
+---------- charlietuna: turn 10 ----------
+charlietuna - duration Wharf
+charlietuna - draws Monument
+charlietuna - shuffles deck
+charlietuna - draws Shanty Town
+charlietuna - duration Wharf
+charlietuna - draws Copper, Forager
+charlietuna - plays Shanty Town
+charlietuna - reveals Copper, Shanty Town, Estate, Wharf, Shanty Town, Monument, Copper, Forager
+charlietuna - plays Wharf
+charlietuna - draws Copper, Wharf
+charlietuna - plays Shanty Town
+charlietuna - reveals Copper, Shanty Town, Estate, Monument, Copper, Forager, Copper, Wharf
+charlietuna - plays Wharf
+charlietuna - draws Copper, Copper
+charlietuna - plays Shanty Town
+charlietuna - reveals Copper, Estate, Monument, Copper, Forager, Copper, Copper, Copper
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays Forager
+charlietuna - trashes Estate
+charlietuna - plays 5 Copper
+charlietuna - buys Gold
+charlietuna - gains Gold
+charlietuna - buys Duchess
+charlietuna - gains Duchess
+charlietuna - shuffles deck
+charlietuna - draws Copper, Wharf, Copper, Monument, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Monument, Copper
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 5 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Shanty Town, Gold, Copper, Forager, Silver
+ 
+---------- charlietuna: turn 11 ----------
+charlietuna - duration Wharf
+charlietuna - draws Wharf, Shanty Town
+charlietuna - duration Wharf
+charlietuna - draws Copper, Gold
+charlietuna - plays Shanty Town
+charlietuna - reveals Copper, Wharf, Copper, Monument, Copper, Wharf, Copper, Gold
+charlietuna - plays Wharf
+charlietuna - draws Duchess, Forager
+charlietuna - plays Forager
+charlietuna - trashes Duchess
+charlietuna - plays Wharf
+charlietuna - draws Shanty Town, Copper
+charlietuna - plays 5 Copper, 1 Gold
+charlietuna - buys Province
+charlietuna - gains Province
+charlietuna - draws Shanty Town
+charlietuna - shuffles deck
+charlietuna - draws Gold, Wharf, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Shanty Town
+Titandrake - reveals Gold, Silver
+Titandrake - draws Silver, Wharf
+Titandrake - plays Wharf
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Monument
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Province, Gold, Copper
+ 
+---------- charlietuna: turn 12 ----------
+charlietuna - duration Wharf
+charlietuna - draws Province, Wharf
+charlietuna - duration Wharf
+charlietuna - draws Copper, Copper
+charlietuna - plays Shanty Town
+charlietuna - reveals Gold, Wharf, Copper, Copper, Province, Wharf, Copper, Copper
+charlietuna - plays Wharf
+charlietuna - draws Shanty Town, Copper
+charlietuna - plays Shanty Town
+charlietuna - reveals Gold, Copper, Copper, Province, Wharf, Copper, Copper, Copper
+charlietuna - plays Wharf
+charlietuna - draws Forager, Shanty Town
+charlietuna - plays Forager
+charlietuna - trashes Copper
+charlietuna - plays Shanty Town
+charlietuna - reveals Gold, Copper, Copper, Province, Copper, Copper
+charlietuna - draws Monument
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays 4 Copper, 1 Gold
+charlietuna - buys Province
+charlietuna - gains Province
+charlietuna - buys Duchess
+charlietuna - gains Duchess
+charlietuna - shuffles deck
+charlietuna - draws Wharf, Shanty Town, Province, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 5 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Wharf
+Titandrake - shuffles deck
+Titandrake - draws Silver, Shanty Town, Silver, Silver
+ 
+---------- charlietuna: turn 13 ----------
+charlietuna - duration Wharf
+charlietuna - draws Duchess, Forager
+charlietuna - duration Wharf
+charlietuna - draws Shanty Town, Shanty Town
+charlietuna - plays Shanty Town
+charlietuna - reveals Wharf, Province, Copper, Copper, Duchess, Forager, Shanty Town, Shanty Town
+charlietuna - plays Wharf
+charlietuna - draws Monument, Wharf
+charlietuna - plays Shanty Town
+charlietuna - reveals Province, Copper, Copper, Duchess, Forager, Shanty Town, Monument, Wharf
+charlietuna - plays Wharf
+charlietuna - draws Gold, Copper
+charlietuna - plays Shanty Town
+charlietuna - reveals Province, Copper, Copper, Duchess, Forager, Monument, Gold, Copper
+charlietuna - plays Forager
+charlietuna - trashes Copper
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays Duchess
+charlietuna - discards Copper
+Titandrake - places Gold on top of deck
+charlietuna - plays 2 Copper, 1 Gold
+charlietuna - buys Province
+charlietuna - gains Province
+charlietuna - buys Estate
+charlietuna - gains Estate
+charlietuna - draws Province
+charlietuna - shuffles deck
+charlietuna - draws Shanty Town, Shanty Town, Wharf, Duchess
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Wharf, Silver, Silver, Silver
+Titandrake - plays Wharf
+Titandrake - draws Gold, Forager
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Province, Silver, Copper, Copper
+ 
+---------- charlietuna: turn 14 ----------
+charlietuna - duration Wharf
+charlietuna - draws Shanty Town, Province
+charlietuna - duration Wharf
+charlietuna - draws Forager, Monument
+charlietuna - plays Shanty Town
+charlietuna - reveals Province, Shanty Town, Wharf, Duchess, Shanty Town, Province, Forager, Monument
+charlietuna - plays Wharf
+charlietuna - draws Copper, Gold
+charlietuna - plays Shanty Town
+charlietuna - reveals Province, Shanty Town, Duchess, Province, Forager, Monument, Copper, Gold
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays Forager
+charlietuna - trashes Duchess
+charlietuna - plays Shanty Town
+charlietuna - reveals Province, Province, Copper, Gold
+charlietuna - draws Estate, Province
+charlietuna - plays 1 Copper, 1 Gold
+charlietuna - buys Fairgrounds
+charlietuna - gains Fairgrounds
+charlietuna - draws Copper, Copper, Wharf
+charlietuna - shuffles deck
+charlietuna - draws Province, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws Monument, Copper
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Copper, Province, Wharf, Gold
+ 
+---------- charlietuna: turn 15 ----------
+charlietuna - duration Wharf
+charlietuna - draws Forager, Shanty Town
+charlietuna - plays Shanty Town
+charlietuna - reveals Copper, Copper, Wharf, Province, Copper, Forager
+charlietuna - plays Wharf
+charlietuna - draws Wharf, Wharf
+charlietuna - plays Forager
+charlietuna - trashes Copper
+charlietuna - plays Wharf
+charlietuna - draws Fairgrounds, Monument
+charlietuna - plays 2 Copper
+charlietuna - buys Silver
+charlietuna - gains Silver
+charlietuna - draws Gold, Province, Shanty Town, Estate, Shanty Town
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Estate, Copper, Monument, Province, Silver
+ 
+---------- charlietuna: turn 16 ----------
+charlietuna - duration Wharf
+charlietuna - draws Province
+charlietuna - shuffles deck
+charlietuna - draws Wharf
+charlietuna - duration Wharf
+charlietuna - draws Province, Fairgrounds
+charlietuna - plays Shanty Town
+charlietuna - reveals Gold, Province, Estate, Shanty Town, Province, Wharf, Province, Fairgrounds
+charlietuna - plays Wharf
+charlietuna - draws Silver, Copper
+charlietuna - plays Shanty Town
+charlietuna - reveals Gold, Province, Estate, Province, Province, Fairgrounds, Silver, Copper
+charlietuna - draws Copper, Monument
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays 2 Copper, 1 Gold, 1 Silver
+charlietuna - buys Duchy
+charlietuna - gains Duchy
+charlietuna - gains Duchess
+charlietuna - buys Advisor
+charlietuna - gains Advisor
+charlietuna - draws Forager, Shanty Town, Wharf
+charlietuna - shuffles deck
+charlietuna - draws Silver, Duchess
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Forager
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Wharf, Estate, Shanty Town, Copper, Gold
+ 
+---------- charlietuna: turn 17 ----------
+charlietuna - duration Wharf
+charlietuna - draws Province, Shanty Town
+charlietuna - plays Shanty Town
+charlietuna - reveals Forager, Wharf, Silver, Duchess, Province, Shanty Town
+charlietuna - plays Wharf
+charlietuna - draws Province, Shanty Town
+charlietuna - plays Shanty Town
+charlietuna - reveals Forager, Silver, Duchess, Province, Province, Shanty Town
+charlietuna - plays Forager
+charlietuna - trashes Duchess
+charlietuna - plays Shanty Town
+charlietuna - reveals Silver, Province, Province
+charlietuna - draws Gold, Wharf
+charlietuna - plays Wharf
+charlietuna - draws Province, Copper
+charlietuna - plays 1 Gold, 1 Silver, 1 Copper
+charlietuna - buys Fairgrounds
+charlietuna - gains Fairgrounds
+charlietuna - draws Monument, Duchy, Estate, Fairgrounds, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Wharf, Estate, Copper, Gold
+Titandrake - plays Wharf
+Titandrake - draws Fairgrounds, Fairgrounds
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Duchess
+Titandrake - gains Duchess
+Titandrake - draws Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Monument
+ 
+---------- charlietuna: turn 18 ----------
+charlietuna - duration Wharf
+charlietuna - draws Advisor, Wharf
+charlietuna - duration Wharf
+charlietuna - shuffles deck
+charlietuna - draws Province, Wharf
+charlietuna - plays Advisor
+charlietuna - reveals: Fairgrounds, Shanty Town, Province
+Titandrake - discards Shanty Town
+charlietuna - places cards in hand:  Fairgrounds, Province
+charlietuna - plays Wharf
+charlietuna - draws Forager, Province
+charlietuna - plays 1 Copper
+charlietuna - buys Copper
+charlietuna - gains Copper
+charlietuna - draws Silver, Shanty Town, Gold, Copper, Shanty Town
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Fairgrounds
+Titandrake - plays Wharf
+Titandrake - draws Silver, Fairgrounds
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Estate, Copper, Estate, Fairgrounds, Fairgrounds
+ 
+---------- charlietuna: turn 19 ----------
+charlietuna - duration Wharf
+charlietuna - shuffles deck
+charlietuna - draws Wharf, Province
+charlietuna - plays Shanty Town
+charlietuna - reveals Silver, Gold, Copper, Shanty Town, Wharf, Province
+charlietuna - plays Wharf
+charlietuna - draws Fairgrounds, Province
+charlietuna - plays Shanty Town
+charlietuna - reveals Silver, Gold, Copper, Province, Fairgrounds, Province
+charlietuna - draws Fairgrounds, Monument
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays 1 Silver, 1 Gold, 1 Copper
+charlietuna - buys Province
+charlietuna - gains Province
+charlietuna - draws Wharf, Copper, Advisor, Estate, Wharf
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Wharf
+Titandrake - draws Gold, Shanty Town
+Titandrake - plays Shanty Town
+Titandrake - reveals Estate, Copper, Estate, Fairgrounds, Fairgrounds, Gold
+Titandrake - draws Province, Silver
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Copper, Province, Gold, Province, Copper
+ 
+---------- charlietuna: turn 20 ----------
+charlietuna - duration Wharf
+charlietuna - draws Copper, Province
+charlietuna - plays Advisor
+charlietuna - reveals: Forager, Shanty Town, Duchy
+Titandrake - discards Forager
+charlietuna - places cards in hand:  Shanty Town, Duchy
+charlietuna - plays Shanty Town
+charlietuna - reveals Wharf, Copper, Estate, Wharf, Copper, Province, Duchy
+charlietuna - plays Wharf
+charlietuna - shuffles deck
+charlietuna - draws Shanty Town, Wharf
+charlietuna - plays Shanty Town
+charlietuna - reveals Wharf, Copper, Estate, Copper, Province, Duchy, Wharf
+charlietuna - plays Wharf
+charlietuna - draws Province, Monument
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays 2 Copper
+charlietuna - buys Pirate Ship
+charlietuna - gains Pirate Ship
+charlietuna - draws Forager, Gold, Province, Shanty Town, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - gains Duchess
+Titandrake - draws Duchess, Forager
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Monument
+ 
+---------- charlietuna: turn 21 ----------
+charlietuna - duration Wharf
+charlietuna - draws Copper, Fairgrounds
+charlietuna - duration Wharf
+charlietuna - draws Fairgrounds, Province
+charlietuna - plays Forager
+charlietuna - trashes Copper
+charlietuna - plays Shanty Town
+charlietuna - reveals Gold, Province, Silver, Fairgrounds, Fairgrounds, Province
+charlietuna - shuffles deck
+charlietuna - draws Advisor, Province
+charlietuna - plays Advisor
+charlietuna - reveals: Shanty Town, Wharf, Shanty Town
+Titandrake - discards Wharf
+charlietuna - places cards in hand:  Shanty Town, Shanty Town
+charlietuna - plays Shanty Town
+charlietuna - reveals Province, Gold, Province, Silver, Fairgrounds, Fairgrounds, Province, Shanty Town
+charlietuna - plays Shanty Town
+charlietuna - reveals Province, Gold, Province, Silver, Fairgrounds, Fairgrounds, Province
+charlietuna - draws Duchy, Copper
+charlietuna - plays 1 Copper, 1 Gold, 1 Silver
+charlietuna - buys Duchy
+charlietuna - gains Duchy
+charlietuna - gains Duchess
+charlietuna - buys Estate
+charlietuna - gains Estate
+charlietuna - draws Province, Estate, Monument, Copper, Wharf
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - gains Duchess
+Titandrake - draws Fairgrounds, Copper, Duchess, Province, Wharf
+ 
+---------- charlietuna: turn 22 ----------
+charlietuna - plays Monument
+charlietuna - receives 1 victory point chips
+charlietuna - plays Copper
+charlietuna - buys Estate
+charlietuna - gains Estate
+charlietuna - draws Pirate Ship
+charlietuna - shuffles deck
+charlietuna - draws Wharf, Shanty Town, Wharf, Wharf
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Wharf
+Titandrake - draws Gold, Estate
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Shanty Town, Silver, Estate, Wharf
+ 
+---------- charlietuna: turn 23 ----------
+charlietuna - plays Shanty Town
+charlietuna - reveals Pirate Ship, Wharf, Wharf, Wharf
+charlietuna - plays Wharf
+charlietuna - draws Estate, Province
+charlietuna - plays Wharf
+charlietuna - draws Gold, Silver
+charlietuna - plays 1 Gold, 1 Silver
+charlietuna - buys Duchy
+charlietuna - gains Duchy
+charlietuna - gains Duchess
+charlietuna - draws Fairgrounds, Copper, Fairgrounds, Shanty Town, Province
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays Shanty Town
+Titandrake - reveals Silver, Silver, Estate, Wharf, Estate, Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Fairgrounds
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Duchess
+Titandrake - gains Duchess
+Titandrake - buys Duchess
+Titandrake - gains Duchess
+Titandrake - draws Copper, Silver, Fairgrounds, Fairgrounds, Fairgrounds
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Duchess, 2 Wharf, 1 Monument, 1 Forager, 1 Shanty Town, 4 Copper, 4 Silver, 2 Gold, 6 Fairgrounds, 5 Estate, 3 Province, 2 Duchy
+Titandrake - victory point chips: 7
+Titandrake - total victory points: 60
+Titandrake - turns: 23
+ 
+charlietuna - cards: 4 Wharf, 3 Shanty Town, 2 Duchess, 1 Pirate Ship, 1 Advisor, 1 Forager, 1 Monument, 2 Copper, 1 Gold, 1 Silver, 4 Province, 3 Duchy, 3 Estate, 2 Fairgrounds
+charlietuna - victory point chips: 12
+charlietuna - total victory points: 56
+charlietuna - turns: 23
+ 
+1st place: Titandrake
+2nd place: charlietuna
+ 

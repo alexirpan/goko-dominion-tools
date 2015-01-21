@@ -1,0 +1,509 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Urchin, Village, Workshop, Coppersmith, Scout, Festival, Highway, Merchant Guild, Mint, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+moharimo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+moharimo - shuffles deck
+Titandrake - shuffles deck
+moharimo - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- moharimo: turn 1 ----------
+moharimo - plays 4 Copper
+moharimo - buys Urchin
+moharimo - gains Urchin
+moharimo - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - shuffles deck
+Titandrake - draws Copper, Workshop, Urchin, Estate, Copper
+ 
+---------- moharimo: turn 2 ----------
+moharimo - plays 3 Copper
+moharimo - buys Urchin
+moharimo - gains Urchin
+moharimo - shuffles deck
+moharimo - draws Copper, Urchin, Estate, Urchin, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+moharimo - discards Estate
+Titandrake - plays Workshop
+Titandrake - gains Urchin
+Titandrake - plays 3 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- moharimo: turn 3 ----------
+moharimo - plays Urchin
+moharimo - draws Copper
+Titandrake - discards Estate
+moharimo - plays Urchin
+moharimo - trashes Urchin
+moharimo - gains Mercenary
+moharimo - draws Copper
+moharimo - plays 4 Copper
+moharimo - buys Workshop
+moharimo - gains Workshop
+moharimo - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Workshop
+ 
+---------- moharimo: turn 4 ----------
+moharimo - plays 3 Copper
+moharimo - buys Village
+moharimo - gains Village
+moharimo - shuffles deck
+moharimo - draws Copper, Village, Urchin, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Workshop
+Titandrake - gains Urchin
+Titandrake - draws Silver, Urchin, Copper, Estate, Urchin
+ 
+---------- moharimo: turn 5 ----------
+moharimo - plays Village
+moharimo - draws Mercenary
+moharimo - plays Urchin
+moharimo - draws Copper
+Titandrake - discards Estate
+moharimo - plays Mercenary
+moharimo - trashes Urchin
+moharimo - gains Mercenary
+moharimo - trashes Copper, Copper
+moharimo - draws Estate, Estate
+Titandrake - discards Copper
+moharimo - plays 2 Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - draws Copper, Copper, Estate, Copper, Workshop
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+moharimo - discards Estate
+Titandrake - plays Urchin
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Village, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Urchin
+ 
+---------- moharimo: turn 6 ----------
+moharimo - plays Workshop
+moharimo - gains Village
+moharimo - plays 3 Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - shuffles deck
+moharimo - draws Copper, Estate, Village, Copper, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Village
+Titandrake - draws Mercenary
+Titandrake - plays Urchin
+Titandrake - draws Village
+moharimo - discards Estate
+Titandrake - plays Village
+Titandrake - draws Workshop
+Titandrake - plays Mercenary
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Copper, Silver
+moharimo - discards Silver
+Titandrake - plays Workshop
+Titandrake - gains Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Merchant Guild
+Titandrake - gains Merchant Guild
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- moharimo: turn 7 ----------
+moharimo - plays Village
+moharimo - draws Copper
+moharimo - plays 3 Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - draws Workshop, Village, Mercenary, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - draws Copper, Urchin
+Titandrake - shuffles deck
+Titandrake - draws Copper, Merchant Guild, Village
+ 
+---------- moharimo: turn 8 ----------
+moharimo - plays Village
+moharimo - draws Estate
+moharimo - plays Mercenary
+moharimo - trashes Estate, Estate
+moharimo - draws Mercenary, Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+moharimo - plays Workshop
+moharimo - gains Village
+moharimo - plays 1 Copper, 1 Silver
+moharimo - buys Highway
+moharimo - gains Highway
+moharimo - draws Copper
+moharimo - shuffles deck
+moharimo - draws Silver, Highway, Mercenary, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays Urchin
+Titandrake - draws Copper
+moharimo - discards Silver
+Titandrake - plays Merchant Guild
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Village
+Titandrake - receives 1 coin token
+Titandrake - gains Village
+Titandrake - buys Copper
+Titandrake - receives 1 coin token
+Titandrake - gains Copper
+Titandrake - draws Village, Copper, Copper, Estate, Estate
+ 
+---------- moharimo: turn 9 ----------
+moharimo - plays Highway
+moharimo - draws Workshop
+moharimo - plays Mercenary
+moharimo - trashes Copper, Copper
+moharimo - draws Mercenary, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+moharimo - plays Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - draws Silver, Silver, Copper, Village, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Village
+Titandrake - draws Mercenary
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Workshop, Estate
+moharimo - discards Copper
+moharimo - discards Village
+Titandrake - plays Workshop
+Titandrake - gains Village
+Titandrake - draws Village, Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Copper, Village, Estate
+ 
+---------- moharimo: turn 10 ----------
+moharimo - plays 2 Silver, 1 Copper
+moharimo - buys Highway
+moharimo - gains Highway
+moharimo - draws Estate, Village, Village
+moharimo - shuffles deck
+moharimo - draws Workshop, Mercenary
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Village
+Titandrake - draws Workshop
+Titandrake - plays Village
+Titandrake - draws Merchant Guild
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Estate
+moharimo - discards Village
+moharimo - discards Workshop
+Titandrake - plays Merchant Guild
+Titandrake - plays Workshop
+Titandrake - gains Village
+Titandrake - plays Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Highway
+Titandrake - receives 1 coin token
+Titandrake - gains Highway
+Titandrake - draws Estate, Mercenary, Village, Urchin, Village
+ 
+---------- moharimo: turn 11 ----------
+moharimo - plays Village
+moharimo - draws Highway
+moharimo - plays Highway
+moharimo - draws Village
+moharimo - plays Village
+moharimo - draws Highway
+moharimo - plays Highway
+moharimo - draws Mercenary
+moharimo - plays Mercenary
+moharimo - trashes Estate, Mercenary
+moharimo - draws Silver, Silver
+Titandrake - discards Urchin
+Titandrake - discards Village
+moharimo - plays 2 Silver
+moharimo - buys Merchant Guild
+moharimo - gains Merchant Guild
+moharimo - draws Copper, Silver, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Silver
+moharimo - discards Copper
+moharimo - discards Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - shuffles deck
+Titandrake - draws Village, Copper, Mercenary, Estate, Village
+ 
+---------- moharimo: turn 12 ----------
+moharimo - plays 2 Silver, 1 Copper
+moharimo - buys Highway
+moharimo - gains Highway
+moharimo - shuffles deck
+moharimo - draws Silver, Copper, Village, Village, Merchant Guild
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Village
+Titandrake - draws Highway
+Titandrake - plays Village
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Village
+Titandrake - plays Highway
+Titandrake - draws Mercenary
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Mercenary
+Titandrake - draws Village, Merchant Guild
+moharimo - discards Copper
+moharimo - discards Village
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Workshop
+Titandrake - plays Merchant Guild
+Titandrake - plays Workshop
+Titandrake - gains Highway
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Highway
+Titandrake - receives 1 coin token
+Titandrake - gains Highway
+Titandrake - buys Highway
+Titandrake - receives 1 coin token
+Titandrake - gains Highway
+Titandrake - draws Silver, Urchin, Village
+Titandrake - shuffles deck
+Titandrake - draws Highway, Copper
+ 
+---------- moharimo: turn 13 ----------
+moharimo - plays Village
+moharimo - draws Silver
+moharimo - plays Merchant Guild
+moharimo - plays 2 Silver
+moharimo - buys Highway
+moharimo - receives 1 coin token
+moharimo - gains Highway
+moharimo - buys Copper
+moharimo - receives 1 coin token
+moharimo - gains Copper
+moharimo - draws Silver, Copper, Copper, Mercenary, Workshop
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Village
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Village
+Titandrake - plays Highway
+Titandrake - draws Merchant Guild
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Urchin
+Titandrake - draws Highway
+moharimo - discards Workshop
+Titandrake - plays Highway
+Titandrake - draws Workshop
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Workshop
+Titandrake - gains Province
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - receives 1 coin token
+Titandrake - gains Province
+Titandrake - buys Merchant Guild
+Titandrake - receives 1 coin token
+Titandrake - gains Merchant Guild
+Titandrake - draws Village, Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Copper, Highway, Village
+ 
+---------- moharimo: turn 14 ----------
+moharimo - plays Mercenary
+moharimo - trashes Copper, Copper
+moharimo - draws Silver, Highway
+Titandrake - discards Copper
+Titandrake - discards Mercenary
+moharimo - plays 2 Silver
+moharimo - buys Highway
+moharimo - gains Highway
+moharimo - draws Highway, Highway, Village
+moharimo - shuffles deck
+moharimo - draws Copper, Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays Highway
+Titandrake - draws Province
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - uses 4 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Highway, Village, Village, Merchant Guild, Merchant Guild
+ 
+---------- moharimo: turn 15 ----------
+moharimo - plays Village
+moharimo - draws Silver
+moharimo - plays Village
+moharimo - draws Copper
+moharimo - plays Highway
+moharimo - draws Merchant Guild
+moharimo - plays Highway
+moharimo - draws Silver
+moharimo - plays Merchant Guild
+moharimo - plays 2 Copper, 2 Silver
+moharimo - uses 2 coin tokens
+moharimo - buys Province
+moharimo - receives 1 coin token
+moharimo - gains Province
+moharimo - buys Merchant Guild
+moharimo - receives 1 coin token
+moharimo - gains Merchant Guild
+moharimo - draws Highway, Village, Mercenary, Highway, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Village
+Titandrake - draws Urchin
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Highway
+Titandrake - draws Workshop
+Titandrake - plays Village
+Titandrake - draws Province
+Titandrake - plays Urchin
+Titandrake - draws Highway
+moharimo - discards Mercenary
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Village
+Titandrake - plays Merchant Guild
+Titandrake - plays Merchant Guild
+Titandrake - plays Workshop
+Titandrake - gains Province
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - receives 1 coin token
+Titandrake - receives 1 coin token
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - receives 1 coin token
+Titandrake - receives 1 coin token
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - receives 1 coin token
+Titandrake - receives 1 coin token
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Province, Highway, Village, Village, Highway
+ 
+---------- moharimo: turn 16 ----------
+moharimo - plays Village
+moharimo - draws Silver
+moharimo - plays Highway
+moharimo - draws Highway
+moharimo - plays Highway
+moharimo - draws Workshop
+moharimo - plays Highway
+moharimo - shuffles deck
+moharimo - draws Silver
+moharimo - plays Workshop
+moharimo - gains Duchy
+moharimo - plays 3 Silver
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Mercenary, Highway, Highway, Village, Village
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Mercenary
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Province
+Titandrake - plays Village
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Workshop
+Titandrake - plays Workshop
+Titandrake - gains Province
+Titandrake - plays Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Copper, Village, Duchy, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Village, 5 Highway, 2 Merchant Guild, 1 Workshop, 1 Mercenary, 1 Urchin, 2 Copper, 1 Silver, 6 Province, 3 Duchy
+Titandrake - total victory points: 45
+Titandrake - turns: 17
+ 
+moharimo - cards: 5 Highway, 3 Village, 2 Merchant Guild, 1 Mercenary, 1 Workshop, 4 Silver, 2 Copper, 2 Province, 1 Duchy
+moharimo - total victory points: 15
+moharimo - turns: 16
+ 
+1st place: Titandrake
+2nd place: moharimo
+ 

@@ -1,0 +1,458 @@
+------------ Game Setup ------------
+Supply cards: Moat, Great Hall, Sage, Steward, Swindler, Rats, Spice Merchant, Treasure Map, Contraband, Duke, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SheCantSayNo - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 5 Copper
+SheCantSayNo - buys Swindler
+SheCantSayNo - gains Swindler
+SheCantSayNo - draws Hovel, Copper, Necropolis, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Necropolis, Copper, Hovel, Copper
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Moat
+SheCantSayNo - gains Moat
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Moat, Swindler, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Necropolis, Overgrown Estate, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Swindler
+Titandrake - reveals Hovel
+Titandrake - trashes Hovel
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Swindler
+SheCantSayNo - gains Swindler
+SheCantSayNo - draws Copper, Hovel, Copper, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Sage, Copper, Swindler, Copper
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Necropolis, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Swindler, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Swindler
+SheCantSayNo - reveals Swindler
+SheCantSayNo - trashes Swindler
+SheCantSayNo - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Swindler, Swindler, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Sage
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Swindler
+SheCantSayNo - gains Swindler
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Swindler
+SheCantSayNo - reveals Hovel
+SheCantSayNo - trashes Hovel
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Necropolis, Sage, Copper, Copper
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Moat, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Overgrown Estate, Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Overgrown Estate, Copper
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Swindler, Copper, Swindler, Copper, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays 2 Silver, 2 Copper
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Gold
+SheCantSayNo - draws Copper, Copper, Copper, Swindler, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Swindler
+SheCantSayNo - reveals Swindler
+SheCantSayNo - trashes Swindler
+SheCantSayNo - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Swindler, Copper, Sage, Copper
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Gold
+SheCantSayNo - draws Silver, Copper, Necropolis, Overgrown Estate
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Sage
+Titandrake - reveals Swindler
+Titandrake - places Swindler in hand
+Titandrake - plays Swindler
+SheCantSayNo - reveals Swindler
+SheCantSayNo - trashes Swindler
+SheCantSayNo - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Overgrown Estate, Copper, Sage, Copper
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Silver, 1 Copper
+SheCantSayNo - buys Swindler
+SheCantSayNo - gains Swindler
+SheCantSayNo - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Necropolis, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Swindler
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays 4 Copper, 1 Silver
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Silver, Moat, Copper, Gold, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Swindler
+SheCantSayNo - reveals reaction Moat
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Curse, Swindler, Gold, Overgrown Estate
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Gold
+SheCantSayNo - plays Silver
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Moat, Copper, Silver, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Swindler
+SheCantSayNo - reveals reaction Moat
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Sage, Copper, Copper, Sage
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Gold
+SheCantSayNo - plays Silver
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Duchy, Gold, Copper, Necropolis, Swindler
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Sage
+Titandrake - reveals Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Duchy, Gold, Copper, Curse
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+SheCantSayNo - plays 1 Gold, 1 Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Copper, Silver, Copper, Overgrown Estate, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Swindler, Necropolis, Sage, Silver
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays 2 Copper, 2 Silver
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Copper, Silver, Silver, Copper, Duchy
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Swindler
+SheCantSayNo - shuffles deck
+SheCantSayNo - reveals Moat
+SheCantSayNo - trashes Moat
+SheCantSayNo - gains Estate
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Overgrown Estate, Gold, Copper, Sage, Copper
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays 2 Copper, 2 Silver
+SheCantSayNo - buys Duke
+SheCantSayNo - gains Duke
+SheCantSayNo - draws Gold, Silver, Copper, Necropolis, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Swindler
+Titandrake - places Swindler in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Swindler
+SheCantSayNo - reveals Duchy
+SheCantSayNo - trashes Duchy
+SheCantSayNo - gains Contraband
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Duchy, Curse, Gold
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Gold, 1 Silver, 1 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Duchy, Duchy, Copper, Silver, Overgrown Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Silver, Sage, Copper, Duke, Duchy
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays 1 Copper, 1 Silver
+SheCantSayNo - buys Swindler
+SheCantSayNo - gains Swindler
+SheCantSayNo - draws Copper, Copper, Copper, Silver, Swindler
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Gold, Necropolis, Silver, Sage, Curse
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Great Hall
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Duke
+SheCantSayNo - gains Duke
+SheCantSayNo - draws Duchy
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Duchy, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Sage
+Titandrake - reveals Swindler
+Titandrake - places Swindler in hand
+Titandrake - plays Swindler
+SheCantSayNo - reveals Gold
+SheCantSayNo - trashes Gold
+SheCantSayNo - gains Gold
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Duchy, Swindler, Copper, Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- SheCantSayNo: turn 19 ----------
+SheCantSayNo - plays 2 Silver, 1 Copper
+SheCantSayNo - buys Duke
+SheCantSayNo - gains Duke
+SheCantSayNo - draws Copper, Silver, Duchy, Estate, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Swindler
+SheCantSayNo - reveals Duke
+SheCantSayNo - trashes Duke
+SheCantSayNo - gains Contraband
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Sage, Swindler, Necropolis, Swindler, Silver
+ 
+---------- SheCantSayNo: turn 20 ----------
+SheCantSayNo - plays 2 Silver, 1 Copper
+SheCantSayNo - buys Duke
+SheCantSayNo - gains Duke
+SheCantSayNo - draws Duke, Copper, Copper, Silver, Swindler
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Necropolis
+Titandrake - plays Swindler
+SheCantSayNo - reveals Gold
+SheCantSayNo - trashes Gold
+SheCantSayNo - gains Gold
+Titandrake - plays Swindler
+SheCantSayNo - reveals Copper
+SheCantSayNo - trashes Copper
+SheCantSayNo - gains Curse
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Duchy, Sage, Gold, Gold
+ 
+---------- SheCantSayNo: turn 21 ----------
+SheCantSayNo - plays Swindler
+Titandrake - reveals Duchy
+Titandrake - trashes Duchy
+Titandrake - gains Contraband
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - buys Duke
+SheCantSayNo - gains Duke
+SheCantSayNo - draws Necropolis, Overgrown Estate, Copper, Copper, Duchy
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Duke
+Titandrake - places Duke in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Great Hall, Curse, Silver, Curse, Copper
+ 
+---------- SheCantSayNo: turn 22 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Moat
+SheCantSayNo - gains Moat
+SheCantSayNo - draws Contraband, Swindler, Province
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Duke
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Gold
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Duke
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Copper, Gold
+ 
+---------- SheCantSayNo: turn 23 ----------
+SheCantSayNo - plays Swindler
+Titandrake - reveals Gold
+Titandrake - trashes Gold
+Titandrake - gains Gold
+SheCantSayNo - plays Contraband
+Titandrake - names Duke as contraband
+SheCantSayNo - plays Silver
+SheCantSayNo - buys Swindler
+SheCantSayNo - gains Swindler
+SheCantSayNo - buys Swindler
+SheCantSayNo - gains Swindler
+SheCantSayNo - draws Moat, Copper, Silver, Gold, Gold
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Silver, Silver, Great Hall
+ 
+---------- SheCantSayNo: turn 24 ----------
+SheCantSayNo - plays 2 Gold, 1 Copper, 1 Silver
+SheCantSayNo - buys Duke
+SheCantSayNo - gains Duke
+SheCantSayNo - draws Duchy, Duchy, Copper, Duchy, Duke
+ 
+------------ Game Over ------------
+SheCantSayNo - cards: 4 Swindler, 1 Moat, 1 Necropolis, 6 Copper, 5 Silver, 2 Contraband, 2 Gold, 5 Duke, 4 Duchy, 1 Province, 1 Overgrown Estate, 1 Estate, 1 Curse
+SheCantSayNo - total victory points: 38
+SheCantSayNo - turns: 24
+ 
+Titandrake - cards: 3 Swindler, 2 Sage, 1 Great Hall, 1 Necropolis, 8 Gold, 5 Copper, 3 Silver, 1 Contraband, 2 Duke, 2 Duchy, 1 Province, 1 Overgrown Estate, 2 Curse
+Titandrake - total victory points: 15
+Titandrake - turns: 23
+ 
+1st place: SheCantSayNo
+2nd place: Titandrake
+ 

@@ -1,0 +1,544 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Lighthouse, Apothecary, Forager, Trade Route, Baron, Horse Traders, Ironmonger, Island, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Estate, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Forager
+SM.SM - gains Forager
+SM.SM - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Baron
+SM.SM - gains Baron
+SM.SM - shuffles deck
+SM.SM - draws Copper, Estate, Estate, Baron, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Baron
+SM.SM - discards Estate
+SM.SM - plays 2 Copper
+SM.SM - buys Potion
+SM.SM - gains Potion
+SM.SM - buys Courtyard
+SM.SM - gains Courtyard
+SM.SM - draws Copper, Forager, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Potion, Estate, Copper, Forager, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Forager
+SM.SM - trashes Estate
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper, Potion
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Apothecary, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays 3 Copper, 1 Potion
+SM.SM - buys Apothecary
+SM.SM - gains Apothecary
+SM.SM - draws Copper, Courtyard, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Forager
+Titandrake - reveals: Estate, Copper, Copper, Silver
+Titandrake - places Silver on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Estate, Silver, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Courtyard
+SM.SM - draws Silver, Forager, Baron
+SM.SM - places Baron on top of deck
+SM.SM - plays 3 Copper, 1 Silver
+SM.SM - buys Ironmonger
+SM.SM - gains Ironmonger
+SM.SM - draws Baron, Copper
+SM.SM - shuffles deck
+SM.SM - draws Courtyard, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Potion
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger, Silver, Copper, Courtyard
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Courtyard
+SM.SM - draws Potion, Estate, Copper
+SM.SM - places Baron on top of deck
+SM.SM - plays 4 Copper, 1 Potion
+SM.SM - buys Apothecary
+SM.SM - gains Apothecary
+SM.SM - draws Baron, Copper, Apothecary, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Estate
+Titandrake - discards Estate
+Titandrake - draws Copper
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Estate, Forager
+Titandrake - places Silver on top of deck
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Silver, Copper, Copper, Apothecary, Ironmonger
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Apothecary
+SM.SM - draws Copper
+SM.SM - reveals: Silver, Forager, Ironmonger
+SM.SM - shuffles deck
+SM.SM - reveals: Copper
+SM.SM - places Silver on top of deck
+SM.SM - places Forager on top of deck
+SM.SM - places Ironmonger on top of deck
+SM.SM - plays Baron
+SM.SM - discards Estate
+SM.SM - plays 4 Copper
+SM.SM - buys Ironmonger
+SM.SM - gains Ironmonger
+SM.SM - buys Ironmonger
+SM.SM - gains Ironmonger
+SM.SM - draws Ironmonger, Forager, Silver, Copper, Courtyard
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Ironmonger, Estate, Apothecary, Forager
+Titandrake - places Forager on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Estate
+Titandrake - discards Estate
+Titandrake - draws Apothecary
+Titandrake - plays Apothecary
+Titandrake - draws Forager
+Titandrake - reveals: Copper, Estate, Copper, Copper
+Titandrake - places Estate on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Courtyard, Potion
+Titandrake - shuffles deck
+Titandrake - draws Apothecary, Copper, Copper
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Ironmonger
+SM.SM - draws Copper
+SM.SM - reveals: Estate
+SM.SM - discards Estate
+SM.SM - draws Potion
+SM.SM - plays Forager
+SM.SM - trashes Silver
+SM.SM - plays Courtyard
+SM.SM - draws Apothecary, Copper
+SM.SM - shuffles deck
+SM.SM - draws Estate
+SM.SM - places Apothecary on top of deck
+SM.SM - plays 3 Copper, 1 Potion
+SM.SM - buys Apothecary
+SM.SM - gains Apothecary
+SM.SM - buys Lighthouse
+SM.SM - gains Lighthouse
+SM.SM - draws Apothecary, Copper, Ironmonger, Baron, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Ironmonger
+Titandrake - reveals: Forager, Copper, Copper, Province
+Titandrake - places Province on top of deck
+Titandrake - places Forager on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Forager
+Titandrake - reveals: Province
+Titandrake - discards Province
+Titandrake - draws Copper
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Courtyard
+Titandrake - draws Silver, Apothecary, Copper
+Titandrake - places Apothecary on top of deck
+Titandrake - plays 5 Copper, 1 Potion, 1 Silver
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Apothecary, Copper, Copper, Estate, Ironmonger
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Apothecary
+SM.SM - draws Copper
+SM.SM - reveals: Estate, Copper, Apothecary, Ironmonger
+SM.SM - places Apothecary on top of deck
+SM.SM - places Estate on top of deck
+SM.SM - places Ironmonger on top of deck
+SM.SM - plays Ironmonger
+SM.SM - draws Ironmonger
+SM.SM - reveals: Estate
+SM.SM - discards Estate
+SM.SM - draws Apothecary
+SM.SM - plays Apothecary
+SM.SM - shuffles deck
+SM.SM - draws Potion
+SM.SM - reveals: Lighthouse, Copper, Apothecary, Estate
+SM.SM - places Lighthouse on top of deck
+SM.SM - places Estate on top of deck
+SM.SM - places Apothecary on top of deck
+SM.SM - plays Ironmonger
+SM.SM - draws Apothecary
+SM.SM - reveals: Estate
+SM.SM - places Estate on top of deck
+SM.SM - draws Estate
+SM.SM - plays Apothecary
+SM.SM - draws Lighthouse
+SM.SM - reveals: Copper, Courtyard, Copper, Ironmonger
+SM.SM - places Courtyard on top of deck
+SM.SM - places Ironmonger on top of deck
+SM.SM - plays Lighthouse
+SM.SM - plays Baron
+SM.SM - discards Estate
+SM.SM - plays 7 Copper, 1 Potion
+SM.SM - buys Apothecary
+SM.SM - gains Apothecary
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Ironmonger, Courtyard, Forager, Estate
+SM.SM - shuffles deck
+SM.SM - draws Apothecary
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Apothecary
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals: Courtyard, Copper, Potion, Apothecary
+Titandrake - places Courtyard on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Apothecary
+Titandrake - reveals: Courtyard
+Titandrake - places Courtyard on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Courtyard
+Titandrake - reveals: Ironmonger, Copper, Province, Apothecary
+Titandrake - places Apothecary on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Courtyard
+Titandrake - draws Ironmonger, Province, Apothecary
+Titandrake - places Estate on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Estate
+Titandrake - reveals: Ironmonger, Copper, Forager, Copper
+Titandrake - places Forager on top of deck
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Forager
+Titandrake - places Forager on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Forager
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 7 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Apothecary, Copper, Forager, Copper
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - duration Lighthouse
+SM.SM - plays Apothecary
+SM.SM - draws Apothecary
+SM.SM - reveals: Copper, Apothecary, Province, Copper
+SM.SM - places Province on top of deck
+SM.SM - places Apothecary on top of deck
+SM.SM - plays Ironmonger
+SM.SM - draws Apothecary
+SM.SM - reveals: Province
+SM.SM - discards Province
+SM.SM - draws Copper
+SM.SM - plays Apothecary
+SM.SM - draws Copper
+SM.SM - reveals: Copper, Apothecary, Potion, Ironmonger
+SM.SM - places Apothecary on top of deck
+SM.SM - places Ironmonger on top of deck
+SM.SM - plays Apothecary
+SM.SM - draws Ironmonger
+SM.SM - reveals: Apothecary, Copper, Ironmonger, Estate
+SM.SM - places Apothecary on top of deck
+SM.SM - places Estate on top of deck
+SM.SM - places Ironmonger on top of deck
+SM.SM - plays Ironmonger
+SM.SM - draws Ironmonger
+SM.SM - reveals: Estate
+SM.SM - discards Estate
+SM.SM - draws Apothecary
+SM.SM - plays Apothecary
+SM.SM - draws Copper
+SM.SM - reveals: Baron
+SM.SM - shuffles deck
+SM.SM - reveals: Province, Estate
+SM.SM - places Estate on top of deck
+SM.SM - places Province on top of deck
+SM.SM - places Baron on top of deck
+SM.SM - plays Ironmonger
+SM.SM - draws Baron
+SM.SM - reveals: Province
+SM.SM - discards Province
+SM.SM - draws Estate
+SM.SM - plays Forager
+SM.SM - trashes Estate
+SM.SM - plays Baron
+SM.SM - discards Estate
+SM.SM - plays 7 Copper, 1 Potion
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Island
+SM.SM - gains Island
+SM.SM - buys Apothecary
+SM.SM - gains Apothecary
+SM.SM - shuffles deck
+SM.SM - draws Ironmonger, Province, Apothecary, Potion, Apothecary
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Ironmonger
+Titandrake - reveals: Copper, Ironmonger, Copper, Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Province
+Titandrake - reveals: Apothecary
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Apothecary, Courtyard, Apothecary, Copper, Potion
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Apothecary
+SM.SM - draws Copper
+SM.SM - reveals: Apothecary, Baron, Estate, Copper
+SM.SM - places Apothecary on top of deck
+SM.SM - places Estate on top of deck
+SM.SM - places Baron on top of deck
+SM.SM - plays Ironmonger
+SM.SM - draws Baron
+SM.SM - reveals: Estate
+SM.SM - discards Estate
+SM.SM - draws Apothecary
+SM.SM - plays Apothecary
+SM.SM - draws Island
+SM.SM - reveals: Courtyard, Copper, Copper, Copper
+SM.SM - places Courtyard on top of deck
+SM.SM - plays Apothecary
+SM.SM - draws Courtyard
+SM.SM - reveals: Apothecary, Copper, Province, Copper
+SM.SM - places Province on top of deck
+SM.SM - places Apothecary on top of deck
+SM.SM - plays Island
+SM.SM - sets aside Province
+SM.SM - plays 7 Copper, 1 Potion
+SM.SM - buys Island
+SM.SM - gains Island
+SM.SM - draws Apothecary, Province, Ironmonger, Ironmonger, Lighthouse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Province, Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Copper
+Titandrake - places Province on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Province
+Titandrake - reveals: Ironmonger, Copper, Province, Forager
+Titandrake - places Forager on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Ironmonger
+Titandrake - reveals: Province, Forager, Ironmonger, Copper
+Titandrake - places Province on top of deck
+Titandrake - places Forager on top of deck
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Forager
+Titandrake - places Forager on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Forager
+Titandrake - reveals: Province
+Titandrake - discards Province
+Titandrake - draws Silver
+Titandrake - plays Courtyard
+Titandrake - draws Province, Apothecary, Ironmonger
+Titandrake - places Province on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - reveals: Province
+Titandrake - places Province on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Province
+Titandrake - plays Forager
+Titandrake - trashes Potion
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - shuffles deck
+Titandrake - draws Province, Ironmonger, Forager, Copper, Copper
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Apothecary
+SM.SM - draws Forager
+SM.SM - reveals: Apothecary
+SM.SM - shuffles deck
+SM.SM - reveals: Island, Copper, Estate
+SM.SM - places Apothecary on top of deck
+SM.SM - places Island on top of deck
+SM.SM - places Estate on top of deck
+SM.SM - plays Ironmonger
+SM.SM - draws Estate
+SM.SM - reveals: Island
+SM.SM - discards Island
+SM.SM - draws Apothecary
+SM.SM - plays Apothecary
+SM.SM - draws Copper
+SM.SM - reveals: Apothecary, Courtyard, Copper, Copper
+SM.SM - places Apothecary on top of deck
+SM.SM - places Courtyard on top of deck
+SM.SM - plays Ironmonger
+SM.SM - draws Courtyard
+SM.SM - reveals: Apothecary
+SM.SM - places Apothecary on top of deck
+SM.SM - plays Courtyard
+SM.SM - draws Apothecary, Ironmonger, Baron
+SM.SM - places Copper on top of deck
+SM.SM - plays Apothecary
+SM.SM - draws Copper
+SM.SM - reveals: Copper, Copper, Apothecary, Potion
+SM.SM - places Apothecary on top of deck
+SM.SM - plays Ironmonger
+SM.SM - draws Apothecary
+SM.SM - reveals: Copper
+SM.SM - discards Copper
+SM.SM - plays Apothecary
+SM.SM - draws Apothecary
+SM.SM - shuffles deck
+SM.SM - reveals: Island, Copper
+SM.SM - places Island on top of deck
+SM.SM - plays Lighthouse
+SM.SM - plays Baron
+SM.SM - discards Estate
+SM.SM - plays Forager
+SM.SM - trashes Potion
+SM.SM - plays Apothecary
+SM.SM - draws Island
+SM.SM - shuffles deck
+SM.SM - reveals: Estate
+SM.SM - places Estate on top of deck
+SM.SM - plays Island
+SM.SM - sets aside Province
+SM.SM - plays 7 Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Estate
+SM.SM - shuffles deck
+SM.SM - draws Ironmonger, Copper, Apothecary, Copper
+ 
+------------ Game Over ------------
+SM.SM - cards: 5 Apothecary, 3 Ironmonger, 2 Island, 1 Forager, 1 Baron, 1 Courtyard, 1 Lighthouse, 7 Copper, 4 Province, 1 Estate
+SM.SM - total victory points: 29
+SM.SM - turns: 13
+ 
+Titandrake - cards: 4 Apothecary, 3 Ironmonger, 2 Forager, 1 Courtyard, 6 Copper, 1 Silver, 4 Province
+Titandrake - total victory points: 24
+Titandrake - turns: 12
+ 
+1st place: SM.SM
+2nd place: Titandrake
+ 

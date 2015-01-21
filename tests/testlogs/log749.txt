@@ -1,0 +1,867 @@
+------------ Game Setup ------------
+Supply cards: Squire, Sage, Baron, Conspirator, Wandering Minstrel, Explorer, Festival, Library, Rabble, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Toblakai - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Toblakai - shuffles deck
+Titandrake - shuffles deck
+Toblakai - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Toblakai: turn 1 ----------
+Toblakai - plays 4 Copper
+Toblakai - buys Conspirator
+Toblakai - gains Conspirator
+Toblakai - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Toblakai: turn 2 ----------
+Toblakai - plays 3 Copper
+Toblakai - buys Sage
+Toblakai - gains Sage
+Toblakai - shuffles deck
+Toblakai - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- Toblakai: turn 3 ----------
+Toblakai - plays 3 Copper
+Toblakai - buys Sage
+Toblakai - gains Sage
+Toblakai - draws Copper, Conspirator, Copper, Copper, Sage
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - draws Copper, Copper, Conspirator, Copper, Copper
+ 
+---------- Toblakai: turn 4 ----------
+Toblakai - plays Sage
+Toblakai - shuffles deck
+Toblakai - reveals Copper, Estate, Estate, Estate, Sage
+Toblakai - places Sage in hand
+Toblakai - discards: Copper, Estate, Estate, Estate
+Toblakai - plays Sage
+Toblakai - shuffles deck
+Toblakai - reveals Copper, Copper, Copper, Estate, Estate, Estate, Copper
+Toblakai - discards: Copper, Copper, Copper, Estate, Estate, Estate, Copper
+Toblakai - plays Conspirator
+Toblakai - shuffles deck
+Toblakai - draws Copper
+Toblakai - plays 4 Copper
+Toblakai - buys Witch
+Toblakai - gains Witch
+Toblakai - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Conspirator
+Titandrake - plays 4 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Witch
+ 
+---------- Toblakai: turn 5 ----------
+Toblakai - plays 3 Copper
+Toblakai - buys Squire
+Toblakai - gains Squire
+Toblakai - draws Estate
+Toblakai - shuffles deck
+Toblakai - draws Copper, Copper, Sage, Witch
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Estate
+Toblakai - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Toblakai: turn 6 ----------
+Toblakai - plays Sage
+Toblakai - reveals Copper, Copper, Estate, Copper, Sage
+Toblakai - places Sage in hand
+Toblakai - discards: Copper, Copper, Estate, Copper
+Toblakai - plays Sage
+Toblakai - reveals Squire, Estate, Conspirator
+Toblakai - places Conspirator in hand
+Toblakai - discards: Squire, Estate
+Toblakai - plays Conspirator
+Toblakai - draws Copper
+Toblakai - plays Witch
+Toblakai - draws Copper
+Toblakai - shuffles deck
+Toblakai - draws Estate
+Titandrake - gains Curse
+Toblakai - plays 4 Copper
+Toblakai - buys Witch
+Toblakai - gains Witch
+Toblakai - draws Copper, Squire, Curse, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Conspirator, Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- Toblakai: turn 7 ----------
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays 2 Copper
+Toblakai - buys Sage
+Toblakai - gains Sage
+Toblakai - draws Copper
+Toblakai - shuffles deck
+Toblakai - draws Witch, Squire, Curse, Witch
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - reveals: Silver, Curse, Witch
+Titandrake - places Witch on top of deck
+Titandrake - discards: Silver, Curse
+Titandrake - plays Conspirator
+Titandrake - plays 4 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Witch, Estate, Copper, Copper, Estate
+ 
+---------- Toblakai: turn 8 ----------
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Witch
+Toblakai - draws Copper, Conspirator
+Titandrake - gains Curse
+Toblakai - plays Conspirator
+Toblakai - draws Copper
+Toblakai - plays Witch
+Toblakai - draws Copper, Estate
+Titandrake - gains Curse
+Toblakai - plays 4 Copper
+Toblakai - buys Gold
+Toblakai - gains Gold
+Toblakai - draws Copper, Copper, Estate, Sage, Sage
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Witch
+Titandrake - draws Conspirator, Estate
+Toblakai - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Festival
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse, Witch
+ 
+---------- Toblakai: turn 9 ----------
+Toblakai - plays Sage
+Toblakai - reveals Copper, Estate, Sage
+Toblakai - places Sage in hand
+Toblakai - discards: Copper, Estate
+Toblakai - plays Sage
+Toblakai - shuffles deck
+Toblakai - reveals Copper, Curse, Witch
+Toblakai - places Witch in hand
+Toblakai - discards: Copper, Curse
+Toblakai - plays Sage
+Toblakai - reveals Copper, Copper, Witch
+Toblakai - places Witch in hand
+Toblakai - discards: Copper, Copper
+Toblakai - plays Witch
+Toblakai - draws Estate, Gold
+Titandrake - gains Curse
+Toblakai - plays 2 Copper, 1 Gold
+Toblakai - buys Festival
+Toblakai - gains Festival
+Toblakai - draws Estate, Copper, Conspirator, Squire, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Festival
+Titandrake - plays Witch
+Titandrake - draws Conspirator, Copper
+Toblakai - gains Curse
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Copper, Copper, Copper, Wandering Minstrel, Estate
+ 
+---------- Toblakai: turn 10 ----------
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Conspirator
+Toblakai - plays 2 Copper
+Toblakai - buys Conspirator
+Toblakai - gains Conspirator
+Toblakai - draws Curse
+Toblakai - shuffles deck
+Toblakai - draws Sage, Estate, Copper, Witch
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Curse
+Titandrake - reveals: Estate, Witch, Curse
+Titandrake - places Witch on top of deck
+Titandrake - discards: Estate, Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Witch, Squire, Estate, Silver, Conspirator
+ 
+---------- Toblakai: turn 11 ----------
+Toblakai - plays Sage
+Toblakai - reveals Sage
+Toblakai - places Sage in hand
+Toblakai - plays Sage
+Toblakai - reveals Estate, Curse, Festival
+Toblakai - places Festival in hand
+Toblakai - discards: Estate, Curse
+Toblakai - plays Festival
+Toblakai - plays Witch
+Toblakai - draws Curse, Copper
+Titandrake - gains Curse
+Toblakai - plays 2 Copper
+Toblakai - buys Conspirator
+Toblakai - gains Conspirator
+Toblakai - draws Conspirator, Estate, Sage, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Witch
+Titandrake - shuffles deck
+Titandrake - draws Estate, Festival
+Toblakai - gains Curse
+Titandrake - plays Conspirator
+Titandrake - draws Curse
+Titandrake - plays Festival
+Titandrake - plays 1 Silver
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Curse, Wandering Minstrel, Curse, Sage, Curse
+ 
+---------- Toblakai: turn 12 ----------
+Toblakai - plays Sage
+Toblakai - reveals Witch
+Toblakai - places Witch in hand
+Toblakai - plays Witch
+Toblakai - draws Copper, Gold
+Titandrake - gains Curse
+Toblakai - plays 3 Copper, 1 Gold
+Toblakai - buys Gold
+Toblakai - gains Gold
+Toblakai - draws Conspirator, Squire, Copper, Copper
+Toblakai - shuffles deck
+Toblakai - draws Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Copper, Curse, Copper, Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - discards: Copper, Curse, Copper
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - reveals: Conspirator, Copper, Copper
+Titandrake - places Conspirator on top of deck
+Titandrake - discards: Copper, Copper
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Witch
+Titandrake - plays Witch
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Conspirator, Copper, Curse
+ 
+---------- Toblakai: turn 13 ----------
+Toblakai - plays Conspirator
+Toblakai - plays 2 Copper
+Toblakai - buys Wandering Minstrel
+Toblakai - gains Wandering Minstrel
+Toblakai - draws Estate, Sage, Gold, Copper, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Conspirator
+Titandrake - plays 1 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Estate, Sage, Squire, Curse, Copper
+ 
+---------- Toblakai: turn 14 ----------
+Toblakai - plays Sage
+Toblakai - reveals Conspirator
+Toblakai - places Conspirator in hand
+Toblakai - plays Conspirator
+Toblakai - plays 1 Gold, 1 Copper
+Toblakai - buys Rabble
+Toblakai - gains Rabble
+Toblakai - draws Curse, Copper, Copper, Curse, Sage
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Wandering Minstrel
+Titandrake - places Wandering Minstrel in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Witch
+Titandrake - reveals: Curse, Curse, Sage
+Titandrake - places Sage on top of deck
+Titandrake - discards: Curse, Curse
+Titandrake - plays Witch
+Titandrake - draws Sage, Silver
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Conspirator
+Titandrake - draws Wandering Minstrel
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Conspirator
+Titandrake - reveals: Sage, Curse, Copper
+Titandrake - places Sage on top of deck
+Titandrake - discards: Curse, Copper
+Titandrake - plays Conspirator
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Copper, Witch
+Titandrake - places Witch in hand
+Titandrake - discards Copper
+Titandrake - plays Witch
+Titandrake - draws Curse, Squire
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Rabble
+Titandrake - gains Rabble
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Copper, Festival
+Titandrake - shuffles deck
+Titandrake - draws Curse, Witch, Silver
+ 
+---------- Toblakai: turn 15 ----------
+Toblakai - plays Sage
+Toblakai - reveals Sage
+Toblakai - places Sage in hand
+Toblakai - plays Sage
+Toblakai - reveals Gold
+Toblakai - places Gold in hand
+Toblakai - plays 2 Copper, 1 Gold
+Toblakai - buys Rabble
+Toblakai - gains Rabble
+Toblakai - draws Curse, Witch, Witch, Festival, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Festival
+Titandrake - plays Witch
+Titandrake - draws Estate, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Squire, Rabble, Estate, Conspirator, Witch
+ 
+---------- Toblakai: turn 16 ----------
+Toblakai - plays Festival
+Toblakai - plays Witch
+Toblakai - draws Copper, Copper
+Toblakai - plays Witch
+Toblakai - draws Conspirator
+Toblakai - shuffles deck
+Toblakai - draws Sage
+Toblakai - plays 2 Copper
+Toblakai - buys Conspirator
+Toblakai - gains Conspirator
+Toblakai - draws Estate, Curse, Gold, Sage, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Rabble
+Titandrake - draws Squire, Curse, Wandering Minstrel
+Toblakai - reveals Copper, Rabble, Curse
+Toblakai - discards: Copper, Rabble
+Toblakai - places Curse on top of deck
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Curse
+Titandrake - reveals: Estate, Conspirator, Copper
+Titandrake - places Conspirator on top of deck
+Titandrake - discards: Estate, Copper
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Curse
+Titandrake - plays Witch
+Titandrake - draws Copper, Sage
+Titandrake - plays Sage
+Titandrake - reveals Curse, Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - discards Curse
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Sage, Wandering Minstrel, Sage, Copper, Sage
+ 
+---------- Toblakai: turn 17 ----------
+Toblakai - plays Sage
+Toblakai - reveals Curse, Wandering Minstrel
+Toblakai - places Wandering Minstrel in hand
+Toblakai - discards Curse
+Toblakai - plays Wandering Minstrel
+Toblakai - draws Rabble
+Toblakai - reveals: Copper, Estate, Squire
+Toblakai - places Squire on top of deck
+Toblakai - discards: Copper, Estate
+Toblakai - plays Rabble
+Toblakai - draws Squire, Conspirator, Sage
+Titandrake - reveals Copper, Conspirator, Curse
+Titandrake - discards: Copper, Conspirator
+Titandrake - places Curse on top of deck
+Toblakai - plays Sage
+Toblakai - reveals Conspirator
+Toblakai - places Conspirator in hand
+Toblakai - plays Conspirator
+Toblakai - draws Gold
+Toblakai - plays Conspirator
+Toblakai - draws Copper
+Toblakai - plays Squire
+Toblakai - takes 2 buys
+Toblakai - plays 2 Gold, 2 Copper
+Toblakai - buys Wandering Minstrel
+Toblakai - gains Wandering Minstrel
+Toblakai - buys Wandering Minstrel
+Toblakai - gains Wandering Minstrel
+Toblakai - buys Rabble
+Toblakai - gains Rabble
+Toblakai - draws Curse, Copper
+Toblakai - shuffles deck
+Toblakai - draws Sage, Copper, Wandering Minstrel
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Curse, Witch
+Titandrake - places Witch in hand
+Titandrake - discards Curse
+Titandrake - plays Sage
+Titandrake - reveals Copper, Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Festival
+Titandrake - places Festival in hand
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Estate
+Titandrake - reveals: Estate, Rabble, Copper
+Titandrake - places Rabble on top of deck
+Titandrake - discards: Estate, Copper
+Titandrake - plays Witch
+Titandrake - draws Rabble, Copper
+Titandrake - plays Festival
+Titandrake - plays Rabble
+Titandrake - draws Wandering Minstrel, Sage, Curse
+Toblakai - reveals Conspirator, Copper, Wandering Minstrel
+Toblakai - discards: Conspirator, Copper, Wandering Minstrel
+Titandrake - plays Sage
+Titandrake - reveals Squire, Copper, Curse, Curse, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Squire, Copper, Curse, Curse
+Titandrake - plays Sage
+Titandrake - reveals Copper, Squire, Squire, Province
+Titandrake - places Province in hand
+Titandrake - discards: Copper, Squire, Squire
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Silver
+Titandrake - reveals: Conspirator, Curse, Copper
+Titandrake - places Conspirator on top of deck
+Titandrake - discards: Curse, Copper
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Witch
+Titandrake - plays Witch
+Titandrake - draws Conspirator, Curse
+Titandrake - plays Conspirator
+Titandrake - draws Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Province, Sage, Sage, Conspirator, Rabble
+ 
+---------- Toblakai: turn 18 ----------
+Toblakai - plays Wandering Minstrel
+Toblakai - draws Estate
+Toblakai - reveals: Copper, Conspirator, Wandering Minstrel
+Toblakai - places Wandering Minstrel on top of deck
+Toblakai - places Conspirator on top of deck
+Toblakai - discards Copper
+Toblakai - plays Sage
+Toblakai - reveals Conspirator
+Toblakai - places Conspirator in hand
+Toblakai - plays Conspirator
+Toblakai - draws Wandering Minstrel
+Toblakai - plays Wandering Minstrel
+Toblakai - draws Conspirator
+Toblakai - reveals: Copper, Sage, Witch
+Toblakai - places Sage on top of deck
+Toblakai - places Witch on top of deck
+Toblakai - discards Copper
+Toblakai - plays Conspirator
+Toblakai - draws Witch
+Toblakai - plays Witch
+Toblakai - draws Sage, Rabble
+Toblakai - plays Sage
+Toblakai - reveals Estate, Curse, Gold
+Toblakai - places Gold in hand
+Toblakai - discards: Estate, Curse
+Toblakai - plays Rabble
+Toblakai - draws Conspirator, Estate, Squire
+Titandrake - reveals Squire, Silver, Copper
+Titandrake - discards: Squire, Silver, Copper
+Toblakai - plays Conspirator
+Toblakai - draws Witch
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Witch
+Toblakai - draws Rabble, Copper
+Toblakai - plays Rabble
+Toblakai - draws Sage, Curse, Gold
+Titandrake - reveals Copper, Estate, Curse
+Titandrake - discards Copper
+Titandrake - places Curse on top of deck
+Titandrake - places Estate on top of deck
+Toblakai - plays 3 Copper, 2 Gold
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - draws Copper, Festival, Rabble, Curse
+Toblakai - shuffles deck
+Toblakai - draws Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Sage
+Titandrake - reveals Estate, Curse, Curse, Curse, Copper, Curse, Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - discards: Estate, Curse, Curse, Curse, Copper, Curse
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Conspirator
+Titandrake - draws Duchy
+Titandrake - plays Conspirator
+Titandrake - draws Witch
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Rabble
+Titandrake - draws Sage, Copper, Squire
+Toblakai - reveals Wandering Minstrel, Conspirator, Sage
+Toblakai - discards: Wandering Minstrel, Conspirator, Sage
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Sage, Wandering Minstrel, Wandering Minstrel, Province, Festival
+ 
+---------- Toblakai: turn 19 ----------
+Toblakai - plays Festival
+Toblakai - plays Rabble
+Toblakai - draws Conspirator, Curse, Province
+Titandrake - reveals Sage, Witch, Squire
+Titandrake - discards: Sage, Witch, Squire
+Toblakai - plays Conspirator
+Toblakai - draws Curse
+Toblakai - plays 2 Copper
+Toblakai - buys Duchy
+Toblakai - gains Duchy
+Toblakai - draws Wandering Minstrel, Estate, Sage, Witch, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Curse
+Titandrake - reveals: Conspirator, Copper, Curse
+Titandrake - places Conspirator on top of deck
+Titandrake - discards: Copper, Curse
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Conspirator
+Titandrake - reveals: Sage, Estate, Copper
+Titandrake - places Sage on top of deck
+Titandrake - discards: Estate, Copper
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Witch
+Titandrake - places Witch in hand
+Titandrake - discards Estate
+Titandrake - plays Conspirator
+Titandrake - draws Squire
+Titandrake - plays Festival
+Titandrake - plays Witch
+Titandrake - draws Province, Squire
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Rabble, Province, Curse
+ 
+---------- Toblakai: turn 20 ----------
+Toblakai - plays Sage
+Toblakai - reveals Witch
+Toblakai - places Witch in hand
+Toblakai - plays Wandering Minstrel
+Toblakai - draws Copper
+Toblakai - reveals: Squire, Conspirator, Copper
+Toblakai - places Conspirator on top of deck
+Toblakai - places Squire on top of deck
+Toblakai - discards Copper
+Toblakai - plays Witch
+Toblakai - draws Squire, Conspirator
+Toblakai - plays Conspirator
+Toblakai - draws Wandering Minstrel
+Toblakai - plays Wandering Minstrel
+Toblakai - draws Estate
+Toblakai - reveals: Rabble, Copper, Conspirator
+Toblakai - places Conspirator on top of deck
+Toblakai - places Rabble on top of deck
+Toblakai - discards Copper
+Toblakai - plays Witch
+Toblakai - draws Rabble, Conspirator
+Toblakai - plays Conspirator
+Toblakai - draws Estate
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Rabble
+Toblakai - draws Copper, Gold, Copper
+Titandrake - reveals Copper, Conspirator, Witch
+Titandrake - discards: Copper, Conspirator, Witch
+Toblakai - plays 3 Copper, 2 Gold
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - draws Sage, Rabble, Curse
+Toblakai - shuffles deck
+Toblakai - draws Copper, Conspirator
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Rabble
+Titandrake - draws Copper, Conspirator, Sage
+Toblakai - reveals Gold, Copper, Duchy
+Toblakai - discards: Gold, Copper
+Toblakai - places Duchy on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Squire, Conspirator, Sage, Sage
+ 
+---------- Toblakai: turn 21 ----------
+Toblakai - plays Sage
+Toblakai - reveals Duchy
+Toblakai - places Duchy in hand
+Toblakai - plays Rabble
+Toblakai - draws Conspirator, Curse, Sage
+Titandrake - reveals Sage, Copper, Copper
+Titandrake - discards: Sage, Copper, Copper
+Toblakai - draws Wandering Minstrel, Estate, Rabble, Province, Curse
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Sage
+Titandrake - reveals Curse, Curse, Curse, Curse, Estate, Copper, Duchy
+Titandrake - places Duchy in hand
+Titandrake - discards: Curse, Curse, Curse, Curse, Estate, Copper
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Province
+Titandrake - places Province in hand
+Titandrake - discards Estate
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Festival, Conspirator, Estate, Witch, Sage
+ 
+---------- Toblakai: turn 22 ----------
+Toblakai - plays Wandering Minstrel
+Toblakai - draws Gold
+Toblakai - reveals: Sage, Witch, Festival
+Toblakai - places Witch on top of deck
+Toblakai - places Sage on top of deck
+Toblakai - places Festival on top of deck
+Toblakai - plays Rabble
+Toblakai - draws Festival, Sage, Witch
+Titandrake - reveals Squire, Rabble, Curse
+Titandrake - discards: Squire, Rabble
+Titandrake - places Curse on top of deck
+Toblakai - plays Sage
+Toblakai - reveals Witch
+Toblakai - places Witch in hand
+Toblakai - plays Festival
+Toblakai - plays Witch
+Toblakai - draws Province, Squire
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Witch
+Toblakai - draws Copper, Conspirator
+Toblakai - plays Conspirator
+Toblakai - draws Copper
+Toblakai - plays 2 Copper, 1 Gold
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - buys Estate
+Toblakai - gains Estate
+Toblakai - draws Copper, Wandering Minstrel, Copper, Estate, Curse
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Sage
+Titandrake - reveals Curse, Curse, Wandering Minstrel
+Titandrake - places Wandering Minstrel in hand
+Titandrake - discards: Curse, Curse
+Titandrake - plays Festival
+Titandrake - plays Witch
+Titandrake - draws Sage, Copper
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Conspirator
+Titandrake - draws Silver
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Province
+Titandrake - reveals: Conspirator, Curse, Sage
+Titandrake - places Sage on top of deck
+Titandrake - places Conspirator on top of deck
+Titandrake - discards Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Conspirator, Sage, Sage, Estate, Squire
+ 
+---------- Toblakai: turn 23 ----------
+Toblakai - plays Wandering Minstrel
+Toblakai - draws Wandering Minstrel
+Toblakai - reveals: Rabble, Estate, Copper
+Toblakai - places Rabble on top of deck
+Toblakai - discards: Estate, Copper
+Toblakai - plays Wandering Minstrel
+Toblakai - draws Rabble
+Toblakai - reveals: Conspirator
+Toblakai - shuffles deck
+Toblakai - reveals: Rabble, Squire
+Toblakai - places Squire on top of deck
+Toblakai - places Rabble on top of deck
+Toblakai - places Conspirator on top of deck
+Toblakai - plays Rabble
+Toblakai - draws Conspirator, Rabble, Squire
+Titandrake - reveals Copper, Curse, Silver
+Titandrake - discards: Copper, Silver
+Titandrake - places Curse on top of deck
+Toblakai - plays Conspirator
+Toblakai - draws Sage
+Toblakai - plays Sage
+Toblakai - reveals Province
+Toblakai - places Province in hand
+Toblakai - plays Rabble
+Toblakai - draws Copper, Copper, Witch
+Titandrake - reveals Curse, Wandering Minstrel, Copper
+Titandrake - discards: Wandering Minstrel, Copper
+Titandrake - places Curse on top of deck
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Witch
+Toblakai - draws Rabble, Curse
+Toblakai - plays Rabble
+Toblakai - draws Gold, Duchy, Copper
+Titandrake - reveals Curse, Copper, Duchy
+Titandrake - discards Copper
+Titandrake - places Duchy on top of deck
+Titandrake - places Curse on top of deck
+Toblakai - plays 5 Copper, 1 Gold
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - draws Conspirator, Witch, Conspirator, Gold, Wandering Minstrel
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Sage
+Titandrake - reveals Curse, Duchy
+Titandrake - places Duchy in hand
+Titandrake - discards Curse
+Titandrake - plays Sage
+Titandrake - reveals Curse, Estate, Curse, Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - discards: Curse, Estate, Curse
+Titandrake - plays Conspirator
+Titandrake - draws Witch
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Witch
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Silver, Sage, Estate, Squire
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Sage, 4 Conspirator, 3 Squire, 2 Wandering Minstrel, 2 Witch, 1 Rabble, 1 Festival, 7 Copper, 4 Silver, 5 Estate, 4 Province, 3 Duchy, 6 Curse
+Titandrake - total victory points: 32
+Titandrake - turns: 23
+ 
+Toblakai - cards: 4 Conspirator, 3 Sage, 3 Rabble, 3 Wandering Minstrel, 2 Witch, 1 Squire, 1 Festival, 7 Copper, 2 Gold, 4 Province, 4 Estate, 1 Duchy, 4 Curse
+Toblakai - total victory points: 27
+Toblakai - turns: 23
+ 
+1st place: Titandrake
+2nd place: Toblakai
+ 

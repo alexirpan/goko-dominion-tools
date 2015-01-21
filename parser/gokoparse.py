@@ -3,6 +3,7 @@ import re
 import datetime
 import sys
 import copy
+from collections import Counter
 
 # Project modules
 from parser.constants import *
@@ -13,7 +14,7 @@ RE_RATING = re.compile('Rating system: (.*)')
 RE_SUPPLY = re.compile('[sS]upply cards: (.*)')
 RE_COMMA = re.compile(', ')
 RE_STARTC = re.compile('(.*) - starting cards: (.*)')
-RE_TURNX = re.compile('--* (.*): turn ([0-9]*) ([posessed] )?--*')
+RE_TURNX = re.compile('--* (.*): turn ([0-9]*) (\[possessed\] )?--*')
 RE_GAINS = re.compile('(.*) \- gains (.*)')
 RE_RETS = re.compile('(.*) \- returns (.*) to')
 RE_VPS = re.compile('(.*) - total victory points: (-?\d*)')
@@ -265,14 +266,18 @@ def read_until_resolved(lines):
             return parsed
     elif card == "Golem":
         # both plays are from the revealed cards, so ignore the first line of both
-        # UNTESTED AND UNREFINED
         read_until_next_matches(lines, parsed, RE_PLAYS)
+        # verify we found an action, treat normally if not
         first_play = read_until_resolved(lines)
-        second_play = read_until_resolved(lines)
         if first_play:
-            first_play[0] += GOLEM_ANN
+            card = RE_PLAYS.match(first_play[0]).group(2)
+            if card in CARDNAME_TO_TYPE and 'action' in CARDNAME_TO_TYPE[card]:
+                first_play[0] += GOLEM_ANN
+        second_play = read_until_resolved(lines)
         if second_play:
-            second_play[0] += GOLEM_ANN
+            card = RE_PLAYS.match(second_play[0]).group(2)
+            if card in CARDNAME_TO_TYPE and 'action' in CARDNAME_TO_TYPE[card]:
+                second_play[0] += GOLEM_ANN
         return parsed + first_play + second_play
     elif card == "Venture":
         # TODO account for when Venture doesn't find a treasure
@@ -280,7 +285,9 @@ def read_until_resolved(lines):
         read_until_next_matches(lines, parsed, RE_PLAYS)
         next_play = read_until_resolved(lines)
         if next_play:
-            next_play[0] += VENTURE_ANN
+            m = RE_PLAYS.match(next_play[0])
+            if player == m.group(1):
+                next_play[0] += VENTURE_ANN
         return parsed + next_play
     elif card == "Prince":
         m = RE_SETS_ASIDE.match(lines[0])
@@ -383,6 +390,9 @@ def find_cleanup_phase_hands(log_lines):
             else:
                 break
             start -= 1
+        # if there are fewer than 5 cards in opening hand, it's off by one
+        if not RE_DRAWS.match(log_lines[start]):
+            start += 1
         lines_to_remove.append( (start, ind) )
         hands_for_each_turn.append( (pname, cards, log_lines[start:ind]) )
     cleaned = []
@@ -407,6 +417,7 @@ class GameState:
         self.playerInd = playerInd
         self.pCount = pCount
         self.player_hands = [ [] for _ in range(self.pCount) ]
+        self.player_decks = [ Counter() for _ in range(self.pCount) ]
         self.last_card_played = None
         self.played_by = None
         self.last_card_bought = None
@@ -416,6 +427,7 @@ class GameState:
         self.debug = debug
         self.phase = 'action'
         self.cards_in_play = []
+        self.supply = None
 
     def get_player_names_in_order(self):
         pairs = self.playerInd.items()
@@ -502,6 +514,45 @@ class GameState:
         info['PLAY'] = list(self.cards_in_play)
         return info
 
+    # below adapted from log prettifier
+    def gain_card(self, pname, card):
+        if card in RUINSES:
+            self.supply['Ruins'] -= 1
+        elif card in self.supply:
+            self.supply[card] -= 1
+        self.gain_card_from_elsewhere(pname, card)
+
+    def gain_card_from_elsewhere(self, pname, card):
+        self.player_decks[self.playerInd[pname]][card] += 1
+
+    def return_to_supply(self, pname, card):
+        if card in RUINSES:
+            self.supply['Ruins'] += 1
+        elif card in self.supply:
+            self.supply[card] += 1
+        self.lose_card(pname, card)
+
+    def lose_card(self, pname, card):
+        deck = self.player_decks[self.playerInd[pname]]
+        if deck[card] == 0:
+            if deck[GameState.WILD] > 0:
+                deck[GameState.WILD] -= 1
+            elif self.debug:
+                print deck
+                print pname
+                print card
+                raise ValueError("Tried to remove card that wasn't there")
+        else:
+            deck[card] -= 1
+        if deck[card] == 0:
+            del deck[card]
+
+
+        if card in RUINSES:
+            self.supply['Ruins'] -= 1
+        elif card in self.supply:
+            self.supply[card] -= 1
+
 
 def generate_game_states(logtext, debug=True):
     # until I'm sure this code works, placing all replay system code
@@ -533,6 +584,7 @@ def generate_game_states(logtext, debug=True):
     # Parse supply
     supply = dict()
     # defaults
+    # these counts ignore the starting decks
     for cname in RE_COMMA.split(supplyl.group(1)):
         if cname in RUINSES:
             cname = 'Ruins'
@@ -541,14 +593,13 @@ def generate_game_states(logtext, debug=True):
             cname = 'Knight'
             supply[cname] = 10
         elif cname in SPECIAL_SUPPLY_COUNTS:
-            supply[cname] = SPECIAL_SUPPLY_COUNTS
+            supply[cname] = SPECIAL_SUPPLY_COUNTS[cname]
+            if cname == 'Copper':
+                supply[cname] -= 7 * pCount
         elif cname == 'Ruins' or cname == 'Curse':
             supply[cname] = 10 * (pCount - 1)
         elif 'victory' in CARDNAME_TO_TYPE[cname]:
-            if cname == 'Estate':
-                supply[cname] = min(4*pCount, 12) + 3 * pCount
-            else:
-                supply[cname] = min(4*pCount, 12)
+            supply[cname] = min(4*pCount, 12)
         else:
             supply[cname] = 10
 
@@ -580,7 +631,20 @@ def generate_game_states(logtext, debug=True):
     # log with all extra whitespace/lines removed
     log_lines = [line.strip() for line in log_lines if line.strip()]
 
+    # create initial state
     state = GameState(pCount, playerInd, debug)
+    state.supply = supply
+    for m in startcl:
+        pname = m.group(1)
+        cards = m.group(2)
+        for card in cards.split(","):
+            card = card.strip()
+            # pretend starting cards don't come from the supply
+            # this handles shelters case better
+            state.gain_card_from_elsewhere(pname, card)
+    # this should probably be in GameState instead?
+    possessed = False
+    curr_player = None
 
     # handles initializing starting hands for each player
     start_hands_processed = 0
@@ -608,12 +672,16 @@ def generate_game_states(logtext, debug=True):
     # TODO this is the same structure as the above code (continue at the end of every case)
     # Someone this design feels clunky but I can't think of anything better right now?
     for line, next_line in zip(log_lines, log_lines[1:]):
+        print line
+        for name in pnames:
+            print name, state.player_hands[playerInd[name]]
         game_states.append(copy.deepcopy(state))
 
-        # TODO do something useful for this case
-        m = RE_TURNX.match(next_line)
+        m = RE_TURNX.match(line)
         if m:
-            pass
+            possessed = "[possessed]" in line
+            curr_player = m.group(1)
+            continue
         # in preprocessing, add a special marker for when to trigger cleanup
         if line.startswith("DRAW NEW HAND"):
             pname, next_hand, skipped_lines = hands_for_next_turn[0]
@@ -683,7 +751,10 @@ def generate_game_states(logtext, debug=True):
                     state.add_wild(pname)
             # also don't continue
 
-        if m and state.last_card_played not in DISCARD_FROM_REVEAL and state.last_card_bought not in DISCARD_ON_BUY:
+        # no cards discard from the hand on buy or in cleanup
+        # for now, assume that in buy phase no discards happen
+        # TODO handle this differently for deck tracking implementation
+        if m and state.last_card_played not in DISCARD_FROM_REVEAL and state.last_card_bought is None:
             pname = m.group(1)
             card = m.group(2)
             state.remove_from_hand(pname, card)
@@ -715,6 +786,12 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             cards = get_cards_trashed(line)
             trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_ON_BUY and state.revealed_reaction != 'Watchtower'
+            # General trashing bookkeeping
+            for card in cards:
+                if card == 'Fortress' or (possessed and pname == curr_player):
+                    continue
+                state.lose_card(pname, card)
+
             if trash_from_hand:
                 # the TM in play is always trashed, so remove one from the list
                 if state.last_card_played == 'Treasure Map':
@@ -761,22 +838,32 @@ def generate_game_states(logtext, debug=True):
             state.add_to_hand(pname, card)
             continue
         m = RE_GAINS.match(line)
-        if m and state.last_card_played in GAIN_TO_HAND:
+        if m:
             pname = m.group(1)
             card = m.group(2)
-            state.add_to_hand(pname, card)
+            if state.last_card_played in GAIN_FROM_ELSEWHERE:
+                state.gain_card_from_elsewhere(pname, card)
+            else:
+                state.gain_card(pname, card)
+
+            if state.last_card_played in GAIN_TO_HAND:
+                pname = m.group(1)
+                card = m.group(2)
+                state.add_to_hand(pname, card)
             continue
         m = RE_PASSES.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
             state.remove_from_hand(pname, card)
+            state.lose_card(pname, card)
             # clean me up later
             next_player_ind = (playerInd[pname] + 1) % pCount
             for p in playerInd:
                 if playerInd[p] == next_player_ind:
                     next_player = p
                     state.add_to_hand(next_player, card)
+                    state.gain_card_from_elsewhere(next_player, card)
                     break
             continue
         m = RE_RETURN_TO_SUPPLY.match(line)
@@ -784,6 +871,7 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             card = m.group(2)
             state.remove_from_hand(pname, card)
+            state.return_to_supply(pname, card)
             continue
         m = RE_SETS_ASIDE.match(line)
         if m and state.last_card_played not in SETS_ASIDE_FROM_DECK:

@@ -1,0 +1,500 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Secret Chamber, Loan, Warehouse, Salvager, Butcher, Highway, Inn, Mine, Mint, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Secret Chamber
+Titandrake - gains Secret Chamber
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Salvager
+SM.SM - gains Salvager
+SM.SM - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Mint
+Titandrake - trashes Copper, Copper, Copper, Copper, Copper
+Titandrake - gains Mint
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Loan
+SM.SM - gains Loan
+SM.SM - shuffles deck
+SM.SM - draws Copper, Estate, Loan, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Secret Chamber, Mint
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 3 Copper
+SM.SM - plays Loan
+SM.SM - reveals Estate, Copper
+SM.SM - trashes Copper
+SM.SM - discards Estate
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Copper, Copper, Estate, Salvager
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Secret Chamber
+Titandrake - discards Mint
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Candlestick Maker, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Salvager
+SM.SM - trashes Estate
+SM.SM - plays 3 Copper
+SM.SM - buys Highway
+SM.SM - gains Highway
+SM.SM - shuffles deck
+SM.SM - draws Copper, Silver, Copper, Loan, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - draws Silver, Copper, Mint, Secret Chamber
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - plays Loan
+SM.SM - reveals Highway, Copper
+SM.SM - trashes Copper
+SM.SM - discards Highway
+SM.SM - buys Highway
+SM.SM - gains Highway
+SM.SM - draws Salvager, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Secret Chamber
+Titandrake - discards Estate
+Titandrake - discards Mint
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Estate, Candlestick Maker, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Salvager
+SM.SM - trashes Estate
+SM.SM - plays 3 Copper
+SM.SM - buys Highway
+SM.SM - gains Highway
+SM.SM - shuffles deck
+SM.SM - draws Highway, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - uses 2 coin tokens
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Estate, Secret Chamber, Mint, Copper, Highway
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Highway
+SM.SM - draws Copper
+SM.SM - plays 4 Copper
+SM.SM - buys Highway
+SM.SM - gains Highway
+SM.SM - draws Loan, Highway, Salvager, Highway, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Secret Chamber
+Titandrake - discards Estate
+Titandrake - discards Mint
+Titandrake - plays 2 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Estate, Estate, Candlestick Maker, Butcher, Silver
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Highway
+SM.SM - draws Copper
+SM.SM - plays Highway
+SM.SM - shuffles deck
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Estate
+SM.SM - plays Salvager
+SM.SM - trashes Estate
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - plays Loan
+SM.SM - reveals Copper
+SM.SM - trashes Copper
+SM.SM - buys Highway
+SM.SM - gains Highway
+SM.SM - buys Highway
+SM.SM - gains Highway
+SM.SM - draws Copper, Highway, Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Salvager
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Estate
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Highway
+Titandrake - plays Silver
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Mint, Copper, Estate, Copper, Secret Chamber
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Silver
+SM.SM - plays Salvager
+SM.SM - trashes Copper
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Highway
+SM.SM - gains Highway
+SM.SM - buys Candlestick Maker
+SM.SM - gains Candlestick Maker
+SM.SM - draws Loan, Highway, Highway, Highway, Highway
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Secret Chamber
+Titandrake - discards Estate
+Titandrake - discards Mint
+Titandrake - plays 2 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Highway, Candlestick Maker, Candlestick Maker, Silver, Highway
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Highway
+SM.SM - draws Copper
+SM.SM - plays Highway
+SM.SM - shuffles deck
+SM.SM - draws Silver
+SM.SM - plays Highway
+SM.SM - draws Candlestick Maker
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Copper
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - plays Loan
+SM.SM - reveals Salvager, Copper
+SM.SM - trashes Copper
+SM.SM - discards Salvager
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - buys Candlestick Maker
+SM.SM - gains Candlestick Maker
+SM.SM - shuffles deck
+SM.SM - draws Copper, Highway, Highway, Salvager, Candlestick Maker
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Highway
+Titandrake - draws Butcher
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Estate
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Butcher
+Titandrake - plays Silver
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Mint, Warehouse, Secret Chamber, Butcher, Candlestick Maker, Warehouse, Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Warehouse, Warehouse, Butcher, Mint, Candlestick Maker
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Highway
+SM.SM - draws Loan
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Candlestick Maker
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Salvager
+SM.SM - trashes Copper
+SM.SM - plays Loan
+SM.SM - reveals Silver
+SM.SM - trashes Silver
+SM.SM - buys Warehouse
+SM.SM - gains Warehouse
+SM.SM - buys Butcher
+SM.SM - gains Butcher
+SM.SM - buys Candlestick Maker
+SM.SM - gains Candlestick Maker
+SM.SM - buys Candlestick Maker
+SM.SM - gains Candlestick Maker
+SM.SM - draws Highway, Highway, Highway, Copper, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Inn, Secret Chamber
+Titandrake - shuffles deck
+Titandrake - draws Butcher
+Titandrake - discards Secret Chamber
+Titandrake - discards Warehouse
+Titandrake - discards Candlestick Maker
+Titandrake - plays Inn
+Titandrake - draws Highway, Silver
+Titandrake - discards Silver
+Titandrake - discards Highway
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Mint
+Titandrake - uses 1 coin token
+Titandrake - gains Gold
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - draws Copper, Candlestick Maker, Highway, Candlestick Maker, Copper
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Highway
+SM.SM - shuffles deck
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Loan
+SM.SM - plays Highway
+SM.SM - draws Warehouse
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Salvager
+SM.SM - plays Warehouse
+SM.SM - draws Candlestick Maker, Candlestick Maker, Candlestick Maker
+SM.SM - discards Copper
+SM.SM - discards Loan
+SM.SM - discards Gold
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Salvager
+SM.SM - uses 5 coin tokens
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Candlestick Maker, Butcher
+SM.SM - shuffles deck
+SM.SM - draws Copper, Loan, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 4 coin tokens
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Warehouse, Copper, Butcher
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Butcher
+SM.SM - receives 2 coin tokens
+SM.SM - trashes Loan
+SM.SM - uses 1 coin token
+SM.SM - uses 1 coin token
+SM.SM - gains Duchy
+SM.SM - plays 1 Copper
+SM.SM - draws Highway, Highway, Salvager, Gold, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Highway, Silver, Gold
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Candlestick Maker
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Silver
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Duchy
+Titandrake - plays Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Highway, Secret Chamber, Duchy, Butcher, Candlestick Maker
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Highway
+SM.SM - draws Province
+SM.SM - plays Highway
+SM.SM - draws Province
+SM.SM - plays Salvager
+SM.SM - trashes Province
+SM.SM - plays 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Warehouse, Highway, Candlestick Maker, Highway, Highway
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Highway
+Titandrake - draws Inn
+Titandrake - plays Inn
+Titandrake - draws Candlestick Maker, Highway
+Titandrake - discards Duchy
+Titandrake - discards Secret Chamber
+Titandrake - plays Highway
+Titandrake - draws Duchy
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Duchy
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - uses 3 coin tokens
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Province, Candlestick Maker, Duchy, Copper
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Province
+SM.SM - plays Highway
+SM.SM - draws Highway
+SM.SM - plays Highway
+SM.SM - draws Candlestick Maker
+SM.SM - plays Highway
+SM.SM - draws Candlestick Maker
+SM.SM - plays Warehouse
+SM.SM - shuffles deck
+SM.SM - draws Candlestick Maker, Copper, Duchy
+SM.SM - discards Province
+SM.SM - discards Duchy
+SM.SM - discards Copper
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - uses 6 coin tokens
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Butcher, Province, Highway, Province, Duchy
+ 
+------------ Game Over ------------
+SM.SM - cards: 7 Highway, 4 Candlestick Maker, 1 Butcher, 1 Warehouse, 1 Salvager, 1 Copper, 1 Gold, 6 Province, 3 Duchy, 3 Estate
+SM.SM - total victory points: 48
+SM.SM - turns: 15
+ 
+Titandrake - cards: 3 Candlestick Maker, 3 Highway, 2 Warehouse, 2 Butcher, 1 Secret Chamber, 1 Inn, 2 Copper, 1 Gold, 4 Duchy, 3 Estate, 1 Province
+Titandrake - total victory points: 21
+Titandrake - turns: 15
+ 
+1st place: SM.SM
+2nd place: Titandrake
+ 

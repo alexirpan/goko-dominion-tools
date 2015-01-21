@@ -1,0 +1,491 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Hamlet, Stonemason, Hermit, Menagerie, Apprentice, Bandit Camp, Catacombs, City, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+munke - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+munke - shuffles deck
+Titandrake - shuffles deck
+munke - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- munke: turn 1 ----------
+munke - plays 4 Copper
+munke - buys Hermit
+munke - gains Hermit
+munke - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Apprentice, Estate, Copper
+ 
+---------- munke: turn 2 ----------
+munke - plays 3 Copper
+munke - buys Menagerie
+munke - gains Menagerie
+munke - shuffles deck
+munke - draws Copper, Estate, Hermit, Copper, Menagerie
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Catacombs
+Titandrake - gains Catacombs
+Titandrake - draws Copper, Hamlet, Copper, Estate, Estate
+ 
+---------- munke: turn 3 ----------
+munke - plays Menagerie
+munke - reveals hand: Copper, Estate, Hermit, Copper
+munke - draws Estate
+munke - plays Hermit
+munke - trashes Estate
+munke - gains Silver
+munke - plays 2 Copper
+munke - buys Hamlet
+munke - gains Hamlet
+munke - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Catacombs
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - plays Catacombs
+Titandrake - looks at Copper, Copper, Apprentice
+Titandrake - places cards in hand:  Copper, Copper, Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Copper
+Titandrake - plays 6 Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 3 coins
+Titandrake - gains Menagerie
+Titandrake - gains Hermit
+Titandrake - gains Stonemason
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Hamlet, Menagerie
+ 
+---------- munke: turn 4 ----------
+munke - plays 4 Copper
+munke - buys Silver
+munke - gains Silver
+munke - draws Copper
+munke - shuffles deck
+munke - draws Copper, Hamlet, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Copper, Copper
+Titandrake - draws Stonemason
+Titandrake - plays Stonemason
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Apprentice, Copper, Catacombs, Copper
+ 
+---------- munke: turn 5 ----------
+munke - plays Hamlet
+munke - draws Hermit
+munke - discards Estate
+munke - receives one action
+munke - plays Hermit
+munke - trashes Estate
+munke - gains Menagerie
+munke - plays 3 Copper
+munke - buys Hermit
+munke - gains Hermit
+munke - draws Menagerie, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Catacombs
+Titandrake - gains Silver
+Titandrake - draws Hermit, Estate
+Titandrake - shuffles deck
+Titandrake - draws Stonemason, Copper, Silver
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Hamlet
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Menagerie, Hamlet, Silver, Copper
+ 
+---------- munke: turn 6 ----------
+munke - plays Menagerie
+munke - reveals hand: Copper, Copper, Copper, Estate
+munke - draws Silver
+munke - plays 3 Copper, 1 Silver
+munke - buys Bandit Camp
+munke - gains Bandit Camp
+munke - draws Silver, Copper
+munke - shuffles deck
+munke - draws Copper, Bandit Camp, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Stonemason
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Stonemason
+Titandrake - draws Hermit, Silver, Copper
+Titandrake - plays Stonemason
+Titandrake - trashes Copper
+Titandrake - plays Hermit
+Titandrake - gains Menagerie
+Titandrake - plays 2 Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper, Apprentice, Copper, Hamlet, Gold
+ 
+---------- munke: turn 7 ----------
+munke - plays Bandit Camp
+munke - draws Hermit
+munke - gains Spoils
+munke - plays Hermit
+munke - trashes Estate
+munke - gains Menagerie
+munke - plays 2 Copper, 1 Silver
+munke - buys Stonemason
+munke - overpays for Stonemason with 2 coins
+munke - gains Hamlet
+munke - gains Hamlet
+munke - gains Stonemason
+munke - draws Copper, Hamlet, Copper, Menagerie, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Hamlet, Silver, Copper, Hamlet, Hamlet
+ 
+---------- munke: turn 8 ----------
+munke - plays Hamlet
+munke - draws Silver
+munke - discards Copper
+munke - receives one action
+munke - discards Copper
+munke - receives one buy
+munke - plays Menagerie
+munke - reveals hand: Copper, Silver
+munke - draws Hermit, Copper, Menagerie
+munke - plays Menagerie
+munke - reveals hand: Hermit, Copper, Copper, Silver
+munke - draws Copper
+munke - plays Hermit
+munke - trashes Stonemason
+munke - gains Menagerie
+munke - plays 3 Copper, 1 Silver
+munke - buys City
+munke - gains City
+munke - shuffles deck
+munke - draws Hermit, Menagerie, Copper, Menagerie, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays Hamlet
+Titandrake - draws Menagerie
+Titandrake - discards Silver
+Titandrake - receives one action
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Hamlet, Silver
+Titandrake - draws Hermit, Copper, Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Stonemason
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Hermit
+Titandrake - trashes Stonemason
+Titandrake - gains Menagerie
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Menagerie, Hamlet, Hamlet, Gold, Apprentice
+ 
+---------- munke: turn 9 ----------
+munke - plays Hermit
+munke - gains Silver
+munke - trashes Hermit
+munke - gains Madman
+munke - draws Hamlet, Silver, Menagerie, Copper, Bandit Camp
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Hamlet, Gold, Apprentice, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hamlet, Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws City
+Titandrake - plays City
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays Hamlet
+Titandrake - draws Hermit
+Titandrake - plays Apprentice
+Titandrake - trashes Silver
+Titandrake - draws Copper, Menagerie, Silver
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Gold, Copper, Hermit, Copper, Silver
+Titandrake - draws Menagerie
+Titandrake - plays Hermit
+Titandrake - gains Menagerie
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Hamlet, Menagerie, Hermit, Copper, Potion
+ 
+---------- munke: turn 10 ----------
+munke - plays Menagerie
+munke - reveals hand: Hamlet, Silver, Copper, Bandit Camp
+munke - draws Hamlet, Menagerie, Spoils
+munke - plays Bandit Camp
+munke - draws Silver
+munke - gains Spoils
+munke - plays Hamlet
+munke - draws Copper
+munke - discards Copper
+munke - receives one action
+munke - discards Silver
+munke - receives one buy
+munke - plays Menagerie
+munke - reveals hand: Hamlet, Spoils, Silver, Copper
+munke - draws Copper, Hermit, Copper
+munke - plays Hamlet
+munke - draws Copper
+munke - plays Hermit
+munke - gains Menagerie
+munke - plays 4 Copper, 1 Silver
+munke - plays Spoils
+munke - buys Hunting Grounds
+munke - gains Hunting Grounds
+munke - buys Menagerie
+munke - gains Menagerie
+munke - draws City, Hamlet
+munke - shuffles deck
+munke - draws Copper, Hamlet, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Hamlet, Hermit, Copper, Potion
+Titandrake - draws Hamlet, Apprentice, Copper
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays Hamlet
+Titandrake - draws Gold
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Apprentice
+Titandrake - trashes Gold
+Titandrake - draws City, Menagerie, Copper, Potion, Hamlet, Menagerie
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Hermit
+Titandrake - gains Hamlet
+Titandrake - plays City
+Titandrake - draws Menagerie, Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Potion, Silver, Menagerie, Potion, Menagerie, Hamlet, Copper
+Titandrake - draws Hamlet
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Hamlet, Potion, Silver, Menagerie, Potion, Hamlet, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Hamlet, Potion, Silver, Potion, Hamlet, Copper
+Titandrake - draws Copper
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Hamlet
+Titandrake - receives one buy
+Titandrake - plays 4 Copper, 2 Potion, 1 Silver
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 5 coins
+Titandrake - gains City
+Titandrake - gains City
+Titandrake - gains Stonemason
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Hamlet, Copper, Hamlet, Silver
+ 
+---------- munke: turn 11 ----------
+munke - plays City
+munke - draws Copper, Hermit
+munke - plays Hamlet
+munke - draws Madman
+munke - discards Copper
+munke - receives one buy
+munke - plays Hamlet
+munke - draws Spoils
+munke - discards Copper
+munke - receives one buy
+munke - plays Madman
+munke - draws Menagerie, Silver, Bandit Camp
+munke - plays Menagerie
+munke - reveals hand: Copper, Hermit, Spoils, Silver, Bandit Camp
+munke - draws Menagerie, Copper, Menagerie
+munke - plays Bandit Camp
+munke - draws Silver
+munke - gains Spoils
+munke - plays Menagerie
+munke - reveals hand: Menagerie, Copper, Copper, Hermit, Spoils, Silver, Silver
+munke - draws Menagerie
+munke - plays Menagerie
+munke - reveals hand: Menagerie, Copper, Copper, Hermit, Spoils, Silver, Silver
+munke - draws Hamlet
+munke - plays Menagerie
+munke - reveals hand: Hamlet, Copper, Copper, Hermit, Spoils, Silver, Silver
+munke - draws Menagerie
+munke - plays Menagerie
+munke - reveals hand: Hamlet, Copper, Copper, Hermit, Spoils, Silver, Silver
+munke - draws Copper
+munke - plays Hamlet
+munke - draws Copper
+munke - plays Hermit
+munke - gains Silver
+munke - plays 4 Copper, 2 Silver
+munke - plays Spoils
+munke - buys City
+munke - gains City
+munke - buys Stonemason
+munke - overpays for Stonemason with 5 coins
+munke - gains City
+munke - gains City
+munke - gains Stonemason
+munke - draws Hunting Grounds, Menagerie, Silver, Copper
+munke - shuffles deck
+munke - draws Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Hamlet
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Hamlet
+Titandrake - draws Menagerie, Potion, Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Menagerie, Potion, Silver, Hamlet
+Titandrake - draws Stonemason, City, Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Stonemason, City, Menagerie, Potion, Silver, Hamlet
+Titandrake - draws City, Copper, Vineyard
+Titandrake - plays City
+Titandrake - draws Hamlet, City
+Titandrake - plays City
+Titandrake - draws Hamlet, Apprentice
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Hamlet
+Titandrake - receives one action
+Titandrake - discards Hamlet
+Titandrake - receives one buy
+Titandrake - plays Menagerie
+Titandrake - reveals hand: City, Copper, Vineyard, Stonemason, Potion, Silver, Hamlet, Apprentice
+Titandrake - draws Copper, Hermit, Hamlet
+Titandrake - plays City
+Titandrake - draws Potion, Vineyard
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Vineyard
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Hamlet
+Titandrake - discards Vineyard
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Vineyard
+Titandrake - discards Vineyard
+Titandrake - receives one buy
+Titandrake - plays Stonemason
+Titandrake - trashes Hermit
+Titandrake - gains Stonemason
+Titandrake - gains Stonemason
+Titandrake - plays 3 Copper, 2 Potion, 1 Silver
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 2 coins
+Titandrake - gains Stonemason
+Titandrake - gains Stonemason
+Titandrake - gains Stonemason
+Titandrake - buys Stonemason
+Titandrake - gains Stonemason
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Stonemason, Estate, Hamlet
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Hamlet, 7 Stonemason, 4 Menagerie, 3 City, 1 Apprentice, 4 Copper, 2 Potion, 1 Silver, 4 Vineyard, 1 Estate
+Titandrake - total victory points: 29
+Titandrake - turns: 12
+ 
+munke - cards: 6 Menagerie, 4 City, 3 Hamlet, 1 Hunting Grounds, 1 Bandit Camp, 1 Hermit, 1 Stonemason, 7 Copper, 4 Silver, 1 Spoils
+munke - total victory points: 0
+munke - turns: 11
+ 
+1st place: Titandrake
+2nd place: munke
+ 

@@ -1,0 +1,743 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Lighthouse, Forager, Sage, Watchtower, Familiar, Navigator, Spy, Tactician, Treasury, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+blueblimp - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+blueblimp - shuffles deck
+Titandrake - shuffles deck
+blueblimp - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- blueblimp: turn 1 ----------
+blueblimp - plays 3 Copper
+blueblimp - buys Forager
+blueblimp - gains Forager
+blueblimp - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Potion, Estate, Copper, Estate
+ 
+---------- blueblimp: turn 2 ----------
+blueblimp - plays 4 Copper
+blueblimp - buys Lighthouse
+blueblimp - gains Lighthouse
+blueblimp - shuffles deck
+blueblimp - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- blueblimp: turn 3 ----------
+blueblimp - plays 3 Copper
+blueblimp - buys Lighthouse
+blueblimp - gains Lighthouse
+blueblimp - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Navigator
+Titandrake - gains Navigator
+Titandrake - draws Copper, Forager
+Titandrake - shuffles deck
+Titandrake - draws Potion, Navigator, Estate
+ 
+---------- blueblimp: turn 4 ----------
+blueblimp - plays 4 Copper
+blueblimp - buys Lighthouse
+blueblimp - gains Lighthouse
+blueblimp - draws Lighthouse, Forager
+blueblimp - shuffles deck
+blueblimp - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Navigator
+Titandrake - looks at Estate, Copper, Copper, Copper, Copper
+Titandrake - discards: Estate, Copper, Copper, Copper, Copper
+Titandrake - plays 1 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Estate, Copper, Copper, Vineyard
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- blueblimp: turn 5 ----------
+blueblimp - plays Forager
+blueblimp - trashes Copper
+blueblimp - plays Lighthouse
+blueblimp - plays 2 Copper
+blueblimp - buys Lighthouse
+blueblimp - gains Lighthouse
+blueblimp - buys Lighthouse
+blueblimp - gains Lighthouse
+blueblimp - draws Estate, Lighthouse, Copper, Lighthouse, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Copper, Estate, Copper, Copper, Lighthouse
+ 
+---------- blueblimp: turn 6 ----------
+blueblimp - duration Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays 2 Copper
+blueblimp - buys Tactician
+blueblimp - gains Tactician
+blueblimp - draws Copper, Estate, Copper, Estate
+blueblimp - shuffles deck
+blueblimp - draws Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays 3 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Vineyard, Forager, Navigator, Potion
+ 
+---------- blueblimp: turn 7 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - plays 2 Copper
+blueblimp - buys Lighthouse
+blueblimp - gains Lighthouse
+blueblimp - draws Copper, Forager, Lighthouse, Lighthouse, Tactician
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Navigator
+Titandrake - shuffles deck
+Titandrake - looks at Copper, Estate, Vineyard, Lighthouse, Copper
+Titandrake - discards: Copper, Estate, Vineyard, Lighthouse, Copper
+Titandrake - plays Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Navigator
+Titandrake - gains Navigator
+Titandrake - draws Copper, Estate, Potion, Copper, Copper
+ 
+---------- blueblimp: turn 8 ----------
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Tactician
+blueblimp - discards: Copper, Forager
+blueblimp - buys Lighthouse
+blueblimp - gains Lighthouse
+blueblimp - draws Lighthouse, Copper, Copper, Copper
+blueblimp - shuffles deck
+blueblimp - draws Lighthouse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Lighthouse, Estate, Potion, Navigator
+ 
+---------- blueblimp: turn 9 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Tactician
+blueblimp - draws Copper, Copper, Forager, Lighthouse, Estate
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Forager
+blueblimp - trashes Estate
+blueblimp - plays 5 Copper
+blueblimp - buys Treasury
+blueblimp - gains Treasury
+blueblimp - buys Tactician
+blueblimp - gains Tactician
+blueblimp - draws Lighthouse, Lighthouse, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Navigator
+Titandrake - looks at Copper, Estate, Copper, Vineyard, Forager
+Titandrake - discards: Copper, Estate, Copper, Vineyard, Forager
+Titandrake - plays 1 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Copper, Navigator, Copper, Vineyard, Potion
+ 
+---------- blueblimp: turn 10 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays 1 Copper
+blueblimp - buys Treasury
+blueblimp - gains Treasury
+blueblimp - shuffles deck
+blueblimp - draws Treasury, Estate, Forager, Lighthouse, Tactician
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Copper, Lighthouse, Vineyard, Vineyard
+Titandrake - shuffles deck
+Titandrake - draws Potion
+ 
+---------- blueblimp: turn 11 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Treasury
+blueblimp - draws Copper
+blueblimp - plays Forager
+blueblimp - trashes Estate
+blueblimp - plays Tactician
+blueblimp - discards Copper
+blueblimp - buys Lighthouse
+blueblimp - gains Lighthouse
+blueblimp - buys Sage
+blueblimp - gains Sage
+blueblimp - places Treasury on top of deck
+blueblimp - draws Treasury, Copper, Copper, Lighthouse, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Copper, Navigator, Estate, Vineyard, Copper
+ 
+---------- blueblimp: turn 12 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Tactician
+blueblimp - draws Copper, Tactician, Copper, Lighthouse, Treasury
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Treasury
+blueblimp - draws Estate
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Tactician
+blueblimp - discards: Copper, Copper, Copper, Copper, Copper, Estate
+blueblimp - buys Treasury
+blueblimp - gains Treasury
+blueblimp - places Treasury, Treasury on top of deck
+blueblimp - draws Treasury, Treasury, Lighthouse
+blueblimp - shuffles deck
+blueblimp - draws Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Navigator
+Titandrake - looks at Lighthouse, Estate, Navigator, Vineyard, Copper
+Titandrake - discards: Lighthouse, Estate, Navigator, Vineyard, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - draws Vineyard, Copper, Forager, Potion, Vineyard
+ 
+---------- blueblimp: turn 13 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Tactician
+blueblimp - draws Copper, Tactician, Copper, Lighthouse, Treasury
+blueblimp - plays Treasury
+blueblimp - draws Copper
+blueblimp - plays Treasury
+blueblimp - draws Estate
+blueblimp - plays Treasury
+blueblimp - draws Copper
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Tactician
+blueblimp - discards: Copper, Copper, Copper, Copper, Copper, Estate, Copper
+blueblimp - buys Treasury
+blueblimp - gains Treasury
+blueblimp - buys Sage
+blueblimp - gains Sage
+blueblimp - places Treasury, Treasury, Treasury on top of deck
+blueblimp - draws Treasury, Treasury, Treasury, Lighthouse, Lighthouse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Vineyard, Copper, Vineyard
+ 
+---------- blueblimp: turn 14 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Tactician
+blueblimp - draws Lighthouse, Sage, Forager
+blueblimp - shuffles deck
+blueblimp - draws Lighthouse, Copper
+blueblimp - plays Treasury
+blueblimp - draws Tactician
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Sage
+blueblimp - reveals Copper, Sage
+blueblimp - places Sage in hand
+blueblimp - discards Copper
+blueblimp - plays Sage
+blueblimp - reveals Treasury
+blueblimp - places Treasury in hand
+blueblimp - plays Treasury
+blueblimp - draws Copper
+blueblimp - plays Treasury
+blueblimp - draws Copper
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Forager
+blueblimp - trashes Copper
+blueblimp - plays Tactician
+blueblimp - discards: Copper, Copper
+blueblimp - buys Province
+blueblimp - gains Province
+blueblimp - buys Spy
+blueblimp - gains Spy
+blueblimp - draws Estate, Copper, Lighthouse, Copper
+blueblimp - shuffles deck
+blueblimp - draws Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Lighthouse, Forager, Copper, Vineyard, Copper
+ 
+---------- blueblimp: turn 15 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Tactician
+blueblimp - draws Treasury, Forager, Lighthouse, Tactician, Treasury
+blueblimp - plays Treasury
+blueblimp - draws Sage
+blueblimp - plays Sage
+blueblimp - reveals Spy
+blueblimp - places Spy in hand
+blueblimp - plays Spy
+blueblimp - draws Copper
+blueblimp - places Lighthouse on top of deck
+Titandrake - discards Navigator
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Forager
+blueblimp - trashes Estate
+blueblimp - plays Tactician
+blueblimp - discards: Copper, Copper, Copper, Copper
+blueblimp - buys Province
+blueblimp - gains Province
+blueblimp - buys Silver
+blueblimp - gains Silver
+blueblimp - draws Sage, Treasury, Copper, Province, Treasury
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Vineyard, Navigator, Estate, Vineyard, Vineyard
+ 
+---------- blueblimp: turn 16 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Tactician
+blueblimp - shuffles deck
+blueblimp - draws Treasury, Lighthouse, Copper, Lighthouse, Sage
+blueblimp - plays Treasury
+blueblimp - draws Copper
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Sage
+blueblimp - reveals Copper, Tactician
+blueblimp - places Tactician in hand
+blueblimp - discards Copper
+blueblimp - plays Sage
+blueblimp - reveals Forager
+blueblimp - places Forager in hand
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Forager
+blueblimp - trashes Copper
+blueblimp - plays Tactician
+blueblimp - discards: Copper, Province, Copper
+blueblimp - buys Province
+blueblimp - gains Province
+blueblimp - buys Silver
+blueblimp - gains Silver
+blueblimp - draws Treasury, Lighthouse, Spy, Copper, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Navigator
+Titandrake - looks at Vineyard, Lighthouse, Treasury, Potion, Vineyard
+Titandrake - places Vineyard on top of deck
+Titandrake - places Vineyard on top of deck
+Titandrake - places Lighthouse on top of deck
+Titandrake - places Treasury on top of deck
+Titandrake - places Potion on top of deck
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Potion, Treasury, Lighthouse, Vineyard, Vineyard
+ 
+---------- blueblimp: turn 17 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Tactician
+blueblimp - draws Silver
+blueblimp - shuffles deck
+blueblimp - draws Sage, Forager, Copper, Province
+blueblimp - plays Lighthouse
+blueblimp - plays Treasury
+blueblimp - draws Copper
+blueblimp - plays Sage
+blueblimp - reveals Treasury
+blueblimp - places Treasury in hand
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Spy
+blueblimp - draws Lighthouse
+blueblimp - discards Copper
+Titandrake - discards Copper
+blueblimp - plays Lighthouse
+blueblimp - plays Forager
+blueblimp - trashes Silver
+blueblimp - plays 3 Copper
+blueblimp - buys Province
+blueblimp - gains Province
+blueblimp - buys Treasury
+blueblimp - gains Treasury
+blueblimp - draws Sage, Lighthouse, Treasury, Treasury, Tactician
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Treasury
+Titandrake - draws Potion
+Titandrake - plays Lighthouse
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury
+Titandrake - shuffles deck
+Titandrake - draws Navigator, Potion, Vineyard, Potion
+ 
+---------- blueblimp: turn 18 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - plays Sage
+blueblimp - reveals Province
+blueblimp - places Province in hand
+blueblimp - plays Treasury
+blueblimp - draws Silver
+blueblimp - plays Treasury
+blueblimp - shuffles deck
+blueblimp - draws Copper
+blueblimp - plays Lighthouse
+blueblimp - plays Tactician
+blueblimp - discards: Province, Silver, Copper
+blueblimp - buys Treasury
+blueblimp - gains Treasury
+blueblimp - places Treasury, Treasury on top of deck
+blueblimp - draws Treasury, Treasury, Copper, Lighthouse, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Navigator
+Titandrake - looks at Vineyard, Navigator, Forager, Copper, Vineyard
+Titandrake - places Vineyard on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - places Forager on top of deck
+Titandrake - places Navigator on top of deck
+Titandrake - places Vineyard on top of deck
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Vineyard, Navigator, Forager, Copper, Vineyard
+ 
+---------- blueblimp: turn 19 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Tactician
+blueblimp - draws Copper, Lighthouse, Treasury, Sage, Province
+blueblimp - plays Sage
+blueblimp - reveals Tactician
+blueblimp - places Tactician in hand
+blueblimp - plays Treasury
+blueblimp - draws Forager
+blueblimp - plays Treasury
+blueblimp - draws Spy
+blueblimp - plays Spy
+blueblimp - draws Lighthouse
+blueblimp - places Treasury on top of deck
+Titandrake - places Vineyard on top of deck
+blueblimp - plays Treasury
+blueblimp - draws Treasury
+blueblimp - plays Treasury
+blueblimp - draws Treasury
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Forager
+blueblimp - trashes Copper
+blueblimp - plays Tactician
+blueblimp - discards: Copper, Province, Province
+blueblimp - buys Province
+blueblimp - gains Province
+blueblimp - buys Potion
+blueblimp - gains Potion
+blueblimp - draws Province, Copper
+blueblimp - shuffles deck
+blueblimp - draws Copper, Province, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Navigator
+Titandrake - looks at Vineyard, Sage, Estate, Vineyard, Copper
+Titandrake - discards: Vineyard, Sage, Estate, Vineyard, Copper
+Titandrake - buys Navigator
+Titandrake - gains Navigator
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Sage, Copper, Vineyard, Lighthouse
+ 
+---------- blueblimp: turn 20 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - duration Tactician
+blueblimp - draws Forager, Province, Treasury, Silver, Sage
+blueblimp - plays Treasury
+blueblimp - draws Treasury
+blueblimp - plays Sage
+blueblimp - reveals Province
+blueblimp - places Province in hand
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Forager
+blueblimp - trashes Copper
+blueblimp - plays 1 Copper, 1 Silver
+blueblimp - buys Province
+blueblimp - gains Province
+blueblimp - buys Spy
+blueblimp - gains Spy
+blueblimp - draws Lighthouse, Potion, Treasury, Tactician, Treasury
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Vineyard, Copper, Vineyard, Copper, Estate, Copper, Vineyard, Potion
+Titandrake - places Potion in hand
+Titandrake - discards: Vineyard, Copper, Vineyard, Copper, Estate, Copper, Vineyard
+Titandrake - plays Lighthouse
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Vineyard, Treasury, Sage, Sage, Navigator
+ 
+---------- blueblimp: turn 21 ----------
+blueblimp - duration Lighthouse
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Treasury
+blueblimp - draws Treasury
+blueblimp - plays Treasury
+blueblimp - draws Spy
+blueblimp - plays Spy
+blueblimp - draws Sage
+blueblimp - places Treasury on top of deck
+blueblimp - plays Sage
+blueblimp - reveals Treasury
+blueblimp - places Treasury in hand
+blueblimp - plays Treasury
+blueblimp - draws Copper
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays 1 Potion, 1 Copper
+blueblimp - buys Province
+blueblimp - gains Province
+blueblimp - draws Lighthouse
+blueblimp - shuffles deck
+blueblimp - draws Copper, Province, Province, Spy
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Treasury
+Titandrake - draws Navigator
+Titandrake - plays Sage
+Titandrake - reveals Forager
+Titandrake - places Forager in hand
+Titandrake - plays Sage
+Titandrake - reveals Navigator
+Titandrake - places Navigator in hand
+Titandrake - plays Navigator
+Titandrake - looks at Copper, Lighthouse, Vineyard, Estate, Vineyard
+Titandrake - discards: Copper, Lighthouse, Vineyard, Estate, Vineyard
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Vineyard, Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- blueblimp: turn 22 ----------
+blueblimp - duration Lighthouse
+blueblimp - duration Lighthouse
+blueblimp - plays Spy
+blueblimp - draws Province
+blueblimp - discards Province
+Titandrake - discards Copper
+blueblimp - plays Lighthouse
+blueblimp - plays 1 Copper
+blueblimp - buys Spy
+blueblimp - gains Spy
+blueblimp - draws Province, Spy, Sage, Potion, Forager
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Treasury
+Titandrake - draws Vineyard
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Vineyard, Copper, Navigator, Sage
+ 
+---------- blueblimp: turn 23 ----------
+blueblimp - duration Lighthouse
+blueblimp - plays Spy
+blueblimp - draws Treasury
+blueblimp - places Treasury on top of deck
+Titandrake - discards Lighthouse
+blueblimp - plays Treasury
+blueblimp - draws Treasury
+blueblimp - plays Sage
+blueblimp - reveals Lighthouse, Treasury
+blueblimp - places Treasury in hand
+blueblimp - discards Lighthouse
+blueblimp - plays Treasury
+blueblimp - draws Province
+blueblimp - plays Treasury
+blueblimp - draws Treasury
+blueblimp - plays Treasury
+blueblimp - draws Tactician
+blueblimp - plays Tactician
+blueblimp - discards: Province, Potion, Forager, Province
+blueblimp - buys Treasury
+blueblimp - gains Treasury
+blueblimp - places Treasury, Treasury, Treasury, Treasury on top of deck
+blueblimp - draws Treasury, Treasury, Treasury, Treasury, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Treasury
+Titandrake - draws Vineyard
+Titandrake - plays Sage
+Titandrake - reveals Vineyard, Navigator
+Titandrake - places Navigator in hand
+Titandrake - discards Vineyard
+Titandrake - plays Navigator
+Titandrake - looks at Sage, Copper, Vineyard, Estate, Forager
+Titandrake - discards: Sage, Copper, Vineyard, Estate, Forager
+Titandrake - plays Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Vineyard, Lighthouse, Estate, Copper
+ 
+---------- blueblimp: turn 24 ----------
+blueblimp - duration Tactician
+blueblimp - draws Lighthouse, Lighthouse, Lighthouse, Treasury, Treasury
+blueblimp - plays Treasury
+blueblimp - draws Copper
+blueblimp - plays Treasury
+blueblimp - draws Tactician
+blueblimp - plays Treasury
+blueblimp - draws Sage
+blueblimp - plays Treasury
+blueblimp - draws Province
+blueblimp - plays Sage
+blueblimp - shuffles deck
+blueblimp - reveals Lighthouse, Spy
+blueblimp - places Spy in hand
+blueblimp - discards Lighthouse
+blueblimp - plays Spy
+blueblimp - draws Forager
+blueblimp - places Lighthouse on top of deck
+Titandrake - places Vineyard on top of deck
+blueblimp - plays Treasury
+blueblimp - draws Lighthouse
+blueblimp - plays Treasury
+blueblimp - draws Sage
+blueblimp - plays Sage
+blueblimp - reveals Potion
+blueblimp - places Potion in hand
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Lighthouse
+blueblimp - plays Forager
+blueblimp - trashes Potion
+blueblimp - plays 1 Silver, 1 Copper
+blueblimp - buys Province
+blueblimp - gains Province
+blueblimp - buys Duchy
+blueblimp - gains Duchy
+blueblimp - buys Estate
+blueblimp - gains Estate
+blueblimp - draws Lighthouse, Province, Lighthouse, Province, Province
+ 
+------------ Game Over ------------
+blueblimp - cards: 8 Lighthouse, 7 Treasury, 3 Spy, 2 Tactician, 2 Sage, 1 Forager, 2 Copper, 1 Silver, 8 Province, 1 Duchy, 1 Estate
+blueblimp - total victory points: 52
+blueblimp - turns: 24
+ 
+Titandrake - cards: 4 Sage, 3 Navigator, 2 Lighthouse, 1 Treasury, 1 Forager, 1 Spy, 6 Copper, 2 Potion, 8 Vineyard, 3 Estate
+Titandrake - total victory points: 35
+Titandrake - turns: 24
+ 
+1st place: blueblimp
+2nd place: Titandrake
+ 

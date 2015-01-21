@@ -1,0 +1,306 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Vagrant, Caravan, Gardens, Smithy, Spy, Baker, Catacombs, Harem, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Perna - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Perna - shuffles deck
+Titandrake - shuffles deck
+Perna - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Perna: turn 1 ----------
+Perna - plays 3 Copper
+Perna - buys Silver
+Perna - gains Silver
+Perna - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Catacombs
+Titandrake - gains Catacombs
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Perna: turn 2 ----------
+Perna - plays 4 Copper
+Perna - uses 1 coin token
+Perna - buys Catacombs
+Perna - gains Catacombs
+Perna - shuffles deck
+Perna - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Catacombs
+ 
+---------- Perna: turn 3 ----------
+Perna - plays 4 Copper
+Perna - buys Caravan
+Perna - gains Caravan
+Perna - draws Silver, Copper, Estate, Estate, Catacombs
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Estate, Copper, Copper
+Titandrake - discards: Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate
+Titandrake - plays 5 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper
+ 
+---------- Perna: turn 4 ----------
+Perna - plays Catacombs
+Perna - looks at Copper, Copper
+Perna - shuffles deck
+Perna - looks at Caravan
+Perna - discards: Copper, Copper, Caravan
+Perna - draws Copper, Copper, Copper
+Perna - plays 4 Copper, 1 Silver
+Perna - buys Gold
+Perna - gains Gold
+Perna - draws Estate, Copper
+Perna - shuffles deck
+Perna - draws Gold, Copper, Caravan
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Perna: turn 5 ----------
+Perna - plays Caravan
+Perna - draws Silver
+Perna - plays 2 Copper, 1 Gold, 1 Silver
+Perna - buys Gold
+Perna - gains Gold
+Perna - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Catacombs, Silver
+Titandrake - shuffles deck
+Titandrake - draws Gold, Estate
+ 
+---------- Perna: turn 6 ----------
+Perna - duration Caravan
+Perna - draws Copper
+Perna - plays 4 Copper
+Perna - buys Caravan
+Perna - gains Caravan
+Perna - draws Catacombs, Copper
+Perna - shuffles deck
+Perna - draws Estate, Caravan, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Copper, Copper, Copper
+Titandrake - places cards in hand:  Copper, Copper, Copper
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Copper, Silver, Copper
+ 
+---------- Perna: turn 7 ----------
+Perna - plays Caravan
+Perna - draws Gold
+Perna - plays Catacombs
+Perna - looks at Copper, Copper, Copper
+Perna - places cards in hand:  Copper, Copper, Copper
+Perna - plays 5 Copper, 1 Gold
+Perna - buys Province
+Perna - gains Province
+Perna - draws Copper, Caravan, Estate, Estate, Gold
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver, Catacombs
+ 
+---------- Perna: turn 8 ----------
+Perna - duration Caravan
+Perna - draws Silver
+Perna - plays Caravan
+Perna - draws Copper
+Perna - plays 2 Copper, 1 Gold, 1 Silver
+Perna - buys Nobles
+Perna - gains Nobles
+Perna - shuffles deck
+Perna - draws Copper, Province, Nobles, Caravan, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Silver, Copper, Estate
+Titandrake - places cards in hand:  Silver, Copper, Estate
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Copper, Copper, Gold, Harem
+ 
+---------- Perna: turn 9 ----------
+Perna - duration Caravan
+Perna - draws Copper
+Perna - plays Caravan
+Perna - draws Silver
+Perna - plays Nobles
+Perna - draws Estate, Copper, Copper
+Perna - plays 4 Copper, 1 Silver
+Perna - buys Nobles
+Perna - gains Nobles
+Perna - draws Copper, Copper, Gold, Copper, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 1 Harem, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Harem
+ 
+---------- Perna: turn 10 ----------
+Perna - duration Caravan
+Perna - draws Catacombs
+Perna - plays Catacombs
+Perna - looks at Estate
+Perna - shuffles deck
+Perna - looks at Nobles, Copper
+Perna - places cards in hand:  Estate, Nobles, Copper
+Perna - plays 4 Copper, 2 Gold
+Perna - buys Province
+Perna - gains Province
+Perna - draws Copper, Copper, Estate, Caravan, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Copper, 1 Harem, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Perna: turn 11 ----------
+Perna - plays Caravan
+Perna - draws Province
+Perna - plays 3 Copper
+Perna - buys Vagrant
+Perna - gains Vagrant
+Perna - draws Nobles, Silver, Estate
+Perna - shuffles deck
+Perna - draws Copper, Caravan
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - draws Catacombs, Province, Province, Copper, Estate
+ 
+---------- Perna: turn 12 ----------
+Perna - duration Caravan
+Perna - draws Copper
+Perna - plays Caravan
+Perna - draws Province
+Perna - plays Nobles
+Perna - draws Vagrant, Estate, Copper
+Perna - plays 3 Copper, 1 Silver
+Perna - buys Duchy
+Perna - gains Duchy
+Perna - draws Nobles, Copper, Gold, Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Harem, Gold, Silver
+Titandrake - places cards in hand:  Harem, Gold, Silver
+Titandrake - plays 1 Harem, 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Province, Smithy, Gold
+ 
+---------- Perna: turn 13 ----------
+Perna - duration Caravan
+Perna - draws Gold
+Perna - plays Nobles
+Perna - draws Province, Copper, Copper
+Perna - plays 4 Copper, 2 Gold
+Perna - buys Province
+Perna - gains Province
+Perna - draws Catacombs
+Perna - shuffles deck
+Perna - draws Copper, Province, Nobles, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Smithy
+Titandrake - draws Copper, Province, Estate
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Province, Copper, Copper, Duchy
+ 
+---------- Perna: turn 14 ----------
+Perna - plays Nobles
+Perna - takes 2 actions
+Perna - plays Catacombs
+Perna - looks at Copper, Vagrant, Estate
+Perna - discards: Copper, Vagrant, Estate
+Perna - draws Caravan, Gold, Estate
+Perna - plays Caravan
+Perna - draws Caravan
+Perna - plays Caravan
+Perna - draws Copper
+Perna - plays 2 Copper, 1 Gold
+Perna - buys Duchy
+Perna - gains Duchy
+Perna - draws Estate, Duchy, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Harem, Silver, Catacombs, Copper, Copper
+ 
+---------- Perna: turn 15 ----------
+Perna - duration Caravan
+Perna - draws Nobles
+Perna - duration Caravan
+Perna - draws Copper
+Perna - plays Nobles
+Perna - draws Gold, Province, Copper
+Perna - plays 4 Copper, 1 Silver, 1 Gold
+Perna - buys Province
+Perna - gains Province
+Perna - shuffles deck
+Perna - draws Duchy, Vagrant, Duchy, Copper, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Copper, Copper, Estate
+Titandrake - places cards in hand:  Copper, Copper, Estate
+Titandrake - plays 4 Copper, 1 Harem, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Harem
+Titandrake - shuffles deck
+Titandrake - draws Smithy, Duchy, Copper, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Smithy, 1 Catacombs, 7 Copper, 3 Silver, 2 Harem, 1 Gold, 4 Province, 3 Estate, 2 Duchy, 1 Gardens
+Titandrake - total victory points: 39
+Titandrake - turns: 15
+ 
+Perna - cards: 2 Nobles, 2 Caravan, 1 Vagrant, 1 Catacombs, 7 Copper, 2 Gold, 1 Silver, 4 Province, 3 Estate, 2 Duchy
+Perna - total victory points: 37
+Perna - turns: 15
+ 
+1st place: Titandrake
+2nd place: Perna
+ 

@@ -1,0 +1,705 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Remake, Remodel, Catacombs, Graverobber, Hunting Party, Mandarin, Mine, Tactician, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Remake
+SM.SM - gains Remake
+SM.SM - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - shuffles deck
+SM.SM - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 2 Copper
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - draws Copper, Remake, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Copper, Copper, Remake, Estate, Estate
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Remake
+SM.SM - trashes Copper
+SM.SM - trashes Copper
+SM.SM - plays 2 Copper
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - draws Copper, Silver
+SM.SM - shuffles deck
+SM.SM - draws Crossroads, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Remake
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Silver, Estate, Estate
+SM.SM - draws Copper, Remake
+SM.SM - plays Remake
+SM.SM - trashes Estate
+SM.SM - gains Silver
+SM.SM - trashes Estate
+SM.SM - gains Silver
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Remake
+SM.SM - gains Remake
+SM.SM - draws Copper, Estate, Crossroads, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Tactician, Silver, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Estate, Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Silver
+SM.SM - plays 3 Copper, 1 Silver
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Copper, Remake, Silver, Crossroads, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Silver, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Silver, Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Remake
+SM.SM - trashes Crossroads
+SM.SM - gains Silver
+SM.SM - trashes Copper
+SM.SM - plays 1 Copper, 1 Silver
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Silver, Remake
+SM.SM - shuffles deck
+SM.SM - draws Hunting Party, Remake, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Tactician
+Titandrake - draws Silver, Copper, Remake, Silver, Silver
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - plays 4 Silver, 2 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Silver, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Hunting Party
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Estate
+SM.SM - reveals hand: Silver, Remake, Remake, Silver, Estate
+SM.SM - reveals Copper
+SM.SM - places Copper in hand
+SM.SM - plays Remake
+SM.SM - trashes Remake
+SM.SM - gains Mine
+SM.SM - trashes Estate
+SM.SM - gains Silver
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Copper, Copper, Silver, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Copper, Copper, Silver, Silver
+Titandrake - reveals Copper, Silver, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Silver, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Tactician
+Titandrake - reveals hand: Silver, Copper, Copper, Silver, Silver, Tactician
+Titandrake - reveals Crossroads
+Titandrake - places Crossroads in hand
+Titandrake - plays Tactician
+Titandrake - discards: Silver, Copper, Copper, Silver, Silver, Crossroads
+Titandrake - draws Silver, Remake
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Copper, Crossroads
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays 3 Copper, 2 Silver
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Silver, Crossroads
+SM.SM - shuffles deck
+SM.SM - draws Remake, Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Tactician
+Titandrake - draws Silver, Copper, Hunting Party, Copper, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Remake, Hunting Party, Copper, Crossroads, Silver, Copper, Copper, Silver, Copper
+Titandrake - reveals Silver, Silver
+Titandrake - discards: Silver, Silver
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Remake, Copper, Crossroads, Silver, Copper, Copper, Silver, Copper, Silver
+Titandrake - reveals Silver
+Titandrake - discards Silver
+Titandrake - plays Remake
+Titandrake - trashes Crossroads
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - plays 4 Silver, 3 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Silver, Hunting Party, Silver, Silver, Hunting Party
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Hunting Party, Mine, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Silver, Silver, Hunting Party, Hunting Party
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Tactician
+Titandrake - reveals hand: Silver, Silver, Silver, Hunting Party, Copper, Tactician
+Titandrake - reveals Silver, Silver, Copper, Copper, Remake
+Titandrake - places Remake in hand
+Titandrake - discards: Silver, Silver, Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Silver, Silver, Copper, Tactician, Remake, Hunting Party
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Copper, Silver, Copper, Silver
+Titandrake - discards: Silver, Copper, Silver, Copper, Silver
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Silver, Silver, Copper, Tactician, Remake, Silver
+Titandrake - reveals Copper, Silver, Copper, Silver
+Titandrake - discards: Copper, Silver, Copper, Silver
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Tactician
+Titandrake - gains Gold
+Titandrake - plays 4 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Hunting Party, Hunting Party, Silver, Silver
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Silver
+SM.SM - reveals hand: Mine, Copper, Silver, Silver, Silver
+SM.SM - reveals Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Hunting Party
+SM.SM - reveals hand: Mine, Copper, Silver, Silver, Silver, Hunting Party
+SM.SM - shuffles deck
+SM.SM - reveals Silver, Copper, Copper, Crossroads
+SM.SM - places Crossroads in hand
+SM.SM - discards: Silver, Copper, Copper
+SM.SM - plays Hunting Party
+SM.SM - draws Remake
+SM.SM - reveals hand: Mine, Copper, Silver, Silver, Silver, Crossroads, Remake
+SM.SM - reveals Silver, Copper, Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - discards: Silver, Copper
+SM.SM - plays Hunting Party
+SM.SM - draws Silver
+SM.SM - reveals hand: Mine, Copper, Silver, Silver, Silver, Crossroads, Remake, Silver
+SM.SM - shuffles deck
+SM.SM - reveals Copper, Copper, Copper, Silver, Silver
+SM.SM - discards: Copper, Copper, Copper, Silver, Silver
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Mine, Copper, Silver, Silver, Silver, Remake, Silver
+SM.SM - plays Remake
+SM.SM - trashes Silver
+SM.SM - gains Remake
+SM.SM - trashes Copper
+SM.SM - plays Mine
+SM.SM - trashes Silver
+SM.SM - gains Venture
+SM.SM - plays 2 Silver
+SM.SM - plays Venture
+SM.SM - shuffles deck
+SM.SM - reveals Copper
+SM.SM - plays Copper
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Silver, Copper, Silver, Copper, Remake
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Hunting Party, Hunting Party, Silver, Silver, Hunting Party
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Hunting Party, Silver, Silver, Hunting Party, Gold, Copper
+Titandrake - reveals Silver, Remake
+Titandrake - places Remake in hand
+Titandrake - discards Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Hunting Party, Silver, Silver, Gold, Copper, Remake, Copper
+Titandrake - shuffles deck
+Titandrake - reveals Hunting Party, Silver, Silver, Silver, Silver
+Titandrake - discards: Hunting Party, Silver, Silver, Silver, Silver
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Silver, Gold, Copper, Remake, Copper, Silver
+Titandrake - reveals Silver, Silver, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Silver, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Silver, Gold, Copper, Remake, Copper, Silver, Silver
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Silver
+Titandrake - discards: Silver, Silver
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - plays 4 Silver, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Hunting Party, Gold, Silver, Silver
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays 2 Silver, 2 Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - shuffles deck
+SM.SM - draws Hunting Party, Hunting Party, Remake, Hunting Party, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Hunting Party, Gold, Silver, Silver, Silver
+Titandrake - reveals Hunting Party, Hunting Party, Colony
+Titandrake - places Colony in hand
+Titandrake - discards: Hunting Party, Hunting Party
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Gold, Silver, Silver, Silver, Colony, Silver
+Titandrake - reveals Silver, Silver, Remake
+Titandrake - places Remake in hand
+Titandrake - discards: Silver, Silver
+Titandrake - plays 4 Silver, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Colony, Silver, Silver
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Hunting Party
+SM.SM - reveals hand: Hunting Party, Hunting Party, Remake, Copper, Hunting Party
+SM.SM - reveals Crossroads
+SM.SM - places Crossroads in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Copper
+SM.SM - reveals hand: Hunting Party, Hunting Party, Remake, Copper, Crossroads, Copper
+SM.SM - reveals Silver
+SM.SM - places Silver in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Copper
+SM.SM - reveals hand: Hunting Party, Remake, Copper, Crossroads, Copper, Silver, Copper
+SM.SM - reveals Remake, Silver, Silver, Venture
+SM.SM - places Venture in hand
+SM.SM - discards: Remake, Silver, Silver
+SM.SM - plays Hunting Party
+SM.SM - draws Silver
+SM.SM - reveals hand: Remake, Copper, Crossroads, Copper, Silver, Copper, Venture, Silver
+SM.SM - reveals Mine
+SM.SM - places Mine in hand
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Remake, Copper, Copper, Silver, Copper, Venture, Silver, Mine
+SM.SM - plays Mine
+SM.SM - trashes Silver
+SM.SM - gains Gold
+SM.SM - plays Remake
+SM.SM - trashes Copper
+SM.SM - trashes Copper
+SM.SM - plays 1 Copper, 1 Silver, 1 Gold
+SM.SM - plays Venture
+SM.SM - reveals Hunting Party, Gold
+SM.SM - discards Hunting Party
+SM.SM - plays Gold
+SM.SM - buys Platinum
+SM.SM - gains Platinum
+SM.SM - shuffles deck
+SM.SM - draws Hunting Party, Silver, Gold, Remake, Remake
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Gold
+Titandrake - reveals hand: Hunting Party, Colony, Silver, Silver, Gold
+Titandrake - reveals Hunting Party, Hunting Party, Remake
+Titandrake - places Remake in hand
+Titandrake - discards: Hunting Party, Hunting Party
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Colony, Silver, Silver, Gold, Remake, Silver
+Titandrake - reveals Silver, Colony, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Silver, Colony
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Colony, Silver, Silver, Gold, Remake, Silver, Silver
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Colony, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Silver, Colony
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Colony, Silver, Silver, Gold, Remake, Silver, Silver, Hunting Party
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Colony, Silver
+Titandrake - discards: Silver, Colony, Silver
+Titandrake - plays 4 Silver, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Remake, Hunting Party, Hunting Party
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Hunting Party
+SM.SM - reveals hand: Silver, Gold, Remake, Remake, Hunting Party
+SM.SM - reveals Mine
+SM.SM - places Mine in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Venture
+SM.SM - reveals hand: Silver, Gold, Remake, Remake, Mine, Venture
+SM.SM - reveals Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Platinum
+SM.SM - reveals hand: Silver, Gold, Remake, Remake, Mine, Venture, Platinum
+SM.SM - reveals Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Silver
+SM.SM - reveals hand: Silver, Gold, Remake, Remake, Mine, Venture, Platinum, Silver
+SM.SM - reveals Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Crossroads
+SM.SM - reveals hand: Silver, Gold, Remake, Remake, Mine, Venture, Platinum, Silver, Crossroads
+SM.SM - reveals Gold, Silver, Copper
+SM.SM - places Copper in hand
+SM.SM - discards: Gold, Silver
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Silver, Gold, Remake, Remake, Mine, Venture, Platinum, Silver, Copper
+SM.SM - plays Remake
+SM.SM - trashes Remake
+SM.SM - gains Graverobber
+SM.SM - trashes Copper
+SM.SM - plays Mine
+SM.SM - trashes Gold
+SM.SM - gains Platinum
+SM.SM - plays 2 Silver, 2 Platinum
+SM.SM - buys Colony
+SM.SM - gains Colony
+SM.SM - shuffles deck
+SM.SM - draws Silver, Hunting Party, Colony, Remake, Mine
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Silver, Remake, Hunting Party, Silver
+Titandrake - reveals Silver, Colony
+Titandrake - places Colony in hand
+Titandrake - discards Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Silver, Remake, Silver, Colony, Silver
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Colony
+Titandrake - reveals hand: Silver, Silver, Remake, Silver, Colony, Silver, Colony
+Titandrake - reveals Colony, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Colony
+Titandrake - plays Hunting Party
+Titandrake - draws Gold
+Titandrake - reveals hand: Silver, Silver, Remake, Silver, Colony, Silver, Colony, Gold
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Silver, Remake, Silver, Colony, Silver, Colony, Gold, Silver
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Colony
+Titandrake - discards: Silver, Colony
+Titandrake - plays 5 Silver, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Hunting Party, Hunting Party, Silver, Colony
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Graverobber
+SM.SM - reveals hand: Silver, Colony, Remake, Mine, Graverobber
+SM.SM - reveals Platinum
+SM.SM - places Platinum in hand
+SM.SM - plays Mine
+SM.SM - trashes Silver
+SM.SM - gains Venture
+SM.SM - plays Venture
+SM.SM - reveals Hunting Party, Silver
+SM.SM - discards Hunting Party
+SM.SM - plays Silver
+SM.SM - plays 1 Platinum
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Crossroads, Hunting Party, Silver, Hunting Party, Hunting Party
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Colony
+Titandrake - reveals hand: Hunting Party, Hunting Party, Silver, Colony, Colony
+Titandrake - reveals Silver, Hunting Party, Hunting Party, Silver, Silver, Silver, Remake
+Titandrake - places Remake in hand
+Titandrake - discards: Silver, Hunting Party, Hunting Party, Silver, Silver, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Colony
+Titandrake - reveals hand: Hunting Party, Silver, Colony, Colony, Remake, Colony
+Titandrake - reveals Silver, Gold
+Titandrake - places Gold in hand
+Titandrake - discards Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Colony
+Titandrake - reveals hand: Silver, Colony, Colony, Remake, Colony, Gold, Colony
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Colony, Colony, Remake, Colony, Gold, Colony, Silver
+Titandrake - reveals Silver, Silver, Silver, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Silver, Silver, Silver
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Colony, Colony, Remake, Colony, Gold, Colony, Silver, Silver
+Titandrake - reveals Silver, Silver, Silver
+Titandrake - discards: Silver, Silver, Silver
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Silver, Hunting Party, Colony
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Venture
+SM.SM - reveals hand: Crossroads, Hunting Party, Silver, Hunting Party, Venture
+SM.SM - reveals Platinum
+SM.SM - places Platinum in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Gold
+SM.SM - reveals hand: Crossroads, Hunting Party, Silver, Venture, Platinum, Gold
+SM.SM - shuffles deck
+SM.SM - reveals Province
+SM.SM - places Province in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Silver
+SM.SM - reveals hand: Crossroads, Silver, Venture, Platinum, Gold, Province, Silver
+SM.SM - reveals Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Colony
+SM.SM - reveals hand: Crossroads, Silver, Venture, Platinum, Gold, Province, Silver, Colony
+SM.SM - reveals Graverobber
+SM.SM - places Graverobber in hand
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Silver, Venture, Platinum, Gold, Province, Silver, Colony, Graverobber
+SM.SM - draws Platinum, Mine
+SM.SM - plays Graverobber
+SM.SM - trashes Mine
+SM.SM - gains Province
+SM.SM - plays 2 Platinum, 2 Silver, 1 Gold
+SM.SM - plays Venture
+SM.SM - reveals Remake, Hunting Party, Venture
+SM.SM - discards: Remake, Hunting Party
+SM.SM - plays Venture
+SM.SM - shuffles deck
+SM.SM - reveals Hunting Party, Remake, Province
+SM.SM - discards: Hunting Party, Remake, Province
+SM.SM - buys Colony
+SM.SM - gains Colony
+SM.SM - shuffles deck
+SM.SM - draws Platinum, Crossroads, Colony, Hunting Party, Hunting Party
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Gold, Silver, Silver, Colony, Silver
+Titandrake - reveals Colony, Silver, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Colony, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Gold, Silver, Silver, Colony, Silver, Silver
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Platinum
+Titandrake - reveals hand: Gold, Silver, Silver, Colony, Silver, Silver, Platinum
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Colony
+Titandrake - reveals hand: Gold, Silver, Silver, Colony, Silver, Silver, Platinum, Colony
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Remake
+Titandrake - reveals hand: Gold, Silver, Silver, Colony, Silver, Silver, Platinum, Colony, Remake
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Colony, Colony, Silver
+Titandrake - discards: Silver, Colony, Colony, Silver
+Titandrake - plays 4 Silver, 1 Gold, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Silver, Hunting Party, Platinum, Silver, Silver
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Graverobber
+SM.SM - reveals hand: Platinum, Crossroads, Colony, Hunting Party, Graverobber
+SM.SM - reveals Hunting Party, Platinum, Venture
+SM.SM - places Venture in hand
+SM.SM - discards: Hunting Party, Platinum
+SM.SM - plays Hunting Party
+SM.SM - draws Hunting Party
+SM.SM - reveals hand: Platinum, Crossroads, Colony, Graverobber, Venture, Hunting Party
+SM.SM - reveals Venture, Province
+SM.SM - places Province in hand
+SM.SM - discards Venture
+SM.SM - plays Hunting Party
+SM.SM - draws Silver
+SM.SM - reveals hand: Platinum, Crossroads, Colony, Graverobber, Venture, Province, Silver
+SM.SM - reveals Colony, Province, Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - discards: Colony, Province
+SM.SM - plays Hunting Party
+SM.SM - draws Silver
+SM.SM - reveals hand: Platinum, Crossroads, Colony, Graverobber, Venture, Province, Silver, Silver
+SM.SM - reveals Remake
+SM.SM - places Remake in hand
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Platinum, Colony, Graverobber, Venture, Province, Silver, Silver, Remake
+SM.SM - draws Gold
+SM.SM - shuffles deck
+SM.SM - draws Platinum
+SM.SM - plays Remake
+SM.SM - trashes Silver
+SM.SM - gains Remodel
+SM.SM - trashes Silver
+SM.SM - gains Remodel
+SM.SM - plays Graverobber
+SM.SM - gains Mine
+SM.SM - plays 2 Platinum, 1 Gold
+SM.SM - plays Venture
+SM.SM - reveals Mine, Hunting Party, Province, Venture
+SM.SM - discards: Mine, Hunting Party, Province
+SM.SM - plays Venture
+SM.SM - shuffles deck
+SM.SM - reveals Colony, Hunting Party, Province, Mine, Remodel, Remodel
+SM.SM - discards: Colony, Hunting Party, Province, Mine, Remodel, Remodel
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - shuffles deck
+SM.SM - draws Venture, Colony, Colony, Province, Platinum
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 3 Silver, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Colony, Gold, Colony, Colony, Hunting Party
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Hunting Party, 1 Remake, 6 Silver, 1 Gold, 1 Platinum, 6 Colony
+Titandrake - total victory points: 60
+Titandrake - turns: 17
+ 
+SM.SM - cards: 5 Hunting Party, 2 Remodel, 1 Graverobber, 1 Mine, 1 Remake, 1 Crossroads, 2 Venture, 2 Platinum, 1 Gold, 3 Province, 2 Colony
+SM.SM - total victory points: 38
+SM.SM - turns: 17
+ 
+1st place: Titandrake
+2nd place: SM.SM
+ 

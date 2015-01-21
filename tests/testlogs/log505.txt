@@ -1,0 +1,494 @@
+------------ Game Setup ------------
+Supply cards: Embargo, University, Oasis, Farming Village, Island, Bandit Camp, City, Council Room, Governor, Mountebank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Potion
+lightbulb - gains Potion
+lightbulb - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Oasis
+lightbulb - gains Oasis
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Oasis, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Potion, Copper, Oasis, Copper, Copper
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays Oasis
+lightbulb - draws Copper
+lightbulb - discards Estate
+lightbulb - plays 4 Copper
+lightbulb - buys Mountebank
+lightbulb - gains Mountebank
+lightbulb - draws Potion, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Oasis
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays 2 Copper, 1 Potion
+lightbulb - buys University
+lightbulb - gains University
+lightbulb - draws Copper
+lightbulb - shuffles deck
+lightbulb - draws Mountebank, Oasis, Copper, University
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays University
+lightbulb - gains Council Room
+lightbulb - plays Oasis
+lightbulb - draws Copper
+lightbulb - discards Copper
+lightbulb - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+lightbulb - plays 2 Copper
+lightbulb - buys Governor
+lightbulb - gains Governor
+lightbulb - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, University, Estate, Copper, Oasis
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays 2 Copper
+lightbulb - buys Embargo
+lightbulb - gains Embargo
+lightbulb - draws Copper, Copper, Potion
+lightbulb - shuffles deck
+lightbulb - draws University, Council Room
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Oasis
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - plays University
+Titandrake - gains Council Room
+Titandrake - plays 2 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Estate, Potion, Oasis
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays University
+lightbulb - gains City
+lightbulb - plays Council Room
+lightbulb - draws Copper, Estate, Governor, Oasis
+Titandrake - draws Estate
+lightbulb - plays Oasis
+lightbulb - draws Estate
+lightbulb - discards Estate
+lightbulb - plays Governor
+lightbulb - chooses to draw cards
+lightbulb - draws Copper, Copper, Copper
+Titandrake - draws Copper
+lightbulb - plays 6 Copper, 1 Potion
+lightbulb - buys University
+lightbulb - gains University
+lightbulb - buys Mountebank
+lightbulb - gains Mountebank
+lightbulb - draws Copper, Embargo, Estate, Mountebank
+lightbulb - shuffles deck
+lightbulb - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, University, Mountebank, Copper, Copper
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+lightbulb - plays 2 Copper
+lightbulb - buys Farming Village
+lightbulb - gains Farming Village
+lightbulb - draws Oasis, Copper, Council Room, Copper, University
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays University
+Titandrake - gains City
+Titandrake - plays Mountebank
+lightbulb - gains Curse
+lightbulb - gains Copper
+Titandrake - plays 3 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Copper, Estate, Copper, Oasis, Oasis
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays University
+lightbulb - gains City
+lightbulb - plays Council Room
+lightbulb - draws Copper, Governor, Copper, Copper
+Titandrake - draws Council Room
+lightbulb - plays Governor
+lightbulb - chooses to gain a gold
+lightbulb - gains Gold
+Titandrake - gains Silver
+lightbulb - plays Oasis
+lightbulb - draws Mountebank
+lightbulb - discards Copper
+lightbulb - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+lightbulb - plays 4 Copper
+lightbulb - buys City
+lightbulb - gains City
+lightbulb - draws Estate, Potion, University, Estate, City
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Oasis
+Titandrake - shuffles deck
+Titandrake - draws University
+Titandrake - discards Estate
+Titandrake - plays Oasis
+Titandrake - draws Curse
+Titandrake - discards Curse
+Titandrake - plays University
+Titandrake - gains City
+Titandrake - plays Council Room
+Titandrake - draws Copper, Curse, City, University
+lightbulb - shuffles deck
+lightbulb - draws Copper
+Titandrake - plays City
+Titandrake - draws Copper
+Titandrake - plays University
+Titandrake - gains City
+Titandrake - plays 4 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Copper, Copper, Potion, Copper, Copper
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays City
+lightbulb - draws Copper
+lightbulb - plays University
+lightbulb - gains City
+lightbulb - plays 2 Copper, 1 Potion
+lightbulb - buys University
+lightbulb - gains University
+lightbulb - draws Oasis, Mountebank, Farming Village, Curse, Governor
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Mountebank, Silver, Estate, Estate
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays Farming Village
+lightbulb - reveals Copper
+lightbulb - places Copper in hand
+lightbulb - plays Oasis
+lightbulb - draws Embargo
+lightbulb - discards Curse
+lightbulb - plays Governor
+lightbulb - chooses to draw cards
+lightbulb - draws Mountebank, Council Room, Copper
+Titandrake - draws City
+lightbulb - plays Council Room
+lightbulb - draws City, Gold, University, Copper
+Titandrake - draws Curse
+lightbulb - plays University
+lightbulb - gains City
+lightbulb - plays City
+lightbulb - draws Copper, Copper
+lightbulb - plays Mountebank
+Titandrake - discards Curse
+lightbulb - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+lightbulb - plays Embargo
+lightbulb - embargoes Mountebank
+lightbulb - trashes Embargo
+lightbulb - plays 5 Copper, 1 Gold
+lightbulb - buys Colony
+lightbulb - gains Colony
+lightbulb - buys Farming Village
+lightbulb - gains Farming Village
+lightbulb - draws City, Copper, Estate
+lightbulb - shuffles deck
+lightbulb - draws University, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays City
+Titandrake - draws Oasis, Copper
+Titandrake - plays Oasis
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays Mountebank
+lightbulb - gains Curse
+lightbulb - gains Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, City, Copper, Copper, City
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays City
+lightbulb - draws Copper, University
+lightbulb - plays University
+lightbulb - gains Governor
+lightbulb - plays University
+lightbulb - gains Governor
+lightbulb - plays 2 Copper, 1 Gold
+lightbulb - buys Council Room
+lightbulb - gains Council Room
+lightbulb - draws Copper, Potion, Estate, Oasis, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays City
+Titandrake - draws Curse, Potion
+Titandrake - plays City
+Titandrake - draws University, Curse
+Titandrake - plays University
+Titandrake - gains Council Room
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Oasis, Copper, Curse, City
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Oasis
+lightbulb - draws University
+lightbulb - discards Estate
+lightbulb - plays University
+lightbulb - gains Governor
+lightbulb - plays 2 Copper, 1 Potion
+lightbulb - buys University
+lightbulb - gains University
+lightbulb - draws Governor, Curse, Estate, City, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays City
+Titandrake - draws Oasis, City
+Titandrake - plays City
+Titandrake - draws Curse, Copper
+Titandrake - plays Oasis
+Titandrake - draws University
+Titandrake - discards Curse
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Curse
+Titandrake - plays University
+Titandrake - gains Governor
+Titandrake - plays 4 Copper
+Titandrake - buys Governor
+Titandrake - gains Governor
+Titandrake - draws Council Room, Estate, University, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays City
+lightbulb - draws Colony, Copper
+lightbulb - plays Governor
+lightbulb - chooses to draw cards
+lightbulb - draws Copper, Council Room, Mountebank
+Titandrake - draws Oasis
+lightbulb - plays Council Room
+lightbulb - draws Farming Village, Mountebank, City, City
+Titandrake - draws Gold
+lightbulb - plays City
+lightbulb - draws City, Copper
+lightbulb - plays Farming Village
+lightbulb - reveals Farming Village
+lightbulb - places Farming Village in hand
+lightbulb - plays Farming Village
+lightbulb - shuffles deck
+lightbulb - reveals Gold
+lightbulb - places Gold in hand
+lightbulb - plays City
+lightbulb - draws Governor, University
+lightbulb - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+lightbulb - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+lightbulb - plays City
+lightbulb - draws Copper, City
+lightbulb - plays University
+lightbulb - gains Governor
+lightbulb - plays City
+lightbulb - draws Copper, Oasis
+lightbulb - plays Oasis
+lightbulb - draws Estate
+lightbulb - discards Curse
+lightbulb - plays Governor
+lightbulb - chooses to gain a gold
+lightbulb - gains Gold
+Titandrake - gains Silver
+lightbulb - plays 6 Copper, 1 Gold
+lightbulb - buys Colony
+lightbulb - gains Colony
+lightbulb - buys Oasis
+lightbulb - gains Oasis
+lightbulb - draws Copper, Governor, Curse, University, University
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays University
+Titandrake - gains Governor
+Titandrake - plays Council Room
+Titandrake - draws Copper, City, City, Curse
+lightbulb - draws University
+Titandrake - plays City
+Titandrake - draws Curse, Estate
+Titandrake - plays City
+Titandrake - draws Copper, Silver
+Titandrake - plays 5 Copper, 1 Gold, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, City, Curse, University, Copper
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays University
+lightbulb - gains Governor
+lightbulb - plays Governor
+lightbulb - chooses to draw cards
+lightbulb - draws Estate, Council Room, Governor
+Titandrake - draws University
+lightbulb - plays University
+lightbulb - gains Governor
+lightbulb - plays Council Room
+lightbulb - draws Copper, Copper, Potion
+lightbulb - shuffles deck
+lightbulb - draws Oasis
+Titandrake - draws Estate
+lightbulb - plays Oasis
+lightbulb - draws Copper
+lightbulb - discards Curse
+lightbulb - plays Governor
+lightbulb - chooses to draw cards
+lightbulb - draws Governor, Governor, City
+Titandrake - draws Mountebank
+lightbulb - plays City
+lightbulb - draws University, Colony
+lightbulb - plays Governor
+lightbulb - chooses to draw cards
+lightbulb - draws Estate, Farming Village, Mountebank
+Titandrake - draws Council Room
+lightbulb - plays University
+lightbulb - gains Island
+lightbulb - plays University
+lightbulb - gains Island
+lightbulb - plays Farming Village
+lightbulb - reveals Gold
+lightbulb - places Gold in hand
+lightbulb - plays Mountebank
+Titandrake - discards Curse
+lightbulb - plays Governor
+lightbulb - chooses to draw cards
+lightbulb - draws Council Room, Copper, Copper
+Titandrake - draws City
+lightbulb - plays Council Room
+lightbulb - draws Governor, Mountebank, Copper, City
+Titandrake - draws Copper
+lightbulb - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+lightbulb - plays City
+lightbulb - draws Curse, Copper
+lightbulb - plays Governor
+lightbulb - chooses to draw cards
+lightbulb - draws City, Gold, Oasis
+Titandrake - draws Copper
+lightbulb - plays City
+lightbulb - draws Colony, City
+lightbulb - plays City
+lightbulb - draws Farming Village, Estate
+lightbulb - plays Farming Village
+lightbulb - reveals City
+lightbulb - places City in hand
+lightbulb - plays City
+lightbulb - draws Governor, Governor
+lightbulb - plays Oasis
+lightbulb - draws Copper
+lightbulb - discards Curse
+lightbulb - plays Governor
+lightbulb - chooses to draw cards
+lightbulb - shuffles deck
+lightbulb - draws Island, Curse, Curse
+Titandrake - draws Oasis
+lightbulb - plays Governor
+lightbulb - chooses to trash a card
+lightbulb - trashes Potion
+lightbulb - gains Gold
+lightbulb - plays Island
+lightbulb - sets aside Estate
+lightbulb - plays 9 Copper, 2 Gold
+lightbulb - buys Curse
+lightbulb - gains Curse
+lightbulb - buys Colony
+lightbulb - gains Colony
+lightbulb - buys Colony
+lightbulb - gains Colony
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - draws Island
+lightbulb - shuffles deck
+lightbulb - draws Governor, University, Copper, City
+ 
+------------ Game Over ------------
+lightbulb - cards: 7 Governor, 5 City, 4 University, 2 Island, 2 Council Room, 2 Oasis, 2 Farming Village, 2 Mountebank, 9 Copper, 3 Gold, 5 Estate, 4 Colony, 3 Curse
+lightbulb - total victory points: 46
+lightbulb - turns: 15
+ 
+Titandrake - cards: 5 City, 4 University, 3 Oasis, 3 Governor, 2 Council Room, 14 Copper, 1 Mountebank, 2 Silver, 1 Gold, 1 Potion, 3 Estate, 1 Colony, 7 Curse
+Titandrake - total victory points: 6
+Titandrake - turns: 14
+ 
+1st place: lightbulb
+2nd place: Titandrake
+ 

@@ -1,0 +1,410 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Cutpurse, Treasure Map, Duke, Market, Outpost, Torturer, Venture, Witch, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+chenda - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+chenda - shuffles deck
+Titandrake - shuffles deck
+chenda - draws Estate, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- chenda: turn 1 ----------
+chenda - plays 2 Copper
+chenda - buys Courtyard
+chenda - gains Courtyard
+chenda - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- chenda: turn 2 ----------
+chenda - plays 5 Copper
+chenda - buys Witch
+chenda - gains Witch
+chenda - shuffles deck
+chenda - draws Copper, Estate, Estate, Estate, Witch
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- chenda: turn 3 ----------
+chenda - plays Witch
+chenda - draws Copper, Copper
+Titandrake - gains Curse
+chenda - plays 3 Copper
+chenda - buys Silver
+chenda - gains Silver
+chenda - draws Copper, Copper, Copper, Copper, Courtyard
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Courtyard, Copper, Copper, Copper, Copper
+ 
+---------- chenda: turn 4 ----------
+chenda - plays Courtyard
+chenda - shuffles deck
+chenda - draws Copper, Silver, Witch
+chenda - places Witch on top of deck
+chenda - plays 5 Copper, 1 Silver
+chenda - buys Gold
+chenda - gains Gold
+chenda - draws Witch, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays 5 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Silver, Copper, Copper, Curse, Estate
+ 
+---------- chenda: turn 5 ----------
+chenda - plays Witch
+chenda - draws Estate
+chenda - shuffles deck
+chenda - draws Gold
+Titandrake - gains Curse
+chenda - plays 2 Copper, 1 Gold
+chenda - buys Venture
+chenda - gains Venture
+chenda - draws Copper, Copper, Courtyard, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Silver
+ 
+---------- chenda: turn 6 ----------
+chenda - plays Courtyard
+chenda - draws Copper, Copper
+chenda - shuffles deck
+chenda - draws Estate
+chenda - places Copper on top of deck
+chenda - plays 4 Copper, 1 Silver
+chenda - buys Gold
+chenda - gains Gold
+chenda - draws Copper, Gold, Witch, Estate, Venture
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Courtyard, Estate, Copper, Silver, Curse
+ 
+---------- chenda: turn 7 ----------
+chenda - plays Witch
+chenda - draws Copper, Copper
+Titandrake - gains Curse
+chenda - plays 3 Copper, 1 Gold
+chenda - plays Venture
+chenda - shuffles deck
+chenda - reveals Estate, Silver
+chenda - discards Estate
+chenda - plays Silver
+chenda - buys Hoard
+chenda - gains Hoard
+chenda - draws Estate, Copper, Copper, Copper, Courtyard
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Copper
+Titandrake - places Estate on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - draws Estate, Curse, Witch, Copper, Copper
+ 
+---------- chenda: turn 8 ----------
+chenda - plays Courtyard
+chenda - draws Gold, Copper
+chenda - shuffles deck
+chenda - draws Copper
+chenda - places Copper on top of deck
+chenda - plays 4 Copper, 1 Gold
+chenda - buys Gold
+chenda - gains Gold
+chenda - draws Copper, Witch, Copper, Gold, Hoard
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Witch
+Titandrake - shuffles deck
+Titandrake - draws Estate, Curse
+chenda - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Copper, Estate, Copper, Curse, Copper
+ 
+---------- chenda: turn 9 ----------
+chenda - plays Witch
+chenda - draws Venture, Estate
+Titandrake - gains Curse
+chenda - plays 2 Copper, 1 Gold
+chenda - plays Venture
+chenda - reveals Silver
+chenda - plays Silver
+chenda - plays Hoard
+chenda - buys Province
+chenda - gains Gold
+chenda - gains Province
+chenda - draws Estate, Copper
+chenda - shuffles deck
+chenda - draws Province, Copper, Curse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Courtyard, Hoard, Silver, Witch
+ 
+---------- chenda: turn 10 ----------
+chenda - plays 2 Copper
+chenda - buys Courtyard
+chenda - gains Courtyard
+chenda - draws Estate, Copper, Gold, Silver, Courtyard
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Silver
+chenda - gains Curse
+Titandrake - plays Hoard
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Witch, Curse, Silver, Courtyard
+ 
+---------- chenda: turn 11 ----------
+chenda - plays Courtyard
+chenda - draws Copper, Venture, Hoard
+chenda - places Copper on top of deck
+chenda - plays 1 Gold, 1 Silver, 1 Copper
+chenda - plays Venture
+chenda - reveals Copper
+chenda - plays Copper
+chenda - plays Hoard
+chenda - buys Province
+chenda - gains Gold
+chenda - gains Province
+chenda - draws Gold, Copper, Witch, Gold, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Curse, Estate, Curse
+Titandrake - places Witch on top of deck
+Titandrake - plays 2 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Witch, Copper, Copper, Copper, Witch
+ 
+---------- chenda: turn 12 ----------
+chenda - plays Witch
+chenda - draws Gold, Estate
+Titandrake - gains Curse
+chenda - plays 3 Gold, 2 Copper
+chenda - buys Province
+chenda - gains Province
+chenda - draws Copper
+chenda - shuffles deck
+chenda - draws Estate, Estate, Gold, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Witch
+Titandrake - draws Courtyard, Gold
+chenda - gains Curse
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Estate, Copper, Silver, Duchy
+ 
+---------- chenda: turn 13 ----------
+chenda - plays 2 Copper, 1 Gold
+chenda - buys Venture
+chenda - gains Venture
+chenda - draws Courtyard, Province, Gold, Curse, Witch
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Hoard, Copper, Silver, Copper, Copper
+ 
+---------- chenda: turn 14 ----------
+chenda - plays Witch
+chenda - draws Copper, Copper
+Titandrake - gains Curse
+chenda - plays 2 Copper, 1 Gold
+chenda - buys Venture
+chenda - gains Venture
+chenda - draws Gold, Curse, Copper, Venture, Courtyard
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Curse, Silver, Copper, Witch
+ 
+---------- chenda: turn 15 ----------
+chenda - plays Courtyard
+chenda - draws Copper, Gold, Estate
+chenda - places Venture on top of deck
+chenda - plays 2 Gold, 2 Copper
+chenda - buys Province
+chenda - gains Province
+chenda - draws Venture, Copper, Province, Province, Hoard
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Witch
+Titandrake - draws Courtyard, Courtyard
+chenda - gains Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Hoard, Gold, Duchy, Copper
+ 
+---------- chenda: turn 16 ----------
+chenda - plays 1 Copper
+chenda - plays Hoard
+chenda - plays Venture
+chenda - reveals Gold
+chenda - plays Gold
+chenda - buys Duchy
+chenda - gains Gold
+chenda - gains Duchy
+chenda - draws Silver
+chenda - shuffles deck
+chenda - draws Province, Curse, Province, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Silver, Curse, Witch, Silver, Copper
+ 
+---------- chenda: turn 17 ----------
+chenda - plays 1 Silver, 1 Copper
+chenda - buys Courtyard
+chenda - gains Courtyard
+chenda - draws Curse, Venture, Courtyard, Gold, Venture
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Silver
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Estate, Curse, Duchy, Copper
+ 
+---------- chenda: turn 18 ----------
+chenda - plays Courtyard
+chenda - draws Hoard, Copper, Curse
+chenda - places Copper on top of deck
+chenda - plays 1 Gold
+chenda - plays Venture
+chenda - reveals Copper
+chenda - plays Copper
+chenda - plays Hoard
+chenda - plays Venture
+chenda - reveals Estate, Gold
+chenda - discards Estate
+chenda - plays Gold
+chenda - buys Province
+chenda - gains Gold
+chenda - gains Province
+chenda - draws Copper, Copper, Duchy, Gold, Venture
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse, Estate, Curse, Estate, Copper
+ 
+---------- chenda: turn 19 ----------
+chenda - plays 2 Copper, 1 Gold
+chenda - plays Venture
+chenda - reveals Gold
+chenda - plays Gold
+chenda - buys Province
+chenda - gains Province
+chenda - draws Witch, Gold, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - draws Duchy, Silver
+Titandrake - shuffles deck
+Titandrake - draws Witch, Copper, Witch
+ 
+---------- chenda: turn 20 ----------
+chenda - plays Witch
+chenda - draws Estate, Curse
+chenda - plays 2 Gold, 2 Copper
+chenda - buys Province
+chenda - gains Province
+chenda - draws Courtyard, Province, Estate, Copper, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Copper, Curse, Silver, Duchy
+ 
+---------- chenda: turn 21 ----------
+chenda - plays Courtyard
+chenda - shuffles deck
+chenda - draws Curse, Gold, Silver
+chenda - places Copper on top of deck
+chenda - plays 1 Gold, 1 Silver
+chenda - buys Duchy
+chenda - gains Duchy
+chenda - draws Copper, Gold, Venture, Province, Curse
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse, Gold, Courtyard, Gold, Duchy
+ 
+---------- chenda: turn 22 ----------
+chenda - plays 1 Copper, 1 Gold
+chenda - plays Venture
+chenda - reveals Gold
+chenda - plays Gold
+chenda - buys Province
+chenda - gains Province
+chenda - draws Venture, Copper, Gold, Hoard, Copper
+ 
+------------ Game Over ------------
+chenda - cards: 3 Courtyard, 1 Witch, 7 Copper, 7 Gold, 3 Venture, 1 Hoard, 1 Silver, 8 Province, 3 Estate, 2 Duchy, 4 Curse
+chenda - total victory points: 53
+chenda - turns: 22
+ 
+Titandrake - cards: 2 Courtyard, 2 Witch, 8 Silver, 7 Copper, 2 Gold, 1 Hoard, 6 Duchy, 4 Estate, 6 Curse
+Titandrake - total victory points: 16
+Titandrake - turns: 21
+ 
+1st place: chenda
+2nd place: Titandrake
+ 

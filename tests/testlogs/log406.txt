@@ -1,0 +1,377 @@
+------------ Game Setup ------------
+Supply cards: Tunnel, Ironmonger, Island, Baker, Butcher, Council Room, Stables, Tribute, Wharf, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Slyfox - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Slyfox - shuffles deck
+Titandrake - shuffles deck
+Slyfox - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Slyfox: turn 1 ----------
+Slyfox - plays 3 Copper
+Slyfox - buys Silver
+Slyfox - gains Silver
+Slyfox - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Slyfox: turn 2 ----------
+Slyfox - plays 4 Copper
+Slyfox - uses 1 coin token
+Slyfox - buys Wharf
+Slyfox - gains Wharf
+Slyfox - shuffles deck
+Slyfox - draws Copper, Wharf, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Slyfox: turn 3 ----------
+Slyfox - plays Wharf
+Slyfox - draws Copper, Estate
+Slyfox - plays 3 Copper, 1 Silver
+Slyfox - buys Butcher
+Slyfox - gains Butcher
+Slyfox - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Estate, Estate, Butcher, Copper
+ 
+---------- Slyfox: turn 4 ----------
+Slyfox - duration Wharf
+Slyfox - shuffles deck
+Slyfox - draws Silver, Butcher
+Slyfox - plays Butcher
+Slyfox - receives 2 coin tokens
+Slyfox - trashes Estate
+Slyfox - uses 1 coin token
+Slyfox - gains Silver
+Slyfox - plays 4 Copper, 1 Silver
+Slyfox - buys Wharf
+Slyfox - gains Wharf
+Slyfox - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Estate
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Ironmonger
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- Slyfox: turn 5 ----------
+Slyfox - plays 3 Copper
+Slyfox - buys Silver
+Slyfox - gains Silver
+Slyfox - shuffles deck
+Slyfox - draws Silver, Silver, Butcher, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Butcher, Copper, Copper, Silver, Wharf
+ 
+---------- Slyfox: turn 6 ----------
+Slyfox - plays Butcher
+Slyfox - receives 2 coin tokens
+Slyfox - trashes Estate
+Slyfox - uses 1 coin token
+Slyfox - uses 1 coin token
+Slyfox - uses 1 coin token
+Slyfox - gains Wharf
+Slyfox - plays 2 Silver, 1 Copper
+Slyfox - buys Wharf
+Slyfox - gains Wharf
+Slyfox - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Ironmonger
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Wharf, Ironmonger, Copper
+ 
+---------- Slyfox: turn 7 ----------
+Slyfox - plays 3 Copper, 1 Silver
+Slyfox - buys Wharf
+Slyfox - gains Wharf
+Slyfox - draws Copper, Copper, Wharf, Copper, Wharf
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Butcher
+Titandrake - places Butcher on top of deck
+Titandrake - plays Wharf
+Titandrake - draws Butcher, Copper
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Silver
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Wharf
+Titandrake - plays 6 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Copper, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Slyfox: turn 8 ----------
+Slyfox - plays Wharf
+Slyfox - shuffles deck
+Slyfox - draws Copper, Silver
+Slyfox - plays 4 Copper, 1 Silver
+Slyfox - buys Gold
+Slyfox - gains Gold
+Slyfox - draws Butcher, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Butcher, Copper
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Estate
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Ironmonger
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Wharf, Copper, Wharf, Wharf, Copper
+ 
+---------- Slyfox: turn 9 ----------
+Slyfox - duration Wharf
+Slyfox - draws Wharf, Silver
+Slyfox - plays Butcher
+Slyfox - receives 2 coin tokens
+Slyfox - trashes Estate
+Slyfox - uses 1 coin token
+Slyfox - uses 1 coin token
+Slyfox - gains Ironmonger
+Slyfox - plays 2 Silver, 2 Copper
+Slyfox - buys Gold
+Slyfox - gains Gold
+Slyfox - draws Copper, Wharf, Wharf
+Slyfox - shuffles deck
+Slyfox - draws Wharf, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper
+ 
+---------- Slyfox: turn 10 ----------
+Slyfox - plays Wharf
+Slyfox - draws Ironmonger, Copper
+Slyfox - plays 3 Copper
+Slyfox - buys Silver
+Slyfox - gains Silver
+Slyfox - draws Silver, Copper, Gold, Gold, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Butcher
+Titandrake - plays Ironmonger
+Titandrake - draws Wharf
+Titandrake - reveals: Wharf
+Titandrake - places Wharf on top of deck
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Wharf
+Titandrake - plays Wharf
+Titandrake - draws Silver, Ironmonger
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Copper, Wharf, Ironmonger
+ 
+---------- Slyfox: turn 11 ----------
+Slyfox - duration Wharf
+Slyfox - draws Silver, Wharf
+Slyfox - plays Wharf
+Slyfox - draws Copper, Copper
+Slyfox - plays 4 Copper, 2 Silver, 2 Gold
+Slyfox - buys Nobles
+Slyfox - gains Nobles
+Slyfox - buys Province
+Slyfox - gains Province
+Slyfox - draws Wharf, Silver, Butcher
+Slyfox - shuffles deck
+Slyfox - draws Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Butcher
+Titandrake - duration Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Wharf
+Titandrake - discards Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Gold
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Wharf
+Titandrake - draws Ironmonger, Estate
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Wharf
+Titandrake - places Wharf on top of deck
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Estate
+Titandrake - gains Estate
+Titandrake - plays 7 Copper, 1 Silver, 1 Gold
+Titandrake - uses 2 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Wharf
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Copper, Ironmonger, Copper
+ 
+---------- Slyfox: turn 12 ----------
+Slyfox - duration Wharf
+Slyfox - draws Wharf, Silver
+Slyfox - plays Wharf
+Slyfox - draws Nobles, Silver
+Slyfox - plays 3 Silver, 2 Copper
+Slyfox - buys Province
+Slyfox - gains Province
+Slyfox - draws Ironmonger, Copper, Wharf, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Province
+Titandrake - duration Wharf
+Titandrake - draws Copper, Wharf
+Titandrake - plays Ironmonger
+Titandrake - draws Wharf
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Gold, Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Butcher
+Titandrake - discards Butcher
+Titandrake - plays Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays Wharf
+Titandrake - draws Ironmonger, Copper
+Titandrake - plays 6 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Province, Silver, Estate
+ 
+---------- Slyfox: turn 13 ----------
+Slyfox - duration Wharf
+Slyfox - draws Gold, Gold
+Slyfox - plays Ironmonger
+Slyfox - draws Copper
+Slyfox - reveals: Silver
+Slyfox - places Silver on top of deck
+Slyfox - plays Wharf
+Slyfox - draws Silver, Province
+Slyfox - plays 4 Copper, 2 Gold, 1 Silver
+Slyfox - buys Province
+Slyfox - gains Province
+Slyfox - buys Stables
+Slyfox - gains Stables
+Slyfox - draws Copper, Wharf
+Slyfox - shuffles deck
+Slyfox - draws Silver, Gold, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - duration Wharf
+Titandrake - draws Copper, Ironmonger
+Titandrake - duration Wharf
+Titandrake - draws Ironmonger, Wharf
+Titandrake - plays Ironmonger
+Titandrake - draws Nobles
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Gold
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Wharf
+Titandrake - draws Ironmonger, Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Wharf
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Province, Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Butcher
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Province
+Titandrake - gains Province
+Titandrake - plays 6 Copper, 1 Silver, 1 Gold
+Titandrake - uses 2 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Butcher, Nobles, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Wharf, 4 Ironmonger, 1 Nobles, 1 Butcher, 7 Copper, 1 Gold, 1 Silver, 4 Province, 1 Estate
+Titandrake - total victory points: 27
+Titandrake - turns: 13
+ 
+Slyfox - cards: 5 Wharf, 1 Nobles, 1 Butcher, 1 Ironmonger, 1 Stables, 7 Copper, 4 Silver, 2 Gold, 3 Province
+Slyfox - total victory points: 20
+Slyfox - turns: 13
+ 
+1st place: Titandrake
+2nd place: Slyfox
+ 

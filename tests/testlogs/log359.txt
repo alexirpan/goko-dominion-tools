@@ -1,0 +1,566 @@
+------------ Game Setup ------------
+Supply cards: Great Hall, Hermit, Oasis, Advisor, Cutpurse, Rats, Salvager, Young Witch, Merchant Ship, Hunting Grounds, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Oasis
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Hermit
+SM.SM - gains Hermit
+SM.SM - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Young Witch, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Rats
+SM.SM - gains Rats
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Rats, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Estate, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+SM.SM - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Hermit, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Rats
+SM.SM - draws Copper
+SM.SM - gains Rats
+SM.SM - trashes Estate
+SM.SM - plays 3 Copper
+SM.SM - buys Oasis
+SM.SM - gains Oasis
+SM.SM - draws Copper, Copper, Copper, Estate, Hermit
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Hermit
+SM.SM - trashes Curse
+SM.SM - gains Oasis
+SM.SM - plays 3 Copper
+SM.SM - buys Oasis
+SM.SM - gains Oasis
+SM.SM - draws Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Estate, Rats
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Rats
+Titandrake - gains Rats
+Titandrake - draws Copper, Copper, Copper, Oasis, Young Witch
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Rats
+SM.SM - draws Oasis
+SM.SM - gains Rats
+SM.SM - trashes Estate
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - plays 3 Copper
+SM.SM - buys Salvager
+SM.SM - gains Salvager
+SM.SM - draws Estate, Copper, Copper, Rats, Oasis
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Oasis
+Titandrake - draws Hermit
+Titandrake - discards Hermit
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+SM.SM - reveals bane Oasis
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Oasis, Young Witch, Silver
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Oasis
+SM.SM - draws Hermit
+SM.SM - discards Copper
+SM.SM - plays Rats
+SM.SM - draws Oasis
+SM.SM - gains Rats
+SM.SM - trashes Copper
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - plays Hermit
+SM.SM - trashes Estate
+SM.SM - gains Hermit
+SM.SM - trashes Hermit
+SM.SM - gains Madman
+SM.SM - shuffles deck
+SM.SM - draws Rats, Copper, Oasis, Salvager, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Young Witch
+Titandrake - plays Young Witch
+Titandrake - draws Estate, Copper
+Titandrake - discards Hermit
+Titandrake - discards Estate
+SM.SM - reveals bane Oasis
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Oasis
+SM.SM - draws Rats
+SM.SM - discards Rats
+SM.SM - plays Salvager
+SM.SM - trashes Rats
+SM.SM - draws Oasis
+SM.SM - plays 2 Copper
+SM.SM - buys Peddler
+SM.SM - gains Peddler
+SM.SM - buys Oasis
+SM.SM - gains Oasis
+SM.SM - draws Rats, Copper, Copper, Oasis, Madman
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Copper, Copper, Rats
+Titandrake - shuffles deck
+Titandrake - draws Young Witch, Young Witch
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Madman
+SM.SM - draws Copper, Hermit, Rats, Copper
+SM.SM - plays Oasis
+SM.SM - shuffles deck
+SM.SM - draws Rats
+SM.SM - discards Copper
+SM.SM - plays Rats
+SM.SM - draws Oasis
+SM.SM - gains Rats
+SM.SM - trashes Copper
+SM.SM - plays Hermit
+SM.SM - trashes Rats
+SM.SM - draws Salvager
+SM.SM - gains Oasis
+SM.SM - plays Oasis
+SM.SM - draws Peddler
+SM.SM - discards Copper
+SM.SM - plays Peddler
+SM.SM - draws Oasis
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - plays Salvager
+SM.SM - trashes Rats
+SM.SM - draws Copper
+SM.SM - plays 2 Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - buys Peddler
+SM.SM - gains Peddler
+SM.SM - draws Oasis
+SM.SM - shuffles deck
+SM.SM - draws Hermit, Oasis, Copper, Oasis
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Rats
+Titandrake - draws Salvager
+Titandrake - gains Rats
+Titandrake - trashes Young Witch
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Salvager
+Titandrake - discards Copper
+SM.SM - reveals bane Oasis
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Oasis, Hermit, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - draws Peddler
+SM.SM - discards Copper
+SM.SM - plays Peddler
+SM.SM - draws Copper
+SM.SM - plays Oasis
+SM.SM - draws Rats
+SM.SM - discards Copper
+SM.SM - plays Hermit
+SM.SM - trashes Rats
+SM.SM - draws Copper
+SM.SM - gains Oasis
+SM.SM - plays 1 Copper
+SM.SM - buys Peddler
+SM.SM - gains Peddler
+SM.SM - draws Oasis, Salvager, Copper, Rats, Peddler
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Oasis
+Titandrake - draws Silver
+Titandrake - discards Estate
+Titandrake - plays Hermit
+Titandrake - trashes Estate
+Titandrake - gains Oasis
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Advisor
+Titandrake - gains Advisor
+Titandrake - draws Estate, Silver, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Rats
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Peddler
+SM.SM - draws Oasis
+SM.SM - plays Rats
+SM.SM - draws Gold
+SM.SM - gains Rats
+SM.SM - trashes Copper
+SM.SM - plays Oasis
+SM.SM - shuffles deck
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - draws Peddler
+SM.SM - discards Gold
+SM.SM - plays Peddler
+SM.SM - draws Oasis
+SM.SM - plays Oasis
+SM.SM - draws Oasis
+SM.SM - discards Salvager
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Oasis, Hermit, Copper, Oasis, Peddler
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Estate
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Copper, Hermit, Silver
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Peddler
+SM.SM - draws Copper
+SM.SM - plays Oasis
+SM.SM - draws Rats
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - shuffles deck
+SM.SM - draws Peddler
+SM.SM - discards Copper
+SM.SM - plays Peddler
+SM.SM - draws Gold
+SM.SM - plays Hermit
+SM.SM - trashes Rats
+SM.SM - draws Copper
+SM.SM - gains Hermit
+SM.SM - plays 1 Gold, 1 Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Oasis, Oasis, Oasis, Copper, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Rats
+Titandrake - draws Oasis
+Titandrake - gains Oasis
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Young Witch, Rats, Oasis, Advisor, Copper
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Oasis
+SM.SM - draws Oasis
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - draws Rats
+SM.SM - discards Oasis
+SM.SM - plays Oasis
+SM.SM - draws Salvager
+SM.SM - discards Gold
+SM.SM - plays Salvager
+SM.SM - trashes Rats
+SM.SM - draws Copper
+SM.SM - plays 1 Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Peddler
+SM.SM - gains Peddler
+SM.SM - draws Peddler
+SM.SM - shuffles deck
+SM.SM - draws Province, Copper, Hermit, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Oasis, Copper, Salvager
+SM.SM - discards Salvager
+Titandrake - places cards in hand:  Oasis, Copper
+Titandrake - plays Oasis
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - plays Oasis
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - plays Rats
+Titandrake - draws Copper
+Titandrake - gains Rats
+Titandrake - trashes Copper
+Titandrake - plays Young Witch
+Titandrake - draws Hermit, Oasis
+Titandrake - discards Hermit
+Titandrake - discards Oasis
+SM.SM - gains Curse
+Titandrake - plays 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Oasis, Silver, Copper, Gold, Copper
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Peddler
+SM.SM - draws Hermit
+SM.SM - plays Hermit
+SM.SM - trashes Curse
+SM.SM - gains Great Hall
+SM.SM - trashes Hermit
+SM.SM - gains Madman
+SM.SM - draws Peddler, Peddler, Copper, Oasis, Oasis
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Oasis
+Titandrake - draws Rats
+Titandrake - discards Rats
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Salvager, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Rats
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Peddler
+SM.SM - draws Salvager
+SM.SM - plays Peddler
+SM.SM - draws Oasis
+SM.SM - plays Oasis
+SM.SM - draws Oasis
+SM.SM - discards Oasis
+SM.SM - plays Oasis
+SM.SM - draws Gold
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - draws Peddler
+SM.SM - discards Salvager
+SM.SM - plays Peddler
+SM.SM - draws Copper
+SM.SM - plays 1 Gold, 1 Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Gold, Oasis, Oasis, Copper
+SM.SM - shuffles deck
+SM.SM - draws Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Rats
+Titandrake - draws Gold
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Oasis, Hermit, Silver, Oasis, Young Witch
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Province
+SM.SM - plays Oasis
+SM.SM - draws Oasis
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - draws Oasis
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - plays 1 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Copper, Peddler, Oasis, Hermit, Peddler
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays Oasis
+Titandrake - draws Rats
+Titandrake - discards Young Witch
+Titandrake - plays Hermit
+Titandrake - trashes Rats
+Titandrake - draws Copper
+Titandrake - gains Great Hall
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Province, Advisor, Gold, Rats
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Peddler
+SM.SM - draws Oasis
+SM.SM - plays Peddler
+SM.SM - draws Great Hall
+SM.SM - plays Great Hall
+SM.SM - draws Peddler
+SM.SM - plays Peddler
+SM.SM - draws Gold
+SM.SM - plays Oasis
+SM.SM - draws Peddler
+SM.SM - discards Hermit
+SM.SM - plays Peddler
+SM.SM - draws Madman
+SM.SM - plays Madman
+SM.SM - draws Salvager, Province, Province
+SM.SM - plays Oasis
+SM.SM - shuffles deck
+SM.SM - draws Copper
+SM.SM - discards Province
+SM.SM - plays Salvager
+SM.SM - trashes Gold
+SM.SM - plays 2 Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Oasis, Oasis, Oasis, Copper, Oasis
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Oasis, Oasis, Silver
+SM.SM - discards Silver
+Titandrake - places cards in hand:  Oasis, Oasis
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Province
+Titandrake - plays Oasis
+Titandrake - draws Silver
+Titandrake - discards Rats
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Oasis, Copper, Duchy, Silver
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Oasis
+SM.SM - draws Province
+SM.SM - discards Province
+SM.SM - plays Oasis
+SM.SM - draws Gold
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - plays Oasis
+SM.SM - draws Hermit
+SM.SM - discards Hermit
+SM.SM - plays 1 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Duchy
+SM.SM - shuffles deck
+SM.SM - draws Great Hall, Hermit, Copper, Peddler
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Oasis
+Titandrake - draws Province
+Titandrake - discards Province
+Titandrake - plays Silver
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Hermit, Advisor, Province, Oasis, Copper
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Great Hall
+SM.SM - draws Oasis
+SM.SM - plays Peddler
+SM.SM - draws Peddler
+SM.SM - plays Peddler
+SM.SM - draws Province
+SM.SM - plays Oasis
+SM.SM - draws Peddler
+SM.SM - discards Province
+SM.SM - plays Peddler
+SM.SM - draws Salvager
+SM.SM - plays Salvager
+SM.SM - trashes Hermit
+SM.SM - plays 1 Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Peddler
+SM.SM - gains Peddler
+SM.SM - draws Oasis, Duchy, Duchy, Province, Peddler
+ 
+------------ Game Over ------------
+SM.SM - cards: 6 Oasis, 5 Peddler, 1 Great Hall, 1 Salvager, 4 Copper, 1 Gold, 5 Province, 3 Duchy
+SM.SM - total victory points: 40
+SM.SM - turns: 18
+ 
+Titandrake - cards: 4 Oasis, 3 Great Hall, 1 Hermit, 1 Advisor, 1 Salvager, 1 Rats, 1 Young Witch, 6 Copper, 4 Silver, 2 Gold, 3 Province, 1 Duchy
+Titandrake - total victory points: 24
+Titandrake - turns: 18
+ 
+1st place: SM.SM
+2nd place: Titandrake
+ 

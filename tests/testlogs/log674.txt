@@ -1,0 +1,707 @@
+------------ Game Setup ------------
+Supply cards: Fortune Teller, Sage, Marauder, Salvager, Cache, Haggler, Torturer, Treasury, Hoard, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+LaMotte - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+LaMotte - shuffles deck
+Titandrake - shuffles deck
+LaMotte - draws Copper, Overgrown Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Hovel, Necropolis, Copper, Overgrown Estate
+ 
+---------- LaMotte: turn 1 ----------
+LaMotte - plays 4 Copper
+LaMotte - buys Marauder
+LaMotte - gains Marauder
+LaMotte - draws Hovel, Copper, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- LaMotte: turn 2 ----------
+LaMotte - plays 3 Copper
+LaMotte - buys Sage
+LaMotte - gains Sage
+LaMotte - shuffles deck
+LaMotte - draws Overgrown Estate, Copper, Copper, Copper, Hovel
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hovel, Necropolis, Copper, Copper
+ 
+---------- LaMotte: turn 3 ----------
+LaMotte - plays 3 Copper
+LaMotte - buys Sage
+LaMotte - gains Sage
+LaMotte - draws Copper, Necropolis, Copper, Sage, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Overgrown Estate, Copper, Copper, Copper, Torturer
+ 
+---------- LaMotte: turn 4 ----------
+LaMotte - plays Sage
+LaMotte - reveals Copper, Marauder
+LaMotte - places Marauder in hand
+LaMotte - discards Copper
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+Titandrake - gains Ruined Village
+LaMotte - plays 3 Copper
+LaMotte - buys Silver
+LaMotte - gains Silver
+LaMotte - shuffles deck
+LaMotte - draws Spoils, Marauder, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Torturer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, Hovel
+LaMotte - discards Copper
+LaMotte - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - draws Copper, Copper, Sage, Copper, Ruined Village
+ 
+---------- LaMotte: turn 5 ----------
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+Titandrake - gains Ruined Market
+LaMotte - plays 1 Copper
+LaMotte - plays Spoils
+LaMotte - buys Marauder
+LaMotte - gains Marauder
+LaMotte - draws Necropolis, Hovel, Silver, Overgrown Estate, Sage
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Necropolis, Hovel, Ruined Market, Copper, Overgrown Estate, Torturer
+Titandrake - places Torturer in hand
+Titandrake - discards: Copper, Copper, Necropolis, Hovel, Ruined Market, Copper, Overgrown Estate
+Titandrake - plays Torturer
+Titandrake - draws Copper, Marauder
+Titandrake - shuffles deck
+Titandrake - draws Copper
+LaMotte - discards Overgrown Estate
+LaMotte - discards Hovel
+Titandrake - plays 5 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - draws Copper, Hovel, Overgrown Estate, Necropolis, Copper
+ 
+---------- LaMotte: turn 6 ----------
+LaMotte - plays Sage
+LaMotte - reveals Copper, Copper, Copper, Sage
+LaMotte - places Sage in hand
+LaMotte - discards: Copper, Copper, Copper
+LaMotte - plays Sage
+LaMotte - shuffles deck
+LaMotte - reveals Copper, Overgrown Estate, Copper, Hovel, Marauder
+LaMotte - places Marauder in hand
+LaMotte - discards: Copper, Overgrown Estate, Copper, Hovel
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+Titandrake - gains Ruined Village
+LaMotte - draws Marauder, Copper, Spoils, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - draws Ruined Market
+Titandrake - shuffles deck
+Titandrake - draws Marauder, Copper, Overgrown Estate, Hovel
+ 
+---------- LaMotte: turn 7 ----------
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+Titandrake - gains Abandoned Mine
+LaMotte - plays 3 Copper
+LaMotte - plays Spoils
+LaMotte - buys Hoard
+LaMotte - gains Hoard
+LaMotte - draws Copper, Copper
+LaMotte - shuffles deck
+LaMotte - draws Overgrown Estate, Sage, Hoard
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+LaMotte - gains Ruined Village
+Titandrake - draws Ruined Village, Treasury, Copper, Copper, Copper
+ 
+---------- LaMotte: turn 8 ----------
+LaMotte - plays Sage
+LaMotte - reveals Copper, Copper, Marauder
+LaMotte - places Marauder in hand
+LaMotte - discards: Copper, Copper
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+Titandrake - gains Ruined Market
+LaMotte - plays 2 Copper
+LaMotte - plays Hoard
+LaMotte - buys Estate
+LaMotte - gains Gold
+LaMotte - gains Estate
+LaMotte - draws Copper, Spoils, Spoils, Copper, Sage
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Treasury
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Necropolis, Copper, Ruined Village, Copper, Copper, Torturer
+Titandrake - places Torturer in hand
+Titandrake - discards: Necropolis, Copper, Ruined Village, Copper, Copper
+Titandrake - plays Torturer
+Titandrake - shuffles deck
+Titandrake - draws Ruined Market, Ruined Village, Copper
+LaMotte - discards Copper
+LaMotte - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Marauder, Hovel, Spoils, Ruined Market
+ 
+---------- LaMotte: turn 9 ----------
+LaMotte - plays Sage
+LaMotte - reveals Hovel, Copper, Necropolis, Silver
+LaMotte - places Silver in hand
+LaMotte - discards: Hovel, Copper, Necropolis
+LaMotte - plays 1 Silver
+LaMotte - plays Spoils
+LaMotte - plays Spoils
+LaMotte - buys Province
+LaMotte - gains Province
+LaMotte - draws Marauder
+LaMotte - shuffles deck
+LaMotte - draws Hovel, Sage, Necropolis, Sage
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Treasury
+Titandrake - draws Abandoned Mine
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+LaMotte - gains Ruined Library
+Titandrake - plays Spoils
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Copper, Copper, Necropolis, Overgrown Estate
+ 
+---------- LaMotte: turn 10 ----------
+LaMotte - plays Sage
+LaMotte - reveals Copper, Marauder
+LaMotte - places Marauder in hand
+LaMotte - discards Copper
+LaMotte - plays Sage
+LaMotte - reveals Copper, Estate, Ruined Village, Copper, Overgrown Estate, Spoils, Copper, Gold
+LaMotte - places Gold in hand
+LaMotte - discards: Copper, Estate, Ruined Village, Copper, Overgrown Estate, Spoils, Copper
+LaMotte - plays Necropolis
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+Titandrake - gains Ruined Market
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+Titandrake - gains Ruined Village
+LaMotte - plays Gold
+LaMotte - buys Sage
+LaMotte - gains Sage
+LaMotte - draws Copper, Copper, Province, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Hovel, Torturer, Ruined Village
+ 
+---------- LaMotte: turn 11 ----------
+LaMotte - plays 3 Copper, 1 Silver
+LaMotte - buys Treasury
+LaMotte - gains Treasury
+LaMotte - draws Hoard
+LaMotte - shuffles deck
+LaMotte - draws Ruined Village, Ruined Library, Sage, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Torturer
+Titandrake - draws Abandoned Mine, Ruined Market, Copper
+LaMotte - discards Ruined Library
+LaMotte - discards Ruined Village
+Titandrake - plays 2 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Sage, Ruined Village, Ruined Village, Salvager
+ 
+---------- LaMotte: turn 12 ----------
+LaMotte - plays Sage
+LaMotte - reveals Copper, Gold
+LaMotte - places Gold in hand
+LaMotte - discards Copper
+LaMotte - plays 1 Copper, 1 Gold
+LaMotte - plays Hoard
+LaMotte - buys Duchy
+LaMotte - gains Gold
+LaMotte - gains Duchy
+LaMotte - draws Sage, Copper, Spoils, Sage, Province
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - reveals Marauder
+Titandrake - places Marauder in hand
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+LaMotte - gains Abandoned Mine
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Treasury, Copper, Ruined Market, Sage
+ 
+---------- LaMotte: turn 13 ----------
+LaMotte - plays Sage
+LaMotte - reveals Marauder
+LaMotte - places Marauder in hand
+LaMotte - plays Sage
+LaMotte - reveals Copper, Overgrown Estate, Copper, Spoils, Copper, Silver
+LaMotte - places Silver in hand
+LaMotte - discards: Copper, Overgrown Estate, Copper, Spoils, Copper
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+LaMotte - plays 1 Copper, 1 Silver
+LaMotte - plays Spoils
+LaMotte - buys Torturer
+LaMotte - gains Torturer
+LaMotte - draws Treasury, Necropolis, Spoils, Hovel, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Treasury
+Titandrake - draws Necropolis
+Titandrake - plays Treasury
+Titandrake - draws Ruined Market
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Spoils, Copper, Salvager
+Titandrake - places Salvager in hand
+Titandrake - discards: Copper, Copper, Copper, Spoils, Copper
+Titandrake - plays Necropolis
+Titandrake - plays Salvager
+Titandrake - trashes Ruined Market
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - places Treasury, Treasury on top of deck
+Titandrake - draws Treasury, Treasury, Ruined Village, Sage, Overgrown Estate
+ 
+---------- LaMotte: turn 14 ----------
+LaMotte - plays Treasury
+LaMotte - draws Marauder
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+LaMotte - plays Copper
+LaMotte - plays Spoils
+LaMotte - buys Duchy
+LaMotte - trashes Hovel
+LaMotte - gains Duchy
+LaMotte - draws Estate
+LaMotte - shuffles deck
+LaMotte - draws Sage, Copper, Sage, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Torturer
+Titandrake - places Torturer in hand
+Titandrake - discards Copper
+Titandrake - plays Treasury
+Titandrake - draws Ruined Market
+Titandrake - plays Treasury
+Titandrake - draws Abandoned Mine
+Titandrake - plays Torturer
+Titandrake - draws Copper, Ruined Village, Ruined Village
+LaMotte - discards Copper
+LaMotte - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - places Treasury, Treasury on top of deck
+Titandrake - draws Treasury, Treasury, Sage, Spoils, Hovel
+ 
+---------- LaMotte: turn 15 ----------
+LaMotte - plays Sage
+LaMotte - reveals Copper, Treasury
+LaMotte - places Treasury in hand
+LaMotte - discards Copper
+LaMotte - plays Sage
+LaMotte - reveals Torturer
+LaMotte - places Torturer in hand
+LaMotte - plays Treasury
+LaMotte - draws Marauder
+LaMotte - plays Torturer
+LaMotte - draws Hoard, Copper, Duchy
+Titandrake - discards Hovel
+Titandrake - discards Sage
+LaMotte - plays 1 Silver, 1 Copper
+LaMotte - plays Hoard
+LaMotte - buys Duchy
+LaMotte - gains Gold
+LaMotte - gains Duchy
+LaMotte - draws Sage, Ruined Library, Gold, Duchy, Ruined Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Treasury
+Titandrake - draws Marauder
+Titandrake - plays Treasury
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Titandrake - plays Copper
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - places Treasury, Treasury on top of deck
+Titandrake - draws Treasury, Treasury, Ruined Village, Silver, Sage
+ 
+---------- LaMotte: turn 16 ----------
+LaMotte - plays Sage
+LaMotte - reveals Gold
+LaMotte - places Gold in hand
+LaMotte - plays Ruined Library
+LaMotte - draws Spoils
+LaMotte - plays 2 Gold
+LaMotte - plays Spoils
+LaMotte - buys Province
+LaMotte - gains Province
+LaMotte - draws Marauder, Necropolis, Province, Copper, Abandoned Mine
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Treasury
+Titandrake - draws Spoils
+Titandrake - plays Treasury
+Titandrake - draws Overgrown Estate
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Ruined Village, Copper, Ruined Market, Hovel, Necropolis, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Copper, Copper, Ruined Village, Copper, Ruined Market, Hovel, Necropolis
+Titandrake - plays Sage
+Titandrake - reveals Copper, Torturer
+Titandrake - places Torturer in hand
+Titandrake - discards Copper
+Titandrake - plays Torturer
+Titandrake - draws Abandoned Mine, Salvager, Copper
+LaMotte - discards Province
+LaMotte - discards Abandoned Mine
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Ruined Village, Copper, Sage, Sage, Ruined Market
+ 
+---------- LaMotte: turn 17 ----------
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+LaMotte - draws Spoils, Overgrown Estate, Copper, Copper, Spoils
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Ruined Village, Gold
+Titandrake - places Gold in hand
+Titandrake - discards Ruined Village
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Torturer
+Titandrake - places Torturer in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Torturer
+Titandrake - draws Copper, Ruined Village, Treasury
+LaMotte - gains Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Cache
+Titandrake - gains Cache
+Titandrake - gains Copper
+Titandrake - gains Copper
+Titandrake - draws Overgrown Estate, Spoils, Copper, Marauder, Necropolis
+ 
+---------- LaMotte: turn 18 ----------
+LaMotte - plays 2 Copper
+LaMotte - plays Spoils
+LaMotte - plays Spoils
+LaMotte - buys Province
+LaMotte - gains Province
+LaMotte - draws Copper
+LaMotte - shuffles deck
+LaMotte - draws Gold, Curse, Province, Treasury
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Titandrake - plays Spoils
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Salvager, Silver, Abandoned Mine, Copper
+ 
+---------- LaMotte: turn 19 ----------
+LaMotte - plays Treasury
+LaMotte - draws Silver
+LaMotte - plays 1 Copper, 1 Gold, 1 Silver
+LaMotte - buys Gold
+LaMotte - gains Gold
+LaMotte - places Treasury on top of deck
+LaMotte - draws Treasury, Sage, Spoils, Copper, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Abandoned Mine
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Treasury, Hovel, Ruined Market, Sage, Province
+ 
+---------- LaMotte: turn 20 ----------
+LaMotte - plays Treasury
+LaMotte - draws Sage
+LaMotte - plays Sage
+LaMotte - reveals Torturer
+LaMotte - places Torturer in hand
+LaMotte - plays Sage
+LaMotte - reveals Copper, Duchy
+LaMotte - places Duchy in hand
+LaMotte - discards Copper
+LaMotte - plays Torturer
+LaMotte - draws Province, Marauder, Copper
+Titandrake - discards Ruined Market
+Titandrake - discards Hovel
+LaMotte - plays 2 Copper, 1 Gold
+LaMotte - plays Spoils
+LaMotte - buys Province
+LaMotte - gains Province
+LaMotte - draws Duchy, Hoard, Copper, Abandoned Mine, Ruined Library
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Treasury
+Titandrake - shuffles deck
+Titandrake - draws Treasury
+Titandrake - plays Treasury
+Titandrake - draws Necropolis
+Titandrake - plays Sage
+Titandrake - reveals Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Copper, Overgrown Estate, Ruined Market, Ruined Village, Ruined Village, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Copper, Overgrown Estate, Ruined Market, Ruined Village, Ruined Village
+Titandrake - plays Silver
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - places Treasury, Treasury on top of deck
+Titandrake - draws Treasury, Treasury, Copper, Copper, Salvager
+ 
+---------- LaMotte: turn 21 ----------
+LaMotte - plays Ruined Library
+LaMotte - draws Sage
+LaMotte - plays 1 Copper
+LaMotte - plays Hoard
+LaMotte - buys Estate
+LaMotte - gains Gold
+LaMotte - gains Estate
+LaMotte - draws Marauder, Province, Ruined Village, Gold, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Treasury
+Titandrake - draws Abandoned Mine
+Titandrake - plays Treasury
+Titandrake - draws Cache
+Titandrake - plays Abandoned Mine
+Titandrake - plays 2 Copper, 1 Cache
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Marauder, Sage, Duchy, Sage, Spoils
+ 
+---------- LaMotte: turn 22 ----------
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+LaMotte - plays 1 Gold, 1 Copper
+LaMotte - buys Salvager
+LaMotte - gains Salvager
+LaMotte - draws Overgrown Estate, Estate, Duchy, Necropolis, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Sage
+Titandrake - reveals Hovel, Ruined Village, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Hovel, Ruined Village
+Titandrake - plays Sage
+Titandrake - reveals Ruined Market, Torturer
+Titandrake - places Torturer in hand
+Titandrake - discards Ruined Market
+Titandrake - plays Torturer
+Titandrake - draws Sage, Copper, Copper
+LaMotte - discards Duchy
+LaMotte - discards Estate
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Sage, Hovel
+ 
+---------- LaMotte: turn 23 ----------
+LaMotte - buys Copper
+LaMotte - gains Copper
+LaMotte - shuffles deck
+LaMotte - draws Copper, Copper, Estate, Province, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Ruined Market, Necropolis, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Ruined Market, Necropolis
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - trashes Hovel
+Titandrake - gains Estate
+Titandrake - draws Province, Overgrown Estate, Cache, Province, Copper
+ 
+---------- LaMotte: turn 24 ----------
+LaMotte - plays 3 Copper
+LaMotte - buys Estate
+LaMotte - gains Estate
+LaMotte - draws Abandoned Mine, Sage, Copper, Overgrown Estate, Sage
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Cache
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Ruined Market, Ruined Village, Ruined Village, Ruined Village, Salvager
+ 
+---------- LaMotte: turn 25 ----------
+LaMotte - plays Sage
+LaMotte - reveals Spoils, Gold
+LaMotte - places Gold in hand
+LaMotte - discards Spoils
+LaMotte - plays Sage
+LaMotte - reveals Province
+LaMotte - places Province in hand
+LaMotte - plays Abandoned Mine
+LaMotte - plays Gold
+LaMotte - plays Copper
+LaMotte - buys Duchy
+LaMotte - gains Duchy
+LaMotte - draws Copper, Marauder, Gold, Copper, Copper
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Ruined Village
+Titandrake - draws Duchy, Copper, Treasury, Abandoned Mine, Sage
+ 
+---------- LaMotte: turn 26 ----------
+LaMotte - plays Marauder
+LaMotte - gains Spoils
+LaMotte - plays 3 Copper, 1 Gold
+LaMotte - buys Duchy
+LaMotte - gains Duchy
+LaMotte - draws Curse, Province, Copper, Duchy, Gold
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - plays Abandoned Mine
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Sage, Marauder, Silver, Treasury, Torturer
+ 
+---------- LaMotte: turn 27 ----------
+LaMotte - plays 1 Copper, 1 Gold
+LaMotte - buys Estate
+LaMotte - gains Estate
+LaMotte - draws Duchy, Ruined Village, Ruined Library, Torturer, Province
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Sage
+Titandrake - reveals Duchy
+Titandrake - places Duchy in hand
+Titandrake - plays Treasury
+Titandrake - draws Ruined Village
+Titandrake - plays Torturer
+Titandrake - draws Treasury, Estate, Sage
+LaMotte - discards Province
+LaMotte - discards Duchy
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Ruined Market, Overgrown Estate, Copper, Sage, Necropolis
+ 
+---------- LaMotte: turn 28 ----------
+LaMotte - plays Torturer
+LaMotte - draws Estate, Treasury, Gold
+Titandrake - discards Overgrown Estate
+Titandrake - discards Ruined Market
+LaMotte - plays 1 Gold
+LaMotte - buys Estate
+LaMotte - gains Estate
+LaMotte - draws Duchy, Necropolis, Marauder, Salvager, Hoard
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - draws Abandoned Mine, Estate, Duchy, Province, Salvager
+ 
+---------- LaMotte: turn 29 ----------
+LaMotte - plays Salvager
+LaMotte - trashes Duchy
+LaMotte - plays Hoard
+LaMotte - buys Duchy
+LaMotte - gains Gold
+LaMotte - gains Duchy
+LaMotte - draws Silver, Gold, Sage
+LaMotte - shuffles deck
+LaMotte - draws Sage, Copper
+ 
+------------ Game Over ------------
+LaMotte - cards: 3 Sage, 2 Marauder, 1 Torturer, 1 Ruined Village, 1 Necropolis, 1 Salvager, 1 Ruined Library, 1 Abandoned Mine, 1 Treasury, 8 Copper, 6 Gold, 2 Spoils, 1 Hoard, 1 Silver, 5 Estate, 5 Duchy, 4 Province, 1 Overgrown Estate, 1 Curse
+LaMotte - total victory points: 43
+LaMotte - turns: 29
+ 
+Titandrake - cards: 6 Sage, 2 Ruined Market, 2 Ruined Village, 2 Treasury, 1 Torturer, 1 Necropolis, 1 Abandoned Mine, 1 Salvager, 1 Marauder, 9 Copper, 1 Silver, 1 Gold, 1 Cache, 3 Estate, 3 Province, 2 Duchy, 1 Overgrown Estate
+Titandrake - total victory points: 27
+Titandrake - turns: 28
+ 
+1st place: LaMotte
+2nd place: Titandrake
+ 

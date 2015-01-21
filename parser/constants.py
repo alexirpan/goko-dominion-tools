@@ -7,7 +7,7 @@ CORE_CARDS = ['estate', 'duchy', 'province', 'colony',
 # this stores all cards with more than 10 cards in the supply
 # doesn't hold victory cards, those are handled in another case
 SPECIAL_SUPPLY_COUNTS = {
-    'Copper': 50,
+    'Copper': 60,
     'Silver': 40,
     'Gold': 30,
     'Platinum': 12,
@@ -34,8 +34,6 @@ KNIGHTS = ['dame anna', 'dame josephine', 'dame molly', 'dame natalie',
            'sir michael', 'sir martin']
 
 SHELTERS = ['hovel', 'overgrown estate', 'necropolis']
-
-TREASURE_COUNTS = {'copper': 46, 'silver': 40, 'gold': 30, 'platinum': 12}
 
 BOT_NAMES = ['Banker Bot', 'Conqueror Bot', 'Defender Bot', 'Lord Bottington',
              'Serf Bot', 'Villager Bot', 'Warlord Bot', 'Village Idiot Bot']
@@ -303,6 +301,12 @@ GAIN_TO_HAND = [
     'Mine', 'Trading Post', 'Torturer', 'Explorer', 'Ill-Gotten Gains', 'Beggar',
 ]
 
+# these are cards that gain from somewhere not in the supply
+# for these purposes we treat Spoils, Madman, as supply piles
+GAIN_FROM_ELSEWHERE = [
+    'Thief', 'Noble Brigand',
+]
+
 # Treasure Map is not in this list because it's an odd edge case
 # It's handled explicitly elsewhere
 # TODO since extra play lines are removed, these occasionally may act weird
@@ -311,12 +315,17 @@ GAIN_TO_HAND = [
 # TODO handle Hermit
 # Hermit trashes from hand, or discard, or from play when no cards are bought
 # for now this ignore all of that.
-# TODO handle Urchin, Death Cart
+# TODO handle Death Cart
+# Death Cart trashes either itself or a card from hand
+# need to check between the two
 # Fortress is very special and handled back in the parser
 # TODO handle Knights
 # (both trash from play if Knight revealed, or from revealed cards, or for Dame Anna from hand)
 # for now ignore it all
-TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urchin', 'Death Cart', 'Procession', 'Counterfeit', 'Pillage', 'Embargo']
+TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urchin', 'Death Cart', 'Procession', 'Counterfeit', 'Pillage', 'Embargo',
+    'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
+    'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
+]
 
 TRASHES_FROM_REVEAL = [
     'Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Lookout', 'Pirate Ship', 'Loan', 'Rebuild', 'Rogue',

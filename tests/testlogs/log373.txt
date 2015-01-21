@@ -1,0 +1,363 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Embargo, Lighthouse, Caravan, Navigator, Taxman, Council Room, Duke, Explorer, Haggler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Taxman
+SM.SM - gains Taxman
+SM.SM - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Estate, Estate, Taxman
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Taxman
+SM.SM - trashes Copper
+Titandrake - discards Copper
+SM.SM - gains Silver
+SM.SM - draws Silver, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Caravan, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays 3 Copper, 2 Silver
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Copper, Estate, Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Haggler, Copper, Estate
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Caravan
+SM.SM - gains Caravan
+SM.SM - draws Estate, Taxman, Silver, Silver, Gold
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Haggler
+Titandrake - plays 3 Copper
+Titandrake - buys Haggler
+Titandrake - gains Caravan
+Titandrake - gains Haggler
+Titandrake - draws Copper, Copper, Silver, Estate, Silver
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Taxman
+SM.SM - trashes Silver
+Titandrake - discards Silver
+SM.SM - gains Gold
+SM.SM - plays 1 Silver, 1 Gold
+SM.SM - buys Haggler
+SM.SM - gains Haggler
+SM.SM - draws Gold, Copper, Copper, Estate
+SM.SM - shuffles deck
+SM.SM - draws Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Haggler
+SM.SM - gains Haggler
+SM.SM - draws Gold, Copper, Taxman, Copper, Haggler
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Estate, Silver, Copper
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Haggler
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Gold
+SM.SM - gains Caravan
+SM.SM - gains Gold
+SM.SM - draws Caravan, Silver, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Silver, Caravan, Silver, Haggler, Caravan
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Caravan
+SM.SM - shuffles deck
+SM.SM - draws Gold
+SM.SM - plays 2 Copper, 1 Silver, 1 Gold
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Caravan, Estate, Taxman, Estate, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Caravan
+Titandrake - draws Haggler
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Haggler
+Titandrake - plays 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Caravan
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Haggler, Gold, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - duration Caravan
+SM.SM - draws Copper
+SM.SM - plays Caravan
+SM.SM - draws Copper
+SM.SM - plays Taxman
+SM.SM - trashes Copper
+Titandrake - discards Copper
+SM.SM - gains Silver
+SM.SM - plays 1 Gold, 1 Copper
+SM.SM - buys Caravan
+SM.SM - gains Caravan
+SM.SM - draws Silver, Copper, Gold, Haggler, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Haggler, Copper, Copper, Estate, Caravan
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - duration Caravan
+SM.SM - draws Haggler
+SM.SM - plays Haggler
+SM.SM - plays 2 Copper, 1 Silver, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Gold
+SM.SM - gains Province
+SM.SM - shuffles deck
+SM.SM - draws Gold, Caravan, Haggler, Estate, Taxman
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Explorer
+Titandrake - gains Gold
+Titandrake - draws Copper, Caravan, Silver, Copper, Estate
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Caravan
+SM.SM - draws Gold
+SM.SM - plays Haggler
+SM.SM - plays 2 Gold
+SM.SM - buys Province
+SM.SM - gains Gold
+SM.SM - gains Province
+SM.SM - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Caravan
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Haggler, Gold, Explorer, Haggler, Copper
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - duration Caravan
+SM.SM - draws Silver
+SM.SM - plays 3 Copper, 2 Silver
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Caravan, Estate, Caravan, Copper, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays Haggler
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Copper, Silver, Copper
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Caravan
+SM.SM - draws Copper
+SM.SM - plays Caravan
+SM.SM - draws Haggler
+SM.SM - plays Haggler
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Duchy
+SM.SM - gains Caravan
+SM.SM - gains Duchy
+SM.SM - draws Province, Gold, Gold
+SM.SM - shuffles deck
+SM.SM - draws Duchy, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Gold, Caravan, Province
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - duration Caravan
+SM.SM - draws Gold
+SM.SM - duration Caravan
+SM.SM - draws Estate
+SM.SM - plays 3 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Haggler, Gold, Estate, Duchy, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Province, Haggler, Silver, Silver
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Haggler
+SM.SM - plays 1 Gold, 1 Copper
+SM.SM - buys Duchy
+SM.SM - gains Caravan
+SM.SM - gains Duchy
+SM.SM - draws Gold, Copper, Gold, Copper, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Haggler
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Caravan
+Titandrake - gains Duchy
+Titandrake - draws Estate, Duchy, Copper, Explorer, Caravan
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays 2 Gold, 2 Copper, 1 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Haggler, Province, Silver, Copper, Taxman
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Caravan
+Titandrake - draws Gold
+Titandrake - plays Caravan
+Titandrake - draws Haggler
+Titandrake - plays Explorer
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Silver, Gold, Gold
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Haggler
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - buys Duke
+SM.SM - gains Silver
+SM.SM - gains Duke
+SM.SM - draws Caravan, Caravan, Copper
+SM.SM - shuffles deck
+SM.SM - draws Gold, Duchy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Caravan
+Titandrake - shuffles deck
+Titandrake - draws Silver, Explorer
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Caravan
+SM.SM - draws Gold
+SM.SM - plays Caravan
+SM.SM - draws Caravan
+SM.SM - plays Caravan
+SM.SM - draws Copper
+SM.SM - plays 2 Copper, 2 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Estate, Province, Copper, Copper, Gold
+ 
+------------ Game Over ------------
+SM.SM - cards: 5 Caravan, 2 Haggler, 1 Taxman, 6 Gold, 5 Copper, 3 Silver, 5 Province, 3 Estate, 3 Duchy, 1 Duke
+SM.SM - total victory points: 45
+SM.SM - turns: 19
+ 
+Titandrake - cards: 5 Caravan, 2 Haggler, 1 Explorer, 7 Copper, 5 Silver, 4 Gold, 5 Duchy, 3 Province, 3 Estate
+Titandrake - total victory points: 36
+Titandrake - turns: 18
+ 
+1st place: SM.SM
+2nd place: Titandrake
+ 

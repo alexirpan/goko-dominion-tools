@@ -1,0 +1,521 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Courtyard, Bishop, Feast, Noble Brigand, Scavenger, Cache, Mine, Minion, Trading Post, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Fraking Witch - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Fraking Witch - shuffles deck
+Titandrake - shuffles deck
+Fraking Witch - draws Estate, Estate, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Fraking Witch: turn 1 ----------
+Fraking Witch - plays 2 Copper
+Fraking Witch - buys Chapel
+Fraking Witch - gains Chapel
+Fraking Witch - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Noble Brigand
+Fraking Witch - shuffles deck
+Fraking Witch - reveals: Copper, Estate
+Fraking Witch - discards: Copper, Estate
+Titandrake - gains Noble Brigand
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Fraking Witch: turn 2 ----------
+Fraking Witch - plays 5 Copper
+Fraking Witch - buys Minion
+Fraking Witch - gains Minion
+Fraking Witch - draws Copper, Estate, Estate, Chapel
+Fraking Witch - shuffles deck
+Fraking Witch - draws Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Noble Brigand, Estate, Copper, Chapel
+ 
+---------- Fraking Witch: turn 3 ----------
+Fraking Witch - plays Chapel
+Fraking Witch - trashes Copper, Estate, Estate, Copper
+Fraking Witch - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Fraking Witch: turn 4 ----------
+Fraking Witch - plays 4 Copper
+Fraking Witch - buys Bishop
+Fraking Witch - gains Bishop
+Fraking Witch - draws Minion, Copper
+Fraking Witch - shuffles deck
+Fraking Witch - draws Copper, Chapel, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Chapel, Copper
+ 
+---------- Fraking Witch: turn 5 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays 3 Copper
+Fraking Witch - buys Minion
+Fraking Witch - gains Minion
+Fraking Witch - draws Bishop, Copper, Copper, Estate
+Fraking Witch - shuffles deck
+Fraking Witch - draws Minion
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Estate, Copper
+Titandrake - draws Silver, Noble Brigand, Estate, Copper, Copper
+ 
+---------- Fraking Witch: turn 6 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Bishop
+Fraking Witch - trashes Estate
+Fraking Witch - receives 1 victory point chips
+Titandrake - trashes Estate
+Fraking Witch - plays 2 Copper
+Fraking Witch - buys Minion
+Fraking Witch - gains Minion
+Fraking Witch - draws Chapel, Copper, Minion, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Noble Brigand
+Fraking Witch - shuffles deck
+Fraking Witch - reveals: Copper, Minion
+Fraking Witch - discards: Copper, Minion
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - shuffles deck
+Titandrake - draws Silver, Noble Brigand, Chapel, Copper, Minion
+ 
+---------- Fraking Witch: turn 7 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays 3 Copper
+Fraking Witch - buys Minion
+Fraking Witch - gains Minion
+Fraking Witch - draws Copper, Minion, Bishop
+Fraking Witch - shuffles deck
+Fraking Witch - draws Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Noble Brigand
+Fraking Witch - reveals: Copper, Chapel
+Fraking Witch - discards: Copper, Chapel
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Copper, Silver, Chapel
+ 
+---------- Fraking Witch: turn 8 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Bishop
+Fraking Witch - trashes Copper
+Fraking Witch - receives 0 victory point chips
+Titandrake - trashes Copper
+Fraking Witch - plays 2 Copper
+Fraking Witch - buys Minion
+Fraking Witch - gains Minion
+Fraking Witch - draws Minion, Minion, Copper, Minion
+Fraking Witch - shuffles deck
+Fraking Witch - draws Minion
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Minion, Noble Brigand
+Titandrake - shuffles deck
+Titandrake - draws Silver, Gold, Chapel
+ 
+---------- Fraking Witch: turn 9 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays 1 Copper
+Fraking Witch - buys Province
+Fraking Witch - gains Province
+Fraking Witch - draws Bishop, Minion, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Noble Brigand
+Fraking Witch - reveals: Chapel
+Fraking Witch - shuffles deck
+Fraking Witch - reveals: Minion
+Fraking Witch - discards: Chapel, Minion
+Fraking Witch - gains Copper
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Bishop
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Minion, Province
+ 
+---------- Fraking Witch: turn 10 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Bishop
+Fraking Witch - trashes Copper
+Fraking Witch - receives 0 victory point chips
+Fraking Witch - plays 2 Copper
+Fraking Witch - buys Minion
+Fraking Witch - gains Minion
+Fraking Witch - draws Minion, Province, Copper, Minion, Minion
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Fraking Witch - trashes Copper
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Chapel, Noble Brigand
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Bishop
+ 
+---------- Fraking Witch: turn 11 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - discards Province
+Fraking Witch - shuffles deck
+Fraking Witch - draws Minion, Minion, Copper, Bishop
+Titandrake - discards: Chapel, Noble Brigand, Gold, Province, Bishop
+Titandrake - draws Minion, Silver
+Titandrake - shuffles deck
+Titandrake - draws Province, Noble Brigand
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Bishop
+Fraking Witch - trashes Copper
+Fraking Witch - receives 0 victory point chips
+Titandrake - trashes Noble Brigand
+Fraking Witch - buys Province
+Fraking Witch - gains Province
+Fraking Witch - draws Chapel, Province, Minion, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Minion
+Titandrake - discards: Silver, Province
+Titandrake - draws Chapel, Bishop, Gold
+Titandrake - shuffles deck
+Titandrake - draws Province
+Fraking Witch - discards: Chapel, Province, Minion, Copper, Copper
+Fraking Witch - shuffles deck
+Fraking Witch - draws Minion, Minion, Province, Minion
+Titandrake - plays Bishop
+Titandrake - trashes Chapel
+Titandrake - receives 1 victory point chips
+Titandrake - plays 1 Gold
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Minion, Gold, Province
+ 
+---------- Fraking Witch: turn 12 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - discards Province
+Fraking Witch - draws Minion, Minion, Bishop, Copper
+Titandrake - discards: Silver, Bishop, Minion, Gold, Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Bishop, Minion
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Bishop
+Fraking Witch - trashes Copper
+Fraking Witch - receives 0 victory point chips
+Fraking Witch - buys Province
+Fraking Witch - gains Province
+Fraking Witch - draws Copper, Minion, Chapel, Province
+Fraking Witch - shuffles deck
+Fraking Witch - draws Minion
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Minion
+Titandrake - discards: Gold, Province, Bishop
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Gold, Bishop, Province
+Fraking Witch - discards: Copper, Minion, Chapel, Province, Minion
+Fraking Witch - draws Minion, Province, Province, Minion
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Bishop, Silver, Minion
+ 
+---------- Fraking Witch: turn 13 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - discards: Province, Province
+Fraking Witch - draws Minion, Minion, Bishop
+Fraking Witch - shuffles deck
+Fraking Witch - draws Copper
+Titandrake - discards: Gold, Gold, Bishop, Silver, Minion
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Gold, Silver, Gold
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Bishop
+Fraking Witch - trashes Copper
+Fraking Witch - receives 0 victory point chips
+Titandrake - trashes Silver
+Fraking Witch - buys Gold
+Fraking Witch - gains Gold
+Fraking Witch - draws Province, Chapel, Province, Province, Minion
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Minion
+Titandrake - shuffles deck
+Titandrake - draws Silver, Gold, Bishop
+ 
+---------- Fraking Witch: turn 14 ----------
+Fraking Witch - plays Minion
+Fraking Witch - discards: Province, Chapel, Province, Province
+Fraking Witch - draws Minion
+Fraking Witch - shuffles deck
+Fraking Witch - draws Bishop, Minion, Minion
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Bishop
+Fraking Witch - trashes Minion
+Fraking Witch - receives 2 victory point chips
+Fraking Witch - buys Minion
+Fraking Witch - gains Minion
+Fraking Witch - draws Province, Province, Chapel, Minion, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Minion
+Titandrake - receives 2 victory point chips
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Bishop, Gold
+ 
+---------- Fraking Witch: turn 15 ----------
+Fraking Witch - plays Minion
+Fraking Witch - discards: Province, Province, Chapel, Province
+Fraking Witch - draws Minion, Gold
+Fraking Witch - shuffles deck
+Fraking Witch - draws Chapel, Minion
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - discards: Gold, Chapel
+Fraking Witch - draws Province, Province, Bishop, Minion
+Fraking Witch - plays Minion
+Fraking Witch - discards: Province, Province, Bishop
+Fraking Witch - draws Province, Minion, Minion
+Fraking Witch - shuffles deck
+Fraking Witch - draws Bishop
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - discards: Province, Bishop
+Fraking Witch - draws Chapel, Province, Province, Gold
+Fraking Witch - plays 1 Gold
+Fraking Witch - buys Gold
+Fraking Witch - gains Gold
+Fraking Witch - shuffles deck
+Fraking Witch - draws Minion, Gold, Minion, Bishop, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Silver, Bishop
+ 
+---------- Fraking Witch: turn 16 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Bishop
+Fraking Witch - trashes Gold
+Fraking Witch - receives 3 victory point chips
+Fraking Witch - buys Minion
+Fraking Witch - gains Minion
+Fraking Witch - draws Minion, Province, Minion, Chapel, Minion
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Bishop, Silver
+ 
+---------- Fraking Witch: turn 17 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - discards: Province, Chapel
+Fraking Witch - draws Minion, Gold, Province
+Fraking Witch - shuffles deck
+Fraking Witch - draws Province
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays 1 Gold
+Fraking Witch - buys Province
+Fraking Witch - gains Province
+Fraking Witch - draws Province, Minion, Minion, Chapel, Minion
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Gold, Bishop, Gold
+ 
+---------- Fraking Witch: turn 18 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - discards: Province, Chapel
+Fraking Witch - draws Bishop
+Fraking Witch - shuffles deck
+Fraking Witch - draws Minion, Province, Province
+Fraking Witch - plays Minion
+Fraking Witch - discards: Bishop, Province, Province
+Fraking Witch - draws Minion, Minion, Province, Province
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - buys Province
+Fraking Witch - gains Province
+Fraking Witch - draws Gold, Minion, Chapel
+Fraking Witch - shuffles deck
+Fraking Witch - draws Bishop, Province
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Gold, Silver, Gold
+ 
+---------- Fraking Witch: turn 19 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Bishop
+Fraking Witch - trashes Chapel
+Fraking Witch - receives 1 victory point chips
+Fraking Witch - plays 1 Gold
+Fraking Witch - buys Duchy
+Fraking Witch - gains Duchy
+Fraking Witch - draws Minion, Minion, Minion, Minion, Minion
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Gold, Silver, Gold
+ 
+---------- Fraking Witch: turn 20 ----------
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - takes 2 coins
+Fraking Witch - plays Minion
+Fraking Witch - draws Province, Province, Province, Province
+Fraking Witch - buys Province
+Fraking Witch - gains Province
+Fraking Witch - draws Minion
+Fraking Witch - shuffles deck
+Fraking Witch - draws Minion, Province, Province, Minion
+ 
+------------ Game Over ------------
+Fraking Witch - cards: 7 Minion, 1 Bishop, 1 Gold, 6 Province, 1 Duchy
+Fraking Witch - victory point chips: 16
+Fraking Witch - total victory points: 55
+Fraking Witch - turns: 20
+ 
+Titandrake - cards: 1 Bishop, 2 Gold, 1 Silver
+Titandrake - victory point chips: 39
+Titandrake - total victory points: 39
+Titandrake - turns: 19
+ 
+1st place: Fraking Witch
+2nd place: Titandrake
+ 

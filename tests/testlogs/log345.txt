@@ -1,0 +1,783 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Armory, Bishop, Feodum, Fortress, Gardens, Navigator, Remodel, Margrave, Minion, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Lekkit - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lekkit - shuffles deck
+Titandrake - shuffles deck
+Lekkit - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Lekkit: turn 1 ----------
+Lekkit - plays 4 Copper
+Lekkit - buys Armory
+Lekkit - gains Armory
+Lekkit - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - shuffles deck
+Titandrake - draws Copper, Armory, Silver, Copper, Copper
+ 
+---------- Lekkit: turn 2 ----------
+Lekkit - plays 3 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - shuffles deck
+Lekkit - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Armory
+Titandrake - gains Fortress
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Fortress, Copper, Copper, Estate, Estate
+ 
+---------- Lekkit: turn 3 ----------
+Lekkit - plays 2 Copper
+Lekkit - buys Cellar
+Lekkit - gains Cellar
+Lekkit - draws Copper, Silver, Copper, Armory, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Silver, Copper
+ 
+---------- Lekkit: turn 4 ----------
+Lekkit - plays Armory
+Lekkit - gains Bishop
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - buys Minion
+Lekkit - gains Minion
+Lekkit - draws Bishop, Copper, Copper
+Lekkit - shuffles deck
+Lekkit - draws Estate, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Fortress
+Titandrake - draws Cellar
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Estate, Estate, Copper, Margrave, Copper
+ 
+---------- Lekkit: turn 5 ----------
+Lekkit - plays Bishop
+Lekkit - trashes Estate
+Lekkit - receives 1 victory point chips
+Titandrake - trashes Estate
+Lekkit - plays 2 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Copper, Silver, Minion, Copper, Cellar
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Margrave
+Titandrake - draws Armory, Copper, Copper
+Lekkit - draws Estate
+Lekkit - discards Estate
+Lekkit - discards Copper
+Lekkit - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - shuffles deck
+Titandrake - draws Copper, Bishop, Copper, Fortress, Copper
+ 
+---------- Lekkit: turn 6 ----------
+Lekkit - plays Minion
+Lekkit - discards: Silver, Cellar
+Lekkit - draws Copper, Copper, Armory, Copper
+Titandrake - discards: Copper, Bishop, Copper, Fortress, Copper
+Titandrake - draws Fortress, Estate, Copper, Margrave
+Lekkit - plays Armory
+Lekkit - gains Fortress
+Lekkit - plays 3 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Fortress
+Lekkit - shuffles deck
+Lekkit - draws Copper, Armory, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays Margrave
+Titandrake - draws Cellar, Copper, Copper
+Lekkit - draws Silver
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - discards Fortress
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Silver, Copper, Armory
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Copper
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Copper, Fortress, Copper, Copper, Copper
+ 
+---------- Lekkit: turn 7 ----------
+Lekkit - plays Armory
+Lekkit - gains Fortress
+Lekkit - plays 2 Silver
+Lekkit - buys Fortress
+Lekkit - gains Fortress
+Lekkit - draws Fortress, Bishop, Estate, Minion, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- Lekkit: turn 8 ----------
+Lekkit - plays Fortress
+Lekkit - draws Copper
+Lekkit - plays Bishop
+Lekkit - trashes Estate
+Lekkit - receives 1 victory point chips
+Titandrake - trashes Estate
+Lekkit - plays Minion
+Lekkit - discards: Copper, Copper
+Lekkit - draws Copper, Cellar, Estate, Copper
+Lekkit - plays Cellar
+Lekkit - discards Copper
+Lekkit - discards Estate
+Lekkit - discards Copper
+Lekkit - draws Silver, Copper
+Lekkit - shuffles deck
+Lekkit - draws Silver
+Lekkit - plays 2 Silver, 1 Copper
+Lekkit - buys Minion
+Lekkit - gains Minion
+Lekkit - draws Silver, Armory, Fortress, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Estate, Fortress, Fortress, Bishop, Copper
+ 
+---------- Lekkit: turn 9 ----------
+Lekkit - plays Fortress
+Lekkit - draws Copper
+Lekkit - plays Armory
+Lekkit - gains Fortress
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - buys Minion
+Lekkit - gains Minion
+Lekkit - draws Fortress, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Fortress
+Titandrake - draws Cellar
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Fortress, Silver
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Armory
+Titandrake - shuffles deck
+Titandrake - draws Copper, Fortress
+Lekkit - draws Fortress
+Lekkit - discards Estate
+Lekkit - discards Copper
+Lekkit - discards Copper
+Titandrake - plays Armory
+Titandrake - gains Bishop
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+Lekkit - trashes Copper
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Silver
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Lekkit: turn 10 ----------
+Lekkit - plays Fortress
+Lekkit - shuffles deck
+Lekkit - draws Copper
+Lekkit - plays Fortress
+Lekkit - draws Copper
+Lekkit - plays 2 Copper
+Lekkit - buys Cellar
+Lekkit - gains Cellar
+Lekkit - draws Silver, Copper, Copper, Minion, Fortress
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Margrave, Fortress, Cellar, Bishop
+ 
+---------- Lekkit: turn 11 ----------
+Lekkit - plays Fortress
+Lekkit - draws Estate
+Lekkit - plays Minion
+Lekkit - discards: Silver, Copper, Copper, Estate
+Lekkit - draws Minion, Silver, Cellar, Bishop
+Titandrake - discards: Fortress, Margrave, Fortress, Cellar, Bishop
+Titandrake - draws Copper, Fortress, Silver, Copper
+Lekkit - plays Bishop
+Lekkit - trashes Silver
+Lekkit - receives 1 victory point chips
+Titandrake - trashes Copper
+Lekkit - plays Minion
+Lekkit - discards Cellar
+Lekkit - draws Fortress, Armory, Minion, Silver
+Lekkit - plays Fortress
+Lekkit - draws Copper
+Lekkit - plays Armory
+Lekkit - gains Bishop
+Lekkit - plays Minion
+Lekkit - discards: Silver, Copper
+Lekkit - draws Bishop, Copper
+Lekkit - shuffles deck
+Lekkit - draws Copper, Fortress
+Lekkit - plays Fortress
+Lekkit - draws Cellar
+Lekkit - plays Cellar
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - draws Copper, Estate
+Lekkit - plays Bishop
+Lekkit - trashes Estate
+Lekkit - receives 1 victory point chips
+Lekkit - plays 1 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Silver, Copper, Copper, Silver, Cellar
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Fortress, Armory, Copper, Margrave, Fortress
+ 
+---------- Lekkit: turn 12 ----------
+Lekkit - plays Cellar
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - draws Copper, Fortress
+Lekkit - plays 2 Silver, 1 Copper
+Lekkit - buys Minion
+Lekkit - gains Minion
+Lekkit - shuffles deck
+Lekkit - draws Copper, Fortress, Fortress, Minion, Fortress
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Margrave
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Fortress
+Lekkit - draws Minion
+Lekkit - discards Fortress
+Lekkit - discards Fortress
+Lekkit - discards Minion
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Armory
+Titandrake - gains Bishop
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Lekkit - trashes Copper
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Bishop, Copper, Margrave, Silver, Fortress
+ 
+---------- Lekkit: turn 13 ----------
+Lekkit - plays Fortress
+Lekkit - draws Silver
+Lekkit - plays Minion
+Lekkit - discards Silver
+Lekkit - draws Bishop, Armory, Silver, Minion
+Titandrake - discards: Bishop, Copper, Margrave, Silver, Fortress
+Titandrake - draws Cellar, Fortress
+Titandrake - shuffles deck
+Titandrake - draws Margrave, Silver
+Lekkit - plays Bishop
+Lekkit - trashes Silver
+Lekkit - receives 1 victory point chips
+Lekkit - plays Minion
+Lekkit - discards Armory
+Lekkit - draws Copper, Cellar, Bishop, Fortress
+Lekkit - plays Cellar
+Lekkit - discards Copper
+Lekkit - draws Copper
+Lekkit - plays Fortress
+Lekkit - draws Silver
+Lekkit - plays Bishop
+Lekkit - trashes Copper
+Lekkit - receives 0 victory point chips
+Lekkit - plays 1 Silver
+Lekkit - buys Bishop
+Lekkit - gains Bishop
+Lekkit - draws Copper, Cellar, Copper, Minion, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Margrave
+Titandrake - draws Silver, Fortress, Fortress
+Lekkit - shuffles deck
+Lekkit - draws Bishop
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - discards Cellar
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Cellar
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - draws Bishop, Fortress
+Titandrake - plays Fortress
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Bishop, Armory, Copper
+Lekkit - draws Minion
+Lekkit - discards Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Lekkit - trashes Copper
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Bishop
+Titandrake - trashes Armory
+Titandrake - receives 2 victory point chips
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Fortress, Fortress, Bishop
+ 
+---------- Lekkit: turn 14 ----------
+Lekkit - plays Minion
+Lekkit - takes 2 coins
+Lekkit - plays Minion
+Lekkit - draws Silver, Fortress, Cellar, Copper
+Titandrake - discards: Silver, Fortress, Fortress, Fortress, Bishop
+Titandrake - draws Fortress, Margrave, Bishop, Minion
+Lekkit - plays Fortress
+Lekkit - draws Silver
+Lekkit - plays Cellar
+Lekkit - discards Silver
+Lekkit - discards Copper
+Lekkit - discards Silver
+Lekkit - draws Bishop, Armory, Fortress
+Lekkit - plays Bishop
+Lekkit - trashes Fortress
+Lekkit - receives 2 victory point chips
+Lekkit - plays Fortress
+Lekkit - draws Bishop
+Lekkit - plays Bishop
+Lekkit - trashes Armory
+Lekkit - receives 2 victory point chips
+Lekkit - buys Bishop
+Lekkit - gains Bishop
+Lekkit - draws Minion, Fortress, Fortress, Minion
+Lekkit - shuffles deck
+Lekkit - draws Cellar
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Margrave
+Titandrake - draws Bishop, Copper, Silver
+Lekkit - draws Cellar
+Lekkit - discards Cellar
+Lekkit - discards Cellar
+Lekkit - discards Fortress
+Titandrake - plays Fortress
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Cellar, Bishop, Cellar
+Lekkit - draws Silver
+Lekkit - discards Silver
+Titandrake - plays Cellar
+Titandrake - discards Cellar
+Titandrake - discards Minion
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - draws Fortress
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Cellar, Silver
+Titandrake - plays Fortress
+Titandrake - draws Minion
+Titandrake - plays Cellar
+Titandrake - discards Silver
+Titandrake - discards Minion
+Titandrake - draws Fortress, Bishop
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Minion, Cellar, Fortress, Bishop
+ 
+---------- Lekkit: turn 15 ----------
+Lekkit - plays Fortress
+Lekkit - draws Silver
+Lekkit - plays Minion
+Lekkit - takes 2 coins
+Lekkit - plays Minion
+Lekkit - discards Silver
+Lekkit - draws Bishop, Bishop, Copper, Bishop
+Titandrake - discards: Fortress, Minion, Cellar, Fortress, Bishop
+Titandrake - draws Margrave, Bishop, Bishop, Bishop
+Lekkit - plays Bishop
+Lekkit - trashes Copper
+Lekkit - receives 0 victory point chips
+Lekkit - plays Bishop
+Lekkit - trashes Bishop
+Lekkit - receives 2 victory point chips
+Lekkit - buys Bishop
+Lekkit - gains Bishop
+Lekkit - draws Bishop, Minion, Fortress, Copper, Fortress
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Margrave
+Titandrake - draws Fortress, Cellar, Silver
+Lekkit - draws Minion
+Lekkit - discards Copper
+Lekkit - discards Minion
+Lekkit - discards Fortress
+Titandrake - plays Silver
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Fortress, Minion, Margrave, Fortress, Fortress
+ 
+---------- Lekkit: turn 16 ----------
+Lekkit - plays Fortress
+Lekkit - draws Copper
+Lekkit - plays Bishop
+Lekkit - trashes Copper
+Lekkit - receives 0 victory point chips
+Lekkit - plays Minion
+Lekkit - shuffles deck
+Lekkit - draws Copper, Fortress, Silver, Bishop
+Titandrake - discards: Fortress, Minion, Margrave, Fortress, Fortress
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Cellar, Bishop
+Lekkit - plays Fortress
+Lekkit - draws Bishop
+Lekkit - plays Bishop
+Lekkit - trashes Copper
+Lekkit - receives 0 victory point chips
+Lekkit - plays Bishop
+Lekkit - trashes Silver
+Lekkit - receives 1 victory point chips
+Lekkit - buys Cellar
+Lekkit - gains Cellar
+Lekkit - draws Cellar, Minion, Minion, Bishop, Fortress
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Fortress
+Titandrake - draws Minion
+Titandrake - plays Cellar
+Titandrake - discards Silver
+Titandrake - discards Bishop
+Titandrake - draws Bishop, Margrave
+Titandrake - plays Margrave
+Titandrake - draws Fortress, Cellar, Bishop
+Lekkit - draws Minion
+Lekkit - discards Cellar
+Lekkit - discards Minion
+Lekkit - discards Minion
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Cellar
+Titandrake - plays Minion
+Titandrake - discards: Bishop, Cellar, Cellar
+Titandrake - draws Fortress, Silver, Margrave, Fortress
+Titandrake - plays Margrave
+Titandrake - draws Fortress, Bishop, Minion
+Lekkit - draws Fortress
+Lekkit - discards Fortress
+Titandrake - plays Fortress
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Cellar, Cellar
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Fortress, Fortress
+ 
+---------- Lekkit: turn 17 ----------
+Lekkit - plays Fortress
+Lekkit - draws Cellar
+Lekkit - plays Bishop
+Lekkit - trashes Cellar
+Lekkit - receives 1 victory point chips
+Lekkit - plays Minion
+Lekkit - draws Silver
+Lekkit - shuffles deck
+Lekkit - draws Minion, Fortress, Bishop
+Titandrake - discards: Cellar, Cellar, Bishop, Fortress, Fortress
+Titandrake - draws Fortress, Bishop, Fortress, Silver
+Lekkit - plays Fortress
+Lekkit - draws Minion
+Lekkit - plays Bishop
+Lekkit - trashes Silver
+Lekkit - receives 1 victory point chips
+Lekkit - plays Minion
+Lekkit - takes 2 coins
+Lekkit - plays Minion
+Lekkit - draws Minion, Fortress, Bishop, Cellar
+Lekkit - plays Fortress
+Lekkit - draws Bishop
+Lekkit - plays Bishop
+Lekkit - trashes Cellar
+Lekkit - receives 1 victory point chips
+Lekkit - plays Minion
+Lekkit - discards Bishop
+Lekkit - draws Fortress, Cellar
+Lekkit - shuffles deck
+Lekkit - draws Bishop
+Lekkit - plays Bishop
+Lekkit - trashes Fortress
+Lekkit - receives 2 victory point chips
+Lekkit - buys Minion
+Lekkit - gains Minion
+Lekkit - shuffles deck
+Lekkit - draws Minion, Bishop, Minion, Bishop, Fortress
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Minion, Cellar, Fortress, Minion, Minion
+ 
+---------- Lekkit: turn 18 ----------
+Lekkit - plays Fortress
+Lekkit - draws Fortress
+Lekkit - plays Bishop
+Lekkit - trashes Fortress
+Lekkit - receives 2 victory point chips
+Titandrake - trashes Cellar
+Lekkit - plays Minion
+Lekkit - takes 2 coins
+Lekkit - plays Fortress
+Lekkit - draws Bishop
+Lekkit - plays Minion
+Lekkit - discards: Bishop, Bishop
+Lekkit - draws Fortress, Bishop, Minion, Fortress
+Lekkit - plays Bishop
+Lekkit - trashes Fortress
+Lekkit - receives 2 victory point chips
+Lekkit - plays Fortress
+Lekkit - draws Minion
+Lekkit - plays Minion
+Lekkit - discards: Fortress, Minion
+Lekkit - draws Cellar, Minion
+Lekkit - shuffles deck
+Lekkit - draws Fortress, Bishop
+Lekkit - plays Bishop
+Lekkit - trashes Fortress
+Lekkit - receives 2 victory point chips
+Lekkit - plays Cellar
+Lekkit - plays Minion
+Lekkit - discards Fortress
+Lekkit - draws Bishop, Minion
+Lekkit - shuffles deck
+Lekkit - draws Fortress
+Lekkit - plays Minion
+Lekkit - takes 2 coins
+Lekkit - plays Bishop
+Lekkit - trashes Fortress
+Lekkit - receives 2 victory point chips
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - shuffles deck
+Lekkit - draws Bishop, Minion, Cellar, Minion, Fortress
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Fortress
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Bishop, Bishop, Margrave
+Lekkit - draws Province
+Lekkit - discards Cellar
+Lekkit - discards Province
+Lekkit - discards Bishop
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Bishop, Bishop, Margrave
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Fortress, Fortress, Fortress
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Fortress
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Bishop, Silver, Fortress
+Lekkit - draws Minion
+Lekkit - discards Minion
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Silver
+Titandrake - receives 1 victory point chips
+Titandrake - plays Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Bishop, Margrave, Cellar, Cellar
+Titandrake - shuffles deck
+Titandrake - draws Bishop
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Fortress, 5 Bishop, 5 Minion, 3 Margrave, 2 Cellar, 1 Silver
+Titandrake - victory point chips: 55
+Titandrake - total victory points: 55
+Titandrake - turns: 19
+ 
+Lekkit - cards: 5 Minion, 4 Fortress, 4 Bishop, 1 Cellar, 1 Province
+Lekkit - victory point chips: 46
+Lekkit - total victory points: 52
+Lekkit - turns: 18
+ 
+1st place: Titandrake
+2nd place: Lekkit
+ 

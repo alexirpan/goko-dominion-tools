@@ -1,0 +1,572 @@
+------------ Game Setup ------------
+Supply cards: Loan, Swindler, Bishop, Monument, Quarry, Throne Room, Market, Mountebank, Witch, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+scs - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+scs - shuffles deck
+Titandrake - shuffles deck
+scs - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- scs: turn 1 ----------
+scs - plays 3 Copper
+scs - buys Swindler
+scs - gains Swindler
+scs - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- scs: turn 2 ----------
+scs - plays 4 Copper
+scs - buys Quarry
+scs - gains Quarry
+scs - shuffles deck
+scs - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - shuffles deck
+Titandrake - draws Copper, Quarry, Swindler, Copper, Estate
+ 
+---------- scs: turn 3 ----------
+scs - plays 4 Copper
+scs - buys Quarry
+scs - gains Quarry
+scs - draws Swindler, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Swindler
+scs - reveals Quarry
+scs - trashes Quarry
+scs - gains Throne Room
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- scs: turn 4 ----------
+scs - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+scs - plays 2 Copper
+scs - buys Quarry
+scs - gains Quarry
+scs - draws Copper
+scs - shuffles deck
+scs - draws Estate, Quarry, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Quarry, Copper, Copper, Copper
+ 
+---------- scs: turn 5 ----------
+scs - plays 3 Copper
+scs - plays Quarry
+scs - buys Mountebank
+scs - gains Mountebank
+scs - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - plays Quarry
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Estate, Swindler, Witch, Swindler, Copper
+ 
+---------- scs: turn 6 ----------
+scs - plays 3 Copper
+scs - buys Swindler
+scs - gains Swindler
+scs - draws Quarry, Copper, Swindler, Throne Room
+scs - shuffles deck
+scs - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Witch
+Titandrake - draws Curse, Estate
+scs - gains Curse
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Swindler, Copper
+ 
+---------- scs: turn 7 ----------
+scs - plays Throne Room
+scs - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+scs - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Silver
+scs - plays Quarry
+scs - buys Grand Market
+scs - gains Grand Market
+scs - draws Mountebank, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Swindler
+scs - reveals Copper
+scs - trashes Copper
+scs - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Estate, Witch, Curse, Copper, Quarry
+ 
+---------- scs: turn 8 ----------
+scs - plays Mountebank
+Titandrake - discards Curse
+scs - plays 2 Copper
+scs - buys Throne Room
+scs - gains Throne Room
+scs - draws Copper, Quarry, Swindler, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Market
+scs - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Market, Throne Room
+ 
+---------- scs: turn 9 ----------
+scs - plays Swindler
+Titandrake - reveals Quarry
+Titandrake - trashes Quarry
+Titandrake - gains Monument
+scs - plays 2 Copper
+scs - plays Quarry
+scs - buys Witch
+scs - gains Witch
+scs - shuffles deck
+scs - draws Copper, Curse, Estate, Witch, Grand Market
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Quarry
+Titandrake - plays Quarry
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Curse, Silver, Witch, Copper, Swindler
+ 
+---------- scs: turn 10 ----------
+scs - plays Grand Market
+scs - draws Mountebank
+scs - plays Witch
+scs - draws Copper, Swindler
+Titandrake - gains Curse
+scs - plays 2 Copper
+scs - buys Bishop
+scs - gains Bishop
+scs - draws Curse, Quarry, Quarry, Swindler, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Copper
+scs - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Witch
+ 
+---------- scs: turn 11 ----------
+scs - plays Swindler
+Titandrake - reveals Market
+Titandrake - trashes Market
+Titandrake - gains Duchy
+scs - plays Quarry
+scs - plays Quarry
+scs - buys Grand Market
+scs - gains Grand Market
+scs - draws Throne Room, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Curse
+scs - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Quarry, Estate, Copper, Curse, Monument
+ 
+---------- scs: turn 12 ----------
+scs - draws Copper, Curse, Throne Room
+scs - shuffles deck
+scs - draws Copper, Grand Market
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Quarry
+Titandrake - plays Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Swindler, Quarry, Market, Swindler, Estate
+ 
+---------- scs: turn 13 ----------
+scs - plays Throne Room
+scs - plays Grand Market
+scs - draws Curse
+scs - plays Grand Market
+scs - draws Curse
+scs - plays Copper
+scs - buys Market
+scs - gains Market
+scs - draws Copper, Curse, Throne Room, Estate, Mountebank
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Swindler
+scs - reveals Curse
+scs - trashes Curse
+scs - gains Curse
+Titandrake - plays Quarry
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Throne Room, Copper
+Titandrake - shuffles deck
+Titandrake - draws Witch, Quarry, Copper
+ 
+---------- scs: turn 14 ----------
+scs - plays Throne Room
+scs - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+scs - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+scs - plays 1 Copper
+scs - buys Market
+scs - gains Market
+scs - draws Quarry, Witch, Swindler, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Witch
+Titandrake - draws Monument, Duchy
+Titandrake - plays Witch
+Titandrake - draws Quarry, Quarry
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Copper, Swindler, Estate, Silver, Quarry
+ 
+---------- scs: turn 15 ----------
+scs - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Estate
+scs - plays Quarry
+scs - buys Market
+scs - gains Market
+scs - draws Bishop, Estate, Estate, Swindler, Quarry
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Swindler
+scs - reveals Grand Market
+scs - trashes Grand Market
+scs - gains Gold
+Titandrake - plays Quarry
+Titandrake - plays Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Copper, Curse, Curse, Copper, Market
+ 
+---------- scs: turn 16 ----------
+scs - plays Bishop
+scs - trashes Estate
+scs - receives 1 victory point chips
+Titandrake - trashes Curse
+scs - plays Quarry
+scs - buys Throne Room
+scs - gains Throne Room
+scs - draws Copper
+scs - shuffles deck
+scs - draws Throne Room, Swindler, Estate, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Swindler, Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Witch, Copper
+ 
+---------- scs: turn 17 ----------
+scs - plays Throne Room
+scs - plays Swindler
+Titandrake - reveals Quarry
+Titandrake - trashes Quarry
+Titandrake - gains Monument
+scs - plays Swindler
+Titandrake - reveals Market
+Titandrake - trashes Market
+Titandrake - gains Duchy
+scs - plays Copper
+scs - buys Market
+scs - gains Market
+scs - draws Quarry, Copper, Grand Market, Curse, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Monument
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Copper, Grand Market, Throne Room, Curse, Swindler
+ 
+---------- scs: turn 18 ----------
+scs - plays Grand Market
+scs - draws Market
+scs - plays Market
+scs - draws Throne Room
+scs - plays Gold
+scs - plays Quarry
+scs - buys Grand Market
+scs - gains Grand Market
+scs - buys Market
+scs - gains Market
+scs - draws Copper, Copper, Copper, Curse, Swindler
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Grand Market
+Titandrake - draws Quarry
+Titandrake - plays Grand Market
+Titandrake - draws Duchy
+Titandrake - plays Swindler
+scs - reveals Copper
+scs - trashes Copper
+scs - gains Copper
+Titandrake - plays Quarry
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Curse, Curse, Copper, Quarry, Quarry
+ 
+---------- scs: turn 19 ----------
+scs - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Copper
+scs - plays 3 Copper
+scs - buys Throne Room
+scs - gains Throne Room
+scs - draws Quarry, Estate, Market, Curse, Witch
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Copper, Silver, Copper, Swindler, Estate
+ 
+---------- scs: turn 20 ----------
+scs - plays Market
+scs - draws Curse
+scs - plays Witch
+scs - draws Bishop, Mountebank
+scs - plays Quarry
+scs - buys Throne Room
+scs - gains Throne Room
+scs - draws Throne Room, Market
+scs - shuffles deck
+scs - draws Mountebank, Curse, Swindler
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Swindler
+scs - reveals Estate
+scs - trashes Estate
+scs - gains Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Estate, Grand Market, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- scs: turn 21 ----------
+scs - plays Throne Room
+scs - plays Market
+scs - draws Quarry
+scs - plays Market
+scs - draws Market
+scs - plays Market
+scs - draws Swindler
+scs - plays Mountebank
+Titandrake - gains Copper
+scs - plays Swindler
+Titandrake - reveals Duchy
+Titandrake - trashes Duchy
+Titandrake - gains Witch
+scs - plays Quarry
+scs - buys Province
+scs - gains Province
+scs - draws Market, Curse, Grand Market, Market, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Monument, Grand Market, Copper, Copper, Swindler
+ 
+---------- scs: turn 22 ----------
+scs - plays Market
+scs - draws Copper
+scs - plays Market
+scs - draws Curse
+scs - plays Grand Market
+scs - draws Throne Room
+scs - plays Copper
+scs - buys Duchy
+scs - gains Duchy
+scs - draws Grand Market, Throne Room, Curse, Throne Room, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Swindler
+scs - reveals Witch
+scs - trashes Witch
+scs - gains Witch
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Curse, Curse, Market, Grand Market
+ 
+---------- scs: turn 23 ----------
+scs - plays Throne Room
+scs - plays Grand Market
+scs - draws Curse
+scs - plays Grand Market
+scs - draws Quarry
+scs - plays Quarry
+scs - buys Duchy
+scs - gains Duchy
+scs - draws Market, Copper, Copper, Bishop, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Market
+Titandrake - draws Quarry
+Titandrake - plays Grand Market
+Titandrake - draws Duchy
+Titandrake - plays Quarry
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Grand Market, Throne Room, Curse, Swindler
+ 
+---------- scs: turn 24 ----------
+scs - plays Market
+scs - draws Gold
+scs - plays Bishop
+scs - trashes Copper
+scs - receives 0 victory point chips
+Titandrake - trashes Curse
+scs - plays 2 Copper, 1 Gold
+scs - buys Duchy
+scs - gains Duchy
+scs - buys Estate
+scs - gains Estate
+scs - draws Estate, Throne Room
+scs - shuffles deck
+scs - draws Bishop, Throne Room, Estate
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - draws Monument
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Swindler
+scs - reveals Curse
+scs - trashes Curse
+scs - gains Copper
+Titandrake - plays 1 Silver
+Titandrake - plays Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Market, Witch, Estate, Quarry, Duchy
+ 
+---------- scs: turn 25 ----------
+scs - plays Throne Room
+scs - plays Bishop
+scs - trashes Throne Room
+scs - receives 2 victory point chips
+scs - plays Bishop
+scs - trashes Estate
+scs - receives 1 victory point chips
+scs - buys Estate
+scs - gains Estate
+scs - draws Market, Market, Copper, Witch, Throne Room
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Market
+Titandrake - draws Quarry
+Titandrake - plays Witch
+Titandrake - draws Swindler
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 1 Copper
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Grand Market, Copper, Witch, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Grand Market, 3 Market, 3 Swindler, 2 Witch, 2 Monument, 1 Throne Room, 9 Copper, 3 Quarry, 1 Silver, 4 Estate, 4 Duchy, 1 Province, 1 Colony, 2 Curse
+Titandrake - victory point chips: 3
+Titandrake - total victory points: 33
+Titandrake - turns: 25
+ 
+scs - cards: 5 Market, 4 Throne Room, 2 Swindler, 2 Grand Market, 1 Witch, 1 Bishop, 1 Mountebank, 6 Copper, 2 Quarry, 1 Gold, 3 Estate, 3 Duchy, 1 Province, 4 Curse
+scs - victory point chips: 8
+scs - total victory points: 22
+scs - turns: 25
+ 
+1st place: Titandrake
+2nd place: scs
+ 

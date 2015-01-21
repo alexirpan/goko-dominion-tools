@@ -1,0 +1,434 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Trade Route, Alchemist, Cutpurse, Island, Contraband, Merchant Guild, Tactician, Adventurer, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+rgnark - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+rgnark - shuffles deck
+Titandrake - shuffles deck
+rgnark - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- rgnark: turn 1 ----------
+rgnark - plays 4 Copper
+rgnark - buys Island
+rgnark - gains Island
+rgnark - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Cutpurse
+Titandrake - gains Cutpurse
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- rgnark: turn 2 ----------
+rgnark - plays 3 Copper
+rgnark - buys Silver
+rgnark - gains Silver
+rgnark - shuffles deck
+rgnark - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - shuffles deck
+Titandrake - draws Estate, Cutpurse, Copper, Copper, Estate
+ 
+---------- rgnark: turn 3 ----------
+rgnark - plays 3 Copper, 1 Silver
+rgnark - buys Tactician
+rgnark - gains Tactician
+rgnark - draws Estate, Copper, Copper, Estate, Island
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Cutpurse
+rgnark - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- rgnark: turn 4 ----------
+rgnark - plays Island
+rgnark - sets aside Estate
+rgnark - draws Copper, Copper
+rgnark - shuffles deck
+rgnark - draws Copper, Tactician, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Trade Route
+Titandrake - shuffles deck
+Titandrake - draws Cutpurse, Copper, Copper
+ 
+---------- rgnark: turn 5 ----------
+rgnark - plays Tactician
+rgnark - discards: Copper, Copper, Copper, Copper
+rgnark - draws Estate, Copper, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Cutpurse
+rgnark - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- rgnark: turn 6 ----------
+rgnark - duration Tactician
+rgnark - draws Copper
+rgnark - shuffles deck
+rgnark - draws Copper, Copper, Copper, Copper
+rgnark - plays 6 Copper, 1 Silver
+rgnark - buys Merchant Guild
+rgnark - gains Merchant Guild
+rgnark - buys Trade Route
+rgnark - gains Trade Route
+rgnark - draws Copper
+rgnark - shuffles deck
+rgnark - draws Copper, Silver, Estate, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Contraband
+Titandrake - gains Contraband
+Titandrake - draws Estate, Copper, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- rgnark: turn 7 ----------
+rgnark - plays 2 Copper, 1 Silver
+rgnark - buys Island
+rgnark - gains Island
+rgnark - draws Copper, Trade Route, Copper, Copper, Tactician
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Trade Route, Silver, Copper
+ 
+---------- rgnark: turn 8 ----------
+rgnark - plays Tactician
+rgnark - discards: Copper, Trade Route, Copper, Copper
+rgnark - draws Copper, Merchant Guild, Copper
+rgnark - shuffles deck
+rgnark - draws Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Copper, Copper, Contraband, Tactician, Cutpurse
+ 
+---------- rgnark: turn 9 ----------
+rgnark - duration Tactician
+rgnark - draws Copper, Estate, Trade Route, Copper, Copper
+rgnark - plays Merchant Guild
+rgnark - plays Trade Route
+rgnark - trashes Copper
+rgnark - plays 5 Copper, 1 Silver
+rgnark - buys Province
+rgnark - receives 1 coin token
+rgnark - gains Province
+rgnark - draws Estate, Island, Copper
+rgnark - shuffles deck
+rgnark - draws Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Copper, Contraband, Cutpurse
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Silver
+ 
+---------- rgnark: turn 10 ----------
+rgnark - plays Island
+rgnark - sets aside Estate
+rgnark - plays 3 Copper
+rgnark - uses 1 coin token
+rgnark - buys Island
+rgnark - gains Island
+rgnark - draws Estate, Tactician, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Tactician
+Titandrake - draws Trade Route, Copper, Contraband, Silver, Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 4 Copper, 3 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Cutpurse, Estate, Silver, Estate, Pawn
+ 
+---------- rgnark: turn 11 ----------
+rgnark - plays Tactician
+rgnark - discards: Estate, Copper, Silver, Copper
+rgnark - draws Trade Route, Province, Merchant Guild, Copper
+rgnark - shuffles deck
+rgnark - draws Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Cutpurse
+rgnark - discards Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Trade Route, Silver, Estate, Tactician
+ 
+---------- rgnark: turn 12 ----------
+rgnark - duration Tactician
+rgnark - draws Copper, Copper, Silver, Copper, Copper
+rgnark - plays Merchant Guild
+rgnark - plays Trade Route
+rgnark - trashes Copper
+rgnark - plays 3 Copper, 1 Silver
+rgnark - buys Province
+rgnark - receives 1 coin token
+rgnark - gains Province
+rgnark - draws Island, Copper
+rgnark - shuffles deck
+rgnark - draws Trade Route, Merchant Guild, Tactician
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Trade Route, Silver, Estate
+Titandrake - draws Copper, Silver, Pawn, Silver, Copper
+ 
+---------- rgnark: turn 13 ----------
+rgnark - plays Tactician
+rgnark - discards: Island, Copper, Trade Route, Merchant Guild
+rgnark - draws Province, Silver, Copper, Copper, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Tactician
+Titandrake - draws Island, Province, Silver, Estate, Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Copper
+Titandrake - plays Island
+Titandrake - sets aside Province
+Titandrake - plays 4 Copper, 3 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Cutpurse, Contraband, Island, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- rgnark: turn 14 ----------
+rgnark - duration Tactician
+rgnark - draws Copper, Estate, Copper
+rgnark - shuffles deck
+rgnark - draws Merchant Guild, Copper
+rgnark - plays Merchant Guild
+rgnark - plays 5 Copper, 1 Silver
+rgnark - buys Province
+rgnark - receives 1 coin token
+rgnark - gains Province
+rgnark - draws Trade Route, Island
+rgnark - shuffles deck
+rgnark - draws Province, Merchant Guild, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Cutpurse
+rgnark - reveals Trade Route, Island, Province, Merchant Guild, Province
+Titandrake - plays Contraband
+rgnark - names Province as contraband
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Silver, Trade Route, Silver
+ 
+---------- rgnark: turn 15 ----------
+rgnark - plays Island
+rgnark - sets aside Province
+rgnark - draws Province, Estate, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Tactician, Copper, Estate
+ 
+---------- rgnark: turn 16 ----------
+rgnark - plays 2 Copper, 1 Silver
+rgnark - buys Island
+rgnark - gains Island
+rgnark - draws Copper, Copper, Tactician, Copper
+rgnark - shuffles deck
+rgnark - draws Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Trade Route, Province, Silver, Pawn
+ 
+---------- rgnark: turn 17 ----------
+rgnark - plays Tactician
+rgnark - discards: Copper, Copper, Copper, Province
+rgnark - draws Estate, Province, Copper, Trade Route, Island
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Tactician
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Trade Route, Silver
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Silver
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Contraband, Cutpurse, Estate, Island
+ 
+---------- rgnark: turn 18 ----------
+rgnark - duration Tactician
+rgnark - draws Merchant Guild, Silver, Copper
+rgnark - shuffles deck
+rgnark - draws Province, Copper
+rgnark - plays Merchant Guild
+rgnark - plays Trade Route
+rgnark - trashes Copper
+rgnark - plays 2 Copper, 1 Silver
+rgnark - uses 2 coin tokens
+rgnark - buys Duchy
+rgnark - receives 1 coin token
+rgnark - gains Duchy
+rgnark - buys Duchy
+rgnark - receives 1 coin token
+rgnark - gains Duchy
+rgnark - draws Copper, Copper
+rgnark - shuffles deck
+rgnark - draws Copper, Province, Duchy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Cutpurse
+rgnark - discards Copper
+Titandrake - plays Contraband
+rgnark - names Province as contraband
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Copper, Copper, Silver, Province
+ 
+---------- rgnark: turn 19 ----------
+rgnark - plays 2 Copper
+rgnark - uses 2 coin tokens
+rgnark - buys Island
+rgnark - gains Island
+rgnark - draws Trade Route, Copper, Merchant Guild, Island, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - shuffles deck
+Titandrake - draws Silver, Island, Silver, Silver, Estate
+ 
+---------- rgnark: turn 20 ----------
+rgnark - plays Merchant Guild
+rgnark - plays 1 Copper
+rgnark - buys Estate
+rgnark - receives 1 coin token
+rgnark - gains Estate
+rgnark - buys Copper
+rgnark - receives 1 coin token
+rgnark - gains Copper
+rgnark - draws Province, Silver, Duchy, Tactician
+rgnark - shuffles deck
+rgnark - draws Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Province, Copper, Duchy, Duchy
+ 
+---------- rgnark: turn 21 ----------
+rgnark - plays Tactician
+rgnark - discards: Province, Silver, Duchy, Copper
+rgnark - draws Estate, Duchy, Island, Trade Route, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper, Contraband, Tactician, Silver
+ 
+---------- rgnark: turn 22 ----------
+rgnark - duration Tactician
+rgnark - draws Merchant Guild, Copper, Province, Copper, Island
+rgnark - plays Merchant Guild
+rgnark - plays Trade Route
+rgnark - trashes Copper
+rgnark - plays 2 Copper
+rgnark - uses 1 coin token
+rgnark - buys Province
+rgnark - receives 1 coin token
+rgnark - gains Province
+rgnark - buys Copper
+rgnark - receives 1 coin token
+rgnark - gains Copper
+rgnark - buys Copper
+rgnark - receives 1 coin token
+rgnark - gains Copper
+rgnark - buys Copper
+rgnark - receives 1 coin token
+rgnark - gains Copper
+rgnark - draws Copper, Estate
+rgnark - shuffles deck
+rgnark - draws Copper, Copper, Merchant Guild
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Copper, Contraband, Silver
+Titandrake - draws Trade Route, Province, Island, Duchy, Pawn
+ 
+---------- rgnark: turn 23 ----------
+rgnark - plays Merchant Guild
+rgnark - plays 3 Copper
+rgnark - uses 4 coin tokens
+rgnark - buys Province
+rgnark - receives 1 coin token
+rgnark - gains Province
+rgnark - draws Island, Copper, Copper, Estate, Province
+ 
+------------ Game Over ------------
+rgnark - cards: 5 Island, 1 Merchant Guild, 1 Trade Route, 1 Tactician, 7 Copper, 1 Silver, 5 Province, 4 Estate, 2 Duchy
+rgnark - total victory points: 50
+rgnark - turns: 23
+ 
+Titandrake - cards: 3 Island, 2 Trade Route, 1 Pawn, 1 Cutpurse, 1 Tactician, 5 Silver, 4 Copper, 1 Contraband, 6 Duchy, 3 Province, 2 Estate
+Titandrake - total victory points: 44
+Titandrake - turns: 22
+ 
+1st place: rgnark
+2nd place: Titandrake
+ 

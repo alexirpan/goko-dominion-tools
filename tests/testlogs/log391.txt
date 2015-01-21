@@ -1,0 +1,522 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Lookout, Death Cart, Farming Village, Scout, Catacombs, Contraband, Counterfeit, Cultist, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Watno - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Watno - shuffles deck
+Titandrake - shuffles deck
+Watno - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Watno: turn 1 ----------
+Watno - plays 3 Copper
+Watno - buys Lookout
+Watno - gains Lookout
+Watno - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Watno: turn 2 ----------
+Watno - plays 4 Copper
+Watno - buys Silver
+Watno - gains Silver
+Watno - shuffles deck
+Watno - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Watno: turn 3 ----------
+Watno - plays 3 Copper, 1 Silver
+Watno - buys Cultist
+Watno - gains Cultist
+Watno - draws Copper, Copper, Copper, Estate, Lookout
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Estate, Estate, Silver, Copper
+ 
+---------- Watno: turn 4 ----------
+Watno - plays Lookout
+Watno - shuffles deck
+Watno - trashes Estate
+Watno - discards Copper
+Watno - places Copper on top of deck
+Watno - plays 3 Copper
+Watno - buys Lookout
+Watno - gains Lookout
+Watno - draws Copper, Estate, Copper, Silver, Cultist
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- Watno: turn 5 ----------
+Watno - plays Cultist
+Watno - draws Copper
+Watno - shuffles deck
+Watno - draws Copper
+Titandrake - gains Ruined Market
+Watno - plays 4 Copper, 1 Silver
+Watno - buys Cultist
+Watno - gains Cultist
+Watno - draws Lookout, Lookout, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Copper, Silver, Lookout, Estate, Copper
+ 
+---------- Watno: turn 6 ----------
+Watno - plays Lookout
+Watno - shuffles deck
+Watno - trashes Copper
+Watno - discards Copper
+Watno - places Cultist on top of deck
+Watno - plays Lookout
+Watno - trashes Estate
+Watno - discards Copper
+Watno - places Cultist on top of deck
+Watno - plays 2 Copper
+Watno - buys Lighthouse
+Watno - gains Lighthouse
+Watno - draws Cultist, Copper, Silver, Cultist, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Cultist on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Cultist, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate
+ 
+---------- Watno: turn 7 ----------
+Watno - plays Cultist
+Watno - shuffles deck
+Watno - draws Lighthouse, Lookout
+Titandrake - gains Survivors
+Watno - plays Cultist
+Watno - draws Lookout, Copper
+Titandrake - gains Ruined Market
+Watno - plays 3 Copper, 1 Silver
+Watno - buys Cultist
+Watno - gains Cultist
+Watno - draws Copper, Copper, Estate, Copper
+Watno - shuffles deck
+Watno - draws Cultist
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+Watno - gains Survivors
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Silver, Lookout, Ruined Market, Estate, Lookout
+ 
+---------- Watno: turn 8 ----------
+Watno - plays Cultist
+Watno - draws Copper, Copper
+Titandrake - gains Ruined Village
+Watno - plays 5 Copper
+Watno - buys Counterfeit
+Watno - gains Counterfeit
+Watno - draws Lighthouse, Cultist, Lookout, Silver, Lookout
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays Silver
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Silver, Ruined Market, Ruined Village, Survivors, Silver
+ 
+---------- Watno: turn 9 ----------
+Watno - plays Lookout
+Watno - shuffles deck
+Watno - trashes Estate
+Watno - discards Copper
+Watno - places Cultist on top of deck
+Watno - plays Lookout
+Watno - trashes Copper
+Watno - discards Copper
+Watno - places Cultist on top of deck
+Watno - plays Lighthouse
+Watno - plays Cultist
+Watno - draws Cultist, Copper
+Titandrake - gains Survivors
+Watno - plays Cultist
+Watno - draws Copper, Copper
+Titandrake - gains Abandoned Mine
+Watno - plays 3 Copper, 1 Silver
+Watno - buys Counterfeit
+Watno - gains Counterfeit
+Watno - draws Survivors, Cultist, Counterfeit
+Watno - shuffles deck
+Watno - draws Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Copper, Estate
+Titandrake - discards: Copper, Estate
+Titandrake - plays 2 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Cultist, Copper, Copper, Estate, Cultist
+ 
+---------- Watno: turn 10 ----------
+Watno - duration Lighthouse
+Watno - plays Cultist
+Watno - draws Lookout, Cultist
+Titandrake - gains Ruined Village
+Watno - plays Cultist
+Watno - draws Copper, Cultist
+Titandrake - gains Abandoned Mine
+Watno - plays Cultist
+Watno - draws Lookout, Copper
+Titandrake - gains Ruined Market
+Watno - plays Counterfeit
+Watno - plays Copper
+Watno - plays Copper
+Watno - trashes Copper
+Watno - plays 2 Copper, 1 Silver
+Watno - buys King's Court
+Watno - gains King's Court
+Watno - draws Copper, Counterfeit, Copper
+Watno - shuffles deck
+Watno - draws Lighthouse, Counterfeit
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cultist
+Titandrake - shuffles deck
+Titandrake - draws Estate, Survivors
+Titandrake - plays Cultist
+Titandrake - draws Silver, Abandoned Mine
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - draws Silver, Copper, Silver, Ruined Market, Copper
+ 
+---------- Watno: turn 11 ----------
+Watno - plays Lighthouse
+Watno - plays Counterfeit
+Watno - plays Counterfeit
+Watno - plays Copper
+Watno - plays Copper
+Watno - trashes Copper
+Watno - plays Counterfeit
+Watno - plays Copper
+Watno - plays Copper
+Watno - trashes Copper
+Watno - trashes Counterfeit
+Watno - buys King's Court
+Watno - gains King's Court
+Watno - draws Copper, Silver, Lookout, Cultist, Cultist
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Lookout, Estate, Ruined Village, Ruined Village, Survivors
+ 
+---------- Watno: turn 12 ----------
+Watno - duration Lighthouse
+Watno - plays Lookout
+Watno - trashes Lookout
+Watno - discards King's Court
+Watno - places Cultist on top of deck
+Watno - plays Cultist
+Watno - draws Cultist, Copper
+Watno - plays Cultist
+Watno - draws Survivors
+Watno - shuffles deck
+Watno - draws King's Court
+Watno - plays Cultist
+Watno - draws Counterfeit, King's Court
+Watno - plays Counterfeit
+Watno - plays Copper
+Watno - plays Copper
+Watno - trashes Copper
+Watno - plays 1 Copper, 1 Silver
+Watno - buys Death Cart
+Watno - gains Death Cart
+Watno - buys Silver
+Watno - gains Silver
+Watno - shuffles deck
+Watno - draws King's Court, Silver, Copper, Cultist, Lookout
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Ruined Market
+Titandrake - discards Silver
+Titandrake - places Lookout on top of deck
+Titandrake - plays Survivors
+Titandrake - looks at Lookout, Abandoned Mine
+Titandrake - places Abandoned Mine on top of deck
+Titandrake - places Lookout on top of deck
+Titandrake - draws Lookout, Abandoned Mine, Lighthouse, Ruined Market
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Watno: turn 13 ----------
+Watno - plays Lookout
+Watno - trashes Survivors
+Watno - discards Death Cart
+Watno - places Counterfeit on top of deck
+Watno - plays King's Court
+Watno - plays Cultist
+Watno - draws Counterfeit, Lighthouse
+Watno - plays Cultist
+Watno - draws Cultist, Cultist
+Watno - plays Cultist
+Watno - draws Silver, King's Court
+Watno - plays Cultist
+Watno - shuffles deck
+Watno - draws Death Cart
+Watno - plays Cultist
+Watno - plays Counterfeit
+Watno - plays Silver
+Watno - plays Silver
+Watno - trashes Silver
+Watno - plays 1 Silver, 1 Copper
+Watno - buys Death Cart
+Watno - gains Death Cart
+Watno - buys Death Cart
+Watno - gains Death Cart
+Watno - shuffles deck
+Watno - draws King's Court, King's Court, Death Cart, Death Cart, Lighthouse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Lookout
+Titandrake - trashes Survivors
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Abandoned Mine
+Titandrake - plays Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Copper, Silver, Estate, Lookout, Ruined Village
+ 
+---------- Watno: turn 14 ----------
+Watno - plays Lighthouse
+Watno - plays King's Court
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - buys Province
+Watno - gains Province
+Watno - draws Cultist, Copper, Death Cart, Cultist, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - draws Silver, Ruined Market, Abandoned Mine, Cultist, Counterfeit
+ 
+---------- Watno: turn 15 ----------
+Watno - duration Lighthouse
+Watno - plays Death Cart
+Watno - trashes Cultist
+Watno - draws Lookout, Cultist, Counterfeit
+Watno - plays Counterfeit
+Watno - plays Copper
+Watno - plays Copper
+Watno - trashes Copper
+Watno - plays 1 Silver
+Watno - buys Province
+Watno - gains Province
+Watno - buys Silver
+Watno - gains Silver
+Watno - shuffles deck
+Watno - draws King's Court, Province, Silver, Province, Death Cart
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Cultist
+Titandrake - draws Death Cart, Estate
+Titandrake - plays Counterfeit
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - trashes Silver
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - draws Silver, Survivors, Copper, Cultist, Ruined Village
+ 
+---------- Watno: turn 16 ----------
+Watno - plays King's Court
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - plays 1 Silver
+Watno - buys Province
+Watno - gains Province
+Watno - draws King's Court, Cultist, Counterfeit, Death Cart, Lighthouse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Cultist
+Titandrake - shuffles deck
+Titandrake - draws Abandoned Mine, Lookout
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ruined Market, Estate, Lookout, Copper, Silver
+ 
+---------- Watno: turn 17 ----------
+Watno - plays King's Court
+Watno - plays Lighthouse
+Watno - plays Lighthouse
+Watno - plays Lighthouse
+Watno - plays Death Cart
+Watno - trashes Cultist
+Watno - draws Cultist, Lookout, Silver
+Watno - plays Lookout
+Watno - shuffles deck
+Watno - trashes Province
+Watno - discards Province
+Watno - places Province on top of deck
+Watno - plays Cultist
+Watno - draws Province, King's Court
+Watno - plays Counterfeit
+Watno - plays Silver
+Watno - plays Silver
+Watno - trashes Silver
+Watno - buys Province
+Watno - gains Province
+Watno - buys Death Cart
+Watno - gains Death Cart
+Watno - draws Silver
+Watno - shuffles deck
+Watno - draws Province, Death Cart, Death Cart, Counterfeit
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Abandoned Mine
+Titandrake - discards Lighthouse
+Titandrake - places Death Cart on top of deck
+Titandrake - plays Ruined Market
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Death Cart, Estate, Ruined Market, Death Cart, Ruined Village
+ 
+---------- Watno: turn 18 ----------
+Watno - duration King's Court
+Watno - duration Lighthouse
+Watno - duration Lighthouse
+Watno - duration Lighthouse
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - plays Counterfeit
+Watno - plays Silver
+Watno - plays Silver
+Watno - trashes Silver
+Watno - buys Province
+Watno - gains Province
+Watno - buys Cultist
+Watno - gains Cultist
+Watno - draws Province, Province, Cultist, Lookout, King's Court
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Death Cart
+Titandrake - trashes Ruined Village
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - draws Copper, Copper, Lookout, Death Cart, Silver
+ 
+---------- Watno: turn 19 ----------
+Watno - plays Lookout
+Watno - shuffles deck
+Watno - trashes Cultist
+Watno - draws Province, Counterfeit, King's Court
+Watno - discards Province
+Watno - places Death Cart on top of deck
+Watno - plays King's Court
+Watno - plays King's Court
+Watno - plays Cultist
+Watno - draws Death Cart, Lighthouse
+Watno - plays Cultist
+Watno - shuffles deck
+Watno - draws Province
+Watno - plays Cultist
+Watno - plays King's Court
+Watno - plays Lighthouse
+Watno - plays Lighthouse
+Watno - plays Lighthouse
+Watno - plays King's Court
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - plays Death Cart
+Watno - trashes Death Cart
+Watno - plays Counterfeit
+Watno - buys Province
+Watno - gains Province
+Watno - buys Province
+Watno - gains Province
+Watno - shuffles deck
+Watno - draws Province, Counterfeit, Province, Province, Cultist
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Cultist
+Titandrake - draws Ruined Village, Ruined Market, Estate
+Titandrake - discards Silver
+Titandrake - places Counterfeit on top of deck
+Titandrake - plays Death Cart
+Titandrake - trashes Ruined Market
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Counterfeit, Abandoned Mine, Lookout, Cultist, Copper
+ 
+------------ Game Over ------------
+Watno - cards: 2 King's Court, 1 Cultist, 1 Lookout, 1 Lighthouse, 1 Counterfeit, 6 Province
+Watno - total victory points: 36
+Watno - turns: 19
+ 
+Titandrake - cards: 4 Death Cart, 3 Lookout, 1 Abandoned Mine, 1 Cultist, 1 Ruined Village, 1 Ruined Market, 1 Lighthouse, 1 Survivors, 5 Silver, 4 Copper, 1 Counterfeit, 2 Estate, 1 Province
+Titandrake - total victory points: 8
+Titandrake - turns: 19
+ 
+1st place: Watno
+2nd place: Titandrake
+ 

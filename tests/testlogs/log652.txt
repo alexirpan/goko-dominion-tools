@@ -1,0 +1,866 @@
+------------ Game Setup ------------
+Supply cards: Squire, Tunnel, Farming Village, Scavenger, Apprentice, Duke, Harvest, Margrave, Fairgrounds, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+kryttle - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+kryttle - shuffles deck
+Titandrake - shuffles deck
+kryttle - draws Estate, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- kryttle: turn 1 ----------
+kryttle - plays 2 Copper
+kryttle - buys Squire
+kryttle - gains Squire
+kryttle - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- kryttle: turn 2 ----------
+kryttle - plays 5 Copper
+kryttle - buys Margrave
+kryttle - gains Margrave
+kryttle - shuffles deck
+kryttle - draws Copper, Copper, Squire, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Squire, Copper
+ 
+---------- kryttle: turn 3 ----------
+kryttle - plays Squire
+kryttle - gains Silver
+kryttle - plays 4 Copper
+kryttle - buys Apprentice
+kryttle - gains Apprentice
+kryttle - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- kryttle: turn 4 ----------
+kryttle - plays 3 Copper
+kryttle - buys Tunnel
+kryttle - gains Tunnel
+kryttle - draws Estate, Margrave
+kryttle - shuffles deck
+kryttle - draws Estate, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Squire, Copper
+ 
+---------- kryttle: turn 5 ----------
+kryttle - plays Margrave
+kryttle - draws Squire, Copper, Copper
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+kryttle - plays 3 Copper, 1 Silver
+kryttle - buys Farming Village
+kryttle - gains Farming Village
+kryttle - draws Tunnel, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Margrave on top of deck
+Titandrake - plays Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Margrave
+Titandrake - shuffles deck
+Titandrake - draws Copper, Squire, Estate, Copper
+ 
+---------- kryttle: turn 6 ----------
+kryttle - plays 3 Copper
+kryttle - buys Silver
+kryttle - gains Silver
+kryttle - draws Apprentice, Copper
+kryttle - shuffles deck
+kryttle - draws Copper, Margrave, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Margrave
+Titandrake - draws Estate, Copper, Farming Village
+kryttle - draws Estate
+kryttle - discards Copper
+kryttle - discards Copper
+kryttle - discards Silver
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Squire, Copper, Copper, Scavenger, Copper
+ 
+---------- kryttle: turn 7 ----------
+kryttle - plays Apprentice
+kryttle - trashes Estate
+kryttle - draws Tunnel, Estate
+kryttle - plays Margrave
+kryttle - draws Copper, Copper, Copper
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+kryttle - plays 3 Copper
+kryttle - buys Tunnel
+kryttle - gains Tunnel
+kryttle - draws Silver, Copper, Squire, Copper, Farming Village
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Apprentice on top of deck
+Titandrake - plays Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Apprentice
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Scavenger
+ 
+---------- kryttle: turn 8 ----------
+kryttle - plays Farming Village
+kryttle - shuffles deck
+kryttle - reveals Estate, Copper
+kryttle - places Copper in hand
+kryttle - discards Estate
+kryttle - plays Squire
+kryttle - gains Silver
+kryttle - plays 3 Copper, 1 Silver
+kryttle - buys Gold
+kryttle - gains Gold
+kryttle - draws Estate, Margrave, Copper, Apprentice, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Estate
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Margrave on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Margrave
+Titandrake - shuffles deck
+Titandrake - draws Squire, Copper, Apprentice, Scavenger
+ 
+---------- kryttle: turn 9 ----------
+kryttle - plays Apprentice
+kryttle - trashes Estate
+kryttle - draws Tunnel, Copper
+kryttle - plays Margrave
+kryttle - draws Copper, Tunnel, Copper
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Scavenger
+kryttle - plays 4 Copper, 1 Silver
+kryttle - buys Farming Village
+kryttle - gains Farming Village
+kryttle - buys Squire
+kryttle - gains Squire
+kryttle - shuffles deck
+kryttle - draws Silver, Margrave, Copper, Gold, Farming Village
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Margrave
+Titandrake - draws Apprentice, Estate, Silver
+kryttle - draws Squire
+kryttle - discards Copper
+kryttle - discards Squire
+kryttle - discards Silver
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Squire, Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Scavenger, Copper, Copper, Farming Village, Copper
+ 
+---------- kryttle: turn 10 ----------
+kryttle - plays Farming Village
+kryttle - reveals Apprentice
+kryttle - places Apprentice in hand
+kryttle - plays Margrave
+kryttle - draws Tunnel, Copper, Silver
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+kryttle - plays Apprentice
+kryttle - trashes Copper
+kryttle - plays 1 Gold, 1 Silver
+kryttle - buys Margrave
+kryttle - gains Margrave
+kryttle - draws Copper, Squire, Tunnel, Estate, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Scavenger
+Titandrake - places Apprentice on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Apprentice
+Titandrake - shuffles deck
+Titandrake - draws Scavenger, Apprentice, Farming Village, Copper
+ 
+---------- kryttle: turn 11 ----------
+kryttle - plays Squire
+kryttle - gains Silver
+kryttle - plays 2 Copper
+kryttle - buys Tunnel
+kryttle - gains Tunnel
+kryttle - draws Copper, Silver, Copper, Copper, Farming Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Squire
+Titandrake - places Squire in hand
+Titandrake - plays Apprentice
+Titandrake - trashes Squire
+Titandrake - gains Margrave
+Titandrake - draws Farming Village, Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Squire
+Titandrake - places Squire in hand
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Margrave on top of deck
+Titandrake - plays Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Margrave
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver, Copper
+ 
+---------- kryttle: turn 12 ----------
+kryttle - plays Farming Village
+kryttle - shuffles deck
+kryttle - reveals Silver
+kryttle - places Silver in hand
+kryttle - plays 3 Copper, 2 Silver
+kryttle - buys Gold
+kryttle - gains Gold
+kryttle - draws Margrave, Gold, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Margrave
+Titandrake - draws Silver, Margrave, Copper
+kryttle - draws Estate
+kryttle - discards Estate
+kryttle - discards Copper
+kryttle - discards Silver
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Squire, Squire, Scavenger, Scavenger, Silver
+ 
+---------- kryttle: turn 13 ----------
+kryttle - plays Margrave
+kryttle - draws Squire, Copper, Tunnel
+Titandrake - draws Apprentice
+Titandrake - discards Silver
+Titandrake - discards Scavenger
+Titandrake - discards Squire
+kryttle - plays 1 Gold, 1 Silver, 1 Copper
+kryttle - buys Farming Village
+kryttle - gains Farming Village
+kryttle - buys Squire
+kryttle - gains Squire
+kryttle - draws Squire, Farming Village, Margrave, Tunnel, Tunnel
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Squire
+Titandrake - gains Margrave
+Titandrake - draws Farming Village, Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Apprentice
+Titandrake - places Apprentice in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Squire
+Titandrake - places Squire in hand
+Titandrake - plays Apprentice
+Titandrake - trashes Squire
+Titandrake - gains Margrave
+Titandrake - draws Copper, Copper
+Titandrake - plays Scavenger
+Titandrake - places Margrave on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Margrave
+Titandrake - shuffles deck
+Titandrake - draws Apprentice, Farming Village, Silver, Margrave
+ 
+---------- kryttle: turn 14 ----------
+kryttle - plays Farming Village
+kryttle - reveals Apprentice
+kryttle - places Apprentice in hand
+kryttle - plays Margrave
+kryttle - draws Copper
+kryttle - shuffles deck
+kryttle - draws Silver, Margrave
+Titandrake - draws Farming Village
+Titandrake - discards Apprentice
+Titandrake - discards Silver
+Titandrake - discards Farming Village
+kryttle - plays Apprentice
+kryttle - trashes Copper
+kryttle - plays Squire
+kryttle - takes 2 actions
+kryttle - plays Margrave
+kryttle - draws Silver, Silver, Farming Village
+Titandrake - draws Scavenger
+Titandrake - discards Scavenger
+kryttle - plays Farming Village
+kryttle - reveals Gold
+kryttle - places Gold in hand
+kryttle - plays 3 Silver, 1 Gold
+kryttle - buys Grand Market
+kryttle - gains Grand Market
+kryttle - buys Farming Village
+kryttle - gains Farming Village
+kryttle - draws Squire, Tunnel, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Margrave
+Titandrake - draws Squire, Margrave, Copper
+kryttle - draws Estate
+kryttle - discards Estate
+kryttle - discards Tunnel
+kryttle - discards Copper
+kryttle - reveals reaction Tunnel
+kryttle - gains Gold
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Margrave
+Titandrake - draws Scavenger, Silver, Copper
+kryttle - draws Farming Village
+kryttle - discards Squire
+Titandrake - plays Margrave
+Titandrake - draws Margrave, Copper, Gold
+kryttle - draws Copper
+kryttle - discards Copper
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Silver, Estate, Farming Village, Copper, Farming Village
+ 
+---------- kryttle: turn 15 ----------
+kryttle - plays Farming Village
+kryttle - reveals Gold
+kryttle - places Gold in hand
+kryttle - plays 2 Copper, 1 Gold
+kryttle - buys Margrave
+kryttle - gains Margrave
+kryttle - draws Squire, Silver, Copper
+kryttle - shuffles deck
+kryttle - draws Tunnel, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Apprentice
+Titandrake - places Apprentice in hand
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Margrave, Farming Village, Scavenger, Grand Market, Apprentice
+ 
+---------- kryttle: turn 16 ----------
+kryttle - plays Squire
+kryttle - gains Silver
+kryttle - plays 2 Copper, 1 Silver
+kryttle - buys Farming Village
+kryttle - gains Farming Village
+kryttle - draws Farming Village, Gold, Margrave, Gold, Margrave
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Margrave
+Titandrake - places Margrave in hand
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Margrave
+Titandrake - draws Scavenger, Gold, Farming Village
+kryttle - draws Farming Village
+kryttle - discards Farming Village
+kryttle - discards Margrave
+kryttle - discards Gold
+Titandrake - plays Farming Village
+Titandrake - reveals Squire
+Titandrake - places Squire in hand
+Titandrake - plays Margrave
+Titandrake - draws Copper, Margrave, Copper
+kryttle - draws Apprentice
+kryttle - discards Apprentice
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Margrave
+Titandrake - draws Margrave
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Copper
+kryttle - draws Grand Market
+kryttle - discards Grand Market
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Margrave
+Titandrake - draws Apprentice, Silver, Copper
+kryttle - draws Tunnel
+kryttle - discards Tunnel
+kryttle - reveals reaction Tunnel
+kryttle - gains Gold
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Grand Market on top of deck
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Silver, Apprentice, Scavenger, Copper
+ 
+---------- kryttle: turn 17 ----------
+kryttle - plays Farming Village
+kryttle - reveals Copper
+kryttle - places Copper in hand
+kryttle - plays Margrave
+kryttle - draws Silver, Silver, Farming Village
+Titandrake - draws Margrave
+Titandrake - discards Copper
+Titandrake - discards Scavenger
+Titandrake - discards Silver
+kryttle - plays Farming Village
+kryttle - reveals Squire
+kryttle - places Squire in hand
+kryttle - plays Squire
+kryttle - gains Silver
+kryttle - plays 2 Silver, 1 Gold
+kryttle - plays Copper
+kryttle - buys Province
+kryttle - gains Province
+kryttle - draws Estate, Farming Village, Copper, Tunnel, Squire
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Gold
+Titandrake - plays Apprentice
+Titandrake - trashes Gold
+Titandrake - draws Silver, Copper, Margrave, Margrave, Grand Market, Squire
+Titandrake - plays Grand Market
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Margrave
+Titandrake - draws Grand Market, Margrave, Scavenger
+kryttle - draws Margrave
+kryttle - discards Tunnel
+kryttle - discards Estate
+kryttle - discards Copper
+kryttle - reveals reaction Tunnel
+kryttle - gains Gold
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Apprentice
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Margrave
+Titandrake - draws Farming Village, Silver, Farming Village
+kryttle - draws Copper
+kryttle - discards Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Margrave
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Scavenger
+kryttle - draws Gold
+kryttle - discards Squire
+Titandrake - plays Farming Village
+Titandrake - plays Scavenger
+Titandrake - plays Farming Village
+Titandrake - plays Scavenger
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays 3 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Silver, Margrave, Farming Village, Grand Market
+ 
+---------- kryttle: turn 18 ----------
+kryttle - plays Farming Village
+kryttle - reveals Silver
+kryttle - places Silver in hand
+kryttle - plays Margrave
+kryttle - shuffles deck
+kryttle - draws Silver, Silver, Gold
+Titandrake - draws Apprentice
+Titandrake - discards Apprentice
+Titandrake - discards Silver
+Titandrake - discards Farming Village
+kryttle - plays 3 Silver, 2 Gold
+kryttle - buys Province
+kryttle - gains Province
+kryttle - buys Tunnel
+kryttle - gains Tunnel
+kryttle - draws Squire, Farming Village, Squire, Gold, Margrave
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Margrave
+Titandrake - places Margrave in hand
+Titandrake - plays Margrave
+Titandrake - draws Margrave, Scavenger, Margrave
+kryttle - draws Farming Village
+kryttle - discards Squire
+kryttle - discards Squire
+kryttle - discards Farming Village
+Titandrake - plays Grand Market
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Margrave
+Titandrake - draws Farming Village, Silver, Copper
+kryttle - draws Silver
+kryttle - discards Silver
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Grand Market
+Titandrake - places Grand Market in hand
+Titandrake - discards Province
+Titandrake - plays Margrave
+Titandrake - draws Farming Village, Squire, Grand Market
+kryttle - draws Estate
+kryttle - discards Estate
+Titandrake - plays Farming Village
+Titandrake - reveals Grand Market
+Titandrake - places Grand Market in hand
+Titandrake - plays Margrave
+Titandrake - draws Scavenger, Apprentice, Copper
+kryttle - draws Tunnel
+kryttle - discards Tunnel
+kryttle - reveals reaction Tunnel
+kryttle - gains Gold
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Farming Village
+Titandrake - plays Grand Market
+Titandrake - draws Province
+Titandrake - plays Grand Market
+Titandrake - draws Apprentice
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Scavenger
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Province, Province, Farming Village, Farming Village
+ 
+---------- kryttle: turn 19 ----------
+kryttle - plays Farming Village
+kryttle - reveals Margrave
+kryttle - places Margrave in hand
+kryttle - plays Margrave
+kryttle - draws Tunnel, Silver, Gold
+Titandrake - draws Duchy
+Titandrake - discards Duchy
+Titandrake - discards Province
+Titandrake - discards Province
+kryttle - plays Margrave
+kryttle - draws Gold, Copper, Squire
+Titandrake - draws Apprentice
+Titandrake - discards Apprentice
+kryttle - plays 3 Gold, 1 Silver
+kryttle - plays Copper
+kryttle - buys Province
+kryttle - gains Province
+kryttle - buys Tunnel
+kryttle - gains Tunnel
+kryttle - draws Farming Village, Tunnel, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Squire
+Titandrake - places Squire in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Grand Market
+Titandrake - places Grand Market in hand
+Titandrake - plays Grand Market
+Titandrake - draws Scavenger
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Margrave on top of deck
+Titandrake - plays Copper
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Margrave
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Province, Scavenger
+ 
+---------- kryttle: turn 20 ----------
+kryttle - plays Farming Village
+kryttle - reveals Farming Village
+kryttle - places Farming Village in hand
+kryttle - plays Farming Village
+kryttle - reveals Province, Apprentice
+kryttle - places Apprentice in hand
+kryttle - discards Province
+kryttle - plays Apprentice
+kryttle - trashes Copper
+kryttle - plays 2 Copper
+kryttle - buys Estate
+kryttle - gains Estate
+kryttle - draws Silver, Copper, Grand Market
+kryttle - shuffles deck
+kryttle - draws Gold, Farming Village
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Margrave
+Titandrake - draws Silver, Province, Farming Village
+kryttle - draws Farming Village
+kryttle - discards Copper
+kryttle - discards Farming Village
+kryttle - discards Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Grand Market, Copper, Margrave, Squire, Grand Market
+ 
+---------- kryttle: turn 21 ----------
+kryttle - plays Farming Village
+kryttle - reveals Estate, Copper
+kryttle - places Copper in hand
+kryttle - discards Estate
+kryttle - plays Grand Market
+kryttle - draws Province
+kryttle - plays 1 Gold, 1 Copper
+kryttle - buys Tunnel
+kryttle - gains Tunnel
+kryttle - buys Tunnel
+kryttle - gains Tunnel
+kryttle - draws Province, Tunnel, Squire, Silver, Gold
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Scavenger
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Margrave
+Titandrake - draws Farming Village, Province, Tunnel
+kryttle - draws Farming Village
+kryttle - discards Tunnel
+kryttle - discards Province
+kryttle - discards Silver
+kryttle - reveals reaction Tunnel
+kryttle - gains Gold
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Apprentice on top of deck
+Titandrake - plays 2 Silver
+Titandrake - plays Copper
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Apprentice
+Titandrake - shuffles deck
+Titandrake - draws Silver, Duchy, Farming Village, Province
+ 
+---------- kryttle: turn 22 ----------
+kryttle - plays Farming Village
+kryttle - reveals Silver
+kryttle - places Silver in hand
+kryttle - plays Squire
+kryttle - gains Silver
+kryttle - plays 1 Gold, 1 Silver
+kryttle - buys Duchy
+kryttle - gains Duchy
+kryttle - draws Tunnel, Apprentice, Copper, Margrave, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Apprentice
+Titandrake - places Apprentice in hand
+Titandrake - plays Apprentice
+Titandrake - trashes Duchy
+Titandrake - draws Margrave, Farming Village, Copper, Grand Market, Silver
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Margrave
+Titandrake - draws Farming Village, Silver, Margrave
+kryttle - draws Silver
+kryttle - discards Tunnel
+kryttle - discards Copper
+kryttle - discards Apprentice
+kryttle - reveals reaction Tunnel
+kryttle - gains Gold
+Titandrake - plays Farming Village
+Titandrake - reveals Grand Market
+Titandrake - places Grand Market in hand
+Titandrake - plays Margrave
+Titandrake - draws Scavenger, Grand Market, Scavenger
+kryttle - draws Province
+kryttle - discards Province
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Grand Market
+Titandrake - draws Fairgrounds
+Titandrake - plays Grand Market
+Titandrake - draws Duchy
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Margrave on top of deck
+Titandrake - plays Apprentice
+Titandrake - trashes Scavenger
+Titandrake - draws Margrave
+Titandrake - shuffles deck
+Titandrake - draws Silver, Farming Village, Province
+Titandrake - plays Farming Village
+Titandrake - reveals Tunnel, Margrave
+Titandrake - places Margrave in hand
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Margrave
+Titandrake - draws Fairgrounds, Fairgrounds, Squire
+kryttle - draws Silver
+kryttle - discards Silver
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Margrave
+Titandrake - draws Province, Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Gold
+kryttle - draws Farming Village
+kryttle - discards Silver
+Titandrake - plays Grand Market
+Titandrake - draws Tunnel
+Titandrake - plays 5 Silver, 1 Gold
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Grand Market, Grand Market, Copper, Fairgrounds
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Farming Village, 5 Grand Market, 4 Margrave, 2 Apprentice, 1 Squire, 1 Scavenger, 5 Silver, 2 Copper, 1 Gold, 5 Fairgrounds, 5 Province, 1 Tunnel, 1 Duchy
+Titandrake - total victory points: 55
+Titandrake - turns: 22
+ 
+kryttle - cards: 5 Farming Village, 3 Margrave, 3 Squire, 1 Grand Market, 1 Apprentice, 8 Gold, 7 Silver, 4 Copper, 7 Tunnel, 3 Province, 2 Estate, 1 Duchy
+kryttle - total victory points: 37
+kryttle - turns: 22
+ 
+1st place: Titandrake
+2nd place: kryttle
+ 

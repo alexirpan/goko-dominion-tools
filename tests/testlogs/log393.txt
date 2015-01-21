@@ -1,0 +1,626 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Scrying Pool, Masterpiece, Remake, Worker's Village, Cartographer, Council Room, Embassy, Hunting Party, Mint, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+jog - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jog - shuffles deck
+Titandrake - shuffles deck
+jog - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- jog: turn 1 ----------
+jog - plays 3 Copper
+jog - buys Silver
+jog - gains Silver
+jog - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- jog: turn 2 ----------
+jog - plays 4 Copper
+jog - buys Remake
+jog - gains Remake
+jog - shuffles deck
+jog - draws Estate, Copper, Copper, Estate, Remake
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - draws Copper, Remake, Copper, Copper, Copper
+ 
+---------- jog: turn 3 ----------
+jog - plays Remake
+jog - trashes Estate
+jog - gains Silver
+jog - trashes Estate
+jog - gains Silver
+jog - plays 2 Copper
+jog - buys Native Village
+jog - gains Native Village
+jog - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate
+ 
+---------- jog: turn 4 ----------
+jog - plays 3 Copper, 1 Silver
+jog - buys Hunting Party
+jog - gains Hunting Party
+jog - draws Copper, Copper
+jog - shuffles deck
+jog - draws Native Village, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Copper, Copper, Copper, Estate, Remake
+ 
+---------- jog: turn 5 ----------
+jog - plays Native Village
+jog - sets aside Copper
+jog - plays 3 Copper
+jog - buys Silver
+jog - gains Silver
+jog - draws Silver, Remake, Hunting Party, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Remake, Copper, Estate, Copper, Worker's Village
+ 
+---------- jog: turn 6 ----------
+jog - plays Hunting Party
+jog - draws Copper
+jog - reveals hand: Silver, Remake, Copper, Copper, Copper
+jog - shuffles deck
+jog - reveals Silver, Silver, Copper, Estate
+jog - places Estate in hand
+jog - discards: Silver, Silver, Copper
+jog - plays Remake
+jog - trashes Copper
+jog - trashes Estate
+jog - gains Silver
+jog - plays 2 Copper, 1 Silver
+jog - buys Worker's Village
+jog - gains Worker's Village
+jog - draws Copper, Copper, Native Village, Silver
+jog - shuffles deck
+jog - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - draws Silver, Estate, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- jog: turn 7 ----------
+jog - plays Native Village
+jog - sets aside Worker's Village
+jog - plays 3 Copper, 1 Silver
+jog - buys Mint
+jog - trashes Copper, Copper, Silver, Copper
+jog - gains Mint
+jog - draws Silver, Hunting Party, Remake, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Worker's Village, Remake, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- jog: turn 8 ----------
+jog - plays Hunting Party
+jog - draws Silver
+jog - reveals hand: Silver, Remake, Silver, Copper, Silver
+jog - shuffles deck
+jog - reveals Copper, Silver, Mint
+jog - places Mint in hand
+jog - discards: Copper, Silver
+jog - plays Mint
+jog - reveals Silver
+jog - gains Silver
+jog - plays 3 Silver, 1 Copper
+jog - buys Gold
+jog - gains Gold
+jog - draws Native Village
+jog - shuffles deck
+jog - draws Silver, Remake, Silver, Hunting Party
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Hunting Party, Estate
+Titandrake - shuffles deck
+Titandrake - draws Remake
+ 
+---------- jog: turn 9 ----------
+jog - plays Hunting Party
+jog - draws Silver
+jog - reveals hand: Native Village, Silver, Remake, Silver, Silver
+jog - reveals Mint
+jog - places Mint in hand
+jog - plays Native Village
+jog - takes set aside cards: Copper, Worker's Village
+jog - plays Worker's Village
+jog - draws Copper
+jog - plays Remake
+jog - trashes Copper
+jog - trashes Copper
+jog - plays 3 Silver
+jog - buys Hunting Party
+jog - gains Hunting Party
+jog - draws Copper, Silver, Silver, Gold
+jog - shuffles deck
+jog - draws Native Village
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Copper, Estate, Remake, Copper
+Titandrake - reveals Worker's Village
+Titandrake - places Worker's Village in hand
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Worker's Village
+Titandrake - gains Mint
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Gold, Silver, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- jog: turn 10 ----------
+jog - plays Native Village
+jog - sets aside Mint
+jog - plays 2 Silver, 1 Copper, 1 Gold
+jog - buys Council Room
+jog - gains Council Room
+jog - draws Remake, Hunting Party, Silver, Worker's Village, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Silver, 1 Gold, 1 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Hunting Party, Mint, Silver, Worker's Village
+ 
+---------- jog: turn 11 ----------
+jog - plays Worker's Village
+jog - draws Silver
+jog - plays Hunting Party
+jog - draws Hunting Party
+jog - reveals hand: Remake, Silver, Silver, Silver, Hunting Party
+jog - shuffles deck
+jog - reveals Native Village
+jog - places Native Village in hand
+jog - plays Hunting Party
+jog - draws Gold
+jog - reveals hand: Remake, Silver, Silver, Silver, Native Village, Gold
+jog - reveals Silver, Copper
+jog - places Copper in hand
+jog - discards Silver
+jog - plays Native Village
+jog - sets aside Council Room
+jog - plays Remake
+jog - trashes Copper
+jog - trashes Silver
+jog - gains Worker's Village
+jog - plays 2 Silver, 1 Gold
+jog - buys Hunting Party
+jog - gains Hunting Party
+jog - draws Silver
+jog - shuffles deck
+jog - draws Remake, Hunting Party, Hunting Party, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Mint, Silver, Worker's Village, Copper
+Titandrake - reveals Remake
+Titandrake - places Remake in hand
+Titandrake - plays Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Mint
+Titandrake - reveals Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Gold, Copper, Silver, Hunting Party, Silver
+ 
+---------- jog: turn 12 ----------
+jog - plays Hunting Party
+jog - draws Silver
+jog - reveals hand: Silver, Remake, Hunting Party, Gold, Silver
+jog - reveals Worker's Village
+jog - places Worker's Village in hand
+jog - plays Hunting Party
+jog - draws Hunting Party
+jog - reveals hand: Silver, Remake, Gold, Silver, Worker's Village, Hunting Party
+jog - reveals Native Village
+jog - places Native Village in hand
+jog - plays Native Village
+jog - takes set aside cards: Mint, Council Room
+jog - plays Mint
+jog - reveals Gold
+jog - gains Gold
+jog - plays Worker's Village
+jog - draws Worker's Village
+jog - plays Worker's Village
+jog - draws Silver
+jog - plays Hunting Party
+jog - draws Silver
+jog - reveals hand: Silver, Remake, Silver, Council Room, Gold, Silver, Silver
+jog - shuffles deck
+jog - reveals Gold
+jog - discards Gold
+jog - plays 4 Silver, 1 Gold
+jog - buys Hunting Party
+jog - gains Hunting Party
+jog - buys Gold
+jog - gains Gold
+jog - shuffles deck
+jog - draws Council Room, Gold, Silver, Silver, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - reveals hand: Gold, Copper, Silver, Silver, Silver
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Remake
+Titandrake - reveals hand: Gold, Copper, Silver, Silver, Silver, Remake
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Mint
+Titandrake - reveals hand: Gold, Copper, Silver, Silver, Silver, Remake, Mint
+Titandrake - reveals Copper, Copper, Worker's Village
+Titandrake - places Worker's Village in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Silver
+Titandrake - gains Worker's Village
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Silver, Worker's Village, Gold
+ 
+---------- jog: turn 13 ----------
+jog - plays 2 Gold, 2 Silver
+jog - buys Province
+jog - gains Province
+jog - draws Gold, Hunting Party, Silver, Hunting Party, Hunting Party
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Silver, Worker's Village, Gold, Silver
+Titandrake - reveals Silver, Remake
+Titandrake - places Remake in hand
+Titandrake - discards Silver
+Titandrake - plays Worker's Village
+Titandrake - draws Mint
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Worker's Village, Copper, Province, Hunting Party
+ 
+---------- jog: turn 14 ----------
+jog - plays Hunting Party
+jog - draws Hunting Party
+jog - reveals hand: Gold, Silver, Hunting Party, Hunting Party, Hunting Party
+jog - reveals Mint
+jog - places Mint in hand
+jog - plays Hunting Party
+jog - draws Worker's Village
+jog - reveals hand: Gold, Silver, Hunting Party, Hunting Party, Mint, Worker's Village
+jog - reveals Remake
+jog - places Remake in hand
+jog - plays Worker's Village
+jog - draws Native Village
+jog - plays Mint
+jog - reveals Gold
+jog - gains Gold
+jog - plays Hunting Party
+jog - draws Silver
+jog - reveals hand: Silver, Hunting Party, Remake, Native Village, Gold, Silver
+jog - reveals Worker's Village
+jog - places Worker's Village in hand
+jog - plays Worker's Village
+jog - shuffles deck
+jog - draws Gold
+jog - plays Hunting Party
+jog - draws Silver
+jog - reveals hand: Silver, Remake, Native Village, Gold, Silver, Gold, Silver
+jog - reveals Council Room
+jog - places Council Room in hand
+jog - plays Council Room
+jog - draws Gold, Province, Silver, Gold
+Titandrake - draws Hunting Party
+jog - plays 4 Silver, 4 Gold
+jog - buys Province
+jog - gains Province
+jog - buys Hunting Party
+jog - gains Hunting Party
+jog - buys Gold
+jog - gains Gold
+jog - shuffles deck
+jog - draws Silver, Mint, Silver, Native Village, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Gold
+Titandrake - reveals hand: Copper, Worker's Village, Copper, Province, Hunting Party, Gold
+Titandrake - shuffles deck
+Titandrake - reveals Province, Hunting Party, Remake
+Titandrake - places Remake in hand
+Titandrake - discards: Province, Hunting Party
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Worker's Village, Copper, Province, Gold, Remake, Silver
+Titandrake - reveals Mint
+Titandrake - places Mint in hand
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Silver, Worker's Village, Silver, Gold, Gold
+ 
+---------- jog: turn 15 ----------
+jog - plays Mint
+jog - reveals Gold
+jog - gains Gold
+jog - plays 2 Silver, 1 Gold
+jog - buys Council Room
+jog - gains Council Room
+jog - draws Gold, Province, Hunting Party, Hunting Party, Remake
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party
+Titandrake - plays Hunting Party
+Titandrake - draws Gold
+Titandrake - reveals hand: Silver, Silver, Gold, Gold, Gold
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays 3 Gold, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Worker's Village, Silver, Remake, Hunting Party, Hunting Party
+ 
+---------- jog: turn 16 ----------
+jog - plays Hunting Party
+jog - draws Silver
+jog - reveals hand: Gold, Province, Hunting Party, Remake, Silver
+jog - reveals Silver, Hunting Party, Worker's Village
+jog - places Worker's Village in hand
+jog - discards: Silver, Hunting Party
+jog - plays Hunting Party
+jog - draws Hunting Party
+jog - reveals hand: Gold, Province, Remake, Silver, Worker's Village, Hunting Party
+jog - reveals Hunting Party, Gold, Province, Gold, Council Room
+jog - places Council Room in hand
+jog - discards: Hunting Party, Gold, Province, Gold
+jog - plays Worker's Village
+jog - draws Gold
+jog - plays Hunting Party
+jog - draws Worker's Village
+jog - reveals hand: Gold, Province, Remake, Silver, Council Room, Gold, Worker's Village
+jog - shuffles deck
+jog - reveals Hunting Party
+jog - places Hunting Party in hand
+jog - plays Worker's Village
+jog - draws Silver
+jog - plays Hunting Party
+jog - draws Gold
+jog - reveals hand: Gold, Province, Remake, Silver, Council Room, Gold, Silver, Gold
+jog - reveals Gold, Province, Council Room, Hunting Party
+jog - places Hunting Party in hand
+jog - discards: Gold, Province, Council Room
+jog - plays Hunting Party
+jog - draws Silver
+jog - reveals hand: Gold, Province, Remake, Silver, Council Room, Gold, Silver, Gold, Silver
+jog - reveals Gold, Silver, Native Village
+jog - places Native Village in hand
+jog - discards: Gold, Silver
+jog - plays Council Room
+jog - draws Gold, Mint
+jog - shuffles deck
+jog - draws Province, Gold
+Titandrake - draws Gold
+jog - plays Mint
+jog - reveals Gold
+jog - gains Gold
+jog - plays Native Village
+jog - sets aside Council Room
+jog - plays 5 Gold, 3 Silver
+jog - buys Duchy
+jog - gains Duchy
+jog - buys Duchy
+jog - gains Duchy
+jog - buys Hunting Party
+jog - gains Hunting Party
+jog - buys Duchy
+jog - gains Duchy
+jog - draws Gold, Silver
+jog - shuffles deck
+jog - draws Silver, Worker's Village, Hunting Party
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Mint
+Titandrake - reveals hand: Worker's Village, Silver, Remake, Hunting Party, Gold, Mint
+Titandrake - reveals Council Room
+Titandrake - places Council Room in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Worker's Village, Silver, Remake, Gold, Mint, Council Room, Silver
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - plays Council Room
+Titandrake - draws Gold, Hunting Party, Hunting Party, Gold
+jog - draws Duchy
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Remake, Gold, Mint, Silver, Province, Province, Gold, Hunting Party, Gold, Silver
+Titandrake - reveals Silver, Province, Gold, Worker's Village
+Titandrake - places Worker's Village in hand
+Titandrake - discards: Silver, Province, Gold
+Titandrake - plays Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays Hunting Party
+Titandrake - draws Gold
+Titandrake - reveals hand: Silver, Remake, Gold, Silver, Province, Province, Gold, Silver, Province, Gold, Gold
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Gold
+Titandrake - discards: Silver, Gold
+Titandrake - plays 4 Gold, 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Mint, Worker's Village, Duchy, Silver, Province
+ 
+---------- jog: turn 17 ----------
+jog - plays Hunting Party
+jog - draws Remake
+jog - reveals hand: Gold, Silver, Silver, Worker's Village, Duchy, Remake
+jog - reveals Hunting Party
+jog - places Hunting Party in hand
+jog - plays Hunting Party
+jog - draws Hunting Party
+jog - reveals hand: Gold, Silver, Silver, Worker's Village, Duchy, Remake, Hunting Party
+jog - reveals Gold, Worker's Village, Duchy, Duchy, Native Village
+jog - places Native Village in hand
+jog - discards: Gold, Worker's Village, Duchy, Duchy
+jog - plays Native Village
+jog - takes set aside cards: Council Room
+jog - plays Worker's Village
+jog - draws Hunting Party
+jog - plays Council Room
+jog - draws Gold, Silver, Gold, Council Room
+Titandrake - draws Silver
+jog - plays Hunting Party
+jog - draws Gold
+jog - reveals hand: Gold, Silver, Silver, Duchy, Remake, Hunting Party, Gold, Silver, Gold, Council Room, Gold
+jog - reveals Silver, Mint
+jog - places Mint in hand
+jog - discards Silver
+jog - plays Hunting Party
+jog - draws Gold
+jog - reveals hand: Gold, Silver, Silver, Duchy, Remake, Gold, Silver, Gold, Council Room, Gold, Mint, Gold
+jog - reveals Hunting Party
+jog - places Hunting Party in hand
+jog - plays Hunting Party
+jog - draws Province
+jog - reveals hand: Gold, Silver, Silver, Duchy, Remake, Gold, Silver, Gold, Council Room, Gold, Mint, Gold, Province
+jog - reveals Province, Hunting Party
+jog - places Hunting Party in hand
+jog - discards Province
+jog - plays Hunting Party
+jog - draws Gold
+jog - reveals hand: Gold, Silver, Silver, Duchy, Remake, Gold, Silver, Gold, Council Room, Gold, Mint, Gold, Province, Gold
+jog - shuffles deck
+jog - reveals Duchy, Silver, Duchy, Province, Worker's Village
+jog - places Worker's Village in hand
+jog - discards: Duchy, Silver, Duchy, Province
+jog - plays Worker's Village
+jog - draws Gold
+jog - plays Mint
+jog - reveals Gold
+jog - gains Gold
+jog - plays Council Room
+jog - shuffles deck
+jog - draws Gold, Duchy, Duchy, Silver
+Titandrake - draws Province
+jog - plays 8 Gold, 4 Silver
+jog - buys Province
+jog - gains Province
+jog - buys Province
+jog - gains Province
+jog - buys Province
+jog - gains Province
+jog - buys Duchy
+jog - gains Duchy
+jog - draws Province
+jog - shuffles deck
+jog - draws Gold, Hunting Party, Hunting Party, Gold
+ 
+------------ Game Over ------------
+jog - cards: 6 Hunting Party, 2 Council Room, 2 Worker's Village, 1 Native Village, 1 Remake, 1 Mint, 8 Gold, 4 Silver, 5 Province, 4 Duchy
+jog - total victory points: 42
+jog - turns: 17
+ 
+Titandrake - cards: 4 Hunting Party, 2 Worker's Village, 1 Mint, 1 Remake, 1 Council Room, 5 Silver, 5 Gold, 3 Duchy, 3 Province
+Titandrake - total victory points: 27
+Titandrake - turns: 17
+ 
+1st place: jog
+2nd place: Titandrake
+ 

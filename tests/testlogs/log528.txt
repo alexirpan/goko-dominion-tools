@@ -1,0 +1,327 @@
+------------ Game Setup ------------
+Supply cards: Forager, Menagerie, Oasis, Advisor, Envoy, Feast, Apprentice, Ghost Ship, Merchant Ship, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+DrFlux - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+DrFlux - shuffles deck
+Titandrake - shuffles deck
+DrFlux - draws Estate, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- DrFlux: turn 1 ----------
+DrFlux - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- DrFlux: turn 2 ----------
+DrFlux - plays 5 Copper
+DrFlux - buys Ghost Ship
+DrFlux - gains Ghost Ship
+DrFlux - shuffles deck
+DrFlux - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Estate, Copper, Copper, Forager, Estate
+ 
+---------- DrFlux: turn 3 ----------
+DrFlux - plays 5 Copper
+DrFlux - buys Apprentice
+DrFlux - gains Apprentice
+DrFlux - draws Copper, Ghost Ship, Estate, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Forager, Estate
+ 
+---------- DrFlux: turn 4 ----------
+DrFlux - plays Ghost Ship
+DrFlux - draws Copper
+DrFlux - shuffles deck
+DrFlux - draws Apprentice
+Titandrake - places Copper on top of deck
+Titandrake - places Estate on top of deck
+DrFlux - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Estate, Copper, Menagerie, Copper, Copper
+ 
+---------- DrFlux: turn 5 ----------
+DrFlux - plays 5 Copper
+DrFlux - buys Merchant Ship
+DrFlux - gains Merchant Ship
+DrFlux - shuffles deck
+DrFlux - draws Estate, Apprentice, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Copper, Copper, Copper
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Forager
+ 
+---------- DrFlux: turn 6 ----------
+DrFlux - plays Apprentice
+DrFlux - trashes Estate
+DrFlux - draws Merchant Ship, Estate
+DrFlux - plays Merchant Ship
+DrFlux - plays 3 Copper
+DrFlux - buys Silver
+DrFlux - gains Silver
+DrFlux - draws Copper, Copper, Copper, Ghost Ship, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Copper
+Titandrake - draws Copper, Copper, Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Estate, Copper
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Merchant Ship
+Titandrake - gains Merchant Ship
+Titandrake - draws Silver, Copper, Oasis, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- DrFlux: turn 7 ----------
+DrFlux - duration Merchant Ship
+DrFlux - plays Ghost Ship
+DrFlux - draws Copper
+DrFlux - shuffles deck
+DrFlux - draws Silver
+Titandrake - places Copper on top of deck
+Titandrake - places Estate on top of deck
+DrFlux - plays 4 Copper, 1 Silver
+DrFlux - buys Bank
+DrFlux - gains Bank
+DrFlux - draws Copper, Copper, Estate, Apprentice, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Oasis
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - plays Silver
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Copper, Copper, Copper, Menagerie, Copper
+ 
+---------- DrFlux: turn 8 ----------
+DrFlux - plays Apprentice
+DrFlux - trashes Estate
+DrFlux - shuffles deck
+DrFlux - draws Estate, Bank
+DrFlux - plays 3 Copper
+DrFlux - plays Bank
+DrFlux - buys Bank
+DrFlux - gains Bank
+DrFlux - draws Merchant Ship, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Copper, Copper
+Titandrake - draws Merchant Ship
+Titandrake - plays Merchant Ship
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Menagerie, Forager
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Silver
+ 
+---------- DrFlux: turn 9 ----------
+DrFlux - plays Merchant Ship
+DrFlux - plays 3 Copper, 1 Silver
+DrFlux - buys Bank
+DrFlux - gains Bank
+DrFlux - draws Copper, Ghost Ship
+DrFlux - shuffles deck
+DrFlux - draws Copper, Copper, Apprentice
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Merchant Ship
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Menagerie, Forager, Silver
+Titandrake - draws Copper, Copper, Gold
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Gold, Copper, Silver
+Titandrake - draws Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Gold, Copper, Silver
+Titandrake - draws Estate
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - buys Bank
+Titandrake - gains Bank
+Titandrake - draws Copper, Copper, Oasis, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- DrFlux: turn 10 ----------
+DrFlux - duration Merchant Ship
+DrFlux - plays Apprentice
+DrFlux - trashes Copper
+DrFlux - plays Ghost Ship
+DrFlux - draws Bank, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Estate on top of deck
+DrFlux - plays 3 Copper
+DrFlux - plays Bank
+DrFlux - buys Province
+DrFlux - gains Province
+DrFlux - draws Copper, Silver, Copper, Bank, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Oasis
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Copper, Menagerie, Copper, Bank, Estate
+ 
+---------- DrFlux: turn 11 ----------
+DrFlux - plays Copper
+DrFlux - plays Silver
+DrFlux - plays Copper
+DrFlux - plays Bank
+DrFlux - buys Province
+DrFlux - gains Province
+DrFlux - draws Copper, Bank
+DrFlux - shuffles deck
+DrFlux - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Bank, Estate
+Titandrake - draws Gold
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - plays Bank
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Forager, Copper, Menagerie, Merchant Ship, Menagerie
+ 
+---------- DrFlux: turn 12 ----------
+DrFlux - plays Copper
+DrFlux - plays Copper
+DrFlux - plays Copper
+DrFlux - plays Copper
+DrFlux - plays Bank
+DrFlux - buys Province
+DrFlux - gains Province
+DrFlux - draws Silver, Copper, Bank, Apprentice, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Forager, Copper, Merchant Ship, Menagerie
+Titandrake - draws Forager
+Titandrake - shuffles deck
+Titandrake - draws Silver, Menagerie
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Forager, Silver, Merchant Ship, Menagerie
+Titandrake - draws Bank, Oasis, Province
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Bank, Oasis, Province, Forager, Silver, Merchant Ship
+Titandrake - draws Copper, Estate, Copper
+Titandrake - plays Oasis
+Titandrake - draws Menagerie
+Titandrake - discards Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Estate, Bank, Province, Forager, Silver, Merchant Ship
+Titandrake - draws Estate, Gold, Copper
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Merchant Ship
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - plays Bank
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Oasis, Menagerie, Copper, Province
+ 
+---------- DrFlux: turn 13 ----------
+DrFlux - plays Apprentice
+DrFlux - trashes Estate
+DrFlux - draws Province, Merchant Ship
+DrFlux - plays Merchant Ship
+DrFlux - plays Silver
+DrFlux - plays Copper
+DrFlux - plays Bank
+DrFlux - buys Province
+DrFlux - gains Province
+DrFlux - draws Bank, Copper, Ghost Ship, Province
+DrFlux - shuffles deck
+DrFlux - draws Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Merchant Ship
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Menagerie, Oasis, Copper, Province
+Titandrake - draws Bank, Menagerie, Copper
+Titandrake - plays Oasis
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Bank, Menagerie, Copper, Province, Silver
+Titandrake - draws Estate, Forager, Copper
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Bank, Copper, Province, Silver
+Titandrake - draws Gold, Province, Province
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - plays Bank
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Menagerie, Forager
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Menagerie, 2 Forager, 1 Oasis, 1 Merchant Ship, 2 Copper, 1 Silver, 1 Gold, 1 Bank, 4 Province, 1 Duchy, 1 Estate
+Titandrake - total victory points: 28
+Titandrake - turns: 14
+ 
+DrFlux - cards: 1 Ghost Ship, 1 Apprentice, 1 Merchant Ship, 6 Copper, 3 Bank, 1 Silver, 4 Province
+DrFlux - total victory points: 24
+DrFlux - turns: 13
+ 
+1st place: Titandrake
+2nd place: DrFlux
+ 

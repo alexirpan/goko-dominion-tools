@@ -1,0 +1,379 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Loan, Market Square, Conspirator, Envoy, Cultist, Market, Minion, Rabble, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Embargo
+lightbulb - gains Embargo
+lightbulb - shuffles deck
+lightbulb - draws Copper, Embargo, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver, Copper, Copper
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays Embargo
+lightbulb - embargoes Minion
+lightbulb - trashes Embargo
+lightbulb - plays 2 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - buys Cultist
+lightbulb - gains Cultist
+lightbulb - draws Copper, Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Cultist, Copper
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Silver, Estate, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+lightbulb - gains Abandoned Mine
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays 2 Silver, 1 Copper
+lightbulb - buys Cultist
+lightbulb - gains Cultist
+lightbulb - draws Copper, Cultist, Copper
+lightbulb - shuffles deck
+lightbulb - draws Estate, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Cultist, Copper, Silver
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Cultist
+lightbulb - draws Silver, Silver
+Titandrake - gains Ruined Library
+lightbulb - plays 2 Copper, 2 Silver
+lightbulb - buys Cultist
+lightbulb - gains Cultist
+lightbulb - draws Copper, Cultist, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Copper
+lightbulb - gains Ruined Library
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Cultist, Copper, Cultist, Copper
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays Cultist
+lightbulb - draws Silver, Abandoned Mine
+Titandrake - gains Ruined Village
+lightbulb - plays 4 Copper, 1 Silver
+lightbulb - buys Cultist
+lightbulb - gains Cultist
+lightbulb - draws Estate, Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Abandoned Mine, Cultist
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+lightbulb - gains Ruined Market
+Titandrake - plays Cultist
+Titandrake - draws Estate, Estate
+lightbulb - gains Abandoned Mine
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - shuffles deck
+Titandrake - draws Cultist, Cultist, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays Cultist
+lightbulb - draws Silver, Ruined Library
+Titandrake - gains Survivors
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Copper, Cultist, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+lightbulb - gains Survivors
+Titandrake - plays Cultist
+Titandrake - draws Copper, Copper
+lightbulb - gains Ruined Village
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Cultist, Cultist, Estate, Silver
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Cultist
+lightbulb - draws Estate, Estate
+Titandrake - gains Ruined Village
+lightbulb - plays 4 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Silver, Cultist, Cultist, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cultist
+Titandrake - draws Ruined Library, Copper
+Titandrake - plays Cultist
+Titandrake - draws Ruined Village, Estate
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Gold, Copper, Estate
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays Cultist
+lightbulb - shuffles deck
+lightbulb - draws Copper, Abandoned Mine
+lightbulb - plays Cultist
+lightbulb - draws Copper, Copper
+lightbulb - plays 4 Copper, 2 Silver
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Survivors, Ruined Market, Ruined Village, Copper, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Cultist, Ruined Library, Ruined Village, Copper
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays Survivors
+lightbulb - looks at Estate, Abandoned Mine
+lightbulb - discards: Estate, Abandoned Mine
+lightbulb - plays 1 Copper, 1 Silver
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Estate, Cultist, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Cultist
+Titandrake - draws Gold, Silver
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Cultist, Estate, Silver, Copper
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Cultist
+lightbulb - draws Cultist, Ruined Library
+lightbulb - plays Cultist
+lightbulb - draws Silver, Estate
+lightbulb - plays 2 Silver, 2 Copper
+lightbulb - buys Cultist
+lightbulb - gains Cultist
+lightbulb - shuffles deck
+lightbulb - draws Estate, Abandoned Mine, Cultist, Silver, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Cultist
+Titandrake - draws Survivors, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Cultist, Estate, Cultist, Ruined Village, Gold
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Cultist
+lightbulb - draws Silver, Copper
+lightbulb - plays 2 Silver, 2 Copper
+lightbulb - buys Cultist
+lightbulb - gains Cultist
+lightbulb - draws Cultist, Cultist, Cultist, Ruined Library, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Ruined Village
+Titandrake - plays Cultist
+Titandrake - shuffles deck
+Titandrake - draws Silver, Ruined Village
+Titandrake - plays Cultist
+Titandrake - draws Copper, Cultist
+Titandrake - plays Cultist
+Titandrake - draws Gold, Cultist
+Titandrake - plays 2 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Silver, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays Cultist
+lightbulb - draws Ruined Market, Copper
+lightbulb - plays Cultist
+lightbulb - draws Copper, Silver
+lightbulb - plays Cultist
+lightbulb - draws Ruined Village, Estate
+lightbulb - plays 2 Silver, 2 Copper
+lightbulb - buys Gold
+lightbulb - gains Gold
+lightbulb - draws Copper, Abandoned Mine, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Duchy, Survivors, Duchy, Copper
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays Abandoned Mine
+lightbulb - plays 3 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Survivors, Silver, Province, Silver, Cultist
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Estate, Ruined Library
+Titandrake - discards: Estate, Ruined Library
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Estate, Copper, Gold, Gold
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+ 
+---------- lightbulb: turn 17 ----------
+lightbulb - plays Cultist
+lightbulb - shuffles deck
+lightbulb - draws Copper, Cultist
+lightbulb - plays Cultist
+lightbulb - draws Ruined Library, Cultist
+lightbulb - plays Cultist
+lightbulb - draws Estate, Abandoned Mine
+lightbulb - plays 2 Silver, 1 Copper
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Estate, Copper, Copper, Ruined Market, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Cultist, Silver, Silver, Silver, Copper
+ 
+---------- lightbulb: turn 18 ----------
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Abandoned Mine, Cultist, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Cultist
+Titandrake - draws Gold, Cultist
+Titandrake - plays 3 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Survivors, Estate, Cultist, Copper
+ 
+---------- lightbulb: turn 19 ----------
+lightbulb - plays Cultist
+lightbulb - draws Copper, Cultist
+lightbulb - plays Cultist
+lightbulb - draws Silver, Estate
+lightbulb - plays 3 Silver, 2 Copper
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Copper, Gold, Ruined Village, Copper, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Cultist
+Titandrake - draws Ruined Library, Gold
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Duchy, Copper, Duchy, Copper
+ 
+---------- lightbulb: turn 20 ----------
+lightbulb - plays Ruined Village
+lightbulb - plays 2 Copper, 1 Gold, 1 Silver
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Cultist
+lightbulb - shuffles deck
+lightbulb - draws Abandoned Mine, Copper, Silver, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Ruined Village, Copper, Estate, Ruined Village, Embargo
+ 
+---------- lightbulb: turn 21 ----------
+lightbulb - plays Cultist
+lightbulb - draws Silver, Copper
+lightbulb - plays 2 Copper, 2 Silver
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Cultist, Copper, Silver, Cultist, Cultist
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Cultist, 2 Ruined Village, 1 Embargo, 1 Survivors, 1 Ruined Library, 7 Copper, 4 Gold, 3 Silver, 5 Duchy, 4 Estate, 2 Province
+Titandrake - total victory points: 31
+Titandrake - turns: 20
+ 
+lightbulb - cards: 6 Cultist, 2 Abandoned Mine, 1 Ruined Village, 1 Ruined Market, 1 Survivors, 1 Ruined Library, 8 Silver, 7 Copper, 1 Gold, 3 Duchy, 3 Estate, 2 Province
+lightbulb - total victory points: 24
+lightbulb - turns: 21
+ 
+1st place: Titandrake
+2nd place: lightbulb
+ 

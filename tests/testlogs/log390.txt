@@ -1,0 +1,641 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Oasis, Philosopher's Stone, Fortress, Bazaar, Ghost Ship, Mine, Minion, Outpost, Treasury, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+aoe_conqueror - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+aoe_conqueror - shuffles deck
+Titandrake - shuffles deck
+aoe_conqueror - draws Copper, Hovel, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- aoe_conqueror: turn 1 ----------
+aoe_conqueror - plays 4 Copper
+aoe_conqueror - buys Silver
+aoe_conqueror - gains Silver
+aoe_conqueror - draws Copper, Copper, Overgrown Estate, Copper, Necropolis
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Copper, Copper, Copper, Overgrown Estate, Hovel
+ 
+---------- aoe_conqueror: turn 2 ----------
+aoe_conqueror - plays 3 Copper
+aoe_conqueror - buys Oasis
+aoe_conqueror - gains Oasis
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Copper, Overgrown Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Oasis, Copper
+ 
+---------- aoe_conqueror: turn 3 ----------
+aoe_conqueror - plays 4 Copper
+aoe_conqueror - buys Oasis
+aoe_conqueror - gains Oasis
+aoe_conqueror - draws Copper, Hovel, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Hovel, Copper, Oasis, Necropolis, Copper
+ 
+---------- aoe_conqueror: turn 4 ----------
+aoe_conqueror - plays 3 Copper, 1 Silver
+aoe_conqueror - buys Minion
+aoe_conqueror - gains Minion
+aoe_conqueror - draws Necropolis, Oasis
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Minion, Hovel, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Oasis
+Titandrake - draws Overgrown Estate
+Titandrake - discards Hovel
+Titandrake - plays 2 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - shuffles deck
+Titandrake - draws Hovel, Minion, Copper, Copper, Oasis
+ 
+---------- aoe_conqueror: turn 5 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Minion
+aoe_conqueror - plays 2 Copper
+aoe_conqueror - buys Oasis
+aoe_conqueror - gains Oasis
+aoe_conqueror - draws Overgrown Estate, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Oasis
+Titandrake - draws Overgrown Estate
+Titandrake - discards Hovel
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Necropolis, Copper, Copper, Copper, Oasis
+ 
+---------- aoe_conqueror: turn 6 ----------
+aoe_conqueror - plays 3 Copper, 1 Silver
+aoe_conqueror - buys Minion
+aoe_conqueror - gains Minion
+aoe_conqueror - draws Oasis, Copper, Copper
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Necropolis
+Titandrake - plays 4 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Oasis, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hovel, Minion, Copper
+ 
+---------- aoe_conqueror: turn 7 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Necropolis
+aoe_conqueror - discards Necropolis
+aoe_conqueror - plays 4 Copper
+aoe_conqueror - buys Minion
+aoe_conqueror - gains Minion
+aoe_conqueror - draws Minion, Copper, Silver, Copper, Hovel
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Oasis
+Titandrake - draws Oasis
+Titandrake - discards Hovel
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays Minion
+Titandrake - discards: Copper, Copper
+Titandrake - draws Necropolis, Copper, Copper, Overgrown Estate
+aoe_conqueror - discards: Minion, Copper, Silver, Copper, Hovel
+aoe_conqueror - draws Overgrown Estate, Copper, Oasis, Minion
+Titandrake - plays 2 Copper
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - draws Copper, Minion, Oasis, Minion, Copper
+ 
+---------- aoe_conqueror: turn 8 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Oasis
+aoe_conqueror - discards Overgrown Estate
+aoe_conqueror - plays Oasis
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Copper
+aoe_conqueror - plays Minion
+aoe_conqueror - discards Copper
+aoe_conqueror - draws Copper, Copper, Minion, Overgrown Estate
+Titandrake - discards: Copper, Minion, Oasis, Minion, Copper
+Titandrake - shuffles deck
+Titandrake - draws Oasis, Necropolis, Copper, Copper
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays 2 Copper
+aoe_conqueror - buys Minion
+aoe_conqueror - gains Minion
+aoe_conqueror - draws Hovel, Copper, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Necropolis
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Oasis, Hovel, Copper, Chancellor, Minion
+ 
+---------- aoe_conqueror: turn 9 ----------
+aoe_conqueror - plays 3 Copper
+aoe_conqueror - buys Oasis
+aoe_conqueror - gains Oasis
+aoe_conqueror - draws Oasis, Minion, Silver
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Necropolis, Minion
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Oasis
+Titandrake - draws Minion
+Titandrake - discards Hovel
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Copper, Chancellor
+Titandrake - draws Oasis, Copper, Minion, Copper
+aoe_conqueror - discards: Oasis, Minion, Silver, Necropolis, Minion
+aoe_conqueror - draws Overgrown Estate, Minion, Copper, Oasis
+Titandrake - plays Oasis
+Titandrake - draws Overgrown Estate
+Titandrake - discards Overgrown Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, Copper, Copper, Overgrown Estate
+ 
+---------- aoe_conqueror: turn 10 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Overgrown Estate
+aoe_conqueror - plays Minion
+aoe_conqueror - discards: Copper, Copper
+aoe_conqueror - draws Copper, Minion, Oasis, Copper
+Titandrake - discards: Copper, Necropolis, Copper, Copper, Overgrown Estate
+Titandrake - draws Minion, Minion, Hovel, Minion
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Copper
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays 2 Copper
+aoe_conqueror - buys Minion
+aoe_conqueror - gains Minion
+aoe_conqueror - draws Copper, Oasis, Copper, Hovel
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Minion
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards Hovel
+Titandrake - draws Oasis, Chancellor, Copper, Minion
+aoe_conqueror - discards: Copper, Oasis, Copper, Hovel, Minion
+aoe_conqueror - draws Overgrown Estate, Oasis, Necropolis, Oasis
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - shuffles deck
+Titandrake - draws Minion, Copper, Copper, Copper, Minion
+ 
+---------- aoe_conqueror: turn 11 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Overgrown Estate
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Minion
+aoe_conqueror - discards Necropolis
+aoe_conqueror - plays Minion
+aoe_conqueror - discards Copper
+aoe_conqueror - draws Oasis, Copper, Copper, Copper
+Titandrake - discards: Minion, Copper, Copper, Copper, Minion
+Titandrake - draws Copper, Oasis, Hovel, Copper
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Minion
+aoe_conqueror - discards Copper
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays 2 Copper
+aoe_conqueror - buys Ghost Ship
+aoe_conqueror - gains Ghost Ship
+aoe_conqueror - draws Silver, Minion, Copper, Minion
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Oasis
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Oasis
+Titandrake - draws Overgrown Estate
+Titandrake - discards Hovel
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Necropolis, Oasis, Copper, Oasis
+ 
+---------- aoe_conqueror: turn 12 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Overgrown Estate
+aoe_conqueror - discards Overgrown Estate
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays Minion
+aoe_conqueror - discards: Silver, Copper
+aoe_conqueror - draws Copper, Copper, Oasis, Copper
+Titandrake - discards: Copper, Necropolis, Oasis, Copper, Oasis
+Titandrake - draws Minion, Chancellor, Minion, Minion
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Copper
+aoe_conqueror - plays 3 Copper
+aoe_conqueror - buys Bazaar
+aoe_conqueror - gains Bazaar
+aoe_conqueror - draws Copper, Minion, Oasis, Copper, Hovel
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Minion, Silver, Oasis, Copper, Minion
+ 
+---------- aoe_conqueror: turn 13 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Ghost Ship
+aoe_conqueror - discards Hovel
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays Ghost Ship
+aoe_conqueror - draws Necropolis, Minion
+Titandrake - places Oasis on top of deck
+Titandrake - places Silver on top of deck
+aoe_conqueror - plays 2 Copper
+aoe_conqueror - buys Bazaar
+aoe_conqueror - gains Bazaar
+aoe_conqueror - draws Oasis, Minion
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Minion, Copper, Bazaar
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards Copper
+Titandrake - draws Silver, Oasis, Oasis, Copper
+aoe_conqueror - discards: Oasis, Minion, Minion, Copper, Bazaar
+aoe_conqueror - draws Necropolis, Ghost Ship, Hovel, Copper
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays Oasis
+Titandrake - draws Oasis
+Titandrake - discards Copper
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays Silver
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - draws Copper, Oasis, Chancellor, Minion, Copper
+ 
+---------- aoe_conqueror: turn 14 ----------
+aoe_conqueror - plays Necropolis
+aoe_conqueror - plays Ghost Ship
+aoe_conqueror - draws Copper, Minion
+Titandrake - places Oasis on top of deck
+Titandrake - places Chancellor on top of deck
+aoe_conqueror - plays Minion
+aoe_conqueror - discards: Hovel, Copper, Copper
+aoe_conqueror - draws Oasis, Oasis, Copper, Minion
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Bazaar
+aoe_conqueror - discards Copper
+aoe_conqueror - plays Bazaar
+aoe_conqueror - draws Oasis
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Copper
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Overgrown Estate
+aoe_conqueror - discards Overgrown Estate
+aoe_conqueror - plays Minion
+aoe_conqueror - draws Copper, Minion, Silver, Copper
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays 2 Copper, 1 Silver
+aoe_conqueror - buys Province
+aoe_conqueror - gains Province
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Copper, Province, Oasis, Silver, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Minion
+Titandrake - discards: Copper, Copper
+Titandrake - draws Chancellor, Oasis, Overgrown Estate, Necropolis
+aoe_conqueror - discards: Copper, Province, Oasis, Silver, Copper
+aoe_conqueror - draws Minion, Necropolis, Copper, Oasis
+Titandrake - plays Oasis
+Titandrake - draws Province
+Titandrake - discards Province
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - shuffles deck
+Titandrake - draws Treasury, Overgrown Estate, Copper, Minion, Oasis
+ 
+---------- aoe_conqueror: turn 15 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Minion
+aoe_conqueror - discards Copper
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays Necropolis
+aoe_conqueror - plays Minion
+aoe_conqueror - draws Oasis, Hovel, Ghost Ship, Copper
+Titandrake - discards: Treasury, Overgrown Estate, Copper, Minion, Oasis
+Titandrake - draws Copper, Copper, Oasis, Minion
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Oasis
+aoe_conqueror - discards Hovel
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Copper
+aoe_conqueror - plays Ghost Ship
+aoe_conqueror - draws Copper, Minion
+Titandrake - places Copper on top of deck
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays 2 Copper
+aoe_conqueror - buys Province
+aoe_conqueror - gains Province
+aoe_conqueror - draws Copper, Bazaar, Overgrown Estate, Minion, Minion
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays Minion
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper, Oasis, Copper
+aoe_conqueror - discards: Copper, Bazaar, Overgrown Estate, Minion, Minion
+aoe_conqueror - draws Bazaar
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Province, Minion, Minion
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Silver, Minion, Minion, Hovel, Necropolis
+ 
+---------- aoe_conqueror: turn 16 ----------
+aoe_conqueror - plays Bazaar
+aoe_conqueror - draws Oasis
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Bazaar
+aoe_conqueror - discards Province
+aoe_conqueror - plays Bazaar
+aoe_conqueror - draws Ghost Ship
+aoe_conqueror - plays Ghost Ship
+aoe_conqueror - draws Hovel, Copper
+Titandrake - places Minion on top of deck
+Titandrake - places Silver on top of deck
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays Minion
+aoe_conqueror - discards: Hovel, Copper
+aoe_conqueror - draws Copper, Silver, Oasis, Copper
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Overgrown Estate
+aoe_conqueror - discards Overgrown Estate
+aoe_conqueror - plays 2 Copper, 1 Silver
+aoe_conqueror - buys Province
+aoe_conqueror - gains Province
+aoe_conqueror - draws Copper, Oasis, Copper, Minion, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Minion
+Titandrake - discards: Hovel, Necropolis
+Titandrake - draws Silver, Minion, Province, Oasis
+aoe_conqueror - discards: Copper, Oasis, Copper, Minion, Province
+aoe_conqueror - draws Oasis, Minion, Copper, Copper
+Titandrake - plays Oasis
+Titandrake - draws Minion
+Titandrake - discards Province
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards Silver
+Titandrake - draws Oasis, Chancellor
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Province
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Oasis, Copper, Oasis, Minion, Copper
+ 
+---------- aoe_conqueror: turn 17 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Minion
+aoe_conqueror - discards Copper
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays Minion
+aoe_conqueror - discards Copper
+aoe_conqueror - draws Necropolis
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Oasis, Minion, Minion
+Titandrake - discards: Oasis, Copper, Oasis, Minion, Copper
+Titandrake - draws Copper, Ghost Ship, Province, Province
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Copper
+aoe_conqueror - plays Necropolis
+aoe_conqueror - plays Minion
+aoe_conqueror - draws Overgrown Estate, Copper, Copper, Province
+aoe_conqueror - plays 2 Copper
+aoe_conqueror - buys Province
+aoe_conqueror - gains Province
+aoe_conqueror - draws Minion, Copper, Province, Bazaar, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Oasis, Treasury
+aoe_conqueror - places Province on top of deck
+aoe_conqueror - places Copper on top of deck
+Titandrake - draws Copper, Chancellor, Silver, Copper, Hovel
+ 
+---------- aoe_conqueror: turn 18 ----------
+aoe_conqueror - plays Bazaar
+aoe_conqueror - draws Copper
+aoe_conqueror - plays Minion
+aoe_conqueror - discards: Copper, Copper
+aoe_conqueror - draws Province, Hovel, Copper, Copper
+Titandrake - discards: Copper, Chancellor, Silver, Copper, Hovel
+Titandrake - draws Oasis, Minion, Necropolis, Minion
+aoe_conqueror - plays 2 Copper
+aoe_conqueror - buys Estate
+aoe_conqueror - trashes Hovel
+aoe_conqueror - gains Estate
+aoe_conqueror - draws Bazaar, Oasis, Silver, Ghost Ship, Oasis
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Oasis
+Titandrake - draws Minion
+Titandrake - discards Necropolis
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - draws Copper, Copper, Minion, Oasis
+aoe_conqueror - discards: Bazaar, Oasis, Silver, Ghost Ship, Oasis
+aoe_conqueror - draws Province
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Bazaar, Copper, Oasis
+Titandrake - plays Oasis
+Titandrake - draws Overgrown Estate
+Titandrake - discards Overgrown Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Ghost Ship, Copper, Copper, Hovel, Oasis
+ 
+---------- aoe_conqueror: turn 19 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Province
+aoe_conqueror - discards Province
+aoe_conqueror - plays Bazaar
+aoe_conqueror - draws Oasis
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Province
+aoe_conqueror - plays 2 Copper
+aoe_conqueror - buys Duchy
+aoe_conqueror - gains Duchy
+aoe_conqueror - draws Oasis, Copper, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Oasis
+Titandrake - draws Province
+Titandrake - discards Province
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Minion
+aoe_conqueror - places Copper on top of deck
+aoe_conqueror - places Estate on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - trashes Hovel
+Titandrake - gains Estate
+Titandrake - draws Minion, Minion, Province, Copper, Overgrown Estate
+ 
+---------- aoe_conqueror: turn 20 ----------
+aoe_conqueror - plays Oasis
+aoe_conqueror - draws Estate
+aoe_conqueror - discards Estate
+aoe_conqueror - plays 1 Copper, 1 Silver
+aoe_conqueror - buys Estate
+aoe_conqueror - gains Estate
+aoe_conqueror - draws Copper, Necropolis, Copper, Minion, Minion
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Chancellor, Oasis, Copper, Treasury, Oasis
+ 
+---------- aoe_conqueror: turn 21 ----------
+aoe_conqueror - plays Necropolis
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays Minion
+aoe_conqueror - discards: Copper, Copper
+aoe_conqueror - draws Bazaar, Province, Minion, Ghost Ship
+Titandrake - discards: Chancellor, Oasis, Copper, Treasury, Oasis
+Titandrake - draws Oasis, Copper, Copper, Minion
+aoe_conqueror - plays Bazaar
+aoe_conqueror - draws Overgrown Estate
+aoe_conqueror - plays Ghost Ship
+aoe_conqueror - draws Copper, Copper
+Titandrake - places Copper on top of deck
+aoe_conqueror - plays Minion
+aoe_conqueror - discards: Province, Overgrown Estate, Copper, Copper
+aoe_conqueror - draws Minion, Minion, Province, Oasis
+aoe_conqueror - plays Oasis
+aoe_conqueror - shuffles deck
+aoe_conqueror - draws Copper
+aoe_conqueror - discards Province
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - plays Minion
+aoe_conqueror - takes 2 coins
+aoe_conqueror - buys Province
+aoe_conqueror - gains Province
+aoe_conqueror - draws Overgrown Estate, Province, Copper, Duchy, Silver
+ 
+------------ Game Over ------------
+aoe_conqueror - cards: 5 Minion, 4 Oasis, 2 Bazaar, 1 Necropolis, 1 Ghost Ship, 7 Copper, 1 Silver, 5 Province, 2 Estate, 1 Overgrown Estate, 1 Duchy
+aoe_conqueror - total victory points: 35
+aoe_conqueror - turns: 21
+ 
+Titandrake - cards: 5 Oasis, 5 Minion, 1 Ghost Ship, 1 Chancellor, 1 Treasury, 1 Necropolis, 7 Copper, 1 Silver, 3 Province, 1 Estate, 1 Duchy, 1 Overgrown Estate
+Titandrake - total victory points: 22
+Titandrake - turns: 20
+ 
+1st place: aoe_conqueror
+2nd place: Titandrake
+ 

@@ -1,0 +1,360 @@
+------------ Game Setup ------------
+Supply cards: Fool's Gold, Secret Chamber, Develop, Tunnel, Cache, Haggler, Market, Adventurer, Farmland, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Copperman - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Copperman - shuffles deck
+Titandrake - shuffles deck
+Copperman - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Copperman: turn 1 ----------
+Copperman - plays 4 Copper
+Copperman - buys Secret Chamber
+Copperman - gains Secret Chamber
+Copperman - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- Copperman: turn 2 ----------
+Copperman - plays 3 Copper
+Copperman - buys Tunnel
+Copperman - gains Tunnel
+Copperman - shuffles deck
+Copperman - draws Tunnel, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Copperman: turn 3 ----------
+Copperman - plays 3 Copper
+Copperman - buys Secret Chamber
+Copperman - gains Secret Chamber
+Copperman - draws Secret Chamber, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate
+ 
+---------- Copperman: turn 4 ----------
+Copperman - plays Secret Chamber
+Copperman - discards Estate
+Copperman - discards Estate
+Copperman - plays 2 Copper
+Copperman - buys Tunnel
+Copperman - gains Tunnel
+Copperman - draws Copper, Copper
+Copperman - shuffles deck
+Copperman - draws Estate, Secret Chamber, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - draws Copper, Silver, Copper, Market, Haggler
+ 
+---------- Copperman: turn 5 ----------
+Copperman - plays Secret Chamber
+Copperman - discards Estate
+Copperman - discards Estate
+Copperman - plays 2 Copper
+Copperman - buys Tunnel
+Copperman - gains Tunnel
+Copperman - draws Copper, Copper, Secret Chamber, Tunnel, Tunnel
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- Copperman: turn 6 ----------
+Copperman - plays Secret Chamber
+Copperman - discards Tunnel
+Copperman - discards Tunnel
+Copperman - reveals reaction Tunnel
+Copperman - gains Gold
+Copperman - reveals reaction Tunnel
+Copperman - gains Gold
+Copperman - plays 2 Copper
+Copperman - buys Silver
+Copperman - gains Silver
+Copperman - draws Estate, Copper, Copper, Copper
+Copperman - shuffles deck
+Copperman - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - draws Estate, Estate, Haggler, Estate, Copper
+ 
+---------- Copperman: turn 7 ----------
+Copperman - plays 4 Copper
+Copperman - buys Secret Chamber
+Copperman - gains Secret Chamber
+Copperman - draws Estate, Gold, Secret Chamber, Tunnel, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Haggler
+Titandrake - plays Copper
+Titandrake - buys Tunnel
+Titandrake - gains Secret Chamber
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Market, Gold, Silver, Copper
+ 
+---------- Copperman: turn 8 ----------
+Copperman - plays Secret Chamber
+Copperman - discards Estate
+Copperman - discards Tunnel
+Copperman - discards Estate
+Copperman - reveals reaction Tunnel
+Copperman - gains Gold
+Copperman - plays 1 Gold
+Copperman - buys Adventurer
+Copperman - gains Adventurer
+Copperman - draws Tunnel, Copper, Secret Chamber, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Market
+Titandrake - draws Province
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver, Province, Copper, Copper
+ 
+---------- Copperman: turn 9 ----------
+Copperman - plays Secret Chamber
+Copperman - discards Tunnel
+Copperman - reveals reaction Tunnel
+Copperman - gains Gold
+Copperman - plays 3 Copper
+Copperman - buys Tunnel
+Copperman - gains Tunnel
+Copperman - draws Gold, Silver, Tunnel
+Copperman - shuffles deck
+Copperman - draws Secret Chamber, Tunnel
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Haggler, Estate, Secret Chamber, Hoard, Market
+ 
+---------- Copperman: turn 10 ----------
+Copperman - plays Secret Chamber
+Copperman - discards Tunnel
+Copperman - discards Tunnel
+Copperman - reveals reaction Tunnel
+Copperman - gains Gold
+Copperman - reveals reaction Tunnel
+Copperman - gains Gold
+Copperman - plays 1 Gold, 1 Silver
+Copperman - buys Market
+Copperman - gains Market
+Copperman - draws Adventurer, Tunnel, Secret Chamber, Copper, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Haggler
+Titandrake - plays 1 Copper
+Titandrake - plays Hoard
+Titandrake - buys Farmland
+Titandrake - trashes Secret Chamber
+Titandrake - gains Haggler
+Titandrake - gains Gold
+Titandrake - gains Farmland
+Titandrake - draws Silver, Copper, Tunnel, Copper, Copper
+ 
+---------- Copperman: turn 11 ----------
+Copperman - plays Adventurer
+Copperman - reveals Copper, Estate, Copper
+Copperman - places cards in hand:  Copper, Copper
+Copperman - discards Estate
+Copperman - plays 3 Copper
+Copperman - buys Tunnel
+Copperman - gains Tunnel
+Copperman - draws Tunnel, Copper, Secret Chamber, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Estate, Copper, Estate, Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Copperman: turn 12 ----------
+Copperman - plays Secret Chamber
+Copperman - discards Tunnel
+Copperman - reveals reaction Tunnel
+Copperman - gains Gold
+Copperman - plays 3 Copper
+Copperman - buys Tunnel
+Copperman - gains Tunnel
+Copperman - draws Copper, Estate, Gold, Gold, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Silver, Copper, Haggler, Province
+ 
+---------- Copperman: turn 13 ----------
+Copperman - plays 3 Gold, 1 Copper
+Copperman - buys Province
+Copperman - gains Province
+Copperman - shuffles deck
+Copperman - draws Adventurer, Gold, Tunnel, Secret Chamber, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Haggler
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Market
+Titandrake - gains Gold
+Titandrake - draws Copper, Market, Haggler, Province, Hoard
+ 
+---------- Copperman: turn 14 ----------
+Copperman - plays Adventurer
+Copperman - reveals Estate, Province, Copper, Secret Chamber, Gold
+Copperman - places cards in hand:  Copper, Gold
+Copperman - discards: Estate, Province, Secret Chamber
+Copperman - plays 3 Gold, 1 Copper
+Copperman - buys Province
+Copperman - gains Province
+Copperman - draws Copper, Tunnel, Copper, Silver, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Silver
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Copper
+Titandrake - gains Gold
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper, Copper, Gold, Estate
+ 
+---------- Copperman: turn 15 ----------
+Copperman - plays 2 Copper, 1 Silver, 1 Gold
+Copperman - buys Adventurer
+Copperman - gains Adventurer
+Copperman - draws Gold, Tunnel, Copper, Gold, Tunnel
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Tunnel, Farmland, Market
+Titandrake - shuffles deck
+Titandrake - draws Gold, Haggler
+ 
+---------- Copperman: turn 16 ----------
+Copperman - plays Gold
+Copperman - plays Gold
+Copperman - buys Farmland
+Copperman - trashes Copper
+Copperman - gains Secret Chamber
+Copperman - gains Farmland
+Copperman - draws Tunnel, Tunnel, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays Haggler
+Titandrake - plays Gold
+Titandrake - buys Farmland
+Titandrake - trashes Farmland
+Titandrake - gains Province
+Titandrake - gains Haggler
+Titandrake - gains Farmland
+Titandrake - draws Haggler, Gold, Province, Estate, Gold
+ 
+---------- Copperman: turn 17 ----------
+Copperman - plays 2 Copper
+Copperman - buys Secret Chamber
+Copperman - gains Secret Chamber
+Copperman - draws Secret Chamber, Market, Estate, Gold, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Haggler
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Market, Province, Duchy, Silver, Silver
+ 
+---------- Copperman: turn 18 ----------
+Copperman - plays Market
+Copperman - shuffles deck
+Copperman - draws Gold
+Copperman - plays Secret Chamber
+Copperman - discards Estate
+Copperman - plays 2 Gold, 1 Copper
+Copperman - buys Province
+Copperman - gains Province
+Copperman - draws Gold, Secret Chamber, Silver, Secret Chamber, Adventurer
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Gold, Gold, Copper, Copper
+ 
+---------- Copperman: turn 19 ----------
+Copperman - plays Adventurer
+Copperman - reveals Farmland, Gold, Secret Chamber, Tunnel, Copper
+Copperman - places cards in hand:  Gold, Copper
+Copperman - discards: Farmland, Secret Chamber, Tunnel
+Copperman - reveals reaction Tunnel
+Copperman - gains Gold
+Copperman - plays 2 Gold, 1 Silver, 1 Copper
+Copperman - buys Province
+Copperman - gains Province
+Copperman - draws Copper, Province, Tunnel, Tunnel, Adventurer
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Haggler, 3 Market, 8 Copper, 7 Gold, 4 Silver, 1 Hoard, 5 Estate, 4 Province, 3 Duchy, 1 Tunnel, 1 Farmland
+Titandrake - total victory points: 42
+Titandrake - turns: 19
+ 
+Copperman - cards: 5 Secret Chamber, 2 Adventurer, 1 Market, 8 Gold, 6 Copper, 1 Silver, 6 Tunnel, 4 Province, 3 Estate, 1 Farmland
+Copperman - total victory points: 41
+Copperman - turns: 19
+ 
+1st place: Titandrake
+2nd place: Copperman
+ 

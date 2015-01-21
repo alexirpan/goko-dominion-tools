@@ -1,0 +1,505 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Fortune Teller, Feodum, Band of Misfits, Contraband, Royal Seal, Stables, Tactician, Trading Post, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+prospero - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+prospero - shuffles deck
+Titandrake - shuffles deck
+prospero - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- prospero: turn 1 ----------
+prospero - plays 4 Copper
+prospero - buys Fortune Teller
+prospero - gains Fortune Teller
+prospero - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- prospero: turn 2 ----------
+prospero - plays 3 Copper
+prospero - buys Silver
+prospero - gains Silver
+prospero - shuffles deck
+prospero - draws Copper, Copper, Copper, Estate, Fortune Teller
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- prospero: turn 3 ----------
+prospero - plays Fortune Teller
+Titandrake - reveals Estate
+prospero - plays 3 Copper
+prospero - buys Tactician
+prospero - gains Tactician
+prospero - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Silver, Copper, Copper, Silver
+ 
+---------- prospero: turn 4 ----------
+prospero - plays 2 Copper, 1 Silver
+prospero - buys Fortune Teller
+prospero - gains Fortune Teller
+prospero - draws Copper, Copper
+prospero - shuffles deck
+prospero - draws Estate, Tactician, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Trading Post
+ 
+---------- prospero: turn 5 ----------
+prospero - plays Tactician
+prospero - discards: Copper, Copper, Estate, Copper
+prospero - draws Copper, Copper, Copper, Fortune Teller, Fortune Teller
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Copper, Copper, Silver, Copper, Silver
+ 
+---------- prospero: turn 6 ----------
+prospero - duration Tactician
+prospero - draws Silver, Copper, Estate, Estate
+prospero - shuffles deck
+prospero - draws Copper
+prospero - plays Fortune Teller
+Titandrake - reveals Estate
+prospero - plays Fortune Teller
+Titandrake - reveals Estate
+prospero - plays 5 Copper, 1 Silver
+prospero - buys Stables
+prospero - gains Stables
+prospero - buys Trading Post
+prospero - gains Trading Post
+prospero - draws Copper, Estate, Copper
+prospero - shuffles deck
+prospero - draws Copper, Fortune Teller
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Estate, Silver, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- prospero: turn 7 ----------
+prospero - plays Fortune Teller
+Titandrake - reveals Feodum
+prospero - plays 3 Copper
+prospero - buys Stables
+prospero - gains Stables
+prospero - draws Copper, Copper, Tactician, Silver, Trading Post
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Feodum, Silver, Copper, Silver, Copper
+ 
+---------- prospero: turn 8 ----------
+prospero - plays Tactician
+prospero - discards: Copper, Copper, Silver, Trading Post
+prospero - draws Estate, Fortune Teller, Estate, Stables, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Tactician, Silver, Copper, Copper, Trading Post
+ 
+---------- prospero: turn 9 ----------
+prospero - duration Tactician
+prospero - draws Copper
+prospero - shuffles deck
+prospero - draws Trading Post, Copper, Fortune Teller, Copper
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Copper, Stables, Copper
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Estate, Copper, Silver
+prospero - plays Trading Post
+prospero - trashes Estate, Estate
+prospero - gains Silver
+prospero - plays Fortune Teller
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Silver, Silver, Stables, Silver, Copper, Copper, Estate
+Titandrake - discards: Copper, Silver, Silver, Stables, Silver, Copper, Copper
+prospero - plays 5 Copper, 2 Silver
+prospero - buys Province
+prospero - gains Province
+prospero - buys Peddler
+prospero - gains Peddler
+prospero - shuffles deck
+prospero - draws Silver, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Silver, Copper, Copper, Trading Post
+Titandrake - draws Estate, Estate, Silver, Feodum, Copper
+ 
+---------- prospero: turn 10 ----------
+prospero - plays 3 Copper, 2 Silver
+prospero - buys Tactician
+prospero - gains Tactician
+prospero - draws Fortune Teller, Stables, Fortune Teller, Copper, Tactician
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Tactician
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Trading Post, Silver, Copper
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 4 Silver, 3 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Silver, Copper, Copper, Silver, Copper
+ 
+---------- prospero: turn 11 ----------
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Stables, Peddler, Trading Post
+prospero - plays Peddler
+prospero - draws Copper
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Copper, Copper, Province
+prospero - plays Tactician
+prospero - discards: Fortune Teller, Fortune Teller, Trading Post, Copper, Copper, Province
+prospero - buys Peddler
+prospero - gains Peddler
+prospero - draws Estate
+prospero - shuffles deck
+prospero - draws Fortune Teller, Stables, Copper, Peddler
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Stables
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Silver, Silver
+ 
+---------- prospero: turn 12 ----------
+prospero - duration Tactician
+prospero - draws Copper, Fortune Teller, Stables, Peddler, Silver
+prospero - plays Peddler
+prospero - draws Copper
+prospero - plays Peddler
+prospero - draws Copper
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Copper, Silver, Copper
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Trading Post, Province, Copper
+prospero - plays Trading Post
+prospero - trashes Estate, Copper
+prospero - gains Silver
+prospero - plays Fortune Teller
+Titandrake - reveals Silver, Copper, Copper, Trading Post, Copper, Copper, Feodum
+Titandrake - discards: Silver, Copper, Copper, Trading Post, Copper, Copper
+prospero - plays 4 Copper, 3 Silver
+prospero - buys Feodum
+prospero - gains Feodum
+prospero - buys Feodum
+prospero - gains Feodum
+prospero - draws Tactician
+prospero - shuffles deck
+prospero - draws Silver, Copper, Feodum, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Stables
+Titandrake - discards Silver
+Titandrake - draws Feodum, Silver, Copper
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Estate, Tactician, Feodum, Copper, Silver
+ 
+---------- prospero: turn 13 ----------
+prospero - plays Tactician
+prospero - discards: Silver, Copper, Feodum, Copper
+prospero - draws Copper, Peddler, Fortune Teller, Tactician, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Estate, Feodum, Copper, Silver
+Titandrake - draws Silver, Feodum, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- prospero: turn 14 ----------
+prospero - duration Tactician
+prospero - draws Fortune Teller, Peddler, Trading Post, Province, Copper
+prospero - plays Peddler
+prospero - draws Stables
+prospero - plays Peddler
+prospero - draws Copper
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Silver, Feodum, Stables
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Copper
+prospero - shuffles deck
+prospero - draws Copper, Copper
+prospero - plays Trading Post
+prospero - trashes Copper, Copper
+prospero - gains Silver
+prospero - plays Tactician
+prospero - discards: Copper, Fortune Teller, Silver, Fortune Teller, Province, Silver, Feodum, Copper, Silver
+prospero - buys Peddler
+prospero - gains Peddler
+prospero - buys Peddler
+prospero - gains Peddler
+prospero - draws Feodum, Copper, Silver, Copper
+prospero - shuffles deck
+prospero - draws Feodum
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Tactician
+Titandrake - draws Feodum, Copper, Copper, Silver, Copper
+Titandrake - plays 4 Silver, 4 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Feodum, Copper, Estate, Silver, Stables
+ 
+---------- prospero: turn 15 ----------
+prospero - duration Tactician
+prospero - draws Stables, Silver, Silver, Peddler, Peddler
+prospero - plays Peddler
+prospero - draws Peddler
+prospero - plays Peddler
+prospero - draws Province
+prospero - plays Peddler
+prospero - draws Copper
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Trading Post, Fortune Teller, Stables
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Copper, Peddler, Tactician
+prospero - plays Peddler
+prospero - draws Silver
+prospero - plays Fortune Teller
+Titandrake - reveals Silver, Copper, Silver, Trading Post, Silver, Silver, Feodum
+Titandrake - discards: Silver, Copper, Silver, Trading Post, Silver, Silver
+prospero - plays Trading Post
+prospero - trashes Copper, Copper
+prospero - gains Silver
+prospero - plays 5 Silver
+prospero - buys Province
+prospero - gains Province
+prospero - buys Province
+prospero - gains Province
+prospero - draws Fortune Teller
+prospero - shuffles deck
+prospero - draws Stables, Copper, Stables, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Feodum
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Feodum, Feodum, Silver, Silver, Silver
+ 
+---------- prospero: turn 16 ----------
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Peddler, Silver, Tactician
+prospero - plays Peddler
+prospero - draws Feodum
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Peddler, Peddler, Silver
+prospero - plays Peddler
+prospero - draws Province
+prospero - plays Peddler
+prospero - draws Silver
+prospero - plays Fortune Teller
+Titandrake - reveals Copper, Tactician, Copper, Silver, Silver, Copper, Feodum
+Titandrake - discards: Copper, Tactician, Copper, Silver, Silver, Copper
+prospero - plays 3 Silver
+prospero - buys Province
+prospero - gains Province
+prospero - draws Silver, Fortune Teller, Tactician, Peddler, Trading Post
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Feodum, Silver, Silver, Silver, Trading Post
+ 
+---------- prospero: turn 17 ----------
+prospero - plays Peddler
+prospero - draws Silver
+prospero - plays Tactician
+prospero - discards: Silver, Fortune Teller, Trading Post, Silver
+prospero - draws Province, Feodum, Province
+prospero - shuffles deck
+prospero - draws Silver, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Silver
+ 
+---------- prospero: turn 18 ----------
+prospero - duration Tactician
+prospero - draws Peddler, Province, Silver, Peddler, Copper
+prospero - plays Peddler
+prospero - draws Silver
+prospero - plays Peddler
+prospero - draws Copper
+prospero - plays 3 Silver, 2 Copper
+prospero - buys Province
+prospero - gains Province
+prospero - buys Peddler
+prospero - gains Peddler
+prospero - draws Peddler, Silver, Feodum, Fortune Teller, Fortune Teller
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Duchy, Feodum, Silver, Stables, Feodum
+ 
+---------- prospero: turn 19 ----------
+prospero - plays Peddler
+prospero - draws Stables
+prospero - plays Stables
+prospero - discards Silver
+prospero - draws Trading Post, Tactician, Stables
+prospero - plays Tactician
+prospero - discards: Feodum, Fortune Teller, Fortune Teller, Trading Post, Stables
+prospero - draws Silver, Peddler
+prospero - shuffles deck
+prospero - draws Silver, Peddler, Fortune Teller
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Stables
+Titandrake - discards Silver
+Titandrake - draws Copper, Copper, Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Feodum, Copper, Trading Post, Silver, Tactician
+ 
+---------- prospero: turn 20 ----------
+prospero - duration Tactician
+prospero - draws Peddler, Silver, Feodum, Stables, Province
+prospero - plays Peddler
+prospero - draws Feodum
+prospero - plays Peddler
+prospero - draws Tactician
+prospero - plays Peddler
+prospero - draws Copper
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Stables, Silver, Silver
+prospero - plays Stables
+prospero - discards Silver
+prospero - draws Trading Post, Peddler, Copper
+prospero - plays Peddler
+prospero - draws Province
+prospero - plays Fortune Teller
+Titandrake - reveals Silver, Copper, Estate
+Titandrake - discards: Silver, Copper
+prospero - plays Tactician
+prospero - discards: Silver, Silver, Silver, Feodum, Province, Feodum, Silver, Trading Post, Copper, Province
+prospero - buys Duchy
+prospero - gains Duchy
+prospero - buys Peddler
+prospero - gains Peddler
+prospero - draws Fortune Teller, Province, Province, Province, Peddler
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Feodum, Copper, Trading Post, Silver
+Titandrake - draws Estate, Silver, Duchy, Province, Silver
+ 
+---------- prospero: turn 21 ----------
+prospero - duration Tactician
+prospero - shuffles deck
+prospero - draws Copper, Fortune Teller, Stables, Province, Duchy
+prospero - plays Peddler
+prospero - draws Silver
+prospero - plays Stables
+prospero - discards Copper
+prospero - draws Peddler, Tactician, Silver
+prospero - plays Peddler
+prospero - draws Silver
+prospero - plays Fortune Teller
+Titandrake - reveals Feodum
+prospero - plays Fortune Teller
+Titandrake - reveals Feodum
+prospero - plays 3 Silver
+prospero - buys Province
+prospero - gains Province
+prospero - buys Peddler
+prospero - gains Peddler
+prospero - draws Province, Peddler, Peddler, Feodum, Feodum
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - duration Tactician
+Titandrake - draws Feodum, Silver, Feodum
+Titandrake - shuffles deck
+Titandrake - draws Copper, Stables
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Feodum, Silver, Copper
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Feodum, Silver, Silver, Silver, Silver
+ 
+------------ Game Over ------------
+prospero - cards: 7 Peddler, 2 Tactician, 2 Stables, 2 Fortune Teller, 1 Trading Post, 5 Silver, 2 Copper, 6 Province, 2 Feodum, 1 Duchy
+prospero - total victory points: 41
+prospero - turns: 21
+ 
+Titandrake - cards: 12 Silver, 1 Tactician, 1 Stables, 1 Trading Post, 6 Copper, 5 Feodum, 2 Province, 2 Duchy, 1 Estate
+Titandrake - total victory points: 39
+Titandrake - turns: 21
+ 
+1st place: prospero
+2nd place: Titandrake
+ 

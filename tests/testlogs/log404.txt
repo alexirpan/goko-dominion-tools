@@ -1,0 +1,590 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Stonemason, Apothecary, Masterpiece, Remake, Thief, Mystic, Rogue, Soothsayer, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+pixiesean - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+pixiesean - shuffles deck
+Titandrake - shuffles deck
+pixiesean - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- pixiesean: turn 1 ----------
+pixiesean - plays 3 Copper
+pixiesean - buys Silver
+pixiesean - gains Silver
+pixiesean - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- pixiesean: turn 2 ----------
+pixiesean - plays 4 Copper
+pixiesean - buys Potion
+pixiesean - gains Potion
+pixiesean - shuffles deck
+pixiesean - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Silver, Estate, Copper, Remake, Estate
+ 
+---------- pixiesean: turn 3 ----------
+pixiesean - plays 4 Copper, 1 Silver
+pixiesean - buys Soothsayer
+pixiesean - gains Soothsayer
+pixiesean - draws Copper, Potion, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Silver
+Titandrake - gains Potion
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Remake, Copper, Copper
+ 
+---------- pixiesean: turn 4 ----------
+pixiesean - plays 2 Copper, 1 Potion
+pixiesean - buys Apothecary
+pixiesean - gains Apothecary
+pixiesean - draws Estate, Copper
+pixiesean - shuffles deck
+pixiesean - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Potion, Silver, Copper, Copper, Soothsayer
+ 
+---------- pixiesean: turn 5 ----------
+pixiesean - plays 4 Copper
+pixiesean - buys Silver
+pixiesean - gains Silver
+pixiesean - draws Silver, Potion, Copper, Apothecary, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+pixiesean - gains Curse
+pixiesean - draws Copper
+Titandrake - plays 2 Copper, 1 Potion, 1 Silver
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 2 coins
+Titandrake - overpays for Stonemason with 1 potion
+Titandrake - gains Apothecary
+Titandrake - gains Apothecary
+Titandrake - gains Stonemason
+Titandrake - draws Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Apothecary, Silver
+ 
+---------- pixiesean: turn 6 ----------
+pixiesean - plays Apothecary
+pixiesean - draws Copper
+pixiesean - reveals: Estate, Soothsayer
+pixiesean - shuffles deck
+pixiesean - reveals: Copper, Copper
+pixiesean - places Estate on top of deck
+pixiesean - places Soothsayer on top of deck
+pixiesean - plays 5 Copper, 1 Silver, 1 Potion
+pixiesean - buys Remake
+pixiesean - gains Remake
+pixiesean - draws Soothsayer, Estate, Estate, Copper, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Pawn
+Titandrake - reveals: Soothsayer, Stonemason, Gold, Copper
+Titandrake - places Gold on top of deck
+Titandrake - places Stonemason on top of deck
+Titandrake - places Soothsayer on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Soothsayer
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+pixiesean - gains Curse
+pixiesean - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - draws Stonemason, Gold, Potion, Copper, Copper
+ 
+---------- pixiesean: turn 7 ----------
+pixiesean - plays Soothsayer
+pixiesean - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Remake
+pixiesean - draws Copper
+pixiesean - shuffles deck
+pixiesean - draws Silver, Potion, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Stonemason
+Titandrake - gains Silver
+Titandrake - plays 1 Gold, 1 Potion, 1 Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 2 coins
+Titandrake - overpays for Stonemason with 1 potion
+Titandrake - gains Apothecary
+Titandrake - gains Apothecary
+Titandrake - gains Stonemason
+Titandrake - draws Copper, Apothecary, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Soothsayer
+ 
+---------- pixiesean: turn 8 ----------
+pixiesean - plays 3 Copper, 1 Silver, 1 Potion
+pixiesean - buys Stonemason
+pixiesean - overpays for Stonemason with 2 coins
+pixiesean - overpays for Stonemason with 1 potion
+pixiesean - gains Apothecary
+pixiesean - gains Apothecary
+pixiesean - gains Stonemason
+pixiesean - draws Estate, Silver, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Curse
+Titandrake - reveals: Remake, Silver, Silver, Gold
+Titandrake - places Gold on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Remake on top of deck
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+pixiesean - gains Curse
+pixiesean - draws Apothecary
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Remake, Silver, Silver, Gold, Mystic
+ 
+---------- pixiesean: turn 9 ----------
+pixiesean - plays Apothecary
+pixiesean - draws Estate
+pixiesean - reveals: Gold, Soothsayer, Remake, Estate
+pixiesean - places Remake on top of deck
+pixiesean - places Estate on top of deck
+pixiesean - places Soothsayer on top of deck
+pixiesean - places Gold on top of deck
+pixiesean - plays 2 Copper, 1 Silver
+pixiesean - buys Potion
+pixiesean - gains Potion
+pixiesean - draws Gold, Soothsayer, Estate, Remake, Curse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mystic
+Titandrake - names Pawn
+Titandrake - reveals Pawn
+Titandrake - places Pawn in hand
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Apothecary, Apothecary, Gold, Copper, Stonemason
+ 
+---------- pixiesean: turn 10 ----------
+pixiesean - plays Soothsayer
+pixiesean - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+pixiesean - plays 1 Gold
+pixiesean - buys Pawn
+pixiesean - gains Pawn
+pixiesean - draws Copper, Copper
+pixiesean - shuffles deck
+pixiesean - draws Soothsayer, Potion, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Copper, Potion, Apothecary
+Titandrake - shuffles deck
+Titandrake - reveals: Soothsayer
+Titandrake - places Soothsayer on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Soothsayer, Mystic, Gold, Curse
+Titandrake - places Curse on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Soothsayer on top of deck
+Titandrake - places Mystic on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Mystic
+Titandrake - reveals: Soothsayer, Gold, Curse, Estate
+Titandrake - places Estate on top of deck
+Titandrake - places Curse on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Soothsayer on top of deck
+Titandrake - plays Mystic
+Titandrake - names Soothsayer
+Titandrake - reveals Soothsayer
+Titandrake - places Soothsayer in hand
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+pixiesean - gains Curse
+pixiesean - draws Gold
+Titandrake - plays 4 Copper, 1 Gold, 1 Potion
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Curse, Estate, Pawn, Copper
+ 
+---------- pixiesean: turn 11 ----------
+pixiesean - plays Soothsayer
+pixiesean - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Curse
+pixiesean - plays 2 Copper, 1 Potion, 1 Gold
+pixiesean - buys Apothecary
+pixiesean - gains Apothecary
+pixiesean - draws Curse, Apothecary, Gold, Pawn, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Silver
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - draws Silver, Pawn, Province, Silver, Gold
+ 
+---------- pixiesean: turn 12 ----------
+pixiesean - plays Apothecary
+pixiesean - draws Silver
+pixiesean - reveals: Stonemason, Estate, Apothecary, Curse
+pixiesean - places Estate on top of deck
+pixiesean - places Curse on top of deck
+pixiesean - places Stonemason on top of deck
+pixiesean - places Apothecary on top of deck
+pixiesean - plays Pawn
+pixiesean - takes 1 action
+pixiesean - draws Apothecary
+pixiesean - plays Apothecary
+pixiesean - draws Stonemason
+pixiesean - reveals: Curse, Estate, Estate, Potion
+pixiesean - places Estate on top of deck
+pixiesean - places Estate on top of deck
+pixiesean - places Curse on top of deck
+pixiesean - plays Stonemason
+pixiesean - trashes Gold
+pixiesean - gains Mystic
+pixiesean - gains Mystic
+pixiesean - plays 1 Copper, 1 Silver, 1 Potion
+pixiesean - buys Apothecary
+pixiesean - gains Apothecary
+pixiesean - draws Curse, Estate, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - draws Remake
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Apothecary
+Titandrake - shuffles deck
+Titandrake - draws Gold, Pawn, Pawn, Copper
+ 
+---------- pixiesean: turn 13 ----------
+pixiesean - plays 1 Copper, 1 Silver
+pixiesean - draws Copper, Copper, Apothecary, Copper, Remake
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Potion
+Titandrake - reveals: Gold, Mystic, Apothecary, Copper
+Titandrake - places Gold on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - places Mystic on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Mystic
+Titandrake - plays Mystic
+Titandrake - names Apothecary
+Titandrake - reveals Apothecary
+Titandrake - places Apothecary in hand
+Titandrake - plays Apothecary
+Titandrake - draws Gold
+Titandrake - reveals: Soothsayer, Curse, Gold, Estate
+Titandrake - places Soothsayer on top of deck
+Titandrake - places Curse on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Estate
+Titandrake - plays 2 Gold, 2 Copper, 1 Potion
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Gold, Curse, Soothsayer, Province, Silver
+ 
+---------- pixiesean: turn 14 ----------
+pixiesean - plays Apothecary
+pixiesean - draws Estate
+pixiesean - shuffles deck
+pixiesean - reveals: Apothecary, Copper, Mystic, Silver
+pixiesean - places Silver on top of deck
+pixiesean - places Mystic on top of deck
+pixiesean - places Apothecary on top of deck
+pixiesean - plays Remake
+pixiesean - trashes Copper
+pixiesean - trashes Estate
+pixiesean - gains Silver
+pixiesean - draws Apothecary, Mystic, Silver, Potion, Soothsayer
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+pixiesean - gains Curse
+pixiesean - draws Mystic
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Apothecary, Remake, Copper, Copper
+ 
+---------- pixiesean: turn 15 ----------
+pixiesean - plays Mystic
+pixiesean - names Gold
+pixiesean - reveals Estate
+pixiesean - plays Mystic
+pixiesean - names Estate
+pixiesean - reveals Estate
+pixiesean - places Estate in hand
+pixiesean - plays Apothecary
+pixiesean - draws Stonemason
+pixiesean - reveals: Copper, Gold, Gold, Potion
+pixiesean - places Gold on top of deck
+pixiesean - places Gold on top of deck
+pixiesean - plays Soothsayer
+pixiesean - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Silver
+pixiesean - plays 2 Potion, 1 Silver, 1 Copper
+pixiesean - buys Stonemason
+pixiesean - overpays for Stonemason with 5 coins
+pixiesean - gains Mystic
+pixiesean - gains Mystic
+pixiesean - gains Stonemason
+pixiesean - draws Gold, Gold, Apothecary, Copper, Apothecary
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Province
+Titandrake - reveals: Curse, Apothecary, Silver, Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - places Curse on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Apothecary, Silver, Gold, Curse
+ 
+---------- pixiesean: turn 16 ----------
+pixiesean - plays Apothecary
+pixiesean - draws Apothecary
+pixiesean - reveals: Curse, Curse, Curse, Pawn
+pixiesean - places Curse on top of deck
+pixiesean - places Curse on top of deck
+pixiesean - places Curse on top of deck
+pixiesean - places Pawn on top of deck
+pixiesean - plays Apothecary
+pixiesean - draws Pawn
+pixiesean - reveals: Curse, Curse, Curse, Silver
+pixiesean - places Curse on top of deck
+pixiesean - places Curse on top of deck
+pixiesean - places Curse on top of deck
+pixiesean - places Silver on top of deck
+pixiesean - plays Apothecary
+pixiesean - draws Silver
+pixiesean - reveals: Curse, Curse, Curse, Copper
+pixiesean - places Curse on top of deck
+pixiesean - places Curse on top of deck
+pixiesean - places Curse on top of deck
+pixiesean - plays Pawn
+pixiesean - takes 1 coin
+pixiesean - takes 1 buy
+pixiesean - plays 2 Gold, 2 Copper, 1 Silver
+pixiesean - buys Province
+pixiesean - gains Province
+pixiesean - buys Estate
+pixiesean - gains Estate
+pixiesean - draws Curse, Curse, Curse, Curse, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Pawn
+Titandrake - reveals: Mystic, Stonemason
+Titandrake - shuffles deck
+Titandrake - reveals: Silver, Estate
+Titandrake - places Estate on top of deck
+Titandrake - places Stonemason on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Mystic on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Mystic
+Titandrake - plays Mystic
+Titandrake - names Silver
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Stonemason, Estate, Pawn, Gold, Province
+ 
+---------- pixiesean: turn 17 ----------
+pixiesean - shuffles deck
+pixiesean - draws Apothecary, Apothecary, Province, Curse, Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Duchy
+Titandrake - plays Stonemason
+Titandrake - trashes Gold
+Titandrake - gains Duchy
+Titandrake - gains Duchy
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Mystic, Remake, Province, Province
+ 
+---------- pixiesean: turn 18 ----------
+pixiesean - plays Apothecary
+pixiesean - draws Stonemason
+pixiesean - reveals: Copper, Silver, Silver, Copper
+pixiesean - places Silver on top of deck
+pixiesean - places Silver on top of deck
+pixiesean - plays Apothecary
+pixiesean - draws Silver
+pixiesean - reveals: Silver, Copper, Gold, Remake
+pixiesean - places Silver on top of deck
+pixiesean - places Remake on top of deck
+pixiesean - places Gold on top of deck
+pixiesean - plays Stonemason
+pixiesean - trashes Curse
+pixiesean - plays 3 Copper, 1 Silver
+pixiesean - buys Duchy
+pixiesean - gains Duchy
+pixiesean - draws Gold, Remake, Silver, Apothecary, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Mystic
+Titandrake - names Apothecary
+Titandrake - reveals Silver
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Copper, Gold, Curse, Apothecary
+ 
+---------- pixiesean: turn 19 ----------
+pixiesean - plays Apothecary
+pixiesean - draws Estate
+pixiesean - reveals: Curse, Copper, Copper, Potion
+pixiesean - places Curse on top of deck
+pixiesean - plays Remake
+pixiesean - trashes Potion
+pixiesean - gains Duchy
+pixiesean - trashes Copper
+pixiesean - plays 2 Gold, 1 Silver, 1 Copper
+pixiesean - buys Province
+pixiesean - gains Province
+pixiesean - draws Curse, Mystic, Potion, Copper, Gold
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Province
+Titandrake - reveals: Apothecary, Gold, Potion, Apothecary
+Titandrake - places Apothecary on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold, 1 Potion
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Apothecary, Gold, Apothecary, Apothecary, Copper
+ 
+---------- pixiesean: turn 20 ----------
+pixiesean - plays Mystic
+pixiesean - names Gold
+pixiesean - reveals Silver
+pixiesean - plays 1 Potion, 1 Copper, 1 Gold
+pixiesean - buys Duchy
+pixiesean - gains Duchy
+pixiesean - draws Silver, Stonemason, Apothecary, Curse, Mystic
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Soothsayer
+Titandrake - reveals: Curse, Copper, Copper, Gold
+Titandrake - places Curse on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Gold
+Titandrake - reveals: Curse, Pawn, Duchy
+Titandrake - shuffles deck
+Titandrake - reveals: Potion
+Titandrake - places Curse on top of deck
+Titandrake - places Duchy on top of deck
+Titandrake - places Pawn on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Pawn
+Titandrake - reveals: Duchy, Curse, Copper, Gold
+Titandrake - places Curse on top of deck
+Titandrake - places Duchy on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+pixiesean - gains Curse
+pixiesean - draws Curse
+Titandrake - plays 4 Copper, 2 Gold, 1 Potion
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Duchy, Curse, Curse, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Apothecary, 3 Pawn, 2 Mystic, 1 Soothsayer, 1 Remake, 1 Stonemason, 6 Copper, 5 Gold, 3 Silver, 1 Potion, 6 Province, 5 Duchy, 3 Estate, 4 Curse
+Titandrake - total victory points: 50
+Titandrake - turns: 21
+ 
+pixiesean - cards: 5 Apothecary, 4 Mystic, 2 Stonemason, 1 Remake, 1 Pawn, 1 Soothsayer, 5 Copper, 3 Silver, 3 Gold, 1 Potion, 3 Duchy, 3 Estate, 2 Province, 5 Curse
+pixiesean - total victory points: 19
+pixiesean - turns: 20
+ 
+1st place: Titandrake
+2nd place: pixiesean
+ 

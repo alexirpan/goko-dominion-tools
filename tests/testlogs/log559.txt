@@ -1,0 +1,386 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Squire, University, Lookout, Tournament, Butcher, Counterfeit, Rogue, Royal Seal, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+A Drowned Kernel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+A Drowned Kernel - shuffles deck
+Titandrake - shuffles deck
+A Drowned Kernel - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- A Drowned Kernel: turn 1 ----------
+A Drowned Kernel - plays 4 Copper
+A Drowned Kernel - buys Tournament
+A Drowned Kernel - gains Tournament
+A Drowned Kernel - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 2 ----------
+A Drowned Kernel - plays 3 Copper
+A Drowned Kernel - buys Silver
+A Drowned Kernel - gains Silver
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper, Copper, Estate, Copper, Tournament
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Squire, Estate, Copper
+ 
+---------- A Drowned Kernel: turn 3 ----------
+A Drowned Kernel - plays Tournament
+A Drowned Kernel - draws Silver
+A Drowned Kernel - plays 3 Copper, 1 Silver
+A Drowned Kernel - buys Gold
+A Drowned Kernel - gains Gold
+A Drowned Kernel - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- A Drowned Kernel: turn 4 ----------
+A Drowned Kernel - plays 4 Copper
+A Drowned Kernel - buys Tournament
+A Drowned Kernel - gains Tournament
+A Drowned Kernel - draws Estate
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- A Drowned Kernel: turn 5 ----------
+A Drowned Kernel - plays 3 Copper
+A Drowned Kernel - buys Silver
+A Drowned Kernel - gains Silver
+A Drowned Kernel - draws Gold, Estate, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Copper, Estate, Copper, Squire
+ 
+---------- A Drowned Kernel: turn 6 ----------
+A Drowned Kernel - plays 2 Copper, 1 Gold, 1 Silver
+A Drowned Kernel - buys Counterfeit
+A Drowned Kernel - gains Counterfeit
+A Drowned Kernel - draws Copper, Tournament, Copper, Tournament
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 3 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Silver, Tournament, Squire
+Titandrake - shuffles deck
+Titandrake - draws Squire
+ 
+---------- A Drowned Kernel: turn 7 ----------
+A Drowned Kernel - plays Tournament
+A Drowned Kernel - draws Estate
+A Drowned Kernel - plays Tournament
+A Drowned Kernel - draws Gold
+A Drowned Kernel - plays 3 Copper, 1 Gold
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Counterfeit, Copper, Silver, Estate, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Squire, Copper, Copper, Estate, Copper
+ 
+---------- A Drowned Kernel: turn 8 ----------
+A Drowned Kernel - plays Counterfeit
+A Drowned Kernel - plays Copper
+A Drowned Kernel - plays Copper
+A Drowned Kernel - trashes Copper
+A Drowned Kernel - plays 1 Silver
+A Drowned Kernel - buys Butcher
+A Drowned Kernel - gains Butcher
+A Drowned Kernel - draws Copper, Copper, Silver, Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Tournament
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Copper, Squire, Tournament, Estate
+ 
+---------- A Drowned Kernel: turn 9 ----------
+A Drowned Kernel - plays Tournament
+A Drowned Kernel - draws Tournament
+A Drowned Kernel - plays Tournament
+A Drowned Kernel - draws Copper
+A Drowned Kernel - plays 4 Copper, 1 Silver
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Copper, Province, Counterfeit, Estate, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tournament
+A Drowned Kernel - reveals Province
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Silver, Squire, Copper
+ 
+---------- A Drowned Kernel: turn 10 ----------
+A Drowned Kernel - plays Counterfeit
+A Drowned Kernel - plays Copper
+A Drowned Kernel - plays Copper
+A Drowned Kernel - trashes Copper
+A Drowned Kernel - buys Silver
+A Drowned Kernel - gains Silver
+A Drowned Kernel - draws Gold, Silver, Copper, Estate, Butcher
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Squire, Squire, Silver, Province, Tournament
+ 
+---------- A Drowned Kernel: turn 11 ----------
+A Drowned Kernel - plays Butcher
+A Drowned Kernel - receives 2 coin tokens
+A Drowned Kernel - trashes Estate
+A Drowned Kernel - gains Squire
+A Drowned Kernel - plays 1 Gold, 1 Silver, 1 Copper
+A Drowned Kernel - uses 2 coin tokens
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate, Copper, Copper, Gold, Province
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Tournament
+A Drowned Kernel - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Followers
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Silver
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Followers, Peddler, Estate, Silver, Copper
+ 
+---------- A Drowned Kernel: turn 12 ----------
+A Drowned Kernel - plays 2 Copper, 1 Gold
+A Drowned Kernel - buys Butcher
+A Drowned Kernel - gains Butcher
+A Drowned Kernel - draws Counterfeit, Province, Copper, Butcher, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Followers
+Titandrake - draws Silver, Copper
+Titandrake - gains Estate
+A Drowned Kernel - gains Curse
+A Drowned Kernel - discards Copper
+A Drowned Kernel - discards Province
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Tournament, Copper, Peddler, Tournament, Copper
+ 
+---------- A Drowned Kernel: turn 13 ----------
+A Drowned Kernel - plays Butcher
+A Drowned Kernel - receives 2 coin tokens
+A Drowned Kernel - trashes Counterfeit
+A Drowned Kernel - gains Duchy
+A Drowned Kernel - draws Tournament, Silver, Copper, Tournament, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Squire
+Titandrake - plays Peddler
+Titandrake - shuffles deck
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Estate
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Silver, Province, Tournament, Tournament, Silver
+ 
+---------- A Drowned Kernel: turn 14 ----------
+A Drowned Kernel - plays Tournament
+Titandrake - reveals Province
+A Drowned Kernel - draws Copper, Silver, Province, Squire
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Tournament
+A Drowned Kernel - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - plays 2 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Duchy, Squire, Silver, Followers, Peddler
+ 
+---------- A Drowned Kernel: turn 15 ----------
+A Drowned Kernel - plays Squire
+A Drowned Kernel - gains Silver
+A Drowned Kernel - plays 2 Copper, 1 Silver
+A Drowned Kernel - buys Duchy
+A Drowned Kernel - gains Duchy
+A Drowned Kernel - draws Copper, Copper, Silver, Butcher, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Followers
+Titandrake - draws Squire, Peddler
+Titandrake - gains Estate
+A Drowned Kernel - gains Curse
+A Drowned Kernel - discards Copper
+A Drowned Kernel - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Butcher
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Peddler
+Titandrake - gains Province
+Titandrake - plays Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Estate, Estate, Silver, Province
+ 
+---------- A Drowned Kernel: turn 16 ----------
+A Drowned Kernel - plays Butcher
+A Drowned Kernel - receives 2 coin tokens
+A Drowned Kernel - trashes Estate
+A Drowned Kernel - gains Squire
+A Drowned Kernel - draws Silver, Tournament, Duchy, Province, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - uses 2 coin tokens
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Copper, Squire, Estate
+ 
+---------- A Drowned Kernel: turn 17 ----------
+A Drowned Kernel - plays Tournament
+A Drowned Kernel - reveals Province
+A Drowned Kernel - discards Province
+A Drowned Kernel - gains Trusty Steed
+A Drowned Kernel - draws Trusty Steed
+A Drowned Kernel - plays Trusty Steed
+A Drowned Kernel - takes 2 actions
+A Drowned Kernel - draws Butcher, Estate
+A Drowned Kernel - plays Butcher
+A Drowned Kernel - receives 2 coin tokens
+A Drowned Kernel - trashes Curse
+A Drowned Kernel - gains Copper
+A Drowned Kernel - plays 1 Silver
+A Drowned Kernel - uses 2 coin tokens
+A Drowned Kernel - buys Duchy
+A Drowned Kernel - gains Duchy
+A Drowned Kernel - draws Copper, Tournament, Province, Gold
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Peddler, Squire, Duchy, Province
+ 
+---------- A Drowned Kernel: turn 18 ----------
+A Drowned Kernel - plays Tournament
+A Drowned Kernel - reveals Province
+Titandrake - reveals Province
+A Drowned Kernel - discards Province
+A Drowned Kernel - gains Duchy
+A Drowned Kernel - plays 1 Copper, 1 Gold
+A Drowned Kernel - uses 4 coin tokens
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Duchy, Duchy, Silver, Copper, Trusty Steed
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Peddler, 5 Tournament, 4 Squire, 1 Followers, 1 Butcher, 7 Copper, 4 Silver, 7 Estate, 4 Province, 3 Duchy
+Titandrake - total victory points: 40
+Titandrake - turns: 17
+ 
+A Drowned Kernel - cards: 2 Tournament, 2 Squire, 2 Butcher, 1 Trusty Steed, 6 Copper, 4 Silver, 1 Gold, 4 Duchy, 4 Province, 1 Estate, 1 Curse
+A Drowned Kernel - total victory points: 36
+A Drowned Kernel - turns: 18
+ 
+1st place: Titandrake
+2nd place: A Drowned Kernel
+ 

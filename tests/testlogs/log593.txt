@@ -1,0 +1,445 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Embargo, Moat, Market Square, Masquerade, Philosopher's Stone, Gardens, Cache, Pillage, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Shaq - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Shaq - shuffles deck
+Titandrake - shuffles deck
+Shaq - draws Copper, Hovel, Overgrown Estate, Copper, Copper
+Titandrake - draws Copper, Necropolis, Copper, Copper, Copper
+ 
+---------- Shaq: turn 1 ----------
+Shaq - plays 3 Copper
+Shaq - buys Silver
+Shaq - gains Silver
+Shaq - draws Copper, Necropolis, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Overgrown Estate, Copper, Hovel
+ 
+---------- Shaq: turn 2 ----------
+Shaq - plays 4 Copper
+Shaq - buys Masquerade
+Shaq - gains Masquerade
+Shaq - shuffles deck
+Shaq - draws Necropolis, Copper, Copper, Masquerade, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Silver, Necropolis
+ 
+---------- Shaq: turn 3 ----------
+Shaq - plays Necropolis
+Shaq - plays Masquerade
+Shaq - draws Hovel, Copper
+Shaq - passes Hovel
+Titandrake - passes Copper
+Shaq - plays 5 Copper
+Shaq - buys Pillage
+Shaq - gains Pillage
+Shaq - draws Copper, Copper, Silver, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Hovel, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Shaq: turn 4 ----------
+Shaq - plays 3 Copper, 1 Silver
+Shaq - buys Pillage
+Shaq - gains Pillage
+Shaq - shuffles deck
+Shaq - draws Silver, Copper, Copper, Copper, Necropolis
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Hovel, Market Square
+ 
+---------- Shaq: turn 5 ----------
+Shaq - plays 3 Copper, 1 Silver
+Shaq - buys Pillage
+Shaq - gains Pillage
+Shaq - draws Copper, Copper, Pillage, Copper, Pillage
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Silver
+Titandrake - passes Hovel
+Shaq - passes Copper
+Titandrake - trashes Overgrown Estate
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Hovel, Copper, Copper, Silver, Necropolis
+ 
+---------- Shaq: turn 6 ----------
+Shaq - plays Pillage
+Shaq - trashes Pillage
+Titandrake - reveals Hovel, Copper, Copper, Silver, Necropolis
+Titandrake - discards Silver
+Shaq - gains Spoils
+Shaq - gains Spoils
+Shaq - plays 2 Copper
+Shaq - buys Crossroads
+Shaq - gains Crossroads
+Shaq - draws Copper, Masquerade, Copper, Overgrown Estate
+Shaq - shuffles deck
+Shaq - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Wharf, Copper, Market Square
+ 
+---------- Shaq: turn 7 ----------
+Shaq - plays Masquerade
+Shaq - draws Spoils, Silver
+Shaq - passes Overgrown Estate
+Titandrake - passes Copper
+Shaq - trashes Copper
+Shaq - plays 3 Copper, 1 Silver
+Shaq - plays Spoils
+Shaq - buys Province
+Shaq - gains Province
+Shaq - draws Pillage, Copper, Crossroads, Spoils, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Market Square
+Titandrake - draws Silver
+Titandrake - plays Wharf
+Titandrake - draws Embargo, Copper
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Hovel, Copper, Masquerade
+ 
+---------- Shaq: turn 8 ----------
+Shaq - plays Pillage
+Shaq - trashes Pillage
+Titandrake - reveals Copper, Copper, Hovel, Copper, Masquerade
+Titandrake - discards Masquerade
+Shaq - gains Spoils
+Shaq - gains Spoils
+Shaq - plays 2 Copper
+Shaq - plays Spoils
+Shaq - buys Wharf
+Shaq - gains Wharf
+Shaq - draws Copper, Hovel, Pillage, Copper, Necropolis
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Pillage
+Titandrake - gains Pillage
+Titandrake - draws Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Embargo, Masquerade, Silver, Copper
+ 
+---------- Shaq: turn 9 ----------
+Shaq - plays Pillage
+Shaq - trashes Pillage
+Titandrake - reveals Necropolis, Embargo, Masquerade, Silver, Copper
+Titandrake - discards Necropolis
+Shaq - gains Spoils
+Shaq - gains Spoils
+Shaq - plays 2 Copper
+Shaq - buys Crossroads
+Shaq - gains Crossroads
+Shaq - shuffles deck
+Shaq - draws Copper, Spoils, Spoils, Province, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Gold
+Titandrake - trashes Embargo
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Wharf, Silver, Market Square, Pillage, Copper
+ 
+---------- Shaq: turn 10 ----------
+Shaq - plays 2 Copper
+Shaq - plays Spoils
+Shaq - plays Spoils
+Shaq - buys Province
+Shaq - gains Province
+Shaq - draws Silver, Wharf, Copper, Copper, Hovel
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Shaq - reveals Silver, Wharf, Copper, Copper, Hovel
+Shaq - discards Wharf
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Copper, Hovel, Gold, Copper, Copper
+ 
+---------- Shaq: turn 11 ----------
+Shaq - plays 2 Copper, 1 Silver
+Shaq - buys Market Square
+Shaq - gains Market Square
+Shaq - draws Spoils, Masquerade, Crossroads, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - trashes Hovel
+Titandrake - gains Duchy
+Titandrake - draws Gold, Copper, Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver
+ 
+---------- Shaq: turn 12 ----------
+Shaq - plays Crossroads
+Shaq - reveals hand: Spoils, Masquerade, Copper, Copper
+Shaq - plays Masquerade
+Shaq - draws Necropolis, Spoils
+Shaq - passes Necropolis
+Titandrake - passes Copper
+Shaq - trashes Copper
+Shaq - plays Spoils
+Shaq - plays Copper
+Shaq - plays Spoils
+Shaq - plays Copper
+Shaq - buys Province
+Shaq - gains Province
+Shaq - draws Copper, Crossroads
+Shaq - shuffles deck
+Shaq - draws Copper, Crossroads, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper, Masquerade, Copper
+ 
+---------- Shaq: turn 13 ----------
+Shaq - plays 3 Copper
+Shaq - buys Market Square
+Shaq - gains Market Square
+Shaq - draws Market Square, Masquerade, Province, Copper, Hovel
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Spoils, Market Square
+Titandrake - passes Market Square
+Shaq - passes Hovel
+Titandrake - trashes Hovel
+Titandrake - plays 4 Copper
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Market Square, Duchy, Silver, Gold, Necropolis
+ 
+---------- Shaq: turn 14 ----------
+Shaq - plays Market Square
+Shaq - draws Wharf
+Shaq - plays Masquerade
+Shaq - draws Copper, Copper
+Shaq - passes Copper
+Titandrake - passes Necropolis
+Shaq - trashes Copper
+Shaq - reveals reaction Market Square
+Shaq - discards Market Square
+Shaq - gains Gold
+Shaq - draws Province, Silver, Province, Copper
+Shaq - shuffles deck
+Shaq - draws Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Silver, Spoils, Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province
+ 
+---------- Shaq: turn 15 ----------
+Shaq - plays 2 Copper, 1 Silver
+Shaq - buys Silver
+Shaq - gains Silver
+Shaq - draws Market Square, Crossroads, Copper, Province, Wharf
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Wharf
+Titandrake - draws Gold, Overgrown Estate
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Duchy, Copper, Gold, Silver
+ 
+---------- Shaq: turn 16 ----------
+Shaq - plays Market Square
+Shaq - draws Market Square
+Shaq - plays Market Square
+Shaq - draws Copper
+Shaq - plays Crossroads
+Shaq - reveals hand: Copper, Province, Wharf, Copper
+Shaq - draws Crossroads
+Shaq - plays Wharf
+Shaq - draws Necropolis, Gold
+Shaq - plays Crossroads
+Shaq - reveals hand: Copper, Province, Copper, Necropolis, Gold
+Shaq - draws Market Square
+Shaq - plays Market Square
+Shaq - draws Copper
+Shaq - plays 3 Copper, 1 Gold
+Shaq - buys Duchy
+Shaq - gains Duchy
+Shaq - draws Masquerade
+Shaq - shuffles deck
+Shaq - draws Crossroads, Market Square, Copper, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Wharf
+Titandrake - draws Duchy, Crossroads
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Duchy, Copper, Gold, Silver, Duchy
+Titandrake - draws Necropolis, Masquerade
+Titandrake - plays Masquerade
+Titandrake - draws Duchy, Copper
+Titandrake - passes Necropolis
+Shaq - passes Copper
+Titandrake - plays 4 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Gold, Market Square, Silver, Copper, Copper
+ 
+---------- Shaq: turn 17 ----------
+Shaq - duration Wharf
+Shaq - draws Crossroads, Gold
+Shaq - plays Necropolis
+Shaq - plays Masquerade
+Shaq - draws Copper, Copper
+Shaq - passes Copper
+Titandrake - passes Copper
+Shaq - plays Market Square
+Shaq - draws Necropolis
+Shaq - plays 2 Copper, 1 Silver, 1 Gold
+Shaq - buys Duchy
+Shaq - gains Duchy
+Shaq - buys Estate
+Shaq - gains Estate
+Shaq - draws Province, Copper, Market Square, Duchy, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Market Square
+Titandrake - shuffles deck
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - draws Crossroads, Duchy
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Copper, Copper, Silver, Duchy
+ 
+---------- Shaq: turn 18 ----------
+Shaq - plays Market Square
+Shaq - draws Silver
+Shaq - plays 2 Copper, 1 Silver
+Shaq - buys Gardens
+Shaq - gains Gardens
+Shaq - draws Province, Province, Market Square
+Shaq - shuffles deck
+Shaq - draws Copper, Necropolis
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Duchy, Province, Gold, Masquerade, Overgrown Estate
+ 
+---------- Shaq: turn 19 ----------
+Shaq - plays Market Square
+Shaq - draws Copper
+Shaq - plays 2 Copper
+Shaq - buys Estate
+Shaq - gains Estate
+Shaq - draws Market Square, Copper, Crossroads, Wharf, Crossroads
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Gold
+Titandrake - passes Overgrown Estate
+Shaq - passes Copper
+Titandrake - plays 2 Gold, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Copper, Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Copper
+ 
+---------- Shaq: turn 20 ----------
+Shaq - plays Market Square
+Shaq - draws Necropolis
+Shaq - plays Crossroads
+Shaq - reveals hand: Crossroads, Wharf, Overgrown Estate, Necropolis
+Shaq - draws Masquerade
+Shaq - plays Masquerade
+Shaq - draws Gardens, Duchy
+Shaq - passes Necropolis
+Titandrake - passes Copper
+Shaq - plays Wharf
+Shaq - draws Province, Silver
+Shaq - plays Crossroads
+Shaq - reveals hand: Overgrown Estate, Gardens, Duchy, Copper, Province, Silver
+Shaq - draws Silver, Gold, Copper, Estate
+Shaq - plays 2 Silver, 2 Copper, 1 Gold
+Shaq - buys Province
+Shaq - gains Province
+Shaq - draws Duchy, Market Square
+Shaq - shuffles deck
+Shaq - draws Market Square, Estate, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Necropolis, 1 Market Square, 1 Masquerade, 1 Wharf, 1 Crossroads, 9 Copper, 3 Gold, 3 Silver, 4 Province, 4 Duchy, 2 Gardens, 1 Estate
+Titandrake - total victory points: 43
+Titandrake - turns: 19
+ 
+Shaq - cards: 3 Market Square, 2 Crossroads, 1 Necropolis, 1 Masquerade, 1 Wharf, 4 Copper, 2 Silver, 1 Gold, 4 Province, 2 Duchy, 2 Estate, 1 Gardens, 1 Overgrown Estate
+Shaq - total victory points: 34
+Shaq - turns: 20
+ 
+1st place: Titandrake
+2nd place: Shaq
+ 

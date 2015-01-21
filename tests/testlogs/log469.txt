@@ -1,0 +1,475 @@
+------------ Game Setup ------------
+Supply cards: Squire, Swindler, Watchtower, Bridge, Pirate Ship, Remodel, Embassy, Library, Saboteur, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+microman - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+microman - shuffles deck
+Titandrake - shuffles deck
+microman - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- microman: turn 1 ----------
+microman - plays 4 Copper
+microman - buys Remodel
+microman - gains Remodel
+microman - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- microman: turn 2 ----------
+microman - plays 3 Copper
+microman - buys Swindler
+microman - gains Swindler
+microman - shuffles deck
+microman - draws Copper, Remodel, Swindler, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - shuffles deck
+Titandrake - draws Squire, Estate, Copper, Estate, Swindler
+ 
+---------- microman: turn 3 ----------
+microman - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+microman - plays 1 Copper
+microman - buys Squire
+microman - gains Squire
+microman - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Swindler
+microman - reveals Estate
+microman - trashes Estate
+microman - gains Estate
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- microman: turn 4 ----------
+microman - plays 5 Copper
+microman - buys Wharf
+microman - gains Wharf
+microman - draws Copper
+microman - shuffles deck
+microman - draws Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Swindler, Swindler
+ 
+---------- microman: turn 5 ----------
+microman - plays 3 Copper
+microman - buys Squire
+microman - gains Squire
+microman - draws Squire, Remodel, Estate, Swindler, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Swindler
+microman - reveals Copper
+microman - trashes Copper
+microman - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Copper, Squire, Estate, Silver
+ 
+---------- microman: turn 6 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Remodel
+microman - trashes Estate
+microman - gains Bridge
+microman - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+microman - plays 1 Copper
+microman - buys Bridge
+microman - gains Bridge
+microman - draws Wharf, Copper, Copper
+microman - shuffles deck
+microman - draws Bridge, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Curse, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- microman: turn 7 ----------
+microman - plays Wharf
+microman - draws Copper, Copper
+microman - plays 4 Copper
+microman - buys Squire
+microman - gains Squire
+microman - buys Squire
+microman - gains Squire
+microman - draws Swindler, Squire, Squire, Copper, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - draws Copper, Swindler, Squire, Copper, Squire
+ 
+---------- microman: turn 8 ----------
+microman - duration Wharf
+microman - draws Remodel, Copper
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Remodel
+microman - trashes Curse
+microman - gains Squire
+microman - plays 2 Copper
+microman - buys Wharf
+microman - gains Wharf
+microman - draws Estate, Bridge
+microman - shuffles deck
+microman - draws Swindler, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Swindler
+microman - reveals Wharf
+microman - trashes Wharf
+microman - gains Duchy
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Squire, Wharf, Copper, Copper, Curse
+ 
+---------- microman: turn 9 ----------
+microman - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Silver
+microman - plays 1 Copper
+microman - buys Watchtower
+microman - gains Watchtower
+microman - draws Wharf, Copper, Bridge, Squire, Squire
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Estate, Squire
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Squire, Copper, Silver, Copper, Copper
+ 
+---------- microman: turn 10 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Wharf
+microman - draws Squire, Copper
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Bridge
+microman - plays Squire
+microman - gains Silver
+microman - plays 2 Copper
+microman - buys Wharf
+microman - gains Wharf
+microman - buys Watchtower
+microman - gains Watchtower
+microman - draws Squire, Squire, Copper, Copper, Remodel
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Wharf
+Titandrake - draws Swindler, Estate
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Swindler
+microman - reveals Copper
+microman - trashes Copper
+microman - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Squire, Squire, Estate, Curse, Silver
+ 
+---------- microman: turn 11 ----------
+microman - duration Wharf
+microman - shuffles deck
+microman - draws Copper, Watchtower
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Remodel
+microman - trashes Copper
+microman - gains Estate
+microman - applied Watchtower to trash Estate
+microman - trashes Estate
+microman - plays Watchtower
+microman - draws Squire, Silver, Squire, Duchy
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Squire
+microman - gains Silver
+microman - plays 2 Copper, 1 Silver
+microman - buys Watchtower
+microman - gains Watchtower
+microman - buys Wharf
+microman - gains Wharf
+microman - draws Estate, Estate, Curse, Bridge, Swindler
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Silver, Squire, Watchtower, Wharf, Copper
+ 
+---------- microman: turn 12 ----------
+microman - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+Titandrake - applied Watchtower to place Silver on top of the deck
+microman - buys Estate
+microman - gains Estate
+microman - draws Wharf, Copper, Watchtower, Bridge, Squire
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Watchtower
+Titandrake - draws Silver, Estate, Estate
+Titandrake - plays Wharf
+Titandrake - draws Copper, Wharf
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Silver, Squire, Silver, Copper
+ 
+---------- microman: turn 13 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Watchtower
+microman - draws Copper
+microman - shuffles deck
+microman - draws Copper, Copper
+microman - plays Wharf
+microman - draws Curse, Silver
+microman - plays 4 Copper, 1 Silver
+microman - buys Gold
+microman - gains Gold
+microman - draws Swindler, Estate, Bridge, Watchtower, Squire
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Squire
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Curse, Squire, Swindler, Squire, Copper
+ 
+---------- microman: turn 14 ----------
+microman - duration Wharf
+microman - draws Silver, Watchtower
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Watchtower
+microman - draws Wharf
+microman - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+microman - plays 1 Silver
+microman - buys Wharf
+microman - gains Wharf
+microman - applied Watchtower to place Wharf on top of the deck
+microman - draws Wharf, Wharf, Estate, Estate, Squire
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Swindler
+microman - reveals Squire
+microman - trashes Squire
+microman - gains Saboteur
+microman - gains Estate
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Curse
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Swindler
+ 
+---------- microman: turn 15 ----------
+microman - plays Squire
+microman - takes 2 actions
+microman - plays Wharf
+microman - draws Remodel, Duchy
+microman - plays Wharf
+microman - draws Squire
+microman - shuffles deck
+microman - draws Wharf
+microman - draws Watchtower, Copper, Silver, Estate, Bridge
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Swindler
+microman - reveals Squire
+microman - trashes Squire
+microman - gains Saboteur
+microman - applied Watchtower to place Saboteur on top of the deck
+microman - gains Estate
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver, Curse, Squire, Silver
+ 
+---------- microman: turn 16 ----------
+microman - duration Wharf
+microman - draws Saboteur, Copper
+microman - duration Wharf
+microman - draws Watchtower, Saboteur
+microman - plays Bridge
+microman - plays 2 Copper, 1 Silver
+microman - buys Duchy
+microman - gains Duchy
+microman - buys Estate
+microman - gains Estate
+microman - buys Curse
+microman - gains Curse
+microman - applied Watchtower to trash Curse
+microman - trashes Curse
+microman - buys Curse
+microman - gains Curse
+microman - applied Watchtower to trash Curse
+microman - trashes Curse
+microman - draws Curse, Copper, Gold, Wharf, Watchtower
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Squire, Copper, Estate, Gold, Curse
+ 
+---------- microman: turn 17 ----------
+microman - plays Wharf
+microman - draws Bridge, Squire
+microman - plays 1 Copper, 1 Gold
+microman - buys Estate
+microman - gains Estate
+microman - buys Estate
+microman - gains Estate
+microman - draws Copper, Silver, Swindler, Estate
+microman - shuffles deck
+microman - draws Watchtower
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Wharf, Wharf, Squire, Wharf, Province
+ 
+---------- microman: turn 18 ----------
+microman - duration Wharf
+microman - draws Saboteur, Copper
+microman - plays Swindler
+Titandrake - reveals Squire
+Titandrake - trashes Squire
+Titandrake - gains Swindler
+microman - plays 2 Copper, 1 Silver
+microman - buys Duchy
+microman - gains Duchy
+microman - draws Duchy, Estate, Squire, Estate, Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Estate, Silver
+Titandrake - plays Wharf
+Titandrake - draws Silver, Swindler
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver, Copper, Silver, Squire
+ 
+---------- microman: turn 19 ----------
+microman - plays Squire
+microman - gains Silver
+microman - draws Squire, Estate, Gold, Bridge, Curse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Wharf
+Titandrake - draws Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - duration Wharf
+Titandrake - draws Silver, Silver
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 5 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Swindler, Swindler, Squire, Squire
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Squire, 3 Swindler, 3 Wharf, 10 Silver, 1 Watchtower, 4 Copper, 1 Gold, 5 Duchy, 3 Estate, 2 Province, 3 Curse
+Titandrake - total victory points: 27
+Titandrake - turns: 19
+ 
+microman - cards: 4 Wharf, 3 Squire, 3 Watchtower, 2 Bridge, 2 Saboteur, 1 Swindler, 1 Remodel, 4 Copper, 3 Silver, 1 Gold, 8 Estate, 3 Duchy, 1 Curse
+microman - total victory points: 16
+microman - turns: 19
+ 
+1st place: Titandrake
+2nd place: microman
+ 

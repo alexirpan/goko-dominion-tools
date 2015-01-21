@@ -1,0 +1,623 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Embargo, Native Village, Pearl Diver, Fishing Village, Great Hall, Tunnel, Militia, Explorer, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Fishing Village
+SM.SM - gains Fishing Village
+SM.SM - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Militia
+SM.SM - gains Militia
+SM.SM - shuffles deck
+SM.SM - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Fishing Village, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Tunnel
+SM.SM - gains Tunnel
+SM.SM - draws Copper, Militia, Fishing Village, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 4 Copper
+Titandrake - buys Explorer
+Titandrake - gains Explorer
+Titandrake - draws Copper, Estate, Estate, Copper, Militia
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Fishing Village
+SM.SM - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Estate
+SM.SM - plays 3 Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Copper, Estate
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Militia
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Militia
+SM.SM - discards Estate
+SM.SM - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - duration Fishing Village
+SM.SM - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Estate
+SM.SM - plays Copper
+SM.SM - buys Militia
+SM.SM - gains Militia
+SM.SM - draws Copper, Copper, Copper, Tunnel, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Militia, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Fishing Village
+SM.SM - gains Fishing Village
+SM.SM - draws Estate, Copper, Gold
+SM.SM - shuffles deck
+SM.SM - draws Militia, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Militia
+SM.SM - discards Estate
+SM.SM - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Explorer, Copper, Fishing Village, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+SM.SM - plays 1 Copper, 1 Gold
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Explorer
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Copper, Militia, Estate, Copper, Estate
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Copper
+SM.SM - plays Copper
+SM.SM - buys Native Village
+SM.SM - gains Native Village
+SM.SM - draws Fishing Village, Tunnel, Fishing Village, Copper, Militia
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Militia
+SM.SM - discards Tunnel
+SM.SM - discards Copper
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+Titandrake - plays 2 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Tunnel, Tunnel, Silver, Copper, Estate
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Fishing Village
+SM.SM - plays Fishing Village
+SM.SM - buys Native Village
+SM.SM - gains Native Village
+SM.SM - draws Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper, Native Village, Copper, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Silver
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Embargo, Copper, Fishing Village, Fishing Village
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - duration Fishing Village
+SM.SM - duration Fishing Village
+SM.SM - plays Native Village
+SM.SM - sets aside Militia
+SM.SM - plays 3 Copper, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Estate, Copper, Tunnel, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Embargo
+Titandrake - embargoes Tunnel
+Titandrake - trashes Embargo
+Titandrake - plays 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Estate, Tunnel, Silver
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays 2 Copper
+SM.SM - buys Native Village
+SM.SM - gains Native Village
+SM.SM - draws Native Village, Militia, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Militia, Explorer, Tunnel, Copper
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Native Village
+SM.SM - sets aside Gold
+SM.SM - plays 2 Copper
+SM.SM - buys Native Village
+SM.SM - gains Native Village
+SM.SM - draws Gold
+SM.SM - shuffles deck
+SM.SM - draws Native Village, Estate, Copper, Tunnel
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Militia
+SM.SM - discards Tunnel
+SM.SM - discards Estate
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Silver, Estate, Fishing Village, Copper
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Native Village
+SM.SM - takes set aside cards: Militia, Gold
+SM.SM - plays Gold
+SM.SM - plays Gold
+SM.SM - buys Grand Market
+SM.SM - gains Grand Market
+SM.SM - draws Copper, Native Village, Copper, Estate, Native Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Tunnel, Silver, Gold, Silver, Copper
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Native Village
+SM.SM - sets aside Copper
+SM.SM - plays Native Village
+SM.SM - sets aside Fishing Village
+SM.SM - plays 2 Copper
+SM.SM - buys Native Village
+SM.SM - gains Native Village
+SM.SM - draws Copper, Estate, Fishing Village, Province, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Explorer, Copper, Copper, Militia
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Fishing Village
+SM.SM - plays 1 Copper, 1 Gold
+SM.SM - buys Great Hall
+SM.SM - gains Great Hall
+SM.SM - draws Militia, Copper, Copper, Native Village
+SM.SM - shuffles deck
+SM.SM - draws Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Militia
+SM.SM - discards Province
+SM.SM - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Fishing Village, Copper, Estate, Gold, Silver
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - duration Fishing Village
+SM.SM - plays Native Village
+SM.SM - sets aside Native Village
+SM.SM - plays Copper
+SM.SM - buys Native Village
+SM.SM - gains Native Village
+SM.SM - draws Estate, Gold, Grand Market, Native Village, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Copper, Silver, Copper, Fishing Village, Copper
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Grand Market
+SM.SM - draws Copper
+SM.SM - plays Native Village
+SM.SM - sets aside Native Village
+SM.SM - plays Gold
+SM.SM - plays Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Tunnel, Gold, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Tunnel
+Titandrake - shuffles deck
+Titandrake - draws Explorer, Province, Copper
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays 1 Gold, 1 Copper
+SM.SM - buys Great Hall
+SM.SM - gains Great Hall
+SM.SM - draws Copper, Gold, Copper, Great Hall, Native Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Explorer
+Titandrake - gains Gold
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - gains Duchess
+Titandrake - draws Silver, Militia, Silver, Copper, Copper
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Great Hall
+SM.SM - draws Militia
+SM.SM - plays Native Village
+SM.SM - takes set aside cards: Copper, Fishing Village, Native Village, Native Village
+SM.SM - plays Native Village
+SM.SM - shuffles deck
+SM.SM - sets aside Tunnel
+SM.SM - plays Native Village
+SM.SM - sets aside Grand Market
+SM.SM - plays Fishing Village
+SM.SM - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+SM.SM - plays 1 Gold
+SM.SM - plays Copper
+SM.SM - plays Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Gold, Copper, Native Village, Estate, Native Village
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Militia
+SM.SM - discards Estate
+SM.SM - discards Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Fishing Village, Silver, Estate, Grand Market
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - duration Fishing Village
+SM.SM - plays Native Village
+SM.SM - sets aside Fishing Village
+SM.SM - plays Native Village
+SM.SM - sets aside Native Village
+SM.SM - plays Gold
+SM.SM - buys Great Hall
+SM.SM - gains Great Hall
+SM.SM - draws Copper, Great Hall, Estate, Militia, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Fishing Village, Gold, Silver, Tunnel, Gold
+ 
+---------- SM.SM: turn 21 ----------
+SM.SM - plays Great Hall
+SM.SM - draws Gold
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Province, Estate, Copper, Gold, Province
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper, Silver, Gold, Copper
+ 
+---------- SM.SM: turn 22 ----------
+SM.SM - plays 1 Copper, 1 Gold
+SM.SM - buys Great Hall
+SM.SM - gains Great Hall
+SM.SM - shuffles deck
+SM.SM - draws Copper, Estate, Militia, Militia, Great Hall
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Gold, Gold, Copper, Tunnel
+ 
+---------- SM.SM: turn 23 ----------
+SM.SM - plays Great Hall
+SM.SM - draws Gold
+SM.SM - plays Militia
+Titandrake - discards Tunnel
+Titandrake - discards Province
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+SM.SM - plays 1 Copper, 1 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Copper, Copper, Native Village, Great Hall, Duchy
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Fishing Village, Duchy, Province, Silver, Fishing Village
+ 
+---------- SM.SM: turn 24 ----------
+SM.SM - plays Great Hall
+SM.SM - draws Native Village
+SM.SM - plays Native Village
+SM.SM - sets aside Great Hall
+SM.SM - plays Native Village
+SM.SM - takes set aside cards: Tunnel, Grand Market, Fishing Village, Native Village, Great Hall
+SM.SM - plays Grand Market
+SM.SM - draws Gold
+SM.SM - plays Great Hall
+SM.SM - draws Gold
+SM.SM - plays Fishing Village
+SM.SM - plays Native Village
+SM.SM - sets aside Copper
+SM.SM - plays 2 Gold
+SM.SM - plays Copper
+SM.SM - plays Copper
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Estate, Copper, Estate, Gold, Province
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Silver
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Silver, Copper, Fishing Village, Duchy, Duchy
+ 
+---------- SM.SM: turn 25 ----------
+SM.SM - duration Fishing Village
+SM.SM - plays 1 Copper, 1 Gold
+SM.SM - buys Great Hall
+SM.SM - gains Great Hall
+SM.SM - draws Fishing Village, Native Village, Copper, Native Village, Great Hall
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Grand Market, Militia, Gold, Gold, Estate
+ 
+---------- SM.SM: turn 26 ----------
+SM.SM - plays Great Hall
+SM.SM - draws Province
+SM.SM - plays Fishing Village
+SM.SM - plays Native Village
+SM.SM - takes set aside cards: Copper
+SM.SM - plays Native Village
+SM.SM - sets aside Copper
+SM.SM - plays 2 Copper
+SM.SM - buys Great Hall
+SM.SM - gains Great Hall
+SM.SM - draws Province, Native Village
+SM.SM - shuffles deck
+SM.SM - draws Copper, Great Hall, Gold
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Militia
+SM.SM - discards Province
+SM.SM - discards Copper
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Silver, Copper, Explorer, Copper
+ 
+---------- SM.SM: turn 27 ----------
+SM.SM - duration Fishing Village
+SM.SM - plays Great Hall
+SM.SM - draws Militia
+SM.SM - plays Native Village
+SM.SM - sets aside Copper
+SM.SM - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Great Hall, Copper, Native Village, Duchy, Copper
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Explorer
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Estate, Province, Duchess, Tunnel
+ 
+---------- SM.SM: turn 28 ----------
+SM.SM - plays Great Hall
+SM.SM - draws Duchy
+SM.SM - plays Native Village
+SM.SM - sets aside Tunnel
+SM.SM - plays 2 Copper
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Gold, Province, Great Hall, Great Hall, Estate
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Duchess
+Titandrake - discards Copper
+SM.SM - places Great Hall on top of deck
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Copper, Embargo
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- SM.SM: turn 29 ----------
+SM.SM - plays Great Hall
+SM.SM - draws Great Hall
+SM.SM - plays Great Hall
+SM.SM - draws Duchy
+SM.SM - plays Great Hall
+SM.SM - draws Duchy
+SM.SM - plays 1 Gold
+SM.SM - buys Tunnel
+SM.SM - gains Curse
+SM.SM - gains Tunnel
+SM.SM - draws Gold, Native Village, Copper, Native Village, Province
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Tunnel
+Titandrake - trashes Embargo
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Tunnel, Copper, Great Hall, Duchy, Explorer
+ 
+---------- SM.SM: turn 30 ----------
+SM.SM - plays Native Village
+SM.SM - sets aside Copper
+SM.SM - plays Native Village
+SM.SM - sets aside Grand Market
+SM.SM - plays 1 Gold, 1 Copper
+SM.SM - buys Tunnel
+SM.SM - gains Curse
+SM.SM - gains Curse
+SM.SM - gains Tunnel
+SM.SM - draws Fishing Village, Great Hall, Estate, Native Village, Militia
+ 
+---------- Titandrake: turn 30 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Gold
+Titandrake - plays Explorer
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Tunnel, Militia, Copper, Great Hall, Gold
+ 
+---------- SM.SM: turn 31 ----------
+SM.SM - plays Great Hall
+SM.SM - draws Gold
+SM.SM - plays Fishing Village
+SM.SM - plays Native Village
+SM.SM - takes set aside cards: Copper, Copper, Tunnel, Copper, Grand Market
+SM.SM - plays Grand Market
+SM.SM - draws Estate
+SM.SM - plays Militia
+Titandrake - discards Tunnel
+Titandrake - discards Great Hall
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+SM.SM - plays 1 Gold
+SM.SM - plays Copper
+SM.SM - plays Copper
+SM.SM - plays Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Native Village
+SM.SM - shuffles deck
+SM.SM - draws Copper, Native Village, Native Village, Curse
+ 
+------------ Game Over ------------
+SM.SM - cards: 6 Great Hall, 6 Native Village, 2 Fishing Village, 2 Militia, 1 Grand Market, 7 Copper, 4 Gold, 6 Estate, 4 Province, 4 Duchy, 3 Tunnel, 3 Curse
+SM.SM - total victory points: 51
+SM.SM - turns: 31
+ 
+Titandrake - cards: 3 Fishing Village, 2 Great Hall, 1 Militia, 1 Explorer, 1 Duchess, 1 Grand Market, 7 Copper, 7 Silver, 6 Gold, 8 Estate, 4 Duchy, 4 Province, 2 Tunnel
+Titandrake - total victory points: 50
+Titandrake - turns: 30
+ 
+1st place: SM.SM
+2nd place: Titandrake
+ 

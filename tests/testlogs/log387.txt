@@ -1,0 +1,498 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Apothecary, Loan, Market Square, Menagerie, Scheme, Tournament, Haggler, Knights, Tactician, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+HF - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HF - shuffles deck
+Titandrake - shuffles deck
+HF - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- HF: turn 1 ----------
+HF - plays 3 Copper
+HF - buys Silver
+HF - gains Silver
+HF - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- HF: turn 2 ----------
+HF - plays 4 Copper
+HF - buys Tournament
+HF - gains Tournament
+HF - shuffles deck
+HF - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper, Tournament, Estate, Silver, Estate
+ 
+---------- HF: turn 3 ----------
+HF - plays 4 Copper, 1 Silver
+HF - buys Gold
+HF - gains Gold
+HF - draws Copper, Estate, Copper, Tournament, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- HF: turn 4 ----------
+HF - plays Tournament
+HF - draws Estate
+HF - plays 2 Copper
+HF - buys Scheme
+HF - gains Scheme
+HF - draws Copper
+HF - shuffles deck
+HF - draws Copper, Copper, Gold, Tournament
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Menagerie, Silver
+ 
+---------- HF: turn 5 ----------
+HF - plays Tournament
+HF - draws Estate
+HF - plays 3 Copper, 1 Gold
+HF - buys Gold
+HF - gains Gold
+HF - draws Estate, Silver, Copper, Estate, Scheme
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Estate, Estate, Silver
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- HF: turn 6 ----------
+HF - plays Scheme
+HF - draws Copper
+HF - plays 2 Copper, 1 Silver
+HF - buys Menagerie
+HF - gains Menagerie
+HF - Scheme choice: Scheme
+HF - draws Scheme, Copper, Copper
+HF - shuffles deck
+HF - draws Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper, Tournament, Tactician
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- HF: turn 7 ----------
+HF - plays Scheme
+HF - draws Copper
+HF - plays 4 Copper
+HF - buys Tournament
+HF - gains Tournament
+HF - Scheme choice: Scheme
+HF - draws Scheme, Gold, Tournament, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Tournament, Silver, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Menagerie
+ 
+---------- HF: turn 8 ----------
+HF - plays Scheme
+HF - draws Copper
+HF - plays Tournament
+HF - draws Estate
+HF - plays 2 Copper, 1 Gold
+HF - buys Tactician
+HF - gains Tactician
+HF - Scheme choice: Tournament
+HF - draws Tournament, Gold, Copper, Silver, Menagerie
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Tactician
+Titandrake - draws Tournament, Copper, Copper, Estate, Hamlet
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper
+Titandrake - plays 7 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Tournament
+Titandrake - shuffles deck
+Titandrake - draws Tactician, Copper, Copper
+ 
+---------- HF: turn 9 ----------
+HF - plays Menagerie
+HF - reveals hand: Tournament, Gold, Copper, Silver
+HF - shuffles deck
+HF - draws Copper, Copper, Estate
+HF - plays Tournament
+HF - draws Tournament
+HF - plays Tournament
+HF - draws Copper
+HF - plays 4 Copper, 1 Gold, 1 Silver
+HF - buys Province
+HF - gains Province
+HF - draws Copper, Estate, Scheme, Copper, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Silver, Tournament, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- HF: turn 10 ----------
+HF - plays Scheme
+HF - draws Copper
+HF - plays 3 Copper, 1 Gold
+HF - buys Gold
+HF - gains Gold
+HF - Scheme choice: Scheme
+HF - draws Scheme, Estate, Tactician
+HF - shuffles deck
+HF - draws Menagerie, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Tactician
+Titandrake - draws Menagerie, Tournament, Estate, Copper, Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Copper, Estate, Estate, Tournament, Estate, Copper, Copper
+Titandrake - draws Province
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Followers
+Titandrake - draws Followers
+Titandrake - plays Followers
+Titandrake - draws Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - gains Estate
+HF - gains Curse
+HF - discards Estate
+HF - discards Copper
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays 7 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Tournament, Silver, Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Menagerie
+ 
+---------- HF: turn 11 ----------
+HF - plays Menagerie
+HF - reveals hand: Scheme, Tactician
+HF - draws Tournament, Estate, Gold
+HF - plays Scheme
+HF - draws Silver
+HF - plays Tournament
+Titandrake - reveals Province
+HF - plays Tactician
+HF - discards: Estate, Gold, Silver
+HF - Scheme choice: Tournament
+HF - draws Tournament, Province, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Tournament, Silver, Copper, Province
+Titandrake - draws Copper, Province, Copper
+Titandrake - plays Tournament
+HF - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Trusty Steed
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Trusty Steed, Hamlet, Estate, Copper, Estate
+ 
+---------- HF: turn 12 ----------
+HF - duration Tactician
+HF - draws Copper, Copper, Estate, Copper, Gold
+HF - plays Tournament
+HF - reveals Province
+HF - discards Province
+HF - gains Princess
+HF - draws Princess
+HF - plays Princess
+HF - plays 5 Copper, 2 Gold
+HF - buys Province
+HF - gains Province
+HF - buys Province
+HF - gains Province
+HF - buys Hamlet
+HF - gains Hamlet
+HF - draws Copper, Tournament
+HF - shuffles deck
+HF - draws Province, Copper, Princess
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one action
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 coins
+Titandrake - draws Copper, Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Tournament, Copper, Followers, Estate, Tactician
+ 
+---------- HF: turn 13 ----------
+HF - plays Tournament
+HF - reveals Province
+HF - discards Province
+HF - gains Duchy
+HF - draws Duchy
+HF - plays Princess
+HF - plays 2 Copper
+HF - buys Duchy
+HF - gains Duchy
+HF - buys Hamlet
+HF - gains Hamlet
+HF - draws Copper, Gold, Province, Copper, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Tournament, Copper, Followers, Estate
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper, Estate, Copper, Trusty Steed
+ 
+---------- HF: turn 14 ----------
+HF - plays 2 Copper, 2 Gold
+HF - buys Province
+HF - gains Province
+HF - draws Tactician, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Tactician
+Titandrake - draws Province, Estate, Copper, Estate, Haggler
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 coins
+Titandrake - draws Copper, Copper
+Titandrake - plays Haggler
+Titandrake - plays 5 Copper
+Titandrake - buys Dame Josephine
+Titandrake - gains Tournament
+Titandrake - gains Dame Josephine
+Titandrake - buys Tournament
+Titandrake - gains Menagerie
+Titandrake - gains Tournament
+Titandrake - draws Estate, Hamlet, Menagerie, Silver, Tournament
+ 
+---------- HF: turn 15 ----------
+HF - plays Tactician
+HF - discards: Copper, Estate, Copper, Copper
+HF - draws Hamlet, Silver, Estate, Estate, Scheme
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Hamlet, Silver, Tournament
+Titandrake - draws Copper, Duchy, Tournament
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Duchy
+Titandrake - receives one buy
+Titandrake - plays Tournament
+Titandrake - draws Followers
+Titandrake - plays Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Followers
+Titandrake - draws Copper, Tournament
+Titandrake - gains Estate
+HF - gains Curse
+HF - discards Estate
+HF - discards Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Estate, Dame Josephine, Tactician, Haggler
+ 
+---------- HF: turn 16 ----------
+HF - duration Tactician
+HF - draws Curse, Gold, Menagerie, Tournament, Province
+HF - plays Menagerie
+HF - reveals hand: Hamlet, Silver, Scheme, Curse, Gold, Tournament, Province
+HF - shuffles deck
+HF - draws Tournament, Estate, Copper
+HF - plays Scheme
+HF - draws Copper
+HF - plays Hamlet
+HF - draws Province
+HF - discards Curse
+HF - receives one buy
+HF - plays Tournament
+HF - reveals Province
+Titandrake - reveals Province
+HF - discards Province
+HF - gains Duchy
+HF - plays Tournament
+HF - reveals Province
+Titandrake - reveals Province
+HF - discards Province
+HF - gains Duchy
+HF - plays 2 Copper, 1 Silver, 1 Gold
+HF - buys Duchy
+HF - gains Duchy
+HF - buys Estate
+HF - gains Estate
+HF - Scheme choice: Tactician
+HF - draws Tactician, Duchy, Duchy, Duchy, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Estate, Dame Josephine, Haggler, Province
+Titandrake - draws Menagerie, Trusty Steed, Duchy, Copper, Province
+ 
+---------- HF: turn 17 ----------
+HF - plays Tactician
+HF - discards: Duchy, Duchy, Duchy, Curse
+HF - draws Copper, Gold, Princess, Estate, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Tactician
+Titandrake - draws Tournament, Estate, Copper, Copper, Estate
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - draws Duchy
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Trusty Steed, Duchy, Copper, Estate, Copper, Copper, Estate, Duchy
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Trusty Steed
+Titandrake - draws Hamlet, Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - moves deck to discards
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Duchy
+Titandrake - receives one buy
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Followers, Province, Tournament, Province, Copper
+ 
+---------- HF: turn 18 ----------
+HF - duration Tactician
+HF - draws Estate, Copper, Copper, Hamlet, Province
+HF - plays Hamlet
+HF - draws Copper
+HF - discards Estate
+HF - receives one action
+HF - discards Estate
+HF - receives one buy
+HF - plays Princess
+HF - plays 5 Copper, 1 Gold
+HF - buys Province
+HF - gains Province
+HF - buys Estate
+HF - gains Estate
+HF - buys Tournament
+HF - gains Tournament
+HF - buys Hamlet
+HF - gains Hamlet
+HF - draws Gold, Province, Duchy
+HF - shuffles deck
+HF - draws Tactician, Tournament
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Tournament
+HF - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Diadem
+Titandrake - plays Followers
+Titandrake - draws Diadem, Menagerie
+HF - gains Curse
+HF - discards Duchy
+HF - discards Gold
+Titandrake - plays 1 Copper, 1 Diadem
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Copper, Duchy, Tournament, Silver, Estate
+ 
+---------- HF: turn 19 ----------
+HF - plays Tactician
+HF - discards: Tournament, Province
+HF - draws Curse, Copper, Duchy, Duchy, Gold
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Silver, Estate, Dame Josephine, Haggler, Tournament
+ 
+---------- HF: turn 20 ----------
+HF - duration Tactician
+HF - draws Hamlet, Gold, Silver, Estate, Tournament
+HF - plays Tournament
+HF - draws Estate
+HF - plays Hamlet
+HF - draws Province
+HF - discards Province
+HF - receives one action
+HF - discards Estate
+HF - receives one buy
+HF - plays 2 Gold, 1 Copper, 1 Silver
+HF - buys Province
+HF - gains Province
+HF - draws Copper, Scheme, Estate, Province, Province
+ 
+------------ Game Over ------------
+HF - cards: 3 Tournament, 3 Hamlet, 1 Scheme, 1 Tactician, 1 Menagerie, 1 Princess, 7 Copper, 3 Gold, 1 Silver, 6 Province, 5 Estate, 5 Duchy, 3 Curse
+HF - total victory points: 53
+HF - turns: 20
+ 
+Titandrake - cards: 4 Tournament, 2 Menagerie, 2 Scheme, 1 Dame Josephine, 1 Haggler, 1 Tactician, 1 Trusty Steed, 1 Hamlet, 1 Followers, 7 Copper, 5 Silver, 1 Diadem, 9 Estate, 3 Duchy, 2 Province
+Titandrake - total victory points: 32
+Titandrake - turns: 19
+ 
+1st place: HF
+2nd place: Titandrake
+ 

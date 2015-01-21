@@ -1,0 +1,689 @@
+------------ Game Setup ------------
+Supply cards: University, Urchin, Familiar, Procession, Band of Misfits, Wharf, Altar, Border Village, Farmland, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Beax - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Beax - shuffles deck
+Titandrake - shuffles deck
+Beax - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Beax: turn 1 ----------
+Beax - plays 3 Copper
+Beax - buys Urchin
+Beax - gains Urchin
+Beax - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Wharf, Copper
+ 
+---------- Beax: turn 2 ----------
+Beax - plays 4 Copper
+Beax - buys Potion
+Beax - gains Potion
+Beax - shuffles deck
+Beax - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Beax: turn 3 ----------
+Beax - plays 4 Copper
+Beax - buys Urchin
+Beax - gains Urchin
+Beax - draws Copper, Estate, Copper, Urchin, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Band of Misfits
+Titandrake - gains Band of Misfits
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Estate, Copper
+ 
+---------- Beax: turn 4 ----------
+Beax - plays Urchin
+Beax - draws Estate
+Titandrake - discards Estate
+Beax - plays 3 Copper
+Beax - buys Silver
+Beax - gains Silver
+Beax - draws Potion
+Beax - shuffles deck
+Beax - draws Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Band of Misfits
+Titandrake - plays 6 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Potion
+Titandrake - draws Estate, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Band of Misfits
+ 
+---------- Beax: turn 5 ----------
+Beax - plays 2 Copper, 1 Potion, 1 Silver
+Beax - buys Familiar
+Beax - gains Familiar
+Beax - draws Copper, Urchin, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Border Village
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Band of Misfits
+Titandrake - chooses Urchin
+Titandrake - plays Urchin
+Titandrake - draws Copper
+Beax - discards Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Wharf, Copper, Copper, Potion, Copper
+ 
+---------- Beax: turn 6 ----------
+Beax - plays Urchin
+Beax - draws Urchin
+Titandrake - discards Copper
+Beax - plays Urchin
+Beax - trashes Urchin
+Beax - gains Mercenary
+Beax - draws Copper
+Beax - plays 4 Copper
+Beax - buys Urchin
+Beax - gains Urchin
+Beax - draws Copper, Estate
+Beax - shuffles deck
+Beax - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Band of Misfits, Wharf, Estate, Copper, Border Village
+ 
+---------- Beax: turn 7 ----------
+Beax - plays 4 Copper
+Beax - buys Silver
+Beax - gains Silver
+Beax - draws Urchin, Silver, Copper, Mercenary, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Wharf
+Titandrake - draws Urchin, Copper
+Titandrake - plays Urchin
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Beax - discards Copper
+Titandrake - plays Band of Misfits
+Titandrake - chooses Urchin
+Titandrake - plays Urchin
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - draws Estate
+Titandrake - plays 5 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Familiar, Potion, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Beax: turn 8 ----------
+Beax - plays Urchin
+Beax - draws Potion
+Titandrake - discards Copper
+Beax - plays Mercenary
+Beax - trashes Urchin
+Beax - gains Mercenary
+Beax - plays 1 Silver, 1 Copper, 1 Potion
+Beax - buys Familiar
+Beax - gains Familiar
+Beax - draws Estate, Familiar, Urchin, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Wharf
+Titandrake - draws Mercenary, Copper
+Titandrake - plays Familiar
+Titandrake - draws Estate
+Beax - gains Curse
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Wharf
+Beax - discards Estate
+Beax - discards Estate
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Estate, Silver, Border Village, Copper, Estate
+ 
+---------- Beax: turn 9 ----------
+Beax - plays Familiar
+Beax - shuffles deck
+Beax - draws Mercenary
+Titandrake - gains Curse
+Beax - plays Urchin
+Beax - draws Potion
+Titandrake - discards Estate
+Beax - plays Mercenary
+Beax - trashes Urchin
+Beax - gains Mercenary
+Beax - trashes Copper, Potion
+Beax - draws Curse, Silver
+Titandrake - discards Estate
+Beax - draws Estate, Copper, Estate, Copper, Mercenary
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Band of Misfits
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Potion, Border Village
+ 
+---------- Beax: turn 10 ----------
+Beax - plays Mercenary
+Beax - trashes Estate, Estate
+Beax - draws Silver, Estate
+Titandrake - discards Estate
+Titandrake - discards Potion
+Beax - plays 2 Copper, 1 Silver
+Beax - buys Border Village
+Beax - gains Border Village
+Beax - gains Wharf
+Beax - draws Copper, Copper, Copper, Familiar, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Band of Misfits
+Titandrake - chooses Urchin
+Titandrake - plays Urchin
+Titandrake - draws Estate
+Beax - discards Copper
+Titandrake - draws Curse, Copper, Copper, Mercenary, Copper
+ 
+---------- Beax: turn 11 ----------
+Beax - plays Familiar
+Beax - shuffles deck
+Beax - draws Mercenary
+Titandrake - gains Curse
+Beax - plays Mercenary
+Beax - trashes Copper, Copper
+Beax - draws Estate, Mercenary
+Titandrake - discards Copper
+Titandrake - discards Copper
+Beax - plays 1 Copper
+Beax - buys Silver
+Beax - gains Silver
+Beax - draws Copper, Border Village, Mercenary, Curse, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Curse, Copper
+Titandrake - draws Copper, Familiar
+Beax - discards Copper
+Beax - discards Copper
+Titandrake - plays 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Wharf, Silver, Familiar, Wharf, Silver
+ 
+---------- Beax: turn 12 ----------
+Beax - plays Border Village
+Beax - draws Familiar
+Beax - plays Familiar
+Beax - draws Copper
+Titandrake - gains Curse
+Beax - plays Mercenary
+Beax - trashes Copper, Curse
+Beax - draws Silver, Wharf
+Titandrake - discards Wharf
+Titandrake - discards Silver
+Beax - plays Wharf
+Beax - draws Silver
+Beax - shuffles deck
+Beax - draws Silver
+Beax - plays 3 Silver
+Beax - buys Border Village
+Beax - gains Border Village
+Beax - gains Wharf
+Beax - draws Mercenary, Familiar, Copper, Copper, Mercenary
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Familiar
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Beax - gains Curse
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Familiar, Curse, Estate, Copper, Copper
+ 
+---------- Beax: turn 13 ----------
+Beax - duration Wharf
+Beax - draws Estate, Copper
+Beax - plays Familiar
+Beax - shuffles deck
+Beax - draws Silver
+Titandrake - gains Curse
+Beax - plays Mercenary
+Beax - trashes Estate, Copper
+Beax - draws Border Village, Border Village
+Titandrake - discards Curse
+Titandrake - discards Estate
+Beax - plays 2 Copper, 1 Silver
+Beax - buys Border Village
+Beax - gains Border Village
+Beax - gains Wharf
+Beax - draws Wharf, Silver, Silver, Mercenary, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws Band of Misfits, Estate
+Titandrake - plays Familiar
+Titandrake - draws Border Village
+Beax - gains Curse
+Titandrake - plays Border Village
+Titandrake - draws Potion
+Titandrake - plays Band of Misfits
+Titandrake - chooses Urchin
+Titandrake - plays Urchin
+Titandrake - draws Copper
+Beax - discards Silver
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Curse, Copper, Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- Beax: turn 14 ----------
+Beax - plays Wharf
+Beax - draws Familiar
+Beax - shuffles deck
+Beax - draws Familiar
+Beax - draws Border Village, Curse, Silver, Copper, Border Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Curse, Curse
+Titandrake - draws Estate, Border Village
+Beax - discards Curse
+Beax - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Familiar, Copper, Silver
+ 
+---------- Beax: turn 15 ----------
+Beax - duration Wharf
+Beax - draws Mercenary, Wharf
+Beax - plays Border Village
+Beax - draws Border Village
+Beax - plays Border Village
+Beax - draws Copper
+Beax - plays Border Village
+Beax - draws Wharf
+Beax - plays Wharf
+Beax - draws Silver, Mercenary
+Beax - plays Wharf
+Beax - shuffles deck
+Beax - draws Curse, Familiar
+Beax - plays Familiar
+Beax - draws Familiar
+Titandrake - gains Curse
+Beax - plays Familiar
+Beax - draws Curse
+Titandrake - gains Curse
+Beax - plays Mercenary
+Beax - trashes Curse, Curse
+Beax - draws Mercenary, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Beax - plays Mercenary
+Beax - trashes Copper, Copper
+Beax - draws Silver
+Beax - plays 3 Silver
+Beax - buys Border Village
+Beax - gains Border Village
+Beax - gains Wharf
+Beax - buys Silver
+Beax - gains Silver
+Beax - shuffles deck
+Beax - draws Silver, Mercenary, Silver, Mercenary, Wharf
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Familiar
+Titandrake - draws Estate
+Beax - gains Curse
+Titandrake - plays 2 Silver
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Wharf, Goons, Curse, Familiar, Potion
+ 
+---------- Beax: turn 16 ----------
+Beax - duration Wharf
+Beax - draws Border Village, Familiar
+Beax - duration Wharf
+Beax - draws Mercenary, Silver
+Beax - plays Border Village
+Beax - draws Silver
+Beax - plays Familiar
+Beax - draws Familiar
+Beax - plays Familiar
+Beax - draws Border Village
+Beax - plays Border Village
+Beax - draws Border Village
+Beax - plays Border Village
+Beax - draws Wharf
+Beax - plays Wharf
+Beax - draws Border Village
+Beax - shuffles deck
+Beax - draws Curse
+Beax - plays Border Village
+Beax - plays Wharf
+Beax - plays Mercenary
+Beax - trashes Curse, Mercenary
+Titandrake - discards Curse
+Titandrake - discards Goons
+Beax - plays 4 Silver
+Beax - buys Border Village
+Beax - gains Border Village
+Beax - gains Wharf
+Beax - buys Silver
+Beax - gains Silver
+Beax - shuffles deck
+Beax - draws Wharf, Wharf, Silver, Border Village, Familiar
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Familiar
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays 1 Potion, 1 Copper, 1 Silver
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws University, Band of Misfits
+Titandrake - shuffles deck
+Titandrake - draws Silver, Mercenary, Curse
+ 
+---------- Beax: turn 17 ----------
+Beax - duration Wharf
+Beax - draws Border Village, Mercenary
+Beax - duration Wharf
+Beax - draws Familiar, Wharf
+Beax - plays Border Village
+Beax - draws Border Village
+Beax - plays Familiar
+Beax - draws Silver
+Beax - plays Border Village
+Beax - draws Mercenary
+Beax - plays Familiar
+Beax - draws Silver
+Beax - plays Border Village
+Beax - draws Silver
+Beax - plays Wharf
+Beax - draws Border Village, Border Village
+Beax - plays Border Village
+Beax - draws Silver
+Beax - plays Border Village
+Beax - plays Wharf
+Beax - plays Wharf
+Beax - plays Mercenary
+Beax - trashes Mercenary, Silver
+Titandrake - discards Curse
+Titandrake - discards Band of Misfits
+Beax - plays 4 Silver
+Beax - buys Goons
+Beax - gains Goons
+Beax - buys Silver
+Beax - gains Silver
+Beax - shuffles deck
+Beax - draws Familiar, Border Village, Border Village, Wharf, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Wharf
+Titandrake - draws Potion, Copper
+Titandrake - plays University
+Titandrake - gains Wharf
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Potion
+Titandrake - draws Goons, Copper
+Beax - discards Silver
+Beax - discards Familiar
+Titandrake - plays Goons
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Border Village
+Titandrake - receives 1 victory point chips
+Titandrake - gains Border Village
+Titandrake - gains Wharf
+Titandrake - buys Copper
+Titandrake - receives 1 victory point chips
+Titandrake - gains Copper
+Titandrake - draws Curse, Silver, Copper, Copper, Wharf
+ 
+---------- Beax: turn 18 ----------
+Beax - duration Wharf
+Beax - draws Border Village, Border Village
+Beax - duration Wharf
+Beax - draws Goons, Wharf
+Beax - duration Wharf
+Beax - draws Silver, Mercenary
+Beax - plays Border Village
+Beax - draws Silver
+Beax - plays Border Village
+Beax - draws Silver
+Beax - plays Border Village
+Beax - draws Familiar
+Beax - plays Border Village
+Beax - draws Silver
+Beax - plays Wharf
+Beax - draws Border Village
+Beax - shuffles deck
+Beax - draws Silver
+Beax - plays Border Village
+Beax - draws Familiar
+Beax - plays Familiar
+Beax - plays Familiar
+Beax - plays Goons
+Titandrake - discards Curse
+Titandrake - discards Copper
+Beax - plays Wharf
+Beax - plays 5 Silver
+Beax - buys Goons
+Beax - receives 1 victory point chips
+Beax - gains Goons
+Beax - buys Border Village
+Beax - receives 1 victory point chips
+Beax - gains Border Village
+Beax - gains Wharf
+Beax - shuffles deck
+Beax - draws Border Village, Silver, Wharf, Border Village, Border Village
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Wharf
+Titandrake - draws Silver, University
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Familiar, Familiar, Estate, Curse, Border Village
+ 
+---------- Beax: turn 19 ----------
+Beax - duration Wharf
+Beax - draws Familiar, Goons
+Beax - duration Wharf
+Beax - draws Border Village, Silver
+Beax - plays Border Village
+Beax - draws Mercenary
+Beax - plays Border Village
+Beax - draws Silver
+Beax - plays Wharf
+Beax - draws Silver, Familiar
+Beax - plays Border Village
+Beax - draws Wharf
+Beax - plays Border Village
+Beax - draws Wharf
+Beax - plays Wharf
+Beax - draws Goons, Border Village
+Beax - plays Border Village
+Beax - draws Border Village
+Beax - plays Border Village
+Beax - draws Wharf
+Beax - plays Familiar
+Beax - draws Silver
+Beax - plays Familiar
+Beax - plays Wharf
+Beax - plays Wharf
+Beax - plays Goons
+Titandrake - discards Estate
+Titandrake - discards Curse
+Beax - plays Goons
+Beax - plays 5 Silver
+Beax - buys Farmland
+Beax - trashes Mercenary
+Beax - gains Estate
+Beax - receives 1 victory point chips
+Beax - receives 1 victory point chips
+Beax - gains Farmland
+Beax - buys Goons
+Beax - receives 1 victory point chips
+Beax - receives 1 victory point chips
+Beax - gains Goons
+Beax - shuffles deck
+Beax - draws Silver, Border Village, Wharf, Border Village, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays Border Village
+Titandrake - draws Urchin
+Titandrake - plays Urchin
+Titandrake - draws Estate
+Beax - discards Silver
+Titandrake - plays Familiar
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Wharf, Mercenary, Wharf, Band of Misfits, Procession
+ 
+---------- Beax: turn 20 ----------
+Beax - duration Wharf
+Beax - draws Familiar, Estate
+Beax - duration Wharf
+Beax - draws Silver, Border Village
+Beax - duration Wharf
+Beax - draws Farmland, Goons
+Beax - duration Wharf
+Beax - draws Silver, Silver
+Beax - plays Border Village
+Beax - draws Goons
+Beax - plays Border Village
+Beax - draws Goons
+Beax - plays Border Village
+Beax - draws Border Village
+Beax - plays Familiar
+Beax - draws Familiar
+Beax - plays Border Village
+Beax - draws Wharf
+Beax - plays Familiar
+Beax - draws Border Village
+Beax - plays Border Village
+Beax - draws Border Village
+Beax - plays Border Village
+Beax - shuffles deck
+Beax - draws Silver
+Beax - plays Goons
+Titandrake - discards Wharf
+Titandrake - discards Mercenary
+Beax - plays Goons
+Beax - plays Goons
+Beax - plays Wharf
+Beax - plays Wharf
+Beax - plays 5 Silver
+Beax - buys Farmland
+Beax - trashes Farmland
+Beax - gains Province
+Beax - receives 1 victory point chips
+Beax - receives 1 victory point chips
+Beax - receives 1 victory point chips
+Beax - gains Farmland
+Beax - buys Province
+Beax - receives 1 victory point chips
+Beax - receives 1 victory point chips
+Beax - receives 1 victory point chips
+Beax - gains Province
+Beax - shuffles deck
+Beax - draws Goons, Wharf, Silver, Familiar, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Procession
+Titandrake - plays Band of Misfits
+Titandrake - chooses Urchin
+Titandrake - plays Urchin
+Titandrake - draws University
+Beax - discards Silver
+Titandrake - plays Urchin
+Titandrake - draws Curse
+Titandrake - trashes Urchin
+Titandrake - gains Border Village
+Titandrake - gains Band of Misfits
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays University
+Titandrake - gains Urchin
+ 
+------------ Game Over ------------
+Beax - cards: 6 Wharf, 6 Border Village, 3 Goons, 2 Familiar, 5 Silver, 2 Province, 1 Estate, 1 Farmland
+Beax - victory point chips: 12
+Beax - total victory points: 27
+Beax - turns: 20
+ 
+Titandrake - resigned
+Titandrake - cards: 3 Wharf, 3 Border Village, 2 Familiar, 2 Urchin, 2 Mercenary, 1 University, 1 Band of Misfits, 1 Goons, 5 Copper, 4 Silver, 2 Estate, 3 Curse
+Titandrake - victory point chips: 2
+Titandrake - total victory points: 1
+Titandrake - turns: 20
+ 
+1st place: Beax
+2nd place: Titandrake
+ 

@@ -1,0 +1,881 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Lookout, Familiar, Advisor, Navigator, Throne Room, Bandit Camp, Cartographer, Rabble, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+rabblerabblerabble - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+rabblerabblerabble - shuffles deck
+Titandrake - shuffles deck
+rabblerabblerabble - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- rabblerabblerabble: turn 1 ----------
+rabblerabblerabble - plays 4 Copper
+rabblerabblerabble - buys Potion
+rabblerabblerabble - gains Potion
+rabblerabblerabble - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Estate, Potion
+ 
+---------- rabblerabblerabble: turn 2 ----------
+rabblerabblerabble - plays 3 Copper
+rabblerabblerabble - buys Silver
+rabblerabblerabble - gains Silver
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- rabblerabblerabble: turn 3 ----------
+rabblerabblerabble - plays 3 Copper
+rabblerabblerabble - buys Lookout
+rabblerabblerabble - gains Lookout
+rabblerabblerabble - draws Copper, Copper, Copper, Copper, Potion
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Potion
+ 
+---------- rabblerabblerabble: turn 4 ----------
+rabblerabblerabble - plays 4 Copper, 1 Potion
+rabblerabblerabble - buys Familiar
+rabblerabblerabble - gains Familiar
+rabblerabblerabble - draws Silver, Estate
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - draws Estate, Familiar, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Estate, Lookout, Copper, Familiar, Estate
+ 
+---------- rabblerabblerabble: turn 5 ----------
+rabblerabblerabble - plays Familiar
+rabblerabblerabble - draws Copper
+Titandrake - gains Curse
+rabblerabblerabble - plays 2 Copper, 1 Silver
+rabblerabblerabble - buys Navigator
+rabblerabblerabble - gains Navigator
+rabblerabblerabble - draws Copper, Potion, Estate, Lookout, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Familiar
+Titandrake - draws Copper
+rabblerabblerabble - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper
+ 
+---------- rabblerabblerabble: turn 6 ----------
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - trashes Copper
+rabblerabblerabble - discards Copper
+rabblerabblerabble - places Copper on top of deck
+rabblerabblerabble - plays 2 Copper, 1 Potion
+rabblerabblerabble - buys Candlestick Maker
+rabblerabblerabble - gains Candlestick Maker
+rabblerabblerabble - draws Copper
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - draws Potion, Navigator, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Candlestick Maker, Lookout, Familiar, Copper, Copper
+ 
+---------- rabblerabblerabble: turn 7 ----------
+rabblerabblerabble - plays Navigator
+rabblerabblerabble - looks at Lookout, Familiar, Estate, Copper, Estate
+rabblerabblerabble - discards: Lookout, Familiar, Estate, Copper, Estate
+rabblerabblerabble - plays 3 Copper, 1 Potion
+rabblerabblerabble - buys Familiar
+rabblerabblerabble - gains Familiar
+rabblerabblerabble - draws Candlestick Maker, Silver, Copper, Curse, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Estate
+Titandrake - places Silver on top of deck
+Titandrake - plays Familiar
+Titandrake - draws Silver
+rabblerabblerabble - gains Curse
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Familiar, Potion, Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Bandit Camp
+ 
+---------- rabblerabblerabble: turn 8 ----------
+rabblerabblerabble - plays Candlestick Maker
+rabblerabblerabble - receives 1 coin token
+rabblerabblerabble - plays 1 Silver, 1 Copper
+rabblerabblerabble - buys Lookout
+rabblerabblerabble - gains Lookout
+rabblerabblerabble - draws Copper
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - draws Copper, Candlestick Maker, Navigator, Familiar
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Familiar
+Titandrake - draws Candlestick Maker
+rabblerabblerabble - gains Curse
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - uses 1 coin token
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Copper, Copper, Familiar, Cartographer, Estate
+ 
+---------- rabblerabblerabble: turn 9 ----------
+rabblerabblerabble - plays Familiar
+rabblerabblerabble - draws Familiar
+Titandrake - gains Curse
+rabblerabblerabble - plays Familiar
+rabblerabblerabble - draws Lookout
+Titandrake - gains Curse
+rabblerabblerabble - plays Candlestick Maker
+rabblerabblerabble - receives 1 coin token
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - trashes Curse
+rabblerabblerabble - discards Potion
+rabblerabblerabble - places Copper on top of deck
+rabblerabblerabble - plays Navigator
+rabblerabblerabble - looks at Copper, Copper, Estate, Curse, Silver
+rabblerabblerabble - discards: Copper, Copper, Estate, Curse, Silver
+rabblerabblerabble - plays 2 Copper
+rabblerabblerabble - uses 1 coin token
+rabblerabblerabble - buys Bandit Camp
+rabblerabblerabble - gains Bandit Camp
+rabblerabblerabble - draws Lookout, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Copper, Silver, Lookout, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Lookout on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Familiar
+Titandrake - draws Silver
+rabblerabblerabble - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Lookout
+Titandrake - shuffles deck
+Titandrake - draws Familiar, Bandit Camp, Copper, Copper
+ 
+---------- rabblerabblerabble: turn 10 ----------
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - trashes Curse
+rabblerabblerabble - discards Copper
+rabblerabblerabble - places Familiar on top of deck
+rabblerabblerabble - plays 2 Copper
+rabblerabblerabble - uses 1 coin token
+rabblerabblerabble - buys Silver
+rabblerabblerabble - gains Silver
+rabblerabblerabble - draws Familiar, Bandit Camp, Curse, Curse, Navigator
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Potion
+Titandrake - discards Estate
+Titandrake - places Bandit Camp on top of deck
+Titandrake - plays Bandit Camp
+Titandrake - draws Bandit Camp
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Spoils
+Titandrake - gains Spoils
+Titandrake - plays Familiar
+Titandrake - draws Candlestick Maker
+rabblerabblerabble - gains Curse
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Rabble
+Titandrake - gains Rabble
+Titandrake - draws Familiar, Copper, Familiar, Curse, Curse
+ 
+---------- rabblerabblerabble: turn 11 ----------
+rabblerabblerabble - plays Bandit Camp
+rabblerabblerabble - draws Potion
+rabblerabblerabble - gains Spoils
+rabblerabblerabble - plays Familiar
+rabblerabblerabble - draws Silver
+Titandrake - gains Curse
+rabblerabblerabble - plays Navigator
+rabblerabblerabble - looks at Lookout, Estate, Copper, Familiar, Copper
+rabblerabblerabble - discards: Lookout, Estate, Copper, Familiar, Copper
+rabblerabblerabble - plays 1 Potion, 1 Silver
+rabblerabblerabble - buys Throne Room
+rabblerabblerabble - gains Throne Room
+rabblerabblerabble - draws Copper, Candlestick Maker
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Familiar
+Titandrake - draws Curse
+rabblerabblerabble - gains Curse
+Titandrake - plays Familiar
+Titandrake - draws Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Copper, Silver, Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Curse, Bandit Camp, Curse, Copper
+ 
+---------- rabblerabblerabble: turn 12 ----------
+rabblerabblerabble - plays Candlestick Maker
+rabblerabblerabble - receives 1 coin token
+rabblerabblerabble - plays 4 Copper
+rabblerabblerabble - uses 1 coin token
+rabblerabblerabble - buys Cartographer
+rabblerabblerabble - gains Cartographer
+rabblerabblerabble - draws Bandit Camp, Curse, Estate, Copper, Navigator
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Familiar
+Titandrake - gains Spoils
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Copper, Copper, Curse, Estate, Copper
+ 
+---------- rabblerabblerabble: turn 13 ----------
+rabblerabblerabble - plays Bandit Camp
+rabblerabblerabble - draws Curse
+rabblerabblerabble - gains Spoils
+rabblerabblerabble - plays Navigator
+rabblerabblerabble - looks at Lookout, Silver, Throne Room, Lookout, Familiar
+rabblerabblerabble - places Lookout on top of deck
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - places Throne Room on top of deck
+rabblerabblerabble - places Lookout on top of deck
+rabblerabblerabble - places Familiar on top of deck
+rabblerabblerabble - plays 1 Copper
+rabblerabblerabble - buys Silver
+rabblerabblerabble - gains Silver
+rabblerabblerabble - draws Familiar, Lookout, Throne Room, Silver, Lookout
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Lookout, Curse, Spoils, Bandit Camp, Rabble
+ 
+---------- rabblerabblerabble: turn 14 ----------
+rabblerabblerabble - plays Familiar
+rabblerabblerabble - draws Spoils
+rabblerabblerabble - plays Throne Room
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - trashes Curse
+rabblerabblerabble - discards Familiar
+rabblerabblerabble - places Copper on top of deck
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - trashes Potion
+rabblerabblerabble - discards Copper
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - trashes Estate
+rabblerabblerabble - discards Estate
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - plays 1 Silver
+rabblerabblerabble - plays Spoils
+rabblerabblerabble - buys Bandit Camp
+rabblerabblerabble - gains Bandit Camp
+rabblerabblerabble - draws Silver
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - draws Lookout, Copper, Copper, Lookout
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Familiar on top of deck
+Titandrake - plays Bandit Camp
+Titandrake - draws Familiar
+Titandrake - gains Spoils
+Titandrake - plays Rabble
+Titandrake - draws Spoils, Candlestick Maker, Cartographer
+rabblerabblerabble - reveals Familiar, Copper, Curse
+rabblerabblerabble - discards: Familiar, Copper
+rabblerabblerabble - places Curse on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Familiar
+Titandrake - looks at Lookout
+Titandrake - shuffles deck
+Titandrake - looks at Silver, Copper, Spoils
+Titandrake - discards Copper
+Titandrake - discards Spoils
+Titandrake - places Silver on top of deck
+Titandrake - places Lookout on top of deck
+Titandrake - plays Familiar
+Titandrake - draws Lookout
+Titandrake - plays Familiar
+Titandrake - draws Silver
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Familiar
+Titandrake - places Silver on top of deck
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Silver
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - uses 1 coin token
+Titandrake - buys Navigator
+Titandrake - gains Navigator
+Titandrake - buys Rabble
+Titandrake - gains Rabble
+Titandrake - draws Silver, Copper, Curse, Spoils, Copper
+ 
+---------- rabblerabblerabble: turn 15 ----------
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - trashes Curse
+rabblerabblerabble - discards Copper
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - trashes Familiar
+rabblerabblerabble - discards Silver
+rabblerabblerabble - places Spoils on top of deck
+rabblerabblerabble - plays 2 Copper, 1 Silver
+rabblerabblerabble - buys Throne Room
+rabblerabblerabble - gains Throne Room
+rabblerabblerabble - draws Spoils, Estate, Copper, Silver, Throne Room
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Bandit Camp, Throne Room, Copper, Curse, Estate
+ 
+---------- rabblerabblerabble: turn 16 ----------
+rabblerabblerabble - plays 1 Copper, 1 Silver
+rabblerabblerabble - plays Spoils
+rabblerabblerabble - buys Gold
+rabblerabblerabble - gains Gold
+rabblerabblerabble - draws Cartographer, Bandit Camp, Estate, Curse, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Curse
+Titandrake - gains Spoils
+Titandrake - plays 2 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Throne Room, Copper, Spoils, Copper, Navigator
+ 
+---------- rabblerabblerabble: turn 17 ----------
+rabblerabblerabble - plays Cartographer
+rabblerabblerabble - draws Candlestick Maker
+rabblerabblerabble - looks at Bandit Camp, Curse, Navigator
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - looks at Familiar
+rabblerabblerabble - discards Curse
+rabblerabblerabble - discards Familiar
+rabblerabblerabble - places Navigator on top of deck
+rabblerabblerabble - places Bandit Camp on top of deck
+rabblerabblerabble - plays Bandit Camp
+rabblerabblerabble - draws Bandit Camp
+rabblerabblerabble - gains Spoils
+rabblerabblerabble - plays Bandit Camp
+rabblerabblerabble - draws Navigator
+rabblerabblerabble - gains Spoils
+rabblerabblerabble - plays Candlestick Maker
+rabblerabblerabble - receives 1 coin token
+rabblerabblerabble - plays Navigator
+rabblerabblerabble - looks at Copper, Lookout, Silver, Throne Room, Gold
+rabblerabblerabble - places Copper on top of deck
+rabblerabblerabble - places Lookout on top of deck
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - places Throne Room on top of deck
+rabblerabblerabble - places Gold on top of deck
+rabblerabblerabble - plays 1 Copper
+rabblerabblerabble - buys Silver
+rabblerabblerabble - gains Silver
+rabblerabblerabble - draws Gold, Throne Room, Silver, Lookout, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Navigator
+Titandrake - looks at Spoils, Familiar, Silver, Candlestick Maker, Curse
+Titandrake - discards: Spoils, Familiar, Silver, Candlestick Maker, Curse
+Titandrake - plays Navigator
+Titandrake - looks at Bandit Camp, Curse, Familiar, Candlestick Maker, Copper
+Titandrake - discards: Bandit Camp, Curse, Familiar, Candlestick Maker, Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Lookout, Rabble, Curse, Copper
+ 
+---------- rabblerabblerabble: turn 18 ----------
+rabblerabblerabble - plays Throne Room
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - trashes Copper
+rabblerabblerabble - discards Copper
+rabblerabblerabble - places Copper on top of deck
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - trashes Lookout
+rabblerabblerabble - discards Copper
+rabblerabblerabble - places Throne Room on top of deck
+rabblerabblerabble - plays 1 Gold, 1 Silver, 1 Copper
+rabblerabblerabble - buys Gold
+rabblerabblerabble - gains Gold
+rabblerabblerabble - draws Throne Room, Copper, Silver, Estate, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Familiar
+Titandrake - discards Silver
+Titandrake - places Spoils on top of deck
+Titandrake - plays Rabble
+Titandrake - draws Spoils, Cartographer, Copper
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - reveals Curse, Copper, Familiar
+rabblerabblerabble - discards: Copper, Familiar
+rabblerabblerabble - places Curse on top of deck
+Titandrake - plays 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Curse, Lookout, Gold, Bandit Camp, Rabble
+ 
+---------- rabblerabblerabble: turn 19 ----------
+rabblerabblerabble - plays 2 Silver, 1 Copper
+rabblerabblerabble - buys Rabble
+rabblerabblerabble - gains Rabble
+rabblerabblerabble - draws Curse, Estate, Spoils, Cartographer, Throne Room
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Copper
+Titandrake - discards Province
+Titandrake - places Silver on top of deck
+Titandrake - plays Bandit Camp
+Titandrake - draws Silver
+Titandrake - gains Spoils
+Titandrake - plays Rabble
+Titandrake - draws Rabble, Silver, Spoils
+rabblerabblerabble - reveals Gold, Copper, Bandit Camp
+rabblerabblerabble - discards: Gold, Copper, Bandit Camp
+Titandrake - plays Rabble
+Titandrake - draws Candlestick Maker, Throne Room, Curse
+rabblerabblerabble - reveals Curse, Lookout, Gold
+rabblerabblerabble - discards: Lookout, Gold
+rabblerabblerabble - places Curse on top of deck
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Familiar, Estate, Copper, Candlestick Maker, Copper
+ 
+---------- rabblerabblerabble: turn 20 ----------
+rabblerabblerabble - plays Throne Room
+rabblerabblerabble - plays Cartographer
+rabblerabblerabble - draws Curse
+rabblerabblerabble - looks at Candlestick Maker, Spoils, Silver, Silver
+rabblerabblerabble - discards Candlestick Maker
+rabblerabblerabble - places Spoils on top of deck
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - plays Cartographer
+rabblerabblerabble - draws Silver
+rabblerabblerabble - looks at Silver, Spoils, Navigator, Copper
+rabblerabblerabble - discards Copper
+rabblerabblerabble - places Navigator on top of deck
+rabblerabblerabble - places Spoils on top of deck
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - plays 1 Silver
+rabblerabblerabble - plays Spoils
+rabblerabblerabble - buys Rabble
+rabblerabblerabble - gains Rabble
+rabblerabblerabble - draws Silver, Spoils, Navigator, Bandit Camp, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Familiar
+Titandrake - draws Bandit Camp
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Copper, Bandit Camp, Cartographer, Curse, Lookout
+ 
+---------- rabblerabblerabble: turn 21 ----------
+rabblerabblerabble - plays Bandit Camp
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - draws Familiar
+rabblerabblerabble - gains Spoils
+rabblerabblerabble - plays Navigator
+rabblerabblerabble - looks at Rabble, Estate, Copper, Bandit Camp, Rabble
+rabblerabblerabble - places Rabble on top of deck
+rabblerabblerabble - places Rabble on top of deck
+rabblerabblerabble - places Copper on top of deck
+rabblerabblerabble - places Bandit Camp on top of deck
+rabblerabblerabble - places Estate on top of deck
+rabblerabblerabble - plays Familiar
+rabblerabblerabble - draws Estate
+rabblerabblerabble - plays 1 Silver, 1 Copper
+rabblerabblerabble - plays Spoils
+rabblerabblerabble - buys Province
+rabblerabblerabble - gains Province
+rabblerabblerabble - draws Bandit Camp, Copper, Rabble, Rabble, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Familiar
+Titandrake - places Navigator on top of deck
+Titandrake - plays Bandit Camp
+Titandrake - draws Navigator
+Titandrake - gains Spoils
+Titandrake - plays Navigator
+Titandrake - shuffles deck
+Titandrake - looks at Spoils, Rabble, Province, Silver, Spoils
+Titandrake - places Spoils on top of deck
+Titandrake - places Spoils on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Rabble on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Rabble
+Titandrake - looks at Province, Silver, Spoils, Spoils
+Titandrake - discards Province
+Titandrake - discards Spoils
+Titandrake - places Spoils on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Rabble
+Titandrake - draws Silver, Spoils, Rabble
+rabblerabblerabble - reveals Cartographer, Silver, Estate
+rabblerabblerabble - discards: Cartographer, Silver
+rabblerabblerabble - places Estate on top of deck
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Spoils, Silver, Lookout, Fairgrounds, Lookout
+ 
+---------- rabblerabblerabble: turn 22 ----------
+rabblerabblerabble - plays Bandit Camp
+rabblerabblerabble - draws Estate
+rabblerabblerabble - gains Spoils
+rabblerabblerabble - plays Rabble
+rabblerabblerabble - draws Curse, Gold, Copper
+Titandrake - reveals Throne Room, Estate, Copper
+Titandrake - discards: Throne Room, Copper
+Titandrake - places Estate on top of deck
+rabblerabblerabble - plays Rabble
+rabblerabblerabble - draws Throne Room, Throne Room, Silver
+Titandrake - reveals Estate, Copper, Copper
+Titandrake - discards: Copper, Copper
+Titandrake - places Estate on top of deck
+rabblerabblerabble - plays 3 Copper, 1 Gold, 1 Silver
+rabblerabblerabble - buys Province
+rabblerabblerabble - gains Province
+rabblerabblerabble - draws Curse, Candlestick Maker, Copper, Gold, Lookout
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Familiar
+Titandrake - places Spoils on top of deck
+Titandrake - plays Lookout
+Titandrake - trashes Spoils
+Titandrake - discards Bandit Camp
+Titandrake - places Bandit Camp on top of deck
+Titandrake - plays 1 Silver
+Titandrake - plays Spoils
+Titandrake - uses 1 coin token
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Bandit Camp, Familiar, Candlestick Maker, Candlestick Maker, Gold
+ 
+---------- rabblerabblerabble: turn 23 ----------
+rabblerabblerabble - plays Candlestick Maker
+rabblerabblerabble - receives 1 coin token
+rabblerabblerabble - plays Lookout
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - trashes Silver
+rabblerabblerabble - discards Silver
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - plays 1 Copper, 1 Gold
+rabblerabblerabble - uses 2 coin tokens
+rabblerabblerabble - buys Fairgrounds
+rabblerabblerabble - gains Fairgrounds
+rabblerabblerabble - draws Silver, Throne Room, Familiar, Copper, Cartographer
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Curse
+Titandrake - gains Spoils
+Titandrake - plays Familiar
+Titandrake - draws Curse
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp, Fairgrounds, Lookout, Fairgrounds, Copper
+ 
+---------- rabblerabblerabble: turn 24 ----------
+rabblerabblerabble - plays Throne Room
+rabblerabblerabble - plays Cartographer
+rabblerabblerabble - draws Gold
+rabblerabblerabble - looks at Silver, Estate, Estate, Province
+rabblerabblerabble - discards Estate
+rabblerabblerabble - discards Estate
+rabblerabblerabble - discards Province
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - plays Cartographer
+rabblerabblerabble - draws Silver
+rabblerabblerabble - looks at Bandit Camp, Throne Room, Copper, Province
+rabblerabblerabble - discards Province
+rabblerabblerabble - discards Copper
+rabblerabblerabble - places Bandit Camp on top of deck
+rabblerabblerabble - places Throne Room on top of deck
+rabblerabblerabble - plays 2 Silver, 1 Copper, 1 Gold
+rabblerabblerabble - buys Province
+rabblerabblerabble - gains Province
+rabblerabblerabble - draws Throne Room, Bandit Camp, Spoils, Curse, Navigator
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Silver
+Titandrake - discards Bandit Camp
+Titandrake - places Gold on top of deck
+Titandrake - plays Bandit Camp
+Titandrake - draws Gold
+Titandrake - gains Spoils
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - uses 2 coin tokens
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Throne Room, Copper, Curse, Cartographer, Curse
+ 
+---------- rabblerabblerabble: turn 25 ----------
+rabblerabblerabble - plays Bandit Camp
+rabblerabblerabble - draws Rabble
+rabblerabblerabble - gains Spoils
+rabblerabblerabble - plays Throne Room
+rabblerabblerabble - plays Rabble
+rabblerabblerabble - draws Copper, Spoils, Rabble
+Titandrake - reveals Silver, Curse, Lookout
+Titandrake - discards: Silver, Lookout
+Titandrake - places Curse on top of deck
+rabblerabblerabble - plays Rabble
+rabblerabblerabble - draws Bandit Camp, Copper
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - draws Cartographer
+Titandrake - reveals Curse, Lookout, Familiar
+Titandrake - discards: Lookout, Familiar
+Titandrake - places Curse on top of deck
+rabblerabblerabble - plays Bandit Camp
+rabblerabblerabble - draws Curse
+rabblerabblerabble - gains Spoils
+rabblerabblerabble - plays Cartographer
+rabblerabblerabble - draws Province
+rabblerabblerabble - looks at Copper, Estate, Province, Familiar
+rabblerabblerabble - discards Estate
+rabblerabblerabble - discards Province
+rabblerabblerabble - discards Copper
+rabblerabblerabble - discards Familiar
+rabblerabblerabble - plays Rabble
+rabblerabblerabble - draws Spoils, Province, Throne Room
+Titandrake - reveals Curse, Familiar, Spoils
+Titandrake - discards: Familiar, Spoils
+Titandrake - places Curse on top of deck
+rabblerabblerabble - plays Throne Room
+rabblerabblerabble - plays Navigator
+rabblerabblerabble - looks at Silver, Fairgrounds, Gold, Gold, Copper
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - places Fairgrounds on top of deck
+rabblerabblerabble - places Gold on top of deck
+rabblerabblerabble - places Gold on top of deck
+rabblerabblerabble - places Copper on top of deck
+rabblerabblerabble - plays Navigator
+rabblerabblerabble - looks at Copper, Gold, Gold, Fairgrounds, Silver
+rabblerabblerabble - places Copper on top of deck
+rabblerabblerabble - places Gold on top of deck
+rabblerabblerabble - places Gold on top of deck
+rabblerabblerabble - places Fairgrounds on top of deck
+rabblerabblerabble - places Silver on top of deck
+rabblerabblerabble - plays Copper
+rabblerabblerabble - plays Copper
+rabblerabblerabble - plays Spoils
+rabblerabblerabble - buys Province
+rabblerabblerabble - gains Province
+rabblerabblerabble - draws Silver, Fairgrounds, Gold, Gold, Copper
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Cartographer
+Titandrake - draws Curse
+Titandrake - looks at Fairgrounds, Candlestick Maker, Rabble, Navigator
+Titandrake - discards Fairgrounds
+Titandrake - discards Candlestick Maker
+Titandrake - places Navigator on top of deck
+Titandrake - places Rabble on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Rabble
+Titandrake - looks at Navigator, Rabble, Spoils, Silver
+Titandrake - discards Navigator
+Titandrake - places Silver on top of deck
+Titandrake - places Spoils on top of deck
+Titandrake - places Rabble on top of deck
+Titandrake - plays Rabble
+Titandrake - draws Rabble, Spoils, Silver
+rabblerabblerabble - reveals Candlestick Maker, Estate, Copper
+rabblerabblerabble - discards: Candlestick Maker, Copper
+rabblerabblerabble - places Estate on top of deck
+Titandrake - plays Rabble
+Titandrake - draws Copper, Copper, Bandit Camp
+rabblerabblerabble - reveals Estate, Silver, Silver
+rabblerabblerabble - discards: Silver, Silver
+rabblerabblerabble - places Estate on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Candlestick Maker, Province
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Copper
+ 
+---------- rabblerabblerabble: turn 26 ----------
+rabblerabblerabble - plays 2 Gold, 1 Silver, 1 Copper
+rabblerabblerabble - buys Province
+rabblerabblerabble - gains Province
+rabblerabblerabble - draws Estate, Lookout
+rabblerabblerabble - shuffles deck
+rabblerabblerabble - draws Silver, Spoils, Province
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Rabble, Fairgrounds, Familiar, Rabble, Bandit Camp
+ 
+---------- rabblerabblerabble: turn 27 ----------
+rabblerabblerabble - plays Spoils
+rabblerabblerabble - plays Silver
+rabblerabblerabble - buys Duchy
+rabblerabblerabble - gains Duchy
+rabblerabblerabble - draws Spoils, Gold, Copper, Silver, Fairgrounds
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Familiar
+Titandrake - gains Spoils
+Titandrake - plays Rabble
+Titandrake - draws Lookout, Copper, Lookout
+rabblerabblerabble - reveals Cartographer, Province, Candlestick Maker
+rabblerabblerabble - discards: Cartographer, Candlestick Maker
+rabblerabblerabble - places Province on top of deck
+Titandrake - plays Familiar
+Titandrake - draws Bandit Camp
+Titandrake - plays Bandit Camp
+Titandrake - draws Fairgrounds
+Titandrake - gains Spoils
+Titandrake - plays Rabble
+Titandrake - draws Fairgrounds, Curse, Fairgrounds
+rabblerabblerabble - reveals Province, Spoils, Familiar
+rabblerabblerabble - discards: Spoils, Familiar
+rabblerabblerabble - places Province on top of deck
+Titandrake - plays Familiar
+Titandrake - draws Gold
+Titandrake - plays Lookout
+Titandrake - trashes Silver
+Titandrake - discards Province
+Titandrake - places Navigator on top of deck
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Navigator, Cartographer, Spoils, Silver, Bandit Camp
+ 
+---------- rabblerabblerabble: turn 28 ----------
+rabblerabblerabble - plays 1 Gold, 1 Copper, 1 Silver
+rabblerabblerabble - plays Spoils
+rabblerabblerabble - buys Province
+rabblerabblerabble - gains Province
+rabblerabblerabble - draws Province, Gold, Bandit Camp, Silver, Province
+ 
+------------ Game Over ------------
+rabblerabblerabble - cards: 2 Bandit Camp, 2 Throne Room, 2 Rabble, 1 Lookout, 1 Cartographer, 1 Candlestick Maker, 1 Familiar, 1 Navigator, 5 Copper, 3 Silver, 2 Gold, 1 Spoils, 6 Province, 2 Estate, 1 Duchy, 1 Fairgrounds, 2 Curse
+rabblerabblerabble - total victory points: 45
+rabblerabblerabble - turns: 28
+ 
+Titandrake - cards: 3 Bandit Camp, 3 Lookout, 2 Candlestick Maker, 2 Rabble, 2 Familiar, 1 Navigator, 1 Cartographer, 1 Throne Room, 4 Spoils, 4 Copper, 1 Silver, 1 Gold, 4 Fairgrounds, 2 Province, 1 Estate, 1 Duchy, 3 Curse
+Titandrake - total victory points: 37
+Titandrake - turns: 28
+ 
+1st place: rabblerabblerabble
+2nd place: Titandrake
+ 

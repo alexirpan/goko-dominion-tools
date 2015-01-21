@@ -1,0 +1,723 @@
+------------ Game Setup ------------
+Supply cards: Gardens, Ironmonger, Navigator, Band of Misfits, Butcher, Cartographer, Market, Merchant Ship, Goons, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+RTT - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+RTT - shuffles deck
+Titandrake - shuffles deck
+RTT - draws Hovel, Copper, Copper, Copper, Overgrown Estate
+Titandrake - draws Overgrown Estate, Necropolis, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Hovel, Copper, Copper, Copper, Copper
+ 
+---------- RTT: turn 1 ----------
+RTT - plays 3 Copper
+RTT - buys Silver
+RTT - gains Silver
+RTT - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger, Copper, Copper, Hovel, Copper
+ 
+---------- RTT: turn 2 ----------
+RTT - plays 4 Copper
+RTT - buys Ironmonger
+RTT - gains Ironmonger
+RTT - shuffles deck
+RTT - draws Silver, Ironmonger, Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Overgrown Estate, Necropolis, Copper, Copper, Copper
+ 
+---------- RTT: turn 3 ----------
+RTT - plays Ironmonger
+RTT - draws Copper
+RTT - reveals: Hovel
+RTT - discards Hovel
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Merchant Ship
+RTT - gains Merchant Ship
+RTT - draws Copper, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Overgrown Estate, Ironmonger, Copper
+ 
+---------- RTT: turn 4 ----------
+RTT - plays 4 Copper
+RTT - buys Ironmonger
+RTT - gains Ironmonger
+RTT - shuffles deck
+RTT - draws Necropolis, Merchant Ship, Copper, Ironmonger, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Silver, Copper, Necropolis, Copper
+ 
+---------- RTT: turn 5 ----------
+RTT - plays Ironmonger
+RTT - draws Copper
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Necropolis
+RTT - plays Merchant Ship
+RTT - plays 3 Copper
+RTT - buys Goons
+RTT - gains Goons
+RTT - draws Copper, Hovel, Silver, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Goons, Hovel
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Ironmonger
+ 
+---------- RTT: turn 6 ----------
+RTT - duration Merchant Ship
+RTT - plays 2 Copper, 1 Silver
+RTT - buys Nobles
+RTT - trashes Hovel
+RTT - gains Nobles
+RTT - draws Ironmonger, Copper
+RTT - shuffles deck
+RTT - draws Copper, Necropolis, Goons
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Necropolis
+Titandrake - discards Necropolis
+Titandrake - plays Goons
+RTT - discards Necropolis
+RTT - discards Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - receives 1 victory point chips
+Titandrake - trashes Hovel
+Titandrake - gains Nobles
+Titandrake - draws Overgrown Estate, Silver, Copper, Ironmonger, Copper
+ 
+---------- RTT: turn 7 ----------
+RTT - plays Ironmonger
+RTT - draws Merchant Ship
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Goons
+Titandrake - discards Overgrown Estate
+Titandrake - discards Copper
+RTT - plays 1 Copper
+RTT - buys Ironmonger
+RTT - receives 1 victory point chips
+RTT - gains Ironmonger
+RTT - draws Ironmonger, Overgrown Estate, Copper, Copper, Nobles
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Nobles
+Titandrake - places Nobles on top of deck
+Titandrake - draws Nobles
+Titandrake - plays Nobles
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Ironmonger, Necropolis, Nobles, Goons, Copper
+ 
+---------- RTT: turn 8 ----------
+RTT - plays Ironmonger
+RTT - draws Copper
+RTT - reveals: Silver
+RTT - places Silver on top of deck
+RTT - plays Nobles
+RTT - draws Silver, Copper
+RTT - shuffles deck
+RTT - draws Copper
+RTT - plays 5 Copper, 1 Silver
+RTT - buys Nobles
+RTT - gains Nobles
+RTT - draws Goons, Copper, Ironmonger, Copper, Ironmonger
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Necropolis
+Titandrake - plays Nobles
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Nobles
+Titandrake - plays Goons
+RTT - discards Copper
+RTT - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - receives 1 victory point chips
+Titandrake - gains Nobles
+Titandrake - draws Copper, Copper, Ironmonger, Silver, Copper
+ 
+---------- RTT: turn 9 ----------
+RTT - plays Ironmonger
+RTT - draws Necropolis
+RTT - reveals: Merchant Ship
+RTT - places Merchant Ship on top of deck
+RTT - plays Ironmonger
+RTT - draws Merchant Ship
+RTT - shuffles deck
+RTT - reveals: Silver
+RTT - places Silver on top of deck
+RTT - plays Necropolis
+RTT - plays Merchant Ship
+RTT - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Copper
+RTT - buys Market
+RTT - receives 1 victory point chips
+RTT - gains Market
+RTT - draws Silver, Copper, Copper, Nobles, Nobles
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Goons
+Titandrake - places Goons on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Goons, Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger, Copper, Copper
+ 
+---------- RTT: turn 10 ----------
+RTT - duration Merchant Ship
+RTT - plays Nobles
+RTT - takes 2 actions
+RTT - plays Nobles
+RTT - draws Copper, Copper, Overgrown Estate
+RTT - plays 4 Copper, 1 Silver
+RTT - buys Nobles
+RTT - gains Nobles
+RTT - draws Copper, Copper, Copper, Ironmonger
+RTT - shuffles deck
+RTT - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Nobles
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Goons
+RTT - discards Copper
+RTT - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Ironmonger
+Titandrake - receives 1 victory point chips
+Titandrake - gains Ironmonger
+Titandrake - draws Copper, Ironmonger, Nobles, Silver, Goons
+ 
+---------- RTT: turn 11 ----------
+RTT - plays Ironmonger
+RTT - draws Nobles
+RTT - reveals: Silver
+RTT - places Silver on top of deck
+RTT - plays Nobles
+RTT - draws Silver, Copper, Overgrown Estate
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Nobles
+RTT - gains Nobles
+RTT - draws Merchant Ship, Copper, Nobles, Market, Nobles
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Necropolis
+Titandrake - places Necropolis on top of deck
+Titandrake - plays Nobles
+Titandrake - draws Necropolis, Ironmonger, Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - discards Silver
+Titandrake - plays Goons
+RTT - discards Copper
+RTT - discards Market
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - receives 1 victory point chips
+Titandrake - gains Nobles
+Titandrake - draws Nobles
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Silver, Ironmonger, Goons
+ 
+---------- RTT: turn 12 ----------
+RTT - plays Nobles
+RTT - takes 2 actions
+RTT - plays Nobles
+RTT - draws Goons, Ironmonger, Ironmonger
+RTT - plays Ironmonger
+RTT - draws Necropolis
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Ironmonger
+RTT - shuffles deck
+RTT - draws Silver
+RTT - reveals: Nobles
+RTT - places Nobles on top of deck
+RTT - draws Nobles
+RTT - plays Nobles
+RTT - draws Copper, Ironmonger, Copper
+RTT - plays Ironmonger
+RTT - draws Copper
+RTT - reveals: Nobles
+RTT - places Nobles on top of deck
+RTT - draws Nobles
+RTT - plays Nobles
+RTT - draws Copper, Overgrown Estate, Market
+RTT - plays Market
+RTT - draws Copper
+RTT - plays Necropolis
+RTT - plays Goons
+Titandrake - discards Silver
+Titandrake - discards Ironmonger
+RTT - plays Merchant Ship
+RTT - plays 5 Copper, 1 Silver
+RTT - buys Goons
+RTT - receives 1 victory point chips
+RTT - gains Goons
+RTT - buys Goons
+RTT - receives 1 victory point chips
+RTT - gains Goons
+RTT - draws Copper, Copper
+RTT - shuffles deck
+RTT - draws Overgrown Estate, Nobles, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays Goons
+RTT - discards Overgrown Estate
+RTT - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Cartographer
+Titandrake - receives 1 victory point chips
+Titandrake - gains Cartographer
+Titandrake - draws Copper, Nobles, Copper, Goons, Nobles
+ 
+---------- RTT: turn 13 ----------
+RTT - duration Merchant Ship
+RTT - plays Nobles
+RTT - draws Goons, Copper, Silver
+RTT - plays 3 Copper, 1 Silver
+RTT - buys Goons
+RTT - gains Goons
+RTT - draws Copper, Necropolis, Copper, Goons, Ironmonger
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Ironmonger, Copper, Necropolis
+Titandrake - plays Ironmonger
+Titandrake - draws Silver
+Titandrake - reveals: Overgrown Estate
+Titandrake - discards Overgrown Estate
+Titandrake - draws Copper
+Titandrake - plays Goons
+RTT - discards Necropolis
+RTT - discards Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - draws Ironmonger, Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Goons, Goons, Ironmonger
+ 
+---------- RTT: turn 14 ----------
+RTT - plays Ironmonger
+RTT - draws Goons
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Goons
+Titandrake - discards Ironmonger
+Titandrake - discards Ironmonger
+RTT - plays 1 Copper
+RTT - buys Ironmonger
+RTT - receives 1 victory point chips
+RTT - gains Ironmonger
+RTT - draws Nobles, Market, Ironmonger, Nobles, Nobles
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Overgrown Estate
+Titandrake - discards Overgrown Estate
+Titandrake - draws Copper
+Titandrake - plays Goons
+RTT - discards Market
+RTT - discards Nobles
+Titandrake - plays 2 Copper
+Titandrake - buys Ironmonger
+Titandrake - receives 1 victory point chips
+Titandrake - gains Ironmonger
+Titandrake - draws Nobles, Copper, Copper, Cartographer, Nobles
+ 
+---------- RTT: turn 15 ----------
+RTT - plays Ironmonger
+RTT - draws Ironmonger
+RTT - shuffles deck
+RTT - reveals: Nobles
+RTT - places Nobles on top of deck
+RTT - draws Nobles
+RTT - plays Ironmonger
+RTT - draws Merchant Ship
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Nobles
+RTT - draws Goons, Copper, Necropolis
+RTT - plays Necropolis
+RTT - plays Nobles
+RTT - draws Nobles, Copper, Ironmonger
+RTT - plays Ironmonger
+RTT - draws Overgrown Estate
+RTT - reveals: Goons
+RTT - places Goons on top of deck
+RTT - plays Nobles
+RTT - draws Goons, Ironmonger, Copper
+RTT - plays Ironmonger
+RTT - draws Copper
+RTT - reveals: Goons
+RTT - places Goons on top of deck
+RTT - plays Nobles
+RTT - takes 2 actions
+RTT - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Copper
+RTT - plays Goons
+RTT - plays Merchant Ship
+RTT - plays 4 Copper
+RTT - buys Ironmonger
+RTT - receives 1 victory point chips
+RTT - receives 1 victory point chips
+RTT - gains Ironmonger
+RTT - buys Goons
+RTT - receives 1 victory point chips
+RTT - receives 1 victory point chips
+RTT - gains Goons
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - draws Goons, Copper, Goons, Silver, Market
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Copper, Nobles, Ironmonger, Silver
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - places Ironmonger on top of deck
+Titandrake - places Nobles on top of deck
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Ironmonger, Necropolis
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Goons
+Titandrake - places Goons on top of deck
+Titandrake - plays Necropolis
+Titandrake - plays Nobles
+Titandrake - draws Goons, Nobles, Silver
+Titandrake - plays Nobles
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger, Copper, Goons
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Goons
+RTT - discards Copper
+RTT - discards Silver
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - receives 1 victory point chips
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - receives 1 victory point chips
+Titandrake - gains Copper
+Titandrake - draws Ironmonger, Copper, Goons, Silver, Ironmonger
+ 
+---------- RTT: turn 16 ----------
+RTT - duration Merchant Ship
+RTT - plays Market
+RTT - draws Copper
+RTT - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Silver
+RTT - plays 1 Copper
+RTT - buys Duchy
+RTT - receives 1 victory point chips
+RTT - gains Duchy
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - shuffles deck
+RTT - draws Ironmonger, Copper, Nobles, Ironmonger, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - reveals: Cartographer
+Titandrake - places Cartographer on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Cartographer
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Cartographer
+Titandrake - draws Province
+Titandrake - looks at Copper, Necropolis, Nobles, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Necropolis
+Titandrake - places Nobles on top of deck
+Titandrake - plays Goons
+RTT - discards Copper
+RTT - discards Copper
+Titandrake - buys Gardens
+Titandrake - receives 1 victory point chips
+Titandrake - gains Gardens
+Titandrake - buys Copper
+Titandrake - receives 1 victory point chips
+Titandrake - gains Copper
+Titandrake - draws Nobles, Goons, Nobles, Nobles, Copper
+ 
+---------- RTT: turn 17 ----------
+RTT - plays Ironmonger
+RTT - draws Merchant Ship
+RTT - reveals: Necropolis
+RTT - places Necropolis on top of deck
+RTT - plays Ironmonger
+RTT - draws Necropolis
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Nobles
+RTT - draws Nobles, Ironmonger, Copper
+RTT - plays Ironmonger
+RTT - draws Goons
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Necropolis
+RTT - plays Nobles
+RTT - draws Goons, Nobles, Goons
+RTT - plays Nobles
+RTT - takes 2 actions
+RTT - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Nobles
+RTT - plays Goons
+RTT - plays 1 Copper
+RTT - buys Gardens
+RTT - receives 1 victory point chips
+RTT - receives 1 victory point chips
+RTT - gains Gardens
+RTT - buys Silver
+RTT - receives 1 victory point chips
+RTT - receives 1 victory point chips
+RTT - gains Silver
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - draws Silver, Market, Copper, Copper, Ironmonger
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Copper, Copper, Silver
+Titandrake - plays Goons
+RTT - discards Copper
+RTT - discards Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - receives 1 victory point chips
+Titandrake - gains Estate
+Titandrake - buys Gardens
+Titandrake - receives 1 victory point chips
+Titandrake - gains Gardens
+Titandrake - draws Nobles, Ironmonger, Goons, Ironmonger, Copper
+ 
+---------- RTT: turn 18 ----------
+RTT - plays Ironmonger
+RTT - draws Ironmonger
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Ironmonger
+RTT - draws Nobles
+RTT - reveals: Copper
+RTT - discards Copper
+RTT - plays Market
+RTT - draws Goons
+RTT - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Ironmonger
+RTT - plays 1 Silver
+RTT - buys Gardens
+RTT - receives 1 victory point chips
+RTT - gains Gardens
+RTT - buys Estate
+RTT - receives 1 victory point chips
+RTT - gains Estate
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - draws Copper, Duchy, Goons, Overgrown Estate
+RTT - shuffles deck
+RTT - draws Gardens
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Goons
+RTT - discards Overgrown Estate
+RTT - discards Gardens
+Titandrake - plays Copper
+Titandrake - buys Gardens
+Titandrake - receives 1 victory point chips
+Titandrake - gains Gardens
+Titandrake - buys Copper
+Titandrake - receives 1 victory point chips
+Titandrake - gains Copper
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Gardens, Copper
+ 
+---------- RTT: turn 19 ----------
+RTT - plays Goons
+Titandrake - discards Gardens
+Titandrake - discards Copper
+RTT - plays 1 Copper
+RTT - buys Estate
+RTT - receives 1 victory point chips
+RTT - gains Estate
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - draws Goons, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Navigator
+Titandrake - gains Navigator
+Titandrake - draws Silver, Goons, Goons, Nobles, Copper
+ 
+---------- RTT: turn 20 ----------
+RTT - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Silver
+RTT - plays 3 Copper
+RTT - buys Gardens
+RTT - receives 1 victory point chips
+RTT - gains Gardens
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - draws Goons, Goons, Gardens, Silver, Necropolis
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Goons
+RTT - discards Gardens
+RTT - discards Silver
+Titandrake - plays Goons
+Titandrake - buys Gardens
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Gardens
+Titandrake - buys Copper
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Copper
+Titandrake - buys Copper
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Copper
+Titandrake - draws Nobles, Copper, Gardens, Copper, Nobles
+ 
+---------- RTT: turn 21 ----------
+RTT - plays Necropolis
+RTT - plays Goons
+Titandrake - discards Gardens
+Titandrake - discards Copper
+RTT - plays Goons
+RTT - buys Gardens
+RTT - receives 1 victory point chips
+RTT - receives 1 victory point chips
+RTT - gains Gardens
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - buys Copper
+RTT - receives 1 victory point chips
+RTT - receives 1 victory point chips
+RTT - gains Copper
+RTT - draws Copper, Ironmonger, Market, Nobles, Nobles
+ 
+------------ Game Over ------------
+RTT - cards: 5 Ironmonger, 5 Goons, 4 Nobles, 16 Copper, 1 Market, 1 Necropolis, 1 Merchant Ship, 2 Silver, 4 Gardens, 2 Estate, 1 Overgrown Estate, 1 Duchy
+RTT - victory point chips: 33
+RTT - total victory points: 62
+RTT - turns: 21
+ 
+Titandrake - cards: 5 Ironmonger, 4 Nobles, 3 Goons, 12 Copper, 1 Navigator, 1 Necropolis, 1 Cartographer, 2 Silver, 4 Gardens, 1 Province, 1 Overgrown Estate, 1 Estate
+Titandrake - victory point chips: 21
+Titandrake - total victory points: 48
+Titandrake - turns: 21
+ 
+1st place: RTT
+2nd place: Titandrake
+ 

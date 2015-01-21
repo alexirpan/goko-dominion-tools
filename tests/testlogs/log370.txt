@@ -1,0 +1,636 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Hamlet, Oracle, Herald, Remodel, Spy, Golem, Hunting Party, Rogue, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+microman - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+microman - shuffles deck
+Titandrake - shuffles deck
+microman - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- microman: turn 1 ----------
+microman - plays 4 Copper
+microman - buys Remodel
+microman - gains Remodel
+microman - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Remodel, Copper
+ 
+---------- microman: turn 2 ----------
+microman - plays 3 Copper
+microman - buys Silver
+microman - gains Silver
+microman - shuffles deck
+microman - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Remodel
+Titandrake - trashes Estate
+Titandrake - gains Potion
+Titandrake - plays 2 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- microman: turn 3 ----------
+microman - plays 3 Copper, 1 Silver
+microman - buys Hunting Party
+microman - gains Hunting Party
+microman - draws Estate, Copper, Remodel, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Remodel, Estate, Copper
+ 
+---------- microman: turn 4 ----------
+microman - plays Remodel
+microman - trashes Estate
+microman - gains Potion
+microman - plays 2 Copper
+microman - buys Courtyard
+microman - gains Courtyard
+microman - draws Copper, Copper
+microman - shuffles deck
+microman - draws Remodel, Copper, Hunting Party
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Remodel
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Silver, Copper, Copper, Copper, Hamlet
+ 
+---------- microman: turn 5 ----------
+microman - plays Hunting Party
+microman - draws Estate
+microman - reveals hand: Copper, Copper, Remodel, Copper, Estate
+microman - reveals Copper, Copper, Potion
+microman - places Potion in hand
+microman - discards: Copper, Copper
+microman - plays Remodel
+microman - trashes Estate
+microman - gains Herald
+microman - plays 3 Copper, 1 Potion
+microman - buys Hamlet
+microman - gains Hamlet
+microman - draws Copper, Copper, Estate, Courtyard, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Potion, Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- microman: turn 6 ----------
+microman - plays Courtyard
+microman - shuffles deck
+microman - draws Hunting Party, Hamlet, Copper
+microman - places Hunting Party on top of deck
+microman - plays 3 Copper, 1 Silver
+microman - buys Hunting Party
+microman - gains Hunting Party
+microman - draws Hunting Party, Herald, Copper, Copper, Potion
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hamlet
+Titandrake - reveals hand: Copper, Potion, Estate, Copper, Hamlet
+Titandrake - reveals Copper, Remodel
+Titandrake - places Remodel in hand
+Titandrake - discards Copper
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Remodel
+Titandrake - trashes Potion
+Titandrake - gains Hunting Party
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Hunting Party, Hamlet, Copper
+ 
+---------- microman: turn 7 ----------
+microman - plays Hunting Party
+microman - draws Copper
+microman - reveals hand: Herald, Copper, Copper, Potion, Copper
+microman - reveals Remodel
+microman - places Remodel in hand
+microman - plays Herald
+microman - draws Copper
+microman - shuffles deck
+microman - reveals: Estate
+microman - places Estate on top of deck
+microman - plays 4 Copper, 1 Potion
+microman - buys Golem
+microman - gains Golem
+microman - draws Estate, Silver, Hamlet, Copper, Hunting Party
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Copper, Hamlet, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Hamlet, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Copper, Hamlet
+Titandrake - plays Hunting Party
+Titandrake - draws Remodel
+Titandrake - reveals hand: Silver, Copper, Hamlet, Copper, Silver, Remodel
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Copper, Hamlet, Copper, Silver, Remodel, Copper
+Titandrake - reveals Silver, Copper, Estate
+Titandrake - places Estate in hand
+Titandrake - discards: Silver, Copper
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Remodel
+Titandrake - trashes Silver
+Titandrake - gains Hunting Party
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Hamlet, Copper, Copper, Estate, Copper
+ 
+---------- microman: turn 8 ----------
+microman - plays Hunting Party
+microman - draws Copper
+microman - reveals hand: Estate, Silver, Hamlet, Copper, Copper
+microman - reveals Courtyard
+microman - places Courtyard in hand
+microman - plays Hamlet
+microman - draws Copper
+microman - discards Estate
+microman - receives one action
+microman - plays Courtyard
+microman - shuffles deck
+microman - draws Remodel, Copper, Herald
+microman - places Remodel on top of deck
+microman - plays Herald
+microman - draws Remodel
+microman - reveals: Estate
+microman - places Estate on top of deck
+microman - plays Remodel
+microman - trashes Copper
+microman - gains Courtyard
+microman - plays 3 Copper, 1 Silver
+microman - buys Hunting Party
+microman - gains Hunting Party
+microman - draws Estate, Hunting Party, Copper, Golem, Potion
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Hunting Party, Copper, Gold, Copper, Hunting Party
+ 
+---------- microman: turn 9 ----------
+microman - plays Hunting Party
+microman - draws Copper
+microman - reveals hand: Estate, Copper, Golem, Potion, Copper
+microman - shuffles deck
+microman - reveals Copper, Remodel
+microman - places Remodel in hand
+microman - discards Copper
+microman - plays Golem
+microman - reveals Hunting Party, Silver, Courtyard
+microman - discards Silver
+microman - plays Hunting Party
+microman - draws Hamlet
+microman - reveals hand: Estate, Copper, Potion, Copper, Remodel, Hamlet
+microman - reveals Courtyard
+microman - places Courtyard in hand
+microman - plays Courtyard
+microman - draws Hunting Party, Copper, Herald
+microman - places Courtyard on top of deck
+microman - plays Herald
+microman - draws Courtyard
+microman - reveals: Copper
+microman - places Copper on top of deck
+microman - plays Hunting Party
+microman - draws Copper
+microman - reveals hand: Estate, Copper, Potion, Copper, Remodel, Hamlet, Copper, Courtyard, Copper
+microman - shuffles deck
+microman - reveals Copper, Copper, Silver
+microman - places Silver in hand
+microman - discards: Copper, Copper
+microman - plays Hamlet
+microman - shuffles deck
+microman - draws Copper
+microman - discards Estate
+microman - receives one buy
+microman - plays Remodel
+microman - trashes Courtyard
+microman - gains Herald
+microman - plays 5 Copper, 1 Potion, 1 Silver
+microman - buys Golem
+microman - gains Golem
+microman - buys Silver
+microman - gains Silver
+microman - draws Copper
+microman - shuffles deck
+microman - draws Copper, Remodel, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Gold, Copper, Hunting Party, Silver
+Titandrake - reveals Copper, Copper, Hamlet
+Titandrake - places Hamlet in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Remodel
+Titandrake - reveals hand: Copper, Gold, Copper, Silver, Hamlet, Remodel
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Gold, Copper, Silver, Hamlet, Remodel, Hunting Party
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Copper, Copper, Hamlet, Estate
+Titandrake - places Estate in hand
+Titandrake - discards: Silver, Copper, Copper, Hamlet
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Gold, Copper, Silver, Hamlet, Remodel, Estate, Hunting Party
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Copper, Silver, Hamlet, Copper
+Titandrake - discards: Copper, Copper, Copper, Copper, Silver, Hamlet, Copper
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Silver
+Titandrake - receives one action
+Titandrake - plays Remodel
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Gold, Copper, Copper, Copper
+Titandrake - reveals Hamlet
+Titandrake - places Hamlet in hand
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays 4 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Copper
+ 
+---------- microman: turn 10 ----------
+microman - plays 3 Copper, 1 Silver
+microman - buys Hunting Party
+microman - gains Hunting Party
+microman - draws Estate, Hamlet, Copper, Courtyard, Golem
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Remodel
+Titandrake - reveals hand: Copper, Copper, Copper, Copper, Remodel
+Titandrake - reveals Copper, Hamlet
+Titandrake - places Hamlet in hand
+Titandrake - discards Copper
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays Remodel
+Titandrake - trashes Silver
+Titandrake - gains Hunting Party
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Silver, Hamlet, Hunting Party
+ 
+---------- microman: turn 11 ----------
+microman - plays Hamlet
+microman - draws Copper
+microman - discards Estate
+microman - receives one action
+microman - plays Golem
+microman - reveals Hunting Party, Hunting Party
+microman - plays Hunting Party
+microman - draws Herald
+microman - reveals hand: Copper, Courtyard, Copper, Herald
+microman - reveals Copper, Golem
+microman - places Golem in hand
+microman - discards Copper
+microman - plays Hunting Party
+microman - draws Potion
+microman - reveals hand: Copper, Courtyard, Copper, Herald, Golem, Potion
+microman - reveals Herald, Hunting Party
+microman - places Hunting Party in hand
+microman - discards Herald
+microman - plays Herald
+microman - draws Silver
+microman - shuffles deck
+microman - reveals: Copper
+microman - places Copper on top of deck
+microman - plays Hunting Party
+microman - draws Copper
+microman - reveals hand: Copper, Courtyard, Copper, Golem, Potion, Silver, Copper
+microman - reveals Herald
+microman - places Herald in hand
+microman - plays Golem
+microman - reveals Copper, Copper, Copper, Remodel, Hunting Party
+microman - discards: Copper, Copper, Copper
+microman - plays Hunting Party
+microman - draws Silver
+microman - reveals hand: Copper, Courtyard, Copper, Potion, Silver, Copper, Herald, Silver
+microman - reveals Estate
+microman - places Estate in hand
+microman - plays Remodel
+microman - trashes Potion
+microman - gains Gold
+microman - plays Courtyard
+microman - shuffles deck
+microman - draws Gold, Copper, Copper
+microman - places Gold on top of deck
+microman - plays Herald
+microman - draws Gold
+microman - reveals: Copper
+microman - places Copper on top of deck
+microman - plays Silver
+microman - plays Copper
+microman - plays Copper
+microman - plays Silver
+microman - buys Farmland
+microman - trashes Gold
+microman - gains Province
+microman - gains Farmland
+microman - draws Copper
+microman - shuffles deck
+microman - draws Herald, Copper, Copper, Golem
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Copper, Silver, Hamlet, Hunting Party
+Titandrake - reveals Copper, Province
+Titandrake - places Province in hand
+Titandrake - discards Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Copper, Silver, Hamlet, Province, Hunting Party
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Copper, Silver, Hamlet, Province, Gold, Hunting Party
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Copper, Copper, Hunting Party, Silver, Remodel
+Titandrake - places Remodel in hand
+Titandrake - discards: Copper, Copper, Copper, Copper, Copper, Hunting Party, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Copper, Silver, Hamlet, Province, Gold, Remodel, Copper
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Hamlet
+Titandrake - reveals hand: Silver, Copper, Silver, Hamlet, Province, Gold, Remodel, Copper, Hamlet
+Titandrake - shuffles deck
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Gold
+Titandrake - receives one buy
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Copper, Silver, Hamlet, Province, Remodel, Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Silver, Copper, Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Copper, Silver, Copper, Copper
+Titandrake - plays Remodel
+Titandrake - trashes Province
+Titandrake - gains Province
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Farmland
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - shuffles deck
+Titandrake - draws Remodel, Hunting Party, Silver, Copper, Province
+ 
+---------- microman: turn 12 ----------
+microman - plays Herald
+microman - draws Copper
+microman - reveals: Golem
+microman - plays Golem
+microman - reveals Silver, Hunting Party, Hamlet
+microman - discards Silver
+microman - plays Hunting Party
+microman - draws Courtyard
+microman - reveals hand: Copper, Copper, Copper, Golem, Copper, Courtyard
+microman - reveals Hunting Party
+microman - places Hunting Party in hand
+microman - plays Hamlet
+microman - draws Province
+microman - discards Province
+microman - receives one buy
+microman - plays Golem
+microman - reveals Copper, Copper, Remodel, Hunting Party
+microman - discards: Copper, Copper
+microman - plays Hunting Party
+microman - draws Herald
+microman - reveals hand: Copper, Copper, Copper, Copper, Courtyard, Hunting Party, Herald
+microman - reveals Hunting Party, Silver
+microman - places Silver in hand
+microman - discards Hunting Party
+microman - plays Remodel
+microman - trashes Herald
+microman - gains Gold
+microman - plays Hunting Party
+microman - draws Farmland
+microman - reveals hand: Copper, Copper, Copper, Copper, Courtyard, Silver, Farmland
+microman - reveals Estate
+microman - places Estate in hand
+microman - plays Courtyard
+microman - shuffles deck
+microman - draws Copper, Silver, Province
+microman - places Farmland on top of deck
+microman - plays 5 Copper, 2 Silver
+microman - buys Province
+microman - gains Province
+microman - draws Farmland, Hunting Party, Gold, Copper
+microman - shuffles deck
+microman - draws Courtyard
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Province
+Titandrake - reveals hand: Remodel, Silver, Copper, Province, Province
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Remodel, Silver, Copper, Province, Province, Hunting Party
+Titandrake - reveals Silver, Copper, Hunting Party, Hunting Party, Copper, Copper, Farmland
+Titandrake - places Farmland in hand
+Titandrake - discards: Silver, Copper, Hunting Party, Hunting Party, Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Remodel, Silver, Copper, Province, Province, Farmland, Silver
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Remodel, Silver, Copper, Province, Province, Farmland, Silver, Copper
+Titandrake - reveals Copper, Hamlet
+Titandrake - places Hamlet in hand
+Titandrake - discards Copper
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Province
+Titandrake - receives one action
+Titandrake - discards Province
+Titandrake - receives one buy
+Titandrake - plays Remodel
+Titandrake - trashes Farmland
+Titandrake - gains Province
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Farmland
+Titandrake - gains Farmland
+Titandrake - shuffles deck
+Titandrake - draws Hamlet, Silver, Copper, Province, Hunting Party
+ 
+---------- microman: turn 13 ----------
+microman - plays Hunting Party
+microman - draws Copper
+microman - reveals hand: Farmland, Gold, Copper, Courtyard, Copper
+microman - reveals Hamlet
+microman - places Hamlet in hand
+microman - plays Hamlet
+microman - draws Herald
+microman - discards Copper
+microman - receives one action
+microman - discards Copper
+microman - receives one buy
+microman - plays Herald
+microman - draws Province
+microman - reveals: Copper
+microman - places Copper on top of deck
+microman - plays Courtyard
+microman - draws Copper, Copper, Estate
+microman - places Farmland on top of deck
+microman - plays 2 Copper, 1 Gold
+microman - buys Duchy
+microman - gains Duchy
+microman - draws Farmland, Golem, Hunting Party, Golem, Hunting Party
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Hamlet, Silver, Copper, Province, Copper
+Titandrake - reveals Remodel
+Titandrake - places Remodel in hand
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Farmland
+Titandrake - trashes Remodel
+Titandrake - gains Farmland
+Titandrake - gains Farmland
+Titandrake - draws Hunting Party, Hunting Party, Copper, Hunting Party, Farmland
+ 
+---------- microman: turn 14 ----------
+microman - plays Hunting Party
+microman - draws Copper
+microman - reveals hand: Farmland, Golem, Golem, Hunting Party, Copper
+microman - reveals Hunting Party, Copper, Province
+microman - places Province in hand
+microman - discards: Hunting Party, Copper
+microman - plays Golem
+microman - shuffles deck
+microman - reveals Remodel, Silver, Silver, Hamlet
+microman - discards: Silver, Silver
+microman - plays Hamlet
+microman - draws Duchy
+microman - discards Province
+microman - receives one action
+microman - discards Duchy
+microman - receives one buy
+microman - plays Remodel
+microman - trashes Farmland
+microman - gains Province
+microman - plays Golem
+microman - reveals Copper, Copper, Herald, Hunting Party
+microman - discards: Copper, Copper
+microman - plays Herald
+microman - draws Hunting Party
+microman - reveals: Copper
+microman - places Copper on top of deck
+microman - plays Hunting Party
+microman - draws Copper
+microman - reveals hand: Hunting Party, Copper, Hunting Party, Copper
+microman - reveals Courtyard
+microman - places Courtyard in hand
+microman - plays Hunting Party
+microman - draws Estate
+microman - reveals hand: Hunting Party, Copper, Copper, Courtyard, Estate
+microman - reveals Province
+microman - places Province in hand
+microman - plays Hunting Party
+microman - draws Copper
+microman - reveals hand: Copper, Copper, Courtyard, Estate, Province, Copper
+microman - reveals Copper, Gold
+microman - places Gold in hand
+microman - discards Copper
+microman - plays Courtyard
+microman - shuffles deck
+microman - draws Copper, Duchy, Silver
+microman - places Province on top of deck
+microman - plays 4 Copper, 1 Gold, 1 Silver
+microman - buys Province
+microman - gains Province
+microman - draws Province, Silver, Province, Copper, Copper
+ 
+------------ Game Over ------------
+microman - cards: 4 Hunting Party, 2 Golem, 1 Hamlet, 1 Remodel, 1 Herald, 1 Courtyard, 6 Copper, 2 Silver, 1 Gold, 4 Province, 1 Estate, 1 Duchy
+microman - total victory points: 28
+microman - turns: 14
+ 
+Titandrake - cards: 6 Hunting Party, 2 Hamlet, 7 Copper, 3 Silver, 3 Farmland, 3 Province
+Titandrake - total victory points: 24
+Titandrake - turns: 14
+ 
+1st place: microman
+2nd place: Titandrake
+ 

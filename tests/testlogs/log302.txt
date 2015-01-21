@@ -1,0 +1,461 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Village, Herald, Ironworks, Quarry, Salvager, Haggler, Adventurer, Hoard, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+GoSharks - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+GoSharks - shuffles deck
+Titandrake - shuffles deck
+GoSharks - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- GoSharks: turn 1 ----------
+GoSharks - plays 4 Copper
+GoSharks - buys Ironworks
+GoSharks - gains Ironworks
+GoSharks - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- GoSharks: turn 2 ----------
+GoSharks - plays 3 Copper
+GoSharks - buys Silver
+GoSharks - gains Silver
+GoSharks - shuffles deck
+GoSharks - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- GoSharks: turn 3 ----------
+GoSharks - plays 4 Copper, 1 Silver
+GoSharks - buys Gold
+GoSharks - gains Gold
+GoSharks - draws Estate, Ironworks, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- GoSharks: turn 4 ----------
+GoSharks - plays Ironworks
+GoSharks - gains Ironworks
+GoSharks - draws Copper, Copper
+GoSharks - shuffles deck
+GoSharks - draws Copper, Gold, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Salvager, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- GoSharks: turn 5 ----------
+GoSharks - plays 4 Copper, 1 Gold
+GoSharks - buys Gold
+GoSharks - gains Gold
+GoSharks - draws Ironworks, Estate, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Haggler, Copper, Estate, Estate
+ 
+---------- GoSharks: turn 6 ----------
+GoSharks - plays Ironworks
+GoSharks - gains Salvager
+GoSharks - plays 1 Silver, 1 Copper
+GoSharks - buys Village
+GoSharks - gains Village
+GoSharks - draws Estate, Ironworks, Copper, Copper
+GoSharks - shuffles deck
+GoSharks - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Haggler
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Stonemason
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- GoSharks: turn 7 ----------
+GoSharks - plays Ironworks
+GoSharks - gains Herald
+GoSharks - plays 3 Copper
+GoSharks - buys Village
+GoSharks - gains Village
+GoSharks - draws Gold, Silver, Copper, Ironworks, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- GoSharks: turn 8 ----------
+GoSharks - plays Ironworks
+GoSharks - gains Herald
+GoSharks - plays 1 Gold, 1 Silver, 1 Copper
+GoSharks - buys Hunting Grounds
+GoSharks - gains Hunting Grounds
+GoSharks - draws Copper, Gold, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 1 coin
+Titandrake - places Hoard on top of deck
+Titandrake - gains Herald
+Titandrake - draws Hoard, Estate, Stonemason, Salvager, Silver
+ 
+---------- GoSharks: turn 9 ----------
+GoSharks - plays 3 Copper, 1 Gold
+GoSharks - buys Hunting Grounds
+GoSharks - gains Hunting Grounds
+GoSharks - draws Salvager, Village
+GoSharks - shuffles deck
+GoSharks - draws Copper, Village, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 1 Silver
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Copper, Haggler
+Titandrake - shuffles deck
+Titandrake - draws Stonemason, Silver, Copper
+ 
+---------- GoSharks: turn 10 ----------
+GoSharks - plays Village
+GoSharks - draws Copper
+GoSharks - plays Village
+GoSharks - draws Ironworks
+GoSharks - plays Ironworks
+GoSharks - gains Salvager
+GoSharks - plays Salvager
+GoSharks - trashes Copper
+GoSharks - draws Hunting Grounds, Copper, Hunting Grounds, Copper, Ironworks
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Haggler
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Duchy, Salvager, Copper
+ 
+---------- GoSharks: turn 11 ----------
+GoSharks - plays Ironworks
+GoSharks - gains Village
+GoSharks - plays Hunting Grounds
+GoSharks - draws Silver, Copper, Gold, Gold
+GoSharks - plays 3 Copper, 2 Gold, 1 Silver
+GoSharks - buys Province
+GoSharks - gains Province
+GoSharks - draws Estate, Copper, Herald, Herald, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Duchy
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Gold, Silver, Copper, Copper
+ 
+---------- GoSharks: turn 12 ----------
+GoSharks - plays Herald
+GoSharks - draws Estate
+GoSharks - shuffles deck
+GoSharks - reveals: Copper
+GoSharks - places Copper on top of deck
+GoSharks - plays Herald
+GoSharks - draws Copper
+GoSharks - reveals: Copper
+GoSharks - places Copper on top of deck
+GoSharks - draws Copper, Salvager, Salvager, Ironworks, Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 3 coins
+Titandrake - places Haggler on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - gains Herald
+Titandrake - draws Silver, Gold, Haggler, Herald, Silver
+ 
+---------- GoSharks: turn 13 ----------
+GoSharks - plays Village
+GoSharks - draws Copper
+GoSharks - plays Ironworks
+GoSharks - gains Salvager
+GoSharks - plays Salvager
+GoSharks - trashes Salvager
+GoSharks - plays 2 Copper
+GoSharks - buys Gold
+GoSharks - gains Gold
+GoSharks - draws Gold, Village, Hunting Grounds, Copper, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Hoard
+Titandrake - places Hoard on top of deck
+Titandrake - plays Haggler
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Hoard
+Titandrake - shuffles deck
+Titandrake - draws Salvager, Silver, Stonemason, Province
+ 
+---------- GoSharks: turn 14 ----------
+GoSharks - plays Village
+GoSharks - draws Village
+GoSharks - plays Village
+GoSharks - draws Copper
+GoSharks - plays Hunting Grounds
+GoSharks - draws Silver, Hunting Grounds, Province, Ironworks
+GoSharks - plays Ironworks
+GoSharks - gains Salvager
+GoSharks - plays Hunting Grounds
+GoSharks - shuffles deck
+GoSharks - draws Estate, Village, Estate, Copper
+GoSharks - plays Village
+GoSharks - draws Copper
+GoSharks - plays 4 Copper, 2 Gold, 1 Silver
+GoSharks - buys Province
+GoSharks - gains Province
+GoSharks - draws Estate, Herald, Ironworks, Salvager, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Stonemason
+Titandrake - plays 1 Silver
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Haggler, Gold, Estate, Copper, Copper
+ 
+---------- GoSharks: turn 15 ----------
+GoSharks - plays Herald
+GoSharks - draws Salvager
+GoSharks - reveals: Gold
+GoSharks - places Gold on top of deck
+GoSharks - plays Salvager
+GoSharks - trashes Ironworks
+GoSharks - plays Copper
+GoSharks - buys Duchy
+GoSharks - gains Duchy
+GoSharks - draws Gold, Salvager, Copper, Herald
+GoSharks - shuffles deck
+GoSharks - draws Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Hunting Grounds
+Titandrake - gains Herald
+Titandrake - gains Hunting Grounds
+Titandrake - draws Copper, Silver, Herald, Estate, Silver
+ 
+---------- GoSharks: turn 16 ----------
+GoSharks - plays Herald
+GoSharks - draws Silver
+GoSharks - reveals: Ironworks
+GoSharks - plays Ironworks
+GoSharks - gains Herald
+GoSharks - plays 2 Copper, 1 Gold, 1 Silver
+GoSharks - buys Hunting Grounds
+GoSharks - gains Hunting Grounds
+GoSharks - draws Copper, Estate, Copper, Province, Duchy
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Province
+Titandrake - places Province on top of deck
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 4 coins
+Titandrake - gains Herald
+Titandrake - gains Herald
+Titandrake - gains Stonemason
+Titandrake - draws Province, Silver, Copper, Copper, Herald
+ 
+---------- GoSharks: turn 17 ----------
+GoSharks - plays 2 Copper
+GoSharks - buys Stonemason
+GoSharks - gains Stonemason
+GoSharks - draws Estate, Gold, Village, Hunting Grounds, Salvager
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Herald
+Titandrake - draws Gold
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Haggler
+Titandrake - shuffles deck
+Titandrake - draws Copper, Herald, Herald
+ 
+---------- GoSharks: turn 18 ----------
+GoSharks - plays Village
+GoSharks - draws Copper
+GoSharks - plays Salvager
+GoSharks - trashes Hunting Grounds
+GoSharks - gains Duchy
+GoSharks - plays 1 Gold, 1 Copper
+GoSharks - buys Province
+GoSharks - gains Province
+GoSharks - draws Salvager, Village, Copper, Province, Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Herald
+Titandrake - draws Province
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Hoard
+Titandrake - places Hoard on top of deck
+Titandrake - plays Haggler
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Herald
+Titandrake - gains Duchy
+Titandrake - draws Hoard, Herald, Haggler, Gold, Stonemason
+ 
+---------- GoSharks: turn 19 ----------
+GoSharks - plays Village
+GoSharks - draws Village
+GoSharks - plays Village
+GoSharks - draws Herald
+GoSharks - plays Herald
+GoSharks - draws Gold
+GoSharks - reveals: Hunting Grounds
+GoSharks - plays Hunting Grounds
+GoSharks - shuffles deck
+GoSharks - draws Estate, Salvager, Province, Silver
+GoSharks - plays Salvager
+GoSharks - trashes Salvager
+GoSharks - plays 1 Copper, 1 Gold, 1 Silver
+GoSharks - buys Province
+GoSharks - gains Province
+GoSharks - draws Hunting Grounds, Duchy, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Stonemason
+Titandrake - trashes Hoard
+Titandrake - gains Duchy
+Titandrake - gains Duchy
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Duchy, Estate, Herald
+ 
+---------- GoSharks: turn 20 ----------
+GoSharks - plays Hunting Grounds
+GoSharks - draws Copper, Duchy, Copper, Herald
+GoSharks - plays 4 Copper, 1 Gold
+GoSharks - buys Gold
+GoSharks - gains Gold
+GoSharks - draws Estate, Village, Stonemason, Ironworks, Salvager
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Gold, Silver, Province, Gold
+ 
+---------- GoSharks: turn 21 ----------
+GoSharks - plays Village
+GoSharks - draws Gold
+GoSharks - plays Stonemason
+GoSharks - trashes Ironworks
+GoSharks - gains Estate
+GoSharks - gains Estate
+GoSharks - plays Salvager
+GoSharks - trashes Estate
+GoSharks - plays Gold
+GoSharks - buys Silver
+GoSharks - gains Silver
+GoSharks - draws Province, Herald, Copper
+GoSharks - shuffles deck
+GoSharks - draws Copper, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Salvager, Silver, Copper, Copper, Hunting Grounds
+ 
+---------- GoSharks: turn 22 ----------
+GoSharks - plays Herald
+GoSharks - draws Estate
+GoSharks - reveals: Gold
+GoSharks - places Gold on top of deck
+GoSharks - plays 3 Copper
+GoSharks - buys Estate
+GoSharks - gains Estate
+GoSharks - draws Gold, Hunting Grounds, Duchy, Estate, Village
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Hunting Grounds
+Titandrake - gains Estate
+Titandrake - gains Estate
+Titandrake - gains Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Herald, Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Herald, 2 Haggler, 1 Salvager, 1 Stonemason, 6 Copper, 5 Gold, 5 Silver, 6 Estate, 5 Duchy, 4 Province
+Titandrake - total victory points: 45
+Titandrake - turns: 22
+ 
+GoSharks - cards: 3 Village, 3 Herald, 2 Hunting Grounds, 2 Salvager, 1 Stonemason, 6 Copper, 4 Gold, 2 Silver, 5 Estate, 4 Province, 2 Duchy
+GoSharks - total victory points: 35
+GoSharks - turns: 22
+ 
+1st place: Titandrake
+2nd place: GoSharks
+ 

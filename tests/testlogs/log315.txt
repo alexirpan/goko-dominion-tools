@@ -1,0 +1,327 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Workshop, Bridge, Apprentice, City, Festival, Journeyman, Mint, Rogue, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Stefan - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Stefan - shuffles deck
+Titandrake - shuffles deck
+Stefan - draws Estate, Estate, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Stefan: turn 1 ----------
+Stefan - plays 2 Copper
+Stefan - buys Chapel
+Stefan - gains Chapel
+Stefan - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - shuffles deck
+Titandrake - draws Festival, Copper, Estate, Copper, Copper
+ 
+---------- Stefan: turn 2 ----------
+Stefan - plays 5 Copper
+Stefan - buys Festival
+Stefan - gains Festival
+Stefan - shuffles deck
+Stefan - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Festival
+Titandrake - plays 3 Copper
+Titandrake - buys Torturer
+Titandrake - gains Torturer
+Titandrake - draws Copper, Estate, Copper, Chapel, Copper
+ 
+---------- Stefan: turn 3 ----------
+Stefan - plays 5 Copper
+Stefan - buys Torturer
+Stefan - gains Torturer
+Stefan - draws Estate, Chapel, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- Stefan: turn 4 ----------
+Stefan - plays Chapel
+Stefan - trashes Estate, Estate, Copper, Estate
+Stefan - draws Festival, Copper
+Stefan - shuffles deck
+Stefan - draws Copper, Torturer, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Torturer, Copper, Festival, Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Stefan: turn 5 ----------
+Stefan - plays Festival
+Stefan - plays Torturer
+Stefan - draws Chapel, Copper, Copper
+Titandrake - gains Curse
+Stefan - plays Chapel
+Stefan - trashes Copper, Copper
+Stefan - plays 3 Copper
+Stefan - buys Festival
+Stefan - gains Festival
+Stefan - draws Copper
+Stefan - shuffles deck
+Stefan - draws Copper, Copper, Festival, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Copper, Workshop, Estate
+Stefan - gains Curse
+Titandrake - plays Chapel
+Titandrake - trashes Curse, Estate
+Titandrake - plays 3 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Festival, Copper, Workshop
+ 
+---------- Stefan: turn 6 ----------
+Stefan - plays Festival
+Stefan - plays 4 Copper
+Stefan - buys Gold
+Stefan - gains Gold
+Stefan - draws Torturer, Festival, Chapel
+Stefan - shuffles deck
+Stefan - draws Curse, Gold
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Festival
+Titandrake - plays Workshop
+Titandrake - gains Bridge
+Titandrake - draws Copper, Chapel, City, Torturer, Copper
+ 
+---------- Stefan: turn 7 ----------
+Stefan - plays Festival
+Stefan - plays Torturer
+Stefan - draws Copper, Copper, Copper
+Titandrake - gains Curse
+Stefan - plays Chapel
+Stefan - trashes Curse, Copper, Copper
+Stefan - plays 1 Gold, 1 Copper
+Stefan - buys Gold
+Stefan - gains Gold
+Stefan - draws Festival, Copper
+Stefan - shuffles deck
+Stefan - draws Copper, Gold, Chapel
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays City
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Torturer
+Titandrake - draws Bridge, Copper, Copper
+Stefan - gains Curse
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Curse, Copper, Copper
+Titandrake - draws Workshop, Festival
+Titandrake - shuffles deck
+Titandrake - draws Torturer, Bridge, Chapel
+ 
+---------- Stefan: turn 8 ----------
+Stefan - plays Festival
+Stefan - plays Chapel
+Stefan - trashes Curse, Copper, Copper
+Stefan - plays Gold
+Stefan - buys Torturer
+Stefan - gains Torturer
+Stefan - draws Torturer, Gold, Festival
+Stefan - shuffles deck
+Stefan - draws Festival, Torturer
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Festival
+Titandrake - plays Torturer
+Titandrake - draws Copper, Copper, City
+Stefan - gains Curse
+Titandrake - plays City
+Titandrake - plays Bridge
+Titandrake - plays Workshop
+Titandrake - gains City
+Titandrake - plays 2 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - shuffles deck
+Titandrake - draws Copper, City, City, City, Bridge
+ 
+---------- Stefan: turn 9 ----------
+Stefan - plays Festival
+Stefan - plays Festival
+Stefan - plays Torturer
+Stefan - draws Gold, Chapel
+Titandrake - gains Curse
+Stefan - plays Torturer
+Titandrake - gains Curse
+Stefan - plays Chapel
+Stefan - trashes Curse
+Stefan - plays 2 Gold
+Stefan - buys Festival
+Stefan - gains Festival
+Stefan - buys City
+Stefan - gains City
+Stefan - shuffles deck
+Stefan - draws Gold, City, Torturer, Festival, Festival
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays City
+Titandrake - draws Chapel
+Titandrake - plays City
+Titandrake - draws Workshop
+Titandrake - plays City
+Titandrake - draws Festival
+Titandrake - plays Festival
+Titandrake - plays Bridge
+Titandrake - plays Workshop
+Titandrake - gains Bridge
+Titandrake - plays Chapel
+Titandrake - trashes Curse, Curse
+Titandrake - plays Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Copper, Torturer
+Titandrake - shuffles deck
+Titandrake - draws City, City, Bridge
+ 
+---------- Stefan: turn 10 ----------
+Stefan - plays City
+Stefan - draws Festival
+Stefan - plays Festival
+Stefan - plays Festival
+Stefan - plays Festival
+Stefan - plays Torturer
+Stefan - draws Chapel, Gold, Torturer
+Titandrake - gains Curse
+Stefan - plays Torturer
+Titandrake - gains Curse
+Stefan - plays 2 Gold
+Stefan - buys City
+Stefan - gains City
+Stefan - buys City
+Stefan - gains City
+Stefan - shuffles deck
+Stefan - draws Chapel, Festival, Torturer, Gold, City
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays City
+Titandrake - draws Festival
+Titandrake - plays Torturer
+Titandrake - draws Workshop, Copper, Chapel
+Stefan - discards Chapel
+Stefan - discards Gold
+Titandrake - plays Festival
+Titandrake - plays City
+Titandrake - draws City
+Titandrake - plays City
+Titandrake - draws Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Workshop
+Titandrake - gains City
+Titandrake - plays Chapel
+Titandrake - trashes Curse, Curse, Copper, Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws City
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Bridge, Bridge, Bridge
+ 
+---------- Stefan: turn 11 ----------
+Stefan - plays Festival
+Stefan - plays Torturer
+Stefan - draws City, Festival, Gold
+Titandrake - gains Curse
+Stefan - plays City
+Stefan - draws City, Festival
+Stefan - plays City
+Stefan - draws Torturer
+Stefan - shuffles deck
+Stefan - draws Gold
+Stefan - plays City
+Stefan - draws Chapel
+Stefan - plays Festival
+Stefan - plays Festival
+Stefan - plays Torturer
+Stefan - plays 2 Gold
+Stefan - buys Bridge
+Stefan - gains Bridge
+Stefan - buys Bridge
+Stefan - gains Bridge
+Stefan - buys Bridge
+Stefan - gains Bridge
+Stefan - shuffles deck
+Stefan - draws City, Bridge, Torturer, Bridge, Festival
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays City
+Titandrake - draws Bridge, City
+Titandrake - plays City
+Titandrake - draws Festival, City
+Titandrake - plays City
+Titandrake - draws City, Workshop
+Titandrake - plays City
+Titandrake - draws City, Torturer
+Titandrake - plays Festival
+Titandrake - plays Workshop
+Titandrake - gains Bridge
+Titandrake - plays City
+Titandrake - shuffles deck
+Titandrake - draws Bridge
+Titandrake - plays Chapel
+Titandrake - trashes Curse
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Festival, City, Province, Workshop, City
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 City, 7 Bridge, 1 Festival, 1 Workshop, 1 Chapel, 1 Torturer, 2 Province, 1 Duchy
+Titandrake - total victory points: 15
+Titandrake - turns: 12
+ 
+Stefan - cards: 3 City, 3 Bridge, 3 Festival, 2 Torturer, 1 Chapel, 2 Gold
+Stefan - total victory points: 0
+Stefan - turns: 11
+ 
+1st place: Titandrake
+2nd place: Stefan
+ 

@@ -1,0 +1,535 @@
+------------ Game Setup ------------
+Supply cards: Oasis, Scheme, Trade Route, Bureaucrat, Remodel, Bazaar, Mandarin, Mountebank, Treasury, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Goon to the Chapel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Goon to the Chapel - shuffles deck
+Titandrake - shuffles deck
+Goon to the Chapel - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Goon to the Chapel: turn 1 ----------
+Goon to the Chapel - plays 4 Copper
+Goon to the Chapel - buys Silver
+Goon to the Chapel - gains Silver
+Goon to the Chapel - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Goon to the Chapel: turn 2 ----------
+Goon to the Chapel - plays 3 Copper
+Goon to the Chapel - buys Silver
+Goon to the Chapel - gains Silver
+Goon to the Chapel - shuffles deck
+Goon to the Chapel - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - shuffles deck
+Titandrake - draws Oasis, Estate, Copper, Silver, Copper
+ 
+---------- Goon to the Chapel: turn 3 ----------
+Goon to the Chapel - plays 4 Copper
+Goon to the Chapel - buys Remodel
+Goon to the Chapel - gains Remodel
+Goon to the Chapel - draws Estate, Silver, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Goon to the Chapel: turn 4 ----------
+Goon to the Chapel - plays 2 Silver, 2 Copper
+Goon to the Chapel - buys Mountebank
+Goon to the Chapel - gains Mountebank
+Goon to the Chapel - draws Copper, Estate
+Goon to the Chapel - shuffles deck
+Goon to the Chapel - draws Copper, Mountebank, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Oasis, Copper
+ 
+---------- Goon to the Chapel: turn 5 ----------
+Goon to the Chapel - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Goon to the Chapel - plays 3 Copper
+Goon to the Chapel - buys Mountebank
+Goon to the Chapel - gains Mountebank
+Goon to the Chapel - draws Silver, Copper, Estate, Remodel, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Estate, Copper, Estate, Scheme, Copper
+ 
+---------- Goon to the Chapel: turn 6 ----------
+Goon to the Chapel - plays Remodel
+Goon to the Chapel - trashes Silver
+Goon to the Chapel - gains Bazaar
+Goon to the Chapel - draws Copper, Estate, Copper, Silver
+Goon to the Chapel - shuffles deck
+Goon to the Chapel - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Mountebank, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- Goon to the Chapel: turn 7 ----------
+Goon to the Chapel - plays 3 Copper, 1 Silver
+Goon to the Chapel - buys Mountebank
+Goon to the Chapel - gains Mountebank
+Goon to the Chapel - draws Remodel, Mountebank, Mountebank, Estate, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Mountebank
+Goon to the Chapel - gains Curse
+Goon to the Chapel - gains Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - Scheme choice: Mountebank
+Titandrake - draws Mountebank, Estate, Copper, Oasis, Mountebank
+ 
+---------- Goon to the Chapel: turn 8 ----------
+Goon to the Chapel - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Goon to the Chapel - draws Copper, Bazaar, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays Mountebank
+Goon to the Chapel - gains Curse
+Goon to the Chapel - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - draws Copper, Copper, Curse, Copper, Copper
+ 
+---------- Goon to the Chapel: turn 9 ----------
+Goon to the Chapel - plays Bazaar
+Goon to the Chapel - shuffles deck
+Goon to the Chapel - draws Mountebank
+Goon to the Chapel - plays Mountebank
+Titandrake - discards Curse
+Goon to the Chapel - plays 4 Copper
+Goon to the Chapel - buys Nobles
+Goon to the Chapel - gains Nobles
+Goon to the Chapel - draws Curse, Copper, Curse, Estate, Mountebank
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Silver
+ 
+---------- Goon to the Chapel: turn 10 ----------
+Goon to the Chapel - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Goon to the Chapel - plays 1 Copper
+Goon to the Chapel - buys Scheme
+Goon to the Chapel - gains Scheme
+Goon to the Chapel - draws Copper, Estate, Mountebank, Remodel, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Mountebank, Treasury, Trade Route, Copper, Estate
+ 
+---------- Goon to the Chapel: turn 11 ----------
+Goon to the Chapel - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Goon to the Chapel - plays 2 Copper
+Goon to the Chapel - buys Trade Route
+Goon to the Chapel - gains Trade Route
+Goon to the Chapel - draws Copper, Estate, Silver, Copper
+Goon to the Chapel - shuffles deck
+Goon to the Chapel - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Mountebank
+Goon to the Chapel - gains Curse
+Goon to the Chapel - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Estate, Scheme, Mountebank, Copper
+ 
+---------- Goon to the Chapel: turn 12 ----------
+Goon to the Chapel - plays 3 Copper, 1 Silver
+Goon to the Chapel - buys Treasury
+Goon to the Chapel - gains Treasury
+Goon to the Chapel - draws Copper, Bazaar, Mountebank, Scheme, Trade Route
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Treasury
+Titandrake - draws Estate
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays Mountebank
+Goon to the Chapel - gains Curse
+Goon to the Chapel - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Mountebank
+Titandrake - places Treasury on top of deck
+Titandrake - draws Mountebank, Treasury, Curse, Oasis, Copper
+ 
+---------- Goon to the Chapel: turn 13 ----------
+Goon to the Chapel - plays Scheme
+Goon to the Chapel - draws Mountebank
+Goon to the Chapel - plays Bazaar
+Goon to the Chapel - draws Estate
+Goon to the Chapel - plays Mountebank
+Titandrake - discards Curse
+Goon to the Chapel - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Goon to the Chapel - plays 1 Copper
+Goon to the Chapel - buys Nobles
+Goon to the Chapel - gains Nobles
+Goon to the Chapel - Scheme choice: Mountebank
+Goon to the Chapel - draws Mountebank, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Oasis
+Titandrake - draws Treasury
+Titandrake - discards Copper
+Titandrake - plays Treasury
+Titandrake - shuffles deck
+Titandrake - draws Curse
+Titandrake - plays Mountebank
+Goon to the Chapel - gains Curse
+Goon to the Chapel - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Curse, Mountebank, Estate, Copper
+ 
+---------- Goon to the Chapel: turn 14 ----------
+Goon to the Chapel - plays Mountebank
+Titandrake - discards Curse
+Goon to the Chapel - plays 3 Copper
+Goon to the Chapel - buys Treasury
+Goon to the Chapel - gains Treasury
+Goon to the Chapel - draws Copper, Nobles, Curse, Remodel, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Mountebank
+Goon to the Chapel - discards Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Scheme, Copper, Copper, Curse, Scheme
+ 
+---------- Goon to the Chapel: turn 15 ----------
+Goon to the Chapel - plays Nobles
+Goon to the Chapel - draws Copper, Mountebank
+Goon to the Chapel - shuffles deck
+Goon to the Chapel - draws Copper
+Goon to the Chapel - plays 3 Copper
+Goon to the Chapel - buys Scheme
+Goon to the Chapel - gains Scheme
+Goon to the Chapel - draws Curse, Treasury, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Copper, Treasury, Estate
+ 
+---------- Goon to the Chapel: turn 16 ----------
+Goon to the Chapel - plays Treasury
+Goon to the Chapel - draws Copper
+Goon to the Chapel - plays 3 Copper, 1 Silver
+Goon to the Chapel - buys Nobles
+Goon to the Chapel - gains Nobles
+Goon to the Chapel - draws Estate, Copper, Copper, Estate, Mountebank
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Treasury
+Titandrake - draws Silver
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - Scheme choice: Treasury
+Titandrake - Scheme choice: Scheme
+Titandrake - places Treasury on top of deck
+Titandrake - draws Scheme, Treasury, Nobles, Estate, Copper
+ 
+---------- Goon to the Chapel: turn 17 ----------
+Goon to the Chapel - plays Mountebank
+Titandrake - gains Copper
+Goon to the Chapel - plays 2 Copper
+Goon to the Chapel - buys Scheme
+Goon to the Chapel - gains Scheme
+Goon to the Chapel - draws Curse, Copper, Copper, Mountebank, Bazaar
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Scheme
+Titandrake - draws Trade Route
+Titandrake - plays Treasury
+Titandrake - draws Curse
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Scheme
+Titandrake - places Treasury on top of deck
+Titandrake - draws Scheme, Treasury, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Goon to the Chapel: turn 18 ----------
+Goon to the Chapel - plays Bazaar
+Goon to the Chapel - draws Estate
+Goon to the Chapel - plays Mountebank
+Titandrake - gains Copper
+Goon to the Chapel - plays 2 Copper
+Goon to the Chapel - buys Trade Route
+Goon to the Chapel - gains Trade Route
+Goon to the Chapel - draws Copper, Nobles, Scheme, Copper, Trade Route
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - Scheme choice: Scheme
+Titandrake - places Treasury on top of deck
+Titandrake - draws Scheme, Treasury, Nobles, Estate, Curse
+ 
+---------- Goon to the Chapel: turn 19 ----------
+Goon to the Chapel - plays Scheme
+Goon to the Chapel - draws Curse
+Goon to the Chapel - plays Trade Route
+Goon to the Chapel - trashes Curse
+Goon to the Chapel - plays 2 Copper
+Goon to the Chapel - buys Scheme
+Goon to the Chapel - gains Scheme
+Goon to the Chapel - Scheme choice: Scheme
+Goon to the Chapel - draws Scheme, Treasury, Curse
+Goon to the Chapel - shuffles deck
+Goon to the Chapel - draws Estate, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Scheme
+Titandrake - draws Treasury
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Treasury
+Titandrake - draws Curse
+Titandrake - plays Nobles
+Titandrake - draws Silver, Copper, Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - Scheme choice: Nobles
+Titandrake - draws Nobles, Copper, Mountebank, Estate, Copper
+ 
+---------- Goon to the Chapel: turn 20 ----------
+Goon to the Chapel - plays Treasury
+Goon to the Chapel - draws Treasury
+Goon to the Chapel - plays Scheme
+Goon to the Chapel - draws Curse
+Goon to the Chapel - plays Treasury
+Goon to the Chapel - draws Copper
+Goon to the Chapel - plays 2 Copper
+Goon to the Chapel - buys Silver
+Goon to the Chapel - gains Silver
+Goon to the Chapel - Scheme choice: Scheme
+Goon to the Chapel - places Treasury, Treasury on top of deck
+Goon to the Chapel - draws Scheme, Treasury, Treasury, Mountebank, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Mountebank
+Goon to the Chapel - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Oasis, Silver, Copper, Nobles, Trade Route
+ 
+---------- Goon to the Chapel: turn 21 ----------
+Goon to the Chapel - plays Scheme
+Goon to the Chapel - draws Copper
+Goon to the Chapel - plays Treasury
+Goon to the Chapel - draws Bazaar
+Goon to the Chapel - plays Treasury
+Goon to the Chapel - draws Curse
+Goon to the Chapel - plays Bazaar
+Goon to the Chapel - draws Curse
+Goon to the Chapel - plays Mountebank
+Titandrake - gains Copper
+Goon to the Chapel - plays 2 Copper
+Goon to the Chapel - buys Nobles
+Goon to the Chapel - gains Nobles
+Goon to the Chapel - Scheme choice: Bazaar
+Goon to the Chapel - draws Bazaar, Nobles, Copper, Nobles, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Trade Route
+Titandrake - plays Nobles
+Titandrake - draws Copper, Copper, Gold
+Titandrake - plays 4 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Trade Route, Scheme, Curse, Treasury
+ 
+---------- Goon to the Chapel: turn 22 ----------
+Goon to the Chapel - plays Bazaar
+Goon to the Chapel - draws Copper
+Goon to the Chapel - plays Nobles
+Goon to the Chapel - draws Estate, Copper, Mountebank
+Goon to the Chapel - plays Nobles
+Goon to the Chapel - takes 2 actions
+Goon to the Chapel - plays Mountebank
+Titandrake - gains Copper
+Goon to the Chapel - plays 3 Copper, 1 Silver
+Goon to the Chapel - buys Nobles
+Goon to the Chapel - gains Nobles
+Goon to the Chapel - draws Estate, Copper, Copper, Scheme, Trade Route
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Treasury
+Titandrake - draws Mountebank
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Trade Route
+Titandrake - places Treasury on top of deck
+Titandrake - draws Trade Route, Treasury
+Titandrake - shuffles deck
+Titandrake - draws Silver, Treasury, Copper
+ 
+---------- Goon to the Chapel: turn 23 ----------
+Goon to the Chapel - plays Scheme
+Goon to the Chapel - draws Copper
+Goon to the Chapel - plays Trade Route
+Goon to the Chapel - trashes Copper
+Goon to the Chapel - plays 2 Copper
+Goon to the Chapel - buys Estate
+Goon to the Chapel - gains Estate
+Goon to the Chapel - buys Estate
+Goon to the Chapel - gains Estate
+Goon to the Chapel - Scheme choice: Trade Route
+Goon to the Chapel - draws Trade Route, Scheme, Nobles, Remodel, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Treasury
+Titandrake - draws Scheme
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Trade Route
+Titandrake - draws Trade Route, Estate, Silver, Copper, Treasury
+ 
+---------- Goon to the Chapel: turn 24 ----------
+Goon to the Chapel - plays Scheme
+Goon to the Chapel - draws Mountebank
+Goon to the Chapel - plays Nobles
+Goon to the Chapel - takes 2 actions
+Goon to the Chapel - plays Trade Route
+Goon to the Chapel - trashes Copper
+Goon to the Chapel - plays Remodel
+Goon to the Chapel - trashes Mountebank
+Goon to the Chapel - gains Duchy
+Goon to the Chapel - buys Silver
+Goon to the Chapel - gains Silver
+Goon to the Chapel - Scheme choice: Nobles
+Goon to the Chapel - draws Nobles, Copper, Scheme, Trade Route
+Goon to the Chapel - shuffles deck
+Goon to the Chapel - draws Remodel
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Treasury
+Titandrake - draws Province
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Copper, Copper, Copper, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Scheme, 4 Treasury, 3 Nobles, 3 Trade Route, 2 Mountebank, 14 Copper, 1 Oasis, 3 Silver, 1 Gold, 3 Estate, 2 Province, 3 Curse
+Titandrake - total victory points: 18
+Titandrake - turns: 24
+ 
+Goon to the Chapel - cards: 5 Nobles, 4 Scheme, 2 Trade Route, 2 Treasury, 2 Mountebank, 11 Copper, 1 Remodel, 1 Bazaar, 3 Silver, 5 Estate, 1 Duchy, 4 Curse
+Goon to the Chapel - total victory points: 14
+Goon to the Chapel - turns: 24
+ 
+1st place: Titandrake
+2nd place: Goon to the Chapel
+ 

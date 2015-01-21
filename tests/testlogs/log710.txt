@@ -1,0 +1,538 @@
+------------ Game Setup ------------
+Supply cards: Steward, Workshop, Smithy, Spy, Talisman, Worker's Village, Counting House, Mine, Upgrade, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+dominion cartel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dominion cartel - shuffles deck
+Titandrake - shuffles deck
+dominion cartel - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- dominion cartel: turn 1 ----------
+dominion cartel - plays 3 Copper
+dominion cartel - buys Steward
+dominion cartel - gains Steward
+dominion cartel - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- dominion cartel: turn 2 ----------
+dominion cartel - plays 4 Copper
+dominion cartel - buys Talisman
+dominion cartel - gains Talisman
+dominion cartel - shuffles deck
+dominion cartel - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- dominion cartel: turn 3 ----------
+dominion cartel - plays 4 Copper
+dominion cartel - buys Worker's Village
+dominion cartel - gains Worker's Village
+dominion cartel - draws Copper, Talisman, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Steward
+ 
+---------- dominion cartel: turn 4 ----------
+dominion cartel - plays 3 Copper
+dominion cartel - plays Talisman
+dominion cartel - buys Worker's Village
+dominion cartel - gains Worker's Village
+dominion cartel - gains Worker's Village
+dominion cartel - draws Estate, Steward
+dominion cartel - shuffles deck
+dominion cartel - draws Copper, Worker's Village, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - draws Workshop, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Steward
+ 
+---------- dominion cartel: turn 5 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Copper
+dominion cartel - plays Steward
+dominion cartel - draws Talisman, Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Estate
+dominion cartel - plays 3 Copper
+dominion cartel - plays Talisman
+dominion cartel - buys Worker's Village
+dominion cartel - gains Worker's Village
+dominion cartel - gains Worker's Village
+dominion cartel - draws Estate, Worker's Village, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Workshop
+Titandrake - gains Worker's Village
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- dominion cartel: turn 6 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Copper
+dominion cartel - plays 4 Copper
+dominion cartel - buys Smithy
+dominion cartel - gains Smithy
+dominion cartel - shuffles deck
+dominion cartel - draws Worker's Village, Copper, Worker's Village, Estate, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Steward
+ 
+---------- dominion cartel: turn 7 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Estate
+dominion cartel - plays Worker's Village
+dominion cartel - draws Copper
+dominion cartel - plays 2 Copper
+dominion cartel - draws Smithy, Copper, Copper, Worker's Village, Steward
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Estate
+Titandrake - draws Workshop, Estate, Copper, Silver, Worker's Village
+ 
+---------- dominion cartel: turn 8 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Copper
+dominion cartel - plays Smithy
+dominion cartel - draws Copper, Copper, Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Talisman
+dominion cartel - plays Steward
+dominion cartel - trashes Copper, Copper
+dominion cartel - plays 3 Copper
+dominion cartel - plays Talisman
+dominion cartel - buys Worker's Village
+dominion cartel - gains Worker's Village
+dominion cartel - gains Worker's Village
+dominion cartel - shuffles deck
+dominion cartel - draws Estate, Copper, Copper, Worker's Village, Worker's Village
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Workshop
+Titandrake - gains Worker's Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- dominion cartel: turn 9 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Copper
+dominion cartel - plays Worker's Village
+dominion cartel - draws Estate
+dominion cartel - plays 3 Copper
+dominion cartel - buys Steward
+dominion cartel - gains Steward
+dominion cartel - draws Smithy, Worker's Village, Talisman, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - draws Worker's Village, Copper, Silver, Copper, Worker's Village
+ 
+---------- dominion cartel: turn 10 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Copper
+dominion cartel - plays Smithy
+dominion cartel - draws Worker's Village, Steward, Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - shuffles deck
+dominion cartel - draws Copper
+dominion cartel - plays Worker's Village
+dominion cartel - draws Estate
+dominion cartel - plays Steward
+dominion cartel - trashes Estate, Estate
+dominion cartel - plays 3 Copper
+dominion cartel - plays Talisman
+dominion cartel - buys Smithy
+dominion cartel - gains Smithy
+dominion cartel - gains Smithy
+dominion cartel - draws Steward, Copper, Copper, Worker's Village, Worker's Village
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Workshop
+Titandrake - plays Worker's Village
+Titandrake - draws Steward
+Titandrake - plays Workshop
+Titandrake - gains Smithy
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Mine
+Titandrake - gains Mine
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Silver, Mine, Smithy
+ 
+---------- dominion cartel: turn 11 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Estate
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - shuffles deck
+dominion cartel - draws Smithy
+dominion cartel - plays Smithy
+dominion cartel - draws Worker's Village, Talisman, Copper
+dominion cartel - plays Worker's Village
+dominion cartel - draws Copper
+dominion cartel - plays Steward
+dominion cartel - draws Copper, Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Smithy
+dominion cartel - plays Smithy
+dominion cartel - draws Worker's Village, Smithy, Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Steward
+dominion cartel - plays Worker's Village
+dominion cartel - plays Steward
+dominion cartel - takes 2 coins
+dominion cartel - plays 5 Copper
+dominion cartel - plays Talisman
+dominion cartel - buys Mine
+dominion cartel - gains Mine
+dominion cartel - buys Silver
+dominion cartel - gains Silver
+dominion cartel - gains Silver
+dominion cartel - shuffles deck
+dominion cartel - draws Mine, Worker's Village, Worker's Village, Steward, Smithy
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Mine
+Titandrake - trashes Silver
+Titandrake - gains Gold
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Copper, Copper, Smithy, Estate
+ 
+---------- dominion cartel: turn 12 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Smithy
+dominion cartel - plays Worker's Village
+dominion cartel - draws Copper
+dominion cartel - plays Smithy
+dominion cartel - draws Silver, Worker's Village, Copper
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Estate
+dominion cartel - plays Smithy
+dominion cartel - draws Talisman, Copper, Smithy
+dominion cartel - plays Smithy
+dominion cartel - draws Steward, Copper, Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Silver
+dominion cartel - plays Mine
+dominion cartel - trashes Talisman
+dominion cartel - gains Gold
+dominion cartel - plays Steward
+dominion cartel - trashes Estate, Copper
+dominion cartel - plays Steward
+dominion cartel - draws Copper
+dominion cartel - plays 4 Copper, 2 Silver, 1 Gold
+dominion cartel - buys Platinum
+dominion cartel - gains Platinum
+dominion cartel - shuffles deck
+dominion cartel - draws Smithy, Silver, Platinum, Smithy, Worker's Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Smithy
+Titandrake - draws Workshop, Estate, Worker's Village
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Steward, Worker's Village, Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- dominion cartel: turn 13 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Mine
+dominion cartel - plays Smithy
+dominion cartel - draws Worker's Village, Smithy, Steward
+dominion cartel - plays Worker's Village
+dominion cartel - draws Silver
+dominion cartel - plays Smithy
+dominion cartel - draws Copper, Copper, Copper
+dominion cartel - plays Steward
+dominion cartel - trashes Copper, Copper
+dominion cartel - plays 2 Silver, 1 Platinum, 1 Copper
+dominion cartel - buys Platinum
+dominion cartel - gains Platinum
+dominion cartel - draws Worker's Village, Worker's Village, Gold, Copper, Worker's Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Harem
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays Steward
+Titandrake - draws Gold, Estate
+Titandrake - plays 1 Harem, 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Worker's Village, Silver, Copper, Copper, Workshop
+ 
+---------- dominion cartel: turn 14 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Steward
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - shuffles deck
+dominion cartel - draws Smithy
+dominion cartel - plays Worker's Village
+dominion cartel - draws Steward
+dominion cartel - plays Smithy
+dominion cartel - draws Mine, Platinum, Silver
+dominion cartel - plays Steward
+dominion cartel - draws Smithy, Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Smithy
+dominion cartel - plays Smithy
+dominion cartel - draws Silver, Worker's Village, Copper
+dominion cartel - plays Worker's Village
+dominion cartel - draws Platinum
+dominion cartel - plays Mine
+dominion cartel - trashes Silver
+dominion cartel - gains Gold
+dominion cartel - plays Steward
+dominion cartel - trashes Copper, Copper
+dominion cartel - plays 2 Gold, 2 Platinum, 1 Silver
+dominion cartel - buys Platinum
+dominion cartel - gains Platinum
+dominion cartel - buys Platinum
+dominion cartel - gains Platinum
+dominion cartel - shuffles deck
+dominion cartel - draws Worker's Village, Steward, Worker's Village, Worker's Village, Platinum
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Workshop
+Titandrake - gains Spy
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Smithy, Mine, Smithy
+Titandrake - shuffles deck
+Titandrake - draws Spy, Copper
+ 
+---------- dominion cartel: turn 15 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Steward
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Silver
+dominion cartel - plays Worker's Village
+dominion cartel - draws Gold
+dominion cartel - plays Steward
+dominion cartel - draws Platinum, Smithy
+dominion cartel - plays Smithy
+dominion cartel - draws Mine, Smithy, Platinum
+dominion cartel - plays Smithy
+dominion cartel - draws Worker's Village, Smithy, Gold
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Platinum
+dominion cartel - plays Smithy
+dominion cartel - plays Mine
+dominion cartel - trashes Silver
+dominion cartel - gains Gold
+dominion cartel - plays Steward
+dominion cartel - takes 2 coins
+dominion cartel - plays 4 Platinum, 3 Gold
+dominion cartel - buys Platinum
+dominion cartel - gains Platinum
+dominion cartel - buys Platinum
+dominion cartel - gains Platinum
+dominion cartel - buys Colony
+dominion cartel - gains Colony
+dominion cartel - shuffles deck
+dominion cartel - draws Steward, Worker's Village, Worker's Village, Platinum, Platinum
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Spy
+Titandrake - draws Estate
+Titandrake - places Silver on top of deck
+dominion cartel - discards Worker's Village
+Titandrake - plays Smithy
+Titandrake - draws Silver, Gold, Copper
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Copper, Worker's Village, Steward, Workshop
+ 
+---------- dominion cartel: turn 16 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Smithy
+dominion cartel - plays Worker's Village
+dominion cartel - draws Platinum
+dominion cartel - plays Smithy
+dominion cartel - draws Gold, Smithy, Platinum
+dominion cartel - plays Smithy
+dominion cartel - draws Platinum, Colony, Platinum
+dominion cartel - plays Steward
+dominion cartel - takes 2 coins
+dominion cartel - plays 6 Platinum, 1 Gold
+dominion cartel - buys Colony
+dominion cartel - gains Colony
+dominion cartel - buys Colony
+dominion cartel - gains Colony
+dominion cartel - buys Colony
+dominion cartel - gains Colony
+dominion cartel - draws Worker's Village, Steward, Worker's Village, Worker's Village, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays Steward
+Titandrake - draws Upgrade, Harem
+Titandrake - plays Upgrade
+Titandrake - draws Harem
+Titandrake - trashes Copper
+Titandrake - plays Workshop
+Titandrake - gains Spy
+Titandrake - plays 2 Harem, 1 Copper, 1 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Worker's Village, Estate
+Titandrake - shuffles deck
+Titandrake - draws Smithy, Spy, Copper
+ 
+---------- dominion cartel: turn 17 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Smithy
+dominion cartel - plays Worker's Village
+dominion cartel - draws Mine
+dominion cartel - plays Worker's Village
+dominion cartel - draws Gold
+dominion cartel - plays Smithy
+dominion cartel - shuffles deck
+dominion cartel - draws Worker's Village, Smithy, Gold
+dominion cartel - plays Worker's Village
+dominion cartel - draws Colony
+dominion cartel - plays Smithy
+dominion cartel - draws Steward, Platinum, Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Platinum
+dominion cartel - plays Steward
+dominion cartel - draws Colony, Platinum
+dominion cartel - plays Steward
+dominion cartel - draws Platinum, Platinum
+dominion cartel - plays Mine
+dominion cartel - trashes Gold
+dominion cartel - gains Platinum
+dominion cartel - plays 6 Platinum, 2 Gold
+dominion cartel - buys Colony
+dominion cartel - gains Colony
+dominion cartel - buys Colony
+dominion cartel - gains Colony
+dominion cartel - buys Colony
+dominion cartel - gains Colony
+dominion cartel - draws Platinum, Smithy, Colony, Colony, Worker's Village
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Mine
+Titandrake - plays Smithy
+Titandrake - draws Silver, Worker's Village, Workshop
+Titandrake - plays Spy
+Titandrake - draws Steward
+Titandrake - discards Copper
+dominion cartel - shuffles deck
+dominion cartel - discards Steward
+Titandrake - plays Worker's Village
+Titandrake - draws Harem
+Titandrake - plays Mine
+Titandrake - trashes Harem
+Titandrake - gains Platinum
+Titandrake - plays Steward
+Titandrake - draws Upgrade, Silver
+Titandrake - plays 2 Silver, 1 Copper, 1 Platinum
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Harem, Gold, Estate, Smithy
+ 
+---------- dominion cartel: turn 18 ----------
+dominion cartel - plays Worker's Village
+dominion cartel - draws Platinum
+dominion cartel - plays Smithy
+dominion cartel - draws Platinum, Platinum, Worker's Village
+dominion cartel - plays Worker's Village
+dominion cartel - draws Smithy
+dominion cartel - plays Smithy
+dominion cartel - draws Colony, Gold, Gold
+dominion cartel - plays 4 Platinum, 2 Gold
+dominion cartel - buys Colony
+dominion cartel - gains Colony
+dominion cartel - buys Province
+dominion cartel - gains Province
+dominion cartel - buys Duchy
+dominion cartel - gains Duchy
+dominion cartel - draws Smithy, Worker's Village, Worker's Village, Mine, Platinum
+ 
+------------ Game Over ------------
+dominion cartel - cards: 7 Worker's Village, 3 Smithy, 2 Steward, 1 Mine, 7 Platinum, 2 Gold, 8 Colony, 1 Province, 1 Duchy
+dominion cartel - total victory points: 89
+dominion cartel - turns: 18
+ 
+Titandrake - cards: 3 Worker's Village, 2 Spy, 2 Smithy, 1 Steward, 1 Upgrade, 1 Mine, 1 Workshop, 3 Harem, 3 Copper, 2 Silver, 1 Platinum, 1 Gold, 3 Estate, 1 Province
+Titandrake - total victory points: 15
+Titandrake - turns: 17
+ 
+1st place: dominion cartel
+2nd place: Titandrake
+ 

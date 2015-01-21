@@ -1,0 +1,571 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Workshop, Advisor, Feast, Apprentice, Baker, Council Room, Margrave, Farmland, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Lekkit - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lekkit - shuffles deck
+Titandrake - shuffles deck
+Lekkit - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Lekkit: turn 1 ----------
+Lekkit - plays 4 Copper
+Lekkit - uses 1 coin token
+Lekkit - buys Baker
+Lekkit - gains Baker
+Lekkit - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Lekkit: turn 2 ----------
+Lekkit - plays 3 Copper
+Lekkit - buys Workshop
+Lekkit - gains Workshop
+Lekkit - shuffles deck
+Lekkit - draws Estate, Copper, Copper, Copper, Workshop
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - shuffles deck
+Titandrake - draws Workshop, Copper, Copper, Copper, Estate
+ 
+---------- Lekkit: turn 3 ----------
+Lekkit - plays Workshop
+Lekkit - gains Advisor
+Lekkit - plays 3 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Copper, Baker, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Workshop
+Titandrake - gains Advisor
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Apprentice, Estate
+ 
+---------- Lekkit: turn 4 ----------
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Estate
+Lekkit - plays 3 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Copper
+Lekkit - shuffles deck
+Lekkit - draws Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Feast
+Titandrake - gains Feast
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Workshop, Apprentice
+ 
+---------- Lekkit: turn 5 ----------
+Lekkit - plays 4 Copper
+Lekkit - uses 1 coin token
+Lekkit - buys Apprentice
+Lekkit - gains Apprentice
+Lekkit - draws Estate, Estate, Copper, Baker, Advisor
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays Workshop
+Titandrake - gains Advisor
+Titandrake - draws Estate, Advisor, Copper, Estate, Copper
+ 
+---------- Lekkit: turn 6 ----------
+Lekkit - plays Advisor
+Lekkit - reveals: Copper, Workshop, Silver
+Titandrake - discards Workshop
+Lekkit - places cards in hand:  Copper, Silver
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Silver
+Lekkit - plays 2 Copper, 2 Silver
+Lekkit - buys Baker
+Lekkit - gains Baker
+Lekkit - draws Copper
+Lekkit - shuffles deck
+Lekkit - draws Copper, Silver, Copper, Baker
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Silver, Feast
+Lekkit - discards Feast
+Titandrake - places cards in hand:  Copper, Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Advisor, Estate, Copper, Silver
+ 
+---------- Lekkit: turn 7 ----------
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Estate
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - buys Baker
+Lekkit - gains Baker
+Lekkit - draws Copper, Workshop, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Copper, Feast
+Lekkit - discards Feast
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - draws Advisor, Workshop, Estate, Apprentice, Copper
+ 
+---------- Lekkit: turn 8 ----------
+Lekkit - plays Workshop
+Lekkit - gains Advisor
+Lekkit - plays 4 Copper
+Lekkit - buys Advisor
+Lekkit - gains Advisor
+Lekkit - draws Baker, Silver, Advisor, Estate, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Baker, Copper
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Advisor
+Titandrake - reveals: Silver, Copper, Baker
+Lekkit - discards Baker
+Titandrake - places cards in hand:  Silver, Copper
+Titandrake - plays Workshop
+Titandrake - gains Advisor
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - draws Copper, Copper, Copper, Advisor, Feast
+ 
+---------- Lekkit: turn 9 ----------
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Apprentice
+Lekkit - plays Advisor
+Lekkit - shuffles deck
+Lekkit - reveals: Copper, Copper, Advisor
+Titandrake - discards Advisor
+Lekkit - places cards in hand:  Copper, Copper
+Lekkit - plays Apprentice
+Lekkit - trashes Estate
+Lekkit - draws Copper, Copper
+Lekkit - plays 4 Copper, 1 Silver
+Lekkit - uses 3 coin tokens
+Lekkit - buys Platinum
+Lekkit - gains Platinum
+Lekkit - draws Baker, Advisor, Baker, Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Advisor
+Titandrake - shuffles deck
+Titandrake - reveals: Estate, Baker, Copper
+Lekkit - discards Baker
+Titandrake - places cards in hand:  Estate, Copper
+Titandrake - plays Feast
+Titandrake - trashes Feast
+Titandrake - gains Baker
+Titandrake - plays 4 Copper
+Titandrake - buys Advisor
+Titandrake - gains Advisor
+Titandrake - draws Advisor, Advisor, Copper, Workshop, Silver
+ 
+---------- Lekkit: turn 10 ----------
+Lekkit - plays Advisor
+Lekkit - reveals: Copper, Workshop, Copper
+Titandrake - discards Copper
+Lekkit - places cards in hand:  Copper, Workshop
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Estate
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - shuffles deck
+Lekkit - draws Advisor
+Lekkit - plays Advisor
+Lekkit - reveals: Advisor, Copper, Copper
+Titandrake - discards Advisor
+Lekkit - places cards in hand:  Copper, Copper
+Lekkit - plays Workshop
+Lekkit - gains Advisor
+Lekkit - plays 4 Copper, 1 Silver
+Lekkit - buys Baker
+Lekkit - gains Baker
+Lekkit - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Baker, Baker, Apprentice
+Lekkit - discards Baker
+Titandrake - places cards in hand:  Baker, Apprentice
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Advisor
+Titandrake - shuffles deck
+Titandrake - draws Baker, Copper, Advisor, Copper
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Baker, Advisor
+Lekkit - discards Advisor
+Titandrake - places cards in hand:  Copper, Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Estate
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Baker
+Titandrake - shuffles deck
+Titandrake - draws Advisor, Copper, Silver, Workshop
+ 
+---------- Lekkit: turn 11 ----------
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - buys Baker
+Lekkit - gains Baker
+Lekkit - draws Apprentice, Baker, Platinum
+Lekkit - shuffles deck
+Lekkit - draws Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Baker, Apprentice
+Lekkit - discards Baker
+Titandrake - places cards in hand:  Copper, Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Workshop
+Titandrake - draws Estate, Platinum, Silver
+Titandrake - plays 3 Copper, 2 Silver, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Baker, Advisor, Copper, Advisor
+ 
+---------- Lekkit: turn 12 ----------
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Advisor
+Lekkit - plays Advisor
+Lekkit - reveals: Baker, Advisor, Copper
+Titandrake - discards Advisor
+Lekkit - places cards in hand:  Baker, Copper
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Copper
+Lekkit - plays Apprentice
+Lekkit - trashes Copper
+Lekkit - plays 3 Copper, 1 Platinum
+Lekkit - uses 3 coin tokens
+Lekkit - buys Colony
+Lekkit - gains Colony
+Lekkit - draws Advisor, Advisor, Copper, Workshop, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Advisor
+Titandrake - shuffles deck
+Titandrake - reveals: Apprentice, Silver, Estate
+Lekkit - discards Apprentice
+Titandrake - places cards in hand:  Silver, Estate
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Baker, Copper
+Lekkit - discards Baker
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - uses 4 coin tokens
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Colony, Baker, Advisor, Silver, Copper
+ 
+---------- Lekkit: turn 13 ----------
+Lekkit - plays Advisor
+Lekkit - reveals: Copper, Baker, Baker
+Titandrake - discards Baker
+Lekkit - places cards in hand:  Copper, Baker
+Lekkit - plays Advisor
+Lekkit - reveals: Copper, Baker, Estate
+Titandrake - discards Baker
+Lekkit - places cards in hand:  Copper, Estate
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Silver
+Lekkit - plays Workshop
+Lekkit - gains Advisor
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - buys Baker
+Lekkit - gains Baker
+Lekkit - draws Silver
+Lekkit - shuffles deck
+Lekkit - draws Advisor, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Platinum
+Titandrake - plays Advisor
+Titandrake - shuffles deck
+Titandrake - reveals: Advisor, Estate, Copper
+Lekkit - discards Advisor
+Titandrake - places cards in hand:  Estate, Copper
+Titandrake - plays 2 Copper, 1 Silver, 1 Platinum
+Titandrake - uses 2 coin tokens
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Baker, Baker, Copper, Apprentice, Silver
+ 
+---------- Lekkit: turn 14 ----------
+Lekkit - plays Advisor
+Lekkit - reveals: Baker, Estate, Colony
+Titandrake - discards Baker
+Lekkit - places cards in hand:  Estate, Colony
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - buys Margrave
+Lekkit - gains Margrave
+Lekkit - draws Baker, Workshop, Advisor, Advisor, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Advisor, Copper, Colony
+Titandrake - shuffles deck
+Titandrake - draws Colony, Silver
+ 
+---------- Lekkit: turn 15 ----------
+Lekkit - plays Advisor
+Lekkit - reveals: Copper, Baker, Copper
+Titandrake - discards Baker
+Lekkit - places cards in hand:  Copper, Copper
+Lekkit - plays Advisor
+Lekkit - reveals: Baker, Platinum, Baker
+Titandrake - discards Platinum
+Lekkit - places cards in hand:  Baker, Baker
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Baker
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Estate
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Advisor
+Lekkit - plays Advisor
+Lekkit - reveals: Silver, Apprentice, Advisor
+Titandrake - discards Apprentice
+Lekkit - places cards in hand:  Silver, Advisor
+Lekkit - plays Advisor
+Lekkit - shuffles deck
+Lekkit - reveals: Estate, Platinum, Colony
+Titandrake - discards Platinum
+Lekkit - places cards in hand:  Estate, Colony
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Copper
+Lekkit - plays Workshop
+Lekkit - gains Feast
+Lekkit - plays 4 Copper, 1 Silver
+Lekkit - uses 5 coin tokens
+Lekkit - buys Colony
+Lekkit - gains Colony
+Lekkit - draws Apprentice, Copper, Margrave, Copper, Baker
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Advisor, Estate, Advisor
+Lekkit - discards Advisor
+Titandrake - places cards in hand:  Advisor, Estate
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Baker, Baker
+Lekkit - discards Baker
+Titandrake - places cards in hand:  Copper, Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Platinum, Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Colony
+Titandrake - plays 2 Copper, 1 Silver, 1 Platinum
+Titandrake - uses 2 coin tokens
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Margrave, Silver, Copper, Copper, Baker
+ 
+---------- Lekkit: turn 16 ----------
+Lekkit - plays Apprentice
+Lekkit - trashes Baker
+Lekkit - draws Baker, Silver, Advisor
+Lekkit - shuffles deck
+Lekkit - draws Colony, Copper
+Lekkit - plays Advisor
+Lekkit - reveals: Workshop, Silver, Baker
+Titandrake - discards Baker
+Lekkit - places cards in hand:  Workshop, Silver
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Advisor
+Lekkit - plays Advisor
+Lekkit - reveals: Copper, Estate, Estate
+Titandrake - discards Copper
+Lekkit - places cards in hand:  Estate, Estate
+Lekkit - plays Margrave
+Lekkit - draws Copper, Advisor, Feast
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Lekkit - plays 4 Copper, 2 Silver
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Baker, Colony, Advisor, Advisor, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - shuffles deck
+Titandrake - draws Advisor
+Titandrake - plays Advisor
+Titandrake - reveals: Silver, Copper, Colony
+Lekkit - discards Silver
+Titandrake - places cards in hand:  Copper, Colony
+Titandrake - plays Margrave
+Titandrake - draws Baker, Colony, Advisor
+Lekkit - draws Platinum
+Lekkit - discards Colony
+Lekkit - discards Advisor
+Lekkit - discards Copper
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Advisor, Apprentice, Colony, Copper, Copper
+ 
+---------- Lekkit: turn 17 ----------
+Lekkit - plays Advisor
+Lekkit - reveals: Baker, Baker
+Lekkit - shuffles deck
+Lekkit - reveals: Colony
+Titandrake - discards Baker
+Lekkit - places cards in hand:  Baker, Colony
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Silver
+Lekkit - plays Baker
+Lekkit - receives 1 coin token
+Lekkit - draws Province
+Lekkit - plays 1 Platinum, 1 Silver
+Lekkit - uses 1 coin token
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Copper, Copper, Advisor, Baker, Apprentice
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Colony
+Titandrake - draws Platinum, Colony, Baker, Copper, Baker, Copper
+Titandrake - shuffles deck
+Titandrake - draws Colony, Estate, Silver, Advisor, Colony
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Advisor
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Baker
+Titandrake - plays Advisor
+Titandrake - reveals: Margrave, Baker, Silver
+Lekkit - discards Margrave
+Titandrake - places cards in hand:  Baker, Silver
+Titandrake - plays Advisor
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Margrave
+Lekkit - discards Margrave
+Titandrake - places cards in hand:  Copper
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - shuffles deck
+Titandrake - draws Margrave
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays Margrave
+Lekkit - draws Advisor
+Lekkit - discards Copper
+Lekkit - discards Copper
+Lekkit - discards Advisor
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - uses 8 coin tokens
+Titandrake - buys Farmland
+Titandrake - trashes Platinum
+Titandrake - gains Colony
+Titandrake - gains Farmland
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Copper, Farmland, Copper, Estate, Colony
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Baker, 3 Advisor, 1 Apprentice, 1 Margrave, 5 Copper, 2 Silver, 5 Colony, 1 Farmland, 1 Estate
+Titandrake - total victory points: 53
+Titandrake - turns: 17
+ 
+Lekkit - cards: 5 Baker, 5 Advisor, 1 Apprentice, 1 Margrave, 1 Feast, 1 Workshop, 6 Copper, 2 Silver, 1 Platinum, 2 Province, 2 Colony, 2 Estate
+Lekkit - total victory points: 34
+Lekkit - turns: 17
+ 
+1st place: Titandrake
+2nd place: Lekkit
+ 

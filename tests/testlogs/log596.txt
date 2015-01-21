@@ -1,0 +1,345 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Herbalist, Market Square, Shanty Town, Butcher, City, Graverobber, Grand Market, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Perna - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Perna - shuffles deck
+Titandrake - shuffles deck
+Perna - draws Copper, Copper, Copper, Estate, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Perna: turn 1 ----------
+Perna - plays 3 Copper
+Perna - buys Market Square
+Perna - gains Market Square
+Perna - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - shuffles deck
+Titandrake - draws Copper, Market Square, Copper, Copper, Estate
+ 
+---------- Perna: turn 2 ----------
+Perna - plays 4 Copper
+Perna - buys Chapel
+Perna - gains Chapel
+Perna - shuffles deck
+Perna - draws Copper, Copper, Estate, Estate, Market Square
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Copper, Copper, Estate, Chapel, Estate
+ 
+---------- Perna: turn 3 ----------
+Perna - plays Market Square
+Perna - draws Copper
+Perna - plays 3 Copper
+Perna - buys Market Square
+Perna - gains Market Square
+Perna - draws Copper, Copper, Copper, Chapel, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Estate, Copper, Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Market Square, Chapel, Market Square, Copper
+ 
+---------- Perna: turn 4 ----------
+Perna - plays Chapel
+Perna - trashes Copper, Copper, Copper, Copper
+Perna - draws Estate
+Perna - shuffles deck
+Perna - draws Market Square, Market Square, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper, Market Square
+Titandrake - draws Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Market Square
+ 
+---------- Perna: turn 5 ----------
+Perna - plays Market Square
+Perna - draws Copper
+Perna - plays Market Square
+Perna - draws Estate
+Perna - plays 2 Copper
+Perna - draws Chapel, Copper
+Perna - shuffles deck
+Perna - draws Estate, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - shuffles deck
+Titandrake - draws Cellar, Market Square, Gold, Chapel, Copper
+ 
+---------- Perna: turn 6 ----------
+Perna - plays Chapel
+Perna - trashes Copper, Estate, Copper, Estate
+Perna - draws Market Square, Copper, Market Square, Estate
+Perna - shuffles deck
+Perna - draws Chapel
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - plays Gold
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Market Square, Market Square
+ 
+---------- Perna: turn 7 ----------
+Perna - plays Chapel
+Perna - trashes Estate
+Perna - reveals reaction Market Square
+Perna - discards Market Square
+Perna - gains Gold
+Perna - reveals reaction Market Square
+Perna - discards Market Square
+Perna - gains Gold
+Perna - shuffles deck
+Perna - draws Market Square, Chapel, Copper, Gold, Gold
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Market Square
+Titandrake - draws Chapel
+Titandrake - plays Market Square
+Titandrake - draws Cellar
+Titandrake - plays Chapel
+Titandrake - trashes Cellar
+Titandrake - plays 2 Gold
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Gold, Market Square, Market Square, Copper, Chapel
+ 
+---------- Perna: turn 8 ----------
+Perna - plays Chapel
+Perna - trashes Copper
+Perna - reveals reaction Market Square
+Perna - discards Market Square
+Perna - gains Gold
+Perna - plays 2 Gold
+Perna - buys Grand Market
+Perna - gains Grand Market
+Perna - draws Market Square
+Perna - shuffles deck
+Perna - draws Gold, Gold, Chapel, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Market Square
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Gold
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - reveals reaction Market Square
+Titandrake - discards Market Square
+Titandrake - gains Gold
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Market Square, Province, Copper, Gold
+ 
+---------- Perna: turn 9 ----------
+Perna - plays Market Square
+Perna - draws Grand Market
+Perna - plays Grand Market
+Perna - draws Market Square
+Perna - plays Market Square
+Perna - plays 3 Gold
+Perna - buys Province
+Perna - gains Province
+Perna - buys Market Square
+Perna - gains Market Square
+Perna - buys Copper
+Perna - gains Copper
+Perna - shuffles deck
+Perna - draws Province, Gold, Chapel, Market Square, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Market Square
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Chapel
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Gold, Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Gold, Market Square
+ 
+---------- Perna: turn 10 ----------
+Perna - plays Chapel
+Perna - trashes Copper
+Perna - reveals reaction Market Square
+Perna - discards Market Square
+Perna - gains Gold
+Perna - plays 1 Gold
+Perna - buys Market Square
+Perna - gains Market Square
+Perna - draws Market Square, Market Square, Gold, Grand Market, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Province
+Titandrake - plays Grand Market
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Copper
+Titandrake - plays Market Square
+Titandrake - draws Gold
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Chapel
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper, Gold, Market Square
+ 
+---------- Perna: turn 11 ----------
+Perna - plays Grand Market
+Perna - shuffles deck
+Perna - draws Market Square
+Perna - plays Market Square
+Perna - draws Chapel
+Perna - plays Market Square
+Perna - draws Gold
+Perna - plays Market Square
+Perna - draws Province
+Perna - plays 3 Gold
+Perna - buys Province
+Perna - gains Province
+Perna - buys Market Square
+Perna - gains Market Square
+Perna - draws Market Square, Gold
+Perna - shuffles deck
+Perna - draws Chapel, Province, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Market Square
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Province
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - plays Gold
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Grand Market, Butcher, Gold, Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- Perna: turn 12 ----------
+Perna - plays Market Square
+Perna - draws Market Square
+Perna - plays Market Square
+Perna - draws Market Square
+Perna - plays Market Square
+Perna - draws Market Square
+Perna - plays Market Square
+Perna - draws Market Square
+Perna - plays Market Square
+Perna - draws Gold
+Perna - plays 3 Gold
+Perna - buys Butcher
+Perna - gains Butcher
+Perna - buys Market Square
+Perna - gains Market Square
+Perna - draws Province, Gold, Grand Market
+Perna - shuffles deck
+Perna - draws Market Square, Market Square
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Market Square
+Titandrake - plays Market Square
+Titandrake - draws Province
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Gold
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Grand Market, Market Square, Market Square, Cellar, Chapel
+ 
+---------- Perna: turn 13 ----------
+Perna - plays Grand Market
+Perna - draws Market Square
+Perna - plays Market Square
+Perna - draws Market Square
+Perna - plays Market Square
+Perna - draws Gold
+Perna - plays Market Square
+Perna - draws Butcher
+Perna - plays Market Square
+Perna - draws Market Square
+Perna - plays Market Square
+Perna - draws Gold
+Perna - plays Butcher
+Perna - receives 2 coin tokens
+Perna - trashes Gold
+Perna - uses 1 coin token
+Perna - uses 1 coin token
+Perna - gains Province
+Perna - plays 2 Gold
+Perna - buys Province
+Perna - gains Province
+Perna - draws Province, Chapel, Market Square, Gold
+Perna - shuffles deck
+Perna - draws Market Square
+ 
+------------ Game Over ------------
+Perna - cards: 6 Market Square, 1 Chapel, 1 Butcher, 1 Grand Market, 3 Gold, 4 Province
+Perna - total victory points: 24
+Perna - turns: 13
+ 
+Titandrake - cards: 3 Market Square, 2 Grand Market, 1 Cellar, 1 Chapel, 1 Butcher, 2 Gold, 4 Province
+Titandrake - total victory points: 24
+Titandrake - turns: 13
+ 
+1st place: Perna
+1st place: Titandrake
+ 

@@ -1,0 +1,482 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Beggar, Moat, Smugglers, Swindler, Trade Route, Outpost, Wharf, Border Village, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+HelloKitty - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+HelloKitty - shuffles deck
+Titandrake - shuffles deck
+HelloKitty - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- HelloKitty: turn 1 ----------
+HelloKitty - plays 3 Copper
+HelloKitty - buys Swindler
+HelloKitty - gains Swindler
+HelloKitty - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- HelloKitty: turn 2 ----------
+HelloKitty - plays 4 Copper
+HelloKitty - buys Swindler
+HelloKitty - gains Swindler
+HelloKitty - shuffles deck
+HelloKitty - draws Estate, Copper, Swindler, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- HelloKitty: turn 3 ----------
+HelloKitty - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+HelloKitty - plays 2 Copper
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Copper, Copper, Swindler, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Copper, Wharf, Estate, Copper
+ 
+---------- HelloKitty: turn 4 ----------
+HelloKitty - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Silver
+HelloKitty - plays 4 Copper
+HelloKitty - buys Border Village
+HelloKitty - gains Border Village
+HelloKitty - gains Wharf
+HelloKitty - draws Estate, Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Copper, Border Village, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Estate, Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- HelloKitty: turn 5 ----------
+HelloKitty - plays Border Village
+HelloKitty - draws Estate
+HelloKitty - plays 3 Copper
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Silver, Swindler, Wharf, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Swindler
+Titandrake - plays Swindler
+HelloKitty - reveals Swindler
+HelloKitty - trashes Swindler
+HelloKitty - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- HelloKitty: turn 6 ----------
+HelloKitty - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Wharf
+Titandrake - trashes Wharf
+Titandrake - gains Duchy
+HelloKitty - plays 1 Silver, 1 Copper
+HelloKitty - buys Wharf
+HelloKitty - gains Wharf
+HelloKitty - draws Copper, Copper, Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Estate, Swindler
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Wharf, Swindler, Estate, Curse
+ 
+---------- HelloKitty: turn 7 ----------
+HelloKitty - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+HelloKitty - plays 3 Copper
+HelloKitty - buys Wharf
+HelloKitty - gains Wharf
+HelloKitty - draws Copper, Silver, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Curse, Copper, Duchy
+ 
+---------- HelloKitty: turn 8 ----------
+HelloKitty - plays 2 Copper, 2 Silver
+HelloKitty - buys Border Village
+HelloKitty - gains Border Village
+HelloKitty - gains Wharf
+HelloKitty - draws Border Village, Copper, Copper, Silver, Wharf
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Estate, Estate, Silver, Swindler, Copper
+ 
+---------- HelloKitty: turn 9 ----------
+HelloKitty - plays Border Village
+HelloKitty - draws Wharf
+HelloKitty - plays Wharf
+HelloKitty - draws Estate
+HelloKitty - shuffles deck
+HelloKitty - draws Copper
+HelloKitty - plays Wharf
+HelloKitty - draws Border Village, Estate
+HelloKitty - plays 3 Copper, 1 Silver
+HelloKitty - buys Wharf
+HelloKitty - gains Wharf
+HelloKitty - draws Silver, Copper, Swindler, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Swindler
+HelloKitty - reveals Copper
+HelloKitty - trashes Copper
+HelloKitty - gains Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Wharf, Estate
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Copper, Copper
+ 
+---------- HelloKitty: turn 10 ----------
+HelloKitty - duration Wharf
+HelloKitty - draws Estate, Silver
+HelloKitty - duration Wharf
+HelloKitty - draws Wharf, Wharf
+HelloKitty - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+HelloKitty - plays 3 Copper, 2 Silver
+HelloKitty - buys Border Village
+HelloKitty - gains Border Village
+HelloKitty - gains Wharf
+HelloKitty - buys Swindler
+HelloKitty - gains Swindler
+HelloKitty - shuffles deck
+HelloKitty - draws Estate, Silver, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Wharf
+Titandrake - draws Trade Route, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Swindler, Curse, Estate, Estate, Copper
+ 
+---------- HelloKitty: turn 11 ----------
+HelloKitty - plays 3 Silver, 1 Copper
+HelloKitty - buys Border Village
+HelloKitty - gains Border Village
+HelloKitty - gains Wharf
+HelloKitty - draws Wharf, Border Village, Copper, Border Village, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Wharf
+Titandrake - draws Duchy, Copper
+Titandrake - plays Swindler
+HelloKitty - reveals Wharf
+HelloKitty - trashes Wharf
+HelloKitty - gains Duchy
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Curse
+Titandrake - shuffles deck
+Titandrake - draws Curse, Silver, Estate
+ 
+---------- HelloKitty: turn 12 ----------
+HelloKitty - plays Border Village
+HelloKitty - draws Copper
+HelloKitty - plays Border Village
+HelloKitty - draws Wharf
+HelloKitty - plays Wharf
+HelloKitty - draws Wharf, Estate
+HelloKitty - plays Wharf
+HelloKitty - draws Estate, Curse
+HelloKitty - plays Wharf
+HelloKitty - draws Copper, Swindler
+HelloKitty - plays 4 Copper
+HelloKitty - buys Swindler
+HelloKitty - gains Swindler
+HelloKitty - draws Copper, Wharf, Wharf, Swindler, Border Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Duchy, Wharf, Copper, Trade Route, Estate
+ 
+---------- HelloKitty: turn 13 ----------
+HelloKitty - duration Wharf
+HelloKitty - shuffles deck
+HelloKitty - draws Border Village, Border Village
+HelloKitty - duration Wharf
+HelloKitty - draws Swindler, Estate
+HelloKitty - duration Wharf
+HelloKitty - draws Copper, Copper
+HelloKitty - plays Border Village
+HelloKitty - draws Duchy
+HelloKitty - plays Border Village
+HelloKitty - draws Copper
+HelloKitty - plays Border Village
+HelloKitty - draws Estate
+HelloKitty - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Silver
+HelloKitty - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+HelloKitty - plays Wharf
+HelloKitty - draws Silver, Copper
+HelloKitty - plays Wharf
+HelloKitty - draws Curse, Silver
+HelloKitty - plays 5 Copper, 2 Silver
+HelloKitty - buys Bank
+HelloKitty - gains Bank
+HelloKitty - buys Border Village
+HelloKitty - gains Border Village
+HelloKitty - gains Swindler
+HelloKitty - draws Wharf, Border Village, Estate, Silver, Swindler
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Wharf
+Titandrake - draws Silver, Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Wharf, Copper, Copper, Silver, Copper
+ 
+---------- HelloKitty: turn 14 ----------
+HelloKitty - duration Wharf
+HelloKitty - draws Copper
+HelloKitty - shuffles deck
+HelloKitty - draws Swindler
+HelloKitty - duration Wharf
+HelloKitty - draws Silver, Bank
+HelloKitty - plays Border Village
+HelloKitty - draws Copper
+HelloKitty - plays Wharf
+HelloKitty - draws Copper, Swindler
+HelloKitty - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Curse
+Titandrake - trashes Curse
+Titandrake - gains Curse
+HelloKitty - plays 3 Copper, 2 Silver
+HelloKitty - plays Bank
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - buys Bank
+HelloKitty - gains Bank
+HelloKitty - draws Wharf, Copper, Border Village, Curse, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Duchy
+Titandrake - plays Wharf
+Titandrake - draws Silver, Curse
+Titandrake - plays 3 Copper, 3 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Silver, Curse, Estate
+ 
+---------- HelloKitty: turn 15 ----------
+HelloKitty - duration Wharf
+HelloKitty - draws Wharf, Wharf
+HelloKitty - plays Border Village
+HelloKitty - draws Swindler
+HelloKitty - plays Wharf
+HelloKitty - draws Border Village, Estate
+HelloKitty - plays Border Village
+HelloKitty - draws Estate
+HelloKitty - plays Wharf
+HelloKitty - draws Border Village, Border Village
+HelloKitty - plays Border Village
+HelloKitty - draws Duchy
+HelloKitty - plays Border Village
+HelloKitty - draws Copper
+HelloKitty - plays Wharf
+HelloKitty - draws Silver
+HelloKitty - shuffles deck
+HelloKitty - draws Province
+HelloKitty - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Silver
+HelloKitty - plays 3 Copper, 1 Silver
+HelloKitty - buys Bank
+HelloKitty - gains Bank
+HelloKitty - draws Copper, Wharf, Bank, Swindler, Bank
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Silver
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Trade Route
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Silver, Silver
+ 
+---------- HelloKitty: turn 16 ----------
+HelloKitty - duration Wharf
+HelloKitty - draws Swindler, Copper
+HelloKitty - duration Wharf
+HelloKitty - draws Silver, Silver
+HelloKitty - duration Wharf
+HelloKitty - draws Border Village, Estate
+HelloKitty - plays Border Village
+HelloKitty - draws Copper
+HelloKitty - plays Wharf
+HelloKitty - draws Wharf, Swindler
+HelloKitty - plays Wharf
+HelloKitty - shuffles deck
+HelloKitty - draws Copper, Swindler
+HelloKitty - plays 4 Copper, 2 Silver
+HelloKitty - plays Bank
+HelloKitty - plays Bank
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - buys Border Village
+HelloKitty - gains Border Village
+HelloKitty - gains Duchy
+HelloKitty - draws Copper, Estate, Bank, Copper, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Duchy
+Titandrake - draws Gold, Curse, Curse, Wharf, Silver
+ 
+---------- HelloKitty: turn 17 ----------
+HelloKitty - duration Wharf
+HelloKitty - draws Curse, Border Village
+HelloKitty - duration Wharf
+HelloKitty - draws Estate, Border Village
+HelloKitty - plays Border Village
+HelloKitty - draws Wharf
+HelloKitty - plays Border Village
+HelloKitty - draws Border Village
+HelloKitty - plays Wharf
+HelloKitty - draws Duchy, Border Village
+HelloKitty - plays Border Village
+HelloKitty - draws Province
+HelloKitty - plays Border Village
+HelloKitty - shuffles deck
+HelloKitty - draws Silver
+HelloKitty - plays 2 Copper, 2 Silver
+HelloKitty - plays Bank
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - buys Silver
+HelloKitty - gains Silver
+HelloKitty - draws Province, Copper, Border Village, Wharf, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Copper
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Silver, Silver, Copper
+ 
+---------- HelloKitty: turn 18 ----------
+HelloKitty - duration Wharf
+HelloKitty - draws Border Village, Bank
+HelloKitty - plays Border Village
+HelloKitty - draws Swindler
+HelloKitty - plays Border Village
+HelloKitty - draws Swindler
+HelloKitty - plays Wharf
+HelloKitty - draws Copper, Swindler
+HelloKitty - plays Swindler
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Beggar
+HelloKitty - plays Swindler
+Titandrake - reveals Silver
+Titandrake - trashes Silver
+Titandrake - gains Smugglers
+HelloKitty - plays 2 Copper
+HelloKitty - plays Bank
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - draws Wharf, Bank, Silver, Copper, Wharf
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays 3 Copper, 3 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Curse
+Titandrake - shuffles deck
+Titandrake - draws Gold, Curse, Trade Route
+ 
+---------- HelloKitty: turn 19 ----------
+HelloKitty - duration Wharf
+HelloKitty - draws Swindler, Copper
+HelloKitty - plays Swindler
+Titandrake - reveals Duchy
+Titandrake - trashes Duchy
+Titandrake - gains Outpost
+HelloKitty - plays 2 Copper, 1 Silver
+HelloKitty - plays Bank
+HelloKitty - buys Province
+HelloKitty - gains Province
+HelloKitty - buys Estate
+HelloKitty - gains Estate
+HelloKitty - draws Estate, Duchy
+HelloKitty - shuffles deck
+HelloKitty - draws Swindler, Copper, Bank
+ 
+------------ Game Over ------------
+HelloKitty - cards: 6 Border Village, 6 Wharf, 4 Swindler, 6 Copper, 4 Silver, 3 Bank, 6 Province, 4 Estate, 2 Duchy, 1 Curse
+HelloKitty - total victory points: 45
+HelloKitty - turns: 19
+ 
+Titandrake - cards: 2 Wharf, 2 Border Village, 1 Trade Route, 1 Outpost, 1 Smugglers, 1 Beggar, 6 Silver, 4 Copper, 1 Gold, 2 Province, 2 Duchy, 1 Estate, 3 Curse
+Titandrake - total victory points: 16
+Titandrake - turns: 18
+ 
+1st place: HelloKitty
+2nd place: Titandrake
+ 

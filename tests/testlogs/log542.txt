@@ -1,0 +1,423 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Storeroom, Marauder, Spice Merchant, Taxman, Apprentice, Cartographer, Margrave, Royal Seal, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Spice Merchant - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Spice Merchant - shuffles deck
+Titandrake - shuffles deck
+Spice Merchant - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Spice Merchant: turn 1 ----------
+Spice Merchant - plays 3 Copper
+Spice Merchant - buys Silver
+Spice Merchant - gains Silver
+Spice Merchant - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Marauder, Copper, Copper, Copper, Copper
+ 
+---------- Spice Merchant: turn 2 ----------
+Spice Merchant - plays 4 Copper
+Spice Merchant - buys Marauder
+Spice Merchant - gains Marauder
+Spice Merchant - shuffles deck
+Spice Merchant - draws Copper, Marauder, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Spice Merchant - gains Ruined Library
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Estate, Copper, Estate, Copper, Silver
+ 
+---------- Spice Merchant: turn 3 ----------
+Spice Merchant - plays Marauder
+Spice Merchant - gains Spoils
+Titandrake - gains Survivors
+Spice Merchant - plays 3 Copper, 1 Silver
+Spice Merchant - buys Royal Seal
+Spice Merchant - gains Royal Seal
+Spice Merchant - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver
+ 
+---------- Spice Merchant: turn 4 ----------
+Spice Merchant - plays 4 Copper
+Spice Merchant - buys Spice Merchant
+Spice Merchant - gains Spice Merchant
+Spice Merchant - draws Estate, Estate
+Spice Merchant - shuffles deck
+Spice Merchant - draws Copper, Marauder, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Survivors, Copper, Estate, Silver
+ 
+---------- Spice Merchant: turn 5 ----------
+Spice Merchant - plays Marauder
+Spice Merchant - gains Spoils
+Titandrake - gains Ruined Village
+Spice Merchant - plays 1 Copper, 1 Silver
+Spice Merchant - buys Silver
+Spice Merchant - gains Silver
+Spice Merchant - draws Spoils, Copper, Copper, Copper, Spice Merchant
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Estate, Copper
+Titandrake - discards: Estate, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Spice Merchant, Spoils, Copper, Marauder
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Spice Merchant: turn 6 ----------
+Spice Merchant - plays Spice Merchant
+Spice Merchant - trashes Copper
+Spice Merchant - chooses two cards and one action
+Spice Merchant - draws Ruined Library, Copper
+Spice Merchant - plays Ruined Library
+Spice Merchant - draws Royal Seal
+Spice Merchant - plays 3 Copper, 1 Royal Seal
+Spice Merchant - plays Spoils
+Spice Merchant - buys Gold
+Spice Merchant - gains Gold
+Spice Merchant - applied Royal Seal to place Gold on top of the deck
+Spice Merchant - draws Gold, Copper, Copper, Estate
+Spice Merchant - shuffles deck
+Spice Merchant - draws Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Silver, Spice Merchant
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Copper
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Spice Merchant - gains Ruined Market
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Copper, Survivors, Copper
+ 
+---------- Spice Merchant: turn 7 ----------
+Spice Merchant - plays 2 Copper, 1 Gold
+Spice Merchant - buys Cartographer
+Spice Merchant - gains Cartographer
+Spice Merchant - draws Copper, Spice Merchant, Marauder, Spoils, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Survivors
+Titandrake - looks at Estate, Silver
+Titandrake - discards: Estate, Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Storeroom
+Titandrake - gains Storeroom
+Titandrake - draws Apprentice, Estate, Ruined Village
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver
+ 
+---------- Spice Merchant: turn 8 ----------
+Spice Merchant - plays Spice Merchant
+Spice Merchant - trashes Copper
+Spice Merchant - chooses two cards and one action
+Spice Merchant - draws Silver, Silver
+Spice Merchant - plays Marauder
+Spice Merchant - gains Spoils
+Titandrake - gains Ruined Market
+Spice Merchant - plays 2 Silver
+Spice Merchant - plays Spoils
+Spice Merchant - buys Grand Market
+Spice Merchant - gains Grand Market
+Spice Merchant - draws Copper, Estate, Ruined Library, Copper, Royal Seal
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Marauder, Gold
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Spice Merchant - gains Ruined Market
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Copper, Storeroom, Copper, Survivors, Spice Merchant
+ 
+---------- Spice Merchant: turn 9 ----------
+Spice Merchant - plays Ruined Library
+Spice Merchant - shuffles deck
+Spice Merchant - draws Silver
+Spice Merchant - plays 2 Copper, 1 Royal Seal, 1 Silver
+Spice Merchant - buys Gold
+Spice Merchant - gains Gold
+Spice Merchant - applied Royal Seal to place Gold on top of the deck
+Spice Merchant - draws Gold, Estate, Grand Market, Gold, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Copper
+Titandrake - plays Storeroom
+Titandrake - discards Copper
+Titandrake - discards Survivors
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Spoils, Copper, Spice Merchant, Copper
+Titandrake - discards Copper
+Titandrake - discards Spice Merchant
+Titandrake - discards Copper
+Titandrake - plays Spoils
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Ruined Village, Copper
+ 
+---------- Spice Merchant: turn 10 ----------
+Spice Merchant - plays Grand Market
+Spice Merchant - draws Marauder
+Spice Merchant - plays Marauder
+Spice Merchant - gains Spoils
+Titandrake - gains Ruined Market
+Spice Merchant - plays 2 Gold
+Spice Merchant - buys Province
+Spice Merchant - gains Province
+Spice Merchant - draws Spice Merchant, Ruined Market, Cartographer, Copper, Ruined Market
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Apprentice, Survivors, Grand Market, Gold, Estate
+ 
+---------- Spice Merchant: turn 11 ----------
+Spice Merchant - plays Cartographer
+Spice Merchant - draws Silver
+Spice Merchant - looks at Copper, Spoils, Estate
+Spice Merchant - shuffles deck
+Spice Merchant - looks at Marauder
+Spice Merchant - discards Estate
+Spice Merchant - discards Copper
+Spice Merchant - places Marauder on top of deck
+Spice Merchant - places Spoils on top of deck
+Spice Merchant - plays Spice Merchant
+Spice Merchant - trashes Copper
+Spice Merchant - chooses two cards and one action
+Spice Merchant - draws Spoils, Marauder
+Spice Merchant - plays Marauder
+Spice Merchant - gains Spoils
+Titandrake - gains Abandoned Mine
+Spice Merchant - plays 1 Silver
+Spice Merchant - plays Spoils
+Spice Merchant - buys Apprentice
+Spice Merchant - gains Apprentice
+Spice Merchant - draws Spoils, Ruined Library, Royal Seal, Grand Market, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Marauder, Copper
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Spice Merchant - gains Ruined Village
+Titandrake - plays Gold
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Cartographer, Storeroom, Spice Merchant, Spice Merchant, Estate
+ 
+---------- Spice Merchant: turn 12 ----------
+Spice Merchant - plays Grand Market
+Spice Merchant - draws Copper
+Spice Merchant - plays Ruined Library
+Spice Merchant - draws Estate
+Spice Merchant - plays 1 Royal Seal, 1 Silver
+Spice Merchant - plays Copper
+Spice Merchant - plays Spoils
+Spice Merchant - buys Province
+Spice Merchant - gains Province
+Spice Merchant - draws Copper, Gold, Gold, Copper, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Ruined Market
+Titandrake - looks at Spoils
+Titandrake - shuffles deck
+Titandrake - looks at Margrave, Apprentice, Gold
+Titandrake - places Gold on top of deck
+Titandrake - places Spoils on top of deck
+Titandrake - places Margrave on top of deck
+Titandrake - places Apprentice on top of deck
+Titandrake - plays Storeroom
+Titandrake - discards Ruined Market
+Titandrake - discards Estate
+Titandrake - discards Spice Merchant
+Titandrake - discards Spice Merchant
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Apprentice, Margrave, Spoils, Gold, Ruined Market
+ 
+---------- Spice Merchant: turn 13 ----------
+Spice Merchant - plays 2 Gold
+Spice Merchant - plays Copper
+Spice Merchant - plays Copper
+Spice Merchant - buys Province
+Spice Merchant - gains Province
+Spice Merchant - draws Province
+Spice Merchant - shuffles deck
+Spice Merchant - draws Estate, Gold, Silver, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Ruined Market
+Titandrake - plays Margrave
+Titandrake - draws Ruined Village, Spoils, Silver
+Spice Merchant - draws Estate
+Spice Merchant - discards Estate
+Spice Merchant - discards Estate
+Spice Merchant - discards Province
+Titandrake - plays Silver
+Titandrake - plays Gold
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Gold, Abandoned Mine, Copper, Marauder
+ 
+---------- Spice Merchant: turn 14 ----------
+Spice Merchant - plays 1 Gold, 1 Silver, 1 Copper
+Spice Merchant - buys Duchy
+Spice Merchant - gains Duchy
+Spice Merchant - draws Spoils, Ruined Library, Royal Seal, Grand Market, Spice Merchant
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Spice Merchant - gains Ruined Market
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Grand Market, Survivors, Silver
+ 
+---------- Spice Merchant: turn 15 ----------
+Spice Merchant - plays Grand Market
+Spice Merchant - draws Apprentice
+Spice Merchant - plays Apprentice
+Spice Merchant - trashes Spice Merchant
+Spice Merchant - draws Estate, Marauder, Copper, Copper
+Spice Merchant - plays Marauder
+Spice Merchant - gains Spoils
+Spice Merchant - plays 1 Royal Seal
+Spice Merchant - plays Spoils
+Spice Merchant - plays Copper
+Spice Merchant - plays Copper
+Spice Merchant - buys Province
+Spice Merchant - gains Province
+Spice Merchant - draws Ruined Village, Cartographer, Silver, Ruined Market, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Spice Merchant
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Gold, Ruined Village
+Titandrake - plays Survivors
+Titandrake - looks at Cartographer, Margrave
+Titandrake - places Margrave on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Cartographer, Margrave, Storeroom, Silver, Gold
+ 
+---------- Spice Merchant: turn 16 ----------
+Spice Merchant - plays Cartographer
+Spice Merchant - draws Province
+Spice Merchant - looks at Province, Ruined Market, Copper
+Spice Merchant - shuffles deck
+Spice Merchant - looks at Ruined Market
+Spice Merchant - discards Ruined Market
+Spice Merchant - discards Ruined Market
+Spice Merchant - discards Province
+Spice Merchant - discards Copper
+Spice Merchant - plays 1 Silver, 1 Gold
+Spice Merchant - buys Duchy
+Spice Merchant - gains Duchy
+Spice Merchant - draws Silver, Spoils, Gold, Province, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Spoils
+Titandrake - looks at Copper, Spoils, Estate, Spice Merchant
+Titandrake - discards Estate
+Titandrake - discards Spice Merchant
+Titandrake - discards Copper
+Titandrake - places Spoils on top of deck
+Titandrake - plays Margrave
+Titandrake - draws Spoils, Ruined Market, Silver
+Spice Merchant - draws Copper
+Spice Merchant - discards Estate
+Spice Merchant - discards Province
+Spice Merchant - discards Copper
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Apprentice, Duchy, Marauder, Abandoned Mine
+ 
+---------- Spice Merchant: turn 17 ----------
+Spice Merchant - plays 1 Silver, 1 Gold
+Spice Merchant - plays Spoils
+Spice Merchant - buys Province
+Spice Merchant - gains Province
+Spice Merchant - draws Estate, Royal Seal, Copper, Marauder, Duchy
+ 
+------------ Game Over ------------
+Spice Merchant - cards: 3 Ruined Market, 1 Marauder, 1 Cartographer, 1 Ruined Village, 1 Ruined Library, 1 Grand Market, 1 Apprentice, 4 Copper, 2 Silver, 2 Gold, 1 Royal Seal, 5 Province, 3 Estate, 2 Duchy
+Spice Merchant - total victory points: 39
+Spice Merchant - turns: 17
+ 
+Titandrake - cards: 2 Spice Merchant, 1 Apprentice, 1 Marauder, 1 Abandoned Mine, 1 Grand Market, 1 Survivors, 1 Ruined Village, 1 Cartographer, 1 Margrave, 1 Storeroom, 1 Ruined Market, 3 Copper, 3 Silver, 2 Gold, 3 Province, 2 Duchy, 1 Estate
+Titandrake - total victory points: 25
+Titandrake - turns: 17
+ 
+1st place: Spice Merchant
+2nd place: Titandrake
+ 

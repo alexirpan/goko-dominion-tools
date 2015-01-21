@@ -1,0 +1,624 @@
+------------ Game Setup ------------
+Supply cards: Secret Chamber, Scrying Pool, Fortune Teller, Coppersmith, Spice Merchant, Treasure Map, Contraband, Ghost Ship, Tribute, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Twistedarcher - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Twistedarcher - shuffles deck
+Titandrake - shuffles deck
+Twistedarcher - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Twistedarcher: turn 1 ----------
+Twistedarcher - plays 3 Copper
+Twistedarcher - buys Silver
+Twistedarcher - gains Silver
+Twistedarcher - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Spice Merchant, Copper, Estate, Copper, Copper
+ 
+---------- Twistedarcher: turn 2 ----------
+Twistedarcher - plays 4 Copper
+Twistedarcher - buys Spice Merchant
+Twistedarcher - gains Spice Merchant
+Twistedarcher - shuffles deck
+Twistedarcher - draws Spice Merchant, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Twistedarcher: turn 3 ----------
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Copper
+Twistedarcher - chooses two cards and one action
+Twistedarcher - draws Copper, Copper
+Twistedarcher - plays 4 Copper
+Twistedarcher - buys Silver
+Twistedarcher - gains Silver
+Twistedarcher - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Ghost Ship, Silver, Copper
+ 
+---------- Twistedarcher: turn 4 ----------
+Twistedarcher - plays 2 Copper, 1 Silver
+Twistedarcher - buys Silver
+Twistedarcher - gains Silver
+Twistedarcher - shuffles deck
+Twistedarcher - draws Copper, Silver, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Silver, Spice Merchant
+Twistedarcher - places Copper on top of deck
+Twistedarcher - places Estate on top of deck
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Twistedarcher: turn 5 ----------
+Twistedarcher - plays 2 Silver, 1 Copper
+Twistedarcher - buys Ghost Ship
+Twistedarcher - gains Ghost Ship
+Twistedarcher - draws Estate, Copper, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Silver, Copper
+ 
+---------- Twistedarcher: turn 6 ----------
+Twistedarcher - plays 2 Copper, 1 Silver
+Twistedarcher - buys Spice Merchant
+Twistedarcher - gains Spice Merchant
+Twistedarcher - draws Copper, Spice Merchant, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Estate, Copper, Copper, Spice Merchant
+ 
+---------- Twistedarcher: turn 7 ----------
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Copper
+Twistedarcher - chooses two cards and one action
+Twistedarcher - shuffles deck
+Twistedarcher - draws Copper, Ghost Ship
+Twistedarcher - plays Ghost Ship
+Twistedarcher - draws Estate, Silver
+Titandrake - places Estate on top of deck
+Titandrake - places Estate on top of deck
+Twistedarcher - plays 3 Copper, 1 Silver
+Twistedarcher - buys Contraband
+Twistedarcher - gains Contraband
+Twistedarcher - draws Spice Merchant, Estate, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Estate
+Titandrake - draws Estate, Ghost Ship, Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Twistedarcher: turn 8 ----------
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Copper
+Twistedarcher - chooses two cards and one action
+Twistedarcher - draws Copper
+Twistedarcher - shuffles deck
+Twistedarcher - draws Silver
+Twistedarcher - plays 3 Silver, 1 Copper
+Twistedarcher - buys Gold
+Twistedarcher - gains Gold
+Twistedarcher - draws Copper, Estate, Copper, Copper, Spice Merchant
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Estate, Silver
+Twistedarcher - places Copper on top of deck
+Twistedarcher - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Copper, Copper, Gold
+ 
+---------- Twistedarcher: turn 9 ----------
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Copper
+Twistedarcher - chooses two cards and one action
+Twistedarcher - draws Copper, Copper
+Twistedarcher - plays 2 Copper
+Twistedarcher - draws Estate, Contraband, Ghost Ship
+Twistedarcher - shuffles deck
+Twistedarcher - draws Gold, Spice Merchant
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Spice Merchant, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- Twistedarcher: turn 10 ----------
+Twistedarcher - plays Ghost Ship
+Twistedarcher - draws Spice Merchant, Silver
+Titandrake - places Estate on top of deck
+Titandrake - places Estate on top of deck
+Twistedarcher - plays Contraband
+Titandrake - names Platinum as contraband
+Twistedarcher - plays Gold
+Twistedarcher - plays Silver
+Twistedarcher - buys Venture
+Twistedarcher - gains Venture
+Twistedarcher - buys Silver
+Twistedarcher - gains Silver
+Twistedarcher - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Estate
+Titandrake - draws Copper, Ghost Ship, Gold, Estate, Silver
+ 
+---------- Twistedarcher: turn 11 ----------
+Twistedarcher - plays 3 Copper, 1 Silver
+Twistedarcher - buys Venture
+Twistedarcher - gains Venture
+Twistedarcher - draws Silver, Estate
+Twistedarcher - shuffles deck
+Twistedarcher - draws Venture, Spice Merchant, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Copper
+Twistedarcher - places Estate on top of deck
+Twistedarcher - places Spice Merchant on top of deck
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Gold, Silver, Gold, Gold
+Titandrake - shuffles deck
+Titandrake - draws Ghost Ship
+ 
+---------- Twistedarcher: turn 12 ----------
+Twistedarcher - plays Venture
+Twistedarcher - reveals Spice Merchant, Estate, Contraband
+Twistedarcher - discards: Spice Merchant, Estate
+Twistedarcher - plays Contraband
+Titandrake - names Platinum as contraband
+Twistedarcher - plays Silver
+Twistedarcher - plays Silver
+Twistedarcher - buys Venture
+Twistedarcher - gains Venture
+Twistedarcher - buys Silver
+Twistedarcher - gains Silver
+Twistedarcher - draws Estate, Venture, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Silver
+Twistedarcher - places Estate on top of deck
+Twistedarcher - places Estate on top of deck
+Titandrake - plays 3 Gold, 2 Silver, 1 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Estate, Gold, Copper, Ghost Ship, Estate
+ 
+---------- Twistedarcher: turn 13 ----------
+Twistedarcher - plays Venture
+Twistedarcher - reveals Estate, Estate, Gold
+Twistedarcher - discards: Estate, Estate
+Twistedarcher - plays Gold
+Twistedarcher - plays Copper
+Twistedarcher - plays Copper
+Twistedarcher - buys Venture
+Twistedarcher - gains Venture
+Twistedarcher - draws Ghost Ship, Silver, Copper, Spice Merchant, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Spice Merchant
+Twistedarcher - places Ghost Ship on top of deck
+Twistedarcher - places Silver on top of deck
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Spice Merchant, Ghost Ship, Gold
+ 
+---------- Twistedarcher: turn 14 ----------
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Copper
+Twistedarcher - chooses two cards and one action
+Twistedarcher - draws Silver, Ghost Ship
+Twistedarcher - plays Ghost Ship
+Twistedarcher - shuffles deck
+Twistedarcher - draws Copper, Estate
+Titandrake - places Estate on top of deck
+Titandrake - places Gold on top of deck
+Twistedarcher - plays 2 Silver, 1 Copper
+Twistedarcher - buys Venture
+Twistedarcher - gains Venture
+Twistedarcher - draws Silver, Silver, Silver, Estate, Contraband
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Gold, Estate
+Titandrake - plays Ghost Ship
+Titandrake - draws Estate, Venture
+Twistedarcher - places Estate on top of deck
+Twistedarcher - places Contraband on top of deck
+Titandrake - plays Venture
+Titandrake - reveals Platinum
+Titandrake - plays Platinum
+Titandrake - plays Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Gold, Silver, Copper, Copper, Copper
+ 
+---------- Twistedarcher: turn 15 ----------
+Twistedarcher - plays 3 Silver
+Twistedarcher - buys Venture
+Twistedarcher - gains Venture
+Twistedarcher - draws Contraband, Estate, Venture, Venture, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - draws Estate, Gold, Ghost Ship, Silver, Gold
+ 
+---------- Twistedarcher: turn 16 ----------
+Twistedarcher - plays Contraband
+Titandrake - names Platinum as contraband
+Twistedarcher - plays Venture
+Twistedarcher - reveals Estate, Copper
+Twistedarcher - discards Estate
+Twistedarcher - plays Copper
+Twistedarcher - plays Venture
+Twistedarcher - reveals Spice Merchant, Venture
+Twistedarcher - discards Spice Merchant
+Twistedarcher - plays Venture
+Twistedarcher - reveals Venture
+Twistedarcher - plays Venture
+Twistedarcher - shuffles deck
+Twistedarcher - reveals Estate, Silver
+Twistedarcher - discards Estate
+Twistedarcher - plays Silver
+Twistedarcher - plays Gold
+Twistedarcher - buys Venture
+Twistedarcher - gains Venture
+Twistedarcher - buys Venture
+Twistedarcher - gains Venture
+Twistedarcher - draws Spice Merchant, Copper, Spice Merchant, Silver, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Platinum, Copper
+Twistedarcher - places Spice Merchant on top of deck
+Twistedarcher - places Estate on top of deck
+Titandrake - plays 2 Gold, 1 Silver, 1 Platinum, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Copper, Estate, Gold, Estate
+ 
+---------- Twistedarcher: turn 17 ----------
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Copper
+Twistedarcher - chooses two cards and one action
+Twistedarcher - draws Estate, Spice Merchant
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Silver
+Twistedarcher - chooses two cards and one action
+Twistedarcher - draws Silver, Silver
+Twistedarcher - plays 2 Silver
+Twistedarcher - buys Silver
+Twistedarcher - gains Silver
+Twistedarcher - draws Ghost Ship, Venture, Venture, Silver
+Twistedarcher - shuffles deck
+Twistedarcher - draws Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Venture, Copper, Spice Merchant, Venture, Silver
+ 
+---------- Twistedarcher: turn 18 ----------
+Twistedarcher - plays Ghost Ship
+Twistedarcher - draws Venture, Venture
+Titandrake - places Silver on top of deck
+Titandrake - places Venture on top of deck
+Twistedarcher - plays Venture
+Twistedarcher - reveals Venture
+Twistedarcher - plays Venture
+Twistedarcher - reveals Venture
+Twistedarcher - plays Venture
+Twistedarcher - reveals Venture
+Twistedarcher - plays Venture
+Twistedarcher - reveals Contraband
+Twistedarcher - plays Contraband
+Titandrake - names Platinum as contraband
+Twistedarcher - plays Venture
+Twistedarcher - reveals Spice Merchant, Copper
+Twistedarcher - discards Spice Merchant
+Twistedarcher - plays Copper
+Twistedarcher - plays Venture
+Twistedarcher - reveals Gold
+Twistedarcher - plays Gold
+Twistedarcher - plays Venture
+Twistedarcher - reveals Estate, Silver
+Twistedarcher - discards Estate
+Twistedarcher - plays Silver
+Twistedarcher - plays Silver
+Twistedarcher - buys Colony
+Twistedarcher - gains Colony
+Twistedarcher - buys Gold
+Twistedarcher - gains Gold
+Twistedarcher - draws Silver, Spice Merchant, Silver, Estate, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Venture, Silver
+Titandrake - plays Silver
+Titandrake - plays Venture
+Titandrake - reveals Ghost Ship, Platinum
+Titandrake - discards Ghost Ship
+Titandrake - plays Platinum
+Titandrake - plays Venture
+Titandrake - shuffles deck
+Titandrake - reveals Ghost Ship, Copper
+Titandrake - discards Ghost Ship
+Titandrake - plays Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Gold, Ghost Ship, Gold, Estate, Copper
+ 
+---------- Twistedarcher: turn 19 ----------
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Silver
+Twistedarcher - chooses two cards and one action
+Twistedarcher - draws Venture
+Twistedarcher - shuffles deck
+Twistedarcher - draws Venture
+Twistedarcher - plays Venture
+Twistedarcher - reveals Venture
+Twistedarcher - plays Venture
+Twistedarcher - reveals Venture
+Twistedarcher - plays Venture
+Twistedarcher - reveals Contraband
+Twistedarcher - plays Contraband
+Titandrake - names Colony as contraband
+Twistedarcher - plays Venture
+Twistedarcher - reveals Estate, Venture
+Twistedarcher - discards Estate
+Twistedarcher - plays Venture
+Twistedarcher - reveals Ghost Ship, Estate, Venture
+Twistedarcher - discards: Ghost Ship, Estate
+Twistedarcher - plays Venture
+Twistedarcher - reveals Colony, Venture
+Twistedarcher - discards Colony
+Twistedarcher - plays Venture
+Twistedarcher - reveals Spice Merchant, Gold
+Twistedarcher - discards Spice Merchant
+Twistedarcher - plays Gold
+Twistedarcher - plays Silver
+Twistedarcher - plays Silver
+Twistedarcher - buys Platinum
+Twistedarcher - gains Platinum
+Twistedarcher - buys Province
+Twistedarcher - gains Province
+Twistedarcher - draws Gold, Venture, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Colony, Estate
+Twistedarcher - places Copper on top of deck
+Twistedarcher - places Silver on top of deck
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Estate, Silver, Platinum, Ghost Ship, Gold
+ 
+---------- Twistedarcher: turn 20 ----------
+Twistedarcher - plays 1 Gold, 1 Silver
+Twistedarcher - plays Venture
+Twistedarcher - reveals Silver
+Twistedarcher - plays Silver
+Twistedarcher - buys Province
+Twistedarcher - gains Province
+Twistedarcher - draws Copper
+Twistedarcher - shuffles deck
+Twistedarcher - draws Spice Merchant, Venture, Silver, Venture
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Venture
+Twistedarcher - places Venture on top of deck
+Twistedarcher - places Silver on top of deck
+Titandrake - plays 2 Gold, 1 Silver, 1 Platinum
+Titandrake - plays Venture
+Titandrake - reveals Platinum
+Titandrake - plays Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Silver, Ghost Ship, Colony, Gold, Spice Merchant
+ 
+---------- Twistedarcher: turn 21 ----------
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Copper
+Twistedarcher - chooses two cards and one action
+Twistedarcher - draws Silver, Venture
+Twistedarcher - plays Venture
+Twistedarcher - reveals Venture
+Twistedarcher - plays Venture
+Twistedarcher - reveals Silver
+Twistedarcher - plays Silver
+Twistedarcher - plays Venture
+Twistedarcher - reveals Spice Merchant, Gold
+Twistedarcher - discards Spice Merchant
+Twistedarcher - plays Gold
+Twistedarcher - plays Silver
+Twistedarcher - buys Province
+Twistedarcher - gains Province
+Twistedarcher - draws Estate, Venture, Province, Platinum, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Silver
+Titandrake - chooses two cards and one action
+Titandrake - draws Ghost Ship, Gold
+Titandrake - plays Ghost Ship
+Titandrake - draws Venture, Copper
+Twistedarcher - places Province on top of deck
+Twistedarcher - places Estate on top of deck
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - plays Venture
+Titandrake - reveals Ghost Ship, Estate, Estate, Copper
+Titandrake - discards: Ghost Ship, Estate, Estate
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Platinum
+Titandrake - shuffles deck
+Titandrake - draws Ghost Ship, Ghost Ship, Ghost Ship, Platinum
+ 
+---------- Twistedarcher: turn 22 ----------
+Twistedarcher - plays Venture
+Twistedarcher - reveals Estate, Province, Silver
+Twistedarcher - discards: Estate, Province
+Twistedarcher - plays Silver
+Twistedarcher - plays Platinum
+Twistedarcher - plays Gold
+Twistedarcher - buys Colony
+Twistedarcher - gains Colony
+Twistedarcher - draws Ghost Ship, Province, Estate, Contraband, Venture
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Gold, Silver
+Twistedarcher - places Province on top of deck
+Twistedarcher - places Estate on top of deck
+Titandrake - plays 2 Platinum, 1 Gold, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Venture, Colony, Gold, Copper, Copper
+ 
+---------- Twistedarcher: turn 23 ----------
+Twistedarcher - plays Ghost Ship
+Twistedarcher - draws Estate, Province
+Titandrake - places Copper on top of deck
+Titandrake - places Colony on top of deck
+Twistedarcher - plays Contraband
+Titandrake - names Colony as contraband
+Twistedarcher - plays Venture
+Twistedarcher - reveals Silver
+Twistedarcher - plays Silver
+Twistedarcher - buys Duchy
+Twistedarcher - gains Duchy
+Twistedarcher - draws Venture, Venture, Estate, Colony, Venture
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - plays Venture
+Titandrake - reveals Colony, Copper
+Titandrake - discards Colony
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Gold, Gold, Spice Merchant, Venture
+ 
+---------- Twistedarcher: turn 24 ----------
+Twistedarcher - plays Venture
+Twistedarcher - shuffles deck
+Twistedarcher - reveals Gold
+Twistedarcher - plays Gold
+Twistedarcher - plays Venture
+Twistedarcher - reveals Platinum
+Twistedarcher - plays Platinum
+Twistedarcher - plays Venture
+Twistedarcher - reveals Silver
+Twistedarcher - plays Silver
+Twistedarcher - buys Colony
+Twistedarcher - gains Colony
+Twistedarcher - draws Contraband, Venture, Spice Merchant, Estate, Venture
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays 2 Gold
+Titandrake - plays Venture
+Titandrake - reveals Estate, Colony, Province, Ghost Ship, Estate, Platinum
+Titandrake - discards: Estate, Colony, Province, Ghost Ship, Estate
+Titandrake - plays Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Estate, Platinum, Duchy, Spice Merchant, Ghost Ship
+ 
+---------- Twistedarcher: turn 25 ----------
+Twistedarcher - plays Spice Merchant
+Twistedarcher - trashes Contraband
+Twistedarcher - chooses two cards and one action
+Twistedarcher - draws Province, Silver
+Twistedarcher - plays Venture
+Twistedarcher - reveals Venture
+Twistedarcher - plays Venture
+Twistedarcher - reveals Ghost Ship, Venture
+Twistedarcher - discards Ghost Ship
+Twistedarcher - plays Venture
+Twistedarcher - reveals Gold
+Twistedarcher - plays Gold
+Twistedarcher - plays Venture
+Twistedarcher - reveals Silver
+Twistedarcher - plays Silver
+Twistedarcher - plays Silver
+Twistedarcher - buys Colony
+Twistedarcher - gains Colony
+Twistedarcher - draws Spice Merchant, Duchy, Estate, Province, Venture
+ 
+------------ Game Over ------------
+Twistedarcher - cards: 2 Spice Merchant, 1 Ghost Ship, 8 Venture, 4 Silver, 2 Gold, 1 Platinum, 4 Colony, 3 Estate, 3 Province, 1 Duchy
+Twistedarcher - total victory points: 64
+Twistedarcher - turns: 25
+ 
+Titandrake - cards: 4 Ghost Ship, 1 Spice Merchant, 4 Gold, 3 Platinum, 2 Venture, 2 Copper, 1 Silver, 4 Colony, 3 Estate, 1 Duchy, 1 Province
+Titandrake - total victory points: 52
+Titandrake - turns: 25
+ 
+1st place: Twistedarcher
+2nd place: Titandrake
+ 

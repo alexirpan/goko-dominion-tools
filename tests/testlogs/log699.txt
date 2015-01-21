@@ -1,0 +1,733 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Crossroads, Vagrant, Storeroom, Salvager, Sea Hag, Tournament, Treasure Map, Minion, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Duck Butter - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Duck Butter - shuffles deck
+Titandrake - shuffles deck
+Duck Butter - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Duck Butter: turn 1 ----------
+Duck Butter - plays 4 Copper
+Duck Butter - buys Tournament
+Duck Butter - gains Tournament
+Duck Butter - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Duck Butter: turn 2 ----------
+Duck Butter - plays 3 Copper
+Duck Butter - buys Silver
+Duck Butter - gains Silver
+Duck Butter - shuffles deck
+Duck Butter - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Silver, Estate, Sea Hag
+ 
+---------- Duck Butter: turn 3 ----------
+Duck Butter - plays 3 Copper, 1 Silver
+Duck Butter - buys Witch
+Duck Butter - gains Witch
+Duck Butter - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Sea Hag
+Duck Butter - discards Tournament
+Duck Butter - gains Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Duck Butter: turn 4 ----------
+Duck Butter - plays 3 Copper
+Duck Butter - buys Silver
+Duck Butter - gains Silver
+Duck Butter - draws Curse, Copper
+Duck Butter - shuffles deck
+Duck Butter - draws Copper, Copper, Tournament
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Estate
+ 
+---------- Duck Butter: turn 5 ----------
+Duck Butter - plays Tournament
+Duck Butter - draws Copper
+Duck Butter - plays 4 Copper
+Duck Butter - buys Minion
+Duck Butter - gains Minion
+Duck Butter - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Copper, Copper, Salvager, Copper, Sea Hag
+ 
+---------- Duck Butter: turn 6 ----------
+Duck Butter - plays 3 Copper
+Duck Butter - buys Silver
+Duck Butter - gains Silver
+Duck Butter - draws Silver, Estate, Silver, Witch
+Duck Butter - shuffles deck
+Duck Butter - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sea Hag
+Duck Butter - discards Copper
+Duck Butter - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Copper, Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Duck Butter: turn 7 ----------
+Duck Butter - plays Witch
+Duck Butter - draws Curse, Estate
+Titandrake - gains Curse
+Duck Butter - plays 2 Silver, 1 Copper
+Duck Butter - buys Minion
+Duck Butter - gains Minion
+Duck Butter - draws Minion, Copper, Curse, Copper, Tournament
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Copper, Copper, Copper, Sea Hag
+ 
+---------- Duck Butter: turn 8 ----------
+Duck Butter - plays Tournament
+Duck Butter - draws Estate
+Duck Butter - plays Minion
+Duck Butter - discards: Copper, Curse, Copper, Estate
+Duck Butter - draws Silver, Copper, Copper, Copper
+Titandrake - discards: Copper, Copper, Copper, Copper, Sea Hag
+Titandrake - draws Copper, Estate, Silver, Cellar
+Duck Butter - plays 3 Copper, 1 Silver
+Duck Butter - buys Minion
+Duck Butter - gains Minion
+Duck Butter - shuffles deck
+Duck Butter - draws Silver, Silver, Copper, Copper, Tournament
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - draws Salvager
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Copper, Tournament, Estate, Salvager
+ 
+---------- Duck Butter: turn 9 ----------
+Duck Butter - plays Tournament
+Duck Butter - draws Curse
+Duck Butter - plays 2 Silver, 2 Copper
+Duck Butter - buys Gold
+Duck Butter - gains Gold
+Duck Butter - draws Estate, Copper, Minion, Minion, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Sea Hag
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Sea Hag
+Duck Butter - discards Estate
+Duck Butter - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Curse, Copper, Copper, Estate, Copper
+ 
+---------- Duck Butter: turn 10 ----------
+Duck Butter - plays Minion
+Duck Butter - takes 2 coins
+Duck Butter - plays Minion
+Duck Butter - discards: Estate, Copper, Copper
+Duck Butter - draws Curse, Witch, Estate, Copper
+Titandrake - discards: Curse, Copper, Copper, Estate, Copper
+Titandrake - draws Cellar, Estate, Copper, Sea Hag
+Duck Butter - plays Witch
+Duck Butter - draws Copper, Curse
+Titandrake - gains Curse
+Duck Butter - plays 2 Copper
+Duck Butter - buys Salvager
+Duck Butter - gains Salvager
+Duck Butter - draws Silver, Copper, Minion
+Duck Butter - shuffles deck
+Duck Butter - draws Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Silver, Copper
+Titandrake - plays Sea Hag
+Duck Butter - discards Silver
+Duck Butter - gains Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Sea Hag, Salvager, Copper, Estate
+ 
+---------- Duck Butter: turn 11 ----------
+Duck Butter - plays Minion
+Duck Butter - discards: Silver, Copper, Copper, Estate
+Duck Butter - draws Curse, Silver, Curse, Gold
+Titandrake - discards: Vagrant, Sea Hag, Salvager, Copper, Estate
+Titandrake - draws Copper, Copper, Tournament, Copper
+Duck Butter - plays 1 Silver, 1 Gold
+Duck Butter - buys Minion
+Duck Butter - gains Minion
+Duck Butter - draws Minion, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Silver, Copper, Cellar, Vagrant
+ 
+---------- Duck Butter: turn 12 ----------
+Duck Butter - plays Minion
+Duck Butter - discards: Estate, Copper, Copper, Copper
+Duck Butter - draws Curse, Copper, Estate, Curse
+Titandrake - discards: Copper, Silver, Copper, Cellar, Vagrant
+Titandrake - draws Silver, Estate, Curse, Copper
+Duck Butter - plays 1 Copper
+Duck Butter - draws Copper, Witch, Minion, Salvager, Tournament
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Sea Hag, Curse
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Vagrant
+ 
+---------- Duck Butter: turn 13 ----------
+Duck Butter - plays Tournament
+Duck Butter - shuffles deck
+Duck Butter - draws Copper
+Duck Butter - plays Minion
+Duck Butter - takes 2 coins
+Duck Butter - plays Salvager
+Duck Butter - trashes Witch
+Duck Butter - plays 2 Copper
+Duck Butter - buys Province
+Duck Butter - gains Province
+Duck Butter - buys Crossroads
+Duck Butter - gains Crossroads
+Duck Butter - draws Copper, Curse, Curse, Copper, Curse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Curse
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Sea Hag
+Duck Butter - discards Minion
+Duck Butter - gains Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Vagrant, Silver, Copper, Silver, Sea Hag
+ 
+---------- Duck Butter: turn 14 ----------
+Duck Butter - plays 2 Copper
+Duck Butter - buys Cellar
+Duck Butter - gains Cellar
+Duck Butter - draws Curse, Silver, Gold, Copper, Minion
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Sea Hag
+Duck Butter - discards Estate
+Duck Butter - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper, Copper, Salvager, Copper, Estate
+ 
+---------- Duck Butter: turn 15 ----------
+Duck Butter - plays Minion
+Duck Butter - takes 2 coins
+Duck Butter - plays 1 Silver, 1 Gold, 1 Copper
+Duck Butter - buys Province
+Duck Butter - gains Province
+Duck Butter - draws Curse, Minion, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper, Tournament, Tournament, Copper, Cellar
+ 
+---------- Duck Butter: turn 16 ----------
+Duck Butter - plays Minion
+Duck Butter - discards: Curse, Copper, Silver, Estate
+Duck Butter - draws Curse, Estate, Silver, Copper
+Titandrake - discards: Copper, Tournament, Tournament, Copper, Cellar
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Curse, Tournament, Curse
+Duck Butter - plays 1 Silver, 1 Copper
+Duck Butter - buys Silver
+Duck Butter - gains Silver
+Duck Butter - shuffles deck
+Duck Butter - draws Copper, Crossroads, Silver, Minion, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 1 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Vagrant, Copper, Copper, Silver, Copper
+ 
+---------- Duck Butter: turn 17 ----------
+Duck Butter - plays Crossroads
+Duck Butter - reveals hand: Copper, Silver, Minion, Estate
+Duck Butter - draws Curse
+Duck Butter - plays Minion
+Duck Butter - discards: Curse, Copper, Silver, Estate
+Duck Butter - draws Minion, Cellar, Copper, Copper
+Titandrake - discards: Vagrant, Copper, Copper, Silver, Copper
+Titandrake - draws Tournament, Copper, Minion, Estate
+Duck Butter - plays Cellar
+Duck Butter - discards Copper
+Duck Butter - discards Copper
+Duck Butter - draws Copper, Copper
+Duck Butter - plays Minion
+Duck Butter - discards: Copper, Copper
+Duck Butter - draws Gold, Curse, Silver, Curse
+Duck Butter - plays 1 Gold, 1 Silver
+Duck Butter - buys Tournament
+Duck Butter - gains Tournament
+Duck Butter - draws Curse, Province, Minion, Salvager, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Tournament
+Duck Butter - reveals Province
+Titandrake - plays Minion
+Titandrake - discards: Copper, Estate
+Titandrake - draws Silver, Salvager, Silver, Sea Hag
+Duck Butter - discards: Curse, Province, Minion, Salvager, Province
+Duck Butter - draws Silver, Estate, Minion, Silver
+Titandrake - plays Salvager
+Titandrake - trashes Sea Hag
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Cellar, Minion, Vagrant, Silver
+ 
+---------- Duck Butter: turn 18 ----------
+Duck Butter - plays Minion
+Duck Butter - discards: Silver, Estate, Silver
+Duck Butter - draws Copper, Tournament, Curse, Estate
+Titandrake - discards: Copper, Cellar, Minion, Vagrant, Silver
+Titandrake - draws Sea Hag, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse, Estate
+Duck Butter - plays Tournament
+Duck Butter - draws Curse
+Duck Butter - plays 1 Copper
+Duck Butter - buys Cellar
+Duck Butter - gains Cellar
+Duck Butter - draws Copper
+Duck Butter - shuffles deck
+Duck Butter - draws Salvager, Estate, Curse, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Sea Hag
+Duck Butter - discards Crossroads
+Duck Butter - gains Curse
+Titandrake - draws Vagrant, Salvager, Vagrant, Estate, Tournament
+ 
+---------- Duck Butter: turn 19 ----------
+Duck Butter - plays Salvager
+Duck Butter - trashes Estate
+Duck Butter - plays 1 Copper, 1 Gold
+Duck Butter - buys Tournament
+Duck Butter - gains Tournament
+Duck Butter - buys Crossroads
+Duck Butter - gains Crossroads
+Duck Butter - draws Curse, Minion, Curse, Province, Curse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Tournament
+Titandrake - reveals: Curse
+Titandrake - places Curse in hand
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Tournament
+Duck Butter - reveals Province
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Silver, Copper, Minion, Copper, Copper
+ 
+---------- Duck Butter: turn 20 ----------
+Duck Butter - plays Minion
+Duck Butter - discards: Curse, Curse, Curse, Province
+Duck Butter - draws Cellar, Copper, Cellar, Tournament
+Titandrake - discards: Silver, Copper, Minion, Copper, Copper
+Titandrake - draws Copper, Copper, Silver, Minion
+Duck Butter - plays Cellar
+Duck Butter - discards Copper
+Duck Butter - discards Cellar
+Duck Butter - draws Minion, Copper
+Duck Butter - plays Tournament
+Duck Butter - draws Copper
+Duck Butter - plays Minion
+Duck Butter - discards: Copper, Copper
+Duck Butter - draws Estate, Curse, Estate, Province
+Duck Butter - draws Curse, Silver, Copper, Silver, Minion
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Cellar, Province, Copper, Silver, Vagrant
+ 
+---------- Duck Butter: turn 21 ----------
+Duck Butter - plays Minion
+Duck Butter - discards: Curse, Silver, Copper, Silver
+Duck Butter - draws Copper, Silver, Curse, Tournament
+Titandrake - discards: Cellar, Province, Copper, Silver, Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Curse, Cellar, Copper, Copper
+Duck Butter - plays Tournament
+Duck Butter - draws Minion
+Duck Butter - plays Minion
+Duck Butter - discards: Copper, Silver, Curse
+Duck Butter - draws Silver, Copper
+Duck Butter - shuffles deck
+Duck Butter - draws Copper, Crossroads
+Duck Butter - plays Crossroads
+Duck Butter - reveals hand: Silver, Copper, Copper
+Duck Butter - plays 2 Copper, 1 Silver
+Duck Butter - buys Salvager
+Duck Butter - gains Salvager
+Duck Butter - draws Silver, Curse, Copper, Minion, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Cellar
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Silver, Copper, Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Minion, Copper, Curse, Province
+ 
+---------- Duck Butter: turn 22 ----------
+Duck Butter - plays Minion
+Duck Butter - discards: Silver, Curse, Copper, Copper
+Duck Butter - draws Silver, Curse, Tournament, Cellar
+Titandrake - discards: Silver, Minion, Copper, Curse, Province
+Titandrake - draws Vagrant, Sea Hag, Gold, Silver
+Duck Butter - plays Cellar
+Duck Butter - discards Curse
+Duck Butter - discards Silver
+Duck Butter - draws Curse, Gold
+Duck Butter - plays Tournament
+Duck Butter - draws Silver
+Duck Butter - plays 1 Gold, 1 Silver
+Duck Butter - buys Gold
+Duck Butter - gains Gold
+Duck Butter - draws Curse, Tournament, Estate, Copper, Curse
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Minion
+Titandrake - reveals: Salvager
+Titandrake - places Salvager on top of deck
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Sea Hag
+Duck Butter - discards Minion
+Duck Butter - gains Curse
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Salvager, Tournament, Copper, Tournament, Copper
+ 
+---------- Duck Butter: turn 23 ----------
+Duck Butter - plays Tournament
+Duck Butter - draws Curse
+Duck Butter - plays 1 Copper
+Duck Butter - buys Crossroads
+Duck Butter - gains Crossroads
+Duck Butter - draws Cellar, Copper, Province, Copper, Curse
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Tournament
+Duck Butter - reveals Province
+Titandrake - plays Salvager
+Titandrake - trashes Tournament
+Titandrake - plays 2 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Silver, Vagrant, Vagrant, Copper, Tournament
+ 
+---------- Duck Butter: turn 24 ----------
+Duck Butter - plays Cellar
+Duck Butter - discards Copper
+Duck Butter - discards Copper
+Duck Butter - discards Curse
+Duck Butter - discards Province
+Duck Butter - draws Province, Curse, Crossroads, Salvager
+Duck Butter - plays Crossroads
+Duck Butter - reveals hand: Province, Curse, Salvager
+Duck Butter - draws Estate
+Duck Butter - plays Salvager
+Duck Butter - trashes Curse
+Duck Butter - shuffles deck
+Duck Butter - draws Silver, Copper, Crossroads, Curse, Crossroads
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Minion
+Titandrake - reveals: Province
+Titandrake - places Province in hand
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Trusty Steed
+Titandrake - draws Trusty Steed
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 coins
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - moves deck to discards
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Silver, Copper, Curse
+ 
+---------- Duck Butter: turn 25 ----------
+Duck Butter - plays Crossroads
+Duck Butter - reveals hand: Silver, Copper, Crossroads, Curse
+Duck Butter - plays Crossroads
+Duck Butter - reveals hand: Silver, Copper, Curse
+Duck Butter - plays 1 Silver, 1 Copper
+Duck Butter - buys Silver
+Duck Butter - gains Silver
+Duck Butter - draws Minion, Copper, Minion, Curse, Crossroads
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Vagrant, Cellar, Copper, Salvager, Province
+ 
+---------- Duck Butter: turn 26 ----------
+Duck Butter - plays Minion
+Duck Butter - takes 2 coins
+Duck Butter - plays Minion
+Duck Butter - discards: Copper, Curse, Crossroads
+Duck Butter - draws Cellar, Silver, Tournament, Tournament
+Titandrake - discards: Vagrant, Cellar, Copper, Salvager, Province
+Titandrake - draws Trusty Steed, Silver, Vagrant, Gold
+Duck Butter - plays Tournament
+Duck Butter - draws Province
+Duck Butter - plays Tournament
+Duck Butter - reveals Province
+Duck Butter - discards Province
+Duck Butter - gains Followers
+Duck Butter - draws Followers
+Duck Butter - plays Followers
+Duck Butter - draws Gold, Minion
+Duck Butter - gains Estate
+Titandrake - discards Vagrant
+Duck Butter - plays 1 Silver, 1 Gold
+Duck Butter - buys Province
+Duck Butter - gains Province
+Duck Butter - draws Gold, Salvager, Silver, Curse, Curse
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 coins
+Titandrake - draws Tournament, Silver
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Copper, Silver, Copper
+ 
+---------- Duck Butter: turn 27 ----------
+Duck Butter - plays Salvager
+Duck Butter - trashes Curse
+Duck Butter - plays 1 Gold, 1 Silver
+Duck Butter - buys Duchy
+Duck Butter - gains Duchy
+Duck Butter - draws Minion, Silver, Estate, Cellar, Copper
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Minion, Silver, Estate, Copper, Vagrant
+ 
+---------- Duck Butter: turn 28 ----------
+Duck Butter - plays Cellar
+Duck Butter - discards Estate
+Duck Butter - discards Copper
+Duck Butter - discards Silver
+Duck Butter - draws Curse, Copper, Tournament
+Duck Butter - plays Tournament
+Duck Butter - draws Salvager
+Duck Butter - plays Minion
+Duck Butter - discards: Curse, Copper, Salvager
+Duck Butter - draws Copper, Curse, Province, Copper
+Titandrake - discards: Minion, Silver, Estate, Copper, Vagrant
+Titandrake - draws Silver, Tournament, Province, Gold
+Duck Butter - plays 2 Copper
+Duck Butter - buys Silver
+Duck Butter - gains Silver
+Duck Butter - draws Copper, Curse, Estate
+Duck Butter - shuffles deck
+Duck Butter - draws Minion, Copper
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - draws Princess
+Titandrake - plays Princess
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Minion, Minion, Curse, Sea Hag
+ 
+---------- Duck Butter: turn 29 ----------
+Duck Butter - plays Minion
+Duck Butter - discards: Copper, Curse, Estate, Copper
+Duck Butter - draws Duchy, Silver, Silver, Silver
+Titandrake - discards: Copper, Minion, Minion, Curse, Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Province, Gold
+Duck Butter - plays 3 Silver
+Duck Butter - buys Duchy
+Duck Butter - gains Duchy
+Duck Butter - draws Curse, Crossroads, Province, Minion, Crossroads
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Curse, Copper, Copper, Vagrant
+ 
+---------- Duck Butter: turn 30 ----------
+Duck Butter - plays Crossroads
+Duck Butter - reveals hand: Curse, Crossroads, Province, Minion
+Duck Butter - draws Tournament
+Duck Butter - plays Tournament
+Duck Butter - reveals Province
+Duck Butter - discards Province
+Duck Butter - gains Duchy
+Duck Butter - draws Duchy
+Duck Butter - plays Crossroads
+Duck Butter - reveals hand: Curse, Minion, Duchy
+Duck Butter - draws Copper
+Duck Butter - plays Minion
+Duck Butter - discards: Copper, Curse, Duchy
+Duck Butter - draws Copper, Tournament, Cellar, Province
+Titandrake - discards: Estate, Curse, Copper, Copper, Vagrant
+Titandrake - draws Silver, Tournament, Minion, Minion
+Duck Butter - plays Tournament
+Duck Butter - reveals Province
+Duck Butter - discards Province
+Duck Butter - gains Duchy
+Duck Butter - draws Duchy
+Duck Butter - plays Cellar
+Duck Butter - discards Duchy
+Duck Butter - discards Copper
+Duck Butter - draws Silver, Curse
+Duck Butter - plays 1 Silver
+Duck Butter - buys Salvager
+Duck Butter - gains Salvager
+Duck Butter - draws Minion, Copper, Estate, Silver, Curse
+ 
+---------- Titandrake: turn 30 ----------
+Titandrake - plays Tournament
+Titandrake - draws Duchy
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Silver, Duchy
+Titandrake - draws Copper, Silver, Minion, Silver
+Duck Butter - discards: Minion, Copper, Estate, Silver, Curse
+Duck Butter - draws Minion, Estate, Cellar, Followers
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Cellar, Estate, Copper, Curse
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Minion, 3 Vagrant, 2 Tournament, 1 Sea Hag, 1 Salvager, 1 Trusty Steed, 1 Princess, 1 Cellar, 9 Silver, 7 Copper, 2 Gold, 5 Province, 2 Duchy, 2 Estate, 2 Curse
+Titandrake - total victory points: 36
+Titandrake - turns: 30
+ 
+Duck Butter - cards: 4 Minion, 3 Tournament, 3 Crossroads, 3 Salvager, 2 Cellar, 1 Followers, 7 Copper, 6 Silver, 2 Gold, 4 Duchy, 3 Province, 3 Estate, 6 Curse
+Duck Butter - total victory points: 27
+Duck Butter - turns: 30
+ 
+1st place: Titandrake
+2nd place: Duck Butter
+ 

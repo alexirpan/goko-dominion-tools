@@ -1,0 +1,542 @@
+------------ Game Setup ------------
+Supply cards: Hermit, Woodcutter, Salvager, Scavenger, Sea Hag, Counterfeit, Haggler, Minion, Pillage, Border Village, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dscarpac - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dscarpac - shuffles deck
+Titandrake - shuffles deck
+dscarpac - draws Overgrown Estate, Copper, Hovel, Copper, Copper
+Titandrake - draws Copper, Overgrown Estate, Hovel, Copper, Necropolis
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- dscarpac: turn 1 ----------
+dscarpac - plays 3 Copper
+dscarpac - buys Hermit
+dscarpac - gains Hermit
+dscarpac - draws Copper, Copper, Copper, Copper, Necropolis
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Hovel, Sea Hag
+ 
+---------- dscarpac: turn 2 ----------
+dscarpac - plays 4 Copper
+dscarpac - buys Sea Hag
+dscarpac - gains Sea Hag
+dscarpac - shuffles deck
+dscarpac - draws Copper, Copper, Hermit, Copper, Necropolis
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Sea Hag
+dscarpac - discards Copper
+dscarpac - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Necropolis, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- dscarpac: turn 3 ----------
+dscarpac - plays Hermit
+dscarpac - gains Silver
+dscarpac - plays 3 Copper
+dscarpac - buys Silver
+dscarpac - gains Silver
+dscarpac - draws Curse, Copper, Sea Hag, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hovel, Copper, Copper
+ 
+---------- dscarpac: turn 4 ----------
+dscarpac - plays Sea Hag
+Titandrake - discards Hermit
+Titandrake - gains Curse
+dscarpac - draws Hovel, Copper
+dscarpac - shuffles deck
+dscarpac - draws Hermit, Overgrown Estate, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Curse, Necropolis, Copper, Copper, Sea Hag
+ 
+---------- dscarpac: turn 5 ----------
+dscarpac - plays Hermit
+dscarpac - trashes Overgrown Estate
+dscarpac - draws Copper
+dscarpac - gains Hermit
+dscarpac - plays 2 Copper, 1 Silver
+dscarpac - buys Sea Hag
+dscarpac - gains Sea Hag
+dscarpac - draws Copper, Sea Hag, Curse, Copper, Necropolis
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sea Hag
+dscarpac - discards Copper
+dscarpac - gains Curse
+Titandrake - draws Copper, Silver, Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hovel
+ 
+---------- dscarpac: turn 6 ----------
+dscarpac - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+dscarpac - draws Curse, Copper, Copper, Silver
+dscarpac - shuffles deck
+dscarpac - draws Hermit
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Curse, Curse, Necropolis, Hermit, Sea Hag
+ 
+---------- dscarpac: turn 7 ----------
+dscarpac - plays Hermit
+dscarpac - trashes Curse
+dscarpac - gains Hermit
+dscarpac - plays 2 Copper, 1 Silver
+dscarpac - buys Scavenger
+dscarpac - gains Scavenger
+dscarpac - draws Necropolis, Sea Hag, Silver, Hermit, Hovel
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Hermit
+Titandrake - plays Sea Hag
+dscarpac - discards Copper
+dscarpac - gains Curse
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper, Sea Hag, Copper, Copper, Copper
+ 
+---------- dscarpac: turn 8 ----------
+dscarpac - plays Necropolis
+dscarpac - plays Sea Hag
+Titandrake - shuffles deck
+Titandrake - discards Necropolis
+Titandrake - gains Curse
+dscarpac - plays Hermit
+dscarpac - trashes Hovel
+dscarpac - gains Hermit
+dscarpac - trashes Hermit
+dscarpac - gains Madman
+dscarpac - draws Curse, Sea Hag, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Sea Hag
+dscarpac - discards Curse
+dscarpac - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse, Silver, Curse, Scavenger, Copper
+ 
+---------- dscarpac: turn 9 ----------
+dscarpac - plays Sea Hag
+Titandrake - discards Overgrown Estate
+Titandrake - gains Curse
+dscarpac - plays 3 Copper
+dscarpac - buys Silver
+dscarpac - gains Silver
+dscarpac - draws Curse, Copper
+dscarpac - shuffles deck
+dscarpac - draws Curse, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Sea Hag on top of deck
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Pillage
+Titandrake - gains Pillage
+Titandrake - draws Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Hovel, Pillage, Silver
+ 
+---------- dscarpac: turn 10 ----------
+dscarpac - plays 3 Copper
+dscarpac - buys Silver
+dscarpac - gains Silver
+dscarpac - draws Hermit, Copper, Copper, Hermit, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Sea Hag
+dscarpac - discards Silver
+dscarpac - gains Curse
+Titandrake - draws Copper, Curse, Silver, Copper, Madman
+ 
+---------- dscarpac: turn 11 ----------
+dscarpac - plays Hermit
+dscarpac - trashes Curse
+dscarpac - gains Silver
+dscarpac - trashes Hermit
+dscarpac - gains Madman
+dscarpac - draws Curse, Madman, Hermit, Scavenger, Sea Hag
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Sea Hag, Necropolis, Scavenger
+Titandrake - plays Sea Hag
+dscarpac - discards Necropolis
+dscarpac - gains Curse
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Pillage on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Pillage
+Titandrake - shuffles deck
+Titandrake - draws Scavenger, Silver, Curse, Sea Hag
+ 
+---------- dscarpac: turn 12 ----------
+dscarpac - plays Madman
+dscarpac - draws Curse, Curse, Silver, Silver
+dscarpac - plays Scavenger
+dscarpac - moves deck to discards
+dscarpac - places Madman on top of deck
+dscarpac - plays Hermit
+dscarpac - trashes Curse
+dscarpac - gains Silver
+dscarpac - plays 2 Silver
+dscarpac - buys Border Village
+dscarpac - gains Border Village
+dscarpac - gains Counterfeit
+dscarpac - draws Madman
+dscarpac - shuffles deck
+dscarpac - draws Silver, Necropolis, Hermit, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+dscarpac - reveals Madman, Silver, Necropolis, Hermit, Silver
+dscarpac - discards Madman
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - draws Sea Hag, Curse, Gold, Copper, Overgrown Estate
+ 
+---------- dscarpac: turn 13 ----------
+dscarpac - plays Hermit
+dscarpac - gains Hermit
+dscarpac - plays 2 Silver
+dscarpac - buys Salvager
+dscarpac - gains Salvager
+dscarpac - draws Counterfeit, Copper, Curse, Sea Hag, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Silver, Hermit, Copper, Curse, Necropolis
+ 
+---------- dscarpac: turn 14 ----------
+dscarpac - plays Sea Hag
+Titandrake - discards Copper
+dscarpac - plays Counterfeit
+dscarpac - plays Copper
+dscarpac - plays Copper
+dscarpac - trashes Copper
+dscarpac - plays Copper
+dscarpac - buys Salvager
+dscarpac - gains Salvager
+dscarpac - draws Copper, Copper, Curse, Silver, Scavenger
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Curse
+Titandrake - gains Hermit
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- dscarpac: turn 15 ----------
+dscarpac - plays Scavenger
+dscarpac - moves deck to discards
+dscarpac - places Madman on top of deck
+dscarpac - plays 2 Copper, 1 Silver
+dscarpac - buys Border Village
+dscarpac - gains Border Village
+dscarpac - gains Pillage
+dscarpac - draws Madman
+dscarpac - shuffles deck
+dscarpac - draws Sea Hag, Copper, Curse, Salvager
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Sea Hag, Silver, Curse, Copper
+ 
+---------- dscarpac: turn 16 ----------
+dscarpac - plays Madman
+dscarpac - draws Silver, Border Village, Hermit, Copper
+dscarpac - plays Border Village
+dscarpac - draws Necropolis
+dscarpac - plays Salvager
+dscarpac - trashes Sea Hag
+dscarpac - plays Hermit
+dscarpac - trashes Curse
+dscarpac - gains Hermit
+dscarpac - plays 2 Copper, 1 Silver
+dscarpac - buys Province
+dscarpac - gains Province
+dscarpac - draws Silver, Copper, Curse, Copper, Curse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Scavenger, Copper, Copper, Gold, Copper
+ 
+---------- dscarpac: turn 17 ----------
+dscarpac - plays 2 Copper, 1 Silver
+dscarpac - buys Silver
+dscarpac - gains Silver
+dscarpac - draws Sea Hag, Silver, Counterfeit, Copper, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Hermit on top of deck
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Hermit
+Titandrake - shuffles deck
+Titandrake - draws Silver, Overgrown Estate, Silver, Gold
+ 
+---------- dscarpac: turn 18 ----------
+dscarpac - plays Sea Hag
+Titandrake - discards Copper
+dscarpac - plays Counterfeit
+dscarpac - plays Copper
+dscarpac - plays Copper
+dscarpac - trashes Copper
+dscarpac - plays 1 Silver, 1 Copper
+dscarpac - buys Border Village
+dscarpac - gains Border Village
+dscarpac - gains Haggler
+dscarpac - draws Salvager, Hermit, Hermit, Pillage, Border Village
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Spoils, Copper, Copper, Spoils
+ 
+---------- dscarpac: turn 19 ----------
+dscarpac - plays Border Village
+dscarpac - draws Silver
+dscarpac - plays Hermit
+dscarpac - trashes Curse
+dscarpac - gains Silver
+dscarpac - plays Pillage
+dscarpac - trashes Pillage
+Titandrake - reveals Copper, Spoils, Copper, Copper, Spoils
+Titandrake - discards Spoils
+dscarpac - gains Spoils
+dscarpac - gains Spoils
+dscarpac - plays 1 Silver
+dscarpac - trashes Hermit
+dscarpac - gains Madman
+dscarpac - draws Scavenger, Silver, Silver
+dscarpac - shuffles deck
+dscarpac - draws Madman, Spoils
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Copper
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Curse, Copper, Copper, Counterfeit, Curse
+ 
+---------- dscarpac: turn 20 ----------
+dscarpac - plays Madman
+dscarpac - draws Silver, Hermit, Haggler, Copper
+dscarpac - plays Haggler
+dscarpac - plays Scavenger
+dscarpac - moves deck to discards
+dscarpac - places Counterfeit on top of deck
+dscarpac - plays 3 Silver, 1 Copper
+dscarpac - buys Province
+dscarpac - gains Border Village
+dscarpac - gains Haggler
+dscarpac - gains Province
+dscarpac - draws Counterfeit
+dscarpac - shuffles deck
+dscarpac - draws Sea Hag, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Necropolis, Sea Hag, Scavenger, Silver, Silver
+ 
+---------- dscarpac: turn 21 ----------
+dscarpac - plays Sea Hag
+Titandrake - discards Sea Hag
+dscarpac - plays Counterfeit
+dscarpac - plays Copper
+dscarpac - plays Copper
+dscarpac - trashes Copper
+dscarpac - plays 1 Silver, 1 Copper
+dscarpac - buys Border Village
+dscarpac - gains Border Village
+dscarpac - gains Woodcutter
+dscarpac - draws Spoils, Salvager, Necropolis, Border Village, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays 2 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Duchy
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Silver, Curse, Duchy, Necropolis
+ 
+---------- dscarpac: turn 22 ----------
+dscarpac - plays Salvager
+dscarpac - trashes Border Village
+dscarpac - plays 1 Copper
+dscarpac - plays Spoils
+dscarpac - buys Province
+dscarpac - gains Province
+dscarpac - draws Spoils, Silver, Haggler, Salvager, Silver
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Gold on top of deck
+Titandrake - plays Silver
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper, Duchy, Copper
+ 
+---------- dscarpac: turn 23 ----------
+dscarpac - plays Haggler
+dscarpac - plays 2 Silver
+dscarpac - plays Spoils
+dscarpac - buys Province
+dscarpac - gains Border Village
+dscarpac - gains Duchy
+dscarpac - gains Province
+dscarpac - draws Border Village, Copper, Hermit, Scavenger, Hermit
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Sea Hag, Hermit, Copper, Hovel
+ 
+---------- dscarpac: turn 24 ----------
+dscarpac - plays Border Village
+dscarpac - draws Curse
+dscarpac - plays Hermit
+dscarpac - trashes Curse
+dscarpac - gains Woodcutter
+dscarpac - plays Scavenger
+dscarpac - moves deck to discards
+dscarpac - places Salvager on top of deck
+dscarpac - trashes Hermit
+dscarpac - gains Madman
+dscarpac - draws Salvager
+dscarpac - shuffles deck
+dscarpac - draws Province, Border Village, Border Village, Silver
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Sea Hag
+Titandrake - gains Estate
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Sea Hag, Silver, Salvager, Copper, Scavenger
+ 
+---------- dscarpac: turn 25 ----------
+dscarpac - plays Border Village
+dscarpac - draws Border Village
+dscarpac - plays Border Village
+dscarpac - draws Copper
+dscarpac - plays Salvager
+dscarpac - trashes Border Village
+dscarpac - plays 1 Silver, 1 Copper
+dscarpac - buys Province
+dscarpac - gains Province
+dscarpac - draws Counterfeit, Copper, Border Village, Haggler, Hermit
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Madman on top of deck
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Madman
+Titandrake - shuffles deck
+Titandrake - draws Estate, Hermit, Spoils, Gold
+ 
+---------- dscarpac: turn 26 ----------
+dscarpac - plays Border Village
+dscarpac - draws Province
+dscarpac - plays Haggler
+dscarpac - plays Hermit
+dscarpac - gains Estate
+dscarpac - plays Counterfeit
+dscarpac - plays Copper
+dscarpac - plays Copper
+dscarpac - trashes Copper
+dscarpac - buys Duchy
+dscarpac - gains Salvager
+dscarpac - gains Duchy
+dscarpac - draws Border Village, Silver, Scavenger, Salvager, Necropolis
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Madman
+Titandrake - draws Silver, Copper, Silver, Duchy
+Titandrake - plays Hermit
+Titandrake - gains Estate
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Counterfeit, Border Village, Duchy, Sea Hag, Province
+ 
+------------ Game Over ------------
+dscarpac - cards: 4 Border Village, 3 Salvager, 2 Haggler, 2 Hermit, 2 Woodcutter, 1 Scavenger, 1 Necropolis, 1 Sea Hag, 1 Madman, 8 Silver, 3 Copper, 1 Counterfeit, 5 Province, 2 Duchy, 1 Estate
+dscarpac - total victory points: 37
+dscarpac - turns: 26
+ 
+Titandrake - cards: 2 Hermit, 2 Scavenger, 1 Border Village, 1 Sea Hag, 1 Salvager, 1 Necropolis, 6 Copper, 5 Silver, 2 Gold, 1 Counterfeit, 1 Spoils, 3 Duchy, 3 Province, 2 Estate, 2 Curse, 1 Hovel
+Titandrake - total victory points: 27
+Titandrake - turns: 27
+ 
+1st place: dscarpac
+2nd place: Titandrake
+ 

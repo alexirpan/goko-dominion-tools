@@ -1,0 +1,457 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Forager, Hermit, Workshop, Farming Village, Moneylender, Silk Road, Mandarin, Rabble, Vault, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SM.SM - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Overgrown Estate, Copper, Copper, Necropolis
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 5 Copper
+SM.SM - buys Stonemason
+SM.SM - overpays for Stonemason with 3 coins
+SM.SM - gains Hermit
+SM.SM - gains Forager
+SM.SM - gains Stonemason
+SM.SM - draws Copper, Necropolis, Overgrown Estate, Copper, Hovel
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Hovel, Copper, Hermit
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - shuffles deck
+Titandrake - draws Copper, Necropolis, Copper, Forager, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Hermit
+SM.SM - trashes Hovel
+SM.SM - gains Hermit
+SM.SM - trashes Hermit
+SM.SM - gains Madman
+SM.SM - draws Forager, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Copper, Hovel, Hermit, Copper, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Forager
+SM.SM - trashes Copper
+SM.SM - plays 3 Copper
+SM.SM - buys Moneylender
+SM.SM - gains Moneylender
+SM.SM - draws Stonemason, Necropolis, Overgrown Estate
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Hovel
+Titandrake - gains Silver
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Overgrown Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Madman, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Stonemason
+SM.SM - trashes Copper
+SM.SM - draws Copper, Copper, Moneylender, Hermit, Madman
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Madman
+Titandrake - draws Hermit, Forager, Necropolis, Copper
+Titandrake - plays Forager
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Copper
+Titandrake - plays Hermit
+Titandrake - trashes Necropolis
+Titandrake - gains Hermit
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Rabble
+Titandrake - gains Rabble
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Copper, Forager
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Madman
+SM.SM - draws Copper, Copper, Forager
+SM.SM - shuffles deck
+SM.SM - draws Overgrown Estate
+SM.SM - plays Forager
+SM.SM - trashes Overgrown Estate
+SM.SM - draws Stonemason
+SM.SM - plays Hermit
+SM.SM - trashes Stonemason
+SM.SM - gains Silver
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays 3 Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Necropolis, Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper, Forager, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Hermit
+Titandrake - gains Forager
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Copper, Hermit, Silver, Copper, Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Forager
+SM.SM - trashes Necropolis
+SM.SM - plays 3 Copper
+SM.SM - buys Farming Village
+SM.SM - gains Farming Village
+SM.SM - draws Copper, Silver, Hermit, Moneylender, Gold
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Rabble
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Forager, Copper
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays 1 Silver, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - shuffles deck
+SM.SM - draws Province, Forager, Copper, Silver, Farming Village
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Rabble
+Titandrake - draws Forager, Hermit, Farming Village
+SM.SM - reveals Hermit, Copper, Moneylender
+SM.SM - discards: Hermit, Copper, Moneylender
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Madman, Silver, Copper, Copper
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Farming Village
+SM.SM - reveals Copper
+SM.SM - places Copper in hand
+SM.SM - plays Forager
+SM.SM - trashes Copper
+SM.SM - plays 1 Copper, 1 Silver
+SM.SM - buys Farming Village
+SM.SM - gains Farming Village
+SM.SM - draws Gold
+SM.SM - shuffles deck
+SM.SM - draws Farming Village, Farming Village, Moneylender, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Madman
+Titandrake - shuffles deck
+Titandrake - draws Rabble, Farming Village, Forager, Copper
+Titandrake - plays Rabble
+Titandrake - draws Hermit, Forager, Copper
+SM.SM - reveals Copper, Silver, Province
+SM.SM - discards: Copper, Silver
+SM.SM - places Province on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Silver, Silver, Copper, Gold
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Farming Village
+SM.SM - reveals Province, Hermit
+SM.SM - places Hermit in hand
+SM.SM - discards Province
+SM.SM - plays Farming Village
+SM.SM - reveals Forager
+SM.SM - places Forager in hand
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays Hermit
+SM.SM - gains Silver
+SM.SM - plays 1 Gold
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - shuffles deck
+SM.SM - draws Province, Farming Village, Forager, Moneylender, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 2 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Forager, Forager, Hermit, Silver
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Farming Village
+SM.SM - reveals Hermit
+SM.SM - places Hermit in hand
+SM.SM - plays Moneylender
+SM.SM - trashes Copper
+SM.SM - plays Hermit
+SM.SM - gains Hermit
+SM.SM - trashes Hermit
+SM.SM - gains Madman
+SM.SM - draws Gold, Farming Village, Gold, Silver, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hermit
+Titandrake - gains Hermit
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Farming Village, Rabble
+Titandrake - shuffles deck
+Titandrake - draws Forager, Silver, Hermit
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Farming Village
+SM.SM - shuffles deck
+SM.SM - reveals Moneylender
+SM.SM - places Moneylender in hand
+SM.SM - plays 2 Gold, 2 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Farming Village, Madman, Province, Hermit, Forager
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Rabble
+Titandrake - draws Silver, Madman, Forager
+SM.SM - shuffles deck
+SM.SM - reveals Farming Village, Moneylender, Province
+SM.SM - discards: Farming Village, Moneylender
+SM.SM - places Province on top of deck
+Titandrake - plays Madman
+Titandrake - draws Silver, Province, Gold, Copper, Copper, Silver
+Titandrake - plays Hermit
+Titandrake - gains Silver
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Forager
+Titandrake - trashes Silver
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays 4 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Forager, Forager, Gold, Silver
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Farming Village
+SM.SM - reveals Province, Gold
+SM.SM - places Gold in hand
+SM.SM - discards Province
+SM.SM - plays Madman
+SM.SM - draws Silver, Silver, Gold
+SM.SM - shuffles deck
+SM.SM - draws Province
+SM.SM - plays Forager
+SM.SM - trashes Hermit
+SM.SM - plays 2 Gold, 2 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Silk Road
+SM.SM - gains Silk Road
+SM.SM - draws Moneylender, Farming Village
+SM.SM - shuffles deck
+SM.SM - draws Farming Village, Silk Road, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hermit
+Titandrake - gains Stonemason
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Province, Rabble, Copper, Farming Village
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Farming Village
+SM.SM - reveals Silver
+SM.SM - places Silver in hand
+SM.SM - plays Farming Village
+SM.SM - reveals Province, Province, Forager
+SM.SM - places Forager in hand
+SM.SM - discards: Province, Province
+SM.SM - plays Forager
+SM.SM - trashes Moneylender
+SM.SM - plays 1 Gold, 1 Silver
+SM.SM - buys Stonemason
+SM.SM - overpays for Stonemason with 5 coins
+SM.SM - gains Rabble
+SM.SM - gains Vault
+SM.SM - gains Stonemason
+SM.SM - draws Gold, Silver, Province
+SM.SM - shuffles deck
+SM.SM - draws Gold, Stonemason
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Province
+Titandrake - plays Rabble
+Titandrake - draws Farming Village, Silver, Province
+SM.SM - reveals Forager, Province, Province
+SM.SM - discards Forager
+SM.SM - places Province on top of deck
+SM.SM - places Province on top of deck
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 5 coins
+Titandrake - gains Rabble
+Titandrake - gains Rabble
+Titandrake - gains Stonemason
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province, Farming Village, Silver, Duchy
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Stonemason
+SM.SM - trashes Gold
+SM.SM - gains Duchy
+SM.SM - gains Duchy
+SM.SM - plays 1 Gold, 1 Silver
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Province, Province, Vault, Farming Village, Rabble
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Stonemason
+Titandrake - places Stonemason in hand
+Titandrake - plays Stonemason
+Titandrake - trashes Duchy
+Titandrake - gains Silk Road
+Titandrake - gains Silk Road
+Titandrake - plays 2 Silver
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Rabble, Stonemason, Province, Silver, Silver
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Farming Village
+SM.SM - reveals Silver
+SM.SM - places Silver in hand
+SM.SM - plays Rabble
+SM.SM - draws Silk Road, Farming Village
+SM.SM - shuffles deck
+SM.SM - draws Duchy
+Titandrake - reveals Copper, Rabble, Farming Village
+Titandrake - discards: Copper, Rabble, Farming Village
+SM.SM - plays Farming Village
+SM.SM - reveals Duchy, Stonemason
+SM.SM - places Stonemason in hand
+SM.SM - discards Duchy
+SM.SM - plays Vault
+SM.SM - draws Gold, Province
+SM.SM - discards Province
+SM.SM - discards Province
+SM.SM - discards Province
+SM.SM - discards Silk Road
+SM.SM - discards Duchy
+SM.SM - plays Stonemason
+SM.SM - trashes Silver
+SM.SM - gains Estate
+SM.SM - gains Estate
+SM.SM - plays 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Forager, Duchy, Silver
+SM.SM - shuffles deck
+SM.SM - draws Estate, Farming Village
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Stonemason
+Titandrake - trashes Rabble
+Titandrake - gains Silk Road
+Titandrake - gains Silk Road
+Titandrake - plays 2 Silver
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Gold, Rabble, Copper, Province, Hermit
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Farming Village
+SM.SM - reveals Estate, Province, Duchy, Vault
+SM.SM - places Vault in hand
+SM.SM - discards: Estate, Province, Duchy
+SM.SM - plays Vault
+SM.SM - draws Duchy, Province
+SM.SM - discards Province
+SM.SM - discards Estate
+SM.SM - discards Duchy
+SM.SM - discards Duchy
+SM.SM - discards Silver
+Titandrake - discards Province
+Titandrake - discards Hermit
+SM.SM - plays Forager
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Gold, Farming Village, Province, Rabble, Province
+ 
+------------ Game Over ------------
+SM.SM - cards: 2 Farming Village, 1 Rabble, 1 Vault, 1 Forager, 1 Stonemason, 1 Gold, 1 Silver, 5 Province, 3 Duchy, 2 Estate, 1 Silk Road
+SM.SM - total victory points: 43
+SM.SM - turns: 17
+ 
+Titandrake - cards: 2 Rabble, 2 Forager, 2 Farming Village, 2 Stonemason, 1 Hermit, 4 Silver, 2 Copper, 1 Gold, 6 Silk Road, 3 Province
+Titandrake - total victory points: 30
+Titandrake - turns: 16
+ 
+1st place: SM.SM
+2nd place: Titandrake
+ 

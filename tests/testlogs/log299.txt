@@ -1,0 +1,530 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Lighthouse, Lookout, Marauder, Noble Brigand, Catacombs, Jester, Knights, Saboteur, Border Village, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Titandrake - shuffles deck
+yed - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Lighthouse
+yed - gains Lighthouse
+yed - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Lighthouse
+yed - gains Lighthouse
+yed - shuffles deck
+yed - draws Copper, Copper, Copper, Estate, Lighthouse
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Estate, Jester
+ 
+---------- yed: turn 3 ----------
+yed - plays Lighthouse
+yed - plays 3 Copper
+yed - buys Lighthouse
+yed - gains Lighthouse
+yed - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Jester
+Titandrake - plays 2 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Copper, Copper, Lighthouse, Estate, Copper
+ 
+---------- yed: turn 4 ----------
+yed - duration Lighthouse
+yed - plays 3 Copper
+yed - buys Lighthouse
+yed - gains Lighthouse
+yed - draws Copper, Lighthouse
+yed - shuffles deck
+yed - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Jester
+ 
+---------- yed: turn 5 ----------
+yed - plays Lighthouse
+yed - plays 4 Copper
+yed - buys Dame Sylvia
+yed - gains Dame Sylvia
+yed - draws Estate, Copper, Copper, Copper, Lighthouse
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Jester
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Sir Destry
+Titandrake - draws Estate, Copper, Lookout, Estate, Copper
+ 
+---------- yed: turn 6 ----------
+yed - duration Lighthouse
+yed - plays Lighthouse
+yed - plays 3 Copper
+yed - buys Dame Anna
+yed - gains Dame Anna
+yed - draws Lighthouse, Estate, Estate, Lighthouse
+yed - shuffles deck
+yed - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Sir Destry, Lighthouse, Lighthouse, Lookout
+ 
+---------- yed: turn 7 ----------
+yed - duration Lighthouse
+yed - plays Lighthouse
+yed - plays Lighthouse
+yed - plays 1 Copper
+yed - buys Lighthouse
+yed - gains Lighthouse
+yed - draws Estate, Dame Sylvia, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Jester on top of deck
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Jester, Copper, Estate, Estate, Border Village
+ 
+---------- yed: turn 8 ----------
+yed - duration Lighthouse
+yed - duration Lighthouse
+yed - plays Dame Sylvia
+yed - plays 3 Copper
+yed - buys Border Village
+yed - gains Border Village
+yed - gains Catacombs
+yed - draws Lighthouse, Copper, Copper, Copper, Dame Anna
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Jester
+yed - shuffles deck
+yed - reveals Dame Sylvia
+yed - discards Dame Sylvia
+Titandrake - plays 2 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Lighthouse
+Titandrake - draws Silver, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Lighthouse, Copper
+ 
+---------- yed: turn 9 ----------
+yed - plays Lighthouse
+yed - plays Dame Anna
+yed - trashes Copper, Copper
+Titandrake - reveals: Lighthouse, Border Village
+Titandrake - trashes Border Village
+Titandrake - discards Lighthouse
+yed - plays 1 Copper
+yed - buys Lighthouse
+yed - gains Lighthouse
+yed - draws Copper, Lighthouse, Border Village, Copper, Lighthouse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Catacombs
+Titandrake - draws Copper, Border Village, Sir Destry, Jester, Estate
+ 
+---------- yed: turn 10 ----------
+yed - duration Lighthouse
+yed - plays Lighthouse
+yed - plays Lighthouse
+yed - plays Border Village
+yed - draws Estate
+yed - plays 2 Copper
+yed - buys Sir Martin
+yed - gains Sir Martin
+yed - draws Catacombs, Estate, Lighthouse, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Lookout
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Lighthouse
+Titandrake - places Lighthouse on top of deck
+Titandrake - plays Sir Destry
+Titandrake - draws Lighthouse, Copper
+Titandrake - plays Lighthouse
+Titandrake - plays Jester
+Titandrake - plays 2 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Dame Josephine
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Copper, Border Village, Sir Destry
+ 
+---------- yed: turn 11 ----------
+yed - duration Lighthouse
+yed - duration Lighthouse
+yed - plays Lighthouse
+yed - plays Catacombs
+yed - looks at Copper, Lighthouse
+yed - shuffles deck
+yed - looks at Estate
+yed - discards: Copper, Lighthouse, Estate
+yed - draws Border Village, Sir Martin, Lighthouse
+yed - plays 1 Copper
+yed - buys Candlestick Maker
+yed - gains Candlestick Maker
+yed - draws Copper, Dame Anna, Copper, Copper, Dame Sylvia
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays Sir Destry
+Titandrake - draws Copper, Jester
+Titandrake - plays Jester
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Catacombs
+Titandrake - draws Lookout, Lighthouse, Catacombs, Border Village, Estate
+ 
+---------- yed: turn 12 ----------
+yed - duration Lighthouse
+yed - plays Dame Sylvia
+Titandrake - reveals: Copper, Lighthouse
+yed - plays 3 Copper
+yed - buys Border Village
+yed - gains Border Village
+yed - gains Sir Vander
+yed - draws Lighthouse
+yed - shuffles deck
+yed - draws Copper, Candlestick Maker, Lighthouse, Dame Anna
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Lighthouse
+Titandrake - places Dame Josephine on top of deck
+Titandrake - plays Border Village
+Titandrake - draws Dame Josephine
+Titandrake - plays Catacombs
+Titandrake - shuffles deck
+Titandrake - looks at Lighthouse, Lighthouse, Border Village
+Titandrake - discards: Lighthouse, Lighthouse, Border Village
+Titandrake - draws Border Village, Catacombs, Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Catacombs
+Titandrake - looks at Copper, Border Village, Copper
+Titandrake - places cards in hand:  Copper, Border Village, Copper
+Titandrake - plays Border Village
+Titandrake - draws Jester
+Titandrake - plays Lighthouse
+Titandrake - plays Dame Josephine
+yed - reveals: Border Village, Lighthouse
+yed - trashes Border Village
+yed - discards Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Jester
+yed - reveals Estate
+yed - discards Estate
+yed - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Sir Bailey
+Titandrake - draws Copper, Sir Destry, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Border Village
+ 
+---------- yed: turn 13 ----------
+yed - plays Lighthouse
+yed - plays Lighthouse
+yed - plays Candlestick Maker
+yed - receives 1 coin token
+yed - plays Dame Anna
+yed - trashes Copper
+yed - buys Candlestick Maker
+yed - gains Candlestick Maker
+yed - draws Dame Sylvia, Copper, Lighthouse, Lighthouse, Sir Vander
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Border Village
+Titandrake - plays Sir Destry
+Titandrake - draws Copper, Dame Josephine
+Titandrake - plays Border Village
+Titandrake - draws Jester
+Titandrake - plays Jester
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Lighthouse, Border Village, Border Village, Estate, Copper
+ 
+---------- yed: turn 14 ----------
+yed - duration Lighthouse
+yed - duration Lighthouse
+yed - plays Lighthouse
+yed - plays Lighthouse
+yed - plays Dame Sylvia
+Titandrake - reveals: Lookout, Lighthouse
+Titandrake - trashes Lookout
+Titandrake - discards Lighthouse
+yed - plays 1 Copper
+yed - buys Border Village
+yed - gains Border Village
+yed - gains Dame Molly
+yed - draws Copper, Estate, Estate, Lighthouse, Border Village
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Border Village
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Catacombs
+Titandrake - plays Catacombs
+Titandrake - looks at Catacombs, Estate, Sir Bailey
+Titandrake - places cards in hand:  Catacombs, Estate, Sir Bailey
+Titandrake - plays Border Village
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - plays Sir Bailey
+Titandrake - draws Sir Destry
+Titandrake - plays Catacombs
+Titandrake - looks at Jester, Lighthouse, Dame Josephine
+Titandrake - discards: Jester, Lighthouse, Dame Josephine
+Titandrake - draws Border Village, Border Village, Silver
+Titandrake - plays Border Village
+Titandrake - draws Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Sir Destry
+Titandrake - draws Copper, Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Jester, Border Village, Dame Josephine, Border Village
+ 
+---------- yed: turn 15 ----------
+yed - duration Lighthouse
+yed - duration Lighthouse
+yed - plays Border Village
+yed - draws Copper
+yed - plays Lighthouse
+yed - plays 2 Copper
+yed - uses 1 coin token
+yed - buys Border Village
+yed - gains Border Village
+yed - gains Catacombs
+yed - draws Catacombs, Sir Martin, Copper
+yed - shuffles deck
+yed - draws Estate, Dame Sylvia
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays Border Village
+Titandrake - draws Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Jester
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Catacombs, Estate, Copper, Copper
+ 
+---------- yed: turn 16 ----------
+yed - duration Lighthouse
+yed - plays Dame Sylvia
+yed - plays 1 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Lighthouse, Dame Anna, Copper, Border Village, Lighthouse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Catacombs
+Titandrake - looks at Province, Border Village, Sir Destry
+Titandrake - discards: Province, Border Village, Sir Destry
+Titandrake - draws Border Village, Sir Bailey, Border Village
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Province, Catacombs
+Titandrake - shuffles deck
+Titandrake - draws Estate, Province
+ 
+---------- yed: turn 17 ----------
+yed - plays Border Village
+yed - draws Sir Vander
+yed - plays Lighthouse
+yed - plays Lighthouse
+yed - plays Sir Vander
+Titandrake - reveals: Silver, Silver
+Titandrake - trashes Silver
+Titandrake - discards Silver
+yed - plays Dame Anna
+yed - trashes Copper
+Titandrake - reveals: Sir Destry, Copper
+Titandrake - trashes Sir Destry
+Titandrake - discards Copper
+yed - trashes Dame Anna
+yed - buys Estate
+yed - gains Estate
+yed - draws Border Village, Lighthouse, Catacombs, Copper, Lighthouse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - draws Copper, Border Village, Copper, Border Village, Catacombs
+ 
+---------- yed: turn 18 ----------
+yed - duration Lighthouse
+yed - duration Lighthouse
+yed - plays Border Village
+yed - draws Curse
+yed - plays Lighthouse
+yed - plays Lighthouse
+yed - plays Catacombs
+yed - looks at Candlestick Maker, Border Village, Dame Molly
+yed - places cards in hand:  Candlestick Maker, Border Village, Dame Molly
+yed - plays Border Village
+yed - draws Estate
+yed - plays Candlestick Maker
+yed - receives 1 coin token
+yed - plays Dame Molly
+Titandrake - reveals: Dame Josephine, Border Village
+Titandrake - trashes Border Village
+Titandrake - discards Dame Josephine
+yed - plays 1 Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Estate, Lighthouse, Candlestick Maker, Copper
+yed - shuffles deck
+yed - draws Border Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Border Village
+Titandrake - draws Lighthouse
+Titandrake - plays Catacombs
+Titandrake - looks at Province, Sir Bailey, Lighthouse
+Titandrake - places cards in hand:  Province, Sir Bailey, Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Border Village
+Titandrake - plays Sir Bailey
+Titandrake - draws Jester
+Titandrake - plays Border Village
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Jester
+Titandrake - buys Dame Natalie
+Titandrake - gains Dame Natalie
+Titandrake - draws Lighthouse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Border Village, Province
+ 
+---------- yed: turn 19 ----------
+yed - duration Lighthouse
+yed - duration Lighthouse
+yed - plays Border Village
+yed - draws Border Village
+yed - plays Border Village
+yed - draws Candlestick Maker
+yed - plays Candlestick Maker
+yed - receives 1 coin token
+yed - plays Candlestick Maker
+yed - receives 1 coin token
+yed - plays Lighthouse
+yed - plays Copper
+yed - uses 1 coin token
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Estate, Copper, Catacombs, Dame Sylvia, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays Border Village
+Titandrake - draws Catacombs
+Titandrake - plays Lighthouse
+Titandrake - plays Catacombs
+Titandrake - looks at Border Village, Estate, Border Village
+Titandrake - places cards in hand:  Border Village, Estate, Border Village
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Border Village
+Titandrake - draws Dame Natalie
+Titandrake - plays Dame Natalie
+Titandrake - gains Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Sir Michael
+Titandrake - gains Sir Michael
+Titandrake - draws Dame Josephine, Silver, Border Village, Copper, Catacombs
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Border Village, 4 Lighthouse, 2 Catacombs, 1 Dame Josephine, 1 Sir Michael, 1 Dame Natalie, 1 Jester, 1 Sir Bailey, 4 Copper, 1 Silver, 3 Estate, 3 Province
+Titandrake - total victory points: 23
+Titandrake - turns: 19
+ 
+yed - cards: 6 Lighthouse, 3 Border Village, 2 Catacombs, 2 Candlestick Maker, 1 Dame Sylvia, 1 Sir Vander, 1 Dame Molly, 1 Sir Martin, 3 Copper, 1 Silver, 4 Estate, 2 Duchy, 1 Curse
+yed - total victory points: 9
+yed - turns: 19
+ 
+1st place: Titandrake
+2nd place: yed
+ 

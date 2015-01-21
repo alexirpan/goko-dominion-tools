@@ -1,0 +1,427 @@
+------------ Game Setup ------------
+Supply cards: Storeroom, Philosopher's Stone, Cutpurse, JackOfAllTrades, Navigator, Count, Counterfeit, Festival, Outpost, Trading Post, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Tao Chen - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Tao Chen - shuffles deck
+Titandrake - shuffles deck
+Tao Chen - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- Tao Chen: turn 1 ----------
+Tao Chen - plays 3 Copper
+Tao Chen - buys Silver
+Tao Chen - gains Silver
+Tao Chen - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Tao Chen: turn 2 ----------
+Tao Chen - plays 4 Copper
+Tao Chen - buys JackOfAllTrades
+Tao Chen - gains JackOfAllTrades
+Tao Chen - shuffles deck
+Tao Chen - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Tao Chen: turn 3 ----------
+Tao Chen - plays 4 Copper
+Tao Chen - buys JackOfAllTrades
+Tao Chen - gains JackOfAllTrades
+Tao Chen - draws Copper, Copper, Estate, Silver, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Trading Post, Estate, Copper, Estate, Copper
+ 
+---------- Tao Chen: turn 4 ----------
+Tao Chen - plays 2 Copper, 1 Silver
+Tao Chen - buys Silver
+Tao Chen - gains Silver
+Tao Chen - draws JackOfAllTrades, Copper
+Tao Chen - shuffles deck
+Tao Chen - draws Silver, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Trading Post, Copper
+ 
+---------- Tao Chen: turn 5 ----------
+Tao Chen - plays JackOfAllTrades
+Tao Chen - gains Silver
+Tao Chen - discards Silver
+Tao Chen - trashes Estate
+Tao Chen - plays 3 Copper, 1 Silver
+Tao Chen - buys Counterfeit
+Tao Chen - gains Counterfeit
+Tao Chen - draws Copper, Copper, JackOfAllTrades, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Festival, Silver, Copper
+ 
+---------- Tao Chen: turn 6 ----------
+Tao Chen - plays JackOfAllTrades
+Tao Chen - gains Silver
+Tao Chen - discards Copper
+Tao Chen - trashes Estate
+Tao Chen - plays 3 Copper
+Tao Chen - buys Silver
+Tao Chen - gains Silver
+Tao Chen - shuffles deck
+Tao Chen - draws Counterfeit, Silver, Estate, Copper, JackOfAllTrades
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Festival
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws JackOfAllTrades, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Festival, Silver
+ 
+---------- Tao Chen: turn 7 ----------
+Tao Chen - plays JackOfAllTrades
+Tao Chen - gains Silver
+Tao Chen - places Copper on top of deck
+Tao Chen - trashes Estate
+Tao Chen - plays Counterfeit
+Tao Chen - plays Copper
+Tao Chen - plays Copper
+Tao Chen - trashes Copper
+Tao Chen - plays 1 Silver, 1 Copper
+Tao Chen - buys Gold
+Tao Chen - gains Gold
+Tao Chen - draws JackOfAllTrades, Silver, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Festival
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Trading Post on top of deck
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Tao Chen: turn 8 ----------
+Tao Chen - plays JackOfAllTrades
+Tao Chen - gains Silver
+Tao Chen - discards Copper
+Tao Chen - plays 3 Silver, 2 Copper
+Tao Chen - buys Province
+Tao Chen - gains Province
+Tao Chen - draws Copper, Silver, Copper
+Tao Chen - shuffles deck
+Tao Chen - draws Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Festival, Gold, Copper
+ 
+---------- Tao Chen: turn 9 ----------
+Tao Chen - plays 3 Copper, 2 Silver
+Tao Chen - buys Counterfeit
+Tao Chen - gains Counterfeit
+Tao Chen - draws Copper, Copper, Silver, Silver, Province
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Festival
+Titandrake - plays 2 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Province, Silver, Silver, Silver
+ 
+---------- Tao Chen: turn 10 ----------
+Tao Chen - plays 2 Copper, 2 Silver
+Tao Chen - buys Count
+Tao Chen - gains Count
+Tao Chen - draws Copper, JackOfAllTrades, Silver, Gold, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Trading Post, Copper, Silver, JackOfAllTrades
+ 
+---------- Tao Chen: turn 11 ----------
+Tao Chen - plays JackOfAllTrades
+Tao Chen - gains Silver
+Tao Chen - places Silver on top of deck
+Tao Chen - plays 3 Silver, 1 Copper, 1 Gold
+Tao Chen - buys Province
+Tao Chen - gains Province
+Tao Chen - draws Counterfeit, JackOfAllTrades
+Tao Chen - shuffles deck
+Tao Chen - draws Copper, Gold, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - discards Duchy
+Titandrake - trashes Trading Post
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Gold, Silver, Province, Festival
+ 
+---------- Tao Chen: turn 12 ----------
+Tao Chen - plays JackOfAllTrades
+Tao Chen - gains Silver
+Tao Chen - discards Copper
+Tao Chen - plays Counterfeit
+Tao Chen - plays Silver
+Tao Chen - plays Silver
+Tao Chen - trashes Silver
+Tao Chen - plays 2 Copper, 1 Gold
+Tao Chen - buys Province
+Tao Chen - gains Province
+Tao Chen - buys Estate
+Tao Chen - gains Estate
+Tao Chen - draws Silver, Copper, JackOfAllTrades, Silver, Count
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Festival
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Province, Silver, Silver, Silver
+ 
+---------- Tao Chen: turn 13 ----------
+Tao Chen - plays Count
+Tao Chen - places JackOfAllTrades on top of deck
+Tao Chen - gains Duchy
+Tao Chen - plays 2 Silver, 1 Copper
+Tao Chen - buys Duchy
+Tao Chen - gains Duchy
+Tao Chen - draws JackOfAllTrades, Copper, Province, Silver, Counterfeit
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Gold
+Titandrake - plays Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Copper, Silver
+ 
+---------- Tao Chen: turn 14 ----------
+Tao Chen - plays JackOfAllTrades
+Tao Chen - gains Silver
+Tao Chen - discards Copper
+Tao Chen - plays Counterfeit
+Tao Chen - plays Copper
+Tao Chen - plays Copper
+Tao Chen - trashes Copper
+Tao Chen - plays 2 Silver
+Tao Chen - buys Duchy
+Tao Chen - gains Duchy
+Tao Chen - buys Estate
+Tao Chen - gains Estate
+Tao Chen - draws Silver, Silver, Province, Silver
+Tao Chen - shuffles deck
+Tao Chen - draws Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws JackOfAllTrades, Province, Duchy, Gold, Silver
+ 
+---------- Tao Chen: turn 15 ----------
+Tao Chen - plays 3 Silver, 1 Copper
+Tao Chen - buys Duchy
+Tao Chen - gains Duchy
+Tao Chen - draws Copper, Silver, Counterfeit, Gold, Counterfeit
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Copper on top of deck
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Silver, Duchy, Festival, Silver
+ 
+---------- Tao Chen: turn 16 ----------
+Tao Chen - plays Counterfeit
+Tao Chen - plays Silver
+Tao Chen - plays Silver
+Tao Chen - trashes Silver
+Tao Chen - plays 1 Copper, 1 Gold
+Tao Chen - plays Counterfeit
+Tao Chen - buys Province
+Tao Chen - gains Province
+Tao Chen - buys Estate
+Tao Chen - gains Estate
+Tao Chen - draws Count, Copper, JackOfAllTrades, Province, Duchy
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Festival
+Titandrake - plays 2 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Silver, Province, Silver, Copper
+ 
+---------- Tao Chen: turn 17 ----------
+Tao Chen - plays Count
+Tao Chen - places JackOfAllTrades on top of deck
+Tao Chen - takes 3 coins
+Tao Chen - buys Estate
+Tao Chen - gains Estate
+Tao Chen - draws JackOfAllTrades, Duchy, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Copper, Copper, Duchy
+ 
+---------- Tao Chen: turn 18 ----------
+Tao Chen - plays JackOfAllTrades
+Tao Chen - gains Silver
+Tao Chen - discards Province
+Tao Chen - plays 2 Copper, 1 Silver
+Tao Chen - buys Silver
+Tao Chen - gains Silver
+Tao Chen - draws Silver, Silver, Silver, Duchy, Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Silver, Gold, Copper, Estate
+ 
+---------- Tao Chen: turn 19 ----------
+Tao Chen - plays 3 Silver
+Tao Chen - buys Counterfeit
+Tao Chen - gains Counterfeit
+Tao Chen - draws Estate, Silver
+Tao Chen - shuffles deck
+Tao Chen - draws Estate, Silver, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, JackOfAllTrades, Duchy, Province, Silver
+ 
+---------- Tao Chen: turn 20 ----------
+Tao Chen - plays 2 Silver
+Tao Chen - buys Storeroom
+Tao Chen - gains Storeroom
+Tao Chen - draws Duchy, Silver, Silver, Count, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Estate, Duchy, Estate, Province
+ 
+---------- Tao Chen: turn 21 ----------
+Tao Chen - plays Count
+Tao Chen - places Silver on top of deck
+Tao Chen - takes 3 coins
+Tao Chen - plays 1 Silver
+Tao Chen - buys Counterfeit
+Tao Chen - gains Counterfeit
+Tao Chen - draws Silver, Province, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - draws Silver, Duchy, Province, Festival, Silver
+ 
+---------- Tao Chen: turn 22 ----------
+Tao Chen - plays 2 Silver, 1 Copper
+Tao Chen - buys Counterfeit
+Tao Chen - gains Counterfeit
+Tao Chen - draws Copper, Copper, Copper, Duchy, Duchy
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Festival
+Titandrake - plays 2 Silver
+Titandrake - buys Count
+Titandrake - gains Count
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver, Duchy
+ 
+---------- Tao Chen: turn 23 ----------
+Tao Chen - plays 3 Copper
+Tao Chen - buys Storeroom
+Tao Chen - gains Storeroom
+Tao Chen - draws JackOfAllTrades, Counterfeit, Silver, JackOfAllTrades, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Province, Silver, Silver, Estate, Silver
+ 
+---------- Tao Chen: turn 24 ----------
+Tao Chen - plays JackOfAllTrades
+Tao Chen - gains Silver
+Tao Chen - places Counterfeit on top of deck
+Tao Chen - plays Counterfeit
+Tao Chen - plays Counterfeit
+Tao Chen - plays Silver
+Tao Chen - plays Silver
+Tao Chen - trashes Silver
+Tao Chen - plays Counterfeit
+Tao Chen - plays Copper
+Tao Chen - plays Copper
+Tao Chen - trashes Copper
+Tao Chen - trashes Counterfeit
+Tao Chen - buys Province
+Tao Chen - gains Province
+Tao Chen - draws Silver, Counterfeit, Estate, Gold, Silver
+ 
+------------ Game Over ------------
+Tao Chen - cards: 2 Storeroom, 2 JackOfAllTrades, 10 Silver, 1 Count, 4 Counterfeit, 4 Copper, 1 Gold, 5 Province, 4 Estate, 4 Duchy
+Tao Chen - total victory points: 46
+Tao Chen - turns: 24
+ 
+Titandrake - cards: 10 Silver, 1 Count, 1 Festival, 1 JackOfAllTrades, 5 Gold, 4 Copper, 4 Estate, 4 Duchy, 3 Province
+Titandrake - total victory points: 34
+Titandrake - turns: 23
+ 
+1st place: Tao Chen
+2nd place: Titandrake
+ 

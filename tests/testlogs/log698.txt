@@ -1,0 +1,493 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Vagrant, Caravan, Spice Merchant, Throne Room, Tournament, Cache, Mandarin, Treasury, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Ian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Ian - shuffles deck
+Titandrake - shuffles deck
+Ian - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Ian: turn 1 ----------
+Ian - plays 4 Copper
+Ian - buys Tournament
+Ian - gains Tournament
+Ian - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Ian: turn 2 ----------
+Ian - plays 3 Copper
+Ian - buys Silver
+Ian - gains Silver
+Ian - shuffles deck
+Ian - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - shuffles deck
+Titandrake - draws Embargo, Estate, Copper, Copper, Copper
+ 
+---------- Ian: turn 3 ----------
+Ian - plays 4 Copper
+Ian - buys Tournament
+Ian - gains Tournament
+Ian - draws Copper, Estate, Copper, Tournament, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Spice Merchant
+Titandrake - trashes Embargo
+Titandrake - plays 3 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Copper, Estate, Copper, Spice Merchant
+ 
+---------- Ian: turn 4 ----------
+Ian - plays Tournament
+Ian - draws Silver
+Ian - plays 2 Copper, 1 Silver
+Ian - buys Cache
+Ian - gains Cache
+Ian - gains Copper
+Ian - gains Copper
+Ian - draws Copper
+Ian - shuffles deck
+Ian - draws Cache, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver, Spice Merchant, Estate
+ 
+---------- Ian: turn 5 ----------
+Ian - plays 2 Copper, 1 Cache, 1 Silver
+Ian - buys Nobles
+Ian - gains Nobles
+Ian - draws Estate, Copper, Copper, Estate, Tournament
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Estate, Copper, Tournament, Copper, Copper
+ 
+---------- Ian: turn 6 ----------
+Ian - plays Tournament
+Ian - draws Copper
+Ian - plays 3 Copper
+Ian - buys Tournament
+Ian - gains Tournament
+Ian - draws Copper, Tournament, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - draws Spice Merchant, Copper, Tournament, Estate, Estate
+ 
+---------- Ian: turn 7 ----------
+Ian - plays Tournament
+Ian - shuffles deck
+Ian - draws Nobles
+Ian - plays Nobles
+Ian - draws Cache, Silver, Copper
+Ian - plays 5 Copper, 1 Cache, 1 Silver
+Ian - buys Province
+Ian - gains Province
+Ian - draws Estate, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper, Treasury, Copper, Copper, Tournament
+ 
+---------- Ian: turn 8 ----------
+Ian - plays 2 Copper
+Ian - buys Vagrant
+Ian - gains Vagrant
+Ian - draws Tournament, Copper, Tournament, Copper
+Ian - shuffles deck
+Ian - draws Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Treasury
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Tournament
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Tournament, Silver, Estate, Estate
+ 
+---------- Ian: turn 9 ----------
+Ian - plays Tournament
+Ian - draws Vagrant
+Ian - plays Tournament
+Ian - draws Estate
+Ian - plays Vagrant
+Ian - draws Copper
+Ian - reveals: Province
+Ian - places Province in hand
+Ian - plays 3 Copper
+Ian - buys Tournament
+Ian - gains Tournament
+Ian - draws Nobles, Copper, Copper, Tournament, Cache
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Caravan
+Titandrake - draws Spice Merchant
+Titandrake - plays Treasury
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Gold
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Silver, Estate
+ 
+---------- Ian: turn 10 ----------
+Ian - plays Tournament
+Ian - draws Copper
+Ian - plays Nobles
+Ian - draws Copper, Copper, Copper
+Ian - plays 6 Copper, 1 Cache
+Ian - buys Province
+Ian - gains Province
+Ian - draws Estate, Silver
+Ian - shuffles deck
+Ian - draws Estate, Estate, Tournament
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Tournament
+Titandrake - draws Spice Merchant
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Tournament, Gold, Treasury, Caravan, Estate
+ 
+---------- Ian: turn 11 ----------
+Ian - plays Tournament
+Ian - draws Copper
+Ian - plays 1 Silver, 1 Copper
+Ian - buys Tournament
+Ian - gains Tournament
+Ian - draws Copper, Copper, Nobles, Province, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Caravan
+Titandrake - draws Province
+Titandrake - plays Tournament
+Ian - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Followers
+Titandrake - plays Treasury
+Titandrake - draws Followers
+Titandrake - plays Followers
+Titandrake - shuffles deck
+Titandrake - draws Silver, Spice Merchant
+Titandrake - gains Estate
+Ian - gains Curse
+Ian - discards Province
+Ian - discards Copper
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Estate, Copper, Copper, Tournament, Tournament
+ 
+---------- Ian: turn 12 ----------
+Ian - plays Nobles
+Ian - draws Copper, Tournament, Copper
+Ian - plays 4 Copper
+Ian - buys Tournament
+Ian - gains Tournament
+Ian - draws Vagrant, Copper, Province, Cache, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Tournament
+Ian - reveals Province
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Copper, Caravan, Estate
+ 
+---------- Ian: turn 13 ----------
+Ian - plays Vagrant
+Ian - draws Copper
+Ian - reveals: Tournament
+Ian - places Tournament on top of deck
+Ian - plays 3 Copper, 1 Cache
+Ian - buys Nobles
+Ian - gains Nobles
+Ian - draws Tournament, Tournament
+Ian - shuffles deck
+Ian - draws Tournament, Curse, Tournament
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Trusty Steed
+Titandrake - draws Trusty Steed
+Titandrake - plays Caravan
+Titandrake - draws Gold
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 actions
+Titandrake - draws Silver, Nobles
+Titandrake - plays Nobles
+Titandrake - draws Estate, Estate, Followers
+Titandrake - plays Followers
+Titandrake - draws Vagrant, Copper
+Titandrake - gains Estate
+Ian - gains Curse
+Ian - discards Curse
+Ian - discards Tournament
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Treasury, Spice Merchant, Estate, Tournament, Tournament
+ 
+---------- Ian: turn 14 ----------
+Ian - plays Tournament
+Ian - draws Copper
+Ian - plays Tournament
+Ian - draws Copper
+Ian - plays Tournament
+Ian - draws Nobles
+Ian - plays Nobles
+Ian - draws Copper, Tournament, Province
+Ian - plays 3 Copper
+Ian - buys Nobles
+Ian - gains Nobles
+Ian - draws Estate, Estate, Copper, Vagrant, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Treasury
+Titandrake - draws Trusty Steed
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Gold, Silver
+Titandrake - plays Tournament
+Ian - reveals Province
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 actions
+Titandrake - draws Copper, Estate
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Province, Estate, Followers, Province, Estate
+ 
+---------- Ian: turn 15 ----------
+Ian - plays Vagrant
+Ian - draws Copper
+Ian - reveals: Copper
+Ian - places Copper on top of deck
+Ian - plays 2 Copper
+Ian - buys Vagrant
+Ian - gains Vagrant
+Ian - draws Copper, Estate, Copper, Tournament, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Followers
+Titandrake - draws Nobles, Estate
+Titandrake - gains Estate
+Ian - gains Curse
+Ian - discards Estate
+Ian - discards Copper
+Titandrake - draws Vagrant, Tournament
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Treasury
+ 
+---------- Ian: turn 16 ----------
+Ian - plays Tournament
+Ian - draws Silver
+Ian - plays 2 Copper, 1 Silver
+Ian - buys Tournament
+Ian - gains Tournament
+Ian - draws Copper, Nobles, Cache
+Ian - shuffles deck
+Ian - draws Tournament, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Province
+Titandrake - reveals: Estate
+Titandrake - places Estate in hand
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - draws Princess
+Titandrake - plays Treasury
+Titandrake - draws Gold
+Titandrake - plays Princess
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Nobles, Tournament, Estate, Trusty Steed, Spice Merchant
+ 
+---------- Ian: turn 17 ----------
+Ian - plays Tournament
+Ian - draws Curse
+Ian - plays Nobles
+Ian - draws Curse, Copper, Nobles
+Ian - plays 2 Copper, 1 Cache, 1 Silver
+Ian - buys Province
+Ian - gains Province
+Ian - draws Curse, Vagrant, Copper, Province, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 actions
+Titandrake - draws Silver, Province
+Titandrake - plays Nobles
+Titandrake - draws Followers, Caravan, Estate
+Titandrake - plays Tournament
+Ian - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Duchy
+Titandrake - plays Caravan
+Titandrake - draws Duchy
+Titandrake - plays Followers
+Titandrake - draws Estate, Estate
+Titandrake - gains Estate
+Ian - gains Curse
+Ian - discards Curse
+Ian - discards Province
+Titandrake - plays 1 Silver
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Tournament, Nobles
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper, Tournament
+ 
+---------- Ian: turn 18 ----------
+Ian - plays Vagrant
+Ian - draws Estate
+Ian - reveals: Copper
+Ian - places Copper on top of deck
+Ian - plays 2 Copper
+Ian - buys Vagrant
+Ian - gains Vagrant
+Ian - draws Copper, Copper, Vagrant, Tournament, Tournament
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Bag of Gold
+Titandrake - draws Bag of Gold
+Titandrake - plays Tournament
+Titandrake - draws Followers
+Titandrake - plays Bag of Gold
+Titandrake - gains Gold
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Followers
+Titandrake - draws Gold, Silver
+Titandrake - gains Estate
+Ian - gains Curse
+Ian - discards Copper
+Ian - discards Copper
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Vagrant, Estate, Gold, Estate, Estate
+ 
+---------- Ian: turn 19 ----------
+Ian - plays Vagrant
+Ian - draws Tournament
+Ian - reveals: Tournament
+Ian - places Tournament on top of deck
+Ian - plays Tournament
+Ian - draws Tournament
+Ian - plays Tournament
+Ian - draws Tournament
+Ian - plays Tournament
+Ian - draws Nobles
+Ian - plays Tournament
+Ian - draws Tournament
+Ian - plays Tournament
+Ian - draws Copper
+Ian - plays Tournament
+Ian - draws Estate
+Ian - plays Nobles
+Ian - draws Copper, Province, Estate
+Ian - plays 2 Copper
+Ian - buys Province
+Ian - gains Province
+Ian - draws Copper
+Ian - shuffles deck
+Ian - draws Vagrant, Vagrant, Tournament, Curse
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Vagrant, 3 Tournament, 2 Nobles, 1 Treasury, 1 Caravan, 1 Trusty Steed, 1 Bag of Gold, 1 Princess, 1 Spice Merchant, 1 Followers, 2 Gold, 1 Copper, 1 Silver, 8 Estate, 4 Province, 1 Duchy
+Titandrake - total victory points: 39
+Titandrake - turns: 18
+ 
+Ian - cards: 7 Tournament, 3 Nobles, 3 Vagrant, 9 Copper, 1 Silver, 1 Cache, 4 Province, 3 Estate, 5 Curse
+Ian - total victory points: 28
+Ian - turns: 19
+ 
+1st place: Titandrake
+2nd place: Ian
+ 

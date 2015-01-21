@@ -1,0 +1,528 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Moat, Advisor, Band of Misfits, Cache, Explorer, Festival, Mandarin, Pillage, Soothsayer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Advisor
+SM.SM - gains Advisor
+SM.SM - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Advisor
+Titandrake - gains Advisor
+Titandrake - draws Estate, Silver, Estate, Silver, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Advisor
+SM.SM - gains Advisor
+SM.SM - draws Advisor, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Advisor
+SM.SM - reveals: Silver, Estate
+SM.SM - shuffles deck
+SM.SM - reveals: Copper
+Titandrake - discards Silver
+SM.SM - places cards in hand:  Estate, Copper
+SM.SM - plays 4 Copper
+SM.SM - buys Advisor
+SM.SM - gains Advisor
+SM.SM - draws Copper, Copper, Advisor, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Estate, Copper, Silver, Estate, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Advisor
+SM.SM - shuffles deck
+SM.SM - reveals: Copper, Advisor, Copper
+Titandrake - discards Advisor
+SM.SM - places cards in hand:  Copper, Copper
+SM.SM - plays 5 Copper
+SM.SM - buys Soothsayer
+SM.SM - gains Soothsayer
+SM.SM - draws Silver, Estate, Advisor, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Advisor
+Titandrake - gains Advisor
+Titandrake - draws Copper, Estate, Soothsayer, Advisor
+Titandrake - shuffles deck
+Titandrake - draws Advisor
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Advisor
+SM.SM - reveals: Copper
+SM.SM - shuffles deck
+SM.SM - reveals: Copper, Advisor
+Titandrake - discards Advisor
+SM.SM - places cards in hand:  Copper, Copper
+SM.SM - plays 3 Copper, 1 Silver
+SM.SM - buys Festival
+SM.SM - gains Festival
+SM.SM - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Estate, Silver
+SM.SM - discards Silver
+Titandrake - places cards in hand:  Copper, Estate
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Copper, Estate
+SM.SM - discards Copper
+Titandrake - places cards in hand:  Copper, Estate
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SM.SM - gains Curse
+SM.SM - draws Soothsayer
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Soothsayer, Silver
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Soothsayer
+SM.SM - gains Gold
+Titandrake - gains Curse
+Titandrake - shuffles deck
+Titandrake - draws Advisor
+SM.SM - plays 4 Copper
+SM.SM - buys Advisor
+SM.SM - gains Advisor
+SM.SM - draws Advisor
+SM.SM - shuffles deck
+SM.SM - draws Copper, Gold, Advisor, Soothsayer
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Copper, Silver
+SM.SM - discards Silver
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SM.SM - gains Curse
+SM.SM - draws Advisor
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Gold, Estate, Silver, Soothsayer
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Advisor
+SM.SM - reveals: Copper, Advisor, Copper
+Titandrake - discards Advisor
+SM.SM - places cards in hand:  Copper, Copper
+SM.SM - plays Advisor
+SM.SM - reveals: Festival, Curse, Copper
+Titandrake - discards Festival
+SM.SM - places cards in hand:  Curse, Copper
+SM.SM - plays Advisor
+SM.SM - reveals: Copper, Silver, Copper
+Titandrake - discards Silver
+SM.SM - places cards in hand:  Copper, Copper
+SM.SM - plays Soothsayer
+SM.SM - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Advisor
+SM.SM - plays 6 Copper, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Estate, Estate, Copper, Estate
+SM.SM - shuffles deck
+SM.SM - draws Festival
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Estate, Copper, Curse
+SM.SM - discards Copper
+Titandrake - places cards in hand:  Estate, Curse
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SM.SM - gains Curse
+SM.SM - draws Province
+Titandrake - plays Gold
+Titandrake - plays Silver
+Titandrake - buys Mandarin
+Titandrake - gains Mandarin
+Titandrake - places Gold on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - draws Silver, Gold, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Festival
+SM.SM - plays 1 Copper
+SM.SM - buys Moat
+SM.SM - gains Moat
+SM.SM - draws Copper, Copper, Advisor, Gold, Advisor
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Advisor, Copper, Estate, Copper, Estate
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Advisor
+SM.SM - reveals: Curse, Copper, Advisor
+Titandrake - discards Advisor
+SM.SM - places cards in hand:  Curse, Copper
+SM.SM - plays Advisor
+SM.SM - reveals: Copper, Silver, Gold
+Titandrake - discards Gold
+SM.SM - places cards in hand:  Copper, Silver
+SM.SM - plays 4 Copper, 1 Gold, 1 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Copper, Copper, Curse, Soothsayer, Advisor
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Advisor, Copper, Copper
+SM.SM - discards Advisor
+Titandrake - places cards in hand:  Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Advisor
+Titandrake - gains Advisor
+Titandrake - draws Copper, Gold, Gold, Soothsayer, Silver
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Advisor
+SM.SM - shuffles deck
+SM.SM - reveals: Gold, Advisor, Estate
+Titandrake - discards Gold
+SM.SM - places cards in hand:  Advisor, Estate
+SM.SM - plays Advisor
+SM.SM - reveals: Copper, Province, Estate
+Titandrake - discards Copper
+SM.SM - places cards in hand:  Province, Estate
+SM.SM - plays Soothsayer
+SM.SM - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Curse
+SM.SM - plays 2 Copper
+SM.SM - buys Hamlet
+SM.SM - gains Hamlet
+SM.SM - draws Silver, Curse, Advisor, Gold, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SM.SM - gains Curse
+SM.SM - draws Province
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Mandarin, Copper, Soothsayer, Gold, Silver
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Advisor
+SM.SM - reveals: Moat, Estate, Copper
+Titandrake - discards Moat
+SM.SM - places cards in hand:  Estate, Copper
+SM.SM - plays 2 Copper, 1 Silver, 1 Gold
+SM.SM - buys Soothsayer
+SM.SM - gains Soothsayer
+SM.SM - draws Curse, Copper, Copper, Advisor, Festival
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Mandarin
+Titandrake - places Soothsayer on top of deck
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Soothsayer
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver, Gold
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Advisor
+SM.SM - shuffles deck
+SM.SM - reveals: Estate, Estate, Silver
+Titandrake - discards Silver
+SM.SM - places cards in hand:  Estate, Estate
+SM.SM - plays Festival
+SM.SM - plays 2 Copper
+SM.SM - buys Advisor
+SM.SM - gains Advisor
+SM.SM - draws Hamlet, Province, Curse, Gold, Advisor
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SM.SM - gains Curse
+SM.SM - draws Province
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Advisor, Estate, Copper, Gold, Advisor
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Advisor
+SM.SM - reveals: Estate, Moat, Copper
+Titandrake - discards Moat
+SM.SM - places cards in hand:  Estate, Copper
+SM.SM - plays Hamlet
+SM.SM - draws Advisor
+SM.SM - discards Province
+SM.SM - receives one action
+SM.SM - discards Province
+SM.SM - receives one buy
+SM.SM - plays Advisor
+SM.SM - reveals: Advisor, Copper, Soothsayer
+Titandrake - discards Soothsayer
+SM.SM - places cards in hand:  Advisor, Copper
+SM.SM - plays Advisor
+SM.SM - reveals: Curse, Copper, Copper
+Titandrake - discards Copper
+SM.SM - places cards in hand:  Curse, Copper
+SM.SM - plays 3 Copper, 1 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Soothsayer, Gold, Gold, Copper, Curse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Gold, Silver, Curse
+SM.SM - discards Gold
+Titandrake - places cards in hand:  Silver, Curse
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Province, Silver
+SM.SM - discards Silver
+Titandrake - places cards in hand:  Copper, Province
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Advisor, Copper, Copper, Curse, Curse
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Soothsayer
+SM.SM - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+SM.SM - plays 2 Gold, 1 Copper
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - shuffles deck
+SM.SM - draws Province, Advisor, Province, Gold, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Mandarin, Gold, Estate
+SM.SM - discards Gold
+Titandrake - places cards in hand:  Mandarin, Estate
+Titandrake - plays Mandarin
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Province, Copper, Gold, Gold
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Advisor
+SM.SM - reveals: Gold, Copper, Duchy
+Titandrake - discards Gold
+SM.SM - places cards in hand:  Copper, Duchy
+SM.SM - plays 1 Gold, 1 Silver, 1 Copper
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Hamlet, Curse, Moat, Gold, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Soothsayer
+Titandrake - shuffles deck
+Titandrake - draws Province, Advisor, Silver, Copper
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Hamlet
+SM.SM - draws Copper
+SM.SM - discards Estate
+SM.SM - receives one action
+SM.SM - discards Curse
+SM.SM - receives one buy
+SM.SM - plays Moat
+SM.SM - draws Curse, Copper
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Curse, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Soothsayer, Duchy
+SM.SM - discards Soothsayer
+Titandrake - places cards in hand:  Copper, Duchy
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SM.SM - gains Curse
+SM.SM - draws Soothsayer
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Gold, Silver, Gold, Curse
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Soothsayer
+SM.SM - gains Gold
+SM.SM - plays 2 Copper
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Duchy, Advisor, Curse, Copper, Advisor
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper, Curse, Gold, Copper
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Advisor
+SM.SM - reveals: Curse, Advisor, Gold
+Titandrake - discards Gold
+SM.SM - places cards in hand:  Curse, Advisor
+SM.SM - plays Advisor
+SM.SM - reveals: Soothsayer, Copper, Festival
+Titandrake - discards Festival
+SM.SM - places cards in hand:  Soothsayer, Copper
+SM.SM - plays Advisor
+SM.SM - reveals: Advisor
+SM.SM - shuffles deck
+SM.SM - reveals: Duchy, Curse
+Titandrake - discards Advisor
+SM.SM - places cards in hand:  Duchy, Curse
+SM.SM - plays Soothsayer
+SM.SM - gains Gold
+SM.SM - plays 2 Copper
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Province, Festival, Curse, Duchy, Estate
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Province, Advisor, Silver, Duchy
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - plays Festival
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Estate, Gold, Curse, Silver, Gold
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Gold, Copper, Gold
+SM.SM - discards Gold
+Titandrake - places cards in hand:  Gold, Copper
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse, Curse, Gold, Advisor, Gold
+ 
+---------- SM.SM: turn 21 ----------
+SM.SM - plays 2 Gold, 1 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Copper, Copper, Estate, Hamlet, Curse
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Advisor
+Titandrake - reveals: Copper, Duchy, Mandarin
+SM.SM - discards Mandarin
+Titandrake - places cards in hand:  Copper, Duchy
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Duchy, Copper
+ 
+---------- SM.SM: turn 22 ----------
+SM.SM - plays Hamlet
+SM.SM - draws Gold
+SM.SM - discards Curse
+SM.SM - receives one action
+SM.SM - discards Estate
+SM.SM - receives one buy
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Pillage
+SM.SM - gains Pillage
+SM.SM - draws Soothsayer, Advisor, Gold, Province, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse, Estate, Gold, Copper, Province
+ 
+---------- SM.SM: turn 23 ----------
+SM.SM - plays Advisor
+SM.SM - reveals: Gold, Copper, Moat
+Titandrake - discards Gold
+SM.SM - places cards in hand:  Copper, Moat
+SM.SM - plays Soothsayer
+SM.SM - gains Gold
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Copper, Duchy, Estate
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Advisor, 2 Soothsayer, 1 Mandarin, 8 Gold, 7 Copper, 3 Silver, 7 Estate, 4 Province, 4 Duchy, 4 Curse
+Titandrake - total victory points: 39
+Titandrake - turns: 23
+ 
+SM.SM - cards: 5 Advisor, 2 Soothsayer, 1 Pillage, 1 Hamlet, 1 Moat, 1 Festival, 7 Copper, 7 Gold, 1 Silver, 7 Estate, 4 Duchy, 3 Province, 6 Curse
+SM.SM - total victory points: 31
+SM.SM - turns: 23
+ 
+1st place: Titandrake
+2nd place: SM.SM
+ 

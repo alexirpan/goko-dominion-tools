@@ -1,0 +1,437 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Pawn, Pearl Diver, Market Square, Armory, Bureaucrat, Caravan, Fortress, Island, Young Witch, Embassy, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Embargo
+Rating system: pro
+dscarpac - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dscarpac - shuffles deck
+Titandrake - shuffles deck
+dscarpac - draws Estate, Copper, Estate, Copper, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- dscarpac: turn 1 ----------
+dscarpac - plays 2 Copper
+dscarpac - buys Embargo
+dscarpac - gains Embargo
+dscarpac - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- dscarpac: turn 2 ----------
+dscarpac - plays 5 Copper
+dscarpac - buys Young Witch
+dscarpac - gains Young Witch
+dscarpac - shuffles deck
+dscarpac - draws Copper, Copper, Estate, Young Witch, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- dscarpac: turn 3 ----------
+dscarpac - plays Young Witch
+dscarpac - draws Copper, Copper
+dscarpac - discards Estate
+dscarpac - discards Copper
+Titandrake - gains Curse
+dscarpac - plays 4 Copper
+dscarpac - buys Armory
+dscarpac - gains Armory
+dscarpac - draws Copper, Estate, Estate, Embargo, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Embargo, Young Witch, Estate, Copper, Copper
+ 
+---------- dscarpac: turn 4 ----------
+dscarpac - plays Embargo
+dscarpac - embargoes Embargo
+dscarpac - trashes Embargo
+dscarpac - plays 2 Copper
+dscarpac - buys Caravan
+dscarpac - gains Caravan
+dscarpac - shuffles deck
+dscarpac - draws Caravan, Copper, Copper, Young Witch, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+dscarpac - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Young Witch, Copper, Embargo
+ 
+---------- dscarpac: turn 5 ----------
+dscarpac - plays Caravan
+dscarpac - draws Copper
+dscarpac - plays Young Witch
+dscarpac - draws Estate, Copper
+dscarpac - discards Estate
+dscarpac - discards Copper
+Titandrake - reveals bane Embargo
+dscarpac - plays 4 Copper
+dscarpac - buys Caravan
+dscarpac - gains Caravan
+dscarpac - draws Estate, Armory, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Silver
+Titandrake - discards Embargo
+Titandrake - discards Copper
+dscarpac - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+dscarpac - gains Silver
+Titandrake - draws Curse, Estate, Estate, Copper, Estate
+ 
+---------- dscarpac: turn 6 ----------
+dscarpac - duration Caravan
+dscarpac - shuffles deck
+dscarpac - draws Copper
+dscarpac - plays Armory
+dscarpac - gains Caravan
+dscarpac - plays 3 Copper
+dscarpac - buys Silver
+dscarpac - gains Silver
+dscarpac - draws Caravan, Silver, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - draws Copper, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- dscarpac: turn 7 ----------
+dscarpac - plays Caravan
+dscarpac - draws Copper
+dscarpac - plays 3 Copper, 1 Silver
+dscarpac - buys Island
+dscarpac - gains Island
+dscarpac - draws Caravan, Curse, Copper, Young Witch, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Embassy, Silver, Estate, Copper, Copper
+ 
+---------- dscarpac: turn 8 ----------
+dscarpac - duration Caravan
+dscarpac - shuffles deck
+dscarpac - draws Caravan
+dscarpac - plays Caravan
+dscarpac - draws Estate
+dscarpac - plays Caravan
+dscarpac - draws Copper
+dscarpac - plays Young Witch
+dscarpac - draws Copper, Copper
+dscarpac - discards Curse
+dscarpac - discards Estate
+Titandrake - gains Curse
+dscarpac - plays 4 Copper
+dscarpac - buys Caravan
+dscarpac - gains Caravan
+dscarpac - draws Island, Silver, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Embassy
+Titandrake - draws Estate, Curse, Embargo, Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Gold
+ 
+---------- dscarpac: turn 9 ----------
+dscarpac - duration Caravan
+dscarpac - draws Armory
+dscarpac - duration Caravan
+dscarpac - draws Copper
+dscarpac - plays Island
+dscarpac - sets aside Estate
+dscarpac - plays 3 Copper, 1 Silver
+dscarpac - buys Embassy
+dscarpac - gains Embassy
+Titandrake - gains Silver
+dscarpac - draws Estate, Silver
+dscarpac - shuffles deck
+dscarpac - draws Caravan, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Curse, Silver
+Titandrake - discards Estate
+Titandrake - discards Curse
+dscarpac - gains Curse
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Embargo, Curse, Copper, Estate, Embassy
+ 
+---------- dscarpac: turn 10 ----------
+dscarpac - plays Caravan
+dscarpac - draws Copper
+dscarpac - plays 2 Silver, 2 Copper
+dscarpac - buys Gold
+dscarpac - gains Gold
+dscarpac - draws Young Witch, Copper, Estate, Copper, Caravan
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Gold
+Titandrake - trashes Embargo
+Titandrake - plays 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Copper, Copper, Silver
+ 
+---------- dscarpac: turn 11 ----------
+dscarpac - duration Caravan
+dscarpac - draws Copper
+dscarpac - plays Caravan
+dscarpac - draws Copper
+dscarpac - plays Young Witch
+dscarpac - draws Copper, Embassy
+dscarpac - discards Estate
+dscarpac - discards Copper
+Titandrake - gains Curse
+dscarpac - plays 4 Copper
+dscarpac - buys Fortress
+dscarpac - gains Fortress
+dscarpac - draws Curse, Caravan, Caravan, Curse, Armory
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+dscarpac - gains Silver
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Embassy, Gold, Estate
+ 
+---------- dscarpac: turn 12 ----------
+dscarpac - duration Caravan
+dscarpac - shuffles deck
+dscarpac - draws Embassy
+dscarpac - plays Caravan
+dscarpac - draws Copper
+dscarpac - plays Caravan
+dscarpac - draws Caravan
+dscarpac - plays Caravan
+dscarpac - draws Copper
+dscarpac - plays Embassy
+dscarpac - draws Copper, Estate, Copper, Fortress, Young Witch
+dscarpac - discards Curse
+dscarpac - discards Curse
+dscarpac - discards Armory
+dscarpac - plays 4 Copper
+dscarpac - buys Island
+dscarpac - gains Island
+dscarpac - draws Curse, Silver, Silver, Silver, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Embassy
+Titandrake - draws Silver, Copper, Estate, Silver, Young Witch
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Embassy, Curse, Curse, Curse, Silver
+ 
+---------- dscarpac: turn 13 ----------
+dscarpac - duration Caravan
+dscarpac - draws Copper
+dscarpac - duration Caravan
+dscarpac - draws Copper
+dscarpac - duration Caravan
+dscarpac - draws Gold
+dscarpac - plays 3 Silver, 2 Copper, 1 Gold
+dscarpac - buys Province
+dscarpac - gains Province
+dscarpac - draws Copper
+dscarpac - shuffles deck
+dscarpac - draws Gold, Copper, Embassy, Caravan
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Embassy
+Titandrake - draws Gold, Copper, Copper, Copper, Copper
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - plays 4 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- dscarpac: turn 14 ----------
+dscarpac - plays Caravan
+dscarpac - draws Copper
+dscarpac - plays Embassy
+dscarpac - draws Copper, Armory, Curse, Silver, Estate
+dscarpac - discards Armory
+dscarpac - discards Curse
+dscarpac - discards Estate
+dscarpac - plays 4 Copper, 1 Gold, 1 Silver
+dscarpac - buys Province
+dscarpac - gains Province
+dscarpac - draws Island, Copper, Province, Copper, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Copper, Silver, Estate, Silver
+ 
+---------- dscarpac: turn 15 ----------
+dscarpac - duration Caravan
+dscarpac - draws Fortress
+dscarpac - plays Fortress
+dscarpac - draws Estate
+dscarpac - plays Island
+dscarpac - sets aside Province
+dscarpac - plays 2 Copper
+dscarpac - buys Estate
+dscarpac - gains Estate
+dscarpac - draws Copper, Caravan, Caravan, Silver, Curse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Province, Province, Embassy, Copper
+ 
+---------- dscarpac: turn 16 ----------
+dscarpac - plays Caravan
+dscarpac - draws Silver
+dscarpac - plays Caravan
+dscarpac - draws Caravan
+dscarpac - plays Caravan
+dscarpac - draws Young Witch
+dscarpac - plays Young Witch
+dscarpac - shuffles deck
+dscarpac - draws Fortress, Copper
+dscarpac - discards Fortress
+dscarpac - discards Curse
+Titandrake - gains Curse
+dscarpac - plays 2 Copper, 2 Silver
+dscarpac - buys Duchy
+dscarpac - gains Duchy
+dscarpac - draws Copper, Curse, Province, Silver, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Embassy
+Titandrake - draws Copper, Gold, Copper, Estate, Embassy
+Titandrake - discards Curse
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Young Witch, Gold, Copper, Estate
+ 
+---------- dscarpac: turn 17 ----------
+dscarpac - duration Caravan
+dscarpac - draws Copper
+dscarpac - duration Caravan
+dscarpac - draws Gold
+dscarpac - duration Caravan
+dscarpac - draws Armory
+dscarpac - plays Armory
+dscarpac - gains Fortress
+dscarpac - plays 3 Copper, 1 Silver, 1 Gold
+dscarpac - buys Province
+dscarpac - gains Province
+dscarpac - draws Fortress, Copper, Estate, Curse, Caravan
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Embassy, Copper
+Titandrake - discards Curse
+Titandrake - discards Estate
+dscarpac - gains Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Embassy, Province, Curse, Duchy
+ 
+---------- dscarpac: turn 18 ----------
+dscarpac - plays Caravan
+dscarpac - draws Embassy
+dscarpac - plays Fortress
+dscarpac - draws Estate
+dscarpac - plays Embassy
+dscarpac - draws Copper, Estate
+dscarpac - shuffles deck
+dscarpac - draws Copper, Province, Caravan
+dscarpac - discards Province
+dscarpac - discards Estate
+dscarpac - discards Estate
+dscarpac - plays Caravan
+dscarpac - draws Copper
+dscarpac - plays 4 Copper
+dscarpac - buys Island
+dscarpac - gains Island
+dscarpac - draws Armory, Silver, Gold, Caravan, Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Embassy
+Titandrake - draws Copper, Silver, Gold, Estate, Silver
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Curse
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Estate, Copper, Copper, Duchy
+ 
+---------- dscarpac: turn 19 ----------
+dscarpac - duration Caravan
+dscarpac - draws Copper
+dscarpac - duration Caravan
+dscarpac - draws Fortress
+dscarpac - plays Caravan
+dscarpac - draws Province
+dscarpac - plays Fortress
+dscarpac - draws Silver
+dscarpac - plays Armory
+dscarpac - gains Island
+dscarpac - plays 2 Silver, 1 Gold, 1 Copper
+dscarpac - buys Province
+dscarpac - gains Province
+dscarpac - draws Island, Curse, Curse, Young Witch, Duchy
+ 
+------------ Game Over ------------
+dscarpac - cards: 4 Island, 4 Caravan, 2 Fortress, 1 Embassy, 1 Young Witch, 1 Armory, 7 Copper, 3 Silver, 1 Gold, 4 Province, 4 Estate, 1 Duchy, 4 Curse
+dscarpac - total victory points: 35
+dscarpac - turns: 19
+ 
+Titandrake - cards: 2 Embassy, 1 Young Witch, 7 Copper, 5 Silver, 2 Gold, 4 Province, 3 Estate, 3 Duchy, 4 Curse
+Titandrake - total victory points: 32
+Titandrake - turns: 18
+ 
+1st place: dscarpac
+2nd place: Titandrake
+ 

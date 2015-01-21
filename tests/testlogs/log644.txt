@@ -1,0 +1,804 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Loan, Masterpiece, Caravan, Militia, Apprentice, Bandit Camp, City, Highway, Margrave, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+webs - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+webs - shuffles deck
+Titandrake - shuffles deck
+webs - draws Copper, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- webs: turn 1 ----------
+webs - plays 3 Copper
+webs - buys Silver
+webs - gains Silver
+webs - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- webs: turn 2 ----------
+webs - plays 4 Copper
+webs - buys Militia
+webs - gains Militia
+webs - shuffles deck
+webs - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - shuffles deck
+Titandrake - draws Loan, Estate, Estate, Copper, Copper
+ 
+---------- webs: turn 3 ----------
+webs - plays 4 Copper
+webs - buys Caravan
+webs - gains Caravan
+webs - draws Estate, Militia, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Militia, Copper
+ 
+---------- webs: turn 4 ----------
+webs - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+webs - plays 2 Copper, 1 Silver
+webs - buys Margrave
+webs - gains Margrave
+webs - draws Estate, Copper
+webs - shuffles deck
+webs - draws Copper, Militia, Margrave
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Militia
+webs - discards Militia
+webs - discards Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Loan, Caravan
+ 
+---------- webs: turn 5 ----------
+webs - plays Margrave
+webs - draws Copper, Estate, Copper
+Titandrake - draws Silver
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+webs - plays 4 Copper
+webs - buys Caravan
+webs - gains Caravan
+webs - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Loan
+Titandrake - reveals Militia, Estate, Copper
+Titandrake - trashes Copper
+Titandrake - discards: Militia, Estate
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- webs: turn 6 ----------
+webs - plays 3 Copper, 1 Silver
+webs - buys Highway
+webs - gains Highway
+webs - draws Caravan
+webs - shuffles deck
+webs - draws Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Silver, Militia, Copper, Estate, Caravan
+ 
+---------- webs: turn 7 ----------
+webs - plays Caravan
+webs - draws Silver
+webs - plays 2 Copper, 1 Silver
+webs - buys Caravan
+webs - gains Caravan
+webs - draws Caravan, Militia, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Caravan
+Titandrake - draws Loan
+Titandrake - plays Militia
+webs - discards Copper
+webs - discards Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Copper, Bandit Camp, Copper, Militia, Copper
+ 
+---------- webs: turn 8 ----------
+webs - duration Caravan
+webs - draws Estate
+webs - plays Caravan
+webs - draws Margrave
+webs - plays Margrave
+webs - draws Copper, Highway, Copper
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+webs - plays 3 Copper
+webs - buys Loan
+webs - gains Loan
+webs - shuffles deck
+webs - draws Caravan, Copper, Copper, Highway, Margrave
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Bandit Camp
+Titandrake - draws Caravan
+Titandrake - gains Spoils
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Militia
+webs - discards Copper
+webs - discards Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Loan, Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp
+ 
+---------- webs: turn 9 ----------
+webs - duration Caravan
+webs - draws Silver
+webs - plays Highway
+webs - draws Militia
+webs - plays Caravan
+webs - draws Estate
+webs - plays Margrave
+webs - draws Caravan, Copper, Copper
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+webs - plays 2 Copper, 1 Silver
+webs - buys Caravan
+webs - gains Caravan
+webs - buys Cellar
+webs - gains Cellar
+webs - draws Copper, Estate, Loan, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - draws Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays 3 Copper
+Titandrake - plays Loan
+Titandrake - reveals Margrave, Caravan, Copper
+Titandrake - trashes Copper
+Titandrake - discards: Margrave, Caravan
+Titandrake - plays Spoils
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Silver, Estate, Militia
+Titandrake - shuffles deck
+Titandrake - draws Copper, Spoils
+ 
+---------- webs: turn 10 ----------
+webs - duration Caravan
+webs - draws Estate
+webs - plays 3 Copper
+webs - plays Loan
+webs - shuffles deck
+webs - reveals Copper
+webs - trashes Copper
+webs - buys Caravan
+webs - gains Caravan
+webs - draws Highway, Caravan, Militia, Estate, Cellar
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Militia
+webs - discards Estate
+webs - discards Cellar
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Copper, Caravan, Copper, Estate, Loan
+ 
+---------- webs: turn 11 ----------
+webs - plays Caravan
+webs - draws Silver
+webs - plays Highway
+webs - draws Copper
+webs - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+webs - plays 1 Silver, 1 Copper
+webs - buys City
+webs - gains City
+webs - draws Margrave, Caravan, Copper, Caravan, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays 1 Copper
+Titandrake - draws Bandit Camp, Margrave, Copper, Caravan, Caravan
+ 
+---------- webs: turn 12 ----------
+webs - duration Caravan
+webs - shuffles deck
+webs - draws Estate
+webs - plays Caravan
+webs - draws Caravan
+webs - plays Caravan
+webs - draws Militia
+webs - plays Caravan
+webs - draws Copper
+webs - plays Margrave
+webs - draws Loan, Highway, City
+Titandrake - draws Bandit Camp
+Titandrake - discards Copper
+Titandrake - discards Caravan
+Titandrake - discards Caravan
+webs - plays 3 Copper
+webs - plays Loan
+webs - reveals Copper
+webs - trashes Copper
+webs - buys Caravan
+webs - gains Caravan
+webs - draws Silver, Cellar, Caravan, Estate, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Militia
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Margrave
+Titandrake - draws Loan, Copper, Copper
+webs - draws Copper
+webs - discards Caravan
+webs - discards Estate
+webs - discards Estate
+Titandrake - plays Militia
+Titandrake - plays 4 Copper
+Titandrake - plays Loan
+Titandrake - reveals Silver
+Titandrake - discards Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Spoils, Caravan, Estate, Caravan, Estate
+ 
+---------- webs: turn 13 ----------
+webs - duration Caravan
+webs - draws Copper
+webs - duration Caravan
+webs - shuffles deck
+webs - draws Margrave
+webs - duration Caravan
+webs - draws Copper
+webs - plays Cellar
+webs - discards Copper
+webs - discards Copper
+webs - discards Copper
+webs - draws Estate, Copper, Militia
+webs - plays Margrave
+webs - draws Caravan, Caravan, Estate
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+webs - draws City, Estate, Loan, Copper, Caravan
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Caravan
+Titandrake - draws Margrave
+Titandrake - plays Caravan
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+Titandrake - plays Margrave
+Titandrake - draws Copper, Silver, Estate
+webs - draws Highway
+webs - discards Estate
+webs - discards Copper
+webs - discards Loan
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Bandit Camp, Militia, Cellar, Loan, Margrave
+ 
+---------- webs: turn 14 ----------
+webs - plays City
+webs - shuffles deck
+webs - draws Copper, Copper
+webs - plays Highway
+webs - draws Caravan
+webs - plays Caravan
+webs - draws Caravan
+webs - plays Caravan
+webs - draws Militia
+webs - plays Caravan
+webs - draws Cellar
+webs - plays Cellar
+webs - discards Copper
+webs - discards Copper
+webs - draws Silver, Estate
+webs - plays Militia
+Titandrake - discards Loan
+Titandrake - discards Cellar
+webs - plays Silver
+webs - buys City
+webs - gains City
+webs - draws Caravan, Copper, Caravan, Loan, Margrave
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Caravan
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Bandit Camp
+Titandrake - draws Highway
+Titandrake - gains Spoils
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Margrave
+Titandrake - draws Estate, Bandit Camp, Spoils
+webs - draws Estate
+webs - discards Estate
+webs - discards Copper
+webs - discards Loan
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Militia
+Titandrake - plays 3 Copper
+Titandrake - plays Spoils
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - shuffles deck
+Titandrake - draws Copper, Caravan, City, Estate, Silver
+ 
+---------- webs: turn 15 ----------
+webs - duration Caravan
+webs - draws Copper
+webs - duration Caravan
+webs - draws Caravan
+webs - duration Caravan
+webs - draws Copper
+webs - plays Caravan
+webs - draws Estate
+webs - plays Caravan
+webs - shuffles deck
+webs - draws City
+webs - plays Caravan
+webs - draws Copper
+webs - plays City
+webs - draws Copper, City
+webs - plays City
+webs - draws Estate, Highway
+webs - plays Highway
+webs - draws Militia
+webs - plays Margrave
+webs - draws Copper, Silver, Cellar
+Titandrake - draws Caravan
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Silver
+webs - plays Cellar
+webs - discards Estate
+webs - discards Estate
+webs - discards Copper
+webs - discards Copper
+webs - discards Copper
+webs - draws Loan, Estate
+webs - shuffles deck
+webs - draws Copper, Copper, Estate
+webs - plays Militia
+webs - plays 4 Copper, 1 Silver
+webs - plays Loan
+webs - reveals Estate, Copper
+webs - trashes Copper
+webs - discards Estate
+webs - buys Gold
+webs - gains Gold
+webs - buys City
+webs - gains City
+webs - shuffles deck
+webs - draws Silver, City, Copper, Caravan, Caravan
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Caravan
+Titandrake - draws Highway
+Titandrake - plays Caravan
+Titandrake - draws Bandit Camp
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays City
+Titandrake - draws Militia, Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws City
+Titandrake - gains Spoils
+Titandrake - plays City
+Titandrake - draws Bandit Camp, Margrave
+Titandrake - plays Margrave
+Titandrake - draws Caravan, Highway, Margrave
+webs - draws Estate
+webs - discards Estate
+webs - discards Copper
+webs - discards Silver
+Titandrake - plays Highway
+Titandrake - draws Cellar
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Margrave
+Titandrake - draws Loan, Spoils, Spoils
+webs - draws Highway
+webs - discards Highway
+Titandrake - plays Militia
+Titandrake - plays 3 Copper
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - shuffles deck
+Titandrake - draws City, Copper, Spoils, Estate, Bandit Camp
+ 
+---------- webs: turn 16 ----------
+webs - duration Caravan
+webs - draws City
+webs - duration Caravan
+webs - draws Loan
+webs - duration Caravan
+webs - draws Gold
+webs - plays City
+webs - draws Estate, Militia
+webs - plays City
+webs - draws Estate, Copper
+webs - plays Caravan
+webs - draws Margrave
+webs - plays Caravan
+webs - draws Copper
+webs - plays Margrave
+webs - draws Copper, City, Caravan
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+webs - plays Caravan
+webs - draws Cellar
+webs - plays City
+webs - shuffles deck
+webs - draws Highway, Silver
+webs - plays Highway
+webs - draws Estate
+webs - plays Cellar
+webs - discards Estate
+webs - discards Estate
+webs - discards Estate
+webs - draws Copper
+webs - shuffles deck
+webs - draws Estate, Estate
+webs - plays Militia
+webs - plays 4 Copper, 1 Gold, 1 Silver
+webs - plays Loan
+webs - reveals Estate
+webs - discards Estate
+webs - buys Gold
+webs - gains Gold
+webs - buys City
+webs - gains City
+webs - shuffles deck
+webs - draws Caravan, Highway, Caravan, Estate, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Caravan
+Titandrake - draws Militia
+Titandrake - duration Caravan
+Titandrake - draws City
+Titandrake - duration Caravan
+Titandrake - draws Margrave
+Titandrake - plays City
+Titandrake - draws Silver, Caravan
+Titandrake - plays Margrave
+Titandrake - draws Highway, Copper, Spoils
+webs - draws Militia
+webs - discards Estate
+webs - discards Estate
+webs - discards Caravan
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Loan
+Titandrake - plays Caravan
+Titandrake - draws Bandit Camp
+Titandrake - plays City
+Titandrake - draws Estate, Cellar
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays Cellar
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Margrave, City, Margrave, Highway
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+Titandrake - plays Margrave
+Titandrake - draws Copper, Copper, Spoils
+webs - draws Margrave
+webs - discards Militia
+Titandrake - plays City
+Titandrake - draws Estate, Copper
+Titandrake - plays Margrave
+Titandrake - draws Copper, Estate, Estate
+webs - draws Cellar
+webs - discards Cellar
+Titandrake - plays Militia
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - plays Loan
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws City, Militia, Bandit Camp, Caravan, Silver
+ 
+---------- webs: turn 17 ----------
+webs - duration Caravan
+webs - draws Caravan
+webs - duration Caravan
+webs - draws City
+webs - duration Caravan
+webs - draws Copper
+webs - plays City
+webs - draws Estate, Copper
+webs - plays Caravan
+webs - draws City
+webs - plays City
+webs - draws Loan, Copper
+webs - plays Highway
+webs - draws Silver
+webs - plays Caravan
+webs - draws Gold
+webs - plays Margrave
+webs - draws City, Copper, City
+Titandrake - draws Province
+Titandrake - discards Province
+Titandrake - discards Silver
+Titandrake - discards Caravan
+webs - plays City
+webs - draws Gold
+webs - shuffles deck
+webs - draws Estate
+webs - plays City
+webs - draws Militia, Cellar
+webs - plays Cellar
+webs - discards Estate
+webs - discards Estate
+webs - draws Estate, Caravan
+webs - plays Caravan
+webs - shuffles deck
+webs - draws Estate
+webs - plays Militia
+webs - plays 4 Copper, 2 Gold, 1 Silver
+webs - plays Loan
+webs - reveals Estate
+webs - discards Estate
+webs - buys Province
+webs - gains Province
+webs - buys Highway
+webs - gains Highway
+webs - shuffles deck
+webs - draws City, Margrave, Copper, Silver, Loan
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays City
+Titandrake - draws Estate, Estate
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Militia
+webs - discards Loan
+webs - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Province, City, Highway, Copper, Highway
+ 
+---------- webs: turn 18 ----------
+webs - duration Caravan
+webs - draws Caravan
+webs - duration Caravan
+webs - draws Copper
+webs - duration Caravan
+webs - draws Province
+webs - plays City
+webs - draws City, City
+webs - plays City
+webs - draws Estate, Gold
+webs - plays City
+webs - draws Caravan, Estate
+webs - plays Caravan
+webs - draws Gold
+webs - plays Caravan
+webs - draws Copper
+webs - plays Margrave
+webs - draws Highway, Caravan, Highway
+Titandrake - draws Margrave
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - discards Highway
+webs - plays Caravan
+webs - draws Cellar
+webs - plays Highway
+webs - draws Estate
+webs - plays Highway
+webs - draws City
+webs - plays City
+webs - draws Militia, Copper
+webs - plays Cellar
+webs - discards Estate
+webs - discards Estate
+webs - discards Estate
+webs - discards Province
+webs - shuffles deck
+webs - draws Province, Copper, Estate, Estate
+webs - plays Militia
+webs - plays 4 Copper, 2 Gold, 1 Silver
+webs - buys Province
+webs - gains Province
+webs - buys Province
+webs - gains Province
+webs - draws Estate, Loan
+webs - shuffles deck
+webs - draws City, City, Cellar
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays City
+Titandrake - draws City, Copper
+Titandrake - plays City
+Titandrake - draws Cellar, Caravan
+Titandrake - plays Highway
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Highway
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Highway
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Province, Loan, Bandit Camp
+webs - draws Estate
+webs - discards Estate
+webs - discards Estate
+webs - discards Loan
+Titandrake - plays Bandit Camp
+Titandrake - draws Margrave
+Titandrake - gains Spoils
+Titandrake - plays Margrave
+Titandrake - draws City
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Estate
+webs - draws Militia
+webs - discards Cellar
+Titandrake - plays City
+Titandrake - draws Province, Copper
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays Margrave
+Titandrake - draws Spoils, City, Highway
+webs - draws Copper
+webs - discards Copper
+Titandrake - plays City
+Titandrake - draws Militia, Spoils
+Titandrake - plays Highway
+Titandrake - draws Province
+Titandrake - plays Cellar
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - draws Copper, Bandit Camp, Estate, Silver, Caravan
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Militia
+Titandrake - plays Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Loan
+Titandrake - shuffles deck
+Titandrake - reveals Province, Province, Estate, Province, Spoils
+Titandrake - discards Spoils
+Titandrake - discards: Province, Province, Estate, Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Margrave, Province, Bandit Camp, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 City, 4 Caravan, 3 Margrave, 3 Highway, 2 Bandit Camp, 1 Cellar, 1 Militia, 4 Copper, 2 Silver, 1 Spoils, 1 Loan, 5 Province, 3 Estate, 2 Duchy
+Titandrake - total victory points: 39
+Titandrake - turns: 18
+ 
+webs - cards: 6 Caravan, 4 City, 2 Highway, 1 Militia, 1 Cellar, 1 Margrave, 4 Copper, 2 Gold, 1 Loan, 1 Silver, 3 Estate, 3 Province
+webs - total victory points: 21
+webs - turns: 18
+ 
+1st place: Titandrake
+2nd place: webs
+ 

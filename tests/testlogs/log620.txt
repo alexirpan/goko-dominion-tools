@@ -1,0 +1,633 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Scrying Pool, Chancellor, Oasis, Procession, Trader, Trading Post, Altar, Border Village, Goons, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Bardolator - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Bardolator - shuffles deck
+Titandrake - shuffles deck
+Bardolator - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Bardolator: turn 1 ----------
+Bardolator - plays 5 Copper
+Bardolator - buys Trading Post
+Bardolator - gains Trading Post
+Bardolator - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Bardolator: turn 2 ----------
+Bardolator - plays 2 Copper
+Bardolator - buys Hamlet
+Bardolator - gains Hamlet
+Bardolator - shuffles deck
+Bardolator - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Potion, Oasis
+ 
+---------- Bardolator: turn 3 ----------
+Bardolator - plays 5 Copper
+Bardolator - buys Trading Post
+Bardolator - gains Trading Post
+Bardolator - draws Estate, Copper, Estate, Trading Post, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Bardolator: turn 4 ----------
+Bardolator - plays Trading Post
+Bardolator - trashes Estate, Estate
+Bardolator - gains Silver
+Bardolator - plays 1 Copper, 1 Silver
+Bardolator - buys Silver
+Bardolator - gains Silver
+Bardolator - draws Hamlet, Copper
+Bardolator - shuffles deck
+Bardolator - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Trader
+Titandrake - gains Trader
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Potion, Copper, Oasis, Trader
+ 
+---------- Bardolator: turn 5 ----------
+Bardolator - plays Hamlet
+Bardolator - draws Estate
+Bardolator - discards Estate
+Bardolator - receives one buy
+Bardolator - plays 3 Copper, 1 Silver
+Bardolator - buys Oasis
+Bardolator - gains Oasis
+Bardolator - buys Hamlet
+Bardolator - gains Hamlet
+Bardolator - draws Copper, Copper, Copper, Trading Post, Trading Post
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays Trader
+Titandrake - trashes Copper
+Titandrake - plays 1 Potion, 1 Copper
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Estate, Copper, Estate, Scrying Pool
+ 
+---------- Bardolator: turn 6 ----------
+Bardolator - plays Trading Post
+Bardolator - trashes Copper, Copper
+Bardolator - gains Silver
+Bardolator - plays 1 Copper, 1 Silver
+Bardolator - buys Silver
+Bardolator - gains Silver
+Bardolator - draws Copper, Silver
+Bardolator - shuffles deck
+Bardolator - draws Silver, Estate, Trading Post
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+Bardolator - discards Silver
+Titandrake - reveals Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Potion, Copper, Scrying Pool, Scrying Pool
+ 
+---------- Bardolator: turn 7 ----------
+Bardolator - plays Trading Post
+Bardolator - trashes Estate, Copper
+Bardolator - gains Silver
+Bardolator - plays 3 Silver
+Bardolator - buys Goons
+Bardolator - gains Goons
+Bardolator - draws Oasis, Silver, Trading Post, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Trader on top of deck
+Bardolator - discards Hamlet
+Titandrake - reveals Trader, Hamlet, Estate
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+Bardolator - places Copper on top of deck
+Titandrake - reveals Oasis, Estate
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Trader
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Hamlet
+ 
+---------- Bardolator: turn 8 ----------
+Bardolator - plays Oasis
+Bardolator - draws Copper
+Bardolator - discards Copper
+Bardolator - plays Trading Post
+Bardolator - trashes Copper, Copper
+Bardolator - gains Silver
+Bardolator - plays 2 Silver
+Bardolator - buys Trader
+Bardolator - gains Trader
+Bardolator - draws Hamlet, Copper
+Bardolator - shuffles deck
+Bardolator - draws Hamlet, Trading Post, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Oasis
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - draws Potion, Scrying Pool, Silver, Hamlet, Silver
+ 
+---------- Bardolator: turn 9 ----------
+Bardolator - plays Hamlet
+Bardolator - draws Silver
+Bardolator - plays Hamlet
+Bardolator - draws Copper
+Bardolator - plays Trading Post
+Bardolator - trashes Copper, Copper
+Bardolator - gains Silver
+Bardolator - plays 3 Silver
+Bardolator - buys Goons
+Bardolator - gains Goons
+Bardolator - draws Silver, Oasis, Goons, Trading Post, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+Bardolator - discards Trader
+Titandrake - reveals Scrying Pool, Trader, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+Bardolator - discards Silver
+Titandrake - reveals Scrying Pool, Estate
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+Bardolator - discards Silver
+Titandrake - shuffles deck
+Titandrake - reveals Copper
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Trader
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 2 Copper, 1 Potion
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Estate, Trading Post, Copper, Copper, Oasis
+ 
+---------- Bardolator: turn 10 ----------
+Bardolator - plays Oasis
+Bardolator - shuffles deck
+Bardolator - draws Trading Post
+Bardolator - discards Trading Post
+Bardolator - plays Goons
+Titandrake - discards Oasis
+Titandrake - discards Copper
+Bardolator - plays 2 Silver
+Bardolator - buys Border Village
+Bardolator - receives 1 victory point chips
+Bardolator - gains Border Village
+Bardolator - gains Hamlet
+Bardolator - buys Copper
+Bardolator - receives 1 victory point chips
+Bardolator - gains Copper
+Bardolator - draws Silver, Silver, Hamlet, Silver, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Copper
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Hamlet, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Potion
+ 
+---------- Bardolator: turn 11 ----------
+Bardolator - plays Hamlet
+Bardolator - draws Silver
+Bardolator - discards Silver
+Bardolator - receives one buy
+Bardolator - plays 4 Silver
+Bardolator - buys Province
+Bardolator - gains Province
+Bardolator - buys Copper
+Bardolator - gains Copper
+Bardolator - draws Hamlet, Trader, Goons
+Bardolator - shuffles deck
+Bardolator - draws Silver, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Scrying Pool
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Scrying Pool
+Titandrake - discards Silver
+Bardolator - places Copper on top of deck
+Titandrake - reveals Hamlet, Trader, Trading Post, Silver
+Titandrake - plays Hamlet
+Titandrake - draws Goons
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - plays Trading Post
+Titandrake - trashes Trader, Silver
+Titandrake - gains Silver
+Titandrake - plays Goons
+Bardolator - discards Trader
+Bardolator - discards Hamlet
+Titandrake - plays 2 Silver, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - receives 1 victory point chips
+Titandrake - gains Scrying Pool
+Titandrake - buys Hamlet
+Titandrake - receives 1 victory point chips
+Titandrake - gains Hamlet
+Titandrake - buys Hamlet
+Titandrake - receives 1 victory point chips
+Titandrake - gains Hamlet
+Titandrake - draws Scrying Pool, Copper, Hamlet, Copper, Oasis
+ 
+---------- Bardolator: turn 12 ----------
+Bardolator - plays Goons
+Titandrake - discards Copper
+Titandrake - discards Copper
+Bardolator - plays 2 Silver
+Bardolator - buys Silver
+Bardolator - receives 1 victory point chips
+Bardolator - gains Silver
+Bardolator - buys Silver
+Bardolator - receives 1 victory point chips
+Bardolator - gains Silver
+Bardolator - draws Copper, Silver, Trading Post, Province, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+Bardolator - discards Border Village
+Titandrake - reveals Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - discards Estate
+Bardolator - discards Goons
+Titandrake - reveals Goons, Copper
+Titandrake - plays Oasis
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays Goons
+Bardolator - discards Province
+Bardolator - discards Trading Post
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - buys Hamlet
+Titandrake - receives 1 victory point chips
+Titandrake - gains Hamlet
+Titandrake - draws Hamlet, Copper, Scrying Pool, Hamlet, Copper
+ 
+---------- Bardolator: turn 13 ----------
+Bardolator - plays 2 Silver, 1 Copper
+Bardolator - buys Duchy
+Bardolator - gains Duchy
+Bardolator - draws Silver, Oasis, Copper, Silver, Hamlet
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+Bardolator - discards Trading Post
+Titandrake - reveals Scrying Pool, Trading Post, Potion
+Titandrake - plays Scrying Pool
+Titandrake - places Hamlet on top of deck
+Bardolator - discards Silver
+Titandrake - reveals Hamlet, Hamlet, Silver
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Goons
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - places Goons on top of deck
+Bardolator - discards Hamlet
+Titandrake - reveals Goons, Oasis, Silver
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Hamlet
+Titandrake - receives one action
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - plays Oasis
+Titandrake - draws Silver
+Titandrake - discards Silver
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays Goons
+Bardolator - discards Copper
+Bardolator - discards Oasis
+Titandrake - plays Goons
+Titandrake - plays 3 Silver, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Scrying Pool
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - buys Hamlet
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Hamlet
+Titandrake - draws Copper, Scrying Pool, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Scrying Pool
+ 
+---------- Bardolator: turn 14 ----------
+Bardolator - plays Hamlet
+Bardolator - shuffles deck
+Bardolator - draws Duchy
+Bardolator - discards Duchy
+Bardolator - receives one buy
+Bardolator - plays 2 Silver
+Bardolator - buys Silver
+Bardolator - gains Silver
+Bardolator - draws Hamlet, Silver, Silver, Trader, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+Bardolator - discards Silver
+Titandrake - reveals Scrying Pool, Scrying Pool, Scrying Pool, Silver
+Titandrake - plays Scrying Pool
+Titandrake - places Hamlet on top of deck
+Bardolator - discards Silver
+Titandrake - reveals Hamlet, Hamlet, Hamlet, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Hamlet on top of deck
+Bardolator - discards Silver
+Titandrake - reveals Hamlet, Hamlet, Goons, Goons, Potion
+Titandrake - plays Scrying Pool
+Titandrake - discards Silver
+Bardolator - discards Trading Post
+Titandrake - reveals Silver
+Titandrake - plays Scrying Pool
+Titandrake - places Hamlet on top of deck
+Bardolator - places Copper on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Hamlet, Oasis, Trading Post, Goons, Hamlet, Silver
+Titandrake - plays Hamlet
+Titandrake - discards Trading Post
+Titandrake - receives one action
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Trading Post
+Titandrake - discards Trading Post
+Titandrake - receives one action
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Trading Post
+Titandrake - discards Hamlet
+Titandrake - receives one action
+Titandrake - discards Hamlet
+Titandrake - receives one buy
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Copper
+Titandrake - gains Silver
+Titandrake - plays Oasis
+Titandrake - shuffles deck
+Titandrake - draws Hamlet
+Titandrake - discards Hamlet
+Titandrake - plays Goons
+Bardolator - discards Silver
+Bardolator - discards Silver
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Hamlet
+Titandrake - receives one buy
+Titandrake - plays Goons
+Titandrake - plays Goons
+Titandrake - plays 5 Silver, 1 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Scrying Pool
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - buys Oasis
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Oasis
+Titandrake - shuffles deck
+Titandrake - draws Goons, Goons, Silver, Goons, Oasis
+ 
+---------- Bardolator: turn 15 ----------
+Bardolator - plays Hamlet
+Bardolator - draws Copper
+Bardolator - discards Copper
+Bardolator - receives one buy
+Bardolator - plays 1 Silver
+Bardolator - buys Copper
+Bardolator - reveals reaction Trader
+Bardolator - gains Silver
+Bardolator - buys Copper
+Bardolator - reveals reaction Trader
+Bardolator - gains Silver
+Bardolator - draws Border Village, Trading Post, Hamlet, Province, Goons
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Oasis
+Titandrake - draws Trading Post
+Titandrake - discards Trading Post
+Titandrake - plays Goons
+Bardolator - discards Province
+Bardolator - discards Trading Post
+Titandrake - plays Silver
+Titandrake - buys Oasis
+Titandrake - receives 1 victory point chips
+Titandrake - gains Oasis
+Titandrake - draws Hamlet, Potion, Goons, Hamlet, Scrying Pool
+ 
+---------- Bardolator: turn 16 ----------
+Bardolator - plays Border Village
+Bardolator - draws Silver
+Bardolator - plays Hamlet
+Bardolator - draws Oasis
+Bardolator - discards Oasis
+Bardolator - receives one buy
+Bardolator - plays Goons
+Titandrake - discards Hamlet
+Titandrake - discards Potion
+Bardolator - plays 1 Silver
+Bardolator - buys Silver
+Bardolator - receives 1 victory point chips
+Bardolator - gains Silver
+Bardolator - buys Copper
+Bardolator - receives 1 victory point chips
+Bardolator - gains Copper
+Bardolator - buys Copper
+Bardolator - receives 1 victory point chips
+Bardolator - gains Copper
+Bardolator - draws Copper, Goons
+Bardolator - shuffles deck
+Bardolator - draws Silver, Hamlet, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Hamlet on top of deck
+Bardolator - discards Hamlet
+Titandrake - reveals Hamlet, Oasis, Scrying Pool, Hamlet, Silver
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+Bardolator - discards Silver
+Titandrake - reveals Scrying Pool, Silver
+Titandrake - plays Scrying Pool
+Titandrake - places Hamlet on top of deck
+Bardolator - discards Silver
+Titandrake - reveals Hamlet, Scrying Pool, Scrying Pool, Silver
+Titandrake - plays Scrying Pool
+Titandrake - places Goons on top of deck
+Bardolator - discards Trading Post
+Titandrake - reveals Goons, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Hamlet on top of deck
+Bardolator - discards Silver
+Titandrake - reveals Hamlet, Hamlet, Scrying Pool, Silver
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - places Trading Post on top of deck
+Bardolator - discards Border Village
+Titandrake - reveals Trading Post, Oasis, Potion
+Titandrake - plays Hamlet
+Titandrake - draws Goons
+Titandrake - discards Hamlet
+Titandrake - receives one action
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - plays Oasis
+Titandrake - draws Silver
+Titandrake - discards Oasis
+Titandrake - plays Hamlet
+Titandrake - draws Goons
+Titandrake - discards Silver
+Titandrake - receives one action
+Titandrake - plays Hamlet
+Titandrake - draws Goons
+Titandrake - discards Silver
+Titandrake - receives one action
+Titandrake - plays Hamlet
+Titandrake - draws Oasis
+Titandrake - discards Hamlet
+Titandrake - receives one action
+Titandrake - plays Goons
+Bardolator - discards Copper
+Bardolator - discards Silver
+Titandrake - plays Goons
+Titandrake - plays Goons
+Titandrake - plays Goons
+Titandrake - plays Goons
+Titandrake - plays Trading Post
+Titandrake - trashes Silver, Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Scrying Pool
+Titandrake - buys Border Village
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Border Village
+Titandrake - gains Oasis
+Titandrake - buys Goons
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - receives 1 victory point chips
+Titandrake - gains Goons
+Titandrake - shuffles deck
+Titandrake - draws Potion, Hamlet, Goons, Scrying Pool, Scrying Pool
+ 
+---------- Bardolator: turn 17 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Hamlet, 7 Scrying Pool, 6 Goons, 4 Oasis, 1 Border Village, 1 Trading Post, 4 Silver, 1 Potion, 1 Copper
+Titandrake - victory point chips: 39
+Titandrake - total victory points: 39
+Titandrake - turns: 16
+ 
+Bardolator - resigned
+Bardolator - cards: 3 Hamlet, 2 Goons, 2 Trading Post, 13 Silver, 1 Border Village, 1 Oasis, 1 Trader, 4 Copper, 1 Duchy, 1 Province
+Bardolator - victory point chips: 7
+Bardolator - total victory points: 16
+Bardolator - turns: 16
+ 
+1st place: Titandrake
+2nd place: Bardolator
+ 

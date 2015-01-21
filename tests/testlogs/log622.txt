@@ -1,0 +1,583 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Embargo, Haven, Pawn, Workshop, Horse Traders, Golem, Bandit Camp, Bazaar, Junk Dealer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+blueblimp - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+blueblimp - shuffles deck
+Titandrake - shuffles deck
+blueblimp - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- blueblimp: turn 1 ----------
+blueblimp - plays 3 Copper
+blueblimp - buys Silver
+blueblimp - gains Silver
+blueblimp - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- blueblimp: turn 2 ----------
+blueblimp - plays 4 Copper
+blueblimp - buys Horse Traders
+blueblimp - gains Horse Traders
+blueblimp - shuffles deck
+blueblimp - draws Copper, Silver, Estate, Horse Traders, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver, Copper, Estate
+ 
+---------- blueblimp: turn 3 ----------
+blueblimp - plays Horse Traders
+blueblimp - discards Estate
+blueblimp - discards Estate
+blueblimp - plays 1 Copper, 1 Silver
+blueblimp - buys Junk Dealer
+blueblimp - gains Junk Dealer
+blueblimp - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Horse Traders, Copper, Estate
+ 
+---------- blueblimp: turn 4 ----------
+blueblimp - plays 4 Copper
+blueblimp - buys Potion
+blueblimp - gains Potion
+blueblimp - draws Copper, Copper
+blueblimp - shuffles deck
+blueblimp - draws Copper, Potion, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper
+ 
+---------- blueblimp: turn 5 ----------
+blueblimp - plays 4 Copper, 1 Potion
+blueblimp - buys Golem
+blueblimp - gains Golem
+blueblimp - draws Copper, Junk Dealer, Copper, Silver, Horse Traders
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Copper, Junk Dealer, Horse Traders
+ 
+---------- blueblimp: turn 6 ----------
+blueblimp - plays Junk Dealer
+blueblimp - draws Estate
+blueblimp - trashes Estate
+blueblimp - plays Horse Traders
+blueblimp - discards Copper
+blueblimp - discards Copper
+blueblimp - plays 1 Silver
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - draws Estate, Copper, Estate
+blueblimp - shuffles deck
+blueblimp - draws Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Estate
+Titandrake - trashes Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- blueblimp: turn 7 ----------
+blueblimp - plays 3 Copper
+blueblimp - buys Embargo
+blueblimp - gains Embargo
+blueblimp - draws Copper, Silver, Bazaar, Copper, Potion
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Horse Traders, Copper, Estate, Copper, Gold
+ 
+---------- blueblimp: turn 8 ----------
+blueblimp - plays Bazaar
+blueblimp - draws Horse Traders
+blueblimp - plays Horse Traders
+blueblimp - discards Copper
+blueblimp - discards Copper
+blueblimp - plays 1 Silver, 1 Potion
+blueblimp - buys Golem
+blueblimp - gains Golem
+blueblimp - buys Embargo
+blueblimp - gains Embargo
+blueblimp - draws Copper, Golem, Junk Dealer, Copper
+blueblimp - shuffles deck
+blueblimp - draws Potion
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Silver, Junk Dealer, Silver, Copper
+ 
+---------- blueblimp: turn 9 ----------
+blueblimp - plays Junk Dealer
+blueblimp - draws Estate
+blueblimp - trashes Estate
+blueblimp - plays Golem
+blueblimp - reveals Copper, Copper, Silver, Horse Traders, Golem, Copper, Bazaar
+blueblimp - discards: Copper, Copper, Silver, Golem, Copper
+blueblimp - plays Bazaar
+blueblimp - draws Embargo
+blueblimp - plays Horse Traders
+blueblimp - discards Copper
+blueblimp - discards Copper
+blueblimp - plays Embargo
+blueblimp - embargoes Province
+blueblimp - trashes Embargo
+blueblimp - plays 1 Potion
+blueblimp - buys Golem
+blueblimp - gains Golem
+blueblimp - buys Embargo
+blueblimp - gains Embargo
+blueblimp - draws Estate, Copper, Copper, Embargo
+blueblimp - shuffles deck
+blueblimp - draws Golem
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp
+Titandrake - trashes Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws Silver
+Titandrake - gains Spoils
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Curse
+Titandrake - gains Province
+Titandrake - draws Bandit Camp, Estate, Horse Traders, Copper, Copper
+ 
+---------- blueblimp: turn 10 ----------
+blueblimp - plays Golem
+blueblimp - reveals Copper, Copper, Embargo, Copper, Horse Traders
+blueblimp - discards: Copper, Copper, Copper
+blueblimp - plays Embargo
+blueblimp - embargoes Province
+blueblimp - trashes Embargo
+blueblimp - plays Horse Traders
+blueblimp - discards Estate
+blueblimp - discards Embargo
+blueblimp - plays 2 Copper
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - buys Embargo
+blueblimp - gains Embargo
+blueblimp - draws Copper, Junk Dealer, Copper, Potion, Bazaar
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Copper, Copper, Gold, Embargo, Estate
+ 
+---------- blueblimp: turn 11 ----------
+blueblimp - plays Bazaar
+blueblimp - draws Golem
+blueblimp - plays Junk Dealer
+blueblimp - draws Golem
+blueblimp - trashes Copper
+blueblimp - plays Golem
+blueblimp - shuffles deck
+blueblimp - reveals Silver, Copper, Estate, Copper, Horse Traders, Copper, Embargo
+blueblimp - discards: Silver, Copper, Estate, Copper, Copper
+blueblimp - plays Embargo
+blueblimp - embargoes Province
+blueblimp - trashes Embargo
+blueblimp - plays Horse Traders
+blueblimp - discards Copper
+blueblimp - discards Golem
+blueblimp - plays 1 Potion
+blueblimp - buys Golem
+blueblimp - gains Golem
+blueblimp - buys Embargo
+blueblimp - gains Embargo
+blueblimp - draws Bazaar, Embargo, Copper, Copper, Golem
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Gold
+Titandrake - trashes Embargo
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Spoils, Copper, Horse Traders, Province, Bandit Camp
+ 
+---------- blueblimp: turn 12 ----------
+blueblimp - plays Bazaar
+blueblimp - shuffles deck
+blueblimp - draws Copper
+blueblimp - plays Golem
+blueblimp - reveals Potion, Horse Traders, Estate, Golem, Golem, Copper, Embargo
+blueblimp - discards: Potion, Estate, Golem, Golem, Copper
+blueblimp - plays Embargo
+blueblimp - embargoes Province
+blueblimp - trashes Embargo
+blueblimp - plays Horse Traders
+blueblimp - discards Copper
+blueblimp - discards Copper
+blueblimp - plays Embargo
+blueblimp - embargoes Province
+blueblimp - trashes Embargo
+blueblimp - plays 1 Copper
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - buys Embargo
+blueblimp - gains Embargo
+blueblimp - draws Golem, Bazaar, Copper, Silver, Junk Dealer
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays Horse Traders
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - plays Copper
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Junk Dealer, Gold, Bandit Camp, Copper
+ 
+---------- blueblimp: turn 13 ----------
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Junk Dealer
+blueblimp - shuffles deck
+blueblimp - draws Bazaar
+blueblimp - trashes Copper
+blueblimp - plays Bazaar
+blueblimp - draws Embargo
+blueblimp - plays Golem
+blueblimp - reveals Copper, Golem, Bazaar, Potion, Golem, Golem, Copper, Copper, Horse Traders
+blueblimp - discards: Copper, Golem, Potion, Golem, Golem, Copper, Copper
+blueblimp - plays Bazaar
+blueblimp - draws Estate
+blueblimp - plays Horse Traders
+blueblimp - discards Estate
+blueblimp - discards Copper
+blueblimp - plays Embargo
+blueblimp - embargoes Potion
+blueblimp - trashes Embargo
+blueblimp - plays 1 Silver
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - draws Copper
+blueblimp - shuffles deck
+blueblimp - draws Copper, Horse Traders, Potion, Bazaar
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Silver
+Titandrake - gains Spoils
+Titandrake - plays Junk Dealer
+Titandrake - draws Duchy
+Titandrake - trashes Copper
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Silver, Silver, Junk Dealer
+ 
+---------- blueblimp: turn 14 ----------
+blueblimp - plays Bazaar
+blueblimp - draws Silver
+blueblimp - plays Horse Traders
+blueblimp - discards Copper
+blueblimp - discards Copper
+blueblimp - plays 1 Potion, 1 Silver
+blueblimp - buys Golem
+blueblimp - gains Golem
+blueblimp - buys Embargo
+blueblimp - gains Embargo
+blueblimp - draws Golem, Bazaar, Bazaar, Copper, Golem
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Curse
+Titandrake - trashes Curse
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Spoils
+Titandrake - shuffles deck
+Titandrake - draws Estate, Bandit Camp
+ 
+---------- blueblimp: turn 15 ----------
+blueblimp - plays Bazaar
+blueblimp - draws Golem
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Golem
+blueblimp - reveals Golem, Copper, Bazaar, Bazaar
+blueblimp - discards: Golem, Copper
+blueblimp - plays Bazaar
+blueblimp - draws Junk Dealer
+blueblimp - plays Bazaar
+blueblimp - draws Estate
+blueblimp - plays Junk Dealer
+blueblimp - shuffles deck
+blueblimp - draws Copper
+blueblimp - trashes Estate
+blueblimp - plays Golem
+blueblimp - reveals Embargo, Potion, Copper, Horse Traders
+blueblimp - discards: Potion, Copper
+blueblimp - plays Embargo
+blueblimp - embargoes Duchy
+blueblimp - trashes Embargo
+blueblimp - plays Horse Traders
+blueblimp - discards Golem
+blueblimp - discards Copper
+blueblimp - plays 2 Copper
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - draws Bazaar, Golem, Silver, Golem, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Province
+Titandrake - gains Spoils
+Titandrake - plays Copper
+Titandrake - plays Spoils
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Horse Traders, Bandit Camp, Spoils, Duchy, Gold
+ 
+---------- blueblimp: turn 16 ----------
+blueblimp - plays Bazaar
+blueblimp - shuffles deck
+blueblimp - draws Copper
+blueblimp - plays Golem
+blueblimp - reveals Bazaar, Horse Traders
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Horse Traders
+blueblimp - discards Golem
+blueblimp - discards Copper
+blueblimp - plays 2 Copper, 1 Silver
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - buys Horse Traders
+blueblimp - gains Horse Traders
+blueblimp - draws Bazaar, Golem, Golem, Bazaar, Bazaar
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Silver
+Titandrake - gains Spoils
+Titandrake - plays Horse Traders
+Titandrake - discards Duchy
+Titandrake - discards Silver
+Titandrake - plays Gold
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Curse
+Titandrake - gains Duchy
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Embargo, Copper, Duchy, Duchy, Copper
+ 
+---------- blueblimp: turn 17 ----------
+blueblimp - plays Bazaar
+blueblimp - draws Bazaar
+blueblimp - plays Bazaar
+blueblimp - draws Junk Dealer
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Junk Dealer
+blueblimp - draws Golem
+blueblimp - trashes Copper
+blueblimp - plays Golem
+blueblimp - shuffles deck
+blueblimp - reveals Potion, Bazaar, Copper, Golem, Horse Traders
+blueblimp - discards: Potion, Copper, Golem
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Horse Traders
+blueblimp - discards Copper
+blueblimp - discards Copper
+blueblimp - plays Golem
+blueblimp - reveals Bazaar, Silver, Copper, Bazaar
+blueblimp - discards: Silver, Copper
+blueblimp - plays Bazaar
+blueblimp - draws Bazaar
+blueblimp - plays Bazaar
+blueblimp - draws Horse Traders
+blueblimp - plays Bazaar
+blueblimp - draws Golem
+blueblimp - plays Golem
+blueblimp - shuffles deck
+blueblimp - reveals Copper, Copper, Copper, Copper, Potion, Golem, Silver
+blueblimp - discards: Copper, Copper, Copper, Copper, Potion, Golem, Silver
+blueblimp - plays Horse Traders
+blueblimp - discards Golem
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - buys Bazaar
+blueblimp - gains Bazaar
+blueblimp - buys Bandit Camp
+blueblimp - gains Bandit Camp
+blueblimp - shuffles deck
+blueblimp - draws Golem, Golem, Bazaar, Potion, Horse Traders
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Province
+Titandrake - trashes Embargo
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Spoils, Junk Dealer, Junk Dealer, Duchy
+ 
+---------- blueblimp: turn 18 ----------
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Golem
+blueblimp - reveals Golem, Bazaar, Bazaar
+blueblimp - discards Golem
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Bazaar
+blueblimp - draws Bazaar
+blueblimp - plays Bazaar
+blueblimp - draws Bazaar
+blueblimp - plays Golem
+blueblimp - reveals Golem, Golem, Bazaar, Horse Traders
+blueblimp - discards: Golem, Golem
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Horse Traders
+blueblimp - discards Potion
+blueblimp - discards Copper
+blueblimp - plays Bazaar
+blueblimp - draws Bazaar
+blueblimp - plays Bazaar
+blueblimp - draws Silver
+blueblimp - plays Horse Traders
+blueblimp - discards Copper
+blueblimp - discards Copper
+blueblimp - plays 1 Silver
+blueblimp - buys Bandit Camp
+blueblimp - gains Bandit Camp
+blueblimp - buys Bandit Camp
+blueblimp - gains Bandit Camp
+blueblimp - buys Bandit Camp
+blueblimp - gains Bandit Camp
+blueblimp - draws Junk Dealer, Bandit Camp, Copper, Bazaar, Bazaar
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Curse
+Titandrake - gains Duchy
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse, Duchy, Gold
+ 
+---------- blueblimp: turn 19 ----------
+blueblimp - plays Bazaar
+blueblimp - draws Bazaar
+blueblimp - plays Bazaar
+blueblimp - shuffles deck
+blueblimp - draws Bazaar
+blueblimp - plays Bazaar
+blueblimp - draws Bandit Camp
+blueblimp - plays Bazaar
+blueblimp - draws Golem
+blueblimp - plays Golem
+blueblimp - reveals Bazaar, Bazaar
+blueblimp - plays Bazaar
+blueblimp - draws Golem
+blueblimp - plays Bazaar
+blueblimp - draws Bazaar
+blueblimp - plays Golem
+blueblimp - reveals Horse Traders, Golem, Golem, Potion, Bazaar
+blueblimp - discards: Golem, Golem, Potion
+blueblimp - plays Bazaar
+blueblimp - draws Bazaar
+blueblimp - plays Horse Traders
+blueblimp - discards Copper
+blueblimp - discards Bandit Camp
+blueblimp - plays Bandit Camp
+blueblimp - draws Bandit Camp
+blueblimp - gains Spoils
+blueblimp - plays Bazaar
+blueblimp - draws Copper
+blueblimp - plays Bazaar
+blueblimp - draws Horse Traders
+blueblimp - plays Bandit Camp
+blueblimp - draws Bandit Camp
+blueblimp - gains Spoils
+blueblimp - plays Bandit Camp
+blueblimp - draws Silver
+blueblimp - gains Spoils
+blueblimp - plays Junk Dealer
+blueblimp - draws Copper
+blueblimp - trashes Copper
+blueblimp - plays Horse Traders
+blueblimp - discards Silver
+blueblimp - discards Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Horse Traders, 2 Junk Dealer, 2 Bandit Camp, 1 Embargo, 4 Copper, 3 Silver, 2 Spoils, 1 Gold, 6 Duchy, 2 Estate, 1 Province, 2 Curse
+Titandrake - total victory points: 24
+Titandrake - turns: 18
+ 
+blueblimp - resigned
+blueblimp - cards: 3 Golem, 1 Bandit Camp, 1 Bazaar, 3 Copper, 3 Spoils, 1 Potion, 1 Silver
+blueblimp - total victory points: 0
+blueblimp - turns: 18
+ 
+1st place: Titandrake
+2nd place: blueblimp
+ 

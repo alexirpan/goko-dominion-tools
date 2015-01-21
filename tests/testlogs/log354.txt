@@ -1,0 +1,335 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Doctor, Lookout, Swindler, Armory, JackOfAllTrades, Council Room, Library, Pillage, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+A Drowned Kernel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+A Drowned Kernel - shuffles deck
+Titandrake - shuffles deck
+A Drowned Kernel - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Doctor
+Titandrake - overpays for Doctor with 2 coins
+Titandrake - looks at Copper
+Titandrake - trashes Copper
+Titandrake - looks at Estate
+Titandrake - trashes Estate
+Titandrake - gains Doctor
+Titandrake - draws Copper, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Doctor
+ 
+---------- A Drowned Kernel: turn 1 ----------
+A Drowned Kernel - plays 4 Copper
+A Drowned Kernel - buys JackOfAllTrades
+A Drowned Kernel - gains JackOfAllTrades
+A Drowned Kernel - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Copper, Copper, Copper
+Titandrake - trashes Copper, Copper, Copper
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Doctor, Estate
+ 
+---------- A Drowned Kernel: turn 2 ----------
+A Drowned Kernel - plays 3 Copper
+A Drowned Kernel - buys Lookout
+A Drowned Kernel - gains Lookout
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Doctor
+Titandrake - names Estate
+Titandrake - reveals: Copper, Estate
+Titandrake - trashes Estate
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Doctor, Estate, Copper
+ 
+---------- A Drowned Kernel: turn 3 ----------
+A Drowned Kernel - plays 4 Copper
+A Drowned Kernel - buys JackOfAllTrades
+A Drowned Kernel - gains JackOfAllTrades
+A Drowned Kernel - draws Copper, Copper, Lookout, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Copper, Copper
+Titandrake - trashes Copper, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Copper, Doctor, Copper, Silver, Estate
+ 
+---------- A Drowned Kernel: turn 4 ----------
+A Drowned Kernel - plays Lookout
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - trashes Estate
+A Drowned Kernel - discards Copper
+A Drowned Kernel - places JackOfAllTrades on top of deck
+A Drowned Kernel - plays 3 Copper
+A Drowned Kernel - buys Silver
+A Drowned Kernel - gains Silver
+A Drowned Kernel - draws JackOfAllTrades, Copper, JackOfAllTrades, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Copper, Copper
+ 
+---------- A Drowned Kernel: turn 5 ----------
+A Drowned Kernel - plays JackOfAllTrades
+A Drowned Kernel - gains Silver
+A Drowned Kernel - discards Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - trashes Estate
+A Drowned Kernel - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Doctor
+Titandrake - trashes Estate
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Silver, Doctor
+ 
+---------- A Drowned Kernel: turn 6 ----------
+A Drowned Kernel - plays 3 Copper, 1 Silver
+A Drowned Kernel - buys Silver
+A Drowned Kernel - gains Silver
+A Drowned Kernel - draws Silver, Copper, Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws JackOfAllTrades, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Silver, Gold, JackOfAllTrades
+Titandrake - places JackOfAllTrades on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Gold, JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- A Drowned Kernel: turn 7 ----------
+A Drowned Kernel - plays JackOfAllTrades
+A Drowned Kernel - gains Silver
+A Drowned Kernel - places Copper on top of deck
+A Drowned Kernel - plays 4 Copper, 1 Silver
+A Drowned Kernel - buys Gold
+A Drowned Kernel - gains Gold
+A Drowned Kernel - draws Lookout, Copper, JackOfAllTrades, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Doctor on top of deck
+Titandrake - trashes Doctor
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold
+ 
+---------- A Drowned Kernel: turn 8 ----------
+A Drowned Kernel - plays Lookout
+A Drowned Kernel - trashes Estate
+A Drowned Kernel - discards Copper
+A Drowned Kernel - places Silver on top of deck
+A Drowned Kernel - plays JackOfAllTrades
+A Drowned Kernel - gains Silver
+A Drowned Kernel - places Silver on top of deck
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - plays 3 Silver, 2 Copper
+A Drowned Kernel - buys Province
+A Drowned Kernel - gains Province
+A Drowned Kernel - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Gold, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Silver, Silver, Silver, JackOfAllTrades
+ 
+---------- A Drowned Kernel: turn 9 ----------
+A Drowned Kernel - plays 4 Copper, 1 Silver
+A Drowned Kernel - buys Gold
+A Drowned Kernel - gains Gold
+A Drowned Kernel - draws Silver, JackOfAllTrades, Copper, Gold
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - places Gold on top of deck
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Copper, Silver, Copper, Silver
+ 
+---------- A Drowned Kernel: turn 10 ----------
+A Drowned Kernel - plays JackOfAllTrades
+A Drowned Kernel - gains Silver
+A Drowned Kernel - places Gold on top of deck
+A Drowned Kernel - plays Silver
+A Drowned Kernel - plays Copper
+A Drowned Kernel - plays Gold
+A Drowned Kernel - plays Copper
+A Drowned Kernel - buys Farmland
+A Drowned Kernel - trashes Gold
+A Drowned Kernel - gains Province
+A Drowned Kernel - gains Farmland
+A Drowned Kernel - draws Lookout, Silver, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Copper
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - plays Silver
+Titandrake - buys Farmland
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver, Copper, Silver
+ 
+---------- A Drowned Kernel: turn 11 ----------
+A Drowned Kernel - plays 2 Silver, 2 Copper
+A Drowned Kernel - buys Farmland
+A Drowned Kernel - trashes Lookout
+A Drowned Kernel - gains Duchy
+A Drowned Kernel - gains Farmland
+A Drowned Kernel - draws Copper, Copper, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Gold, Copper, Silver, Province
+ 
+---------- A Drowned Kernel: turn 12 ----------
+A Drowned Kernel - plays 3 Copper, 2 Silver
+A Drowned Kernel - buys Duchy
+A Drowned Kernel - gains Duchy
+A Drowned Kernel - draws JackOfAllTrades, Province
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Duchy, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Gold
+Titandrake - plays Copper
+Titandrake - plays Silver
+Titandrake - buys Farmland
+Titandrake - trashes Silver
+Titandrake - gains Duchy
+Titandrake - gains Farmland
+Titandrake - draws Silver, Farmland, JackOfAllTrades, Province
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- A Drowned Kernel: turn 13 ----------
+A Drowned Kernel - plays JackOfAllTrades
+A Drowned Kernel - gains Silver
+A Drowned Kernel - discards Province
+A Drowned Kernel - plays 2 Copper, 1 Silver
+A Drowned Kernel - buys Silver
+A Drowned Kernel - gains Silver
+A Drowned Kernel - draws Farmland, Silver, Copper, JackOfAllTrades, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Silver
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Silver, Province, Duchy, Silver
+ 
+---------- A Drowned Kernel: turn 14 ----------
+A Drowned Kernel - plays JackOfAllTrades
+A Drowned Kernel - gains Silver
+A Drowned Kernel - places Silver on top of deck
+A Drowned Kernel - plays 2 Silver, 2 Copper
+A Drowned Kernel - buys Farmland
+A Drowned Kernel - trashes Farmland
+A Drowned Kernel - gains Province
+A Drowned Kernel - gains Farmland
+A Drowned Kernel - draws Silver, Silver, Copper, Duchy, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Farmland, Gold, Duchy, Copper
+Titandrake - shuffles deck
+Titandrake - draws JackOfAllTrades
+ 
+---------- A Drowned Kernel: turn 15 ----------
+A Drowned Kernel - plays Silver
+A Drowned Kernel - plays Silver
+A Drowned Kernel - plays Silver
+A Drowned Kernel - buys Farmland
+A Drowned Kernel - trashes Copper
+A Drowned Kernel - gains Estate
+A Drowned Kernel - gains Farmland
+A Drowned Kernel - draws Gold, Copper, Farmland, Copper
+A Drowned Kernel - shuffles deck
+A Drowned Kernel - draws Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Province
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Estate, Silver, Farmland, Silver
+ 
+---------- A Drowned Kernel: turn 16 ----------
+A Drowned Kernel - plays 2 Copper, 1 Gold, 1 Silver
+A Drowned Kernel - buys Farmland
+A Drowned Kernel - trashes Farmland
+A Drowned Kernel - gains Province
+A Drowned Kernel - gains Farmland
+A Drowned Kernel - draws Copper, Farmland, Silver, Copper, Duchy
+ 
+------------ Game Over ------------
+A Drowned Kernel - cards: 2 JackOfAllTrades, 9 Silver, 6 Copper, 1 Gold, 4 Province, 3 Farmland, 2 Duchy, 1 Estate
+A Drowned Kernel - total victory points: 37
+A Drowned Kernel - turns: 16
+ 
+Titandrake - cards: 1 JackOfAllTrades, 6 Silver, 2 Copper, 1 Gold, 4 Province, 3 Estate, 2 Farmland, 2 Duchy
+Titandrake - total victory points: 37
+Titandrake - turns: 16
+ 
+1st place: A Drowned Kernel
+1st place: Titandrake
+ 

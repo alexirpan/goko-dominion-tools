@@ -1,0 +1,255 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Market Square, Armory, Plaza, Tournament, Apprentice, Cartographer, City, Minion, Royal Seal, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+clsrid - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+clsrid - shuffles deck
+Titandrake - shuffles deck
+clsrid - draws Estate, Estate, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- clsrid: turn 1 ----------
+clsrid - plays 2 Copper
+clsrid - buys Beggar
+clsrid - gains Beggar
+clsrid - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- clsrid: turn 2 ----------
+clsrid - plays 5 Copper
+clsrid - buys Apprentice
+clsrid - gains Apprentice
+clsrid - shuffles deck
+clsrid - draws Copper, Beggar, Apprentice, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Estate, Copper, Silver, Estate
+ 
+---------- clsrid: turn 3 ----------
+clsrid - plays 3 Copper
+clsrid - buys Market Square
+clsrid - gains Market Square
+clsrid - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Copper, Armory
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Plaza
+ 
+---------- clsrid: turn 4 ----------
+clsrid - plays 4 Copper
+clsrid - buys Armory
+clsrid - gains Armory
+clsrid - draws Estate, Estate
+clsrid - shuffles deck
+clsrid - draws Armory, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Plaza
+Titandrake - draws Tournament
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Armory
+Titandrake - gains Tournament
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- clsrid: turn 5 ----------
+clsrid - plays Armory
+clsrid - gains Tournament
+clsrid - draws Tournament, Beggar, Copper, Market Square, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Plaza, Tournament
+ 
+---------- clsrid: turn 6 ----------
+clsrid - plays Tournament
+clsrid - draws Copper
+clsrid - plays Market Square
+clsrid - draws Copper
+clsrid - plays Beggar
+clsrid - gains Copper
+clsrid - gains Copper
+clsrid - gains Copper
+clsrid - plays 7 Copper
+clsrid - buys Province
+clsrid - gains Province
+clsrid - draws Copper, Copper, Apprentice
+clsrid - shuffles deck
+clsrid - draws Copper, Armory
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Plaza
+Titandrake - draws Minion
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Minion
+Titandrake - discards: Estate, Silver, Copper
+Titandrake - draws Copper, Estate, Copper, Armory
+clsrid - discards: Copper, Copper, Apprentice, Copper, Armory
+clsrid - draws Market Square, Copper, Copper, Estate
+Titandrake - plays Armory
+Titandrake - gains Plaza
+Titandrake - plays 2 Copper
+Titandrake - buys Market Square
+Titandrake - gains Market Square
+Titandrake - draws Plaza, Estate, Copper, Copper, Tournament
+ 
+---------- clsrid: turn 7 ----------
+clsrid - plays Market Square
+clsrid - draws Tournament
+clsrid - plays Tournament
+clsrid - draws Copper
+clsrid - plays 3 Copper
+clsrid - buys Tournament
+clsrid - gains Tournament
+clsrid - draws Copper, Copper, Copper, Beggar, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Tournament
+Titandrake - draws Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Plaza
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Market Square, Armory, Silver, Plaza, Copper
+ 
+---------- clsrid: turn 8 ----------
+clsrid - plays 3 Copper
+clsrid - buys Market Square
+clsrid - gains Market Square
+clsrid - draws Estate, Province, Copper
+clsrid - shuffles deck
+clsrid - draws Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Plaza
+Titandrake - draws Estate
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Armory
+Titandrake - gains Tournament
+Titandrake - plays Market Square
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+clsrid - reveals Province
+Titandrake - draws Copper, Minion
+Titandrake - shuffles deck
+Titandrake - draws Tournament, Copper, Tournament
+ 
+---------- clsrid: turn 9 ----------
+clsrid - draws Copper, Tournament, Copper, Tournament, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 4 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Estate, Estate, Apprentice, Armory, Copper
+ 
+---------- clsrid: turn 10 ----------
+clsrid - plays Tournament
+clsrid - draws Copper
+clsrid - plays Tournament
+clsrid - draws Beggar
+clsrid - plays Beggar
+clsrid - gains Copper
+clsrid - gains Copper
+clsrid - gains Copper
+clsrid - plays 7 Copper
+clsrid - buys Province
+clsrid - gains Province
+clsrid - draws Armory, Market Square, Copper, Market Square, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Market Square, Plaza
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Armory
+Titandrake - gains Tournament
+Titandrake - draws Tournament, Silver, Estate, Copper, Province
+ 
+---------- clsrid: turn 11 ----------
+clsrid - plays Market Square
+clsrid - draws Estate
+clsrid - plays Market Square
+clsrid - draws Copper
+clsrid - plays Armory
+clsrid - gains Tournament
+clsrid - plays 3 Copper
+clsrid - buys Market Square
+clsrid - gains Market Square
+clsrid - draws Tournament, Apprentice, Copper
+clsrid - shuffles deck
+clsrid - draws Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Followers
+Titandrake - draws Followers
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Tournament, 1 Followers, 1 Minion, 1 Apprentice, 1 Plaza, 1 Armory, 1 Market Square, 7 Copper, 1 Silver, 1 Platinum, 2 Estate, 1 Province
+Titandrake - total victory points: 8
+Titandrake - turns: 11
+ 
+clsrid - resigned
+clsrid - cards: 3 Tournament, 3 Market Square, 13 Copper, 1 Apprentice, 1 Armory, 1 Beggar, 3 Estate, 2 Province
+clsrid - total victory points: 15
+clsrid - turns: 11
+ 
+1st place: Titandrake
+2nd place: clsrid
+ 

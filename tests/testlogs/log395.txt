@@ -1,0 +1,510 @@
+------------ Game Setup ------------
+Supply cards: Watchtower, Baron, Moneylender, Talisman, Trader, Butcher, City, Explorer, Ghost Ship, Mint, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Spice Merchant - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Spice Merchant - shuffles deck
+Titandrake - shuffles deck
+Spice Merchant - draws Copper, Estate, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Spice Merchant: turn 1 ----------
+Spice Merchant - plays 3 Copper
+Spice Merchant - buys Silver
+Spice Merchant - gains Silver
+Spice Merchant - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Spice Merchant: turn 2 ----------
+Spice Merchant - plays 4 Copper
+Spice Merchant - buys Moneylender
+Spice Merchant - gains Moneylender
+Spice Merchant - shuffles deck
+Spice Merchant - draws Copper, Moneylender, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Spice Merchant: turn 3 ----------
+Spice Merchant - plays Moneylender
+Spice Merchant - trashes Copper
+Spice Merchant - plays 1 Copper
+Spice Merchant - buys Baron
+Spice Merchant - gains Baron
+Spice Merchant - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Spice Merchant: turn 4 ----------
+Spice Merchant - plays 3 Copper, 1 Silver
+Spice Merchant - buys Ghost Ship
+Spice Merchant - gains Ghost Ship
+Spice Merchant - draws Copper, Copper
+Spice Merchant - shuffles deck
+Spice Merchant - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Moneylender, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- Spice Merchant: turn 5 ----------
+Spice Merchant - plays 4 Copper
+Spice Merchant - buys Watchtower
+Spice Merchant - gains Watchtower
+Spice Merchant - draws Moneylender, Estate, Silver, Copper, Baron
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Ghost Ship, Copper, Watchtower
+ 
+---------- Spice Merchant: turn 6 ----------
+Spice Merchant - plays Moneylender
+Spice Merchant - trashes Copper
+Spice Merchant - plays 1 Silver
+Spice Merchant - buys City
+Spice Merchant - gains City
+Spice Merchant - draws Estate, Copper, Ghost Ship
+Spice Merchant - shuffles deck
+Spice Merchant - draws Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Copper
+Spice Merchant - places Estate on top of deck
+Spice Merchant - places Copper on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - applied Watchtower to place Watchtower on top of the deck
+Titandrake - draws Watchtower, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- Spice Merchant: turn 7 ----------
+Spice Merchant - plays Ghost Ship
+Spice Merchant - draws Copper, Estate
+Titandrake - places Estate on top of deck
+Titandrake - places Copper on top of deck
+Spice Merchant - plays 2 Copper, 1 Silver
+Spice Merchant - buys Baron
+Spice Merchant - gains Baron
+Spice Merchant - draws Baron, City, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Estate, Estate, Watchtower
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - applied Watchtower to place Silver on top of the deck
+Titandrake - draws Silver, Moneylender, Copper, Silver, Copper
+ 
+---------- Spice Merchant: turn 8 ----------
+Spice Merchant - plays City
+Spice Merchant - draws Watchtower
+Spice Merchant - plays Baron
+Spice Merchant - discards Estate
+Spice Merchant - plays Watchtower
+Spice Merchant - draws Moneylender, Copper, Copper
+Spice Merchant - shuffles deck
+Spice Merchant - draws Ghost Ship
+Spice Merchant - plays 3 Copper
+Spice Merchant - buys City
+Spice Merchant - gains City
+Spice Merchant - draws Copper, Estate, Silver, Estate, Baron
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Copper, Ghost Ship, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Moneylender
+ 
+---------- Spice Merchant: turn 9 ----------
+Spice Merchant - plays Baron
+Spice Merchant - discards Estate
+Spice Merchant - plays 1 Copper, 1 Silver
+Spice Merchant - buys City
+Spice Merchant - gains City
+Spice Merchant - draws Copper
+Spice Merchant - shuffles deck
+Spice Merchant - draws Copper, Ghost Ship, Copper, Watchtower
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Silver, Silver
+Spice Merchant - places Ghost Ship on top of deck
+Spice Merchant - places Copper on top of deck
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Copper, Ghost Ship, Estate, Watchtower, Watchtower
+ 
+---------- Spice Merchant: turn 10 ----------
+Spice Merchant - plays Watchtower
+Spice Merchant - draws Copper, Ghost Ship, Copper, Estate
+Spice Merchant - plays 4 Copper
+Spice Merchant - draws Silver, Estate, City, City, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Copper
+Spice Merchant - places Estate on top of deck
+Spice Merchant - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - applied Watchtower to place Silver on top of the deck
+Titandrake - draws Silver, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws City, Estate
+ 
+---------- Spice Merchant: turn 11 ----------
+Spice Merchant - plays City
+Spice Merchant - draws Copper
+Spice Merchant - plays City
+Spice Merchant - draws Estate
+Spice Merchant - plays 1 Silver, 1 Copper
+Spice Merchant - buys Silver
+Spice Merchant - gains Silver
+Spice Merchant - draws City, Estate, Baron, Moneylender, Baron
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays City
+Titandrake - draws Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Silver, Copper, Estate, Silver, Watchtower
+ 
+---------- Spice Merchant: turn 12 ----------
+Spice Merchant - plays City
+Spice Merchant - shuffles deck
+Spice Merchant - draws City
+Spice Merchant - plays City
+Spice Merchant - draws Estate
+Spice Merchant - plays Baron
+Spice Merchant - discards Estate
+Spice Merchant - plays Baron
+Spice Merchant - discards Estate
+Spice Merchant - plays Moneylender
+Spice Merchant - buys City
+Spice Merchant - gains City
+Spice Merchant - buys Watchtower
+Spice Merchant - gains Watchtower
+Spice Merchant - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - applied Watchtower to place City on top of the deck
+Titandrake - draws City, Copper, Ghost Ship, Copper, Moneylender
+ 
+---------- Spice Merchant: turn 13 ----------
+Spice Merchant - plays 3 Copper, 1 Silver
+Spice Merchant - buys City
+Spice Merchant - gains City
+Spice Merchant - draws City, Watchtower, Copper, Ghost Ship, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays City
+Titandrake - draws Copper
+Titandrake - plays Ghost Ship
+Titandrake - draws Watchtower, Ghost Ship
+Spice Merchant - places Copper on top of deck
+Spice Merchant - places Silver on top of deck
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - applied Watchtower to place City on top of the deck
+Titandrake - draws City
+Titandrake - shuffles deck
+Titandrake - draws Moneylender, Silver, Copper, Copper
+ 
+---------- Spice Merchant: turn 14 ----------
+Spice Merchant - plays City
+Spice Merchant - draws Silver
+Spice Merchant - plays Ghost Ship
+Spice Merchant - draws Copper, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+Spice Merchant - plays Watchtower
+Spice Merchant - shuffles deck
+Spice Merchant - draws Estate, Baron, Baron
+Spice Merchant - plays 2 Copper, 1 Silver
+Spice Merchant - buys Silver
+Spice Merchant - gains Silver
+Spice Merchant - draws Copper, Watchtower, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays City
+Titandrake - draws Copper
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Baron
+Titandrake - gains Baron
+Titandrake - draws Copper, City, Silver, Estate, Silver
+ 
+---------- Spice Merchant: turn 15 ----------
+Spice Merchant - plays Watchtower
+Spice Merchant - draws Moneylender, City
+Spice Merchant - plays 3 Copper
+Spice Merchant - buys Silver
+Spice Merchant - gains Silver
+Spice Merchant - draws City, City, Silver, Estate, City
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays City
+Titandrake - draws Silver
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Ghost Ship, City, Copper, City, Ghost Ship
+ 
+---------- Spice Merchant: turn 16 ----------
+Spice Merchant - plays City
+Spice Merchant - shuffles deck
+Spice Merchant - draws Estate, Moneylender
+Spice Merchant - plays City
+Spice Merchant - draws Watchtower, City
+Spice Merchant - plays City
+Spice Merchant - draws Baron, City
+Spice Merchant - plays City
+Spice Merchant - draws Ghost Ship, Silver
+Spice Merchant - plays City
+Spice Merchant - draws Baron, Copper
+Spice Merchant - plays Ghost Ship
+Spice Merchant - draws Copper, Silver
+Titandrake - places Ghost Ship on top of deck
+Titandrake - places Copper on top of deck
+Spice Merchant - plays Baron
+Spice Merchant - discards Estate
+Spice Merchant - plays Baron
+Spice Merchant - discards Estate
+Spice Merchant - plays Moneylender
+Spice Merchant - trashes Copper
+Spice Merchant - plays Watchtower
+Spice Merchant - draws Copper, Watchtower
+Spice Merchant - plays Watchtower
+Spice Merchant - draws Silver
+Spice Merchant - plays 4 Silver, 2 Copper
+Spice Merchant - buys Province
+Spice Merchant - gains Province
+Spice Merchant - buys Province
+Spice Merchant - gains Province
+Spice Merchant - buys Butcher
+Spice Merchant - gains Butcher
+Spice Merchant - draws Copper, Estate, Copper
+Spice Merchant - shuffles deck
+Spice Merchant - draws Ghost Ship, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays City
+Titandrake - draws Copper, Ghost Ship
+Titandrake - plays City
+Titandrake - draws Watchtower, Watchtower
+Titandrake - plays Watchtower
+Titandrake - draws Estate, Copper
+Titandrake - plays Ghost Ship
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Baron
+Spice Merchant - places Estate on top of deck
+Spice Merchant - places Estate on top of deck
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - applied Watchtower to place Gold on top of the deck
+Titandrake - draws Gold, Estate, City, Silver, City
+ 
+---------- Spice Merchant: turn 17 ----------
+Spice Merchant - plays Ghost Ship
+Spice Merchant - draws Estate, Estate
+Titandrake - places Estate on top of deck
+Titandrake - places Silver on top of deck
+Spice Merchant - draws Silver, City, Baron, City, City
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays City
+Titandrake - draws Silver, Estate
+Titandrake - plays City
+Titandrake - draws Silver, Silver
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, City, Copper, Moneylender
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Spice Merchant: turn 18 ----------
+Spice Merchant - plays City
+Spice Merchant - draws Copper, Province
+Spice Merchant - plays City
+Spice Merchant - draws Silver, Estate
+Spice Merchant - plays City
+Spice Merchant - draws Butcher, Watchtower
+Spice Merchant - plays Baron
+Spice Merchant - discards Estate
+Spice Merchant - plays Butcher
+Spice Merchant - receives 2 coin tokens
+Spice Merchant - trashes Copper
+Spice Merchant - gains Copper
+Spice Merchant - plays Watchtower
+Spice Merchant - draws Watchtower, Province, Copper
+Spice Merchant - plays Watchtower
+Spice Merchant - draws Silver
+Spice Merchant - plays 3 Silver, 1 Copper
+Spice Merchant - buys Province
+Spice Merchant - gains Province
+Spice Merchant - draws Silver, Moneylender, Baron, City, City
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays City
+Titandrake - draws City, Estate
+Titandrake - plays City
+Titandrake - draws City, Silver
+Titandrake - plays City
+Titandrake - draws Ghost Ship, Province
+Titandrake - plays Ghost Ship
+Titandrake - draws City, City
+Spice Merchant - places Moneylender on top of deck
+Spice Merchant - places Baron on top of deck
+Titandrake - plays City
+Titandrake - draws Ghost Ship, Copper
+Titandrake - plays City
+Titandrake - draws Copper, Estate
+Titandrake - plays Ghost Ship
+Titandrake - draws Gold, Silver
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 4 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Watchtower, Estate, Watchtower, Baron
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Spice Merchant: turn 19 ----------
+Spice Merchant - plays City
+Spice Merchant - draws Baron, Moneylender
+Spice Merchant - plays City
+Spice Merchant - shuffles deck
+Spice Merchant - draws Silver, Copper
+Spice Merchant - plays Moneylender
+Spice Merchant - trashes Copper
+Spice Merchant - plays Baron
+Spice Merchant - gains Estate
+Spice Merchant - plays 2 Silver
+Spice Merchant - uses 1 coin token
+Spice Merchant - buys Province
+Spice Merchant - gains Province
+Spice Merchant - draws Estate, Copper, Province, City, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Estate, Ghost Ship, Silver, City
+ 
+---------- Spice Merchant: turn 20 ----------
+Spice Merchant - plays City
+Spice Merchant - draws Silver, Copper
+Spice Merchant - plays 2 Copper, 1 Silver
+Spice Merchant - buys Estate
+Spice Merchant - gains Estate
+Spice Merchant - draws City, Watchtower, Butcher, Watchtower, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays City
+Titandrake - draws Silver, Silver
+Titandrake - plays Ghost Ship
+Titandrake - draws Estate, Province
+Spice Merchant - places Watchtower on top of deck
+Spice Merchant - places Copper on top of deck
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Province, City, Ghost Ship, Copper
+ 
+---------- Spice Merchant: turn 21 ----------
+Spice Merchant - plays City
+Spice Merchant - draws Copper, Watchtower
+Spice Merchant - plays Watchtower
+Spice Merchant - draws Province, Estate, Baron
+Spice Merchant - plays Butcher
+Spice Merchant - receives 2 coin tokens
+Spice Merchant - trashes Baron
+Spice Merchant - uses 1 coin token
+Spice Merchant - gains Duchy
+Spice Merchant - draws Estate, Silver, City, Ghost Ship
+Spice Merchant - shuffles deck
+Spice Merchant - draws City
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays City
+Titandrake - draws City, City
+Titandrake - plays City
+Titandrake - draws City, Moneylender
+Titandrake - plays City
+Titandrake - shuffles deck
+Titandrake - draws Copper, Watchtower
+Titandrake - plays City
+Titandrake - draws Baron, Estate
+Titandrake - plays Ghost Ship
+Titandrake - draws Watchtower, Silver
+Spice Merchant - places Estate on top of deck
+Spice Merchant - places Silver on top of deck
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Province, City, Province, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 City, 2 Ghost Ship, 2 Watchtower, 1 Moneylender, 1 Baron, 4 Silver, 1 Gold, 1 Copper, 4 Province, 3 Estate, 2 Duchy
+Titandrake - total victory points: 33
+Titandrake - turns: 21
+ 
+Spice Merchant - cards: 5 City, 2 Watchtower, 1 Ghost Ship, 1 Butcher, 1 Moneylender, 1 Baron, 4 Silver, 3 Copper, 5 Estate, 4 Province, 1 Duchy
+Spice Merchant - total victory points: 32
+Spice Merchant - turns: 21
+ 
+1st place: Titandrake
+2nd place: Spice Merchant
+ 

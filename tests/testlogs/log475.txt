@@ -1,0 +1,677 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Poor House, Pawn, Watchtower, Herald, Nomad Camp, Explorer, Ghost Ship, Library, Mint, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+quartersmostly - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+quartersmostly - shuffles deck
+Titandrake - shuffles deck
+quartersmostly - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- quartersmostly: turn 1 ----------
+quartersmostly - plays 4 Copper
+quartersmostly - buys Herald
+quartersmostly - gains Herald
+quartersmostly - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- quartersmostly: turn 2 ----------
+quartersmostly - plays 3 Copper
+quartersmostly - buys Pawn
+quartersmostly - gains Pawn
+quartersmostly - shuffles deck
+quartersmostly - draws Copper, Pawn, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Watchtower, Estate, Estate, Copper, Copper
+ 
+---------- quartersmostly: turn 3 ----------
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - draws Copper
+quartersmostly - plays 4 Copper
+quartersmostly - buys Ghost Ship
+quartersmostly - gains Ghost Ship
+quartersmostly - draws Estate, Copper, Estate, Copper, Herald
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Estate, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - shuffles deck
+Titandrake - draws Pawn, Copper, Copper, Copper, Ghost Ship
+ 
+---------- quartersmostly: turn 4 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Copper
+quartersmostly - shuffles deck
+quartersmostly - reveals: Copper
+quartersmostly - places Copper on top of deck
+quartersmostly - plays 3 Copper
+quartersmostly - buys Pawn
+quartersmostly - gains Pawn
+quartersmostly - draws Copper, Ghost Ship, Copper, Copper, Pawn
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Estate
+quartersmostly - places Copper on top of deck
+quartersmostly - places Copper on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Estate, Copper, Copper, Copper, Watchtower
+ 
+---------- quartersmostly: turn 5 ----------
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - takes 1 action
+quartersmostly - plays Ghost Ship
+quartersmostly - draws Copper, Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Copper on top of deck
+quartersmostly - plays 3 Copper
+quartersmostly - buys Herald
+quartersmostly - gains Herald
+quartersmostly - draws Copper, Estate
+quartersmostly - shuffles deck
+quartersmostly - draws Ghost Ship, Copper, Pawn
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Estate, Silver, Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 1 coin
+Titandrake - places Ghost Ship on top of deck
+Titandrake - gains Herald
+Titandrake - draws Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Herald, Estate, Pawn, Copper
+ 
+---------- quartersmostly: turn 6 ----------
+quartersmostly - plays Pawn
+quartersmostly - takes 1 action
+quartersmostly - takes 1 coin
+quartersmostly - plays Ghost Ship
+quartersmostly - draws Copper, Herald
+Titandrake - places Pawn on top of deck
+Titandrake - places Estate on top of deck
+quartersmostly - plays 3 Copper
+quartersmostly - buys Herald
+quartersmostly - gains Herald
+quartersmostly - draws Copper, Estate, Copper, Herald, Pawn
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Estate
+Titandrake - plays Ghost Ship
+Titandrake - draws Silver, Copper
+quartersmostly - places Pawn on top of deck
+quartersmostly - places Estate on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Estate, Herald, Copper, Watchtower, Copper
+ 
+---------- quartersmostly: turn 7 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Estate
+quartersmostly - reveals: Pawn
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - draws Estate
+quartersmostly - plays 2 Copper
+quartersmostly - buys Pawn
+quartersmostly - gains Pawn
+quartersmostly - draws Copper, Copper
+quartersmostly - shuffles deck
+quartersmostly - draws Pawn, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 1 coin
+Titandrake - places Herald on top of deck
+Titandrake - gains Herald
+Titandrake - draws Herald
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate
+ 
+---------- quartersmostly: turn 8 ----------
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - draws Estate
+quartersmostly - plays 3 Copper
+quartersmostly - buys Herald
+quartersmostly - gains Herald
+quartersmostly - draws Herald, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Copper, Copper, Silver, Watchtower, Herald
+ 
+---------- quartersmostly: turn 9 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Copper
+quartersmostly - reveals: Herald
+quartersmostly - plays Herald
+quartersmostly - draws Herald
+quartersmostly - reveals: Pawn
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - draws Ghost Ship
+quartersmostly - plays Herald
+quartersmostly - draws Pawn
+quartersmostly - shuffles deck
+quartersmostly - reveals: Estate
+quartersmostly - places Estate on top of deck
+quartersmostly - plays Ghost Ship
+quartersmostly - draws Estate, Copper
+Titandrake - places Watchtower on top of deck
+Titandrake - places Copper on top of deck
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - takes 1 buy
+quartersmostly - plays 5 Copper
+quartersmostly - buys Pawn
+quartersmostly - gains Pawn
+quartersmostly - buys Ghost Ship
+quartersmostly - gains Ghost Ship
+quartersmostly - draws Copper, Pawn, Copper, Estate, Herald
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Watchtower
+Titandrake - plays Watchtower
+Titandrake - draws Pawn, Copper, Herald
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Ghost Ship
+Titandrake - plays Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Estate, Watchtower
+quartersmostly - places Pawn on top of deck
+quartersmostly - places Estate on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - applied Watchtower to place Herald on top of the deck
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - applied Watchtower to place Pawn on top of the deck
+Titandrake - draws Pawn, Herald, Copper, Estate, Herald
+ 
+---------- quartersmostly: turn 10 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Estate
+quartersmostly - reveals: Pawn
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - shuffles deck
+quartersmostly - draws Pawn
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - draws Copper
+quartersmostly - plays 3 Copper
+quartersmostly - buys Potion
+quartersmostly - gains Potion
+quartersmostly - draws Pawn, Pawn, Estate, Herald, Herald
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - buys Poor House
+Titandrake - gains Poor House
+Titandrake - draws Copper, Watchtower, Copper, Ghost Ship, Copper
+ 
+---------- quartersmostly: turn 11 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Copper
+quartersmostly - reveals: Copper
+quartersmostly - places Copper on top of deck
+quartersmostly - plays Herald
+quartersmostly - draws Copper
+quartersmostly - reveals: Copper
+quartersmostly - places Copper on top of deck
+quartersmostly - plays Pawn
+quartersmostly - takes 1 action
+quartersmostly - draws Copper
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - draws Herald
+quartersmostly - plays 3 Copper
+quartersmostly - buys Nomad Camp
+quartersmostly - gains Nomad Camp
+quartersmostly - draws Nomad Camp, Copper, Estate, Ghost Ship, Ghost Ship
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Pawn, Herald
+quartersmostly - places Ghost Ship on top of deck
+quartersmostly - places Ghost Ship on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - applied Watchtower to place Pawn on top of the deck
+Titandrake - draws Pawn, Herald, Watchtower, Estate, Copper
+ 
+---------- quartersmostly: turn 12 ----------
+quartersmostly - plays Nomad Camp
+quartersmostly - plays 1 Copper
+quartersmostly - buys Estate
+quartersmostly - gains Estate
+quartersmostly - draws Ghost Ship, Ghost Ship
+quartersmostly - shuffles deck
+quartersmostly - draws Estate, Pawn, Nomad Camp
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Herald
+Titandrake - shuffles deck
+Titandrake - draws Herald
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Estate, Watchtower
+Titandrake - plays 3 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - applied Watchtower to place Potion on top of the deck
+Titandrake - draws Potion, Copper, Poor House, Herald, Copper
+ 
+---------- quartersmostly: turn 13 ----------
+quartersmostly - plays Pawn
+quartersmostly - takes 1 action
+quartersmostly - draws Copper
+quartersmostly - plays Ghost Ship
+quartersmostly - draws Estate, Pawn
+Titandrake - places Poor House on top of deck
+Titandrake - places Copper on top of deck
+quartersmostly - plays 1 Copper
+quartersmostly - buys Poor House
+quartersmostly - gains Poor House
+quartersmostly - draws Copper, Pawn, Copper, Copper, Herald
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Poor House
+Titandrake - plays Poor House
+Titandrake - reveals hand: Potion, Copper, Copper
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Herald, Silver, Pawn, Ghost Ship, Herald
+ 
+---------- quartersmostly: turn 14 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Estate
+quartersmostly - reveals: Copper
+quartersmostly - places Copper on top of deck
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - draws Copper
+quartersmostly - plays 4 Copper
+quartersmostly - buys Duchy
+quartersmostly - gains Duchy
+quartersmostly - draws Pawn, Herald, Potion, Estate, Herald
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Herald
+Titandrake - draws Pawn
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Ghost Ship
+Titandrake - draws Estate, Herald
+quartersmostly - places Estate on top of deck
+quartersmostly - places Herald on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Estate, Pawn, Copper, Herald, Pawn
+ 
+---------- quartersmostly: turn 15 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Herald
+quartersmostly - reveals: Estate
+quartersmostly - places Estate on top of deck
+quartersmostly - plays Herald
+quartersmostly - draws Estate
+quartersmostly - reveals: Copper
+quartersmostly - places Copper on top of deck
+quartersmostly - plays Pawn
+quartersmostly - takes 1 buy
+quartersmostly - draws Copper
+quartersmostly - plays 1 Potion, 1 Copper
+quartersmostly - buys Poor House
+quartersmostly - gains Poor House
+quartersmostly - buys Vineyard
+quartersmostly - gains Vineyard
+quartersmostly - draws Herald, Copper
+quartersmostly - shuffles deck
+quartersmostly - draws Copper, Ghost Ship, Ghost Ship
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Poor House
+Titandrake - plays Poor House
+Titandrake - reveals hand: Estate, Pawn, Copper, Pawn, Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Herald
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - draws Herald
+Titandrake - plays Herald
+Titandrake - draws Potion
+Titandrake - reveals: Watchtower
+Titandrake - plays Watchtower
+Titandrake - plays Pawn
+Titandrake - takes 1 buy
+Titandrake - takes 1 coin
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Watchtower, Copper, Herald, Copper, Vineyard
+ 
+---------- quartersmostly: turn 16 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Herald
+quartersmostly - reveals: Poor House
+quartersmostly - plays Poor House
+quartersmostly - reveals hand: Copper, Copper, Ghost Ship, Ghost Ship, Herald
+quartersmostly - plays Herald
+quartersmostly - draws Estate
+quartersmostly - reveals: Herald
+quartersmostly - plays Herald
+quartersmostly - draws Pawn
+quartersmostly - reveals: Copper
+quartersmostly - places Copper on top of deck
+quartersmostly - plays Ghost Ship
+quartersmostly - draws Copper, Herald
+Titandrake - places Watchtower on top of deck
+Titandrake - places Vineyard on top of deck
+quartersmostly - plays Herald
+quartersmostly - draws Nomad Camp
+quartersmostly - reveals: Copper
+quartersmostly - places Copper on top of deck
+quartersmostly - plays Pawn
+quartersmostly - takes 1 coin
+quartersmostly - takes 1 buy
+quartersmostly - plays 3 Copper
+quartersmostly - buys Pawn
+quartersmostly - gains Pawn
+quartersmostly - buys Pawn
+quartersmostly - gains Pawn
+quartersmostly - draws Copper, Pawn, Estate, Potion, Poor House
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Herald
+Titandrake - draws Vineyard
+Titandrake - reveals: Watchtower
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Potion, Copper
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Silver, Ghost Ship, Estate, Herald, Herald
+ 
+---------- quartersmostly: turn 17 ----------
+quartersmostly - plays Pawn
+quartersmostly - takes 1 action
+quartersmostly - takes 1 buy
+quartersmostly - plays Poor House
+quartersmostly - reveals hand: Copper, Estate, Potion
+quartersmostly - plays 1 Copper, 1 Potion
+quartersmostly - buys Vineyard
+quartersmostly - gains Vineyard
+quartersmostly - buys Poor House
+quartersmostly - gains Poor House
+quartersmostly - draws Duchy, Pawn, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Vineyard
+Titandrake - places Vineyard on top of deck
+Titandrake - plays Herald
+Titandrake - draws Vineyard
+Titandrake - reveals: Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Ghost Ship
+Titandrake - draws Potion, Poor House
+quartersmostly - places Pawn on top of deck
+quartersmostly - places Duchy on top of deck
+Titandrake - plays Poor House
+Titandrake - reveals hand: Silver, Estate, Copper, Vineyard, Potion
+Titandrake - plays 1 Silver, 1 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Nomad Camp
+Titandrake - gains Nomad Camp
+Titandrake - draws Nomad Camp, Copper, Estate, Herald, Pawn
+ 
+---------- quartersmostly: turn 18 ----------
+quartersmostly - plays 1 Copper
+quartersmostly - buys Poor House
+quartersmostly - gains Poor House
+quartersmostly - draws Duchy, Pawn, Copper, Copper, Pawn
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Herald
+Titandrake - draws Vineyard
+Titandrake - reveals: Potion
+Titandrake - places Potion on top of deck
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Potion
+Titandrake - plays Nomad Camp
+Titandrake - plays 1 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Estate, Pawn, Pawn, Copper, Herald
+ 
+---------- quartersmostly: turn 19 ----------
+quartersmostly - plays Pawn
+quartersmostly - takes 1 action
+quartersmostly - draws Vineyard
+quartersmostly - plays Pawn
+quartersmostly - takes 1 buy
+quartersmostly - shuffles deck
+quartersmostly - draws Copper
+quartersmostly - plays 3 Copper
+quartersmostly - buys Poor House
+quartersmostly - gains Poor House
+quartersmostly - buys Estate
+quartersmostly - gains Estate
+quartersmostly - draws Pawn, Estate, Herald, Copper, Estate
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Herald
+Titandrake - draws Watchtower
+Titandrake - reveals: Watchtower
+Titandrake - plays Watchtower
+Titandrake - draws Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Vineyard, Herald, Herald, Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- quartersmostly: turn 20 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Poor House
+quartersmostly - reveals: Copper
+quartersmostly - places Copper on top of deck
+quartersmostly - plays Pawn
+quartersmostly - takes 1 action
+quartersmostly - takes 1 buy
+quartersmostly - plays Poor House
+quartersmostly - reveals hand: Estate, Copper, Estate
+quartersmostly - plays 1 Copper
+quartersmostly - buys Estate
+quartersmostly - gains Estate
+quartersmostly - buys Estate
+quartersmostly - gains Estate
+quartersmostly - draws Copper, Herald, Copper, Copper, Pawn
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Vineyard
+Titandrake - plays 4 Copper
+Titandrake - buys Nomad Camp
+Titandrake - gains Nomad Camp
+Titandrake - draws Nomad Camp, Nomad Camp, Copper, Watchtower, Herald
+ 
+---------- quartersmostly: turn 21 ----------
+quartersmostly - plays Herald
+quartersmostly - draws Poor House
+quartersmostly - reveals: Estate
+quartersmostly - places Estate on top of deck
+quartersmostly - plays Pawn
+quartersmostly - takes 1 action
+quartersmostly - takes 1 buy
+quartersmostly - plays Poor House
+quartersmostly - reveals hand: Copper, Copper, Copper
+quartersmostly - plays 3 Copper
+quartersmostly - buys Estate
+quartersmostly - gains Estate
+quartersmostly - buys Estate
+quartersmostly - gains Estate
+quartersmostly - draws Estate, Herald, Ghost Ship, Estate, Nomad Camp
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Herald
+Titandrake - draws Poor House
+Titandrake - reveals: Ghost Ship
+Titandrake - plays Ghost Ship
+Titandrake - draws Duchy, Potion
+quartersmostly - places Herald on top of deck
+quartersmostly - places Ghost Ship on top of deck
+Titandrake - plays Nomad Camp
+Titandrake - plays 1 Copper, 1 Potion
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Copper, Watchtower, Herald, Potion, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Herald, 5 Watchtower, 4 Pawn, 2 Nomad Camp, 1 Ghost Ship, 1 Poor House, 7 Copper, 2 Potion, 1 Silver, 6 Vineyard, 3 Estate, 1 Duchy
+Titandrake - total victory points: 42
+Titandrake - turns: 22
+ 
+quartersmostly - cards: 6 Pawn, 5 Poor House, 4 Herald, 2 Ghost Ship, 1 Nomad Camp, 7 Copper, 1 Potion, 9 Estate, 2 Vineyard, 1 Duchy
+quartersmostly - total victory points: 24
+quartersmostly - turns: 21
+ 
+1st place: Titandrake
+2nd place: quartersmostly
+ 

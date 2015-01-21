@@ -1,0 +1,730 @@
+------------ Game Setup ------------
+Supply cards: Doctor, Swindler, Warehouse, Wishing Well, Cutpurse, Island, Tournament, Worker's Village, Hunting Party, Journeyman, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Tournament
+SM.SM - gains Tournament
+SM.SM - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Swindler
+SM.SM - gains Swindler
+SM.SM - shuffles deck
+SM.SM - draws Tournament, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Tournament
+SM.SM - draws Swindler
+SM.SM - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Silver
+SM.SM - plays 3 Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Estate, Copper, Tournament, Copper, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Doctor
+SM.SM - overpays for Doctor with 1 coin
+SM.SM - looks at Estate
+SM.SM - trashes Estate
+SM.SM - gains Doctor
+SM.SM - shuffles deck
+SM.SM - draws Copper, Gold, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - shuffles deck
+Titandrake - draws Estate, Tournament, Copper, Copper, Silver
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays 4 Copper, 1 Gold
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Tournament, Estate, Swindler, Copper, Doctor
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Swindler, Tournament, Estate, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Tournament
+SM.SM - draws Copper
+SM.SM - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+SM.SM - plays 2 Copper
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Copper, Estate
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Swindler
+SM.SM - reveals Copper
+SM.SM - trashes Copper
+SM.SM - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Gold
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Tournament
+SM.SM - gains Tournament
+SM.SM - draws Swindler, Copper, Doctor, Hunting Party, Hunting Party
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Gold
+SM.SM - reveals hand: Swindler, Copper, Doctor, Hunting Party, Gold
+SM.SM - reveals Estate
+SM.SM - places Estate in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Copper
+SM.SM - reveals hand: Swindler, Copper, Doctor, Gold, Estate, Copper
+SM.SM - reveals Tournament
+SM.SM - places Tournament in hand
+SM.SM - plays Tournament
+SM.SM - shuffles deck
+SM.SM - draws Copper
+SM.SM - plays Swindler
+Titandrake - reveals Swindler
+Titandrake - trashes Swindler
+Titandrake - gains Silver
+SM.SM - plays 3 Copper, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Copper, Copper, Tournament, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Curse, Tournament, Hunting Party, Copper, Tournament
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Tournament
+SM.SM - draws Curse
+SM.SM - plays 3 Copper
+SM.SM - buys Tournament
+SM.SM - gains Tournament
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Tournament, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Tournament
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Curse, Hunting Party, Copper, Estate, Silver
+Titandrake - reveals Copper, Copper, Estate, Estate, Hunting Party, Copper, Silver, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Copper, Copper, Estate, Estate, Hunting Party, Copper, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Curse, Copper, Estate, Silver, Gold, Copper
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Estate, Estate, Copper, Copper, Silver, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Estate, Estate, Copper, Copper, Silver, Copper
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals hand: Curse, Copper, Estate, Silver, Gold, Copper, Copper
+Titandrake - reveals Copper, Estate, Copper, Estate, Silver, Copper
+Titandrake - discards: Copper, Estate, Copper, Estate, Silver, Copper
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Copper, Province, Silver, Copper
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Tournament
+Titandrake - reveals Province
+SM.SM - plays 4 Copper
+SM.SM - buys Tournament
+SM.SM - gains Tournament
+SM.SM - draws Swindler, Estate, Province, Copper, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Curse
+Titandrake - reveals hand: Copper, Silver, Copper, Province, Curse
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Silver, Copper, Province, Curse, Copper
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Estate, Estate, Silver, Tournament, Tournament
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Swindler
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+SM.SM - plays 1 Copper, 1 Gold
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Copper, Estate, Hunting Party, Doctor, Hunting Party
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Tournament
+Titandrake - draws Gold
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Hunting Party, Copper
+Titandrake - shuffles deck
+Titandrake - draws Province, Estate, Hunting Party
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Tournament
+SM.SM - reveals hand: Copper, Estate, Hunting Party, Doctor, Tournament
+SM.SM - reveals Curse
+SM.SM - places Curse in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Tournament
+SM.SM - reveals hand: Copper, Estate, Doctor, Tournament, Curse, Tournament
+SM.SM - shuffles deck
+SM.SM - reveals Copper, Copper, Province
+SM.SM - places Province in hand
+SM.SM - discards: Copper, Copper
+SM.SM - plays Tournament
+SM.SM - reveals Province
+Titandrake - reveals Province
+SM.SM - discards Province
+SM.SM - gains Trusty Steed
+SM.SM - draws Trusty Steed, Estate, Tournament, Hunting Party, Swindler
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Hunting Party, Copper, Estate, Province, Estate
+Titandrake - reveals Tournament
+Titandrake - places Tournament in hand
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Followers
+Titandrake - draws Followers
+Titandrake - plays Hunting Party
+Titandrake - draws Curse
+Titandrake - reveals hand: Copper, Estate, Estate, Followers, Curse
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Followers
+Titandrake - draws Silver, Copper
+Titandrake - gains Estate
+SM.SM - gains Curse
+SM.SM - discards Estate
+SM.SM - discards Swindler
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Curse, Gold, Copper, Silver
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Trusty Steed
+SM.SM - takes 2 actions
+SM.SM - draws Copper, Gold
+SM.SM - plays Hunting Party
+SM.SM - draws Copper
+SM.SM - reveals hand: Tournament, Copper, Gold, Copper
+SM.SM - shuffles deck
+SM.SM - reveals Tournament, Copper, Copper, Curse
+SM.SM - places Curse in hand
+SM.SM - discards: Tournament, Copper, Copper
+SM.SM - plays Tournament
+SM.SM - draws Estate
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Hunting Party
+SM.SM - gains Hunting Party
+SM.SM - draws Doctor, Curse, Copper, Copper, Tournament
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Hunting Party, Tournament, Estate, Hunting Party, Copper
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Tournament
+SM.SM - draws Estate
+SM.SM - plays Doctor
+SM.SM - names Copper
+SM.SM - reveals: Hunting Party, Hunting Party, Swindler
+SM.SM - places Swindler on top of deck
+SM.SM - places Hunting Party on top of deck
+SM.SM - places Hunting Party on top of deck
+SM.SM - plays 2 Copper
+SM.SM - buys Warehouse
+SM.SM - gains Warehouse
+SM.SM - draws Hunting Party, Hunting Party, Swindler, Province, Tournament
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Tournament, Estate, Hunting Party, Copper, Hunting Party
+Titandrake - reveals Hunting Party, Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Hunting Party, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Tournament
+Titandrake - reveals hand: Tournament, Estate, Copper, Hunting Party, Gold, Tournament
+Titandrake - reveals Curse
+Titandrake - places Curse in hand
+Titandrake - plays Tournament
+SM.SM - reveals Province
+Titandrake - plays Hunting Party
+Titandrake - draws Province
+Titandrake - reveals hand: Tournament, Estate, Copper, Gold, Curse, Province
+Titandrake - reveals Estate, Followers
+Titandrake - places Followers in hand
+Titandrake - discards Estate
+Titandrake - plays Tournament
+SM.SM - reveals Province
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Princess
+Titandrake - plays Followers
+Titandrake - draws Princess, Copper
+Titandrake - gains Estate
+SM.SM - gains Curse
+SM.SM - discards Tournament
+SM.SM - discards Province
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Silver, Silver, Hunting Party, Curse, Copper
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Hunting Party
+SM.SM - shuffles deck
+SM.SM - draws Doctor
+SM.SM - reveals hand: Hunting Party, Swindler, Doctor
+SM.SM - reveals Copper
+SM.SM - places Copper in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Curse
+SM.SM - reveals hand: Swindler, Doctor, Copper, Curse
+SM.SM - reveals Warehouse
+SM.SM - places Warehouse in hand
+SM.SM - plays Warehouse
+SM.SM - draws Copper, Copper, Copper
+SM.SM - discards Swindler
+SM.SM - discards Curse
+SM.SM - discards Copper
+SM.SM - plays Doctor
+SM.SM - names Copper
+SM.SM - reveals: Tournament, Gold, Estate
+SM.SM - places Tournament on top of deck
+SM.SM - places Gold on top of deck
+SM.SM - places Estate on top of deck
+SM.SM - plays 3 Copper
+SM.SM - buys Warehouse
+SM.SM - gains Warehouse
+SM.SM - draws Estate, Gold, Tournament, Trusty Steed, Curse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Silver, Curse, Copper, Copper
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Hunting Party, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Curse
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Trusty Steed
+SM.SM - takes 2 actions
+SM.SM - draws Tournament, Hunting Party
+SM.SM - plays Hunting Party
+SM.SM - draws Tournament
+SM.SM - reveals hand: Estate, Gold, Tournament, Curse, Tournament, Tournament
+SM.SM - reveals Copper
+SM.SM - places Copper in hand
+SM.SM - plays Tournament
+SM.SM - draws Estate
+SM.SM - plays Tournament
+SM.SM - draws Curse
+SM.SM - plays Tournament
+SM.SM - draws Hunting Party
+SM.SM - plays Hunting Party
+SM.SM - draws Province
+SM.SM - reveals hand: Estate, Gold, Curse, Copper, Estate, Curse, Province
+SM.SM - reveals Copper, Tournament
+SM.SM - places Tournament in hand
+SM.SM - discards Copper
+SM.SM - plays Tournament
+SM.SM - reveals Province
+SM.SM - discards Province
+SM.SM - gains Diadem
+SM.SM - draws Diadem
+SM.SM - plays 1 Gold, 1 Copper, 1 Diadem
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - shuffles deck
+SM.SM - draws Curse, Copper, Estate, Gold, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Estate, Estate, Estate, Curse, Hunting Party
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Tournament
+Titandrake - reveals hand: Estate, Estate, Estate, Curse, Copper, Tournament
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Followers
+Titandrake - reveals hand: Estate, Estate, Estate, Curse, Copper, Tournament, Followers
+Titandrake - reveals Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards Copper
+Titandrake - plays Tournament
+Titandrake - draws Princess
+Titandrake - plays Followers
+Titandrake - draws Copper, Copper
+Titandrake - gains Estate
+SM.SM - gains Curse
+SM.SM - discards Estate
+SM.SM - discards Curse
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Silver, Silver, Hunting Party, Worker's Village
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Journeyman
+SM.SM - gains Journeyman
+SM.SM - draws Hunting Party, Province, Trusty Steed, Copper, Hunting Party
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Tournament
+Titandrake - reveals hand: Gold, Silver, Silver, Worker's Village, Tournament
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays Worker's Village
+Titandrake - draws Curse
+Titandrake - plays Tournament
+SM.SM - reveals Province
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Hunting Party, Hunting Party, Estate, Province
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Hunting Party
+SM.SM - reveals hand: Hunting Party, Trusty Steed, Copper, Province, Hunting Party
+SM.SM - reveals Tournament
+SM.SM - places Tournament in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Diadem
+SM.SM - reveals hand: Hunting Party, Trusty Steed, Copper, Province, Tournament, Diadem
+SM.SM - reveals Doctor
+SM.SM - places Doctor in hand
+SM.SM - plays Trusty Steed
+SM.SM - takes 2 actions
+SM.SM - draws Copper, Tournament
+SM.SM - plays Doctor
+SM.SM - names Curse
+SM.SM - reveals: Tournament, Province, Warehouse
+SM.SM - places Tournament on top of deck
+SM.SM - places Province on top of deck
+SM.SM - places Warehouse on top of deck
+SM.SM - plays Hunting Party
+SM.SM - draws Warehouse
+SM.SM - reveals hand: Copper, Province, Tournament, Diadem, Copper, Tournament, Warehouse
+SM.SM - reveals Province, Tournament, Curse
+SM.SM - places Curse in hand
+SM.SM - discards: Province, Tournament
+SM.SM - plays Tournament
+SM.SM - reveals Province
+Titandrake - reveals Province
+SM.SM - discards Province
+SM.SM - gains Bag of Gold
+SM.SM - plays Warehouse
+SM.SM - draws Bag of Gold, Estate, Warehouse
+SM.SM - discards Curse
+SM.SM - discards Tournament
+SM.SM - discards Estate
+SM.SM - plays Bag of Gold
+SM.SM - gains Gold
+SM.SM - plays Warehouse
+SM.SM - draws Gold, Copper, Swindler
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - plays Swindler
+Titandrake - reveals Province
+Titandrake - trashes Province
+Titandrake - gains Province
+SM.SM - plays 1 Diadem, 1 Gold
+SM.SM - buys Island
+SM.SM - gains Island
+SM.SM - draws Tournament, Copper, Curse, Hunting Party
+SM.SM - shuffles deck
+SM.SM - draws Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Hunting Party, Estate, Province, Hunting Party
+Titandrake - reveals Copper, Hunting Party, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Copper, Hunting Party
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Copper, Estate, Province, Hunting Party, Silver, Estate
+Titandrake - reveals Curse
+Titandrake - places Curse in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Worker's Village
+Titandrake - reveals hand: Copper, Estate, Province, Silver, Estate, Curse, Worker's Village
+Titandrake - reveals Estate, Silver, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Estate, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Estate, Province, Silver, Estate, Curse, Worker's Village, Copper
+Titandrake - reveals Worker's Village, Province, Swindler
+Titandrake - places Swindler in hand
+Titandrake - discards: Worker's Village, Province
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays Swindler
+SM.SM - reveals Warehouse
+SM.SM - trashes Warehouse
+SM.SM - gains Doctor
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Hunting Party, Copper, Princess, Gold
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Tournament
+SM.SM - reveals hand: Tournament, Copper, Curse, Curse, Tournament
+SM.SM - reveals Bag of Gold
+SM.SM - places Bag of Gold in hand
+SM.SM - plays Tournament
+SM.SM - draws Doctor
+SM.SM - plays Tournament
+SM.SM - draws Tournament
+SM.SM - plays Tournament
+SM.SM - draws Island
+SM.SM - plays Doctor
+SM.SM - names Copper
+SM.SM - reveals: Province, Hunting Party, Tournament
+SM.SM - places Province on top of deck
+SM.SM - places Hunting Party on top of deck
+SM.SM - places Tournament on top of deck
+SM.SM - plays 1 Copper
+SM.SM - buys Worker's Village
+SM.SM - gains Worker's Village
+SM.SM - draws Tournament, Hunting Party, Province, Curse, Hunting Party
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Tournament
+Titandrake - reveals hand: Estate, Copper, Princess, Gold, Tournament
+Titandrake - reveals Gold, Followers
+Titandrake - places Followers in hand
+Titandrake - discards Gold
+Titandrake - plays Tournament
+SM.SM - reveals Province
+Titandrake - plays Followers
+Titandrake - draws Gold, Tournament
+Titandrake - gains Estate
+SM.SM - gains Curse
+SM.SM - discards Curse
+SM.SM - discards Province
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Estate
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - plays Hunting Party
+SM.SM - draws Diadem
+SM.SM - reveals hand: Tournament, Hunting Party, Diadem
+SM.SM - reveals Curse
+SM.SM - places Curse in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Copper
+SM.SM - reveals hand: Tournament, Diadem, Curse, Copper
+SM.SM - reveals Copper, Gold
+SM.SM - places Gold in hand
+SM.SM - discards Copper
+SM.SM - plays Tournament
+SM.SM - draws Swindler
+SM.SM - plays Swindler
+Titandrake - reveals Tournament
+Titandrake - trashes Tournament
+Titandrake - gains Cutpurse
+SM.SM - plays 1 Diadem, 1 Copper, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Copper, Copper, Estate, Estate, Trusty Steed
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - draws Estate, Swindler, Worker's Village, Tournament, Princess
+ 
+---------- SM.SM: turn 21 ----------
+SM.SM - plays Trusty Steed
+SM.SM - takes 2 actions
+SM.SM - draws Journeyman, Copper
+SM.SM - plays Journeyman
+SM.SM - names Curse
+SM.SM - reveals Hunting Party, Warehouse, Gold
+SM.SM - places cards in hand:  Hunting Party, Warehouse, Gold
+SM.SM - plays Hunting Party
+SM.SM - draws Province
+SM.SM - reveals hand: Copper, Copper, Estate, Estate, Copper, Warehouse, Gold, Province
+SM.SM - shuffles deck
+SM.SM - reveals Tournament
+SM.SM - places Tournament in hand
+SM.SM - plays Tournament
+SM.SM - reveals Province
+SM.SM - discards Province
+SM.SM - gains Duchy
+SM.SM - draws Duchy
+SM.SM - plays Warehouse
+SM.SM - draws Copper, Hunting Party, Curse
+SM.SM - discards Estate
+SM.SM - discards Estate
+SM.SM - discards Duchy
+SM.SM - plays Hunting Party
+SM.SM - draws Swindler
+SM.SM - reveals hand: Copper, Copper, Copper, Gold, Copper, Curse, Swindler
+SM.SM - reveals Hunting Party
+SM.SM - places Hunting Party in hand
+SM.SM - plays Hunting Party
+SM.SM - draws Province
+SM.SM - reveals hand: Copper, Copper, Copper, Gold, Copper, Curse, Swindler, Province
+SM.SM - reveals Tournament
+SM.SM - places Tournament in hand
+SM.SM - plays Tournament
+SM.SM - reveals Province
+SM.SM - discards Province
+SM.SM - gains Duchy
+SM.SM - draws Duchy
+SM.SM - plays Swindler
+Titandrake - reveals Curse
+Titandrake - trashes Curse
+Titandrake - gains Curse
+SM.SM - plays 4 Copper, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Island, Tournament, Curse, Curse, Diadem
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Gold
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays Swindler
+SM.SM - reveals Curse
+SM.SM - trashes Curse
+SM.SM - gains Curse
+Titandrake - plays Princess
+Titandrake - plays Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Hunting Party, Silver, Hunting Party, Copper, Hunting Party
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Hunting Party, 2 Worker's Village, 1 Cutpurse, 1 Tournament, 1 Swindler, 1 Princess, 1 Followers, 5 Copper, 3 Gold, 2 Silver, 9 Estate, 3 Province, 2 Duchy, 2 Curse
+Titandrake - total victory points: 31
+Titandrake - turns: 21
+ 
+SM.SM - cards: 4 Tournament, 4 Hunting Party, 2 Doctor, 1 Island, 1 Trusty Steed, 1 Journeyman, 1 Warehouse, 1 Swindler, 1 Worker's Village, 1 Bag of Gold, 6 Copper, 2 Gold, 1 Diadem, 4 Province, 2 Estate, 2 Duchy, 5 Curse
+SM.SM - total victory points: 29
+SM.SM - turns: 21
+ 
+1st place: Titandrake
+2nd place: SM.SM
+ 

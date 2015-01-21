@@ -1,0 +1,474 @@
+------------ Game Setup ------------
+Supply cards: Moat, Oracle, Trade Route, Familiar, Horse Traders, Plaza, Young Witch, Apprentice, Rogue, Stables, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Trade Route
+Rating system: pro
+Hoam - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Hoam - shuffles deck
+Titandrake - shuffles deck
+Hoam - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Hoam: turn 1 ----------
+Hoam - plays 4 Copper
+Hoam - buys Horse Traders
+Hoam - gains Horse Traders
+Hoam - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Moat
+Titandrake - gains Moat
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Hoam: turn 2 ----------
+Hoam - plays 3 Copper
+Hoam - buys Trade Route
+Hoam - gains Trade Route
+Hoam - shuffles deck
+Hoam - draws Horse Traders, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Copper, Young Witch, Copper, Estate
+ 
+---------- Hoam: turn 3 ----------
+Hoam - plays Horse Traders
+Hoam - discards Estate
+Hoam - discards Copper
+Hoam - plays 2 Copper
+Hoam - buys Apprentice
+Hoam - gains Apprentice
+Hoam - draws Copper, Copper, Trade Route, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Moat, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Hoam - reveals bane Trade Route
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Silver, Young Witch
+ 
+---------- Hoam: turn 4 ----------
+Hoam - plays Trade Route
+Hoam - trashes Estate
+Hoam - plays 2 Copper
+Hoam - buys Moat
+Hoam - gains Moat
+Hoam - draws Copper, Copper
+Hoam - shuffles deck
+Hoam - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Hoam - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Copper, Estate, Copper, Plaza
+ 
+---------- Hoam: turn 5 ----------
+Hoam - plays 4 Copper
+Hoam - buys Potion
+Hoam - gains Potion
+Hoam - draws Moat, Estate, Horse Traders, Apprentice, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Moat
+Titandrake - shuffles deck
+Titandrake - draws Young Witch, Silver, Copper, Copper
+ 
+---------- Hoam: turn 6 ----------
+Hoam - plays Apprentice
+Hoam - trashes Estate
+Hoam - draws Copper, Copper
+Hoam - plays Horse Traders
+Hoam - discards Moat
+Hoam - discards Copper
+Hoam - plays 2 Copper
+Hoam - buys Rogue
+Hoam - gains Rogue
+Hoam - draws Trade Route
+Hoam - shuffles deck
+Hoam - draws Moat, Estate, Copper, Potion
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Young Witch
+Hoam - reveals reaction Moat
+Titandrake - draws Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Moat
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Hoam: turn 7 ----------
+Hoam - plays Moat
+Hoam - draws Copper, Curse
+Hoam - plays 2 Copper, 1 Potion
+Hoam - buys Moat
+Hoam - gains Moat
+Hoam - draws Copper, Copper, Apprentice, Horse Traders, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Apprentice, Plaza, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Hoam: turn 8 ----------
+Hoam - plays Apprentice
+Hoam - trashes Horse Traders
+Hoam - draws Copper, Rogue, Copper
+Hoam - shuffles deck
+Hoam - draws Copper
+Hoam - plays Rogue
+Hoam - gains Horse Traders
+Hoam - plays 6 Copper
+Hoam - buys Gold
+Hoam - gains Gold
+Hoam - draws Estate, Moat, Curse, Moat, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Young Witch
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Young Witch
+Hoam - reveals reaction Moat
+Titandrake - draws Silver, Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Estate, Gold, Copper, Moat
+ 
+---------- Hoam: turn 9 ----------
+Hoam - plays Moat
+Hoam - draws Potion, Trade Route
+Hoam - shuffles deck
+Hoam - draws Rogue, Gold, Copper, Copper, Moat
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Moat
+Titandrake - draws Copper, Apprentice
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Stables, Apprentice
+ 
+---------- Hoam: turn 10 ----------
+Hoam - plays Rogue
+Titandrake - reveals: Young Witch, Silver
+Titandrake - trashes Silver
+Titandrake - discards Young Witch
+Hoam - plays 2 Copper, 1 Gold
+Hoam - buys Apprentice
+Hoam - gains Apprentice
+Hoam - draws Potion, Moat, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Plaza, Estate, Gold
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Moat, Gold
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Moat
+Titandrake - draws Copper, Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Moat
+ 
+---------- Hoam: turn 11 ----------
+Hoam - plays Moat
+Hoam - draws Horse Traders, Copper
+Hoam - plays 3 Copper, 1 Potion
+Hoam - buys Familiar
+Hoam - gains Familiar
+Hoam - draws Estate, Copper, Apprentice, Copper, Trade Route
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Moat
+Titandrake - draws Copper, Young Witch
+Titandrake - plays 5 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Copper, Apprentice, Gold, Plaza, Silver
+ 
+---------- Hoam: turn 12 ----------
+Hoam - plays Apprentice
+Hoam - trashes Estate
+Hoam - shuffles deck
+Hoam - draws Copper, Curse
+Hoam - plays Trade Route
+Hoam - trashes Curse
+Hoam - plays 3 Copper
+Hoam - buys Plaza
+Hoam - gains Plaza
+Hoam - draws Copper, Familiar, Horse Traders, Gold, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Plaza
+Titandrake - draws Stables
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Province, Apprentice, Gold
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Moat, Province, Province
+ 
+---------- Hoam: turn 13 ----------
+Hoam - plays Familiar
+Titandrake - reveals reaction Moat
+Hoam - draws Apprentice
+Hoam - plays Horse Traders
+Hoam - discards Copper
+Hoam - discards Copper
+Hoam - plays 1 Gold
+Hoam - buys Stables
+Hoam - gains Stables
+Hoam - draws Copper, Potion, Rogue, Moat, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Moat
+Titandrake - draws Copper, Stables
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Copper, Apprentice, Apprentice, Horse Traders, Copper
+ 
+---------- Hoam: turn 14 ----------
+Hoam - plays Rogue
+Titandrake - reveals reaction Horse Traders
+Hoam - gains Silver
+Hoam - plays 2 Copper, 1 Potion
+Hoam - buys Familiar
+Hoam - gains Familiar
+Hoam - draws Moat
+Hoam - shuffles deck
+Hoam - draws Horse Traders, Copper, Apprentice, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Horse Traders
+Titandrake - draws Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Young Witch, Gold, Copper, Silver
+ 
+---------- Hoam: turn 15 ----------
+Hoam - plays Apprentice
+Hoam - trashes Moat
+Hoam - draws Familiar, Copper
+Hoam - plays Familiar
+Hoam - draws Potion
+Titandrake - gains Curse
+Hoam - plays Horse Traders
+Hoam - discards Potion
+Hoam - discards Copper
+Hoam - plays 1 Copper, 1 Silver
+Hoam - buys Gold
+Hoam - gains Gold
+Hoam - draws Trade Route, Copper, Familiar, Moat, Apprentice
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Young Witch
+Hoam - reveals reaction Moat
+Titandrake - draws Plaza
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Plaza
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Moat, Apprentice, Province, Stables, Province
+ 
+---------- Hoam: turn 16 ----------
+Hoam - plays Familiar
+Titandrake - reveals reaction Moat
+Hoam - draws Copper
+Hoam - plays Apprentice
+Hoam - trashes Moat
+Hoam - draws Plaza, Gold
+Hoam - plays Plaza
+Hoam - draws Copper
+Hoam - discards Copper
+Hoam - receives 1 coin token
+Hoam - plays Trade Route
+Hoam - trashes Copper
+Hoam - plays 1 Copper, 1 Gold
+Hoam - buys Stables
+Hoam - gains Stables
+Hoam - draws Stables, Copper, Copper, Rogue
+Hoam - shuffles deck
+Hoam - draws Familiar
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Stables
+Titandrake - draws Horse Traders, Copper, Apprentice, Copper, Stables
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Curse, Silver, Gold
+Titandrake - plays Apprentice
+Titandrake - trashes Curse
+Titandrake - plays Horse Traders
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Moat, Copper, Silver
+ 
+---------- Hoam: turn 17 ----------
+Hoam - plays Familiar
+Titandrake - reveals reaction Moat
+Hoam - draws Stables
+Hoam - plays Stables
+Hoam - discards Copper
+Hoam - draws Copper, Apprentice, Gold
+Hoam - plays Stables
+Hoam - discards Copper
+Hoam - draws Apprentice, Trade Route, Copper
+Hoam - plays Apprentice
+Hoam - trashes Trade Route
+Hoam - draws Familiar, Potion, Copper
+Hoam - plays Familiar
+Titandrake - reveals reaction Moat
+Hoam - draws Silver
+Hoam - plays Apprentice
+Hoam - trashes Potion
+Hoam - draws Gold, Plaza, Horse Traders, Copper
+Hoam - plays Plaza
+Hoam - shuffles deck
+Hoam - draws Copper
+Hoam - discards Copper
+Hoam - receives 1 coin token
+Hoam - plays Horse Traders
+Hoam - discards Copper
+Hoam - discards Copper
+Hoam - plays Rogue
+Titandrake - reveals reaction Moat
+Hoam - gains Stables
+Hoam - plays 2 Copper, 2 Gold, 1 Silver
+Hoam - uses 1 coin token
+Hoam - buys Province
+Hoam - gains Province
+Hoam - buys Province
+Hoam - gains Province
+Hoam - draws Copper
+Hoam - shuffles deck
+Hoam - draws Copper, Copper, Stables, Familiar
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Copper, Stables, Copper, Province
+ 
+---------- Hoam: turn 18 ----------
+Hoam - plays Familiar
+Hoam - draws Copper
+Titandrake - gains Curse
+Hoam - plays Stables
+Hoam - discards Copper
+Hoam - draws Province, Copper, Plaza
+Hoam - plays Plaza
+Hoam - draws Familiar
+Hoam - discards Copper
+Hoam - receives 1 coin token
+Hoam - plays Familiar
+Hoam - draws Gold
+Titandrake - gains Curse
+Hoam - plays 3 Copper, 1 Gold
+Hoam - buys Duchy
+Hoam - gains Duchy
+Hoam - draws Stables, Apprentice, Gold, Rogue, Apprentice
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Apprentice, Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Province
+Titandrake - draws Province, Horse Traders, Gold, Plaza, Young Witch, Province, Apprentice
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays Horse Traders
+Titandrake - discards Apprentice
+Titandrake - discards Young Witch
+Titandrake - plays 3 Copper, 2 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Silver, Province, Copper, Moat
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Apprentice, 1 Moat, 1 Young Witch, 1 Stables, 1 Horse Traders, 1 Plaza, 5 Copper, 2 Silver, 2 Gold, 5 Province, 1 Duchy, 2 Curse
+Titandrake - total victory points: 31
+Titandrake - turns: 19
+ 
+Hoam - cards: 3 Stables, 2 Apprentice, 2 Familiar, 1 Rogue, 1 Plaza, 1 Horse Traders, 6 Copper, 2 Gold, 1 Silver, 2 Province, 1 Duchy
+Hoam - total victory points: 15
+Hoam - turns: 18
+ 
+1st place: Titandrake
+2nd place: Hoam
+ 

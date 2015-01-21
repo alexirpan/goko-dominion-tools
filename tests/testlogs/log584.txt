@@ -1,0 +1,603 @@
+------------ Game Setup ------------
+Supply cards: Familiar, Bureaucrat, Feast, Spy, Counterfeit, Haggler, Market, Minion, Upgrade, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Slyfox - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Slyfox - shuffles deck
+Titandrake - shuffles deck
+Slyfox - draws Copper, Necropolis, Overgrown Estate, Copper, Copper
+Titandrake - draws Necropolis, Copper, Hovel, Copper, Overgrown Estate
+ 
+---------- Slyfox: turn 1 ----------
+Slyfox - plays 3 Copper
+Slyfox - buys Silver
+Slyfox - gains Silver
+Slyfox - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - trashes Hovel
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Slyfox: turn 2 ----------
+Slyfox - plays 4 Copper
+Slyfox - buys Potion
+Slyfox - gains Potion
+Slyfox - shuffles deck
+Slyfox - draws Silver, Copper, Copper, Potion, Necropolis
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Upgrade, Copper
+ 
+---------- Slyfox: turn 3 ----------
+Slyfox - plays 2 Copper, 1 Silver, 1 Potion
+Slyfox - buys Familiar
+Slyfox - gains Familiar
+Slyfox - draws Copper, Copper, Overgrown Estate, Hovel, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Estate
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Copper, Copper, Necropolis, Overgrown Estate
+ 
+---------- Slyfox: turn 4 ----------
+Slyfox - plays 3 Copper
+Slyfox - buys Silver
+Slyfox - gains Silver
+Slyfox - draws Copper, Copper
+Slyfox - shuffles deck
+Slyfox - draws Overgrown Estate, Copper, Familiar
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Slyfox: turn 5 ----------
+Slyfox - plays Familiar
+Slyfox - draws Silver
+Titandrake - gains Curse
+Slyfox - plays 3 Copper, 1 Silver
+Slyfox - buys Upgrade
+Slyfox - gains Upgrade
+Slyfox - draws Hovel, Copper, Copper, Copper, Potion
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Necropolis, Copper, Copper, Upgrade, Potion
+ 
+---------- Slyfox: turn 6 ----------
+Slyfox - plays 3 Copper, 1 Potion
+Slyfox - buys Familiar
+Slyfox - gains Familiar
+Slyfox - draws Copper, Necropolis, Silver
+Slyfox - shuffles deck
+Slyfox - draws Familiar, Hovel
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Necropolis
+Titandrake - gains Estate
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Overgrown Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Potion, Copper
+ 
+---------- Slyfox: turn 7 ----------
+Slyfox - plays Familiar
+Slyfox - draws Copper
+Titandrake - gains Curse
+Slyfox - plays 2 Copper, 1 Silver
+Slyfox - buys Silver
+Slyfox - gains Silver
+Slyfox - draws Overgrown Estate, Silver, Copper, Upgrade, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Copper, Curse, Copper, Familiar, Estate
+ 
+---------- Slyfox: turn 8 ----------
+Slyfox - plays Upgrade
+Slyfox - draws Copper
+Slyfox - trashes Overgrown Estate
+Slyfox - draws Copper
+Slyfox - gains Estate
+Slyfox - plays 4 Copper, 1 Silver
+Slyfox - buys Upgrade
+Slyfox - gains Upgrade
+Slyfox - draws Familiar, Potion, Copper
+Slyfox - shuffles deck
+Slyfox - draws Silver, Hovel
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Familiar
+Titandrake - draws Silver
+Slyfox - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - draws Copper, Upgrade, Copper, Upgrade, Copper
+ 
+---------- Slyfox: turn 9 ----------
+Slyfox - plays Familiar
+Slyfox - draws Familiar
+Titandrake - gains Curse
+Slyfox - plays Familiar
+Slyfox - draws Silver
+Titandrake - gains Curse
+Slyfox - plays 2 Silver, 1 Potion, 1 Copper
+Slyfox - buys Minion
+Slyfox - gains Minion
+Slyfox - draws Silver, Copper, Copper, Estate, Upgrade
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Curse
+Titandrake - trashes Curse
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Overgrown Estate, Potion, Estate
+ 
+---------- Slyfox: turn 10 ----------
+Slyfox - plays Upgrade
+Slyfox - draws Copper
+Slyfox - trashes Estate
+Slyfox - gains Silver
+Slyfox - plays 3 Copper, 1 Silver
+Slyfox - buys Minion
+Slyfox - gains Minion
+Slyfox - draws Copper, Necropolis, Copper, Upgrade, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Silver, 1 Potion
+Titandrake - buys Familiar
+Titandrake - gains Familiar
+Titandrake - draws Familiar, Familiar, Curse, Copper, Spy
+ 
+---------- Slyfox: turn 11 ----------
+Slyfox - plays Upgrade
+Slyfox - shuffles deck
+Slyfox - draws Silver
+Slyfox - trashes Necropolis
+Slyfox - gains Estate
+Slyfox - plays 3 Copper, 1 Silver
+Slyfox - buys Minion
+Slyfox - gains Minion
+Slyfox - draws Hovel, Minion, Silver, Minion, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Spy
+Titandrake - draws Copper
+Titandrake - discards Curse
+Slyfox - places Copper on top of deck
+Titandrake - plays Familiar
+Titandrake - draws Curse
+Slyfox - gains Curse
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Slyfox - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Curse, Familiar, Estate
+ 
+---------- Slyfox: turn 12 ----------
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - plays Minion
+Slyfox - discards: Hovel, Silver, Copper
+Slyfox - draws Copper, Curse, Potion, Silver
+Titandrake - discards: Copper, Copper, Curse, Familiar, Estate
+Titandrake - draws Copper, Potion, Upgrade, Overgrown Estate
+Slyfox - plays Silver
+Slyfox - plays Copper
+Slyfox - buys Minion
+Slyfox - gains Minion
+Slyfox - draws Familiar, Copper, Copper, Upgrade, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Potion
+Titandrake - gains Minion
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Spy, Upgrade, Copper, Familiar
+ 
+---------- Slyfox: turn 13 ----------
+Slyfox - plays Familiar
+Slyfox - draws Familiar
+Titandrake - gains Curse
+Slyfox - plays Familiar
+Slyfox - shuffles deck
+Slyfox - draws Curse
+Titandrake - gains Curse
+Slyfox - plays Upgrade
+Slyfox - draws Estate
+Slyfox - trashes Curse
+Slyfox - plays 2 Copper, 1 Silver
+Slyfox - buys Feast
+Slyfox - gains Feast
+Slyfox - draws Minion, Copper, Curse, Curse, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Spy
+Titandrake - draws Curse
+Titandrake - places Familiar on top of deck
+Slyfox - discards Minion
+Titandrake - plays Familiar
+Titandrake - draws Familiar
+Slyfox - gains Curse
+Titandrake - plays Familiar
+Titandrake - draws Silver
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Curse
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper, Silver, Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Minion
+ 
+---------- Slyfox: turn 14 ----------
+Slyfox - plays Minion
+Slyfox - discards: Copper, Curse, Curse, Silver
+Slyfox - draws Silver, Silver, Potion, Hovel
+Titandrake - discards: Copper, Silver, Curse, Copper, Minion
+Titandrake - draws Upgrade, Copper, Upgrade, Silver
+Slyfox - plays Silver
+Slyfox - plays Silver
+Slyfox - buys Spy
+Slyfox - gains Spy
+Slyfox - draws Upgrade, Copper, Copper, Copper, Minion
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Overgrown Estate
+Titandrake - trashes Copper
+Titandrake - plays Upgrade
+Titandrake - draws Familiar
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Silver
+Titandrake - gains Estate
+Titandrake - plays Familiar
+Titandrake - draws Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Familiar, Spy, Copper, Curse, Estate
+ 
+---------- Slyfox: turn 15 ----------
+Slyfox - plays Upgrade
+Slyfox - draws Copper
+Slyfox - trashes Copper
+Slyfox - plays Minion
+Slyfox - discards: Copper, Copper, Copper
+Slyfox - draws Minion
+Slyfox - shuffles deck
+Slyfox - draws Minion, Copper, Estate
+Titandrake - discards: Familiar, Spy, Copper, Curse, Estate
+Titandrake - draws Curse, Silver, Familiar, Copper
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - plays Minion
+Slyfox - discards: Copper, Estate
+Slyfox - draws Copper, Silver, Minion, Upgrade
+Slyfox - plays Upgrade
+Slyfox - draws Curse
+Slyfox - trashes Curse
+Slyfox - plays Minion
+Slyfox - discards: Copper, Silver
+Slyfox - draws Copper, Hovel, Spy, Copper
+Slyfox - plays Spy
+Slyfox - draws Feast
+Slyfox - discards Copper
+Titandrake - places Copper on top of deck
+Slyfox - plays Feast
+Slyfox - trashes Feast
+Slyfox - gains Minion
+Slyfox - plays 2 Copper
+Slyfox - buys Spy
+Slyfox - gains Spy
+Slyfox - draws Potion, Familiar, Curse, Familiar, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Feast
+Titandrake - gains Feast
+Titandrake - draws Minion, Curse
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Curse
+ 
+---------- Slyfox: turn 16 ----------
+Slyfox - plays Familiar
+Slyfox - draws Silver
+Slyfox - plays Familiar
+Slyfox - draws Curse
+Slyfox - plays Silver
+Slyfox - plays Silver
+Slyfox - buys Spy
+Slyfox - gains Spy
+Slyfox - draws Copper, Silver
+Slyfox - shuffles deck
+Slyfox - draws Potion, Curse, Upgrade
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Feast, Copper, Grand Market, Spy, Copper
+ 
+---------- Slyfox: turn 17 ----------
+Slyfox - plays Upgrade
+Slyfox - draws Spy
+Slyfox - trashes Potion
+Slyfox - gains Minion
+Slyfox - plays Spy
+Slyfox - draws Minion
+Slyfox - places Upgrade on top of deck
+Titandrake - discards Upgrade
+Slyfox - plays Minion
+Slyfox - discards: Copper, Silver, Curse
+Slyfox - draws Upgrade, Spy, Silver, Familiar
+Titandrake - discards: Feast, Copper, Grand Market, Spy, Copper
+Titandrake - draws Estate, Familiar, Silver, Curse
+Slyfox - plays Spy
+Slyfox - draws Minion
+Slyfox - discards Copper
+Titandrake - places Estate on top of deck
+Slyfox - plays Upgrade
+Slyfox - draws Familiar
+Slyfox - trashes Silver
+Slyfox - gains Spy
+Slyfox - plays Familiar
+Slyfox - draws Minion
+Slyfox - plays Familiar
+Slyfox - draws Estate
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - plays Minion
+Slyfox - discards Estate
+Slyfox - draws Silver, Copper, Minion, Silver
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - plays Silver
+Slyfox - plays Silver
+Slyfox - buys Grand Market
+Slyfox - gains Grand Market
+Slyfox - draws Copper, Copper, Curse, Hovel, Spy
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Familiar
+Titandrake - draws Estate
+Titandrake - draws Upgrade, Silver, Copper, Curse, Silver
+ 
+---------- Slyfox: turn 18 ----------
+Slyfox - plays Spy
+Slyfox - draws Minion
+Slyfox - discards Copper
+Titandrake - discards Silver
+Slyfox - plays Minion
+Slyfox - discards: Copper, Copper, Curse, Hovel
+Slyfox - shuffles deck
+Slyfox - draws Spy, Hovel, Copper, Upgrade
+Titandrake - discards: Upgrade, Silver, Copper, Curse, Silver
+Titandrake - draws Copper, Familiar, Familiar, Minion
+Slyfox - plays Upgrade
+Slyfox - draws Minion
+Slyfox - trashes Spy
+Slyfox - gains Minion
+Slyfox - plays Minion
+Slyfox - discards: Hovel, Copper
+Slyfox - draws Silver, Curse, Estate, Familiar
+Slyfox - plays Familiar
+Slyfox - draws Silver
+Slyfox - plays 2 Silver
+Slyfox - buys Spy
+Slyfox - gains Spy
+Slyfox - draws Minion, Grand Market, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Familiar
+Titandrake - shuffles deck
+Titandrake - draws Curse
+Titandrake - plays Familiar
+Titandrake - draws Copper
+Titandrake - plays Minion
+Titandrake - discards: Copper, Curse, Copper
+Titandrake - draws Curse, Minion, Minion, Curse
+Slyfox - discards: Minion, Grand Market, Copper, Copper, Copper
+Slyfox - draws Spy, Minion, Spy, Copper
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Curse, Curse
+Titandrake - draws Copper, Upgrade, Feast, Estate
+Titandrake - plays Upgrade
+Titandrake - draws Upgrade
+Titandrake - trashes Copper
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Feast
+Titandrake - gains Duchy
+Titandrake - plays Silver
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - draws Copper, Copper, Silver, Silver, Grand Market
+ 
+---------- Slyfox: turn 19 ----------
+Slyfox - plays Spy
+Slyfox - draws Upgrade
+Slyfox - discards Familiar
+Titandrake - discards Familiar
+Slyfox - plays Spy
+Slyfox - draws Curse
+Slyfox - discards Copper
+Titandrake - places Estate on top of deck
+Slyfox - plays Upgrade
+Slyfox - draws Minion
+Slyfox - trashes Curse
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - plays Minion
+Slyfox - discards Copper
+Slyfox - draws Minion, Silver
+Slyfox - shuffles deck
+Slyfox - draws Minion, Grand Market
+Titandrake - discards: Copper, Copper, Silver, Silver, Grand Market
+Titandrake - draws Estate, Curse, Silver, Spy
+Slyfox - plays Grand Market
+Slyfox - draws Copper
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - plays Minion
+Slyfox - discards: Silver, Copper
+Slyfox - draws Copper, Curse, Spy, Copper
+Slyfox - plays Spy
+Slyfox - draws Hovel
+Slyfox - discards Estate
+Titandrake - discards Silver
+Slyfox - buys Grand Market
+Slyfox - gains Grand Market
+Slyfox - draws Copper, Copper, Upgrade, Silver, Familiar
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Spy
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - discards Curse
+Slyfox - discards Spy
+Titandrake - plays 2 Silver
+Titandrake - buys Feast
+Titandrake - gains Feast
+Titandrake - draws Minion, Curse, Familiar, Copper, Minion
+ 
+---------- Slyfox: turn 20 ----------
+Slyfox - plays Upgrade
+Slyfox - draws Minion
+Slyfox - trashes Copper
+Slyfox - plays Familiar
+Slyfox - draws Silver
+Slyfox - plays Minion
+Slyfox - discards: Copper, Silver, Silver
+Slyfox - draws Minion, Familiar, Copper, Minion
+Titandrake - discards: Minion, Curse, Familiar, Copper, Minion
+Titandrake - draws Curse, Upgrade, Grand Market, Copper
+Slyfox - plays Familiar
+Slyfox - shuffles deck
+Slyfox - draws Silver
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - plays Minion
+Slyfox - discards: Copper, Silver
+Slyfox - draws Copper, Estate, Upgrade, Minion
+Slyfox - plays Upgrade
+Slyfox - draws Copper
+Slyfox - trashes Copper
+Slyfox - plays Minion
+Slyfox - discards: Estate, Copper
+Slyfox - draws Hovel, Minion, Spy, Grand Market
+Slyfox - plays Grand Market
+Slyfox - draws Minion
+Slyfox - plays Spy
+Slyfox - draws Spy
+Slyfox - discards Curse
+Titandrake - discards Silver
+Slyfox - plays Spy
+Slyfox - draws Spy
+Slyfox - places Grand Market on top of deck
+Titandrake - places Copper on top of deck
+Slyfox - plays Spy
+Slyfox - draws Grand Market
+Slyfox - places Spy on top of deck
+Titandrake - places Copper on top of deck
+Slyfox - plays Grand Market
+Slyfox - draws Spy
+Slyfox - plays Spy
+Slyfox - draws Minion
+Slyfox - discards Silver
+Titandrake - places Copper on top of deck
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - plays Minion
+Slyfox - takes 2 coins
+Slyfox - buys Province
+Slyfox - trashes Hovel
+Slyfox - gains Province
+Slyfox - buys Spy
+Slyfox - gains Spy
+Slyfox - draws Silver, Copper, Copper
+Slyfox - shuffles deck
+Slyfox - draws Silver, Upgrade
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Upgrade
+Titandrake - draws Spy
+Titandrake - trashes Curse
+Titandrake - plays Spy
+Titandrake - draws Silver
+Titandrake - discards Duchy
+Slyfox - places Estate on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Upgrade, Silver, Minion, Copper, Estate
+ 
+---------- Slyfox: turn 21 ----------
+Slyfox - plays Upgrade
+Slyfox - draws Estate
+Slyfox - trashes Silver
+Slyfox - gains Spy
+Slyfox - plays 2 Copper, 1 Silver
+Slyfox - buys Spy
+Slyfox - gains Spy
+Slyfox - draws Spy, Upgrade, Curse, Minion, Copper
+ 
+------------ Game Over ------------
+Slyfox - cards: 7 Spy, 7 Minion, 2 Upgrade, 2 Grand Market, 2 Familiar, 4 Copper, 2 Silver, 1 Estate, 1 Province, 1 Curse
+Slyfox - total victory points: 6
+Slyfox - turns: 21
+ 
+Titandrake - cards: 3 Minion, 3 Familiar, 2 Upgrade, 2 Spy, 1 Feast, 1 Grand Market, 5 Silver, 4 Copper, 2 Estate, 2 Duchy, 3 Curse
+Titandrake - total victory points: 5
+Titandrake - turns: 20
+ 
+1st place: Slyfox
+2nd place: Titandrake
+ 

@@ -1,0 +1,504 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Tunnel, Warehouse, Horse Traders, Silk Road, Golem, Cache, Catacombs, Rabble, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Tunnel
+lightbulb - gains Tunnel
+lightbulb - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Warehouse
+lightbulb - gains Warehouse
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Warehouse, Copper, Copper
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Tunnel
+lightbulb - gains Tunnel
+lightbulb - draws Tunnel, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Tunnel, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 4 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Estate, Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Tunnel
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Warehouse
+lightbulb - gains Warehouse
+lightbulb - draws Copper, Warehouse
+lightbulb - shuffles deck
+lightbulb - draws Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Estate, Copper, Tunnel, Copper
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays Warehouse
+lightbulb - draws Tunnel, Estate, Copper
+lightbulb - discards Tunnel
+lightbulb - discards Estate
+lightbulb - discards Estate
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - plays 3 Copper
+lightbulb - buys Warehouse
+lightbulb - gains Warehouse
+lightbulb - draws Copper, Tunnel, Warehouse, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Copper, Gold, Copper, Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Tunnel
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays Warehouse
+lightbulb - draws Copper
+lightbulb - shuffles deck
+lightbulb - draws Estate, Copper
+lightbulb - discards Estate
+lightbulb - discards Tunnel
+lightbulb - discards Copper
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - plays 4 Copper
+lightbulb - buys Tunnel
+lightbulb - gains Tunnel
+lightbulb - draws Estate, Tunnel, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Warehouse, Copper, Tunnel
+Titandrake - discards Tunnel
+Titandrake - discards Tunnel
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Gold
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Copper, Estate, Embargo, Copper
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays 2 Copper
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - draws Warehouse, Warehouse, Gold
+lightbulb - shuffles deck
+lightbulb - draws Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Province
+Titandrake - trashes Embargo
+Titandrake - plays Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - shuffles deck
+Titandrake - draws Gold, Tunnel, Warehouse, Copper, Gold
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays Warehouse
+lightbulb - draws Warehouse, Copper, Estate
+lightbulb - discards Estate
+lightbulb - discards Estate
+lightbulb - discards Copper
+lightbulb - plays Warehouse
+lightbulb - draws Tunnel, Gold, Copper
+lightbulb - discards Tunnel
+lightbulb - discards Copper
+lightbulb - discards Copper
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - plays Warehouse
+lightbulb - draws Estate, Copper, Copper
+lightbulb - discards Copper
+lightbulb - discards Copper
+lightbulb - discards Estate
+lightbulb - plays 2 Gold
+lightbulb - buys Catacombs
+lightbulb - gains Catacombs
+lightbulb - draws Copper, Estate, Tunnel, Tunnel, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Estate, Copper
+Titandrake - discards Tunnel
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 2 Gold, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Curse
+Titandrake - gains Province
+Titandrake - draws Copper, Gold, Tunnel, Copper, Estate
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays 2 Copper
+lightbulb - buys Embargo
+lightbulb - gains Embargo
+lightbulb - shuffles deck
+lightbulb - draws Warehouse, Copper, Tunnel, Tunnel, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Catacombs
+Titandrake - gains Catacombs
+Titandrake - draws Copper, Tunnel, Tunnel, Copper, Warehouse
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Warehouse
+lightbulb - draws Estate, Copper, Tunnel
+lightbulb - discards Tunnel
+lightbulb - discards Tunnel
+lightbulb - discards Tunnel
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - plays 3 Copper
+lightbulb - buys Tunnel
+lightbulb - gains Tunnel
+lightbulb - draws Estate, Embargo, Estate, Warehouse, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - discards Tunnel
+Titandrake - discards Tunnel
+Titandrake - discards Estate
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 4 Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Province, Estate, Curse, Gold, Copper
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays Warehouse
+lightbulb - draws Gold, Copper, Warehouse
+lightbulb - discards Estate
+lightbulb - discards Estate
+lightbulb - discards Copper
+lightbulb - plays Warehouse
+lightbulb - draws Gold, Catacombs, Copper
+lightbulb - discards Copper
+lightbulb - discards Copper
+lightbulb - discards Embargo
+lightbulb - plays Catacombs
+lightbulb - looks at Estate, Copper, Gold
+lightbulb - places cards in hand:  Estate, Copper, Gold
+lightbulb - plays 3 Gold, 1 Copper
+lightbulb - buys Province
+lightbulb - gains Curse
+lightbulb - gains Province
+lightbulb - shuffles deck
+lightbulb - draws Gold, Copper, Curse, Tunnel, Province
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Gold, Estate, Gold, Gold, Copper
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays 1 Gold, 1 Copper
+lightbulb - buys Silk Road
+lightbulb - gains Silk Road
+lightbulb - draws Estate, Estate, Gold, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Gold, 1 Copper
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Tunnel, Copper, Warehouse, Catacombs, Tunnel
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays 2 Copper, 1 Gold
+lightbulb - buys Catacombs
+lightbulb - gains Catacombs
+lightbulb - draws Copper, Tunnel, Estate, Catacombs, Tunnel
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Tunnel, Gold, Silk Road
+Titandrake - discards Tunnel
+Titandrake - discards Tunnel
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Catacombs
+Titandrake - looks at Gold, Province, Gold
+Titandrake - places cards in hand:  Gold, Province, Gold
+Titandrake - plays 3 Gold, 1 Copper
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Copper, Gold, Gold, Warehouse, Curse
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Catacombs
+lightbulb - looks at Warehouse, Copper, Embargo
+lightbulb - discards: Warehouse, Copper, Embargo
+lightbulb - draws Warehouse, Copper, Warehouse
+lightbulb - plays 2 Copper
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - draws Gold, Gold, Tunnel, Gold, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Tunnel, Copper, Copper
+Titandrake - discards Curse
+Titandrake - discards Tunnel
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 2 Copper, 2 Gold
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Estate, Horse Traders, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays 3 Gold
+lightbulb - buys Fairgrounds
+lightbulb - gains Fairgrounds
+lightbulb - draws Copper, Gold
+lightbulb - shuffles deck
+lightbulb - draws Fairgrounds, Gold, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Fairgrounds, Copper, Estate, Gold
+Titandrake - shuffles deck
+Titandrake - draws Silk Road
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays 2 Gold, 1 Copper
+lightbulb - buys Fairgrounds
+lightbulb - gains Fairgrounds
+lightbulb - draws Tunnel, Warehouse, Tunnel, Copper, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Curse, Gold, Tunnel, Tunnel, Province
+ 
+---------- lightbulb: turn 17 ----------
+lightbulb - plays Warehouse
+lightbulb - draws Copper, Warehouse, Catacombs
+lightbulb - discards Tunnel
+lightbulb - discards Tunnel
+lightbulb - discards Copper
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - plays Warehouse
+lightbulb - draws Gold, Copper, Estate
+lightbulb - discards Estate
+lightbulb - discards Copper
+lightbulb - discards Copper
+lightbulb - plays Catacombs
+lightbulb - looks at Estate, Curse, Gold
+lightbulb - places cards in hand:  Estate, Curse, Gold
+lightbulb - plays 3 Gold
+lightbulb - buys Fairgrounds
+lightbulb - gains Fairgrounds
+lightbulb - draws Warehouse, Silk Road, Tunnel, Tunnel, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Gold, Gold, Gold, Copper
+ 
+---------- lightbulb: turn 18 ----------
+lightbulb - plays Warehouse
+lightbulb - draws Province, Copper, Copper
+lightbulb - discards Tunnel
+lightbulb - discards Tunnel
+lightbulb - discards Silk Road
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - plays 2 Copper
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - draws Catacombs, Copper, Estate, Embargo, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 3 Gold, 1 Copper
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Gold, Warehouse, Gold, Warehouse, Catacombs
+ 
+---------- lightbulb: turn 19 ----------
+lightbulb - plays Catacombs
+lightbulb - shuffles deck
+lightbulb - looks at Estate, Copper, Tunnel
+lightbulb - discards: Estate, Copper, Tunnel
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - draws Gold, Estate, Gold
+lightbulb - plays 3 Gold, 1 Copper
+lightbulb - buys Fairgrounds
+lightbulb - gains Fairgrounds
+lightbulb - draws Fairgrounds, Silk Road, Province, Estate, Curse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Tunnel, Gold, Copper
+Titandrake - discards Tunnel
+Titandrake - discards Copper
+Titandrake - discards Catacombs
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper, Fairgrounds
+Titandrake - discards Fairgrounds
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Curse
+Titandrake - gains Province
+Titandrake - draws Estate, Gold, Gold, Horse Traders, Copper
+ 
+---------- lightbulb: turn 20 ----------
+lightbulb - draws Estate, Copper, Copper, Fairgrounds, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Tunnel, Duchy, Copper, Fairgrounds
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- lightbulb: turn 21 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Warehouse
+lightbulb - gains Warehouse
+lightbulb - draws Gold, Tunnel, Gold, Warehouse, Warehouse
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Copper, Warehouse, Silver, Gold, Copper
+ 
+---------- lightbulb: turn 22 ----------
+lightbulb - plays Warehouse
+lightbulb - draws Estate, Catacombs, Warehouse
+lightbulb - discards Estate
+lightbulb - discards Tunnel
+lightbulb - discards Warehouse
+lightbulb - reveals reaction Tunnel
+lightbulb - gains Gold
+lightbulb - plays Warehouse
+lightbulb - draws Copper, Gold, Gold
+lightbulb - discards Copper
+lightbulb - discards Gold
+lightbulb - discards Catacombs
+lightbulb - plays 3 Gold
+lightbulb - buys Province
+lightbulb - gains Curse
+lightbulb - gains Province
+lightbulb - draws Gold, Gold, Tunnel, Gold, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Curse, Gold, Silk Road
+Titandrake - discards Silk Road
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Copper, Gold, Silk Road, Tunnel, Copper
+ 
+---------- lightbulb: turn 23 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Warehouse, 11 Gold, 1 Catacombs, 1 Horse Traders, 7 Copper, 1 Silver, 6 Silk Road, 4 Tunnel, 4 Fairgrounds, 3 Estate, 2 Province, 1 Duchy, 2 Curse
+Titandrake - total victory points: 70
+Titandrake - turns: 22
+ 
+lightbulb - resigned
+lightbulb - cards: 4 Warehouse, 2 Catacombs, 12 Gold, 1 Embargo, 7 Copper, 6 Estate, 4 Tunnel, 4 Fairgrounds, 2 Province, 1 Silk Road, 2 Curse
+lightbulb - total victory points: 44
+lightbulb - turns: 22
+ 
+1st place: Titandrake
+2nd place: lightbulb
+ 

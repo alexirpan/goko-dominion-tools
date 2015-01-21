@@ -1,0 +1,364 @@
+------------ Game Setup ------------
+Supply cards: Secret Chamber, Loan, Bridge, Feast, City, Duke, Library, Vault, Witch, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+scs - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+scs - shuffles deck
+Titandrake - shuffles deck
+scs - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Feast
+Titandrake - gains Feast
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- scs: turn 1 ----------
+scs - plays 4 Copper
+scs - buys Feast
+scs - gains Feast
+scs - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - shuffles deck
+Titandrake - draws Copper, Loan, Copper, Estate, Copper
+ 
+---------- scs: turn 2 ----------
+scs - plays 3 Copper
+scs - buys Loan
+scs - gains Loan
+scs - shuffles deck
+scs - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Estate, Copper, Copper, Copper, Feast
+ 
+---------- scs: turn 3 ----------
+scs - plays 3 Copper
+scs - buys Silver
+scs - gains Silver
+scs - draws Estate, Loan, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Feast
+Titandrake - trashes Feast
+Titandrake - gains Witch
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Bridge
+ 
+---------- scs: turn 4 ----------
+scs - plays 3 Copper
+scs - buys Silver
+scs - gains Silver
+scs - draws Feast, Copper
+scs - shuffles deck
+scs - draws Estate, Loan, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Bridge
+Titandrake - plays 3 Copper
+Titandrake - buys Vault
+Titandrake - gains Vault
+Titandrake - draws Loan, Copper, Witch, Copper, Silver
+ 
+---------- scs: turn 5 ----------
+scs - plays Feast
+scs - trashes Feast
+scs - gains Witch
+scs - plays 2 Copper
+scs - plays Loan
+scs - reveals Silver
+scs - discards Silver
+scs - buys Silver
+scs - gains Silver
+scs - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Witch
+Titandrake - draws Estate, Copper
+scs - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Loan
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Vault, Bridge, Copper
+Titandrake - trashes Copper
+Titandrake - discards: Estate, Vault, Bridge
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver
+ 
+---------- scs: turn 6 ----------
+scs - plays 3 Copper, 1 Silver
+scs - buys Witch
+scs - gains Witch
+scs - draws Copper, Estate, Copper
+scs - shuffles deck
+scs - draws Estate, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - draws Estate, Bridge, Vault, Copper, Witch
+ 
+---------- scs: turn 7 ----------
+scs - draws Estate, Witch, Witch, Copper, Loan
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Witch
+Titandrake - draws Witch, Loan
+scs - gains Curse
+Titandrake - plays 1 Copper
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Loan, Estate, Bridge
+ 
+---------- scs: turn 8 ----------
+scs - plays Witch
+scs - draws Copper, Copper
+Titandrake - gains Curse
+scs - plays 3 Copper
+scs - plays Loan
+scs - reveals Silver
+scs - discards Silver
+scs - buys Feast
+scs - gains Feast
+scs - draws Silver, Copper, Silver, Copper
+scs - shuffles deck
+scs - draws Curse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - plays Loan
+Titandrake - reveals Silver
+Titandrake - discards Silver
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Estate, Estate, Copper, Vault, Loan
+ 
+---------- scs: turn 9 ----------
+scs - plays 2 Silver, 2 Copper
+scs - buys Gold
+scs - gains Gold
+scs - draws Witch, Feast, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Vault
+Titandrake - draws Witch, Witch
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Witch
+Titandrake - discards Witch
+scs - discards Feast
+scs - discards Curse
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws City, Bridge, Copper, Silver, Estate
+ 
+---------- scs: turn 10 ----------
+scs - plays Witch
+scs - draws Witch, Estate
+Titandrake - gains Curse
+scs - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays City
+Titandrake - draws Loan
+Titandrake - plays Bridge
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Loan
+Titandrake - reveals Estate, Witch, Copper
+Titandrake - trashes Copper
+Titandrake - discards: Estate, Witch
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - draws Witch, Vault, Curse, Gold, Loan
+ 
+---------- scs: turn 11 ----------
+scs - plays 3 Copper, 1 Silver
+scs - buys City
+scs - gains City
+scs - draws Loan
+scs - shuffles deck
+scs - draws Estate, Gold, Silver, Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Vault
+Titandrake - draws Estate, Copper
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - discards Witch
+scs - discards Curse
+scs - discards Estate
+Titandrake - plays Copper
+Titandrake - plays Gold
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Witch, Loan, Loan
+ 
+---------- scs: turn 12 ----------
+scs - plays 1 Gold, 1 Silver, 1 Copper
+scs - plays Loan
+scs - reveals Copper
+scs - trashes Copper
+scs - buys King's Court
+scs - gains King's Court
+scs - draws Silver, Curse, Witch, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Witch
+Titandrake - draws Witch, Estate
+scs - gains Curse
+Titandrake - plays Loan
+Titandrake - reveals Estate, King's Court, Curse, Curse, City, Bridge, Bridge, Copper
+Titandrake - trashes Copper
+Titandrake - discards: Estate, King's Court, Curse, Curse, City, Bridge, Bridge
+Titandrake - plays Loan
+Titandrake - reveals Loan
+Titandrake - trashes Loan
+Titandrake - plays Silver
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Vault, Copper, Gold
+Titandrake - shuffles deck
+Titandrake - draws Bridge, King's Court
+ 
+---------- scs: turn 13 ----------
+scs - plays Witch
+scs - draws Estate, Silver
+Titandrake - gains Curse
+scs - plays 2 Silver, 2 Copper
+scs - buys Gold
+scs - gains Gold
+scs - draws City, Feast, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays King's Court
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Bridge, Loan, Estate, Curse, Witch
+ 
+---------- scs: turn 14 ----------
+scs - plays City
+scs - draws Copper
+scs - plays Feast
+scs - trashes Feast
+scs - gains City
+scs - plays 3 Copper
+scs - buys Loan
+scs - gains Loan
+scs - draws Witch
+scs - shuffles deck
+scs - draws Copper, Curse, Gold, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Estate
+scs - gains Curse
+Titandrake - plays Silver
+Titandrake - plays Loan
+Titandrake - reveals Witch, Curse, Loan
+Titandrake - discards Loan
+Titandrake - discards: Witch, Curse
+Titandrake - draws Bridge, City, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Bridge
+ 
+---------- scs: turn 15 ----------
+scs - plays Witch
+scs - draws Silver, Loan
+Titandrake - gains Curse
+scs - plays 1 Copper, 1 Gold, 1 Silver
+scs - plays Loan
+scs - reveals King's Court, Silver
+scs - trashes Silver
+scs - discards King's Court
+scs - buys King's Court
+scs - gains King's Court
+scs - draws Estate, Copper, Copper, City, Loan
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays City
+Titandrake - draws Bridge
+Titandrake - plays Bridge
+Titandrake - plays Bridge
+Titandrake - plays Silver
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Estate, King's Court, Copper, King's Court, Witch
+ 
+---------- scs: turn 16 ----------
+scs - plays City
+scs - draws City
+scs - plays City
+scs - draws Curse
+scs - plays 2 Copper
+scs - plays Loan
+scs - reveals Copper
+scs - trashes Copper
+scs - buys Loan
+scs - gains Loan
+scs - draws Estate, Copper, Witch, Gold, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Witch
+Titandrake - draws Bridge, Vault
+scs - gains Curse
+Titandrake - plays Witch
+Titandrake - draws Loan, Estate
+scs - gains Curse
+Titandrake - plays Witch
+Titandrake - draws Curse, City
+Titandrake - plays King's Court
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Bridge, 3 City, 1 Vault, 1 Witch, 2 Loan, 1 Copper, 1 Silver, 1 Gold, 3 Estate, 4 Curse
+Titandrake - total victory points: -1
+Titandrake - turns: 16
+ 
+scs - resigned
+scs - cards: 2 Witch, 2 King's Court, 2 City, 5 Copper, 3 Loan, 2 Gold, 2 Silver, 3 Estate, 6 Curse
+scs - total victory points: -3
+scs - turns: 16
+ 
+1st place: Titandrake
+2nd place: scs
+ 

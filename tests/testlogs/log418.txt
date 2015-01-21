@@ -1,0 +1,537 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Herbalist, Tunnel, Familiar, Horse Traders, Sea Hag, Thief, Treasure Map, Cartographer, Catacombs, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+heyakita - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+heyakita - shuffles deck
+Titandrake - shuffles deck
+heyakita - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- heyakita: turn 1 ----------
+heyakita - plays 5 Copper
+heyakita - buys Catacombs
+heyakita - gains Catacombs
+heyakita - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Sea Hag, Estate
+ 
+---------- heyakita: turn 2 ----------
+heyakita - plays 2 Copper
+heyakita - buys Courtyard
+heyakita - gains Courtyard
+heyakita - shuffles deck
+heyakita - draws Catacombs, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Sea Hag
+heyakita - discards Copper
+heyakita - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- heyakita: turn 3 ----------
+heyakita - plays Catacombs
+heyakita - looks at Curse, Estate, Courtyard
+heyakita - discards: Curse, Estate, Courtyard
+heyakita - draws Copper, Copper, Estate
+heyakita - plays 6 Copper
+heyakita - buys Sea Hag
+heyakita - gains Sea Hag
+heyakita - draws Estate
+heyakita - shuffles deck
+heyakita - draws Sea Hag, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- heyakita: turn 4 ----------
+heyakita - plays Sea Hag
+Titandrake - discards Estate
+Titandrake - gains Curse
+heyakita - plays 3 Copper
+heyakita - buys Tunnel
+heyakita - gains Tunnel
+heyakita - draws Curse, Estate, Estate, Catacombs, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Curse, Silver, Copper, Tunnel, Copper
+ 
+---------- heyakita: turn 5 ----------
+heyakita - plays Catacombs
+heyakita - looks at Copper, Copper, Copper
+heyakita - places cards in hand:  Copper, Copper, Copper
+heyakita - plays 4 Copper
+heyakita - buys Tunnel
+heyakita - gains Tunnel
+heyakita - draws Courtyard
+heyakita - shuffles deck
+heyakita - draws Copper, Tunnel, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Horse Traders, Copper, Sea Hag, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- heyakita: turn 6 ----------
+heyakita - plays Courtyard
+heyakita - draws Estate, Tunnel, Sea Hag
+heyakita - places Sea Hag on top of deck
+heyakita - plays 3 Copper
+heyakita - buys Tunnel
+heyakita - gains Tunnel
+heyakita - draws Sea Hag, Copper, Estate, Catacombs, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Sea Hag
+heyakita - discards Curse
+heyakita - gains Curse
+Titandrake - draws Estate, Tunnel, Horse Traders, Copper, Copper
+ 
+---------- heyakita: turn 7 ----------
+heyakita - plays Sea Hag
+Titandrake - reveals reaction Horse Traders
+Titandrake - discards Copper
+Titandrake - gains Curse
+heyakita - draws Curse, Copper, Estate, Copper
+heyakita - shuffles deck
+heyakita - draws Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Horse Traders
+Titandrake - draws Curse
+Titandrake - plays Horse Traders
+Titandrake - discards Tunnel
+Titandrake - discards Curse
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 2 Copper
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Estate, Copper, Tunnel, Silver, Curse
+ 
+---------- heyakita: turn 8 ----------
+heyakita - plays 3 Copper
+heyakita - buys Tunnel
+heyakita - gains Tunnel
+heyakita - draws Estate, Copper, Sea Hag, Curse, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Curse, Estate, Copper
+ 
+---------- heyakita: turn 9 ----------
+heyakita - plays Sea Hag
+Titandrake - discards Curse
+Titandrake - gains Curse
+heyakita - draws Copper, Courtyard, Tunnel, Tunnel, Tunnel
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Curse, Silver, Cartographer, Copper, Copper
+ 
+---------- heyakita: turn 10 ----------
+heyakita - plays Courtyard
+heyakita - draws Copper, Catacombs, Copper
+heyakita - places Catacombs on top of deck
+heyakita - plays 3 Copper
+heyakita - buys Tunnel
+heyakita - gains Tunnel
+heyakita - draws Catacombs
+heyakita - shuffles deck
+heyakita - draws Tunnel, Estate, Tunnel, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Estate
+Titandrake - looks at Estate, Tunnel, Tunnel, Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Tunnel
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - places Horse Traders on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Horse Traders, Tunnel, Horse Traders, Sea Hag, Copper
+ 
+---------- heyakita: turn 11 ----------
+heyakita - plays Catacombs
+heyakita - looks at Tunnel, Copper, Copper
+heyakita - discards: Tunnel, Copper, Copper
+heyakita - reveals reaction Tunnel
+heyakita - gains Gold
+heyakita - draws Copper, Copper, Tunnel
+heyakita - draws Copper, Curse, Estate, Tunnel, Sea Hag
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sea Hag
+heyakita - discards Copper
+heyakita - gains Curse
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Curse, Copper
+ 
+---------- heyakita: turn 12 ----------
+heyakita - plays Sea Hag
+Titandrake - discards Gold
+Titandrake - gains Curse
+heyakita - draws Curse, Courtyard, Curse, Copper
+heyakita - shuffles deck
+heyakita - draws Tunnel
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse, Gold, Cartographer, Estate, Tunnel
+ 
+---------- heyakita: turn 13 ----------
+heyakita - plays Courtyard
+heyakita - draws Estate, Gold, Tunnel
+heyakita - places Gold on top of deck
+heyakita - draws Gold, Copper, Curse, Estate, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Horse Traders, Estate, Tunnel, Curse
+Titandrake - discards Tunnel
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - places Horse Traders on top of deck
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Horse Traders, Horse Traders, Copper, Sea Hag, Curse
+ 
+---------- heyakita: turn 14 ----------
+heyakita - plays 1 Gold, 1 Copper
+heyakita - buys Silver
+heyakita - gains Silver
+heyakita - draws Copper, Copper, Copper, Copper, Sea Hag
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Sea Hag
+heyakita - discards Tunnel
+heyakita - reveals reaction Tunnel
+heyakita - gains Gold
+heyakita - gains Curse
+Titandrake - draws Cartographer, Tunnel, Gold, Copper, Copper
+ 
+---------- heyakita: turn 15 ----------
+heyakita - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+heyakita - plays 4 Copper
+heyakita - buys Silver
+heyakita - gains Silver
+heyakita - draws Curse, Tunnel, Catacombs, Copper, Tunnel
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Curse
+Titandrake - looks at Silver
+Titandrake - shuffles deck
+Titandrake - looks at Cartographer, Gold, Cartographer
+Titandrake - places Cartographer on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Silver, Cartographer, Gold, Cartographer, Estate
+ 
+---------- heyakita: turn 16 ----------
+heyakita - plays Catacombs
+heyakita - shuffles deck
+heyakita - looks at Silver, Copper, Copper
+heyakita - places cards in hand:  Silver, Copper, Copper
+heyakita - plays 3 Copper, 1 Silver
+heyakita - buys Cartographer
+heyakita - gains Cartographer
+heyakita - draws Estate, Estate, Sea Hag, Copper, Tunnel
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Curse, Copper, Gold, Silver
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - places Gold on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Gold, Silver, Curse, Estate
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - places Silver on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Silver, Estate, Horse Traders, Sea Hag
+ 
+---------- heyakita: turn 17 ----------
+heyakita - plays Sea Hag
+Titandrake - reveals reaction Horse Traders
+Titandrake - discards Copper
+Titandrake - gains Curse
+heyakita - draws Tunnel, Curse, Estate, Silver, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Horse Traders
+Titandrake - draws Curse
+Titandrake - plays Horse Traders
+Titandrake - discards Curse
+Titandrake - discards Sea Hag
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Curse, Tunnel, Horse Traders, Copper
+ 
+---------- heyakita: turn 18 ----------
+heyakita - plays 1 Silver, 1 Gold
+heyakita - buys Cartographer
+heyakita - gains Cartographer
+heyakita - draws Gold, Curse, Curse, Courtyard, Tunnel
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Curse
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 2 Copper
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Gold, Curse, Tunnel
+Titandrake - shuffles deck
+Titandrake - draws Curse, Gold
+ 
+---------- heyakita: turn 19 ----------
+heyakita - plays Courtyard
+heyakita - draws Copper, Copper, Copper
+heyakita - places Copper on top of deck
+heyakita - plays 2 Copper, 1 Gold
+heyakita - buys Duchy
+heyakita - gains Duchy
+heyakita - draws Copper
+heyakita - shuffles deck
+heyakita - draws Gold, Tunnel, Sea Hag, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Tunnel, Copper, Cartographer, Silver, Copper
+ 
+---------- heyakita: turn 20 ----------
+heyakita - plays Sea Hag
+Titandrake - discards Sea Hag
+heyakita - plays 2 Copper, 1 Gold
+heyakita - buys Duchy
+heyakita - gains Duchy
+heyakita - draws Curse, Tunnel, Catacombs, Silver, Estate
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Estate
+Titandrake - looks at Copper, Curse, Curse, Tunnel
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - discards Tunnel
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Curse, Silver, Cartographer, Copper
+ 
+---------- heyakita: turn 21 ----------
+heyakita - plays Catacombs
+heyakita - looks at Courtyard, Tunnel, Copper
+heyakita - discards: Courtyard, Tunnel, Copper
+heyakita - reveals reaction Tunnel
+heyakita - gains Gold
+heyakita - draws Curse, Curse, Gold
+heyakita - plays 1 Silver, 1 Gold
+heyakita - buys Duchy
+heyakita - gains Duchy
+heyakita - draws Cartographer, Copper, Copper, Copper, Tunnel
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Estate
+Titandrake - looks at Cartographer, Province, Curse, Copper
+Titandrake - discards Curse
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - places Cartographer on top of deck
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Cartographer, Gold, Horse Traders, Silver, Province
+ 
+---------- heyakita: turn 22 ----------
+heyakita - plays Cartographer
+heyakita - draws Silver
+heyakita - looks at Estate, Copper, Duchy, Tunnel
+heyakita - discards Tunnel
+heyakita - discards Duchy
+heyakita - discards Copper
+heyakita - discards Estate
+heyakita - reveals reaction Tunnel
+heyakita - gains Gold
+heyakita - plays 3 Copper, 1 Silver
+heyakita - buys Duchy
+heyakita - gains Duchy
+heyakita - draws Curse, Estate, Cartographer
+heyakita - shuffles deck
+heyakita - draws Catacombs, Duchy
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Gold
+Titandrake - looks at Cartographer, Copper, Cartographer, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Cartographer on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - plays Horse Traders
+Titandrake - discards Province
+Titandrake - discards Silver
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Cartographer, Cartographer, Horse Traders, Gold
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- heyakita: turn 23 ----------
+heyakita - plays Cartographer
+heyakita - draws Copper
+heyakita - looks at Sea Hag, Tunnel, Tunnel, Tunnel
+heyakita - discards Tunnel
+heyakita - discards Tunnel
+heyakita - discards Tunnel
+heyakita - discards Sea Hag
+heyakita - reveals reaction Tunnel
+heyakita - gains Gold
+heyakita - reveals reaction Tunnel
+heyakita - gains Gold
+heyakita - reveals reaction Tunnel
+heyakita - gains Gold
+heyakita - plays Catacombs
+heyakita - looks at Copper, Gold, Tunnel
+heyakita - places cards in hand:  Copper, Gold, Tunnel
+heyakita - plays 2 Copper, 1 Gold
+heyakita - buys Duchy
+heyakita - gains Duchy
+heyakita - draws Copper, Copper, Duchy, Gold, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Curse, Curse, Cartographer, Gold
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - places Gold on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Cartographer
+Titandrake - looks at Gold, Copper, Estate, Province
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - places Gold on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Gold, Estate, Province, Copper
+Titandrake - discards Copper
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - places Gold on top of deck
+Titandrake - plays Horse Traders
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Gold, Silver, Gold, Horse Traders
+ 
+---------- heyakita: turn 24 ----------
+heyakita - plays 2 Copper, 1 Gold, 1 Silver
+heyakita - buys Gold
+heyakita - gains Gold
+heyakita - draws Courtyard, Copper, Estate, Tunnel, Estate
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Silver
+Titandrake - discards Gold
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Cartographer, Gold, Tunnel, Curse, Copper
+ 
+---------- heyakita: turn 25 ----------
+heyakita - plays Courtyard
+heyakita - draws Gold, Curse, Copper
+heyakita - places Estate on top of deck
+heyakita - plays 2 Copper, 1 Gold
+heyakita - buys Duchy
+heyakita - gains Duchy
+heyakita - draws Estate, Cartographer, Duchy, Curse, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Cartographer, 2 Horse Traders, 1 Sea Hag, 7 Copper, 6 Gold, 3 Silver, 6 Estate, 4 Province, 3 Tunnel, 2 Duchy, 6 Curse
+Titandrake - total victory points: 36
+Titandrake - turns: 25
+ 
+heyakita - cards: 2 Cartographer, 1 Sea Hag, 1 Catacombs, 1 Courtyard, 8 Gold, 7 Copper, 2 Silver, 6 Duchy, 5 Tunnel, 3 Estate, 4 Curse
+heyakita - total victory points: 27
+heyakita - turns: 25
+ 
+1st place: Titandrake
+2nd place: heyakita
+ 

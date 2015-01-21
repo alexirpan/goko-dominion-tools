@@ -1,0 +1,686 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Advisor, Monument, Remake, Hunting Party, Laboratory, Margrave, Treasury, Witch, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+bjmartin - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+bjmartin - shuffles deck
+Titandrake - shuffles deck
+bjmartin - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- bjmartin: turn 1 ----------
+bjmartin - plays 3 Copper
+bjmartin - buys Silver
+bjmartin - gains Silver
+bjmartin - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- bjmartin: turn 2 ----------
+bjmartin - plays 4 Copper
+bjmartin - buys Remake
+bjmartin - gains Remake
+bjmartin - shuffles deck
+bjmartin - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - shuffles deck
+Titandrake - draws Remake, Silver, Estate, Copper, Copper
+ 
+---------- bjmartin: turn 3 ----------
+bjmartin - plays 4 Copper
+bjmartin - buys Monument
+bjmartin - gains Monument
+bjmartin - draws Silver, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- bjmartin: turn 4 ----------
+bjmartin - plays 2 Copper, 1 Silver
+bjmartin - buys Silver
+bjmartin - gains Silver
+bjmartin - draws Remake, Copper
+bjmartin - shuffles deck
+bjmartin - draws Copper, Monument, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver
+ 
+---------- bjmartin: turn 5 ----------
+bjmartin - plays Monument
+bjmartin - receives 1 victory point chips
+bjmartin - plays 2 Copper, 1 Silver
+bjmartin - buys Witch
+bjmartin - gains Witch
+bjmartin - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - draws Remake, Silver, Copper, Copper, Silver
+ 
+---------- bjmartin: turn 6 ----------
+bjmartin - plays 5 Copper
+bjmartin - buys Hunting Party
+bjmartin - gains Hunting Party
+bjmartin - draws Silver, Estate, Estate, Estate
+bjmartin - shuffles deck
+bjmartin - draws Witch
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Copper, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Remake, Silver
+ 
+---------- bjmartin: turn 7 ----------
+bjmartin - plays Witch
+bjmartin - draws Remake, Silver
+Titandrake - gains Curse
+bjmartin - plays 2 Silver
+bjmartin - buys Advisor
+bjmartin - gains Advisor
+bjmartin - draws Monument, Copper, Copper, Hunting Party, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Silver, Copper, Estate, Copper, Estate
+ 
+---------- bjmartin: turn 8 ----------
+bjmartin - plays Hunting Party
+bjmartin - draws Copper
+bjmartin - reveals hand: Monument, Copper, Copper, Copper, Copper
+bjmartin - shuffles deck
+bjmartin - reveals Copper, Copper, Copper, Silver
+bjmartin - places Silver in hand
+bjmartin - discards: Copper, Copper, Copper
+bjmartin - plays Monument
+bjmartin - receives 1 victory point chips
+bjmartin - plays 4 Copper, 1 Silver
+bjmartin - buys Margrave
+bjmartin - gains Margrave
+bjmartin - draws Remake, Advisor, Estate, Estate, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Silver
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Witch, Copper, Remake, Silver, Copper
+ 
+---------- bjmartin: turn 9 ----------
+bjmartin - plays Advisor
+bjmartin - reveals: Witch, Silver
+bjmartin - shuffles deck
+bjmartin - reveals: Monument
+Titandrake - discards Witch
+bjmartin - places cards in hand:  Silver, Monument
+bjmartin - plays Remake
+bjmartin - trashes Estate
+bjmartin - gains Silver
+bjmartin - trashes Estate
+bjmartin - gains Silver
+bjmartin - plays 1 Silver
+bjmartin - buys Pawn
+bjmartin - gains Pawn
+bjmartin - draws Hunting Party, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Witch
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper
+bjmartin - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Copper, Silver, Pawn, Copper
+ 
+---------- bjmartin: turn 10 ----------
+bjmartin - plays Hunting Party
+bjmartin - draws Margrave
+bjmartin - reveals hand: Silver, Copper, Copper, Copper, Margrave
+bjmartin - shuffles deck
+bjmartin - reveals Copper, Copper, Copper, Copper, Witch
+bjmartin - places Witch in hand
+bjmartin - discards: Copper, Copper, Copper, Copper
+bjmartin - plays Witch
+bjmartin - draws Advisor, Silver
+Titandrake - gains Curse
+bjmartin - plays 3 Copper, 2 Silver
+bjmartin - buys Gold
+bjmartin - gains Gold
+bjmartin - draws Estate, Monument, Curse, Remake, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Hunting Party, Estate, Remake, Estate, Silver
+ 
+---------- bjmartin: turn 11 ----------
+bjmartin - plays Remake
+bjmartin - trashes Curse
+bjmartin - trashes Estate
+bjmartin - gains Silver
+bjmartin - plays 1 Silver
+bjmartin - buys Pawn
+bjmartin - gains Pawn
+bjmartin - draws Pawn, Silver
+bjmartin - shuffles deck
+bjmartin - draws Remake, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Pawn
+Titandrake - reveals hand: Estate, Remake, Estate, Silver, Pawn
+Titandrake - reveals Curse
+Titandrake - places Curse in hand
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Remake
+Titandrake - trashes Curse
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Curse, Silver, Copper, Hunting Party, Hunting Party
+ 
+---------- bjmartin: turn 12 ----------
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - takes 1 buy
+bjmartin - plays Remake
+bjmartin - trashes Copper
+bjmartin - trashes Copper
+bjmartin - plays 1 Silver
+bjmartin - buys Pawn
+bjmartin - gains Pawn
+bjmartin - draws Copper, Gold, Copper, Silver, Pawn
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Curse, Silver, Copper, Hunting Party, Silver
+Titandrake - reveals Copper, Copper, Copper, Copper, Silver, Copper, Witch
+Titandrake - places Witch in hand
+Titandrake - discards: Copper, Copper, Copper, Copper, Silver, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Remake
+Titandrake - reveals hand: Curse, Silver, Copper, Silver, Witch, Remake
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Curse, Silver, Copper, Silver, Witch, Remake, Copper
+Titandrake - reveals Remake, Peddler
+Titandrake - places Peddler in hand
+Titandrake - discards Remake
+Titandrake - plays Peddler
+Titandrake - draws Silver
+Titandrake - plays Witch
+Titandrake - draws Estate, Pawn
+bjmartin - gains Curse
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Silver, Silver, Copper, Copper
+ 
+---------- bjmartin: turn 13 ----------
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - draws Hunting Party
+bjmartin - plays Hunting Party
+bjmartin - draws Monument
+bjmartin - reveals hand: Copper, Gold, Copper, Silver, Monument
+bjmartin - reveals Margrave
+bjmartin - places Margrave in hand
+bjmartin - plays Margrave
+bjmartin - draws Copper, Witch, Advisor
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+bjmartin - plays 3 Copper, 1 Gold, 1 Silver
+bjmartin - buys Hunting Party
+bjmartin - gains Hunting Party
+bjmartin - buys Peddler
+bjmartin - gains Peddler
+bjmartin - draws Silver, Copper, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Remake, Hunting Party, Curse, Hunting Party, Silver
+ 
+---------- bjmartin: turn 14 ----------
+bjmartin - plays 3 Silver, 2 Copper
+bjmartin - buys Hunting Party
+bjmartin - gains Hunting Party
+bjmartin - shuffles deck
+bjmartin - draws Curse, Margrave, Advisor, Peddler, Witch
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Witch
+Titandrake - reveals hand: Remake, Curse, Hunting Party, Silver, Witch
+Titandrake - reveals Hunting Party, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Hunting Party
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Remake, Curse, Silver, Witch, Copper, Silver
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Remake, Curse, Silver, Witch, Copper, Silver, Silver
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays Witch
+Titandrake - draws Remake, Pawn
+bjmartin - gains Curse
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Peddler
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Curse
+ 
+---------- bjmartin: turn 15 ----------
+bjmartin - plays Peddler
+bjmartin - draws Silver
+bjmartin - plays Advisor
+bjmartin - reveals: Copper, Copper, Copper
+Titandrake - discards Copper
+bjmartin - places cards in hand:  Copper, Copper
+bjmartin - plays Witch
+bjmartin - draws Silver, Gold
+Titandrake - gains Curse
+bjmartin - plays 2 Silver, 2 Copper, 1 Gold
+bjmartin - buys Province
+bjmartin - gains Province
+bjmartin - draws Hunting Party, Pawn, Silver, Pawn, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Silver, Hunting Party, Pawn, Gold, Remake
+ 
+---------- bjmartin: turn 16 ----------
+bjmartin - plays Hunting Party
+bjmartin - draws Copper
+bjmartin - reveals hand: Pawn, Silver, Pawn, Copper, Copper
+bjmartin - reveals Silver, Remake
+bjmartin - places Remake in hand
+bjmartin - discards Silver
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - draws Pawn
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - draws Hunting Party
+bjmartin - plays Hunting Party
+bjmartin - draws Silver
+bjmartin - reveals hand: Silver, Copper, Copper, Remake, Pawn, Silver
+bjmartin - reveals Hunting Party
+bjmartin - places Hunting Party in hand
+bjmartin - plays Hunting Party
+bjmartin - draws Monument
+bjmartin - reveals hand: Silver, Copper, Copper, Remake, Pawn, Silver, Monument
+bjmartin - shuffles deck
+bjmartin - reveals Advisor
+bjmartin - places Advisor in hand
+bjmartin - plays Advisor
+bjmartin - reveals: Witch, Peddler, Silver
+Titandrake - discards Witch
+bjmartin - places cards in hand:  Peddler, Silver
+bjmartin - plays Peddler
+bjmartin - draws Province
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - draws Copper
+bjmartin - plays Monument
+bjmartin - receives 1 victory point chips
+bjmartin - plays 3 Silver, 3 Copper
+bjmartin - buys Province
+bjmartin - gains Province
+bjmartin - draws Copper, Gold, Margrave, Silver, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Pawn, Gold, Remake, Hunting Party
+Titandrake - reveals Hunting Party, Silver, Silver, Copper
+Titandrake - places Copper in hand
+Titandrake - discards: Hunting Party, Silver, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Pawn, Gold, Remake, Copper, Hunting Party
+Titandrake - reveals Copper, Hunting Party, Remake, Estate
+Titandrake - places Estate in hand
+Titandrake - discards: Copper, Hunting Party, Remake
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Pawn, Gold, Remake, Copper, Estate, Copper
+Titandrake - reveals Silver, Witch
+Titandrake - places Witch in hand
+Titandrake - discards Silver
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+bjmartin - gains Curse
+Titandrake - plays 4 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Copper, Silver, Hunting Party, Silver
+ 
+---------- bjmartin: turn 17 ----------
+bjmartin - plays Margrave
+bjmartin - draws Curse, Silver, Copper
+Titandrake - draws Hunting Party
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+bjmartin - plays 2 Copper, 2 Silver, 1 Gold
+bjmartin - buys Province
+bjmartin - gains Province
+bjmartin - shuffles deck
+bjmartin - draws Pawn, Silver, Curse, Copper, Curse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Hunting Party, Hunting Party
+Titandrake - reveals Peddler
+Titandrake - places Peddler in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Curse
+Titandrake - reveals hand: Silver, Hunting Party, Peddler, Curse
+Titandrake - reveals Silver, Silver, Curse, Remake
+Titandrake - places Remake in hand
+Titandrake - discards: Silver, Silver, Curse
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Peddler, Curse, Remake, Silver
+Titandrake - reveals Peddler, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Peddler
+Titandrake - plays Peddler
+Titandrake - draws Curse
+Titandrake - plays Remake
+Titandrake - trashes Curse
+Titandrake - trashes Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Copper, Estate, Pawn
+ 
+---------- bjmartin: turn 18 ----------
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - draws Remake
+bjmartin - plays Remake
+bjmartin - trashes Curse
+bjmartin - trashes Curse
+bjmartin - plays 1 Silver, 1 Copper
+bjmartin - buys Pawn
+bjmartin - gains Pawn
+bjmartin - draws Province, Hunting Party, Monument, Copper, Peddler
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Hunting Party, Silver, Gold, Copper, Copper
+ 
+---------- bjmartin: turn 19 ----------
+bjmartin - plays Peddler
+bjmartin - draws Silver
+bjmartin - plays Hunting Party
+bjmartin - draws Hunting Party
+bjmartin - reveals hand: Province, Monument, Copper, Silver, Hunting Party
+bjmartin - reveals Margrave
+bjmartin - places Margrave in hand
+bjmartin - plays Hunting Party
+bjmartin - draws Copper
+bjmartin - reveals hand: Province, Monument, Copper, Silver, Margrave, Copper
+bjmartin - reveals Copper, Silver, Gold
+bjmartin - places Gold in hand
+bjmartin - discards: Copper, Silver
+bjmartin - plays Margrave
+bjmartin - draws Hunting Party, Curse, Pawn
+Titandrake - draws Remake
+Titandrake - discards Remake
+Titandrake - discards Copper
+Titandrake - discards Copper
+bjmartin - plays 2 Copper, 1 Silver, 1 Gold
+bjmartin - buys Province
+bjmartin - gains Province
+bjmartin - buys Peddler
+bjmartin - gains Peddler
+bjmartin - draws Province, Pawn, Witch, Province, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Silver, Gold, Silver
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Gold, Silver, Hunting Party
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Witch
+Titandrake - reveals hand: Silver, Gold, Silver, Province, Witch
+Titandrake - shuffles deck
+Titandrake - reveals Duchy
+Titandrake - places Duchy in hand
+Titandrake - plays Witch
+Titandrake - draws Copper, Silver
+bjmartin - gains Curse
+Titandrake - plays 3 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Hunting Party, Peddler, Hunting Party, Peddler, Copper
+ 
+---------- bjmartin: turn 20 ----------
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - draws Advisor
+bjmartin - plays Advisor
+bjmartin - reveals: Copper, Silver
+bjmartin - shuffles deck
+bjmartin - reveals: Curse
+Titandrake - discards Silver
+bjmartin - places cards in hand:  Copper, Curse
+bjmartin - plays Witch
+bjmartin - draws Hunting Party, Pawn
+Titandrake - gains Curse
+bjmartin - plays 1 Silver, 1 Copper
+bjmartin - buys Estate
+bjmartin - gains Estate
+bjmartin - draws Curse, Monument, Copper, Peddler, Hunting Party
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Peddler
+Titandrake - draws Pawn
+Titandrake - plays Peddler
+Titandrake - draws Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Hunting Party, Copper, Pawn, Silver, Copper
+Titandrake - reveals Hunting Party, Silver, Remake
+Titandrake - places Remake in hand
+Titandrake - discards: Hunting Party, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Remake
+Titandrake - reveals hand: Copper, Pawn, Silver, Copper, Remake, Remake
+Titandrake - reveals Copper, Estate
+Titandrake - places Estate in hand
+Titandrake - discards Copper
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Duchy
+Titandrake - plays Remake
+Titandrake - trashes Remake
+Titandrake - gains Duchy
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Duchy
+ 
+---------- bjmartin: turn 21 ----------
+bjmartin - plays Peddler
+bjmartin - draws Copper
+bjmartin - plays Hunting Party
+bjmartin - draws Silver
+bjmartin - reveals hand: Curse, Monument, Copper, Copper, Silver
+bjmartin - reveals Pawn
+bjmartin - places Pawn in hand
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - draws Silver
+bjmartin - plays Monument
+bjmartin - receives 1 victory point chips
+bjmartin - plays 2 Copper, 2 Silver
+bjmartin - buys Province
+bjmartin - gains Province
+bjmartin - draws Copper, Remake, Pawn, Silver, Peddler
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Hunting Party, Hunting Party, Hunting Party, Estate, Copper
+ 
+---------- bjmartin: turn 22 ----------
+bjmartin - plays Peddler
+bjmartin - draws Copper
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - draws Province
+bjmartin - plays 2 Copper, 1 Silver
+bjmartin - buys Duchy
+bjmartin - gains Duchy
+bjmartin - draws Province, Hunting Party, Margrave, Gold
+bjmartin - shuffles deck
+bjmartin - draws Province
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Witch
+Titandrake - reveals hand: Hunting Party, Hunting Party, Estate, Copper, Witch
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Curse
+Titandrake - reveals hand: Hunting Party, Estate, Copper, Witch, Silver, Curse
+Titandrake - reveals Hunting Party, Hunting Party, Peddler
+Titandrake - places Peddler in hand
+Titandrake - discards: Hunting Party, Hunting Party
+Titandrake - plays Peddler
+Titandrake - draws Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Remake
+Titandrake - reveals hand: Estate, Copper, Witch, Silver, Curse, Silver, Remake
+Titandrake - reveals Copper, Peddler
+Titandrake - places Peddler in hand
+Titandrake - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Pawn
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Duchy
+Titandrake - plays Witch
+Titandrake - draws Hunting Party, Gold
+bjmartin - gains Curse
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Duchy, Duchy, Silver, Province
+ 
+---------- bjmartin: turn 23 ----------
+bjmartin - plays Hunting Party
+bjmartin - draws Pawn
+bjmartin - reveals hand: Province, Margrave, Gold, Province, Pawn
+bjmartin - reveals Monument
+bjmartin - places Monument in hand
+bjmartin - plays Pawn
+bjmartin - takes 1 action
+bjmartin - draws Silver
+bjmartin - plays Margrave
+bjmartin - draws Silver, Copper, Province
+Titandrake - draws Copper
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - discards Province
+bjmartin - plays 2 Silver, 1 Gold, 1 Copper
+bjmartin - buys Province
+bjmartin - gains Province
+bjmartin - draws Witch, Pawn, Copper, Hunting Party, Pawn
+ 
+------------ Game Over ------------
+bjmartin - cards: 4 Pawn, 3 Hunting Party, 2 Peddler, 1 Witch, 1 Margrave, 1 Monument, 1 Remake, 1 Advisor, 5 Copper, 5 Silver, 1 Gold, 6 Province, 1 Estate, 1 Duchy, 3 Curse
+bjmartin - victory point chips: 4
+bjmartin - total victory points: 41
+bjmartin - turns: 23
+ 
+Titandrake - cards: 6 Hunting Party, 2 Peddler, 1 Pawn, 1 Witch, 1 Remake, 5 Silver, 5 Copper, 1 Gold, 6 Duchy, 2 Province, 1 Estate, 1 Curse
+Titandrake - victory point chips: 0
+Titandrake - total victory points: 30
+Titandrake - turns: 22
+ 
+1st place: bjmartin
+2nd place: Titandrake
+ 

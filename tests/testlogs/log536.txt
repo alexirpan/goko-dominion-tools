@@ -1,0 +1,624 @@
+------------ Game Setup ------------
+Supply cards: Oasis, Alchemist, Philosopher's Stone, Plaza, Sea Hag, Throne Room, Contraband, Explorer, Soothsayer, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+incandenza - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+incandenza - shuffles deck
+Titandrake - shuffles deck
+incandenza - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- incandenza: turn 1 ----------
+incandenza - plays 3 Copper
+incandenza - buys Oasis
+incandenza - gains Oasis
+incandenza - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- incandenza: turn 2 ----------
+incandenza - plays 4 Copper
+incandenza - buys Plaza
+incandenza - gains Plaza
+incandenza - shuffles deck
+incandenza - draws Copper, Estate, Copper, Copper, Oasis
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Sea Hag, Oasis, Copper, Copper, Copper
+ 
+---------- incandenza: turn 3 ----------
+incandenza - plays Oasis
+incandenza - draws Copper
+incandenza - discards Estate
+incandenza - plays 4 Copper
+incandenza - buys Soothsayer
+incandenza - gains Soothsayer
+incandenza - draws Copper, Copper, Estate, Plaza, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays Sea Hag
+incandenza - discards Copper
+incandenza - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Sea Hag, Estate, Copper
+ 
+---------- incandenza: turn 4 ----------
+incandenza - plays Plaza
+incandenza - draws Curse
+incandenza - discards Copper
+incandenza - receives 1 coin token
+incandenza - shuffles deck
+incandenza - draws Copper, Estate, Oasis, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Sea Hag
+incandenza - discards Copper
+incandenza - gains Curse
+Titandrake - draws Copper, Copper, Copper, Oasis, Copper
+ 
+---------- incandenza: turn 5 ----------
+incandenza - plays Oasis
+incandenza - draws Curse
+incandenza - discards Estate
+incandenza - plays 2 Copper
+incandenza - buys Oasis
+incandenza - gains Oasis
+incandenza - draws Soothsayer, Curse, Copper, Plaza, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Oasis
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Sea Hag, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Oasis, Estate
+ 
+---------- incandenza: turn 6 ----------
+incandenza - plays Plaza
+incandenza - draws Estate
+incandenza - discards Copper
+incandenza - receives 1 coin token
+incandenza - plays Soothsayer
+incandenza - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Estate
+incandenza - draws Copper, Copper
+incandenza - shuffles deck
+incandenza - draws Soothsayer, Oasis, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - plays Sea Hag
+incandenza - discards Oasis
+incandenza - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Soothsayer, Estate, Copper, Copper, Copper
+ 
+---------- incandenza: turn 7 ----------
+incandenza - plays Oasis
+incandenza - draws Curse
+incandenza - discards Curse
+incandenza - plays Soothsayer
+incandenza - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+incandenza - plays 2 Copper
+incandenza - buys Oasis
+incandenza - gains Oasis
+incandenza - draws Copper, Plaza, Gold, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+incandenza - gains Curse
+incandenza - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Gold, Copper, Curse
+ 
+---------- incandenza: turn 8 ----------
+incandenza - plays Plaza
+incandenza - draws Copper
+incandenza - discards Copper
+incandenza - receives 1 coin token
+incandenza - plays 4 Copper, 1 Gold
+incandenza - buys Forge
+incandenza - gains Forge
+incandenza - draws Curse, Curse, Estate, Estate
+incandenza - shuffles deck
+incandenza - draws Soothsayer
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Sea Hag
+incandenza - discards Oasis
+incandenza - gains Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Silver, Sea Hag, Estate
+ 
+---------- incandenza: turn 9 ----------
+incandenza - plays Soothsayer
+incandenza - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Soothsayer
+incandenza - draws Curse, Copper, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+incandenza - gains Curse
+incandenza - draws Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Copper, Estate, Copper, Curse, Copper
+ 
+---------- incandenza: turn 10 ----------
+incandenza - plays 4 Copper, 1 Gold
+incandenza - buys Forge
+incandenza - gains Forge
+incandenza - draws Curse, Copper, Oasis, Gold, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Plaza, Silver, Copper, Oasis
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- incandenza: turn 11 ----------
+incandenza - plays Oasis
+incandenza - draws Copper
+incandenza - discards Estate
+incandenza - plays 2 Copper, 1 Gold
+incandenza - buys Plaza
+incandenza - gains Plaza
+incandenza - draws Copper, Curse, Oasis, Forge, Plaza
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Plaza
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Oasis
+Titandrake - draws Gold
+Titandrake - discards Copper
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Estate, Sea Hag, Sea Hag, Copper, Estate
+ 
+---------- incandenza: turn 12 ----------
+incandenza - plays Oasis
+incandenza - shuffles deck
+incandenza - draws Gold
+incandenza - discards Plaza
+incandenza - plays Forge
+incandenza - trashes Gold, Curse, Copper
+incandenza - gains Gold
+incandenza - draws Copper, Estate, Copper, Forge, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Sea Hag
+incandenza - discards Oasis
+incandenza - gains Curse
+Titandrake - draws Copper, Copper, Oasis, Copper, Curse
+ 
+---------- incandenza: turn 13 ----------
+incandenza - plays Forge
+incandenza - trashes Estate, Copper, Estate, Copper
+incandenza - gains Plaza
+incandenza - draws Curse, Plaza, Oasis, Gold, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Oasis
+Titandrake - draws Estate
+Titandrake - discards Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Silver, Gold, Curse, Soothsayer, Curse
+ 
+---------- incandenza: turn 14 ----------
+incandenza - plays Oasis
+incandenza - draws Gold
+incandenza - discards Curse
+incandenza - plays Plaza
+incandenza - draws Copper
+incandenza - discards Copper
+incandenza - receives 1 coin token
+incandenza - plays 2 Gold, 1 Copper
+incandenza - uses 1 coin token
+incandenza - buys Platinum
+incandenza - gains Platinum
+incandenza - draws Curse, Curse, Soothsayer, Curse, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Oasis, Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Copper, Estate
+ 
+---------- incandenza: turn 15 ----------
+incandenza - plays Soothsayer
+incandenza - gains Gold
+incandenza - draws Curse, Curse, Estate, Copper
+incandenza - shuffles deck
+incandenza - draws Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Oasis
+Titandrake - draws Sea Hag
+Titandrake - discards Estate
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Curse, Copper, Estate, Copper, Estate
+ 
+---------- incandenza: turn 16 ----------
+incandenza - plays 1 Copper, 1 Gold
+incandenza - buys Plaza
+incandenza - gains Plaza
+incandenza - draws Oasis, Copper, Curse, Plaza, Forge
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - draws Throne Room, Silver, Copper, Silver, Gold
+ 
+---------- incandenza: turn 17 ----------
+incandenza - plays Plaza
+incandenza - draws Gold
+incandenza - discards Copper
+incandenza - receives 1 coin token
+incandenza - plays Oasis
+incandenza - draws Copper
+incandenza - discards Copper
+incandenza - plays Forge
+incandenza - trashes Curse, Gold
+incandenza - gains Gold
+incandenza - draws Curse, Plaza, Platinum, Plaza, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Forge
+Titandrake - gains Forge
+Titandrake - draws Oasis, Soothsayer, Plaza, Curse, Silver
+ 
+---------- incandenza: turn 18 ----------
+incandenza - plays Plaza
+incandenza - draws Gold
+incandenza - discards Copper
+incandenza - receives 1 coin token
+incandenza - plays Plaza
+incandenza - draws Curse
+incandenza - plays 1 Platinum, 1 Gold
+incandenza - uses 1 coin token
+incandenza - buys Platinum
+incandenza - gains Platinum
+incandenza - draws Gold, Curse, Oasis, Soothsayer, Oasis
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Oasis
+Titandrake - draws Sea Hag
+Titandrake - discards Curse
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Titandrake - plays Silver
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Platinum, Oasis, Copper, Gold, Curse
+ 
+---------- incandenza: turn 19 ----------
+incandenza - plays Oasis
+incandenza - draws Forge
+incandenza - discards Gold
+incandenza - plays Oasis
+incandenza - shuffles deck
+incandenza - draws Oasis
+incandenza - discards Oasis
+incandenza - plays Forge
+incandenza - trashes Soothsayer, Curse
+incandenza - gains Contraband
+incandenza - draws Gold, Platinum, Platinum, Curse, Curse
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 1 Platinum, 1 Copper, 1 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Silver, Estate, Estate
+ 
+---------- incandenza: turn 20 ----------
+incandenza - plays 2 Platinum, 1 Gold
+incandenza - buys Colony
+incandenza - gains Colony
+incandenza - draws Copper, Copper, Curse, Plaza, Plaza
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Plaza, Gold, Throne Room
+ 
+---------- incandenza: turn 21 ----------
+incandenza - plays Plaza
+incandenza - draws Copper
+incandenza - discards Copper
+incandenza - receives 1 coin token
+incandenza - plays Plaza
+incandenza - draws Curse
+incandenza - discards Copper
+incandenza - receives 1 coin token
+incandenza - draws Estate, Gold, Plaza, Forge, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Plaza
+Titandrake - draws Oasis
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Oasis
+Titandrake - draws Platinum
+Titandrake - discards Curse
+Titandrake - plays 1 Gold, 1 Platinum
+Titandrake - uses 2 coin tokens
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Soothsayer, Plaza, Oasis, Copper, Forge
+ 
+---------- incandenza: turn 22 ----------
+incandenza - plays Plaza
+incandenza - draws Plaza
+incandenza - plays Plaza
+incandenza - draws Copper
+incandenza - plays Forge
+incandenza - trashes Estate, Copper, Gold
+incandenza - gains Province
+incandenza - plays 1 Gold
+incandenza - buys Oasis
+incandenza - gains Oasis
+incandenza - draws Gold
+incandenza - shuffles deck
+incandenza - draws Oasis, Copper, Plaza, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Plaza
+Titandrake - draws Oasis
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Forge
+Titandrake - trashes Oasis, Oasis, Soothsayer
+Titandrake - gains Colony
+Titandrake - draws Copper, Silver, Gold, Estate, Sea Hag
+ 
+---------- incandenza: turn 23 ----------
+incandenza - plays Plaza
+incandenza - draws Plaza
+incandenza - discards Copper
+incandenza - receives 1 coin token
+incandenza - plays Plaza
+incandenza - draws Forge
+incandenza - plays Forge
+incandenza - trashes Copper, Oasis, Gold
+incandenza - gains Platinum
+incandenza - draws Oasis, Oasis, Plaza, Curse, Platinum
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - uses 2 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Sea Hag, Silver, Curse, Oasis, Platinum
+ 
+---------- incandenza: turn 24 ----------
+incandenza - plays Oasis
+incandenza - draws Curse
+incandenza - discards Curse
+incandenza - plays Oasis
+incandenza - draws Province
+incandenza - discards Province
+incandenza - plays Plaza
+incandenza - draws Oasis
+incandenza - plays Oasis
+incandenza - draws Contraband
+incandenza - discards Curse
+incandenza - plays Contraband
+Titandrake - names Colony as contraband
+incandenza - plays 1 Platinum
+incandenza - uses 1 coin token
+incandenza - buys Platinum
+incandenza - gains Platinum
+incandenza - buys Oasis
+incandenza - gains Oasis
+incandenza - draws Copper, Curse, Colony, Platinum, Gold
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Curse
+Titandrake - plays 1 Silver, 1 Platinum, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Gold, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Sea Hag
+ 
+---------- incandenza: turn 25 ----------
+incandenza - plays 1 Copper, 1 Platinum, 1 Gold
+incandenza - uses 2 coin tokens
+incandenza - buys Colony
+incandenza - gains Colony
+incandenza - draws Forge, Plaza, Curse, Gold
+incandenza - shuffles deck
+incandenza - draws Plaza
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Colony, Gold, Province, Plaza
+ 
+---------- incandenza: turn 26 ----------
+incandenza - plays Plaza
+incandenza - draws Plaza
+incandenza - plays Forge
+incandenza - trashes Curse, Plaza, Plaza
+incandenza - gains Province
+incandenza - draws Platinum, Gold, Contraband, Oasis, Plaza
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Plaza
+Titandrake - draws Oasis
+Titandrake - plays Oasis
+Titandrake - draws Sea Hag
+Titandrake - discards Province
+Titandrake - plays Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Platinum, Forge, Copper, Province, Copper
+ 
+---------- incandenza: turn 27 ----------
+incandenza - plays Plaza
+incandenza - draws Curse
+incandenza - discards Contraband
+incandenza - receives 1 coin token
+incandenza - plays Oasis
+incandenza - draws Platinum
+incandenza - discards Curse
+incandenza - plays 2 Platinum, 1 Gold
+incandenza - buys Colony
+incandenza - gains Colony
+incandenza - draws Curse, Oasis, Platinum, Curse, Colony
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays 2 Copper, 1 Platinum
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Throne Room, Gold, Platinum, Estate, Province
+ 
+---------- incandenza: turn 28 ----------
+incandenza - plays Oasis
+incandenza - draws Oasis
+incandenza - discards Curse
+incandenza - plays Oasis
+incandenza - draws Province
+incandenza - discards Curse
+incandenza - plays 1 Platinum
+incandenza - uses 4 coin tokens
+incandenza - buys Colony
+incandenza - gains Colony
+incandenza - draws Copper, Forge, Colony, Oasis, Copper
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays 1 Gold, 1 Platinum
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Colony, Silver, Gold, Copper
+ 
+---------- incandenza: turn 29 ----------
+incandenza - plays Oasis
+incandenza - draws Platinum
+incandenza - discards Colony
+incandenza - plays 2 Copper, 1 Platinum
+incandenza - buys Province
+incandenza - gains Province
+incandenza - shuffles deck
+incandenza - draws Oasis, Oasis, Gold, Forge, Platinum
+ 
+---------- Titandrake: turn 30 ----------
+Titandrake - plays 2 Gold, 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver, Copper, Curse, Estate
+ 
+---------- incandenza: turn 30 ----------
+incandenza - plays Oasis
+incandenza - draws Copper
+incandenza - discards Copper
+incandenza - plays Oasis
+incandenza - draws Colony
+incandenza - discards Colony
+incandenza - plays 1 Gold, 1 Platinum
+incandenza - uses 1 coin token
+incandenza - buys Colony
+incandenza - gains Colony
+incandenza - draws Gold, Province, Plaza, Colony, Province
+ 
+---------- Titandrake: turn 31 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Oasis, Curse, Plaza
+Titandrake - shuffles deck
+Titandrake - draws Plaza
+ 
+---------- incandenza: turn 31 ----------
+incandenza - plays Plaza
+incandenza - draws Forge
+incandenza - plays Forge
+incandenza - trashes Province
+incandenza - gains Province
+incandenza - plays 1 Gold
+incandenza - buys Estate
+incandenza - gains Estate
+incandenza - draws Curse, Platinum, Oasis, Platinum, Colony
+ 
+------------ Game Over ------------
+incandenza - cards: 4 Oasis, 2 Forge, 2 Plaza, 4 Platinum, 2 Copper, 2 Gold, 1 Contraband, 5 Colony, 3 Province, 1 Estate, 3 Curse
+incandenza - total victory points: 66
+incandenza - turns: 31
+ 
+Titandrake - cards: 2 Oasis, 2 Plaza, 2 Sea Hag, 1 Forge, 1 Throne Room, 7 Copper, 5 Gold, 4 Silver, 2 Platinum, 4 Province, 4 Estate, 3 Duchy, 2 Colony, 3 Curse
+Titandrake - total victory points: 54
+Titandrake - turns: 31
+ 
+1st place: incandenza
+2nd place: Titandrake
+ 

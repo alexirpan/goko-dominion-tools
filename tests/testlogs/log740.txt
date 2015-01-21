@@ -1,0 +1,464 @@
+------------ Game Setup ------------
+Supply cards: Lookout, Steward, Philosopher's Stone, Marauder, Navigator, Junk Dealer, Treasury, Venture, Harem, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+eliegel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+eliegel - shuffles deck
+Titandrake - shuffles deck
+eliegel - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- eliegel: turn 1 ----------
+eliegel - plays 3 Copper
+eliegel - buys Steward
+eliegel - gains Steward
+eliegel - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- eliegel: turn 2 ----------
+eliegel - plays 4 Copper
+eliegel - buys Marauder
+eliegel - gains Marauder
+eliegel - shuffles deck
+eliegel - draws Copper, Copper, Estate, Marauder, Steward
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Junk Dealer, Copper, Copper
+ 
+---------- eliegel: turn 3 ----------
+eliegel - plays Steward
+eliegel - trashes Estate, Copper
+eliegel - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- eliegel: turn 4 ----------
+eliegel - plays 3 Copper
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - draws Copper, Copper
+eliegel - shuffles deck
+eliegel - draws Steward, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Marauder, Silver, Estate, Copper, Copper
+ 
+---------- eliegel: turn 5 ----------
+eliegel - plays Steward
+eliegel - trashes Estate, Estate
+eliegel - draws Copper, Copper, Marauder, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+eliegel - gains Ruined Library
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Copper, Estate, Copper, Junk Dealer, Copper
+ 
+---------- eliegel: turn 6 ----------
+eliegel - plays Marauder
+eliegel - gains Spoils
+Titandrake - gains Survivors
+eliegel - plays 3 Copper, 1 Silver
+eliegel - buys Treasury
+eliegel - gains Treasury
+eliegel - draws Copper
+eliegel - shuffles deck
+eliegel - draws Marauder, Steward, Treasury, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Treasury
+Titandrake - gains Treasury
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Spoils, Estate, Copper, Copper
+ 
+---------- eliegel: turn 7 ----------
+eliegel - plays Treasury
+eliegel - draws Copper
+eliegel - plays Steward
+eliegel - trashes Copper, Copper
+eliegel - places Treasury on top of deck
+eliegel - draws Treasury, Silver, Ruined Library, Copper, Spoils
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Treasury, Survivors, Junk Dealer
+ 
+---------- eliegel: turn 8 ----------
+eliegel - plays Treasury
+eliegel - draws Copper
+eliegel - plays Ruined Library
+eliegel - draws Copper
+eliegel - plays 3 Copper, 1 Silver
+eliegel - buys Nobles
+eliegel - gains Nobles
+eliegel - shuffles deck
+eliegel - draws Ruined Library, Nobles, Copper, Steward, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Treasury
+Titandrake - draws Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Survivors
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Copper, Lookout, Marauder
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- eliegel: turn 9 ----------
+eliegel - plays Steward
+eliegel - trashes Ruined Library, Copper
+eliegel - draws Spoils, Silver, Copper, Copper, Treasury
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Gold on top of deck
+Titandrake - plays Treasury
+Titandrake - draws Gold
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+eliegel - gains Abandoned Mine
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Gold, Silver, Copper, Copper, Copper
+ 
+---------- eliegel: turn 10 ----------
+eliegel - plays Treasury
+eliegel - draws Marauder
+eliegel - plays Marauder
+eliegel - gains Spoils
+Titandrake - gains Ruined Market
+eliegel - plays 2 Copper, 1 Silver
+eliegel - plays Spoils
+eliegel - buys Province
+eliegel - gains Province
+eliegel - shuffles deck
+eliegel - draws Copper, Province, Marauder, Treasury, Spoils
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Junk Dealer, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Spoils, Silver
+ 
+---------- eliegel: turn 11 ----------
+eliegel - plays Treasury
+eliegel - draws Nobles
+eliegel - plays Marauder
+eliegel - gains Spoils
+Titandrake - gains Ruined Library
+eliegel - plays 1 Copper
+eliegel - plays Spoils
+eliegel - buys Treasury
+eliegel - gains Treasury
+eliegel - places Treasury on top of deck
+eliegel - draws Treasury, Steward, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Harem
+Titandrake - trashes Copper
+Titandrake - plays 1 Harem, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Ruined Market, Copper, Copper, Copper
+ 
+---------- eliegel: turn 12 ----------
+eliegel - plays Treasury
+eliegel - draws Abandoned Mine
+eliegel - plays Steward
+eliegel - trashes Abandoned Mine, Copper
+eliegel - plays 1 Silver, 1 Copper
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - places Treasury on top of deck
+eliegel - draws Treasury
+eliegel - shuffles deck
+eliegel - draws Silver, Nobles, Treasury, Spoils
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Gold, Lookout, Copper, Marauder
+ 
+---------- eliegel: turn 13 ----------
+eliegel - plays Treasury
+eliegel - draws Copper
+eliegel - plays Treasury
+eliegel - draws Silver
+eliegel - plays Nobles
+eliegel - draws Province, Steward, Copper
+eliegel - plays 2 Silver, 2 Copper
+eliegel - buys Province
+eliegel - gains Province
+eliegel - draws Marauder
+eliegel - shuffles deck
+eliegel - draws Treasury, Treasury, Silver, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+eliegel - gains Ruined Village
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Treasury, Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Harem, Silver
+ 
+---------- eliegel: turn 14 ----------
+eliegel - plays Treasury
+eliegel - draws Copper
+eliegel - plays Treasury
+eliegel - draws Silver
+eliegel - plays Marauder
+eliegel - gains Spoils
+Titandrake - gains Ruined Market
+eliegel - plays 2 Silver, 1 Copper
+eliegel - buys Harem
+eliegel - gains Harem
+eliegel - draws Spoils, Steward, Nobles, Copper, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Treasury
+Titandrake - draws Ruined Market
+Titandrake - plays Ruined Market
+Titandrake - plays 1 Harem, 1 Copper, 1 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Ruined Library, Gold, Copper, Spoils
+ 
+---------- eliegel: turn 15 ----------
+eliegel - plays Nobles
+eliegel - takes 2 actions
+eliegel - plays Steward
+eliegel - shuffles deck
+eliegel - draws Treasury, Copper
+eliegel - plays Treasury
+eliegel - draws Ruined Village
+eliegel - plays Ruined Village
+eliegel - plays 2 Copper
+eliegel - plays Spoils
+eliegel - buys Harem
+eliegel - gains Harem
+eliegel - draws Silver, Marauder, Silver, Spoils, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Duchy, Copper, Lookout, Junk Dealer, Harem
+ 
+---------- eliegel: turn 16 ----------
+eliegel - plays Marauder
+eliegel - gains Spoils
+Titandrake - gains Ruined Village
+eliegel - plays 2 Silver
+eliegel - plays Spoils
+eliegel - buys Harem
+eliegel - gains Harem
+eliegel - draws Harem, Treasury
+eliegel - shuffles deck
+eliegel - draws Province, Steward, Ruined Village
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Estate
+Titandrake - trashes Lookout
+Titandrake - plays 1 Harem, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Province, Copper, Marauder, Gold
+Titandrake - shuffles deck
+Titandrake - draws Harem
+ 
+---------- eliegel: turn 17 ----------
+eliegel - plays Treasury
+eliegel - draws Spoils
+eliegel - plays Steward
+eliegel - takes 2 coins
+eliegel - plays 1 Harem
+eliegel - plays Spoils
+eliegel - buys Province
+eliegel - gains Province
+eliegel - draws Silver, Copper, Marauder, Harem, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+eliegel - gains Ruined Village
+Titandrake - plays 1 Harem, 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Province, Junk Dealer, Treasury, Ruined Village
+ 
+---------- eliegel: turn 18 ----------
+eliegel - plays Marauder
+eliegel - gains Spoils
+Titandrake - gains Survivors
+eliegel - plays 2 Silver, 1 Harem, 1 Copper
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - draws Copper, Province, Treasury, Harem, Nobles
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Treasury
+Titandrake - draws Ruined Library
+Titandrake - plays Junk Dealer
+Titandrake - draws Ruined Market
+Titandrake - trashes Ruined Village
+Titandrake - plays Ruined Library
+Titandrake - draws Harem
+Titandrake - plays 1 Harem
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - places Treasury on top of deck
+Titandrake - draws Treasury, Silver, Ruined Market, Copper, Province
+ 
+---------- eliegel: turn 19 ----------
+eliegel - plays Treasury
+eliegel - shuffles deck
+eliegel - draws Ruined Village
+eliegel - plays Nobles
+eliegel - draws Province, Silver, Ruined Village
+eliegel - plays 1 Harem, 1 Copper, 1 Silver
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - draws Spoils, Copper, Treasury, Duchy, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Treasury
+Titandrake - draws Gold
+Titandrake - plays Ruined Market
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Duchy, Copper, Copper, Harem
+ 
+---------- eliegel: turn 20 ----------
+eliegel - plays Treasury
+eliegel - draws Marauder
+eliegel - plays Marauder
+eliegel - gains Spoils
+eliegel - plays 1 Copper, 1 Silver
+eliegel - plays Spoils
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - draws Harem, Province, Harem, Steward
+eliegel - shuffles deck
+eliegel - draws Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Copper, 1 Harem
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Marauder, Harem, Duchy
+ 
+---------- eliegel: turn 21 ----------
+eliegel - plays 2 Harem, 1 Copper
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - draws Province, Nobles, Copper, Duchy, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Ruined Market, Survivors, Silver, Harem, Province
+ 
+---------- eliegel: turn 22 ----------
+eliegel - plays Nobles
+eliegel - draws Duchy, Province, Treasury
+eliegel - plays 1 Copper, 1 Silver
+eliegel - buys Estate
+eliegel - gains Estate
+eliegel - draws Spoils, Marauder, Silver, Treasury, Ruined Village
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Ruined Market
+Titandrake - plays 1 Harem, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Copper, Silver, Spoils, Ruined Library
+ 
+---------- eliegel: turn 23 ----------
+eliegel - plays Treasury
+eliegel - draws Ruined Village
+eliegel - plays Marauder
+eliegel - gains Spoils
+eliegel - plays 1 Silver
+eliegel - plays Spoils
+eliegel - buys Harem
+eliegel - gains Harem
+eliegel - draws Harem, Duchy
+eliegel - shuffles deck
+eliegel - draws Duchy, Province, Harem
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Ruined Library
+Titandrake - draws Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Ruined Market, Duchy, Gold, Duchy, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Ruined Market, 1 Treasury, 1 Junk Dealer, 1 Ruined Library, 1 Survivors, 1 Marauder, 5 Copper, 4 Harem, 3 Silver, 2 Gold, 1 Spoils, 5 Estate, 4 Duchy, 3 Province
+Titandrake - total victory points: 43
+Titandrake - turns: 23
+ 
+eliegel - cards: 2 Ruined Village, 2 Treasury, 1 Nobles, 1 Marauder, 1 Steward, 4 Harem, 2 Copper, 2 Silver, 1 Spoils, 4 Duchy, 3 Province, 1 Estate
+eliegel - total victory points: 41
+eliegel - turns: 23
+ 
+1st place: Titandrake
+2nd place: eliegel
+ 

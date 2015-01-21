@@ -1,0 +1,457 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Menagerie, Wishing Well, Bridge, Conspirator, Spy, Explorer, Junk Dealer, Knights, Mystic, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Zakharov - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Zakharov - shuffles deck
+Titandrake - shuffles deck
+Zakharov - draws Overgrown Estate, Necropolis, Copper, Copper, Copper
+Titandrake - draws Hovel, Copper, Copper, Copper, Copper
+ 
+---------- Zakharov: turn 1 ----------
+Zakharov - plays 3 Copper
+Zakharov - buys Silver
+Zakharov - gains Silver
+Zakharov - draws Hovel, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Copper, Overgrown Estate, Copper, Copper, Necropolis
+ 
+---------- Zakharov: turn 2 ----------
+Zakharov - plays 4 Copper
+Zakharov - buys Bridge
+Zakharov - gains Bridge
+Zakharov - shuffles deck
+Zakharov - draws Silver, Hovel, Copper, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Bridge, Silver, Copper, Copper
+ 
+---------- Zakharov: turn 3 ----------
+Zakharov - plays 2 Copper, 1 Silver
+Zakharov - buys Menagerie
+Zakharov - gains Menagerie
+Zakharov - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Hovel, Copper, Necropolis, Copper
+ 
+---------- Zakharov: turn 4 ----------
+Zakharov - plays 4 Copper
+Zakharov - buys Silver
+Zakharov - gains Silver
+Zakharov - draws Bridge, Copper
+Zakharov - shuffles deck
+Zakharov - draws Copper, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Copper, Copper
+ 
+---------- Zakharov: turn 5 ----------
+Zakharov - plays Bridge
+Zakharov - plays 3 Copper, 1 Silver
+Zakharov - buys Junk Dealer
+Zakharov - gains Junk Dealer
+Zakharov - buys Embargo
+Zakharov - gains Embargo
+Zakharov - draws Copper, Silver, Copper, Hovel, Overgrown Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Junk Dealer, Embargo, Copper, Bridge, Copper
+ 
+---------- Zakharov: turn 6 ----------
+Zakharov - plays 2 Copper, 1 Silver
+Zakharov - buys Conspirator
+Zakharov - gains Conspirator
+Zakharov - draws Copper, Menagerie, Copper, Necropolis
+Zakharov - shuffles deck
+Zakharov - draws Hovel
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Embargo
+Titandrake - embargoes Knights
+Titandrake - trashes Embargo
+Titandrake - plays 2 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Hovel, Menagerie, Silver, Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Zakharov: turn 7 ----------
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Copper, Copper, Necropolis, Hovel
+Zakharov - draws Copper
+Zakharov - plays 3 Copper
+Zakharov - buys Menagerie
+Zakharov - gains Menagerie
+Zakharov - draws Overgrown Estate, Conspirator, Bridge, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Hovel, Silver, Necropolis, Copper
+Titandrake - draws Overgrown Estate, Copper, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - draws Copper, Copper, Copper, Conspirator, Junk Dealer
+ 
+---------- Zakharov: turn 8 ----------
+Zakharov - plays Conspirator
+Zakharov - plays 1 Silver, 1 Copper
+Zakharov - buys Junk Dealer
+Zakharov - gains Junk Dealer
+Zakharov - draws Silver, Embargo, Junk Dealer, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Bridge
+Titandrake - trashes Copper
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - buys Wishing Well
+Titandrake - gains Wishing Well
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Wishing Well, Hovel, Bridge, Copper
+ 
+---------- Zakharov: turn 9 ----------
+Zakharov - plays Junk Dealer
+Zakharov - draws Copper
+Zakharov - trashes Copper
+Zakharov - plays Embargo
+Zakharov - embargoes Embargo
+Zakharov - trashes Embargo
+Zakharov - plays 2 Copper, 1 Silver
+Zakharov - buys Mystic
+Zakharov - gains Mystic
+Zakharov - shuffles deck
+Zakharov - draws Menagerie, Hovel, Bridge, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Hovel
+Titandrake - plays Wishing Well
+Titandrake - draws Conspirator
+Titandrake - names Menagerie
+Titandrake - reveals Menagerie
+Titandrake - places Menagerie in hand
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Bridge, Copper, Silver, Conspirator
+Titandrake - draws Copper, Copper, Mystic
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Necropolis
+Titandrake - plays Conspirator
+Titandrake - draws Necropolis
+Titandrake - plays Bridge
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Junk Dealer, Menagerie, Overgrown Estate
+ 
+---------- Zakharov: turn 10 ----------
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Hovel, Bridge, Copper, Copper
+Zakharov - draws Copper
+Zakharov - plays Bridge
+Zakharov - plays 3 Copper
+Zakharov - buys Menagerie
+Zakharov - gains Menagerie
+Zakharov - buys Menagerie
+Zakharov - gains Menagerie
+Zakharov - draws Menagerie, Silver, Junk Dealer, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Necropolis
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Copper, Necropolis
+Titandrake - draws Wishing Well
+Titandrake - plays Wishing Well
+Titandrake - draws Junk Dealer
+Titandrake - names Copper
+Titandrake - reveals Bridge
+Titandrake - plays Junk Dealer
+Titandrake - draws Bridge
+Titandrake - trashes Copper
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Province, Mystic, Conspirator, Silver, Copper
+ 
+---------- Zakharov: turn 11 ----------
+Zakharov - plays Junk Dealer
+Zakharov - draws Copper
+Zakharov - trashes Copper
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Silver, Silver, Copper
+Zakharov - draws Junk Dealer
+Zakharov - plays Junk Dealer
+Zakharov - draws Mystic
+Zakharov - trashes Copper
+Zakharov - plays Mystic
+Zakharov - names Bridge
+Zakharov - reveals Necropolis
+Zakharov - plays 2 Silver
+Zakharov - buys Province
+Zakharov - gains Province
+Zakharov - draws Necropolis, Overgrown Estate, Conspirator, Copper
+Zakharov - shuffles deck
+Zakharov - draws Junk Dealer
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Mystic
+Titandrake - names Menagerie
+Titandrake - reveals Conspirator
+Titandrake - plays Conspirator
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Conspirator, Copper, Menagerie
+Titandrake - shuffles deck
+Titandrake - draws Conspirator, Copper
+ 
+---------- Zakharov: turn 12 ----------
+Zakharov - plays Junk Dealer
+Zakharov - draws Copper
+Zakharov - trashes Overgrown Estate
+Zakharov - draws Silver
+Zakharov - plays Necropolis
+Zakharov - plays Conspirator
+Zakharov - draws Silver
+Zakharov - plays 2 Copper, 2 Silver
+Zakharov - buys Province
+Zakharov - gains Province
+Zakharov - draws Hovel, Copper, Menagerie, Menagerie, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Conspirator, Copper, Conspirator, Copper
+Titandrake - draws Gold
+Titandrake - plays Conspirator
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Menagerie, Necropolis, Wishing Well, Mystic
+ 
+---------- Zakharov: turn 13 ----------
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Hovel, Copper, Menagerie, Copper
+Zakharov - draws Province
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Province, Hovel, Copper, Copper
+Zakharov - draws Junk Dealer
+Zakharov - plays Junk Dealer
+Zakharov - draws Bridge
+Zakharov - trashes Hovel
+Zakharov - plays Bridge
+Zakharov - plays 2 Copper
+Zakharov - buys Conspirator
+Zakharov - gains Conspirator
+Zakharov - draws Mystic, Menagerie, Menagerie
+Zakharov - shuffles deck
+Zakharov - draws Province, Menagerie
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Province, Necropolis, Wishing Well, Mystic
+Titandrake - draws Junk Dealer, Bridge, Junk Dealer
+Titandrake - plays Wishing Well
+Titandrake - draws Menagerie
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Junk Dealer
+Titandrake - draws Conspirator
+Titandrake - trashes Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Junk Dealer, Bridge, Province, Necropolis, Mystic, Conspirator
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Mystic
+Titandrake - names Conspirator
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Conspirator
+Titandrake - draws Menagerie
+Titandrake - plays Junk Dealer
+Titandrake - draws Conspirator
+Titandrake - trashes Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Duchy, Bridge, Province, Necropolis, Copper, Conspirator
+Titandrake - draws Gold, Copper
+Titandrake - plays Conspirator
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper, Wishing Well, Province, Junk Dealer
+ 
+---------- Zakharov: turn 14 ----------
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Mystic, Menagerie, Menagerie, Province
+Zakharov - draws Junk Dealer
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Junk Dealer, Mystic, Menagerie, Province
+Zakharov - draws Copper, Menagerie, Silver
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Copper, Menagerie, Silver, Junk Dealer, Mystic, Province
+Zakharov - draws Copper, Conspirator, Junk Dealer
+Zakharov - plays Junk Dealer
+Zakharov - draws Copper
+Zakharov - trashes Copper
+Zakharov - plays Junk Dealer
+Zakharov - draws Conspirator
+Zakharov - trashes Copper
+Zakharov - plays Conspirator
+Zakharov - draws Copper
+Zakharov - plays Conspirator
+Zakharov - draws Province
+Zakharov - plays Mystic
+Zakharov - names Bridge
+Zakharov - reveals Necropolis
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Copper, Silver, Province, Copper, Province
+Zakharov - draws Necropolis
+Zakharov - plays 2 Copper, 1 Silver
+Zakharov - buys Province
+Zakharov - gains Province
+Zakharov - draws Bridge, Silver
+Zakharov - shuffles deck
+Zakharov - draws Menagerie, Province, Conspirator
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Wishing Well
+Titandrake - draws Gold
+Titandrake - names Menagerie
+Titandrake - reveals Silver
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Necropolis, Menagerie, Province, Mystic, Bridge
+ 
+---------- Zakharov: turn 15 ----------
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Bridge, Silver, Province, Conspirator
+Zakharov - draws Province, Province, Mystic
+Zakharov - plays Mystic
+Zakharov - names Menagerie
+Zakharov - reveals Junk Dealer
+Zakharov - plays Conspirator
+Zakharov - draws Junk Dealer
+Zakharov - plays Junk Dealer
+Zakharov - draws Menagerie
+Zakharov - trashes Silver
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Province, Province, Bridge, Province
+Zakharov - draws Menagerie
+Zakharov - plays Menagerie
+Zakharov - reveals hand: Province, Province, Bridge, Province
+Zakharov - draws Junk Dealer
+Zakharov - plays Junk Dealer
+Zakharov - draws Silver
+Zakharov - trashes Silver
+Zakharov - plays Bridge
+Zakharov - buys Duchy
+Zakharov - gains Duchy
+Zakharov - buys Conspirator
+Zakharov - gains Conspirator
+Zakharov - draws Necropolis, Copper, Menagerie, Conspirator, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Necropolis, Province, Mystic, Bridge
+Titandrake - draws Menagerie, Duchy, Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Duchy, Copper, Necropolis, Province, Mystic, Bridge
+Titandrake - draws Conspirator, Junk Dealer, Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Conspirator, Junk Dealer, Duchy, Copper, Necropolis, Province, Mystic, Bridge
+Titandrake - draws Conspirator, Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Wishing Well
+Titandrake - plays Conspirator
+Titandrake - draws Junk Dealer
+Titandrake - plays Conspirator
+Titandrake - draws Duchy
+Titandrake - plays Conspirator
+Titandrake - draws Silver
+Titandrake - plays Mystic
+Titandrake - names Menagerie
+Titandrake - reveals Gold
+Titandrake - plays Wishing Well
+Titandrake - draws Gold
+Titandrake - names Copper
+Titandrake - reveals Province
+Titandrake - plays Junk Dealer
+Titandrake - draws Province
+Titandrake - trashes Necropolis
+Titandrake - plays Junk Dealer
+Titandrake - draws Province
+Titandrake - trashes Copper
+Titandrake - plays Bridge
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Duchy, Wishing Well, Silver, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Menagerie, 3 Conspirator, 2 Junk Dealer, 1 Wishing Well, 1 Bridge, 1 Mystic, 1 Silver, 1 Gold, 5 Province, 2 Duchy
+Titandrake - total victory points: 36
+Titandrake - turns: 15
+ 
+Zakharov - cards: 4 Menagerie, 3 Conspirator, 2 Junk Dealer, 1 Necropolis, 1 Mystic, 1 Bridge, 2 Copper, 3 Province, 1 Duchy
+Zakharov - total victory points: 21
+Zakharov - turns: 15
+ 
+1st place: Titandrake
+2nd place: Zakharov
+ 

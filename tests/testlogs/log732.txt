@@ -1,0 +1,402 @@
+------------ Game Setup ------------
+Supply cards: Lookout, Woodcutter, Fortress, JackOfAllTrades, Remodel, Throne Room, Contraband, Mountebank, Pillage, Saboteur, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Dunduks - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Dunduks - shuffles deck
+Titandrake - shuffles deck
+Dunduks - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Dunduks: turn 1 ----------
+Dunduks - plays 3 Copper
+Dunduks - buys Lookout
+Dunduks - gains Lookout
+Dunduks - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - shuffles deck
+Titandrake - draws JackOfAllTrades, Copper, Copper, Copper, Estate
+ 
+---------- Dunduks: turn 2 ----------
+Dunduks - plays 4 Copper
+Dunduks - buys JackOfAllTrades
+Dunduks - gains JackOfAllTrades
+Dunduks - shuffles deck
+Dunduks - draws Copper, Lookout, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Copper on top of deck
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Lookout, Copper, Estate, Estate, Copper
+ 
+---------- Dunduks: turn 3 ----------
+Dunduks - plays Lookout
+Dunduks - trashes Estate
+Dunduks - discards Copper
+Dunduks - places JackOfAllTrades on top of deck
+Dunduks - plays 3 Copper
+Dunduks - buys Silver
+Dunduks - gains Silver
+Dunduks - draws JackOfAllTrades, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - draws Copper, Silver, Silver, Copper, JackOfAllTrades
+ 
+---------- Dunduks: turn 4 ----------
+Dunduks - plays JackOfAllTrades
+Dunduks - gains Silver
+Dunduks - shuffles deck
+Dunduks - discards Copper
+Dunduks - trashes Estate
+Dunduks - plays 4 Copper
+Dunduks - buys Fortress
+Dunduks - gains Fortress
+Dunduks - draws Estate, Silver, Copper, Lookout, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - shuffles deck
+Titandrake - draws Mountebank, Silver, JackOfAllTrades, Silver, Silver
+ 
+---------- Dunduks: turn 5 ----------
+Dunduks - plays Lookout
+Dunduks - shuffles deck
+Dunduks - trashes Copper
+Dunduks - discards Copper
+Dunduks - places Fortress on top of deck
+Dunduks - plays 2 Silver, 1 Copper
+Dunduks - buys Mountebank
+Dunduks - gains Mountebank
+Dunduks - draws Fortress, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Mountebank
+Dunduks - gains Curse
+Dunduks - gains Copper
+Titandrake - plays 3 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Lookout, Copper, Copper, Estate
+ 
+---------- Dunduks: turn 6 ----------
+Dunduks - plays Fortress
+Dunduks - draws JackOfAllTrades
+Dunduks - plays JackOfAllTrades
+Dunduks - gains Silver
+Dunduks - shuffles deck
+Dunduks - discards Silver
+Dunduks - plays 5 Copper
+Dunduks - buys Mountebank
+Dunduks - gains Mountebank
+Dunduks - draws Mountebank, Lookout, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver
+ 
+---------- Dunduks: turn 7 ----------
+Dunduks - plays Lookout
+Dunduks - trashes Curse
+Dunduks - discards Estate
+Dunduks - places Copper on top of deck
+Dunduks - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Dunduks - plays 2 Silver, 1 Copper
+Dunduks - buys Gold
+Dunduks - gains Gold
+Dunduks - draws Copper
+Dunduks - shuffles deck
+Dunduks - draws Silver, Copper, Estate, Fortress
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Silver, Silver, Copper
+ 
+---------- Dunduks: turn 8 ----------
+Dunduks - plays Fortress
+Dunduks - draws Copper
+Dunduks - plays 3 Copper, 1 Silver
+Dunduks - buys Contraband
+Dunduks - gains Contraband
+Dunduks - draws Silver, Copper, Copper, Mountebank, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Lookout, JackOfAllTrades, Mountebank, Estate
+ 
+---------- Dunduks: turn 9 ----------
+Dunduks - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Dunduks - plays 3 Copper, 1 Silver
+Dunduks - buys Gold
+Dunduks - gains Gold
+Dunduks - draws JackOfAllTrades, Mountebank, Silver, Gold, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mountebank
+Dunduks - gains Curse
+Dunduks - gains Copper
+Titandrake - plays Gold
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Estate, Silver
+ 
+---------- Dunduks: turn 10 ----------
+Dunduks - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Dunduks - plays 1 Silver, 1 Gold, 1 Copper
+Dunduks - buys Gold
+Dunduks - gains Gold
+Dunduks - draws Lookout
+Dunduks - shuffles deck
+Dunduks - draws Copper, Fortress, Curse, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Copper, JackOfAllTrades, Copper, Gold
+ 
+---------- Dunduks: turn 11 ----------
+Dunduks - plays Lookout
+Dunduks - trashes Copper
+Dunduks - discards Copper
+Dunduks - places Contraband on top of deck
+Dunduks - plays Fortress
+Dunduks - draws Contraband
+Dunduks - plays Contraband
+Titandrake - names Province as contraband
+Dunduks - plays 1 Copper, 1 Gold
+Dunduks - buys Fortress
+Dunduks - gains Fortress
+Dunduks - buys Lookout
+Dunduks - gains Lookout
+Dunduks - draws Gold, Mountebank, Copper, Mountebank, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Mountebank
+Titandrake - plays 2 Gold, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Gold, Estate, Silver, Lookout
+ 
+---------- Dunduks: turn 12 ----------
+Dunduks - plays Mountebank
+Titandrake - discards Curse
+Dunduks - plays 2 Gold, 1 Copper
+Dunduks - buys Province
+Dunduks - gains Province
+Dunduks - draws Copper, Copper, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province
+ 
+---------- Dunduks: turn 13 ----------
+Dunduks - plays 3 Copper, 2 Silver
+Dunduks - buys Gold
+Dunduks - gains Gold
+Dunduks - draws Silver, Estate, Copper, JackOfAllTrades
+Dunduks - shuffles deck
+Dunduks - draws Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Curse, Gold, Lookout, Mountebank
+ 
+---------- Dunduks: turn 14 ----------
+Dunduks - plays JackOfAllTrades
+Dunduks - gains Silver
+Dunduks - discards Copper
+Dunduks - trashes Estate
+Dunduks - plays 1 Silver, 1 Copper, 1 Gold
+Dunduks - buys Gold
+Dunduks - gains Gold
+Dunduks - draws Silver, Silver, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Estate
+Titandrake - places Mountebank on top of deck
+Titandrake - plays Mountebank
+Dunduks - discards Curse
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Mountebank, Silver, Gold, Gold, Copper
+ 
+---------- Dunduks: turn 15 ----------
+Dunduks - plays Silver
+Dunduks - plays Silver
+Dunduks - buys Fortress
+Dunduks - gains Fortress
+Dunduks - draws Mountebank, Lookout, Province, Fortress, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Mountebank
+Dunduks - gains Curse
+Dunduks - gains Copper
+Titandrake - plays 2 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Silver, Copper, Copper
+ 
+---------- Dunduks: turn 16 ----------
+Dunduks - plays Lookout
+Dunduks - trashes Lookout
+Dunduks - discards Contraband
+Dunduks - places Gold on top of deck
+Dunduks - plays Fortress
+Dunduks - draws Gold
+Dunduks - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Dunduks - plays 1 Copper, 1 Gold
+Dunduks - buys Gold
+Dunduks - gains Gold
+Dunduks - draws Copper, Mountebank, Gold, Copper, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, JackOfAllTrades, Silver, Copper, Estate
+ 
+---------- Dunduks: turn 17 ----------
+Dunduks - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Dunduks - plays 2 Copper, 2 Gold
+Dunduks - buys Province
+Dunduks - gains Province
+Dunduks - shuffles deck
+Dunduks - draws Gold, Gold, Copper, Silver, Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - discards Province
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Gold, Curse, Mountebank
+ 
+---------- Dunduks: turn 18 ----------
+Dunduks - plays 2 Gold, 1 Copper, 1 Silver
+Dunduks - buys Province
+Dunduks - gains Province
+Dunduks - draws Gold, JackOfAllTrades, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Mountebank
+Dunduks - gains Curse
+Dunduks - gains Copper
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Lookout, Copper, Copper, Province
+ 
+---------- Dunduks: turn 19 ----------
+Dunduks - plays 3 Copper, 1 Gold
+Dunduks - buys Duchy
+Dunduks - gains Duchy
+Dunduks - draws Mountebank, Gold, Contraband, Copper, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Silver
+Titandrake - places Mountebank on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Mountebank, Copper, Gold, Gold, Silver
+ 
+---------- Dunduks: turn 20 ----------
+Dunduks - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Dunduks - plays Contraband
+Titandrake - names Province as contraband
+Dunduks - plays 1 Gold, 1 Copper
+Dunduks - buys Duchy
+Dunduks - gains Duchy
+Dunduks - buys Estate
+Dunduks - gains Estate
+Dunduks - draws Fortress, Province, Fortress, Copper, Lookout
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Mountebank
+Dunduks - gains Copper
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Curse, Gold, Copper, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Mountebank, 10 Copper, 1 JackOfAllTrades, 1 Lookout, 7 Gold, 7 Silver, 5 Province, 3 Estate, 4 Curse
+Titandrake - total victory points: 29
+Titandrake - turns: 21
+ 
+Dunduks - cards: 3 Fortress, 2 Mountebank, 10 Copper, 1 Lookout, 1 JackOfAllTrades, 6 Gold, 4 Silver, 1 Contraband, 3 Province, 2 Duchy, 1 Estate, 3 Curse
+Dunduks - total victory points: 22
+Dunduks - turns: 20
+ 
+1st place: Titandrake
+2nd place: Dunduks
+ 

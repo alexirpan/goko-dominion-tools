@@ -1,0 +1,377 @@
+------------ Game Setup ------------
+Supply cards: Lookout, Smugglers, Workshop, Conspirator, Island, Quarry, Talisman, Council Room, Market, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+OshGosh - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+OshGosh - shuffles deck
+Titandrake - shuffles deck
+OshGosh - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- OshGosh: turn 1 ----------
+OshGosh - plays 4 Copper
+OshGosh - buys Quarry
+OshGosh - gains Quarry
+OshGosh - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- OshGosh: turn 2 ----------
+OshGosh - plays 3 Copper
+OshGosh - buys Lookout
+OshGosh - gains Lookout
+OshGosh - shuffles deck
+OshGosh - draws Copper, Copper, Lookout, Quarry, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Lookout
+ 
+---------- OshGosh: turn 3 ----------
+OshGosh - plays Lookout
+OshGosh - trashes Estate
+OshGosh - discards Copper
+OshGosh - places Copper on top of deck
+OshGosh - plays 2 Copper
+OshGosh - plays Quarry
+OshGosh - buys Market
+OshGosh - gains Market
+OshGosh - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Quarry on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Quarry, Copper, Copper, Estate, Estate
+ 
+---------- OshGosh: turn 4 ----------
+OshGosh - plays 4 Copper
+OshGosh - buys Talisman
+OshGosh - gains Talisman
+OshGosh - shuffles deck
+OshGosh - draws Market, Lookout, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- OshGosh: turn 5 ----------
+OshGosh - plays Lookout
+OshGosh - trashes Copper
+OshGosh - discards Copper
+OshGosh - places Quarry on top of deck
+OshGosh - plays Market
+OshGosh - draws Quarry
+OshGosh - plays 2 Copper
+OshGosh - plays Quarry
+OshGosh - buys Market
+OshGosh - gains Market
+OshGosh - draws Copper, Talisman, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Copper, Lookout, Estate, Quarry, Market
+ 
+---------- OshGosh: turn 6 ----------
+OshGosh - plays 3 Copper
+OshGosh - plays Talisman
+OshGosh - buys Conspirator
+OshGosh - gains Conspirator
+OshGosh - gains Conspirator
+OshGosh - shuffles deck
+OshGosh - draws Quarry, Copper, Copper, Lookout, Market
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Estate
+Titandrake - places Copper on top of deck
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Market
+ 
+---------- OshGosh: turn 7 ----------
+OshGosh - plays Lookout
+OshGosh - trashes Copper
+OshGosh - discards Market
+OshGosh - places Talisman on top of deck
+OshGosh - plays Market
+OshGosh - draws Talisman
+OshGosh - plays 2 Copper
+OshGosh - plays Talisman
+OshGosh - plays Quarry
+OshGosh - buys Market
+OshGosh - gains Market
+OshGosh - gains Market
+OshGosh - buys Conspirator
+OshGosh - gains Conspirator
+OshGosh - gains Conspirator
+OshGosh - draws Estate, Conspirator, Copper, Estate, Conspirator
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Lookout, Silver, Estate, Quarry, Market
+ 
+---------- OshGosh: turn 8 ----------
+OshGosh - plays Conspirator
+OshGosh - plays 1 Copper
+OshGosh - buys Silver
+OshGosh - gains Silver
+OshGosh - draws Copper, Copper
+OshGosh - shuffles deck
+OshGosh - draws Conspirator, Copper, Lookout
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Lookout
+Titandrake - places Market on top of deck
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Quarry
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Conspirator, Conspirator, Market, Copper, Market
+ 
+---------- OshGosh: turn 9 ----------
+OshGosh - plays Lookout
+OshGosh - trashes Talisman
+OshGosh - discards Quarry
+OshGosh - places Market on top of deck
+OshGosh - plays Conspirator
+OshGosh - plays 3 Copper
+OshGosh - buys Market
+OshGosh - gains Market
+OshGosh - draws Market, Market, Conspirator, Conspirator, Conspirator
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Market
+Titandrake - draws Conspirator
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays Conspirator
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Copper, Lookout, Silver, Quarry, Lookout
+ 
+---------- OshGosh: turn 10 ----------
+OshGosh - plays Market
+OshGosh - draws Copper
+OshGosh - plays Market
+OshGosh - draws Market
+OshGosh - plays Conspirator
+OshGosh - draws Market
+OshGosh - plays Conspirator
+OshGosh - draws Copper
+OshGosh - plays Conspirator
+OshGosh - draws Estate
+OshGosh - plays Market
+OshGosh - draws Estate
+OshGosh - plays Market
+OshGosh - draws Silver
+OshGosh - plays 2 Copper, 1 Silver
+OshGosh - buys Province
+OshGosh - gains Province
+OshGosh - buys Gold
+OshGosh - gains Gold
+OshGosh - shuffles deck
+OshGosh - draws Conspirator, Quarry, Gold, Conspirator, Province
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Estate
+Titandrake - discards Conspirator
+Titandrake - places Market on top of deck
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Quarry
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Market, Copper, Market, Market, Market
+ 
+---------- OshGosh: turn 11 ----------
+OshGosh - plays Conspirator
+OshGosh - plays 1 Gold
+OshGosh - plays Quarry
+OshGosh - buys Gold
+OshGosh - gains Gold
+OshGosh - draws Estate, Copper, Estate, Market, Market
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Conspirator
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Market
+Titandrake - draws Province
+Titandrake - plays Conspirator
+Titandrake - draws Estate
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Conspirator, Copper
+Titandrake - shuffles deck
+Titandrake - draws Market, Market, Quarry
+ 
+---------- OshGosh: turn 12 ----------
+OshGosh - plays Market
+OshGosh - draws Copper
+OshGosh - plays Market
+OshGosh - draws Conspirator
+OshGosh - plays Conspirator
+OshGosh - draws Copper
+OshGosh - plays 3 Copper
+OshGosh - buys Bank
+OshGosh - gains Bank
+OshGosh - draws Market, Conspirator, Silver, Lookout, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Market
+Titandrake - draws Conspirator
+Titandrake - plays Market
+Titandrake - draws Province
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Lookout
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Island
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Market, Lookout, Copper, Market
+ 
+---------- OshGosh: turn 13 ----------
+OshGosh - plays Lookout
+OshGosh - trashes Copper
+OshGosh - discards Market
+OshGosh - places Market on top of deck
+OshGosh - plays Market
+OshGosh - draws Market
+OshGosh - plays Market
+OshGosh - shuffles deck
+OshGosh - draws Province
+OshGosh - plays Conspirator
+OshGosh - draws Conspirator
+OshGosh - plays Conspirator
+OshGosh - draws Conspirator
+OshGosh - plays Conspirator
+OshGosh - draws Copper
+OshGosh - plays 2 Copper, 1 Silver
+OshGosh - buys Province
+OshGosh - gains Province
+OshGosh - buys Island
+OshGosh - gains Island
+OshGosh - draws Market, Estate, Gold, Copper, Conspirator
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Silver
+Titandrake - places Conspirator on top of deck
+Titandrake - plays Market
+Titandrake - draws Conspirator
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Province, Market, Conspirator, Silver
+ 
+---------- OshGosh: turn 14 ----------
+OshGosh - plays Market
+OshGosh - draws Copper
+OshGosh - plays Conspirator
+OshGosh - plays 2 Copper, 1 Gold
+OshGosh - buys Province
+OshGosh - gains Province
+OshGosh - draws Gold, Market, Bank, Market, Quarry
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Quarry
+Titandrake - plays Conspirator
+Titandrake - draws Lookout
+Titandrake - plays 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Island
+Titandrake - shuffles deck
+Titandrake - draws Market, Market, Lookout
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Market, 3 Conspirator, 2 Lookout, 1 Island, 4 Copper, 1 Quarry, 1 Silver, 5 Province
+Titandrake - total victory points: 32
+Titandrake - turns: 14
+ 
+OshGosh - cards: 5 Market, 4 Conspirator, 1 Island, 1 Lookout, 4 Copper, 2 Gold, 1 Quarry, 1 Silver, 1 Bank, 3 Province, 2 Estate
+OshGosh - total victory points: 22
+OshGosh - turns: 14
+ 
+1st place: Titandrake
+2nd place: OshGosh
+ 

@@ -1,0 +1,723 @@
+------------ Game Setup ------------
+Supply cards: Sage, Gardens, Counting House, Duke, Graverobber, Jester, Mandarin, Margrave, Venture, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+greens - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+greens - shuffles deck
+Titandrake - shuffles deck
+greens - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- greens: turn 1 ----------
+greens - plays 3 Copper
+greens - buys Sage
+greens - gains Sage
+greens - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- greens: turn 2 ----------
+greens - plays 4 Copper
+greens - buys Silver
+greens - gains Silver
+greens - shuffles deck
+greens - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- greens: turn 3 ----------
+greens - plays 3 Copper, 1 Silver
+greens - buys Margrave
+greens - gains Margrave
+greens - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- greens: turn 4 ----------
+greens - plays 3 Copper
+greens - buys Silver
+greens - gains Silver
+greens - draws Copper, Sage
+greens - shuffles deck
+greens - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- greens: turn 5 ----------
+greens - plays Sage
+greens - reveals Copper, Copper, Copper, Margrave
+greens - places Margrave in hand
+greens - discards: Copper, Copper, Copper
+greens - plays Margrave
+greens - draws Estate, Silver, Silver
+Titandrake - draws Jester
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+greens - plays 3 Copper, 2 Silver
+greens - buys Nobles
+greens - gains Nobles
+greens - draws Estate, Copper
+greens - shuffles deck
+greens - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Jester
+greens - reveals Copper
+greens - discards Copper
+greens - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Margrave, Silver, Estate
+ 
+---------- greens: turn 6 ----------
+greens - plays 3 Copper, 1 Silver
+greens - buys Jester
+greens - gains Jester
+greens - draws Estate, Margrave, Copper, Sage, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Margrave
+Titandrake - draws Copper, Estate, Copper
+greens - draws Copper
+greens - discards Estate
+greens - discards Copper
+greens - discards Copper
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Margrave, Estate, Copper, Gold
+ 
+---------- greens: turn 7 ----------
+greens - plays Sage
+greens - reveals Silver
+greens - places Silver in hand
+greens - plays Margrave
+greens - draws Estate, Nobles
+greens - shuffles deck
+greens - draws Copper
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+greens - plays 2 Copper, 1 Silver
+greens - buys Sage
+greens - gains Sage
+greens - draws Copper, Silver, Copper, Copper, Jester
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Margrave
+Titandrake - draws Jester, Copper, Estate
+greens - draws Copper
+greens - discards Copper
+greens - discards Copper
+greens - discards Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Mandarin
+Titandrake - gains Mandarin
+Titandrake - places Copper on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Gold, Copper, Estate, Copper
+ 
+---------- greens: turn 8 ----------
+greens - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+greens - plays 1 Copper, 1 Silver
+greens - buys Margrave
+greens - gains Margrave
+greens - draws Copper, Estate, Copper, Estate
+greens - shuffles deck
+greens - draws Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver, Silver, Silver, Copper
+ 
+---------- greens: turn 9 ----------
+greens - plays 3 Copper
+greens - buys Silver
+greens - gains Silver
+greens - draws Sage, Copper, Copper, Nobles, Margrave
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Estate, Copper, Mandarin, Silver
+ 
+---------- greens: turn 10 ----------
+greens - plays Sage
+greens - reveals Copper, Copper, Silver
+greens - places Silver in hand
+greens - discards: Copper, Copper
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Margrave
+greens - draws Margrave, Silver, Copper
+Titandrake - draws Copper
+Titandrake - discards Duchy
+Titandrake - discards Estate
+Titandrake - discards Copper
+greens - plays Margrave
+greens - draws Jester, Sage, Estate
+Titandrake - draws Copper
+Titandrake - discards Copper
+greens - plays 3 Copper, 2 Silver
+greens - buys Gold
+greens - gains Gold
+greens - shuffles deck
+greens - draws Estate, Copper, Sage, Jester, Margrave
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mandarin
+Titandrake - places Copper on top of deck
+Titandrake - plays 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Estate, Copper, Silver, Duchy
+ 
+---------- greens: turn 11 ----------
+greens - plays Sage
+greens - reveals Sage
+greens - places Sage in hand
+greens - plays Sage
+greens - reveals Copper, Nobles
+greens - places Nobles in hand
+greens - discards Copper
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Margrave
+greens - draws Silver, Copper, Copper
+Titandrake - draws Copper
+Titandrake - discards Duchy
+Titandrake - discards Estate
+Titandrake - discards Copper
+greens - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+greens - plays 3 Copper, 1 Silver
+greens - buys Nobles
+greens - gains Nobles
+greens - draws Estate, Copper, Margrave, Copper, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Margrave, Copper, Copper, Estate, Gold
+ 
+---------- greens: turn 12 ----------
+greens - plays Margrave
+greens - draws Copper, Estate, Silver
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+greens - plays 3 Copper, 1 Gold, 1 Silver
+greens - buys Province
+greens - gains Province
+greens - draws Copper, Silver
+greens - shuffles deck
+greens - draws Sage, Copper, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Margrave
+Titandrake - draws Silver, Copper, Jester
+greens - draws Estate
+greens - discards Estate
+greens - discards Copper
+greens - discards Copper
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Mandarin
+Titandrake - gains Mandarin
+Titandrake - places Copper on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Copper on top of deck
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Silver, Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- greens: turn 13 ----------
+greens - plays Sage
+greens - reveals Copper, Copper, Margrave
+greens - places Margrave in hand
+greens - discards: Copper, Copper
+greens - plays Margrave
+greens - draws Sage, Province, Copper
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+greens - plays 1 Silver, 1 Gold, 1 Copper
+greens - buys Nobles
+greens - gains Nobles
+greens - draws Copper, Jester, Silver, Nobles, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Copper, Silver, Jester
+ 
+---------- greens: turn 14 ----------
+greens - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+greens - plays 2 Copper, 1 Silver
+greens - buys Nobles
+greens - gains Nobles
+greens - draws Silver, Nobles, Copper, Estate, Margrave
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Jester
+greens - reveals Estate
+greens - discards Estate
+greens - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Duchy, Mandarin, Copper, Copper
+ 
+---------- greens: turn 15 ----------
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Margrave
+greens - shuffles deck
+greens - draws Sage, Gold, Province
+Titandrake - draws Copper
+Titandrake - discards Duchy
+Titandrake - discards Copper
+Titandrake - discards Copper
+greens - plays Sage
+greens - reveals Silver
+greens - places Silver in hand
+greens - plays 2 Silver, 1 Copper, 1 Gold
+greens - buys Duchy
+greens - gains Duchy
+greens - buys Sage
+greens - gains Sage
+greens - draws Nobles, Copper, Sage, Estate, Jester
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Mandarin
+Titandrake - places Copper on top of deck
+Titandrake - plays 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Silver, Duchy, Duchy
+ 
+---------- greens: turn 16 ----------
+greens - plays Sage
+greens - reveals Silver
+greens - places Silver in hand
+greens - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+greens - plays 1 Copper, 1 Silver
+greens - buys Duchy
+greens - gains Duchy
+greens - draws Copper, Copper, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Estate, Mandarin, Copper, Margrave
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- greens: turn 17 ----------
+greens - plays 4 Copper
+greens - buys Sage
+greens - gains Sage
+greens - draws Margrave, Estate, Nobles, Nobles, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Mandarin
+Titandrake - places Margrave on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Margrave, Copper, Gold, Copper, Mandarin
+ 
+---------- greens: turn 18 ----------
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Margrave
+greens - draws Copper
+greens - shuffles deck
+greens - draws Nobles, Gold
+Titandrake - draws Duchy
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Duchy
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Nobles
+greens - draws Copper, Silver, Sage
+greens - plays Sage
+greens - reveals Silver
+greens - places Silver in hand
+greens - plays 3 Copper, 2 Silver, 1 Gold
+greens - buys Jester
+greens - gains Jester
+greens - buys Venture
+greens - gains Venture
+greens - draws Province, Copper, Estate, Nobles, Sage
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Mandarin
+Titandrake - places Margrave on top of deck
+Titandrake - plays 1 Gold
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Margrave, Copper, Copper, Silver, Copper
+ 
+---------- greens: turn 19 ----------
+greens - plays Sage
+greens - reveals Copper, Duchy
+greens - places Duchy in hand
+greens - discards Copper
+greens - plays Nobles
+greens - draws Duchy, Silver, Copper
+greens - plays 2 Copper, 1 Silver
+greens - buys Sage
+greens - gains Sage
+greens - draws Copper, Copper, Margrave, Sage, Curse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Margrave
+Titandrake - draws Silver, Estate, Copper
+greens - draws Estate
+greens - discards Estate
+greens - discards Curse
+greens - discards Copper
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Duchy, Copper, Copper, Jester, Silver
+ 
+---------- greens: turn 20 ----------
+greens - plays Sage
+greens - reveals Sage
+greens - places Sage in hand
+greens - plays Sage
+greens - reveals Jester
+greens - places Jester in hand
+greens - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+greens - shuffles deck
+greens - draws Copper, Sage, Copper, Jester, Margrave
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Jester
+greens - reveals Silver
+greens - discards Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Duchy, Copper, Copper, Silver, Estate
+ 
+---------- greens: turn 21 ----------
+greens - plays Sage
+greens - reveals Silver
+greens - places Silver in hand
+greens - plays Jester
+Titandrake - reveals Duchy
+Titandrake - discards Duchy
+Titandrake - gains Curse
+greens - plays 2 Copper, 1 Silver
+greens - buys Nobles
+greens - gains Nobles
+greens - draws Jester, Copper, Nobles, Copper, Province
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Copper, Gardens, Duchy, Duchy
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- greens: turn 22 ----------
+greens - plays Jester
+Titandrake - reveals Duchy
+Titandrake - discards Duchy
+Titandrake - gains Curse
+greens - plays 2 Copper
+greens - buys Gardens
+greens - gains Gardens
+greens - draws Nobles, Estate, Silver, Estate, Sage
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper, Jester, Estate, Copper
+ 
+---------- greens: turn 23 ----------
+greens - plays Sage
+greens - reveals Margrave
+greens - places Margrave in hand
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Margrave
+greens - draws Copper, Nobles, Estate
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+greens - plays Nobles
+greens - draws Sage, Curse, Duchy
+greens - plays 1 Silver, 1 Copper
+greens - buys Sage
+greens - gains Sage
+greens - draws Duchy, Copper, Copper, Gold, Sage
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Jester
+greens - reveals Nobles
+greens - discards Nobles
+greens - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Silver, Estate, Silver, Duchy, Duke
+ 
+---------- greens: turn 24 ----------
+greens - plays Sage
+greens - reveals Copper, Venture
+greens - places Venture in hand
+greens - discards Copper
+greens - plays 2 Copper, 1 Gold
+greens - plays Venture
+greens - shuffles deck
+greens - reveals Sage, Estate, Silver
+greens - discards: Sage, Estate
+greens - plays Silver
+greens - buys Province
+greens - gains Province
+greens - draws Jester, Sage, Copper, Copper, Nobles
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 2 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Duke, Margrave, Gold, Gardens, Copper
+ 
+---------- greens: turn 25 ----------
+greens - plays Sage
+greens - reveals Copper, Estate, Nobles
+greens - places Nobles in hand
+greens - discards: Copper, Estate
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Nobles
+greens - draws Sage, Estate, Nobles
+greens - plays Sage
+greens - reveals Silver
+greens - places Silver in hand
+greens - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+greens - plays 2 Copper, 1 Silver
+greens - buys Nobles
+greens - gains Nobles
+greens - draws Silver, Duchy, Nobles, Gardens, Margrave
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Margrave
+Titandrake - draws Mandarin, Silver, Duchy
+greens - draws Curse
+greens - discards Curse
+greens - discards Gardens
+greens - discards Duchy
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Silver, Copper, Mandarin, Curse, Copper
+ 
+---------- greens: turn 26 ----------
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Margrave
+greens - draws Province, Copper, Copper
+Titandrake - draws Copper
+Titandrake - discards Curse
+Titandrake - discards Copper
+Titandrake - discards Copper
+greens - plays 2 Copper, 1 Silver
+greens - buys Gardens
+greens - gains Gardens
+greens - buys Copper
+greens - gains Copper
+greens - draws Margrave, Sage, Curse, Copper, Jester
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Mandarin
+Titandrake - places Copper on top of deck
+Titandrake - plays 1 Silver
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Copper, Copper, Silver, Silver, Duchy
+ 
+---------- greens: turn 27 ----------
+greens - plays Sage
+greens - reveals Sage
+greens - places Sage in hand
+greens - plays Sage
+greens - reveals Nobles
+greens - places Nobles in hand
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Margrave
+greens - shuffles deck
+greens - draws Copper, Copper, Copper
+Titandrake - draws Copper
+Titandrake - discards Duchy
+Titandrake - discards Copper
+Titandrake - discards Copper
+greens - plays Jester
+Titandrake - reveals Estate
+Titandrake - discards Estate
+Titandrake - gains Curse
+greens - plays 4 Copper
+greens - buys Nobles
+greens - gains Nobles
+greens - draws Estate, Margrave, Sage, Curse, Sage
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Copper, Duke, Duke, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- greens: turn 28 ----------
+greens - plays Sage
+greens - reveals Gardens
+greens - places Gardens in hand
+greens - plays Sage
+greens - reveals Copper, Copper, Gardens
+greens - places Gardens in hand
+greens - discards: Copper, Copper
+greens - plays Margrave
+greens - draws Copper, Duchy, Silver
+Titandrake - draws Gardens
+Titandrake - discards Duke
+Titandrake - discards Duke
+Titandrake - discards Gardens
+greens - plays 1 Copper, 1 Silver
+greens - buys Estate
+greens - gains Estate
+greens - buys Copper
+greens - gains Copper
+greens - draws Nobles, Nobles, Nobles, Estate, Province
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Duke, Copper, Copper, Gardens
+ 
+---------- greens: turn 29 ----------
+greens - plays Nobles
+greens - takes 2 actions
+greens - plays Nobles
+greens - draws Gold, Duchy, Jester
+greens - plays Jester
+Titandrake - reveals Mandarin
+Titandrake - discards Mandarin
+greens - gains Mandarin
+greens - plays 1 Gold
+greens - buys Gardens
+greens - gains Gardens
+greens - draws Copper, Venture, Nobles, Silver, Province
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Estate, Duchy, Duke, Jester
+ 
+---------- greens: turn 30 ----------
+greens - plays Nobles
+greens - draws Sage, Estate, Copper
+greens - plays 2 Copper, 1 Silver
+greens - plays Venture
+greens - reveals Nobles, Sage, Silver
+greens - discards: Nobles, Sage
+greens - plays Silver
+greens - buys Nobles
+greens - gains Nobles
+greens - shuffles deck
+greens - draws Gardens, Nobles, Sage, Nobles, Nobles
+ 
+---------- Titandrake: turn 30 ----------
+Titandrake - plays Jester
+greens - reveals Nobles
+greens - discards Nobles
+greens - gains Curse
+Titandrake - plays 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Duchy, Copper, Copper, Estate, Gardens
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Mandarin, 17 Copper, 1 Margrave, 1 Jester, 6 Silver, 1 Gold, 7 Duke, 6 Estate, 6 Duchy, 5 Gardens, 3 Curse
+Titandrake - total victory points: 88
+Titandrake - turns: 30
+ 
+greens - cards: 8 Nobles, 6 Sage, 2 Jester, 2 Margrave, 10 Copper, 1 Mandarin, 3 Silver, 1 Gold, 1 Venture, 4 Estate, 3 Gardens, 2 Province, 2 Duchy, 3 Curse
+greens - total victory points: 47
+greens - turns: 30
+ 
+1st place: Titandrake
+2nd place: greens
+ 

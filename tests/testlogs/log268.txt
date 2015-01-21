@@ -1,0 +1,838 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Herald, Procession, Worker's Village, Embassy, Merchant Guild, Soothsayer, Venture, Forge, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Silver
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Copper, Copper, Estate, Worker's Village, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Embassy
+SheCantSayNo - gains Embassy
+Titandrake - gains Silver
+SheCantSayNo - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Worker's Village
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Silver, Herald, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays 2 Copper, 2 Silver
+SheCantSayNo - buys Worker's Village
+SheCantSayNo - gains Worker's Village
+SheCantSayNo - draws Copper, Estate, Copper, Silver, Embassy
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+SheCantSayNo - gains Silver
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Worker's Village, Copper
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Copper, Copper, Copper, Estate
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - plays 5 Copper, 1 Silver
+SheCantSayNo - buys Forge
+SheCantSayNo - gains Forge
+SheCantSayNo - draws Copper, Worker's Village, Copper, Silver, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+SheCantSayNo - gains Silver
+Titandrake - draws Embassy, Copper, Worker's Village, Copper, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Silver
+SheCantSayNo - plays 3 Silver, 2 Copper
+SheCantSayNo - buys Worker's Village
+SheCantSayNo - gains Worker's Village
+SheCantSayNo - buys Worker's Village
+SheCantSayNo - gains Worker's Village
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Worker's Village, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays Embassy
+Titandrake - draws Copper, Silver, Copper, Herald, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Herald
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Forge
+Titandrake - gains Forge
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Worker's Village, Copper
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Worker's Village
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Copper
+SheCantSayNo - plays 3 Copper, 2 Silver
+SheCantSayNo - buys King's Court
+SheCantSayNo - gains King's Court
+SheCantSayNo - draws Silver, Silver, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Estate, Estate, Embassy, Silver, Silver
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays 3 Silver, 1 Copper
+SheCantSayNo - buys King's Court
+SheCantSayNo - gains King's Court
+SheCantSayNo - draws Copper, Copper, Worker's Village, Copper, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Silver
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Worker's Village, Herald, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Estate
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Forge, Embassy
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Estate, King's Court
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Herald
+Titandrake - draws Forge
+Titandrake - reveals: Embassy
+Titandrake - plays Embassy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Silver, Worker's Village, Estate
+Titandrake - discards Estate
+Titandrake - discards Silver
+Titandrake - discards Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Embassy
+Titandrake - plays Embassy
+Titandrake - draws Copper, Silver, Estate, Estate, Worker's Village
+Titandrake - discards Worker's Village
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - plays Forge
+Titandrake - trashes Copper, Copper, Copper, Copper, Copper, Estate, Estate
+Titandrake - gains Worker's Village
+Titandrake - draws Worker's Village, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Worker's Village, Embassy
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Estate, Estate, Copper, Silver, Silver
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Copper, Copper, Copper, King's Court, Silver
+SheCantSayNo - discards King's Court
+SheCantSayNo - discards Forge
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Copper, Silver, Worker's Village, Worker's Village, Copper
+SheCantSayNo - discards Worker's Village
+SheCantSayNo - discards Worker's Village
+SheCantSayNo - discards Copper
+SheCantSayNo - plays 5 Silver, 4 Copper
+SheCantSayNo - buys King's Court
+SheCantSayNo - gains King's Court
+SheCantSayNo - draws Worker's Village, Copper, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays Embassy
+Titandrake - draws Silver, Forge, Copper, Embassy, Herald
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Herald
+Titandrake - draws Worker's Village
+Titandrake - reveals: Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays Forge
+Titandrake - trashes Estate, Silver
+Titandrake - gains Soothsayer
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Merchant Guild
+Titandrake - gains Merchant Guild
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Worker's Village, Worker's Village, Merchant Guild, Copper
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Copper
+SheCantSayNo - plays 3 Copper, 2 Silver
+SheCantSayNo - buys Embassy
+SheCantSayNo - gains Embassy
+Titandrake - gains Silver
+SheCantSayNo - buys Cellar
+SheCantSayNo - gains Cellar
+SheCantSayNo - draws Silver, Copper, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Forge
+Titandrake - plays Worker's Village
+Titandrake - draws Soothsayer
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SheCantSayNo - gains Curse
+SheCantSayNo - draws Embassy
+Titandrake - plays Merchant Guild
+Titandrake - plays Forge
+Titandrake - trashes Copper, Copper
+Titandrake - gains Copper
+Titandrake - draws Silver, Worker's Village, Worker's Village, Silver, Worker's Village
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Estate, King's Court, Forge, Estate, Silver
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Estate
+SheCantSayNo - plays 3 Silver, 2 Copper
+SheCantSayNo - buys Worker's Village
+SheCantSayNo - gains Worker's Village
+SheCantSayNo - draws Worker's Village, Copper, Worker's Village, Copper, King's Court
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Embassy
+Titandrake - plays Worker's Village
+Titandrake - draws Embassy
+Titandrake - plays Worker's Village
+Titandrake - draws Herald
+Titandrake - plays Herald
+Titandrake - shuffles deck
+Titandrake - draws Merchant Guild
+Titandrake - reveals: Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Forge
+Titandrake - plays Embassy
+Titandrake - draws Soothsayer, Silver, Gold, Copper
+Titandrake - discards Forge
+Titandrake - discards Copper
+Titandrake - discards Embassy
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SheCantSayNo - gains Curse
+SheCantSayNo - draws King's Court
+Titandrake - plays Merchant Guild
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys King's Court
+Titandrake - receives 1 coin token
+Titandrake - gains King's Court
+Titandrake - buys Silver
+Titandrake - receives 1 coin token
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Worker's Village, Silver, Merchant Guild, King's Court
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Silver
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Embassy
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Copper
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Copper, Silver, Estate, Copper, King's Court
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Worker's Village, Silver, Forge, Curse, Estate
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Curse, Silver, Silver, Copper, Cellar
+SheCantSayNo - discards Cellar
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Silver
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Estate
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Embassy
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Worker's Village
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Silver, Silver, Cellar
+SheCantSayNo - discards Cellar
+SheCantSayNo - discards Worker's Village
+SheCantSayNo - discards Silver
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Silver, Estate, Copper, Copper, Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - plays Embassy
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Silver, Cellar, Silver, Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Forge
+SheCantSayNo - trashes Copper, Copper, Copper, Copper, Copper, Copper, Copper, Curse, Curse, Estate, Estate, Estate
+SheCantSayNo - gains Gold
+SheCantSayNo - plays 3 Silver
+SheCantSayNo - buys Merchant Guild
+SheCantSayNo - gains Merchant Guild
+SheCantSayNo - draws Worker's Village
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Cellar, Worker's Village, Silver, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays King's Court
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays Worker's Village
+Titandrake - draws Gold
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Merchant Guild
+Titandrake - plays 3 Silver, 1 Gold, 1 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys King's Court
+Titandrake - receives 1 coin token
+Titandrake - gains King's Court
+Titandrake - buys Gold
+Titandrake - receives 1 coin token
+Titandrake - gains Gold
+Titandrake - draws Worker's Village, Embassy, Herald, Embassy, Worker's Village
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws King's Court
+SheCantSayNo - plays Cellar
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - draws Embassy, Forge
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws King's Court
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Worker's Village, Silver, Embassy, Merchant Guild, Gold
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Forge
+SheCantSayNo - discards Gold
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws King's Court, Worker's Village, Silver, Silver, Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - plays Embassy
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Forge, Silver, Silver, Silver, Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Gold, Silver, Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Silver, Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - plays Embassy
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Silver, Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Silver
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Silver
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Silver
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Forge
+SheCantSayNo - trashes Silver, Silver, Silver
+SheCantSayNo - gains Platinum
+SheCantSayNo - plays Forge
+SheCantSayNo - trashes Silver, Silver, Silver
+SheCantSayNo - gains Platinum
+SheCantSayNo - plays Forge
+SheCantSayNo - gains Copper
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Platinum
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Platinum
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Merchant Guild
+SheCantSayNo - plays 2 Platinum, 1 Gold, 1 Copper
+SheCantSayNo - buys Merchant Guild
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Merchant Guild
+SheCantSayNo - buys Merchant Guild
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Merchant Guild
+SheCantSayNo - buys Merchant Guild
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Merchant Guild
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Gold, Worker's Village, Merchant Guild, King's Court, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Soothsayer
+Titandrake - plays Herald
+Titandrake - draws Worker's Village
+Titandrake - reveals: Forge
+Titandrake - plays Forge
+Titandrake - gains Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Gold
+Titandrake - plays Embassy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Worker's Village, King's Court
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays King's Court
+Titandrake - plays Worker's Village
+Titandrake - draws King's Court
+Titandrake - plays Worker's Village
+Titandrake - draws Merchant Guild
+Titandrake - plays Worker's Village
+Titandrake - draws Gold
+Titandrake - plays King's Court
+Titandrake - plays Embassy
+Titandrake - draws Silver, Gold, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - plays Embassy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays Embassy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SheCantSayNo - gains Curse
+SheCantSayNo - draws Worker's Village
+Titandrake - plays Merchant Guild
+Titandrake - plays 3 Silver, 3 Gold
+Titandrake - uses 2 coin tokens
+Titandrake - buys Colony
+Titandrake - receives 1 coin token
+Titandrake - gains Colony
+Titandrake - buys King's Court
+Titandrake - receives 1 coin token
+Titandrake - gains King's Court
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Worker's Village, Silver, King's Court
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Platinum
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws King's Court
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws King's Court
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Forge
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Merchant Guild
+SheCantSayNo - plays Merchant Guild
+SheCantSayNo - plays Merchant Guild
+SheCantSayNo - plays 1 Gold, 1 Copper, 1 Platinum
+SheCantSayNo - uses 3 coin tokens
+SheCantSayNo - buys Colony
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Colony
+SheCantSayNo - buys Worker's Village
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Worker's Village
+SheCantSayNo - draws Cellar, Embassy, Embassy, Merchant Guild, Merchant Guild
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays King's Court
+Titandrake - plays Worker's Village
+Titandrake - draws Herald
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Colony
+Titandrake - plays Herald
+Titandrake - draws Soothsayer
+Titandrake - reveals: Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws King's Court
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SheCantSayNo - gains Curse
+SheCantSayNo - draws Platinum
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - uses 2 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Forge, Silver, Embassy, Gold
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Cellar
+SheCantSayNo - discards Merchant Guild
+SheCantSayNo - discards Merchant Guild
+SheCantSayNo - discards Platinum
+SheCantSayNo - discards Embassy
+SheCantSayNo - draws Worker's Village, Merchant Guild, Worker's Village
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws King's Court
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Worker's Village
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Curse
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Curse
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Copper, Gold, King's Court, Forge, Platinum
+SheCantSayNo - discards Curse
+SheCantSayNo - discards Gold
+SheCantSayNo - discards Copper
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Merchant Guild, Colony, Embassy, Merchant Guild, Merchant Guild
+SheCantSayNo - discards Colony
+SheCantSayNo - discards Platinum
+SheCantSayNo - discards Merchant Guild
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws King's Court, Worker's Village, Worker's Village, Platinum
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Platinum
+SheCantSayNo - discards Platinum
+SheCantSayNo - discards Platinum
+SheCantSayNo - discards Merchant Guild
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Gold, Curse, Merchant Guild, Copper, Colony
+SheCantSayNo - discards Colony
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Gold
+SheCantSayNo - plays Embassy
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Gold, Colony, Copper, Merchant Guild, Platinum
+SheCantSayNo - discards Colony
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Platinum
+SheCantSayNo - plays Embassy
+SheCantSayNo - draws Platinum
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Platinum, Colony
+SheCantSayNo - discards Colony
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Curse
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Curse
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Colony
+SheCantSayNo - plays King's Court
+SheCantSayNo - plays Forge
+SheCantSayNo - trashes Curse, Curse, Copper, Merchant Guild
+SheCantSayNo - gains Merchant Guild
+SheCantSayNo - plays Forge
+SheCantSayNo - gains Copper
+SheCantSayNo - plays Forge
+SheCantSayNo - gains Copper
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Merchant Guild
+SheCantSayNo - plays Merchant Guild
+SheCantSayNo - plays Merchant Guild
+SheCantSayNo - plays Merchant Guild
+SheCantSayNo - plays Merchant Guild
+SheCantSayNo - plays 2 Platinum, 1 Gold
+SheCantSayNo - uses 2 coin tokens
+SheCantSayNo - buys Colony
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Colony
+SheCantSayNo - buys Province
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Province
+SheCantSayNo - buys Copper
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Copper
+SheCantSayNo - buys Copper
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Copper
+SheCantSayNo - buys Copper
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - gains Copper
+SheCantSayNo - draws Copper, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Worker's Village, Forge
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Forge
+Titandrake - trashes Gold, Embassy
+Titandrake - gains Colony
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+SheCantSayNo - gains Silver
+Titandrake - draws Embassy, Silver, Worker's Village, King's Court, Gold
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Worker's Village
+SheCantSayNo - draws Province
+SheCantSayNo - plays Forge
+SheCantSayNo - trashes Province
+SheCantSayNo - gains Province
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - uses 19 coin tokens
+SheCantSayNo - buys Colony
+SheCantSayNo - gains Colony
+SheCantSayNo - buys Colony
+SheCantSayNo - gains Colony
+SheCantSayNo - draws Gold, Embassy, Worker's Village, Merchant Guild, Worker's Village
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Gold
+Titandrake - plays King's Court
+Titandrake - plays Embassy
+Titandrake - draws Worker's Village, Merchant Guild
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Worker's Village
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - plays Embassy
+Titandrake - draws King's Court, Embassy, Silver, Province, Herald
+Titandrake - discards Province
+Titandrake - discards Herald
+Titandrake - discards Silver
+Titandrake - plays Embassy
+Titandrake - draws Soothsayer, Silver, King's Court, Gold, Colony
+Titandrake - discards Colony
+Titandrake - discards Silver
+Titandrake - discards Worker's Village
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Embassy
+Titandrake - draws Worker's Village, Gold, Forge, Colony, Worker's Village
+Titandrake - discards Colony
+Titandrake - discards Gold
+Titandrake - discards Gold
+Titandrake - plays Embassy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Worker's Village, Herald, Silver
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - plays Embassy
+Titandrake - draws Gold, Colony, Silver, Colony, Gold
+Titandrake - discards Colony
+Titandrake - discards Colony
+Titandrake - discards Silver
+Titandrake - plays King's Court
+Titandrake - plays Worker's Village
+Titandrake - draws Silver
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Province
+Titandrake - plays King's Court
+Titandrake - plays Forge
+Titandrake - trashes Herald, Worker's Village, Silver
+Titandrake - gains Colony
+Titandrake - plays Forge
+Titandrake - trashes Gold, Merchant Guild
+Titandrake - gains Colony
+Titandrake - plays Forge
+Titandrake - trashes Worker's Village, Worker's Village
+Titandrake - gains Province
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+SheCantSayNo - gains Curse
+SheCantSayNo - draws Platinum
+Titandrake - plays 3 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Gold, Colony, King's Court
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 King's Court, 2 Worker's Village, 2 Embassy, 1 Soothsayer, 1 Forge, 4 Gold, 3 Silver, 2 Copper, 4 Colony, 3 Province, 1 Estate
+Titandrake - total victory points: 59
+Titandrake - turns: 19
+ 
+SheCantSayNo - cards: 5 Worker's Village, 4 Merchant Guild, 3 King's Court, 2 Embassy, 1 Forge, 1 Cellar, 5 Copper, 2 Platinum, 1 Gold, 1 Silver, 4 Colony, 1 Province, 1 Curse
+SheCantSayNo - total victory points: 45
+SheCantSayNo - turns: 18
+ 
+1st place: Titandrake
+2nd place: SheCantSayNo
+ 

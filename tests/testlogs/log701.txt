@@ -1,0 +1,455 @@
+------------ Game Setup ------------
+Supply cards: Fishing Village, Great Hall, Warehouse, Island, Throne Room, Worker's Village, Embassy, Highway, Adventurer, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+jtomase - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+jtomase - shuffles deck
+Titandrake - shuffles deck
+jtomase - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- jtomase: turn 1 ----------
+jtomase - plays 4 Copper
+jtomase - buys Island
+jtomase - gains Island
+jtomase - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- jtomase: turn 2 ----------
+jtomase - plays 3 Copper
+jtomase - buys Fishing Village
+jtomase - gains Fishing Village
+jtomase - shuffles deck
+jtomase - draws Estate, Copper, Island, Copper, Fishing Village
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- jtomase: turn 3 ----------
+jtomase - plays Fishing Village
+jtomase - plays Island
+jtomase - sets aside Estate
+jtomase - plays 2 Copper
+jtomase - buys Silver
+jtomase - gains Silver
+jtomase - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Warehouse, Worker's Village, Estate, Copper, Estate
+ 
+---------- jtomase: turn 4 ----------
+jtomase - duration Fishing Village
+jtomase - plays 3 Copper
+jtomase - buys Island
+jtomase - gains Island
+jtomase - draws Copper, Copper
+jtomase - shuffles deck
+jtomase - draws Copper, Island, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Warehouse
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Worker's Village, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- jtomase: turn 5 ----------
+jtomase - plays 4 Copper
+jtomase - buys Island
+jtomase - gains Island
+jtomase - draws Copper, Silver, Copper, Copper, Fishing Village
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Warehouse, Estate, Copper, Estate
+ 
+---------- jtomase: turn 6 ----------
+jtomase - plays Fishing Village
+jtomase - plays 3 Copper, 1 Silver
+jtomase - buys Highway
+jtomase - gains Highway
+jtomase - draws Estate, Estate
+jtomase - shuffles deck
+jtomase - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Peddler
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Great Hall, Worker's Village, Copper, Worker's Village, Peddler
+ 
+---------- jtomase: turn 7 ----------
+jtomase - duration Fishing Village
+jtomase - plays 3 Copper
+jtomase - buys Island
+jtomase - gains Island
+jtomase - draws Copper, Copper, Island, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Throne Room
+Titandrake - plays 4 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Estate, Peddler, Estate, Copper, Copper
+ 
+---------- jtomase: turn 8 ----------
+jtomase - plays Island
+jtomase - sets aside Copper
+jtomase - plays 2 Copper, 1 Silver
+jtomase - buys Island
+jtomase - gains Island
+jtomase - draws Copper, Highway, Island
+jtomase - shuffles deck
+jtomase - draws Island, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Peddler
+Titandrake - draws Warehouse
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+jtomase - gains Silver
+Titandrake - draws Copper, Copper, Worker's Village, Peddler, Peddler
+ 
+---------- jtomase: turn 9 ----------
+jtomase - plays Highway
+jtomase - draws Copper
+jtomase - plays Island
+jtomase - sets aside Island
+jtomase - plays 3 Copper
+jtomase - buys Island
+jtomase - gains Island
+jtomase - draws Fishing Village, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Peddler
+Titandrake - draws Great Hall
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Great Hall
+Titandrake - draws Throne Room
+Titandrake - plays Worker's Village
+Titandrake - draws Highway
+Titandrake - plays Throne Room
+Titandrake - plays Highway
+Titandrake - draws Peddler
+Titandrake - plays Highway
+Titandrake - draws Worker's Village
+Titandrake - plays Peddler
+Titandrake - shuffles deck
+Titandrake - draws Peddler
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Estate, Warehouse, Copper, Estate
+ 
+---------- jtomase: turn 10 ----------
+jtomase - plays Fishing Village
+jtomase - plays 3 Copper, 1 Silver
+jtomase - buys Gold
+jtomase - gains Gold
+jtomase - draws Estate, Estate, Island
+jtomase - shuffles deck
+jtomase - draws Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Embassy
+Titandrake - shuffles deck
+Titandrake - draws Peddler
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Embassy
+Titandrake - draws Throne Room, Copper, Peddler, Great Hall, Copper
+Titandrake - discards Throne Room
+Titandrake - discards Peddler
+Titandrake - discards Great Hall
+Titandrake - plays 5 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Highway, Copper, Peddler, Copper, Peddler
+ 
+---------- jtomase: turn 11 ----------
+jtomase - duration Fishing Village
+jtomase - plays Island
+jtomase - sets aside Estate
+jtomase - plays 2 Copper
+jtomase - buys Fishing Village
+jtomase - gains Fishing Village
+jtomase - draws Highway, Silver, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Peddler
+Titandrake - draws Worker's Village
+Titandrake - plays Highway
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Highway
+Titandrake - plays Worker's Village
+Titandrake - draws Peddler
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Estate
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Estate, Peddler, Highway, Estate, Great Hall
+ 
+---------- jtomase: turn 12 ----------
+jtomase - plays Highway
+jtomase - draws Gold
+jtomase - plays 2 Silver, 2 Copper, 1 Gold
+jtomase - buys Province
+jtomase - gains Province
+jtomase - draws Copper, Copper, Island
+jtomase - shuffles deck
+jtomase - draws Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Peddler
+Titandrake - plays Highway
+Titandrake - draws Warehouse
+Titandrake - plays Peddler
+Titandrake - draws Embassy
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Peddler
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Embassy
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Highway, Peddler
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Peddler
+Titandrake - plays Embassy
+Titandrake - draws Estate, Highway, Highway, Copper, Worker's Village
+Titandrake - discards Highway
+Titandrake - discards Highway
+Titandrake - discards Highway
+Titandrake - plays 4 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Peddler, Peddler, Copper, Worker's Village
+ 
+---------- jtomase: turn 13 ----------
+jtomase - plays Island
+jtomase - sets aside Estate
+jtomase - plays 3 Copper
+jtomase - buys Silver
+jtomase - gains Silver
+jtomase - draws Silver, Copper, Copper, Fishing Village, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Peddler
+Titandrake - draws Worker's Village
+Titandrake - plays Peddler
+Titandrake - draws Highway
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - shuffles deck
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Warehouse
+Titandrake - plays Worker's Village
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Throne Room, Peddler
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Throne Room
+Titandrake - plays Peddler
+Titandrake - draws Worker's Village
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+jtomase - gains Silver
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Highway, Estate, Embassy, Peddler
+ 
+---------- jtomase: turn 14 ----------
+jtomase - plays Fishing Village
+jtomase - plays 2 Copper, 1 Silver, 1 Gold
+jtomase - buys Province
+jtomase - gains Province
+jtomase - draws Fishing Village, Province, Silver, Highway, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Estate
+Titandrake - plays Embassy
+Titandrake - draws Highway, Highway, Copper, Worker's Village, Highway
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Peddler
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Highway
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Throne Room
+Titandrake - plays 5 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Province, Highway, Estate, Embassy
+ 
+---------- jtomase: turn 15 ----------
+jtomase - duration Fishing Village
+jtomase - plays Fishing Village
+jtomase - plays Highway
+jtomase - shuffles deck
+jtomase - draws Silver
+jtomase - plays 2 Silver, 1 Copper
+jtomase - buys Province
+jtomase - gains Province
+jtomase - draws Copper, Copper, Copper, Gold, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 8 Highway, 5 Peddler, 5 Worker's Village, 2 Embassy, 1 Great Hall, 1 Throne Room, 1 Warehouse, 7 Copper, 5 Province, 3 Estate
+Titandrake - total victory points: 34
+Titandrake - turns: 14
+ 
+jtomase - cards: 6 Island, 2 Fishing Village, 1 Highway, 7 Copper, 4 Silver, 1 Gold, 3 Province, 3 Estate
+jtomase - total victory points: 33
+jtomase - turns: 15
+ 
+1st place: Titandrake
+2nd place: jtomase
+ 

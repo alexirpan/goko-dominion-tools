@@ -1,0 +1,383 @@
+------------ Game Setup ------------
+Supply cards: Masterpiece, Fortress, Moneylender, Spy, Bandit Camp, Mint, Rebuild, Tactician, Venture, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Kirian - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kirian - shuffles deck
+Titandrake - shuffles deck
+Kirian - draws Copper, Necropolis, Copper, Copper, Overgrown Estate
+Titandrake - draws Overgrown Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - draws Hovel, Copper, Copper, Copper, Necropolis
+ 
+---------- Kirian: turn 1 ----------
+Kirian - plays 3 Copper
+Kirian - buys Silver
+Kirian - gains Silver
+Kirian - draws Copper, Hovel, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- Kirian: turn 2 ----------
+Kirian - plays 4 Copper
+Kirian - buys Moneylender
+Kirian - gains Moneylender
+Kirian - shuffles deck
+Kirian - draws Copper, Moneylender, Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Overgrown Estate, Copper, Moneylender, Necropolis, Silver
+ 
+---------- Kirian: turn 3 ----------
+Kirian - plays Moneylender
+Kirian - trashes Copper
+Kirian - plays 2 Copper
+Kirian - buys Bandit Camp
+Kirian - gains Bandit Camp
+Kirian - draws Copper, Overgrown Estate, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Silver, Moneylender
+ 
+---------- Kirian: turn 4 ----------
+Kirian - plays 3 Copper, 1 Silver
+Kirian - buys Tactician
+Kirian - gains Tactician
+Kirian - draws Copper, Hovel
+Kirian - shuffles deck
+Kirian - draws Overgrown Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Hovel, Copper, Silver, Copper, Copper
+ 
+---------- Kirian: turn 5 ----------
+Kirian - plays 3 Copper
+Kirian - buys Silver
+Kirian - gains Silver
+Kirian - draws Moneylender, Silver, Copper, Copper, Necropolis
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Necropolis, Bandit Camp, Copper
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp, Moneylender
+ 
+---------- Kirian: turn 6 ----------
+Kirian - plays Moneylender
+Kirian - trashes Copper
+Kirian - plays 1 Silver, 1 Copper
+Kirian - buys Nobles
+Kirian - gains Nobles
+Kirian - draws Tactician, Bandit Camp, Copper
+Kirian - shuffles deck
+Kirian - draws Copper, Nobles
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Nobles
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Nobles
+Titandrake - draws Silver, Silver, Copper
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Copper, Copper, Hovel, Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Kirian: turn 7 ----------
+Kirian - plays Bandit Camp
+Kirian - draws Hovel
+Kirian - gains Spoils
+Kirian - plays Nobles
+Kirian - draws Copper, Silver, Moneylender
+Kirian - plays Tactician
+Kirian - discards: Copper, Copper, Hovel, Copper, Silver, Moneylender
+Kirian - draws Necropolis, Copper, Silver, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Spoils, Moneylender, Copper, Necropolis
+ 
+---------- Kirian: turn 8 ----------
+Kirian - duration Tactician
+Kirian - shuffles deck
+Kirian - draws Bandit Camp, Moneylender, Copper, Nobles, Spoils
+Kirian - plays Bandit Camp
+Kirian - draws Copper
+Kirian - gains Spoils
+Kirian - plays Nobles
+Kirian - draws Silver, Copper, Hovel
+Kirian - plays Moneylender
+Kirian - trashes Copper
+Kirian - plays 4 Copper, 2 Silver
+Kirian - plays Spoils
+Kirian - buys Platinum
+Kirian - gains Platinum
+Kirian - buys Bandit Camp
+Kirian - gains Bandit Camp
+Kirian - shuffles deck
+Kirian - draws Necropolis, Silver, Spoils, Bandit Camp, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Copper, Bandit Camp, Platinum, Spoils, Nobles
+ 
+---------- Kirian: turn 9 ----------
+Kirian - plays Bandit Camp
+Kirian - draws Tactician
+Kirian - gains Spoils
+Kirian - plays Tactician
+Kirian - discards: Necropolis, Silver, Spoils, Copper
+Kirian - draws Moneylender, Bandit Camp, Hovel, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Bandit Camp
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - gains Spoils
+Titandrake - plays Nobles
+Titandrake - draws Spoils, Copper, Rebuild
+Titandrake - plays Rebuild
+Titandrake - names Nobles
+Titandrake - reveals Moneylender, Overgrown Estate
+Titandrake - discards Moneylender
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Silver
+Titandrake - gains Estate
+Titandrake - plays 2 Copper, 2 Silver, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Hovel, Necropolis, Spoils, Silver
+ 
+---------- Kirian: turn 10 ----------
+Kirian - duration Tactician
+Kirian - draws Nobles, Copper, Overgrown Estate, Platinum, Silver
+Kirian - plays Bandit Camp
+Kirian - shuffles deck
+Kirian - draws Spoils
+Kirian - gains Spoils
+Kirian - plays Nobles
+Kirian - draws Spoils, Silver, Necropolis
+Kirian - plays Moneylender
+Kirian - trashes Copper
+Kirian - plays 2 Copper, 2 Silver, 1 Platinum
+Kirian - plays Spoils
+Kirian - buys Colony
+Kirian - trashes Hovel
+Kirian - gains Colony
+Kirian - buys Nobles
+Kirian - gains Nobles
+Kirian - draws Bandit Camp, Copper
+Kirian - shuffles deck
+Kirian - draws Platinum, Moneylender, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Nobles
+Titandrake - trashes Hovel
+Titandrake - gains Nobles
+Titandrake - shuffles deck
+Titandrake - draws Spoils, Estate, Spoils, Rebuild, Copper
+ 
+---------- Kirian: turn 11 ----------
+Kirian - plays Bandit Camp
+Kirian - draws Copper
+Kirian - gains Spoils
+Kirian - plays Moneylender
+Kirian - trashes Copper
+Kirian - plays 2 Copper, 1 Platinum
+Kirian - buys Platinum
+Kirian - gains Platinum
+Kirian - draws Overgrown Estate, Spoils, Silver, Spoils, Nobles
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Rebuild
+Titandrake - names Nobles
+Titandrake - reveals Spoils, Bandit Camp, Silver, Moneylender, Silver, Nobles, Bandit Camp, Copper, Silver, Nobles, Copper, Necropolis, Platinum, Colony
+Titandrake - discards: Spoils, Bandit Camp, Silver, Moneylender, Silver, Nobles, Bandit Camp, Copper, Silver, Nobles, Copper, Necropolis, Platinum
+Titandrake - trashes Colony
+Titandrake - gains Colony
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Moneylender, Silver, Spoils, Copper
+ 
+---------- Kirian: turn 12 ----------
+Kirian - plays Nobles
+Kirian - draws Necropolis, Silver, Tactician
+Kirian - plays 2 Silver
+Kirian - plays Spoils
+Kirian - buys Nobles
+Kirian - gains Nobles
+Kirian - draws Nobles, Bandit Camp, Colony
+Kirian - shuffles deck
+Kirian - draws Nobles, Spoils
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Nobles
+Titandrake - draws Copper, Nobles, Silver
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Necropolis, Nobles, Rebuild, Copper, Bandit Camp
+ 
+---------- Kirian: turn 13 ----------
+Kirian - plays Bandit Camp
+Kirian - draws Necropolis
+Kirian - gains Spoils
+Kirian - plays Nobles
+Kirian - draws Copper, Silver, Tactician
+Kirian - plays Necropolis
+Kirian - plays Nobles
+Kirian - draws Platinum, Overgrown Estate, Copper
+Kirian - plays 2 Copper, 1 Silver, 1 Platinum
+Kirian - plays Spoils
+Kirian - buys Colony
+Kirian - gains Colony
+Kirian - draws Nobles, Platinum, Spoils, Moneylender, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Colony
+Titandrake - gains Spoils
+Titandrake - plays Nobles
+Titandrake - draws Platinum, Silver, Bandit Camp
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays Rebuild
+Titandrake - names Colony
+Titandrake - shuffles deck
+Titandrake - reveals Nobles
+Titandrake - trashes Nobles
+Titandrake - gains Province
+Titandrake - plays 1 Copper, 1 Platinum, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Spoils, Copper, Moneylender, Copper
+ 
+---------- Kirian: turn 14 ----------
+Kirian - plays Nobles
+Kirian - draws Bandit Camp
+Kirian - shuffles deck
+Kirian - draws Bandit Camp, Silver
+Kirian - plays 2 Silver, 1 Platinum
+Kirian - plays Spoils
+Kirian - buys Colony
+Kirian - gains Colony
+Kirian - draws Spoils, Tactician, Nobles, Necropolis, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Spoils, Province, Nobles, Silver
+Titandrake - shuffles deck
+Titandrake - draws Platinum
+ 
+---------- Kirian: turn 15 ----------
+Kirian - plays Tactician
+Kirian - discards: Spoils, Nobles, Necropolis, Copper
+Kirian - draws Nobles, Colony, Overgrown Estate, Copper, Colony
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Nobles
+Titandrake - draws Bandit Camp, Copper, Bandit Camp
+Titandrake - plays 1 Silver, 1 Platinum, 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Silver, Estate, Province, Copper, Moneylender
+ 
+---------- Kirian: turn 16 ----------
+Kirian - duration Tactician
+Kirian - draws Platinum
+Kirian - shuffles deck
+Kirian - draws Nobles, Spoils, Bandit Camp, Silver
+Kirian - plays Bandit Camp
+Kirian - draws Nobles
+Kirian - gains Spoils
+Kirian - plays Nobles
+Kirian - draws Moneylender, Necropolis, Colony
+Kirian - plays Nobles
+Kirian - draws Copper, Bandit Camp, Platinum
+Kirian - plays Bandit Camp
+Kirian - draws Silver
+Kirian - gains Spoils
+Kirian - plays Nobles
+Kirian - shuffles deck
+Kirian - draws Spoils, Spoils
+Kirian - plays Necropolis
+Kirian - plays Moneylender
+Kirian - trashes Copper
+Kirian - plays 2 Platinum, 2 Silver, 1 Copper
+Kirian - plays Spoils
+Kirian - plays Spoils
+Kirian - plays Spoils
+Kirian - buys Colony
+Kirian - gains Colony
+Kirian - buys Colony
+Kirian - gains Colony
+Kirian - shuffles deck
+Kirian - draws Colony, Necropolis, Nobles, Tactician, Platinum
+ 
+------------ Game Over ------------
+Kirian - cards: 3 Nobles, 2 Bandit Camp, 1 Necropolis, 1 Tactician, 1 Moneylender, 2 Platinum, 2 Silver, 1 Copper, 5 Colony, 1 Overgrown Estate
+Kirian - total victory points: 56
+Kirian - turns: 16
+ 
+Titandrake - cards: 2 Nobles, 2 Bandit Camp, 1 Moneylender, 1 Rebuild, 1 Necropolis, 3 Silver, 2 Copper, 1 Platinum, 4 Province, 2 Colony, 1 Estate
+Titandrake - total victory points: 49
+Titandrake - turns: 16
+ 
+1st place: Kirian
+2nd place: Titandrake
+ 

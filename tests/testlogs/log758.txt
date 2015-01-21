@@ -1,0 +1,694 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Squire, Scrying Pool, Chancellor, Fortune Teller, Marauder, Spice Merchant, Mandarin, Rebuild, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Toblakai - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Toblakai - shuffles deck
+Titandrake - shuffles deck
+Toblakai - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Toblakai: turn 1 ----------
+Toblakai - plays 4 Copper
+Toblakai - buys Spice Merchant
+Toblakai - gains Spice Merchant
+Toblakai - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Fortune Teller
+Titandrake - gains Fortune Teller
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Toblakai: turn 2 ----------
+Toblakai - plays 3 Copper
+Toblakai - buys Fortune Teller
+Toblakai - gains Fortune Teller
+Toblakai - shuffles deck
+Toblakai - draws Copper, Estate, Estate, Copper, Fortune Teller
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Fortune Teller, Copper, Spice Merchant, Estate, Copper
+ 
+---------- Toblakai: turn 3 ----------
+Toblakai - plays Fortune Teller
+Titandrake - reveals Estate
+Toblakai - plays 2 Copper
+Toblakai - buys Potion
+Toblakai - gains Potion
+Toblakai - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Copper
+Titandrake - plays Fortune Teller
+Toblakai - shuffles deck
+Toblakai - reveals Copper, Spice Merchant, Estate
+Toblakai - discards: Copper, Spice Merchant
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - shuffles deck
+Titandrake - draws Fortune Teller, Estate, Estate, Copper, Copper
+ 
+---------- Toblakai: turn 4 ----------
+Toblakai - plays 4 Copper
+Toblakai - buys Spice Merchant
+Toblakai - gains Spice Merchant
+Toblakai - draws Estate, Estate, Fortune Teller, Potion, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Fortune Teller
+Toblakai - shuffles deck
+Toblakai - reveals Copper, Copper, Copper, Copper, Spice Merchant, Copper, Copper, Estate
+Toblakai - discards: Copper, Copper, Copper, Copper, Spice Merchant, Copper, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Squire, Spice Merchant, Copper, Copper, Estate
+ 
+---------- Toblakai: turn 5 ----------
+Toblakai - plays Fortune Teller
+Titandrake - shuffles deck
+Titandrake - reveals Potion, Copper, Copper, Copper, Lighthouse, Fortune Teller, Estate
+Titandrake - discards: Potion, Copper, Copper, Copper, Lighthouse, Fortune Teller
+Toblakai - plays 1 Potion, 1 Copper
+Toblakai - buys Scrying Pool
+Toblakai - gains Scrying Pool
+Toblakai - draws Estate, Spice Merchant
+Toblakai - shuffles deck
+Toblakai - draws Spice Merchant, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Estate, Copper
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Spice Merchant, Lighthouse, Copper, Estate
+ 
+---------- Toblakai: turn 6 ----------
+Toblakai - plays Spice Merchant
+Toblakai - trashes Copper
+Toblakai - chooses two cards and one action
+Toblakai - draws Scrying Pool, Potion
+Toblakai - plays Scrying Pool
+Toblakai - discards Copper
+Titandrake - places Copper on top of deck
+Toblakai - reveals Copper
+Toblakai - plays Spice Merchant
+Toblakai - trashes Copper
+Toblakai - chooses two cards and one action
+Toblakai - draws Estate, Copper
+Toblakai - plays 2 Copper, 1 Potion
+Toblakai - buys Scrying Pool
+Toblakai - gains Scrying Pool
+Toblakai - draws Copper, Estate, Fortune Teller, Copper
+Toblakai - shuffles deck
+Toblakai - draws Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Copper
+Titandrake - plays Lighthouse
+Titandrake - plays 2 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Potion, Estate, Squire, Copper, Copper
+ 
+---------- Toblakai: turn 7 ----------
+Toblakai - plays Fortune Teller
+Toblakai - plays 2 Copper
+Toblakai - buys Squire
+Toblakai - gains Squire
+Toblakai - draws Scrying Pool, Potion, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Fortune Teller, Squire
+Titandrake - shuffles deck
+Titandrake - draws Potion, Copper, Copper
+ 
+---------- Toblakai: turn 8 ----------
+Toblakai - plays Scrying Pool
+Toblakai - places Spice Merchant on top of deck
+Titandrake - discards Spice Merchant
+Toblakai - reveals Spice Merchant, Scrying Pool, Spice Merchant, Copper
+Toblakai - plays Scrying Pool
+Toblakai - shuffles deck
+Toblakai - discards Estate
+Titandrake - discards Scrying Pool
+Toblakai - reveals Estate
+Toblakai - plays Spice Merchant
+Toblakai - trashes Copper
+Toblakai - chooses two cards and one action
+Toblakai - draws Squire, Fortune Teller
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Fortune Teller
+Titandrake - reveals Copper, Estate
+Titandrake - discards Copper
+Toblakai - plays Spice Merchant
+Toblakai - trashes Copper
+Toblakai - chooses two coins and one buy
+Toblakai - plays 1 Potion, 1 Copper
+Toblakai - buys Peddler
+Toblakai - gains Peddler
+Toblakai - buys Scrying Pool
+Toblakai - gains Scrying Pool
+Toblakai - draws Copper, Copper
+Toblakai - shuffles deck
+Toblakai - draws Squire, Spice Merchant, Fortune Teller
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Fortune Teller
+Toblakai - reveals Estate
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Estate, Squire, Lighthouse, Squire, Lighthouse
+ 
+---------- Toblakai: turn 9 ----------
+Toblakai - plays Spice Merchant
+Toblakai - trashes Copper
+Toblakai - chooses two cards and one action
+Toblakai - draws Estate, Potion
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Fortune Teller
+Titandrake - reveals Estate
+Toblakai - plays 1 Copper, 1 Potion
+Toblakai - buys Scrying Pool
+Toblakai - gains Scrying Pool
+Toblakai - draws Estate, Scrying Pool, Scrying Pool, Estate, Scrying Pool
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- Toblakai: turn 10 ----------
+Toblakai - plays Scrying Pool
+Toblakai - places Spice Merchant on top of deck
+Toblakai - reveals Spice Merchant, Peddler, Copper
+Toblakai - plays Peddler
+Toblakai - shuffles deck
+Toblakai - draws Fortune Teller
+Toblakai - plays Scrying Pool
+Toblakai - places Scrying Pool on top of deck
+Toblakai - reveals Scrying Pool, Spice Merchant, Squire, Copper
+Toblakai - plays Scrying Pool
+Toblakai - places Potion on top of deck
+Toblakai - reveals Potion
+Toblakai - plays Scrying Pool
+Toblakai - places Estate on top of deck
+Toblakai - reveals Estate
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Spice Merchant
+Toblakai - trashes Copper
+Toblakai - chooses two coins and one buy
+Toblakai - plays Spice Merchant
+Toblakai - trashes Copper
+Toblakai - chooses two coins and one buy
+Toblakai - plays 1 Potion
+Toblakai - buys Squire
+Toblakai - gains Squire
+Toblakai - buys Fortune Teller
+Toblakai - gains Fortune Teller
+Toblakai - buys Peddler
+Toblakai - gains Peddler
+Toblakai - shuffles deck
+Toblakai - draws Squire, Peddler, Scrying Pool, Estate, Fortune Teller
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays 2 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Peddler, Scrying Pool, Potion, Copper, Copper
+ 
+---------- Toblakai: turn 11 ----------
+Toblakai - plays Scrying Pool
+Toblakai - places Spice Merchant on top of deck
+Titandrake - places Squire on top of deck
+Toblakai - reveals Spice Merchant, Scrying Pool, Scrying Pool, Peddler, Estate
+Toblakai - plays Scrying Pool
+Toblakai - places Scrying Pool on top of deck
+Titandrake - discards Squire
+Toblakai - reveals Scrying Pool, Fortune Teller, Estate
+Toblakai - plays Scrying Pool
+Toblakai - places Spice Merchant on top of deck
+Titandrake - discards Squire
+Toblakai - reveals Spice Merchant, Potion
+Toblakai - plays Scrying Pool
+Toblakai - places Squire on top of deck
+Titandrake - discards Spice Merchant
+Toblakai - reveals Squire
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 buys
+Toblakai - plays Fortune Teller
+Titandrake - shuffles deck
+Titandrake - reveals Scrying Pool, Squire, Fortune Teller, Spice Merchant, Peddler, Lighthouse, Squire, Estate
+Titandrake - discards: Scrying Pool, Squire, Fortune Teller, Spice Merchant, Peddler, Lighthouse, Squire
+Toblakai - plays 1 Potion
+Toblakai - buys Squire
+Toblakai - gains Squire
+Toblakai - buys Squire
+Toblakai - gains Squire
+Toblakai - buys Scrying Pool
+Toblakai - gains Scrying Pool
+Toblakai - shuffles deck
+Toblakai - draws Fortune Teller, Scrying Pool, Peddler, Squire, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Peddler
+Titandrake - draws Estate
+Titandrake - plays Scrying Pool
+Titandrake - places Peddler on top of deck
+Toblakai - discards Squire
+Titandrake - reveals Peddler, Copper
+Titandrake - plays Peddler
+Titandrake - draws Spice Merchant
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Lighthouse, Squire
+Titandrake - plays Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Squire, Peddler
+ 
+---------- Toblakai: turn 12 ----------
+Toblakai - plays Scrying Pool
+Toblakai - places Squire on top of deck
+Toblakai - reveals Squire, Fortune Teller, Scrying Pool, Potion
+Toblakai - plays Scrying Pool
+Toblakai - places Peddler on top of deck
+Toblakai - reveals Peddler, Spice Merchant, Squire, Spice Merchant, Scrying Pool, Estate
+Toblakai - plays Scrying Pool
+Toblakai - places Scrying Pool on top of deck
+Toblakai - reveals Scrying Pool, Estate
+Toblakai - plays Scrying Pool
+Toblakai - places Scrying Pool on top of deck
+Toblakai - shuffles deck
+Toblakai - reveals Scrying Pool, Squire
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 buys
+Toblakai - plays Squire
+Toblakai - takes 2 buys
+Toblakai - plays Fortune Teller
+Toblakai - plays 1 Potion
+Toblakai - buys Peddler
+Toblakai - gains Peddler
+Toblakai - buys Peddler
+Toblakai - gains Peddler
+Toblakai - buys Peddler
+Toblakai - gains Peddler
+Toblakai - buys Peddler
+Toblakai - gains Peddler
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - shuffles deck
+Toblakai - draws Estate, Squire, Fortune Teller, Scrying Pool, Squire
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Peddler
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+Toblakai - discards Peddler
+Titandrake - reveals Peddler, Scrying Pool, Squire, Estate
+Titandrake - plays Scrying Pool
+Titandrake - places Spice Merchant on top of deck
+Toblakai - discards Spice Merchant
+Titandrake - reveals Spice Merchant, Scrying Pool, Lighthouse, Spice Merchant, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Squire on top of deck
+Toblakai - places Estate on top of deck
+Titandrake - reveals Squire, Potion
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Fortune Teller
+Titandrake - plays Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Fortune Teller
+Toblakai - reveals Estate
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Squire
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two coins and one buy
+Titandrake - plays 1 Copper, 1 Potion
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Peddler, Estate, Squire, Fortune Teller, Spice Merchant
+ 
+---------- Toblakai: turn 13 ----------
+Toblakai - plays Scrying Pool
+Toblakai - discards Estate
+Toblakai - reveals Scrying Pool, Peddler, Peddler, Estate
+Toblakai - plays Scrying Pool
+Toblakai - discards Province
+Toblakai - reveals Peddler, Peddler, Peddler, Fortune Teller, Squire, Scrying Pool, Squire, Potion
+Toblakai - plays Scrying Pool
+Toblakai - places Scrying Pool on top of deck
+Toblakai - shuffles deck
+Toblakai - reveals Scrying Pool, Spice Merchant, Scrying Pool, Estate
+Toblakai - plays Scrying Pool
+Toblakai - places Peddler on top of deck
+Toblakai - reveals Peddler, Spice Merchant, Province
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Spice Merchant
+Toblakai - trashes Potion
+Toblakai - chooses two coins and one buy
+Toblakai - plays Squire
+Toblakai - takes 2 buys
+Toblakai - plays Fortune Teller
+Toblakai - plays Fortune Teller
+Toblakai - buys Fortune Teller
+Toblakai - gains Fortune Teller
+Toblakai - buys Rebuild
+Toblakai - gains Rebuild
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - shuffles deck
+Toblakai - draws Estate, Scrying Pool, Spice Merchant, Peddler, Peddler
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Squire, Squire
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Fortune Teller
+Toblakai - reveals Squire, Fortune Teller, Scrying Pool, Province
+Toblakai - discards: Squire, Fortune Teller, Scrying Pool
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Rebuild, Scrying Pool, Estate, Potion, Lighthouse
+ 
+---------- Toblakai: turn 14 ----------
+Toblakai - plays Scrying Pool
+Toblakai - discards Province
+Titandrake - discards Peddler
+Toblakai - reveals Scrying Pool, Peddler, Squire, Peddler, Rebuild, Fortune Teller, Peddler, Squire, Estate
+Toblakai - plays Scrying Pool
+Toblakai - places Squire on top of deck
+Titandrake - discards Peddler
+Toblakai - reveals Squire, Spice Merchant, Fortune Teller, Scrying Pool, Estate
+Toblakai - plays Scrying Pool
+Toblakai - discards Province
+Titandrake - discards Squire
+Toblakai - shuffles deck
+Toblakai - reveals Peddler, Scrying Pool, Scrying Pool, Province
+Toblakai - plays Scrying Pool
+Toblakai - discards Province
+Titandrake - discards Scrying Pool
+Toblakai - shuffles deck
+Toblakai - reveals Fortune Teller, Squire, Province
+Toblakai - plays Scrying Pool
+Titandrake - places Estate on top of deck
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Peddler
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 buys
+Toblakai - plays Fortune Teller
+Titandrake - reveals Estate
+Toblakai - plays Fortune Teller
+Titandrake - reveals Estate
+Toblakai - plays Fortune Teller
+Titandrake - reveals Estate
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - shuffles deck
+Toblakai - draws Province, Estate, Squire, Province, Fortune Teller
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays Scrying Pool
+Titandrake - discards Province
+Toblakai - discards Scrying Pool
+Titandrake - shuffles deck
+Titandrake - reveals Peddler, Lighthouse, Scrying Pool, Spice Merchant, Lighthouse, Peddler, Squire, Estate
+Titandrake - plays Scrying Pool
+Titandrake - places Squire on top of deck
+Toblakai - discards Peddler
+Titandrake - reveals Squire, Squire, Scrying Pool, Peddler, Spice Merchant, Duchy
+Titandrake - plays Peddler
+Titandrake - draws Fortune Teller
+Titandrake - plays Peddler
+Titandrake - draws Province
+Titandrake - plays Peddler
+Titandrake - draws Duchy
+Titandrake - plays Scrying Pool
+Titandrake - places Squire on top of deck
+Toblakai - discards Rebuild
+Titandrake - reveals Squire, Lighthouse, Peddler
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Spice Merchant
+Titandrake - trashes Potion
+Titandrake - chooses two coins and one buy
+Titandrake - plays Peddler
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Spice Merchant
+Titandrake - trashes Silver
+Titandrake - chooses two coins and one buy
+Titandrake - plays Fortune Teller
+Toblakai - reveals Estate
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Squire, Peddler, Spice Merchant, Scrying Pool, Rebuild
+ 
+---------- Toblakai: turn 15 ----------
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Fortune Teller
+Toblakai - buys Estate
+Toblakai - gains Estate
+Toblakai - draws Estate, Province, Peddler, Scrying Pool, Peddler
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Squire, Duchy
+Titandrake - discards Squire
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Scrying Pool
+Titandrake - discards Duchy
+Toblakai - discards Scrying Pool
+Titandrake - reveals Province
+Titandrake - plays Peddler
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - places Peddler on top of deck
+Toblakai - discards Spice Merchant
+Titandrake - reveals Peddler, Province
+Titandrake - plays Peddler
+Titandrake - draws Duchy
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Estate, Squire, Squire, Fortune Teller
+ 
+---------- Toblakai: turn 16 ----------
+Toblakai - plays Scrying Pool
+Toblakai - places Peddler on top of deck
+Titandrake - places Duchy on top of deck
+Toblakai - reveals Peddler, Peddler, Estate
+Toblakai - plays Peddler
+Toblakai - draws Fortune Teller
+Toblakai - plays Peddler
+Toblakai - draws Squire
+Toblakai - plays Peddler
+Toblakai - draws Province
+Toblakai - plays Peddler
+Toblakai - draws Scrying Pool
+Toblakai - plays Scrying Pool
+Toblakai - places Squire on top of deck
+Titandrake - places Duchy on top of deck
+Toblakai - shuffles deck
+Toblakai - reveals Squire, Squire, Scrying Pool, Fortune Teller, Spice Merchant, Peddler, Estate
+Toblakai - plays Scrying Pool
+Toblakai - discards Estate
+Titandrake - places Duchy on top of deck
+Toblakai - reveals Fortune Teller, Province
+Toblakai - plays Peddler
+Toblakai - draws Squire
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 actions
+Toblakai - plays Squire
+Toblakai - takes 2 buys
+Toblakai - plays Fortune Teller
+Titandrake - reveals Duchy
+Toblakai - plays Fortune Teller
+Titandrake - reveals Duchy
+Toblakai - plays Fortune Teller
+Titandrake - reveals Duchy
+Toblakai - buys Province
+Toblakai - gains Province
+Toblakai - buys Duchy
+Toblakai - gains Duchy
+Toblakai - buys Estate
+Toblakai - gains Estate
+Toblakai - draws Spice Merchant, Scrying Pool, Province, Rebuild, Peddler
+ 
+------------ Game Over ------------
+Toblakai - cards: 6 Peddler, 5 Scrying Pool, 4 Squire, 3 Fortune Teller, 2 Spice Merchant, 1 Rebuild, 5 Province, 5 Estate, 1 Duchy
+Toblakai - total victory points: 38
+Toblakai - turns: 16
+ 
+Titandrake - cards: 4 Squire, 4 Lighthouse, 4 Peddler, 3 Scrying Pool, 2 Spice Merchant, 1 Fortune Teller, 1 Rebuild, 4 Duchy, 3 Estate, 3 Province
+Titandrake - total victory points: 33
+Titandrake - turns: 16
+ 
+1st place: Toblakai
+2nd place: Titandrake
+ 

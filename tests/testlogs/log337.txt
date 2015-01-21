@@ -1,0 +1,361 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Masterpiece, Philosopher's Stone, Herald, Pirate Ship, Hunting Party, Merchant Ship, Pillage, Venture, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+eliegel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+eliegel - shuffles deck
+Titandrake - shuffles deck
+eliegel - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- eliegel: turn 1 ----------
+eliegel - plays 4 Copper
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- eliegel: turn 2 ----------
+eliegel - plays 3 Copper
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - shuffles deck
+eliegel - draws Estate, Estate, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- eliegel: turn 3 ----------
+eliegel - plays 1 Copper, 1 Silver
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Copper, Copper, Silver
+ 
+---------- eliegel: turn 4 ----------
+eliegel - plays 4 Copper, 1 Silver
+eliegel - buys Wharf
+eliegel - gains Wharf
+eliegel - draws Copper, Copper
+eliegel - shuffles deck
+eliegel - draws Copper, Wharf, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate
+ 
+---------- eliegel: turn 5 ----------
+eliegel - plays Wharf
+eliegel - draws Estate, Copper
+eliegel - plays 4 Copper, 1 Silver
+eliegel - buys Wharf
+eliegel - gains Wharf
+eliegel - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- eliegel: turn 6 ----------
+eliegel - duration Wharf
+eliegel - draws Estate, Silver
+eliegel - plays 3 Copper, 2 Silver
+eliegel - buys Masterpiece
+eliegel - overpays for Masterpiece with 4 coins
+eliegel - gains Silver
+eliegel - gains Silver
+eliegel - gains Silver
+eliegel - gains Silver
+eliegel - gains Masterpiece
+eliegel - shuffles deck
+eliegel - draws Estate, Estate, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Silver, Copper, Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- eliegel: turn 7 ----------
+eliegel - plays 2 Silver, 1 Copper
+eliegel - buys Wharf
+eliegel - gains Wharf
+eliegel - draws Silver, Copper, Copper, Silver, Wharf
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Silver, Copper, Silver, Estate, Copper
+ 
+---------- eliegel: turn 8 ----------
+eliegel - plays Wharf
+eliegel - draws Silver, Silver
+eliegel - plays 4 Silver, 2 Copper
+eliegel - buys Masterpiece
+eliegel - overpays for Masterpiece with 7 coins
+eliegel - gains Silver
+eliegel - gains Silver
+eliegel - gains Silver
+eliegel - gains Silver
+eliegel - gains Silver
+eliegel - gains Silver
+eliegel - gains Silver
+eliegel - gains Masterpiece
+eliegel - draws Copper, Estate, Wharf, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Herald, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Silver
+ 
+---------- eliegel: turn 9 ----------
+eliegel - duration Wharf
+eliegel - draws Masterpiece, Copper
+eliegel - plays Wharf
+eliegel - draws Copper
+eliegel - shuffles deck
+eliegel - draws Copper
+eliegel - plays 5 Copper, 1 Silver, 1 Masterpiece
+eliegel - buys Province
+eliegel - gains Province
+eliegel - draws Estate, Silver, Masterpiece, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Pillage
+Titandrake - gains Pillage
+Titandrake - draws Estate, Wharf, Copper, Copper, Copper
+ 
+---------- eliegel: turn 10 ----------
+eliegel - duration Wharf
+eliegel - draws Silver, Silver
+eliegel - plays 4 Silver, 1 Masterpiece, 1 Copper
+eliegel - buys Wharf
+eliegel - gains Wharf
+eliegel - buys Wharf
+eliegel - gains Wharf
+eliegel - draws Estate, Silver, Silver, Copper, Wharf
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Estate, Copper, Herald, Silver, Copper
+ 
+---------- eliegel: turn 11 ----------
+eliegel - plays Wharf
+eliegel - draws Silver, Silver
+eliegel - plays 4 Silver, 1 Copper
+eliegel - buys Province
+eliegel - gains Province
+eliegel - draws Silver, Silver, Silver, Silver, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Wharf
+Titandrake - draws Wharf
+Titandrake - shuffles deck
+Titandrake - draws Herald
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Pillage
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+eliegel - reveals Silver, Silver, Silver, Silver, Silver
+eliegel - discards Silver
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Wharf
+Titandrake - draws Copper, Wharf
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays 6 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Copper, Estate, Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Courtyard
+ 
+---------- eliegel: turn 12 ----------
+eliegel - duration Wharf
+eliegel - shuffles deck
+eliegel - draws Copper, Silver
+eliegel - plays 5 Silver, 1 Copper
+eliegel - buys Province
+eliegel - gains Province
+eliegel - buys Estate
+eliegel - gains Estate
+eliegel - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - duration Wharf
+Titandrake - draws Spoils, Silver
+Titandrake - plays Courtyard
+Titandrake - draws Herald, Estate, Copper
+Titandrake - places Herald on top of deck
+Titandrake - plays 4 Copper, 3 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Herald, Wharf, Copper, Copper, Silver
+ 
+---------- eliegel: turn 13 ----------
+eliegel - plays 4 Copper
+eliegel - buys Estate
+eliegel - gains Estate
+eliegel - draws Province, Wharf, Masterpiece, Estate, Masterpiece
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Herald
+Titandrake - draws Spoils
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Wharf
+Titandrake - draws Estate, Herald
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Copper, Province, Herald
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- eliegel: turn 14 ----------
+eliegel - plays Wharf
+eliegel - draws Province, Silver
+eliegel - plays 2 Masterpiece, 1 Silver
+eliegel - buys Estate
+eliegel - gains Estate
+eliegel - buys Estate
+eliegel - gains Estate
+eliegel - draws Silver, Copper, Wharf, Silver, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays Herald
+Titandrake - draws Courtyard
+Titandrake - reveals: Wharf
+Titandrake - plays Wharf
+Titandrake - draws Province, Copper
+Titandrake - plays Courtyard
+Titandrake - draws Herald, Estate, Copper
+Titandrake - places Herald on top of deck
+Titandrake - plays 6 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Herald, Duchy, Copper, Herald, Duchy
+ 
+---------- eliegel: turn 15 ----------
+eliegel - duration Wharf
+eliegel - draws Silver, Estate
+eliegel - plays Wharf
+eliegel - draws Silver, Silver
+eliegel - plays 5 Silver, 2 Copper
+eliegel - buys Province
+eliegel - gains Province
+eliegel - buys Estate
+eliegel - gains Estate
+eliegel - buys Estate
+eliegel - gains Estate
+eliegel - draws Silver, Wharf, Silver, Silver, Wharf
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Estate
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Silver, Wharf
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+Titandrake - places Estate on top of deck
+Titandrake - plays Wharf
+Titandrake - draws Estate, Province
+Titandrake - plays 4 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Wharf, Estate, Province, Copper
+ 
+---------- eliegel: turn 16 ----------
+eliegel - duration Wharf
+eliegel - shuffles deck
+eliegel - draws Silver, Estate
+eliegel - plays Wharf
+eliegel - draws Wharf, Silver
+eliegel - plays 5 Silver
+eliegel - buys Province
+eliegel - gains Province
+eliegel - buys Estate
+eliegel - gains Estate
+eliegel - draws Estate, Estate, Silver, Copper, Copper
+ 
+------------ Game Over ------------
+eliegel - cards: 5 Wharf, 14 Silver, 7 Copper, 2 Masterpiece, 10 Estate, 5 Province
+eliegel - total victory points: 40
+eliegel - turns: 16
+ 
+Titandrake - cards: 3 Wharf, 3 Herald, 2 Courtyard, 7 Copper, 4 Silver, 3 Estate, 3 Province, 3 Duchy
+Titandrake - total victory points: 30
+Titandrake - turns: 15
+ 
+1st place: eliegel
+2nd place: Titandrake
+ 

@@ -1,0 +1,540 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Stonemason, Doctor, Steward, Gardens, Monument, Silk Road, Smithy, Cultist, Laboratory, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 2 coins
+Titandrake - gains Crossroads
+Titandrake - gains Crossroads
+Titandrake - gains Stonemason
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Monument
+SM.SM - gains Monument
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Crossroads, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Estate, Estate, Copper, Copper
+Titandrake - draws Estate, Stonemason
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper, Copper, Crossroads, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Stonemason
+SM.SM - overpays for Stonemason with 2 coins
+SM.SM - gains Crossroads
+SM.SM - gains Crossroads
+SM.SM - gains Stonemason
+SM.SM - draws Silver, Monument
+SM.SM - shuffles deck
+SM.SM - draws Copper, Silver, Crossroads
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Crossroads
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Doctor
+SM.SM - overpays for Doctor with 4 coins
+SM.SM - looks at Stonemason
+SM.SM - trashes Stonemason
+SM.SM - looks at Estate
+SM.SM - trashes Estate
+SM.SM - looks at Copper
+SM.SM - trashes Copper
+SM.SM - looks at Copper
+SM.SM - trashes Copper
+SM.SM - gains Doctor
+SM.SM - draws Copper, Crossroads, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Silver, Copper, Estate, Copper
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Estate, Copper, Monument, Crossroads, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Estate, Estate, Copper
+SM.SM - draws Copper, Copper
+SM.SM - plays 4 Copper
+SM.SM - buys Monument
+SM.SM - gains Monument
+SM.SM - shuffles deck
+SM.SM - draws Crossroads, Estate, Silver, Crossroads, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Estate, Copper, Monument, Copper
+Titandrake - draws Estate
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - draws Stonemason, Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Crossroads, Estate, Silver, Copper
+SM.SM - draws Copper
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Estate, Silver, Copper
+SM.SM - draws Copper
+SM.SM - plays 3 Copper, 1 Silver
+SM.SM - buys Laboratory
+SM.SM - gains Laboratory
+SM.SM - draws Copper, Monument, Monument, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Monument, Crossroads, Copper, Estate
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 2 Copper
+SM.SM - buys Steward
+SM.SM - gains Steward
+SM.SM - draws Doctor, Silver
+SM.SM - shuffles deck
+SM.SM - draws Copper, Estate, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Monument, Copper, Estate
+Titandrake - draws Monument
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Estate, Copper, Silver, Crossroads, Estate
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Doctor
+SM.SM - names Copper
+SM.SM - reveals: Laboratory, Crossroads, Monument
+SM.SM - places Crossroads on top of deck
+SM.SM - places Laboratory on top of deck
+SM.SM - places Monument on top of deck
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Monument, Laboratory, Crossroads, Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Estate, Copper, Silver, Estate
+Titandrake - draws Copper, Cultist
+Titandrake - plays Cultist
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silk Road
+SM.SM - gains Abandoned Mine
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Copper, Monument, Copper, Estate
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Laboratory
+SM.SM - draws Copper, Crossroads
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Cultist
+SM.SM - gains Cultist
+SM.SM - draws Steward, Monument, Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Monument
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays 3 Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Crossroads, Estate, Estate, Copper, Stonemason
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 2 Copper
+SM.SM - buys Stonemason
+SM.SM - overpays for Stonemason with 2 coins
+SM.SM - gains Crossroads
+SM.SM - gains Crossroads
+SM.SM - gains Stonemason
+SM.SM - draws Copper, Silver, Copper, Crossroads, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Estate, Estate, Copper, Stonemason
+Titandrake - draws Monument
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silk Road, Copper, Copper, Copper, Cultist
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays 2 Copper, 2 Silver
+SM.SM - buys Cultist
+SM.SM - gains Cultist
+SM.SM - draws Cultist, Doctor, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Cultist
+Titandrake - draws Estate, Copper
+SM.SM - gains Ruined Market
+Titandrake - plays 4 Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Copper, Crossroads, Silk Road, Silver, Cultist
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Cultist
+SM.SM - draws Crossroads, Silver
+Titandrake - gains Ruined Village
+SM.SM - plays 1 Copper, 1 Silver
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Abandoned Mine, Laboratory
+SM.SM - shuffles deck
+SM.SM - draws Estate, Steward, Cultist
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Silk Road, Silver, Cultist
+Titandrake - draws Estate
+Titandrake - plays Cultist
+Titandrake - draws Monument, Copper
+SM.SM - gains Ruined Library
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Silver
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - shuffles deck
+Titandrake - draws Silk Road, Copper, Estate, Copper, Estate
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Laboratory
+SM.SM - draws Crossroads, Estate
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Abandoned Mine, Estate, Steward, Cultist, Estate
+SM.SM - draws Crossroads, Crossroads
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Crossroads, Abandoned Mine, Estate, Steward, Cultist, Estate
+SM.SM - draws Ruined Market, Copper
+SM.SM - plays Cultist
+SM.SM - draws Copper, Silver
+Titandrake - gains Abandoned Mine
+SM.SM - plays Steward
+SM.SM - trashes Abandoned Mine, Ruined Market
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Monument
+SM.SM - gains Monument
+SM.SM - draws Monument, Copper, Silver, Cultist, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Ruined Village, Copper, Cultist, Stonemason
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Laboratory
+SM.SM - gains Laboratory
+SM.SM - draws Monument, Stonemason, Crossroads, Doctor, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Stonemason
+Titandrake - trashes Cultist
+Titandrake - draws Estate, Copper, Estate
+Titandrake - gains Gardens
+Titandrake - gains Gardens
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Copper, Estate, Silk Road, Crossroads, Monument
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Monument, Stonemason, Doctor, Copper
+SM.SM - plays Doctor
+SM.SM - names Copper
+SM.SM - reveals: Silver, Silver
+SM.SM - shuffles deck
+SM.SM - reveals: Crossroads
+SM.SM - places Silver on top of deck
+SM.SM - places Silver on top of deck
+SM.SM - places Crossroads on top of deck
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays Stonemason
+SM.SM - trashes Copper
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - draws Crossroads, Silver, Silver, Monument, Crossroads
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Estate, Silk Road, Monument
+Titandrake - draws Estate, Monument
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Copper
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Silk Road, Cultist, Copper, Silk Road, Copper
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Crossroads, Silver, Silver, Monument
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 2 Silver
+SM.SM - buys Laboratory
+SM.SM - gains Laboratory
+SM.SM - draws Laboratory, Steward, Estate, Silver, Laboratory
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cultist
+Titandrake - draws Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Monument
+SM.SM - gains Abandoned Mine
+Titandrake - plays 2 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Silk Road, Gardens, Gardens, Crossroads, Gardens
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Laboratory
+SM.SM - draws Copper, Cultist
+SM.SM - plays Laboratory
+SM.SM - draws Crossroads, Copper
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Steward, Estate, Silver, Copper, Cultist, Copper
+SM.SM - draws Monument
+SM.SM - plays Cultist
+SM.SM - draws Copper, Ruined Library
+Titandrake - gains Ruined Village
+SM.SM - plays Steward
+SM.SM - trashes Estate, Ruined Library
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 3 Copper, 1 Silver
+SM.SM - buys Stonemason
+SM.SM - overpays for Stonemason with 5 coins
+SM.SM - gains Laboratory
+SM.SM - gains Laboratory
+SM.SM - gains Stonemason
+SM.SM - draws Cultist, Copper, Silver, Estate
+SM.SM - shuffles deck
+SM.SM - draws Crossroads
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Silk Road, Gardens, Gardens, Gardens
+Titandrake - draws Copper, Estate, Copper, Ruined Village
+Titandrake - plays Ruined Village
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Monument, Copper, Estate, Gardens
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Cultist, Copper, Silver, Estate
+SM.SM - draws Crossroads
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Cultist, Copper, Silver, Estate
+SM.SM - draws Silver
+SM.SM - plays Cultist
+SM.SM - draws Cultist, Silver
+Titandrake - gains Ruined Market
+SM.SM - plays Cultist
+SM.SM - draws Crossroads, Stonemason
+Titandrake - gains Ruined Library
+SM.SM - plays Stonemason
+SM.SM - trashes Copper
+SM.SM - plays 3 Silver
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - draws Steward, Copper, Monument, Laboratory, Monument
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Copper, Estate, Estate, Stonemason
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - plays Laboratory
+SM.SM - draws Laboratory, Copper
+SM.SM - plays Laboratory
+SM.SM - draws Laboratory, Doctor
+SM.SM - plays Laboratory
+SM.SM - draws Crossroads, Laboratory
+SM.SM - plays Laboratory
+SM.SM - draws Silver, Stonemason
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Steward, Copper, Monument, Monument, Copper, Doctor, Silver, Stonemason
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays Steward
+SM.SM - trashes Doctor, Stonemason
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Laboratory, Crossroads, Monument, Copper, Abandoned Mine
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Stonemason
+Titandrake - trashes Silver
+Titandrake - gains Estate
+Titandrake - gains Estate
+Titandrake - buys Ruined Market
+Titandrake - gains Ruined Market
+Titandrake - draws Abandoned Mine, Silk Road, Estate, Estate, Copper
+ 
+---------- SM.SM: turn 21 ----------
+SM.SM - plays Laboratory
+SM.SM - shuffles deck
+SM.SM - draws Estate, Laboratory
+SM.SM - plays Laboratory
+SM.SM - draws Silver, Steward
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Monument, Copper, Abandoned Mine, Estate, Silver, Steward
+SM.SM - draws Province
+SM.SM - plays Steward
+SM.SM - draws Crossroads, Crossroads
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Province, Monument, Copper, Abandoned Mine, Estate, Silver, Crossroads
+SM.SM - draws Copper, Silver
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 2 Copper, 2 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Stonemason, Laboratory, Crossroads, Crossroads, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Abandoned Mine
+Titandrake - plays Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Ruined Market, Crossroads, Gardens, Estate, Monument
+ 
+---------- SM.SM: turn 22 ----------
+SM.SM - plays Laboratory
+SM.SM - draws Cultist, Silver
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Stonemason, Crossroads, Silver, Cultist, Silver
+SM.SM - plays Stonemason
+SM.SM - trashes Cultist
+SM.SM - draws Monument, Laboratory, Cultist
+SM.SM - gains Gardens
+SM.SM - gains Gardens
+SM.SM - plays Laboratory
+SM.SM - draws Monument, Gold
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays Monument
+SM.SM - receives 1 victory point chips
+SM.SM - plays 2 Silver, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Laboratory, Copper
+SM.SM - shuffles deck
+SM.SM - draws Crossroads, Crossroads, Silver
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Ruined Market, Gardens, Estate, Monument
+Titandrake - draws Silk Road, Estate
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Ruined Market
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Ruined Market, Estate, Estate, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Crossroads, 2 Ruined Market, 2 Monument, 2 Ruined Village, 1 Cultist, 1 Ruined Library, 1 Stonemason, 1 Abandoned Mine, 8 Copper, 11 Estate, 4 Silk Road, 4 Gardens
+Titandrake - victory point chips: 10
+Titandrake - total victory points: 53
+Titandrake - turns: 22
+ 
+SM.SM - cards: 5 Laboratory, 5 Crossroads, 3 Monument, 1 Abandoned Mine, 1 Cultist, 1 Steward, 1 Stonemason, 4 Silver, 3 Copper, 1 Gold, 3 Province, 2 Gardens, 1 Estate
+SM.SM - victory point chips: 13
+SM.SM - total victory points: 38
+SM.SM - turns: 22
+ 
+1st place: Titandrake
+2nd place: SM.SM
+ 

@@ -1,0 +1,504 @@
+------------ Game Setup ------------
+Supply cards: University, Swindler, Mining Village, Young Witch, Contraband, Haggler, Merchant Ship, Rebuild, Wharf, Harem, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Swindler
+Rating system: pro
+-dg- - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+-dg- - shuffles deck
+Titandrake - shuffles deck
+-dg- - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- -dg-: turn 1 ----------
+-dg- - plays 5 Copper
+-dg- - buys Rebuild
+-dg- - gains Rebuild
+-dg- - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- -dg-: turn 2 ----------
+-dg- - plays 2 Copper
+-dg- - buys Estate
+-dg- - gains Estate
+-dg- - shuffles deck
+-dg- - draws Estate, Copper, Rebuild, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Swindler, Estate, Copper
+ 
+---------- -dg-: turn 3 ----------
+-dg- - plays Rebuild
+-dg- - names Province
+-dg- - reveals Copper, Estate
+-dg- - discards Copper
+-dg- - trashes Estate
+-dg- - gains Estate
+-dg- - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Swindler
+-dg- - shuffles deck
+-dg- - reveals Estate
+-dg- - trashes Estate
+-dg- - gains Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- -dg-: turn 4 ----------
+-dg- - plays 5 Copper
+-dg- - buys Wharf
+-dg- - gains Wharf
+-dg- - draws Rebuild, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Estate, Swindler
+Titandrake - shuffles deck
+Titandrake - draws Mining Village, Copper, Swindler
+ 
+---------- -dg-: turn 5 ----------
+-dg- - plays Rebuild
+-dg- - names Duchy
+-dg- - reveals Estate
+-dg- - trashes Estate
+-dg- - gains Estate
+-dg- - plays 2 Copper
+-dg- - buys Estate
+-dg- - gains Estate
+-dg- - shuffles deck
+-dg- - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Swindler
+-dg- - reveals Rebuild
+-dg- - trashes Rebuild
+-dg- - gains Duchy
+Titandrake - plays 3 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- -dg-: turn 6 ----------
+-dg- - plays 3 Copper
+-dg- - buys Swindler
+-dg- - gains Swindler
+-dg- - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Estate, Swindler, Wharf, Copper, Swindler
+ 
+---------- -dg-: turn 7 ----------
+-dg- - plays 3 Copper
+-dg- - buys Silver
+-dg- - gains Silver
+-dg- - draws Copper, Wharf, Estate
+-dg- - shuffles deck
+-dg- - draws Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Swindler
+-dg- - reveals Estate
+-dg- - trashes Estate
+-dg- - gains Estate
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Swindler, Estate
+ 
+---------- -dg-: turn 8 ----------
+-dg- - plays Wharf
+-dg- - draws Swindler, Copper
+-dg- - plays 3 Copper
+-dg- - buys Silver
+-dg- - gains Silver
+-dg- - draws Estate, Estate, Duchy, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Swindler
+-dg- - reveals Copper
+-dg- - trashes Copper
+-dg- - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Silver, Estate, Copper, Mining Village, Mining Village
+ 
+---------- -dg-: turn 9 ----------
+-dg- - duration Wharf
+-dg- - draws Silver, Copper
+-dg- - plays 3 Copper, 1 Silver
+-dg- - buys Rebuild
+-dg- - gains Rebuild
+-dg- - shuffles deck
+-dg- - draws Estate, Wharf, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Mining Village
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - draws Estate, Swindler
+Titandrake - plays Swindler
+-dg- - reveals Duchy
+-dg- - trashes Duchy
+-dg- - gains Merchant Ship
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Wharf, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- -dg-: turn 10 ----------
+-dg- - plays Wharf
+-dg- - draws Copper, Copper
+-dg- - plays 5 Copper
+-dg- - buys Rebuild
+-dg- - gains Rebuild
+-dg- - draws Estate, Copper, Rebuild, Estate, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Wharf
+Titandrake - draws Mining Village, Swindler
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Silver, Swindler
+Titandrake - plays Swindler
+-dg- - reveals Silver
+-dg- - trashes Silver
+-dg- - gains Silver
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Gold, Mining Village, Estate
+ 
+---------- -dg-: turn 11 ----------
+-dg- - duration Wharf
+-dg- - draws Estate, Curse
+-dg- - plays Rebuild
+-dg- - names Province
+-dg- - shuffles deck
+-dg- - reveals Silver, Swindler, Copper, Copper, Copper, Copper, Merchant Ship, Silver, Estate
+-dg- - discards: Silver, Swindler, Copper, Copper, Copper, Copper, Merchant Ship, Silver
+-dg- - trashes Estate
+-dg- - gains Duchy
+-dg- - draws Copper, Rebuild
+-dg- - shuffles deck
+-dg- - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Swindler, Swindler, Silver, Copper, Copper
+ 
+---------- -dg-: turn 12 ----------
+-dg- - plays Rebuild
+-dg- - names Province
+-dg- - reveals Silver, Curse, Copper, Rebuild, Estate
+-dg- - discards: Silver, Curse, Copper, Rebuild
+-dg- - trashes Estate
+-dg- - gains Duchy
+-dg- - plays 3 Copper
+-dg- - buys Estate
+-dg- - gains Estate
+-dg- - draws Silver, Estate, Merchant Ship, Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Swindler
+-dg- - reveals Swindler
+-dg- - trashes Swindler
+-dg- - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Wharf, Mining Village, Estate, Copper, Wharf
+ 
+---------- -dg-: turn 13 ----------
+-dg- - plays Merchant Ship
+-dg- - plays 1 Silver, 1 Copper
+-dg- - buys Duchy
+-dg- - gains Duchy
+-dg- - draws Copper, Wharf, Duchy
+-dg- - shuffles deck
+-dg- - draws Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Swindler, Mining Village, Estate, Copper, Gold
+ 
+---------- -dg-: turn 14 ----------
+-dg- - duration Merchant Ship
+-dg- - plays Wharf
+-dg- - draws Copper, Curse
+-dg- - plays 4 Copper
+-dg- - buys Rebuild
+-dg- - gains Rebuild
+-dg- - draws Duchy, Silver, Copper, Copper, Rebuild
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws Swindler, Silver
+Titandrake - duration Wharf
+Titandrake - draws Gold, Copper
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Swindler
+-dg- - reveals Silver
+-dg- - trashes Silver
+-dg- - gains Silver
+Titandrake - plays Swindler
+-dg- - reveals Duchy
+-dg- - trashes Duchy
+-dg- - gains Merchant Ship
+Titandrake - plays 3 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Wharf, Mining Village, Swindler, Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- -dg-: turn 15 ----------
+-dg- - duration Wharf
+-dg- - draws Estate, Silver
+-dg- - plays Rebuild
+-dg- - names Province
+-dg- - reveals Rebuild, Estate
+-dg- - discards Rebuild
+-dg- - trashes Estate
+-dg- - gains Duchy
+-dg- - plays 2 Silver, 2 Copper
+-dg- - buys Gold
+-dg- - gains Gold
+-dg- - draws Estate, Estate
+-dg- - shuffles deck
+-dg- - draws Curse, Gold, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Wharf
+Titandrake - plays Mining Village
+Titandrake - draws Swindler
+Titandrake - plays Wharf
+Titandrake - draws Mining Village, Wharf
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - plays Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays Mining Village
+Titandrake - draws Gold
+Titandrake - plays Swindler
+-dg- - reveals Merchant Ship
+-dg- - trashes Merchant Ship
+-dg- - gains Merchant Ship
+Titandrake - plays Swindler
+-dg- - reveals Copper
+-dg- - trashes Copper
+-dg- - gains Curse
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Estate, Copper, Copper, Copper, Swindler
+ 
+---------- -dg-: turn 16 ----------
+-dg- - plays 1 Gold, 1 Copper
+-dg- - buys Potion
+-dg- - gains Potion
+-dg- - draws Copper, Rebuild, Copper, Wharf, Rebuild
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Estate
+Titandrake - duration Wharf
+Titandrake - draws Silver, Wharf
+Titandrake - duration Wharf
+Titandrake - draws Silver, Estate
+Titandrake - plays Wharf
+Titandrake - draws Young Witch, Gold
+Titandrake - plays 4 Copper, 2 Silver, 1 Gold
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - shuffles deck
+Titandrake - draws Estate, Mining Village, Copper, Swindler, Province
+ 
+---------- -dg-: turn 17 ----------
+-dg- - plays Rebuild
+-dg- - names Province
+-dg- - reveals Duchy
+-dg- - trashes Duchy
+-dg- - gains Province
+-dg- - plays Rebuild
+-dg- - names Province
+-dg- - reveals Merchant Ship, Silver, Copper, Duchy
+-dg- - discards: Merchant Ship, Silver, Copper
+-dg- - trashes Duchy
+-dg- - gains Province
+-dg- - plays Wharf
+-dg- - draws Copper, Silver
+-dg- - plays 3 Copper, 1 Silver
+-dg- - buys Duchy
+-dg- - gains Duchy
+-dg- - draws Duchy, Estate, Rebuild, Silver
+-dg- - shuffles deck
+-dg- - draws Merchant Ship
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Gold
+Titandrake - plays Mining Village
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Silver, Copper, Copper, Copper
+ 
+---------- -dg-: turn 18 ----------
+-dg- - duration Wharf
+-dg- - draws Gold, Estate
+-dg- - plays Rebuild
+-dg- - names Province
+-dg- - reveals Rebuild, Copper, Estate
+-dg- - discards: Rebuild, Copper
+-dg- - trashes Estate
+-dg- - gains Duchy
+-dg- - plays Merchant Ship
+-dg- - plays 1 Silver, 1 Gold
+-dg- - buys Duchy
+-dg- - gains Duchy
+-dg- - buys Estate
+-dg- - gains Estate
+-dg- - draws Potion, Silver, Province, Silver, Rebuild
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Silver
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Gold
+Titandrake - trashes Mining Village
+Titandrake - plays Wharf
+Titandrake - draws Mining Village, Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Mining Village
+Titandrake - trashes Mining Village
+Titandrake - plays Mining Village
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - draws Swindler, Young Witch
+Titandrake - plays Mining Village
+Titandrake - draws Swindler
+Titandrake - plays Young Witch
+Titandrake - draws Mining Village, Estate
+Titandrake - discards Province
+Titandrake - discards Estate
+-dg- - gains Curse
+Titandrake - plays Swindler
+-dg- - reveals Copper
+-dg- - trashes Copper
+-dg- - gains Curse
+Titandrake - plays Swindler
+-dg- - reveals Copper
+-dg- - trashes Copper
+-dg- - gains Curse
+Titandrake - plays 4 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Wharf, Gold, Wharf, Copper
+ 
+---------- -dg-: turn 19 ----------
+-dg- - duration Merchant Ship
+-dg- - plays Rebuild
+-dg- - names Province
+-dg- - reveals Curse, Copper, Province, Copper, Merchant Ship, Duchy
+-dg- - discards: Curse, Copper, Province, Copper, Merchant Ship
+-dg- - trashes Duchy
+-dg- - gains Province
+-dg- - plays 2 Silver, 1 Potion
+-dg- - buys University
+-dg- - gains University
+-dg- - draws Curse
+-dg- - shuffles deck
+-dg- - draws Wharf, Duchy, Estate, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Wharf, 4 Mining Village, 3 Swindler, 1 Young Witch, 7 Copper, 4 Silver, 2 Gold, 5 Province, 3 Estate
+Titandrake - total victory points: 33
+Titandrake - turns: 18
+ 
+-dg- - cards: 3 Rebuild, 2 Merchant Ship, 1 Wharf, 1 University, 3 Silver, 3 Copper, 1 Gold, 1 Potion, 3 Duchy, 3 Estate, 3 Province, 5 Curse
+-dg- - total victory points: 25
+-dg- - turns: 19
+ 
+1st place: Titandrake
+2nd place: -dg-
+ 

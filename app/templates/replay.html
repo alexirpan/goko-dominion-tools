@@ -251,6 +251,11 @@
                 'Soothsayer':'action-attack',
             };
 
+            // TODO
+            var costs = {
+
+            };
+
             // these lists need to be in order of cost!
             var kingdomVictory = ['Estate', 'Duchy', 'Province', 'Colony'];
             var kingdomTreasure = ['Copper', 'Silver', 'Potion', 'Gold', 'Platinum'];
@@ -281,6 +286,8 @@
                 sp.innerHTML = cardname;
                 return sp;
             }
+
+            var supply;
 
             function createDisplayElements(state) {
                 // there are more log lines than game states
@@ -332,6 +339,8 @@
     </head>
     <body>
         <div id="gamedisplay" style="width:70%">
+            <table id="supply">
+            </table>
         </div>
         <div id="log" style="overflow:scroll;position:fixed;width:30%;left:70%;top:0px;bottom:0px;">
         </div>

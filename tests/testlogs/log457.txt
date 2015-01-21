@@ -1,0 +1,607 @@
+------------ Game Setup ------------
+Supply cards: Moat, Masterpiece, Warehouse, Herald, Quarry, Spy, Throne Room, Counting House, Witch, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+ang - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ang - shuffles deck
+Titandrake - shuffles deck
+ang - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- ang: turn 1 ----------
+ang - plays 4 Copper
+ang - buys Quarry
+ang - gains Quarry
+ang - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- ang: turn 2 ----------
+ang - plays 3 Copper
+ang - buys Silver
+ang - gains Silver
+ang - shuffles deck
+ang - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Warehouse, Silver, Copper
+ 
+---------- ang: turn 3 ----------
+ang - plays 3 Copper
+ang - buys Silver
+ang - gains Silver
+ang - draws Quarry, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Copper
+ 
+---------- ang: turn 4 ----------
+ang - plays 2 Copper, 1 Silver
+ang - plays Quarry
+ang - buys Witch
+ang - gains Witch
+ang - draws Copper, Copper
+ang - shuffles deck
+ang - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Warehouse, Copper, Copper, Copper, Silver
+ 
+---------- ang: turn 5 ----------
+ang - plays 4 Copper, 1 Silver
+ang - buys Witch
+ang - gains Witch
+ang - draws Quarry, Witch, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Witch
+Titandrake - shuffles deck
+Titandrake - draws Warehouse, Witch, Silver, Copper
+ 
+---------- ang: turn 6 ----------
+ang - plays Witch
+ang - draws Estate, Copper
+Titandrake - gains Curse
+ang - plays 3 Copper
+ang - plays Quarry
+ang - buys Throne Room
+ang - gains Throne Room
+ang - draws Estate, Silver
+ang - shuffles deck
+ang - draws Estate, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper, Estate
+Titandrake - discards Witch
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Witch
+Titandrake - draws Estate, Copper
+ang - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 1 coin
+Titandrake - places Witch on top of deck
+Titandrake - gains Herald
+Titandrake - draws Witch, Copper, Copper, Silver, Copper
+ 
+---------- ang: turn 7 ----------
+ang - plays 1 Silver, 1 Copper
+ang - buys Warehouse
+ang - gains Warehouse
+ang - draws Copper, Witch, Quarry, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Estate
+ang - gains Curse
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Witch, Curse, Estate, Silver, Copper
+ 
+---------- ang: turn 8 ----------
+ang - plays Witch
+ang - draws Throne Room, Copper
+Titandrake - gains Curse
+ang - plays 4 Copper
+ang - plays Quarry
+ang - buys Throne Room
+ang - gains Throne Room
+ang - draws Silver, Copper, Witch, Copper
+ang - shuffles deck
+ang - draws Warehouse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Witch
+Titandrake - draws Estate, Copper
+ang - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Silver, Gold, Warehouse
+ 
+---------- ang: turn 9 ----------
+ang - plays Warehouse
+ang - draws Copper, Curse, Throne Room
+ang - discards Curse
+ang - discards Copper
+ang - discards Copper
+ang - plays Throne Room
+ang - plays Witch
+ang - draws Copper, Copper
+Titandrake - gains Curse
+ang - plays Witch
+ang - draws Estate, Quarry
+Titandrake - gains Curse
+ang - plays 3 Copper, 1 Silver
+ang - plays Quarry
+ang - buys Gold
+ang - gains Gold
+ang - draws Throne Room, Copper, Copper, Curse, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Silver, Herald, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Witch, Estate
+Titandrake - shuffles deck
+Titandrake - draws Warehouse, Copper
+ 
+---------- ang: turn 10 ----------
+ang - plays 2 Copper
+ang - buys Moat
+ang - gains Moat
+ang - draws Estate, Silver, Witch
+ang - shuffles deck
+ang - draws Curse, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Province, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - plays Witch
+Titandrake - draws Curse, Silver
+ang - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Curse, Copper, Curse, Witch
+ 
+---------- ang: turn 11 ----------
+ang - plays Witch
+ang - draws Copper, Silver
+Titandrake - gains Curse
+ang - plays 2 Silver, 2 Copper
+ang - buys Gold
+ang - gains Gold
+ang - draws Warehouse, Estate, Curse, Estate, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Estate
+ang - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Masterpiece
+Titandrake - overpays for Masterpiece with 2 coins
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Masterpiece
+Titandrake - draws Gold, Copper, Copper, Estate, Silver
+ 
+---------- ang: turn 12 ----------
+ang - plays Warehouse
+ang - draws Witch, Copper, Throne Room
+ang - discards Estate
+ang - discards Curse
+ang - discards Estate
+ang - plays Throne Room
+ang - plays Witch
+ang - draws Throne Room, Copper
+ang - plays Witch
+ang - draws Copper, Copper
+ang - plays 5 Copper
+ang - buys Masterpiece
+ang - overpays for Masterpiece with 2 coins
+ang - gains Silver
+ang - gains Silver
+ang - gains Masterpiece
+ang - draws Curse, Moat, Gold, Quarry
+ang - shuffles deck
+ang - draws Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Masterpiece
+Titandrake - overpays for Masterpiece with 4 coins
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Masterpiece
+Titandrake - draws Herald, Curse
+Titandrake - shuffles deck
+Titandrake - draws Silver, Curse, Silver
+ 
+---------- ang: turn 13 ----------
+ang - plays Moat
+ang - draws Silver, Curse
+ang - plays 2 Silver, 1 Gold
+ang - plays Quarry
+ang - buys Province
+ang - gains Province
+ang - draws Copper, Copper, Witch, Copper, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays 3 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Estate, Silver, Warehouse, Estate, Curse
+ 
+---------- ang: turn 14 ----------
+ang - plays Witch
+ang - draws Estate, Curse
+ang - plays 3 Copper
+ang - buys Silver
+ang - gains Silver
+ang - draws Copper, Warehouse, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Silver, Silver, Masterpiece
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 3 Silver, 1 Masterpiece
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Witch, Copper, Copper, Witch
+ 
+---------- ang: turn 15 ----------
+ang - plays Warehouse
+ang - draws Estate, Copper, Gold
+ang - discards Estate
+ang - discards Copper
+ang - discards Copper
+ang - plays 2 Copper, 1 Silver, 1 Gold
+ang - buys Masterpiece
+ang - overpays for Masterpiece with 4 coins
+ang - gains Silver
+ang - gains Silver
+ang - gains Silver
+ang - gains Silver
+ang - gains Masterpiece
+ang - draws Silver, Masterpiece, Curse, Witch, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Witch
+Titandrake - draws Estate, Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 1 coin
+Titandrake - places Gold on top of deck
+Titandrake - gains Herald
+Titandrake - draws Gold, Silver, Copper, Curse, Silver
+ 
+---------- ang: turn 16 ----------
+ang - plays Witch
+ang - draws Throne Room, Throne Room
+ang - plays 1 Silver, 1 Masterpiece
+ang - buys Warehouse
+ang - gains Warehouse
+ang - shuffles deck
+ang - draws Copper, Silver, Silver, Curse, Quarry
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Gold, Copper, Copper, Masterpiece
+ 
+---------- ang: turn 17 ----------
+ang - plays 2 Silver, 1 Copper
+ang - plays Quarry
+ang - buys Fairgrounds
+ang - gains Fairgrounds
+ang - draws Masterpiece, Curse, Gold, Silver, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 3 Copper, 1 Gold, 1 Masterpiece
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Province, Silver, Curse, Silver
+Titandrake - shuffles deck
+Titandrake - draws Witch
+ 
+---------- ang: turn 18 ----------
+ang - plays 2 Silver, 1 Masterpiece, 1 Gold
+ang - buys Province
+ang - gains Province
+ang - draws Masterpiece, Copper, Silver, Silver, Curse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Witch
+Titandrake - draws Curse, Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Estate, Copper, Curse, Copper
+ 
+---------- ang: turn 19 ----------
+ang - plays 2 Silver, 1 Masterpiece, 1 Copper
+ang - buys Fairgrounds
+ang - gains Fairgrounds
+ang - draws Estate, Warehouse, Witch, Silver, Estate
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Moat
+Titandrake - gains Moat
+Titandrake - draws Copper, Fairgrounds, Fairgrounds, Curse, Herald
+ 
+---------- ang: turn 20 ----------
+ang - plays Warehouse
+ang - draws Copper, Moat, Copper
+ang - discards Estate
+ang - discards Estate
+ang - discards Moat
+ang - plays Witch
+ang - draws Silver, Curse
+ang - plays 2 Silver, 2 Copper
+ang - buys Fairgrounds
+ang - gains Fairgrounds
+ang - draws Estate, Silver, Province, Witch, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Herald
+Titandrake - draws Witch
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Witch
+Titandrake - draws Copper, Warehouse
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Silver, Silver, Herald, Copper
+ 
+---------- ang: turn 21 ----------
+ang - plays Witch
+ang - draws Gold, Warehouse
+ang - plays 1 Silver, 1 Copper, 1 Gold
+ang - buys Fairgrounds
+ang - gains Fairgrounds
+ang - draws Throne Room, Copper, Curse, Throne Room, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Herald
+Titandrake - draws Masterpiece
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays 3 Silver, 1 Copper, 1 Masterpiece
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Curse, Copper, Silver, Estate
+ 
+---------- ang: turn 22 ----------
+ang - plays 2 Copper
+ang - shuffles deck
+ang - draws Silver, Province, Silver, Curse, Estate
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Silver, Silver, Silver, Masterpiece, Silver
+ 
+---------- ang: turn 23 ----------
+ang - plays 2 Silver
+ang - buys Herald
+ang - gains Herald
+ang - draws Masterpiece, Copper, Silver, Fairgrounds, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 4 Silver, 1 Masterpiece
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Gold, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Warehouse
+ 
+---------- ang: turn 24 ----------
+ang - plays 2 Silver, 1 Masterpiece, 1 Copper
+ang - buys Fairgrounds
+ang - gains Fairgrounds
+ang - draws Witch, Estate, Silver, Moat, Witch
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Duchy, Silver
+Titandrake - discards Estate
+Titandrake - discards Duchy
+Titandrake - discards Copper
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Masterpiece, Copper, Witch
+ 
+---------- ang: turn 25 ----------
+ang - plays Witch
+ang - draws Province, Silver
+ang - plays 2 Silver
+ang - buys Spy
+ang - gains Spy
+ang - draws Gold, Warehouse, Throne Room, Copper, Silver
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Witch
+Titandrake - draws Moat, Curse
+Titandrake - plays 2 Copper, 1 Silver, 1 Masterpiece
+Titandrake - buys Counting House
+Titandrake - gains Counting House
+Titandrake - draws Fairgrounds, Silver, Silver, Herald, Silver
+ 
+---------- ang: turn 26 ----------
+ang - plays Throne Room
+ang - plays Warehouse
+ang - draws Copper, Estate, Warehouse
+ang - discards Estate
+ang - discards Warehouse
+ang - discards Copper
+ang - plays Warehouse
+ang - draws Quarry, Copper, Masterpiece
+ang - discards Copper
+ang - discards Copper
+ang - discards Masterpiece
+ang - plays 1 Gold, 1 Silver
+ang - plays Quarry
+ang - buys Duchy
+ang - gains Duchy
+ang - draws Copper, Copper, Fairgrounds, Curse, Curse
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Herald
+Titandrake - draws Province
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - plays 3 Silver
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - draws Curse, Province, Fairgrounds, Fairgrounds, Curse
+ 
+---------- ang: turn 27 ----------
+ang - plays 2 Copper
+ang - buys Estate
+ang - gains Estate
+ang - draws Copper, Silver, Gold, Throne Room, Fairgrounds
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Silver, Curse, Estate, Estate, Silver
+ 
+---------- ang: turn 28 ----------
+ang - plays Throne Room
+ang - plays 1 Copper, 1 Silver, 1 Gold
+ang - buys Duchy
+ang - gains Duchy
+ang - draws Fairgrounds, Silver, Curse, Curse
+ang - shuffles deck
+ang - draws Gold
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Gold, Curse, Province, Copper
+ 
+---------- ang: turn 29 ----------
+ang - plays 1 Silver, 1 Gold
+ang - buys Duchy
+ang - gains Duchy
+ang - draws Copper, Silver, Estate, Duchy, Province
+ 
+---------- Titandrake: turn 30 ----------
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Herald, Copper, Witch, Masterpiece
+ 
+---------- ang: turn 30 ----------
+ang - plays 1 Copper, 1 Silver
+ang - buys Estate
+ang - gains Estate
+ang - draws Province, Copper, Masterpiece, Fairgrounds, Copper
+ 
+---------- Titandrake: turn 31 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Witch
+Titandrake - draws Silver, Province
+Titandrake - plays 2 Silver, 2 Copper, 1 Masterpiece
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Herald, Silver
+ 
+---------- ang: turn 31 ----------
+ang - plays 2 Copper, 1 Masterpiece
+ang - buys Estate
+ang - gains Estate
+ang - draws Curse, Silver, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 32 ----------
+Titandrake - plays Herald
+Titandrake - draws Herald
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays 5 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Curse, Province, Province, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Herald, 2 Witch, 11 Silver, 1 Counting House, 1 Moat, 1 Spy, 1 Warehouse, 8 Copper, 2 Masterpiece, 2 Gold, 6 Estate, 6 Province, 3 Fairgrounds, 2 Duchy, 5 Curse
+Titandrake - total victory points: 61
+Titandrake - turns: 32
+ 
+ang - cards: 2 Warehouse, 2 Throne Room, 2 Witch, 1 Moat, 1 Spy, 1 Herald, 9 Silver, 7 Copper, 2 Gold, 2 Masterpiece, 1 Quarry, 6 Estate, 5 Fairgrounds, 3 Duchy, 2 Province, 5 Curse
+ang - total victory points: 52
+ang - turns: 31
+ 
+1st place: Titandrake
+2nd place: ang
+ 

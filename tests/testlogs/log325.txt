@@ -1,0 +1,563 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Scrying Pool, Lookout, Bishop, Silk Road, Golem, Bandit Camp, Cartographer, Ill-Gotten Gains, Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+nnn - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+nnn - shuffles deck
+Titandrake - shuffles deck
+nnn - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- nnn: turn 1 ----------
+nnn - plays 3 Copper
+nnn - buys Silver
+nnn - gains Silver
+nnn - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Estate, Potion, Estate, Copper, Copper
+ 
+---------- nnn: turn 2 ----------
+nnn - plays 4 Copper
+nnn - buys Courtyard
+nnn - gains Courtyard
+nnn - shuffles deck
+nnn - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Estate, Copper, Lookout, Copper, Copper
+ 
+---------- nnn: turn 3 ----------
+nnn - plays 5 Copper
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Estate, Estate, Estate, Courtyard, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Copper, Scrying Pool, Copper, Copper, Potion
+ 
+---------- nnn: turn 4 ----------
+nnn - plays Courtyard
+nnn - draws Silver, Copper
+nnn - shuffles deck
+nnn - draws Copper
+nnn - places Estate on top of deck
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Estate, Copper, Copper, Copper, Ill-Gotten Gains
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+nnn - places Copper on top of deck
+Titandrake - reveals Estate
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Copper, Scrying Pool, Lookout, Potion, Estate
+ 
+---------- nnn: turn 5 ----------
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays 4 Copper
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Copper
+nnn - shuffles deck
+nnn - draws Courtyard, Ill-Gotten Gains, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Scrying Pool on top of deck
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+nnn - places Copper on top of deck
+Titandrake - reveals Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+nnn - places Copper on top of deck
+Titandrake - reveals Estate
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Estate, Courtyard, Copper, Copper
+ 
+---------- nnn: turn 6 ----------
+nnn - plays Courtyard
+nnn - draws Copper, Copper, Copper
+nnn - places Ill-Gotten Gains on top of deck
+nnn - plays 5 Copper
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Ill-Gotten Gains, Ill-Gotten Gains, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Estate, Scrying Pool, Curse
+Titandrake - places Scrying Pool on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Scrying Pool, Curse, Potion, Estate, Scrying Pool
+ 
+---------- nnn: turn 7 ----------
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays 3 Copper
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Ill-Gotten Gains, Silver, Copper, Copper
+nnn - shuffles deck
+nnn - draws Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+nnn - places Estate on top of deck
+Titandrake - reveals Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+nnn - places Estate on top of deck
+Titandrake - reveals Lookout, Copper
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Curse
+Titandrake - discards Estate
+Titandrake - places Copper on top of deck
+Titandrake - plays Scrying Pool
+Titandrake - places Copper on top of deck
+nnn - places Estate on top of deck
+Titandrake - reveals Copper
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Courtyard, Copper, Curse, Silver, Copper
+ 
+---------- nnn: turn 8 ----------
+nnn - plays 3 Copper, 1 Silver
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Estate, Ill-Gotten Gains, Copper, Ill-Gotten Gains, Courtyard
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Estate
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Curse, Scrying Pool, Curse
+ 
+---------- nnn: turn 9 ----------
+nnn - plays Courtyard
+nnn - draws Estate, Copper, Copper
+nnn - places Ill-Gotten Gains on top of deck
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays 4 Copper
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Ill-Gotten Gains, Copper, Ill-Gotten Gains, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Courtyard on top of deck
+nnn - discards Ill-Gotten Gains
+Titandrake - reveals Courtyard, Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+nnn - places Copper on top of deck
+Titandrake - reveals Copper
+Titandrake - plays Courtyard
+Titandrake - draws Market, Estate, Estate
+Titandrake - places Market on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Market, Silver, Copper, Copper, Potion
+ 
+---------- nnn: turn 10 ----------
+nnn - plays 3 Copper
+nnn - plays Ill-Gotten Gains
+nnn - plays Ill-Gotten Gains
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Copper, Estate
+nnn - shuffles deck
+nnn - draws Copper, Copper, Ill-Gotten Gains
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Market
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+nnn - places Copper on top of deck
+Titandrake - reveals Curse
+Titandrake - plays 2 Copper, 1 Silver, 1 Potion
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Lookout, Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Potion, Curse, Copper
+ 
+---------- nnn: turn 11 ----------
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays 4 Copper
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Copper, Estate, Ill-Gotten Gains, Ill-Gotten Gains, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Estate
+Titandrake - places Copper on top of deck
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+nnn - places Copper on top of deck
+Titandrake - reveals Bishop, Curse
+Titandrake - plays Bishop
+Titandrake - trashes Curse
+Titandrake - receives 0 victory point chips
+Titandrake - plays 1 Potion, 1 Copper
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Courtyard, Lookout, Scrying Pool, Curse
+ 
+---------- nnn: turn 12 ----------
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays 3 Copper
+nnn - buys Ill-Gotten Gains
+nnn - gains Ill-Gotten Gains
+Titandrake - gains Curse
+nnn - draws Copper, Copper, Courtyard, Ill-Gotten Gains, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Market on top of deck
+Titandrake - plays Scrying Pool
+Titandrake - places Market on top of deck
+nnn - discards Ill-Gotten Gains
+Titandrake - reveals Market, Scrying Pool, Silver
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+nnn - places Copper on top of deck
+Titandrake - reveals Estate
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Courtyard
+Titandrake - draws Scrying Pool, Copper, Copper
+Titandrake - places Scrying Pool on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Curse, Copper, Potion
+ 
+---------- nnn: turn 13 ----------
+nnn - plays Courtyard
+nnn - draws Copper, Ill-Gotten Gains, Ill-Gotten Gains
+nnn - places Ill-Gotten Gains on top of deck
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays 6 Copper
+nnn - buys Province
+nnn - gains Province
+nnn - draws Ill-Gotten Gains, Copper, Copper, Ill-Gotten Gains, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Curse
+nnn - places Copper on top of deck
+Titandrake - reveals Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+nnn - places Copper on top of deck
+Titandrake - reveals Scrying Pool, Lookout, Lookout, Copper
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Scrying Pool on top of deck
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+nnn - places Copper on top of deck
+Titandrake - reveals Scrying Pool, Lookout, Estate
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Silver
+Titandrake - places Bishop on top of deck
+Titandrake - plays Scrying Pool
+Titandrake - places Bishop on top of deck
+nnn - places Copper on top of deck
+Titandrake - reveals Bishop, Courtyard, Estate
+Titandrake - plays Scrying Pool
+Titandrake - discards Curse
+nnn - places Copper on top of deck
+Titandrake - reveals Bishop, Copper
+Titandrake - plays Bishop
+Titandrake - trashes Curse
+Titandrake - receives 0 victory point chips
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Market
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Lookout, Scrying Pool
+ 
+---------- nnn: turn 14 ----------
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays Ill-Gotten Gains
+nnn - gains Copper
+nnn - plays 4 Copper, 1 Silver
+nnn - buys Province
+nnn - gains Province
+nnn - draws Copper
+nnn - shuffles deck
+nnn - draws Copper, Copper, Ill-Gotten Gains, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Potion
+Titandrake - places Bishop on top of deck
+Titandrake - plays Scrying Pool
+Titandrake - places Bishop on top of deck
+nnn - discards Ill-Gotten Gains
+Titandrake - reveals Bishop, Courtyard, Bishop, Lookout, Scrying Pool, Copper
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Lookout
+Titandrake - places Scrying Pool on top of deck
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+nnn - discards Courtyard
+Titandrake - reveals Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Curse
+nnn - places Copper on top of deck
+Titandrake - reveals Bandit Camp, Curse
+Titandrake - plays Bandit Camp
+Titandrake - draws Silver
+Titandrake - gains Spoils
+Titandrake - plays Market
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+nnn - places Copper on top of deck
+Titandrake - reveals Scrying Pool, Estate
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - discards Copper
+nnn - places Copper on top of deck
+Titandrake - reveals Spoils
+Titandrake - plays Bishop
+Titandrake - trashes Curse
+Titandrake - receives 0 victory point chips
+nnn - trashes Copper
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Potion, Curse, Lookout
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Bishop
+ 
+---------- nnn: turn 15 ----------
+nnn - plays 3 Copper
+nnn - plays Ill-Gotten Gains
+nnn - buys Silk Road
+nnn - gains Silk Road
+nnn - draws Copper, Ill-Gotten Gains, Copper, Copper, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+nnn - discards Ill-Gotten Gains
+Titandrake - reveals Scrying Pool, Lookout, Copper
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Market
+Titandrake - places Scrying Pool on top of deck
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+nnn - discards Ill-Gotten Gains
+Titandrake - reveals Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Lookout on top of deck
+nnn - places Province on top of deck
+Titandrake - reveals Lookout, Bandit Camp, Bishop, Bandit Camp, Copper
+Titandrake - plays Lookout
+Titandrake - trashes Courtyard
+Titandrake - discards Market
+Titandrake - places Scrying Pool on top of deck
+Titandrake - plays Bandit Camp
+Titandrake - draws Scrying Pool
+Titandrake - gains Spoils
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+nnn - places Province on top of deck
+Titandrake - reveals Scrying Pool, Silver
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - places Market on top of deck
+nnn - places Province on top of deck
+Titandrake - reveals Market, Market, Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws Spoils
+Titandrake - gains Spoils
+Titandrake - plays Bishop
+Titandrake - trashes Curse
+Titandrake - receives 0 victory point chips
+Titandrake - plays Bishop
+Titandrake - trashes Lookout
+Titandrake - receives 1 victory point chips
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+Titandrake - plays Market
+Titandrake - plays 4 Copper, 1 Potion, 1 Silver
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Copper, Bishop, Potion, Market
+ 
+---------- nnn: turn 16 ----------
+nnn - plays Ill-Gotten Gains
+nnn - plays 3 Copper
+nnn - buys Silk Road
+nnn - gains Silk Road
+nnn - draws Province, Copper, Ill-Gotten Gains, Copper, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+nnn - places Copper on top of deck
+Titandrake - reveals Scrying Pool, Market, Bandit Camp, Silver
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+nnn - places Copper on top of deck
+Titandrake - reveals Scrying Pool, Scrying Pool, Lookout, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+nnn - places Copper on top of deck
+Titandrake - reveals Market, Lookout, Scrying Pool, Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Bishop on top of deck
+nnn - places Copper on top of deck
+Titandrake - reveals Bishop, Gold
+Titandrake - plays Bandit Camp
+Titandrake - draws Bandit Camp
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Market
+Titandrake - draws Spoils
+Titandrake - plays Bishop
+Titandrake - trashes Lookout
+Titandrake - receives 1 victory point chips
+Titandrake - plays Market
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+Titandrake - plays Bishop
+Titandrake - trashes Lookout
+Titandrake - receives 1 victory point chips
+Titandrake - plays Market
+Titandrake - plays 4 Copper, 1 Potion, 1 Silver, 1 Gold
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Copper, Scrying Pool, Bishop, Scrying Pool, Market
+ 
+---------- nnn: turn 17 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Scrying Pool, 3 Bishop, 3 Market, 3 Bandit Camp, 4 Copper, 1 Silver, 1 Potion, 1 Gold, 1 Province
+Titandrake - victory point chips: 12
+Titandrake - total victory points: 18
+Titandrake - turns: 17
+ 
+nnn - resigned
+nnn - cards: 17 Copper, 10 Ill-Gotten Gains, 1 Courtyard, 1 Silver, 3 Estate, 2 Province, 2 Silk Road
+nnn - victory point chips: 0
+nnn - total victory points: 17
+nnn - turns: 16
+ 
+1st place: Titandrake
+2nd place: nnn
+ 

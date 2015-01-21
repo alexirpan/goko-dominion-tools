@@ -1,0 +1,508 @@
+------------ Game Setup ------------
+Supply cards: Apothecary, Develop, Bishop, Moneylender, Pirate Ship, Scavenger, Spy, Council Room, Harvest, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+astrosity - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+astrosity - shuffles deck
+Titandrake - shuffles deck
+astrosity - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- astrosity: turn 1 ----------
+astrosity - plays 4 Copper
+astrosity - buys Moneylender
+astrosity - gains Moneylender
+astrosity - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- astrosity: turn 2 ----------
+astrosity - plays 3 Copper
+astrosity - buys Silver
+astrosity - gains Silver
+astrosity - shuffles deck
+astrosity - draws Estate, Copper, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Copper, Estate, Estate, Potion, Copper
+ 
+---------- astrosity: turn 3 ----------
+astrosity - plays 2 Copper, 1 Silver
+astrosity - buys Bishop
+astrosity - gains Bishop
+astrosity - draws Copper, Copper, Copper, Moneylender, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Potion, Copper, Copper
+ 
+---------- astrosity: turn 4 ----------
+astrosity - plays Moneylender
+astrosity - trashes Copper
+astrosity - plays 2 Copper
+astrosity - buys Silver
+astrosity - gains Silver
+astrosity - draws Copper, Copper
+astrosity - shuffles deck
+astrosity - draws Estate, Silver, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Scavenger, Copper, Estate, Apothecary, Estate
+ 
+---------- astrosity: turn 5 ----------
+astrosity - plays 2 Copper, 2 Silver
+astrosity - buys Gold
+astrosity - gains Gold
+astrosity - draws Estate, Copper, Moneylender, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Silver
+Titandrake - reveals: Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - places Estate on top of deck
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Apothecary on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Apothecary
+Titandrake - shuffles deck
+Titandrake - draws Copper, Potion, Copper, Estate
+ 
+---------- astrosity: turn 6 ----------
+astrosity - plays Moneylender
+astrosity - trashes Copper
+astrosity - plays 2 Copper
+astrosity - buys Council Room
+astrosity - gains Council Room
+astrosity - draws Bishop, Estate, Copper
+astrosity - shuffles deck
+astrosity - draws Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Estate, Copper, Council Room, Silver
+Titandrake - places Silver on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Council Room on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Council Room
+Titandrake - reveals: Estate, Silver, Copper, Scavenger
+Titandrake - places Scavenger on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays Council Room
+Titandrake - draws Estate, Silver, Scavenger, Copper
+astrosity - draws Silver
+Titandrake - plays 5 Copper, 1 Potion, 1 Silver
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - draws Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate
+ 
+---------- astrosity: turn 7 ----------
+astrosity - plays Bishop
+astrosity - trashes Estate
+astrosity - receives 1 victory point chips
+Titandrake - trashes Estate
+astrosity - plays 2 Copper, 1 Silver
+astrosity - buys Silver
+astrosity - gains Silver
+astrosity - draws Silver, Moneylender, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - draws Copper, Copper, Apothecary, Estate, Potion
+ 
+---------- astrosity: turn 8 ----------
+astrosity - plays Moneylender
+astrosity - trashes Copper
+astrosity - plays 2 Copper, 1 Silver
+astrosity - buys Gold
+astrosity - gains Gold
+astrosity - draws Gold, Council Room, Estate
+astrosity - shuffles deck
+astrosity - draws Bishop, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Council Room, Apothecary, Apothecary, Spy
+Titandrake - places Spy on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - places Council Room on top of deck
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Council Room, Apothecary, Apothecary, Spy, Scavenger
+ 
+---------- astrosity: turn 9 ----------
+astrosity - plays Bishop
+astrosity - trashes Estate
+astrosity - receives 1 victory point chips
+astrosity - plays 1 Gold, 1 Copper
+astrosity - buys Spy
+astrosity - gains Spy
+astrosity - draws Moneylender, Silver, Gold, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Spy, Apothecary
+Titandrake - places Spy on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Spy, Copper, Copper, Silver
+Titandrake - places Spy on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Spy
+Titandrake - draws Silver
+Titandrake - places Spy on top of deck
+astrosity - discards Silver
+Titandrake - plays Apothecary
+Titandrake - draws Spy
+Titandrake - reveals: Apothecary, Potion, Estate, Estate
+Titandrake - places Estate on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Spy
+Titandrake - draws Apothecary
+Titandrake - discards Estate
+astrosity - places Estate on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Estate
+Titandrake - reveals: Copper, Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Estate
+Titandrake - places Estate on top of deck
+Titandrake - plays Council Room
+Titandrake - draws Estate
+astrosity - draws Estate
+Titandrake - plays 7 Copper, 1 Silver, 1 Potion
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Apothecary, Copper, Copper, Scavenger
+ 
+---------- astrosity: turn 10 ----------
+astrosity - plays Moneylender
+astrosity - trashes Copper
+astrosity - plays 2 Silver, 1 Gold
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Copper, Copper
+astrosity - shuffles deck
+astrosity - draws Silver, Gold, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Spy
+Titandrake - reveals: Apothecary, Copper, Apothecary, Copper
+Titandrake - places Apothecary on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Spy
+Titandrake - draws Apothecary
+Titandrake - places Apothecary on top of deck
+astrosity - discards Council Room
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Copper, Estate, Apothecary, Council Room
+Titandrake - places Estate on top of deck
+Titandrake - places Council Room on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Council Room, Estate, Copper, Spy
+Titandrake - places Estate on top of deck
+Titandrake - places Council Room on top of deck
+Titandrake - places Spy on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Spy
+Titandrake - reveals: Council Room, Estate, Silver, Province
+Titandrake - places Silver on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Council Room on top of deck
+Titandrake - plays Spy
+Titandrake - draws Council Room
+Titandrake - discards Estate
+astrosity - discards Silver
+Titandrake - plays Council Room
+Titandrake - draws Province, Silver, Estate, Copper
+astrosity - draws Province
+Titandrake - plays 8 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Apothecary
+ 
+---------- astrosity: turn 11 ----------
+astrosity - plays 2 Copper, 2 Silver, 1 Gold
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Bishop, Gold, Copper, Spy, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Province
+Titandrake - reveals: Province, Copper, Council Room, Apothecary
+Titandrake - places Apothecary on top of deck
+Titandrake - places Council Room on top of deck
+Titandrake - places Province on top of deck
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Province, Council Room, Apothecary, Copper, Copper
+ 
+---------- astrosity: turn 12 ----------
+astrosity - plays Spy
+astrosity - draws Moneylender
+astrosity - shuffles deck
+astrosity - discards Copper
+Titandrake - discards Spy
+astrosity - plays Bishop
+astrosity - trashes Estate
+astrosity - receives 1 victory point chips
+astrosity - plays 1 Gold, 1 Copper
+astrosity - buys Peddler
+astrosity - gains Peddler
+astrosity - draws Copper, Gold, Council Room, Silver, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Spy, Copper, Apothecary, Copper
+Titandrake - places Apothecary on top of deck
+Titandrake - places Spy on top of deck
+Titandrake - plays Council Room
+Titandrake - draws Spy, Apothecary, Silver, Estate
+astrosity - draws Province
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Scavenger, Apothecary
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Apothecary
+ 
+---------- astrosity: turn 13 ----------
+astrosity - plays Council Room
+astrosity - draws Silver, Silver
+astrosity - shuffles deck
+astrosity - draws Moneylender, Copper
+Titandrake - draws Copper
+astrosity - plays 3 Silver, 2 Copper, 1 Gold
+astrosity - buys Province
+astrosity - gains Province
+astrosity - buys Silver
+astrosity - gains Silver
+astrosity - draws Spy, Copper, Peddler, Gold, Bishop
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Copper, Spy, Province, Copper
+Titandrake - places Province on top of deck
+Titandrake - places Spy on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Spy
+Titandrake - reveals: Province, Duchy, Province, Copper
+Titandrake - places Province on top of deck
+Titandrake - places Duchy on top of deck
+Titandrake - places Province on top of deck
+Titandrake - plays Spy
+Titandrake - draws Province
+Titandrake - discards Duchy
+astrosity - shuffles deck
+astrosity - discards Silver
+Titandrake - plays Apothecary
+Titandrake - draws Province
+Titandrake - reveals: Estate, Copper, Estate, Council Room
+Titandrake - places Council Room on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Apothecary on top of deck
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Apothecary
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province, Estate, Copper
+ 
+---------- astrosity: turn 14 ----------
+astrosity - plays Spy
+astrosity - draws Council Room
+astrosity - places Silver on top of deck
+Titandrake - discards Copper
+astrosity - plays Peddler
+astrosity - draws Silver
+astrosity - plays Bishop
+astrosity - trashes Council Room
+astrosity - receives 2 victory point chips
+astrosity - plays 1 Copper, 1 Gold, 1 Silver
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Gold, Province, Copper, Province, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Copper, Potion, Copper, Duchy
+Titandrake - places Duchy on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Duchy
+Titandrake - reveals: Estate, Copper, Province, Province
+Titandrake - places Province on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays 5 Copper, 1 Potion
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Province, Province, Council Room, Silver
+ 
+---------- astrosity: turn 15 ----------
+astrosity - plays 2 Copper, 1 Gold
+astrosity - buys Duchy
+astrosity - gains Duchy
+astrosity - draws Silver, Silver, Province, Moneylender
+astrosity - shuffles deck
+astrosity - draws Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Council Room
+Titandrake - draws Apothecary, Copper, Apothecary, Spy
+astrosity - draws Silver
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Apothecary, Spy, Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- astrosity: turn 16 ----------
+astrosity - plays Moneylender
+astrosity - plays 3 Silver
+astrosity - buys Duchy
+astrosity - gains Duchy
+astrosity - draws Bishop, Province, Copper, Gold, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Duchy
+Titandrake - reveals: Apothecary, Copper, Potion, Province
+Titandrake - places Province on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Spy
+Titandrake - draws Apothecary
+Titandrake - discards Province
+astrosity - places Duchy on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Estate
+Titandrake - reveals: Copper, Apothecary, Province, Apothecary
+Titandrake - places Apothecary on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Scavenger
+Titandrake - places Province on top of deck
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Apothecary, Province, Apothecary, Estate
+ 
+---------- astrosity: turn 17 ----------
+astrosity - plays Bishop
+astrosity - trashes Gold
+astrosity - receives 3 victory point chips
+astrosity - plays 1 Copper
+astrosity - buys Estate
+astrosity - gains Estate
+astrosity - draws Duchy, Spy, Copper, Gold, Peddler
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Spy
+Titandrake - reveals: Duchy, Copper, Silver, Estate
+Titandrake - places Duchy on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Spy
+Titandrake - draws Silver
+Titandrake - discards Estate
+astrosity - discards Silver
+Titandrake - plays Apothecary
+Titandrake - draws Duchy
+Titandrake - reveals: Province, Copper, Council Room, Apothecary
+Titandrake - places Apothecary on top of deck
+Titandrake - places Council Room on top of deck
+Titandrake - places Province on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Province, Council Room, Apothecary, Copper, Copper
+ 
+---------- astrosity: turn 18 ----------
+astrosity - plays Spy
+astrosity - draws Copper
+astrosity - shuffles deck
+astrosity - discards Province
+Titandrake - shuffles deck
+Titandrake - places Copper on top of deck
+astrosity - plays Peddler
+astrosity - draws Silver
+astrosity - plays 2 Copper, 1 Gold, 1 Silver
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Silver, Copper, Bishop, Duchy, Estate
+ 
+------------ Game Over ------------
+astrosity - cards: 1 Bishop, 1 Spy, 1 Peddler, 1 Moneylender, 4 Silver, 3 Copper, 1 Gold, 5 Province, 2 Duchy, 1 Estate
+astrosity - victory point chips: 13
+astrosity - total victory points: 50
+astrosity - turns: 18
+ 
+Titandrake - cards: 5 Apothecary, 2 Spy, 1 Council Room, 1 Scavenger, 1 Bishop, 8 Copper, 1 Potion, 1 Silver, 3 Province, 3 Duchy, 3 Estate
+Titandrake - victory point chips: 0
+Titandrake - total victory points: 30
+Titandrake - turns: 18
+ 
+1st place: astrosity
+2nd place: Titandrake
+ 

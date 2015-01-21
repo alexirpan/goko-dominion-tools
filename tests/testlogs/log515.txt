@@ -1,0 +1,776 @@
+------------ Game Setup ------------
+Supply cards: Loan, Sage, Militia, Quarry, Rats, Sea Hag, Smithy, Counting House, Merchant Guild, Tactician, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Ben Smith - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Ben Smith - shuffles deck
+Titandrake - shuffles deck
+Ben Smith - draws Copper, Hovel, Copper, Copper, Copper
+Titandrake - draws Copper, Necropolis, Copper, Copper, Overgrown Estate
+ 
+---------- Ben Smith: turn 1 ----------
+Ben Smith - plays 4 Copper
+Ben Smith - buys Militia
+Ben Smith - gains Militia
+Ben Smith - draws Copper, Necropolis, Copper, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Ben Smith: turn 2 ----------
+Ben Smith - plays 3 Copper
+Ben Smith - buys Loan
+Ben Smith - gains Loan
+Ben Smith - shuffles deck
+Ben Smith - draws Loan, Copper, Copper, Copper, Militia
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Hovel, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- Ben Smith: turn 3 ----------
+Ben Smith - plays Militia
+Titandrake - discards Overgrown Estate
+Titandrake - discards Hovel
+Ben Smith - plays 3 Copper
+Ben Smith - plays Loan
+Ben Smith - reveals Overgrown Estate, Copper
+Ben Smith - trashes Copper
+Ben Smith - discards Overgrown Estate
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Copper, Necropolis, Copper, Hovel, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Copper, Copper, Copper, Sage
+ 
+---------- Ben Smith: turn 4 ----------
+Ben Smith - plays 3 Copper
+Ben Smith - buys Sage
+Ben Smith - gains Sage
+Ben Smith - shuffles deck
+Ben Smith - draws Copper, Gold, Loan, Copper, Necropolis
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Sage
+Titandrake - reveals Sea Hag
+Titandrake - places Sea Hag in hand
+Titandrake - plays Sea Hag
+Ben Smith - discards Copper
+Ben Smith - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Silver
+ 
+---------- Ben Smith: turn 5 ----------
+Ben Smith - plays 2 Copper, 1 Gold
+Ben Smith - plays Loan
+Ben Smith - reveals Curse, Sage, Copper
+Ben Smith - trashes Copper
+Ben Smith - discards: Curse, Sage
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Militia, Hovel, Copper, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Copper, Sage, Copper, Overgrown Estate, Sea Hag
+ 
+---------- Ben Smith: turn 6 ----------
+Ben Smith - plays Militia
+Titandrake - discards Overgrown Estate
+Titandrake - discards Copper
+Ben Smith - plays 2 Copper
+Ben Smith - buys Sea Hag
+Ben Smith - gains Sea Hag
+Ben Smith - shuffles deck
+Ben Smith - draws Militia, Gold, Overgrown Estate, Copper, Sea Hag
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sea Hag
+Ben Smith - discards Hovel
+Ben Smith - gains Curse
+Titandrake - draws Hovel, Sage, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Necropolis
+ 
+---------- Ben Smith: turn 7 ----------
+Ben Smith - plays Sea Hag
+Titandrake - discards Overgrown Estate
+Titandrake - gains Curse
+Ben Smith - plays 1 Gold, 1 Copper
+Ben Smith - buys Silver
+Ben Smith - gains Silver
+Ben Smith - draws Curse, Copper, Gold, Loan, Necropolis
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Sage
+Titandrake - reveals Curse, Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Curse, Copper
+Titandrake - plays Sage
+Titandrake - reveals Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Loan
+Titandrake - gains Loan
+Titandrake - draws Copper, Tactician, Copper, Sea Hag, Copper
+ 
+---------- Ben Smith: turn 8 ----------
+Ben Smith - plays 1 Copper, 1 Gold
+Ben Smith - plays Loan
+Ben Smith - reveals Sage, Copper
+Ben Smith - trashes Copper
+Ben Smith - discards Sage
+Ben Smith - buys Tactician
+Ben Smith - gains Tactician
+Ben Smith - draws Copper, Curse, Copper
+Ben Smith - shuffles deck
+Ben Smith - draws Tactician, Sea Hag
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Sea Hag
+Ben Smith - discards Curse
+Ben Smith - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - shuffles deck
+Titandrake - draws Sage, Loan, Copper, Copper, Curse
+ 
+---------- Ben Smith: turn 9 ----------
+Ben Smith - plays Tactician
+Ben Smith - discards: Copper, Curse, Copper, Sea Hag
+Ben Smith - draws Curse, Hovel, Necropolis, Gold, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Sea Hag
+Titandrake - places Sea Hag in hand
+Titandrake - plays Sea Hag
+Ben Smith - discards Copper
+Ben Smith - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - plays Loan
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Necropolis, Copper, Silver, Tactician, Copper
+ 
+---------- Ben Smith: turn 10 ----------
+Ben Smith - duration Tactician
+Ben Smith - draws Curse, Sage, Silver, Loan, Militia
+Ben Smith - plays Necropolis
+Ben Smith - plays Sage
+Ben Smith - reveals Overgrown Estate, Gold
+Ben Smith - places Gold in hand
+Ben Smith - discards Overgrown Estate
+Ben Smith - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Necropolis
+Ben Smith - plays 2 Gold, 1 Copper, 1 Silver
+Ben Smith - plays Loan
+Ben Smith - shuffles deck
+Ben Smith - reveals Copper
+Ben Smith - trashes Copper
+Ben Smith - buys Colony
+Ben Smith - trashes Hovel
+Ben Smith - gains Colony
+Ben Smith - draws Sea Hag, Copper, Overgrown Estate, Curse, Curse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Silver, Copper
+Titandrake - draws Hovel, Copper, Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Ben Smith: turn 11 ----------
+Ben Smith - plays Sea Hag
+Titandrake - discards Sage
+Titandrake - gains Curse
+Ben Smith - draws Copper
+Ben Smith - shuffles deck
+Ben Smith - draws Copper, Colony, Gold, Sea Hag
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Tactician
+Titandrake - draws Curse, Silver, Copper, Sage, Loan
+Titandrake - plays Sage
+Titandrake - reveals Curse, Sea Hag
+Titandrake - places Sea Hag in hand
+Titandrake - discards Curse
+Titandrake - plays Sea Hag
+Ben Smith - discards Militia
+Ben Smith - gains Curse
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - plays Loan
+Titandrake - reveals Sage, Silver
+Titandrake - discards Silver
+Titandrake - discards Sage
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Curse, Hovel
+ 
+---------- Ben Smith: turn 12 ----------
+Ben Smith - plays Sea Hag
+Titandrake - discards Sea Hag
+Titandrake - gains Curse
+Ben Smith - plays 2 Copper, 1 Gold
+Ben Smith - buys Silver
+Ben Smith - gains Silver
+Ben Smith - draws Curse, Sage, Gold, Tactician, Necropolis
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - draws Curse, Copper, Copper, Copper, Gold
+ 
+---------- Ben Smith: turn 13 ----------
+Ben Smith - plays Sage
+Ben Smith - reveals Curse, Curse, Copper, Silver
+Ben Smith - places Silver in hand
+Ben Smith - discards: Curse, Curse, Copper
+Ben Smith - plays Tactician
+Ben Smith - discards: Curse, Gold, Necropolis, Silver
+Ben Smith - draws Curse, Loan, Curse, Overgrown Estate
+Ben Smith - shuffles deck
+Ben Smith - draws Colony
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Sage, Silver, Overgrown Estate, Sage, Copper
+ 
+---------- Ben Smith: turn 14 ----------
+Ben Smith - duration Tactician
+Ben Smith - draws Necropolis, Sea Hag, Silver, Sage, Silver
+Ben Smith - plays Sage
+Ben Smith - reveals Copper, Copper, Copper, Gold
+Ben Smith - places Gold in hand
+Ben Smith - discards: Copper, Copper, Copper
+Ben Smith - plays Sea Hag
+Titandrake - discards Tactician
+Titandrake - gains Curse
+Ben Smith - plays 2 Silver, 1 Gold
+Ben Smith - plays Loan
+Ben Smith - reveals Curse, Curse, Gold
+Ben Smith - discards Gold
+Ben Smith - discards: Curse, Curse
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Curse, Militia
+Ben Smith - shuffles deck
+Ben Smith - draws Gold, Silver, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Curse, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Curse
+Titandrake - plays Sage
+Titandrake - reveals Loan
+Titandrake - places Loan in hand
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - plays Loan
+Titandrake - shuffles deck
+Titandrake - reveals Curse, Sage, Copper
+Titandrake - trashes Copper
+Titandrake - discards: Curse, Sage
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Sea Hag, Copper, Copper, Curse
+ 
+---------- Ben Smith: turn 15 ----------
+Ben Smith - plays Militia
+Titandrake - discards Curse
+Titandrake - discards Copper
+Ben Smith - plays 1 Gold, 1 Silver, 1 Copper
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Curse, Loan, Sage, Necropolis, Curse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Sea Hag
+Ben Smith - discards Gold
+Ben Smith - gains Curse
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Curse, Hovel, Necropolis, Curse, Copper
+ 
+---------- Ben Smith: turn 16 ----------
+Ben Smith - plays Sage
+Ben Smith - reveals Curse, Sea Hag
+Ben Smith - places Sea Hag in hand
+Ben Smith - discards Curse
+Ben Smith - plays Sea Hag
+Titandrake - discards Gold
+Ben Smith - plays Loan
+Ben Smith - reveals Curse, Overgrown Estate, Curse, Colony, Tactician, Silver
+Ben Smith - discards Silver
+Ben Smith - discards: Curse, Overgrown Estate, Curse, Colony, Tactician
+Ben Smith - draws Gold, Copper, Copper
+Ben Smith - shuffles deck
+Ben Smith - draws Curse, Necropolis
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - draws Tactician, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- Ben Smith: turn 17 ----------
+Ben Smith - plays 2 Copper, 1 Gold
+Ben Smith - buys Tactician
+Ben Smith - gains Tactician
+Ben Smith - draws Gold, Militia, Copper, Sage, Overgrown Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Copper, Copper, Copper, Copper
+Titandrake - draws Silver, Hovel, Sea Hag, Militia, Silver
+ 
+---------- Ben Smith: turn 18 ----------
+Ben Smith - plays Sage
+Ben Smith - reveals Loan
+Ben Smith - places Loan in hand
+Ben Smith - plays Militia
+Titandrake - discards Hovel
+Titandrake - discards Sea Hag
+Ben Smith - plays 1 Gold, 1 Copper
+Ben Smith - plays Loan
+Ben Smith - reveals Curse, Gold
+Ben Smith - discards Gold
+Ben Smith - discards Curse
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Curse, Curse, Colony, Sea Hag, Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Tactician
+Titandrake - draws Curse, Copper, Necropolis, Gold, Overgrown Estate
+Titandrake - plays Militia
+Ben Smith - discards Curse
+Ben Smith - discards Sea Hag
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Curse, Gold, Sage, Loan, Curse
+ 
+---------- Ben Smith: turn 19 ----------
+Ben Smith - draws Gold, Curse, Tactician, Silver, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Sage
+Titandrake - reveals Curse, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Curse
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays 2 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse, Curse, Militia
+ 
+---------- Ben Smith: turn 20 ----------
+Ben Smith - plays 2 Silver, 1 Gold
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - shuffles deck
+Ben Smith - draws Tactician, Tactician, Curse, Silver, Sea Hag
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Curse, Hovel, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Curse, Hovel
+Titandrake - plays Militia
+Ben Smith - discards Curse
+Ben Smith - discards Sea Hag
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Loan, Necropolis, Gold, Tactician
+ 
+---------- Ben Smith: turn 21 ----------
+Ben Smith - plays Tactician
+Ben Smith - discards: Tactician, Silver
+Ben Smith - draws Curse, Curse, Gold, Gold, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Gold, Loan, Necropolis, Gold
+Titandrake - draws Copper, Sage, Sea Hag, Copper, Curse
+ 
+---------- Ben Smith: turn 22 ----------
+Ben Smith - duration Tactician
+Ben Smith - draws Curse, Silver, Sage, Copper, Curse
+Ben Smith - plays Sage
+Ben Smith - reveals Gold
+Ben Smith - places Gold in hand
+Ben Smith - plays 3 Gold, 2 Copper, 1 Silver
+Ben Smith - buys Colony
+Ben Smith - gains Colony
+Ben Smith - draws Gold, Loan, Curse, Gold, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - duration Tactician
+Titandrake - draws Silver, Copper, Gold, Platinum, Silver
+Titandrake - plays 3 Copper, 2 Silver, 1 Gold, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Sage, Curse, Colony, Silver
+ 
+---------- Ben Smith: turn 23 ----------
+Ben Smith - plays 2 Gold, 1 Copper
+Ben Smith - plays Loan
+Ben Smith - reveals Overgrown Estate, Militia, Colony, Necropolis, Gold
+Ben Smith - discards Gold
+Ben Smith - discards: Overgrown Estate, Militia, Colony, Necropolis
+Ben Smith - buys Province
+Ben Smith - gains Province
+Ben Smith - shuffles deck
+Ben Smith - draws Loan, Copper, Gold, Curse, Silver
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Sage
+Titandrake - reveals Militia
+Titandrake - places Militia in hand
+Titandrake - plays Militia
+Ben Smith - discards Curse
+Ben Smith - discards Copper
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, Necropolis, Gold, Hovel, Gold
+ 
+---------- Ben Smith: turn 24 ----------
+Ben Smith - plays 1 Gold, 1 Silver
+Ben Smith - plays Loan
+Ben Smith - reveals Gold
+Ben Smith - discards Gold
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Curse, Tactician, Silver, Curse, Province
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 3 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Gold, Copper, Curse, Silver, Copper
+ 
+---------- Ben Smith: turn 25 ----------
+Ben Smith - plays Tactician
+Ben Smith - discards: Curse, Silver, Curse, Province
+Ben Smith - draws Sea Hag, Militia, Curse, Curse, Copper
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Loan, Platinum, Sea Hag, Sage, Sage
+ 
+---------- Ben Smith: turn 26 ----------
+Ben Smith - duration Tactician
+Ben Smith - draws Sage, Gold, Overgrown Estate, Curse, Gold
+Ben Smith - plays Sage
+Ben Smith - reveals Necropolis, Gold
+Ben Smith - places Gold in hand
+Ben Smith - discards Necropolis
+Ben Smith - plays Militia
+Titandrake - discards Sea Hag
+Titandrake - discards Sage
+Ben Smith - plays 3 Gold, 1 Copper
+Ben Smith - buys Province
+Ben Smith - gains Province
+Ben Smith - buys Sage
+Ben Smith - gains Sage
+Ben Smith - draws Copper, Colony, Gold, Tactician, Colony
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Copper, Curse, Copper, Tactician
+Titandrake - places Tactician in hand
+Titandrake - discards: Copper, Curse, Copper
+Titandrake - plays Tactician
+Titandrake - discards: Loan, Platinum
+Titandrake - draws Curse, Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold, Sea Hag
+ 
+---------- Ben Smith: turn 27 ----------
+Ben Smith - plays Tactician
+Ben Smith - discards: Copper, Colony, Gold, Colony
+Ben Smith - shuffles deck
+Ben Smith - draws Curse, Gold, Necropolis, Loan, Militia
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - duration Tactician
+Titandrake - draws Sage, Platinum, Copper, Necropolis, Sage
+Titandrake - plays Sage
+Titandrake - reveals Colony
+Titandrake - places Colony in hand
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 2 Gold, 2 Copper, 1 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Curse, Silver, Sage, Curse
+ 
+---------- Ben Smith: turn 28 ----------
+Ben Smith - duration Tactician
+Ben Smith - draws Gold, Gold, Colony, Curse, Sea Hag
+Ben Smith - plays Militia
+Titandrake - discards Curse
+Titandrake - discards Curse
+Ben Smith - plays 3 Gold
+Ben Smith - plays Loan
+Ben Smith - reveals Gold
+Ben Smith - discards Gold
+Ben Smith - buys Colony
+Ben Smith - gains Colony
+Ben Smith - draws Gold, Gold, Overgrown Estate, Sage, Sage
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Tactician
+Titandrake - gains Tactician
+Titandrake - draws Gold, Overgrown Estate, Silver, Militia, Copper
+ 
+---------- Ben Smith: turn 29 ----------
+Ben Smith - plays Sage
+Ben Smith - reveals Tactician
+Ben Smith - places Tactician in hand
+Ben Smith - plays Sage
+Ben Smith - reveals Copper, Curse, Copper, Silver
+Ben Smith - places Silver in hand
+Ben Smith - discards: Copper, Curse, Copper
+Ben Smith - plays 2 Gold, 1 Silver
+Ben Smith - buys Province
+Ben Smith - gains Province
+Ben Smith - draws Copper, Silver, Curse, Province, Gold
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays Militia
+Ben Smith - discards Curse
+Ben Smith - discards Province
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Gold, Hovel, Platinum, Copper
+ 
+---------- Ben Smith: turn 30 ----------
+Ben Smith - plays 1 Copper, 1 Silver, 1 Gold
+Ben Smith - buys Gold
+Ben Smith - gains Gold
+Ben Smith - draws Curse, Colony, Province, Curse
+Ben Smith - shuffles deck
+Ben Smith - draws Tactician
+ 
+---------- Titandrake: turn 30 ----------
+Titandrake - plays 2 Gold, 1 Platinum, 1 Copper
+Titandrake - buys Colony
+Titandrake - trashes Hovel
+Titandrake - gains Colony
+Titandrake - draws Sage, Curse, Loan
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, Copper
+ 
+---------- Ben Smith: turn 31 ----------
+Ben Smith - plays Tactician
+Ben Smith - discards: Curse, Colony, Province, Curse
+Ben Smith - draws Tactician, Curse, Gold, Sage, Sea Hag
+ 
+---------- Titandrake: turn 31 ----------
+Titandrake - plays Sage
+Titandrake - reveals Platinum
+Titandrake - places Platinum in hand
+Titandrake - plays 1 Copper, 1 Platinum
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Tactician, Copper, Sea Hag, Overgrown Estate
+ 
+---------- Ben Smith: turn 32 ----------
+Ben Smith - duration Tactician
+Ben Smith - draws Gold, Curse, Silver, Gold, Gold
+Ben Smith - plays Sage
+Ben Smith - reveals Silver
+Ben Smith - places Silver in hand
+Ben Smith - plays 4 Gold, 2 Silver
+Ben Smith - buys Colony
+Ben Smith - gains Colony
+Ben Smith - buys Duchy
+Ben Smith - gains Duchy
+Ben Smith - draws Province, Copper, Militia, Colony, Sage
+ 
+---------- Titandrake: turn 32 ----------
+Titandrake - plays Tactician
+Titandrake - discards: Gold, Copper, Sea Hag, Overgrown Estate
+Titandrake - draws Curse, Sage, Colony, Gold, Copper
+ 
+---------- Ben Smith: turn 33 ----------
+Ben Smith - plays Sage
+Ben Smith - reveals Copper, Overgrown Estate, Curse, Loan
+Ben Smith - places Loan in hand
+Ben Smith - discards: Copper, Overgrown Estate, Curse
+Ben Smith - plays Militia
+Titandrake - discards Colony
+Titandrake - discards Curse
+Ben Smith - plays 1 Copper
+Ben Smith - plays Loan
+Ben Smith - reveals Curse, Necropolis, Gold
+Ben Smith - discards Gold
+Ben Smith - discards: Curse, Necropolis
+Ben Smith - buys Estate
+Ben Smith - gains Estate
+Ben Smith - draws Gold, Province, Gold, Copper, Gold
+ 
+---------- Titandrake: turn 33 ----------
+Titandrake - duration Tactician
+Titandrake - draws Tactician, Silver, Copper, Silver, Colony
+Titandrake - plays Sage
+Titandrake - reveals Militia
+Titandrake - places Militia in hand
+Titandrake - plays Militia
+Ben Smith - discards Province
+Ben Smith - discards Copper
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Gold, Silver, Gold, Province
+ 
+---------- Ben Smith: turn 34 ----------
+Ben Smith - plays 3 Gold
+Ben Smith - buys Province
+Ben Smith - gains Province
+Ben Smith - draws Colony
+Ben Smith - shuffles deck
+Ben Smith - draws Estate, Province, Gold, Gold
+ 
+---------- Titandrake: turn 34 ----------
+Titandrake - plays 3 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Sage, Gold, Silver, Curse
+ 
+---------- Ben Smith: turn 35 ----------
+Ben Smith - plays 2 Gold
+Ben Smith - buys Duchy
+Ben Smith - gains Duchy
+Ben Smith - draws Colony, Gold, Copper, Militia, Curse
+ 
+---------- Titandrake: turn 35 ----------
+Titandrake - plays Sage
+Titandrake - reveals Platinum
+Titandrake - places Platinum in hand
+Titandrake - plays 1 Gold, 1 Silver, 1 Platinum
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Sage, Copper, Colony
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Ben Smith: turn 36 ----------
+Ben Smith - plays Militia
+Titandrake - discards Colony
+Titandrake - discards Copper
+Ben Smith - plays 1 Gold, 1 Copper
+Ben Smith - buys Duchy
+Ben Smith - gains Duchy
+Ben Smith - draws Province, Tactician, Curse, Gold, Sage
+ 
+---------- Titandrake: turn 36 ----------
+Titandrake - plays Sage
+Titandrake - reveals Estate, Curse, Province
+Titandrake - places Province in hand
+Titandrake - discards: Estate, Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Sage, Gold, Gold, Sage
+ 
+---------- Ben Smith: turn 37 ----------
+Ben Smith - plays Sage
+Ben Smith - reveals Province
+Ben Smith - places Province in hand
+Ben Smith - plays Tactician
+Ben Smith - discards: Province, Curse, Gold, Province
+Ben Smith - draws Gold, Gold, Necropolis, Colony, Silver
+ 
+---------- Titandrake: turn 37 ----------
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Sage
+Titandrake - reveals Tactician
+Titandrake - places Tactician in hand
+Titandrake - plays Tactician
+Titandrake - discards: Province, Gold, Gold, Silver
+Titandrake - draws Tactician, Platinum, Militia, Duchy, Loan
+ 
+---------- Ben Smith: turn 38 ----------
+Ben Smith - duration Tactician
+Ben Smith - draws Curse, Gold, Copper, Curse, Duchy
+Ben Smith - plays 3 Gold, 1 Silver, 1 Copper
+Ben Smith - buys Colony
+Ben Smith - gains Colony
+Ben Smith - draws Overgrown Estate, Curse, Copper, Sage, Silver
+ 
+------------ Game Over ------------
+Ben Smith - cards: 2 Sage, 2 Tactician, 1 Militia, 1 Necropolis, 1 Sea Hag, 8 Gold, 3 Copper, 2 Silver, 1 Loan, 5 Colony, 4 Province, 3 Duchy, 1 Overgrown Estate, 1 Estate, 6 Curse
+Ben Smith - total victory points: 78
+Ben Smith - turns: 38
+ 
+Titandrake - cards: 4 Sage, 2 Tactician, 1 Militia, 1 Sea Hag, 1 Necropolis, 6 Gold, 5 Copper, 4 Silver, 2 Platinum, 1 Loan, 3 Colony, 3 Province, 2 Duchy, 2 Estate, 1 Overgrown Estate, 4 Curse
+Titandrake - total victory points: 52
+Titandrake - turns: 37
+ 
+1st place: Ben Smith
+2nd place: Titandrake
+ 

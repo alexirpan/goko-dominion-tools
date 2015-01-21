@@ -1,0 +1,579 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Bureaucrat, Militia, Moneylender, Smithy, Throne Room, Council Room, Festival, Mine, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+unicut - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+unicut - shuffles deck
+Titandrake - shuffles deck
+unicut - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- unicut: turn 1 ----------
+unicut - plays 4 Copper
+unicut - buys Militia
+unicut - gains Militia
+unicut - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- unicut: turn 2 ----------
+unicut - plays 3 Copper
+unicut - buys Chapel
+unicut - gains Chapel
+unicut - shuffles deck
+unicut - draws Estate, Copper, Chapel, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Militia, Estate, Chapel, Copper, Estate
+ 
+---------- unicut: turn 3 ----------
+unicut - plays Chapel
+unicut - trashes Copper, Copper, Estate, Copper
+unicut - draws Militia, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- unicut: turn 4 ----------
+unicut - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Estate
+unicut - plays 3 Copper
+unicut - buys Festival
+unicut - gains Festival
+unicut - draws Copper, Estate
+unicut - shuffles deck
+unicut - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Militia, Copper, Estate
+ 
+---------- unicut: turn 5 ----------
+unicut - plays 3 Copper
+unicut - buys Silver
+unicut - gains Silver
+unicut - draws Festival, Chapel, Copper, Militia
+unicut - shuffles deck
+unicut - draws Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Militia
+unicut - discards Chapel
+unicut - discards Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Chapel, Silver, Copper, Copper, Copper
+ 
+---------- unicut: turn 6 ----------
+unicut - plays Festival
+unicut - plays Militia
+Titandrake - discards Silver
+Titandrake - discards Copper
+unicut - plays 1 Copper
+unicut - buys Festival
+unicut - gains Festival
+unicut - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Militia, Copper, Silver
+ 
+---------- unicut: turn 7 ----------
+unicut - plays 3 Copper, 1 Silver
+unicut - buys Witch
+unicut - gains Witch
+unicut - shuffles deck
+unicut - draws Copper, Chapel, Festival, Witch, Militia
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Militia
+unicut - discards Chapel
+unicut - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Copper, Estate, Chapel, Festival
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- unicut: turn 8 ----------
+unicut - plays Festival
+unicut - plays Witch
+unicut - draws Copper, Copper
+Titandrake - gains Curse
+unicut - plays Militia
+Titandrake - discards Chapel
+Titandrake - discards Estate
+unicut - plays 2 Copper
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Estate, Estate, Copper, Festival, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Festival
+Titandrake - plays 2 Copper
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Copper, Silver, Militia, Council Room, Copper
+ 
+---------- unicut: turn 9 ----------
+unicut - plays Festival
+unicut - plays 1 Copper, 1 Silver
+unicut - buys Witch
+unicut - gains Witch
+unicut - shuffles deck
+unicut - draws Copper, Gold, Festival, Estate, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Militia
+unicut - discards Estate
+unicut - discards Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse, Festival, Copper, Council Room
+ 
+---------- unicut: turn 10 ----------
+unicut - plays Festival
+unicut - plays 1 Copper, 1 Gold
+unicut - buys Council Room
+unicut - gains Council Room
+unicut - draws Copper, Militia, Festival, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Festival
+Titandrake - plays Council Room
+Titandrake - draws Estate, Copper, Militia, Festival
+unicut - draws Chapel
+Titandrake - plays Festival
+Titandrake - plays Militia
+unicut - discards Festival
+unicut - discards Militia
+unicut - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Chapel, Copper, Silver, Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- unicut: turn 11 ----------
+unicut - plays Chapel
+unicut - trashes Copper, Copper
+unicut - draws Witch, Silver, Witch
+unicut - shuffles deck
+unicut - draws Estate, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Curse
+Titandrake - draws Throne Room, Estate, Council Room, Copper, Copper
+ 
+---------- unicut: turn 12 ----------
+unicut - plays Witch
+unicut - draws Festival, Council Room
+Titandrake - gains Curse
+unicut - draws Copper, Gold, Festival, Chapel, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Council Room
+Titandrake - draws Festival, Militia, Copper, Festival
+unicut - draws Militia
+Titandrake - plays Council Room
+Titandrake - draws Witch
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Throne Room, Silver
+unicut - shuffles deck
+unicut - draws Council Room
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Militia, Throne Room, Copper, Copper
+ 
+---------- unicut: turn 13 ----------
+unicut - plays Festival
+unicut - plays Council Room
+unicut - draws Estate, Witch, Witch, Festival
+Titandrake - draws Festival
+unicut - plays Festival
+unicut - plays Witch
+unicut - draws Silver, Estate
+Titandrake - gains Curse
+unicut - plays Chapel
+unicut - trashes Estate, Estate, Copper, Copper
+unicut - plays 1 Gold, 1 Silver
+unicut - buys Throne Room
+unicut - gains Throne Room
+unicut - buys Festival
+unicut - gains Festival
+unicut - shuffles deck
+unicut - draws Throne Room, Witch, Silver, Festival, Council Room
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Militia
+unicut - discards Silver
+unicut - discards Witch
+Titandrake - plays 2 Copper
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Council Room, Festival, Festival
+ 
+---------- unicut: turn 14 ----------
+unicut - plays Festival
+unicut - plays Throne Room
+unicut - plays Council Room
+unicut - draws Festival, Chapel, Gold, Militia
+Titandrake - draws Throne Room
+unicut - plays Council Room
+unicut - draws Festival, Witch
+unicut - shuffles deck
+unicut - draws Silver, Witch
+Titandrake - draws Chapel
+unicut - plays Festival
+unicut - plays Witch
+Titandrake - gains Curse
+unicut - plays Festival
+unicut - plays Witch
+Titandrake - gains Curse
+unicut - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Chapel
+Titandrake - discards Festival
+unicut - plays 1 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - buys Festival
+unicut - gains Festival
+unicut - shuffles deck
+unicut - draws Chapel, Militia, Silver, Festival, Witch
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Festival
+Titandrake - plays Throne Room
+Titandrake - plays Council Room
+Titandrake - draws Witch, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse
+unicut - draws Festival
+Titandrake - plays Council Room
+Titandrake - draws Curse, Silver, Council Room, Throne Room
+unicut - draws Festival
+Titandrake - plays Throne Room
+Titandrake - plays Witch
+Titandrake - draws Chapel, Copper
+unicut - gains Curse
+Titandrake - plays Witch
+Titandrake - draws Estate, Militia
+unicut - gains Curse
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Festival, Curse, Festival, Copper, Curse
+ 
+---------- unicut: turn 15 ----------
+unicut - plays Festival
+unicut - plays Festival
+unicut - plays Festival
+unicut - plays Witch
+unicut - draws Throne Room, Gold
+Titandrake - gains Curse
+unicut - plays Throne Room
+unicut - plays Militia
+Titandrake - discards Curse
+Titandrake - discards Curse
+unicut - plays Militia
+unicut - plays 1 Silver, 1 Gold
+unicut - buys Council Room
+unicut - gains Council Room
+unicut - buys Gold
+unicut - gains Gold
+unicut - buys Smithy
+unicut - gains Smithy
+unicut - draws Province, Festival, Witch, Council Room
+unicut - shuffles deck
+unicut - draws Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Copper, Silver, Militia
+ 
+---------- unicut: turn 16 ----------
+unicut - plays Festival
+unicut - plays Council Room
+unicut - draws Smithy, Throne Room, Festival, Council Room
+Titandrake - draws Chapel
+unicut - plays Festival
+unicut - plays Throne Room
+unicut - plays Council Room
+unicut - draws Gold, Festival, Curse, Silver
+Titandrake - draws Throne Room
+unicut - plays Council Room
+unicut - draws Festival, Militia, Witch, Chapel
+Titandrake - draws Curse
+unicut - plays Festival
+unicut - plays Festival
+unicut - plays Witch
+unicut - draws Curse
+Titandrake - gains Curse
+unicut - plays Witch
+Titandrake - gains Curse
+unicut - plays Chapel
+unicut - trashes Curse, Curse
+unicut - plays 2 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - buys Province
+unicut - gains Province
+unicut - shuffles deck
+unicut - draws Militia, Gold, Chapel, Council Room, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Curse, Curse, Copper, Copper
+Titandrake - draws Curse, Throne Room, Festival, Curse, Festival
+ 
+---------- unicut: turn 17 ----------
+unicut - plays Militia
+Titandrake - discards Curse
+Titandrake - discards Curse
+unicut - plays 1 Gold
+unicut - buys Festival
+unicut - gains Festival
+unicut - draws Smithy, Witch, Throne Room, Council Room, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Curse, Council Room, Council Room, Militia
+ 
+---------- unicut: turn 18 ----------
+unicut - draws Festival, Silver, Festival, Witch, Province
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Militia
+unicut - discards Province
+unicut - discards Silver
+Titandrake - plays Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Festival, Festival, Estate, Witch, Copper
+ 
+---------- unicut: turn 19 ----------
+unicut - plays Festival
+unicut - plays Festival
+unicut - plays Witch
+unicut - draws Festival, Gold
+unicut - plays Festival
+unicut - plays 1 Gold
+unicut - buys Province
+unicut - gains Province
+unicut - draws Festival
+unicut - shuffles deck
+unicut - draws Council Room, Province, Gold, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Festival
+Titandrake - plays Witch
+Titandrake - draws Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Militia
+Titandrake - plays Festival
+Titandrake - plays Throne Room
+Titandrake - plays Militia
+unicut - discards Province
+unicut - discards Silver
+Titandrake - plays Militia
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Council Room, Council Room, Silver, Curse, Militia
+ 
+---------- unicut: turn 20 ----------
+unicut - plays Festival
+unicut - plays Council Room
+unicut - draws Militia, Festival, Council Room, Festival
+Titandrake - draws Throne Room
+unicut - plays Festival
+unicut - plays Festival
+unicut - plays Council Room
+unicut - draws Chapel, Gold, Witch, Witch
+Titandrake - draws Festival
+unicut - plays Witch
+unicut - draws Province, Province
+unicut - plays Militia
+Titandrake - discards Silver
+Titandrake - discards Curse
+Titandrake - discards Militia
+Titandrake - discards Council Room
+unicut - plays 2 Gold
+unicut - buys Province
+unicut - gains Province
+unicut - buys Gold
+unicut - gains Gold
+unicut - draws Festival, Throne Room, Smithy, Festival, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Festival
+Titandrake - plays Throne Room
+Titandrake - plays Council Room
+Titandrake - draws Gold, Curse, Festival, Throne Room
+unicut - shuffles deck
+unicut - draws Province
+Titandrake - plays Council Room
+Titandrake - draws Silver, Curse, Curse, Chapel
+unicut - draws Council Room
+Titandrake - plays Throne Room
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Chapel
+Titandrake - trashes Curse, Curse, Curse
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Throne Room, Curse
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Duchy, Chapel
+ 
+---------- unicut: turn 21 ----------
+unicut - plays Festival
+unicut - plays Festival
+unicut - plays Throne Room
+unicut - plays Council Room
+unicut - draws Gold, Festival, Festival, Militia
+Titandrake - draws Silver
+unicut - plays Council Room
+unicut - draws Council Room, Chapel, Province, Witch
+Titandrake - draws Throne Room
+unicut - plays Festival
+unicut - plays Council Room
+unicut - draws Gold, Festival, Witch, Gold
+Titandrake - draws Militia
+unicut - plays Festival
+unicut - plays Smithy
+unicut - draws Province, Silver, Province
+unicut - plays Festival
+unicut - plays Chapel
+unicut - trashes Witch, Witch
+unicut - plays Militia
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - discards Throne Room
+Titandrake - discards Curse
+Titandrake - discards Chapel
+unicut - plays 3 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - buys Province
+unicut - gains Province
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - buys Estate
+unicut - gains Estate
+unicut - shuffles deck
+unicut - draws Festival, Estate, Festival, Militia, Gold
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Militia
+unicut - discards Estate
+unicut - discards Festival
+Titandrake - plays Militia
+Titandrake - plays Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Throne Room, Festival, Festival, Duchy, Festival
+ 
+---------- unicut: turn 22 ----------
+unicut - plays Festival
+unicut - plays Militia
+Titandrake - discards Duchy
+Titandrake - discards Throne Room
+unicut - plays 1 Gold
+unicut - buys Duchy
+unicut - gains Duchy
+unicut - buys Estate
+unicut - gains Estate
+unicut - draws Smithy, Festival, Province, Throne Room, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - plays Festival
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Throne Room, Estate, Witch, Gold, Copper
+ 
+---------- unicut: turn 23 ----------
+unicut - plays Festival
+unicut - plays Throne Room
+unicut - plays Smithy
+unicut - draws Silver, Province, Chapel
+unicut - plays Smithy
+unicut - draws Festival, Province, Province
+unicut - plays Festival
+unicut - plays 1 Gold, 1 Silver
+unicut - buys Province
+unicut - gains Province
+unicut - buys Copper
+unicut - gains Copper
+unicut - buys Copper
+unicut - gains Copper
+unicut - draws Gold, Council Room, Council Room, Province, Province
+ 
+------------ Game Over ------------
+unicut - cards: 5 Festival, 2 Council Room, 1 Militia, 1 Throne Room, 1 Chapel, 1 Smithy, 3 Gold, 2 Copper, 1 Silver, 8 Province, 2 Duchy, 2 Estate
+unicut - total victory points: 56
+unicut - turns: 23
+ 
+Titandrake - cards: 5 Throne Room, 4 Festival, 2 Council Room, 2 Militia, 1 Chapel, 1 Witch, 2 Silver, 1 Copper, 1 Gold, 5 Duchy, 1 Estate, 2 Curse
+Titandrake - total victory points: 14
+Titandrake - turns: 22
+ 
+1st place: unicut
+2nd place: Titandrake
+ 

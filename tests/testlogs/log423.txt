@@ -1,0 +1,321 @@
+------------ Game Setup ------------
+Supply cards: Native Village, Pawn, Loan, Village, Gardens, Ironworks, Moneylender, Nomad Camp, Ghost Ship, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+attrill - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+attrill - shuffles deck
+Titandrake - shuffles deck
+attrill - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- attrill: turn 1 ----------
+attrill - plays 4 Copper
+attrill - buys Moneylender
+attrill - gains Moneylender
+attrill - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Nomad Camp
+Titandrake - gains Nomad Camp
+Titandrake - draws Nomad Camp, Copper, Copper, Estate, Estate
+ 
+---------- attrill: turn 2 ----------
+attrill - plays 3 Copper
+attrill - buys Silver
+attrill - gains Silver
+attrill - shuffles deck
+attrill - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 2 Copper
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper
+ 
+---------- attrill: turn 3 ----------
+attrill - plays 4 Copper, 1 Silver
+attrill - buys Gold
+attrill - gains Gold
+attrill - draws Estate, Copper, Estate, Moneylender, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Nomad Camp
+Titandrake - gains Nomad Camp
+Titandrake - draws Nomad Camp, Copper, Estate, Nomad Camp, Ironworks
+ 
+---------- attrill: turn 4 ----------
+attrill - plays Moneylender
+attrill - trashes Copper
+attrill - plays 1 Copper
+attrill - buys Village
+attrill - gains Village
+attrill - draws Copper, Estate
+attrill - shuffles deck
+attrill - draws Copper, Gold, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - plays Nomad Camp
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Copper, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Pawn
+ 
+---------- attrill: turn 5 ----------
+attrill - plays 2 Copper, 1 Gold, 1 Silver
+attrill - buys Hunting Grounds
+attrill - gains Hunting Grounds
+attrill - draws Copper, Copper, Village, Moneylender, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Ironworks, Copper, Estate, Copper, Copper
+ 
+---------- attrill: turn 6 ----------
+attrill - plays Village
+attrill - draws Copper
+attrill - plays Moneylender
+attrill - trashes Copper
+attrill - plays 2 Copper
+attrill - buys Gardens
+attrill - gains Gardens
+attrill - draws Copper, Estate
+attrill - shuffles deck
+attrill - draws Copper, Silver, Village
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Gardens
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Ironworks, Nomad Camp, Copper, Copper, Copper
+ 
+---------- attrill: turn 7 ----------
+attrill - plays Village
+attrill - draws Copper
+attrill - plays 3 Copper, 1 Silver
+attrill - buys Gardens
+attrill - gains Gardens
+attrill - draws Estate, Moneylender, Copper, Gardens, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - plays Nomad Camp
+Titandrake - plays 3 Copper
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Nomad Camp
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Gardens
+ 
+---------- attrill: turn 8 ----------
+attrill - plays Moneylender
+attrill - trashes Copper
+attrill - plays 1 Copper
+attrill - buys Gardens
+attrill - gains Gardens
+attrill - draws Estate, Hunting Grounds, Gold
+attrill - shuffles deck
+attrill - draws Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Nomad Camp
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Ironworks, Copper, Copper, Copper
+ 
+---------- attrill: turn 9 ----------
+attrill - plays Hunting Grounds
+attrill - draws Copper, Moneylender, Gardens, Copper
+attrill - plays 3 Copper, 1 Gold, 1 Silver
+attrill - buys Gardens
+attrill - gains Gardens
+attrill - draws Village, Estate, Gardens, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Gardens
+Titandrake - draws Ironworks
+Titandrake - plays 4 Copper
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - draws Copper, Gardens, Copper, Copper, Gardens
+ 
+---------- attrill: turn 10 ----------
+attrill - plays Village
+attrill - draws Gardens
+attrill - shuffles deck
+attrill - draws Moneylender, Gold, Estate, Estate, Gardens
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Pawn, Pawn, Copper, Ironworks, Estate
+ 
+---------- attrill: turn 11 ----------
+attrill - plays 1 Gold
+attrill - buys Village
+attrill - gains Village
+attrill - draws Copper, Silver, Estate, Copper, Gardens
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 buy
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Nomad Camp, Copper
+Titandrake - shuffles deck
+Titandrake - draws Ironworks, Gardens
+ 
+---------- attrill: turn 12 ----------
+attrill - plays 2 Copper, 1 Silver
+attrill - buys Silver
+attrill - gains Silver
+attrill - draws Gardens, Village, Copper, Gardens, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - plays Nomad Camp
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gardens, Copper, Pawn, Estate, Gardens
+ 
+---------- attrill: turn 13 ----------
+attrill - plays Village
+attrill - draws Hunting Grounds
+attrill - plays Hunting Grounds
+attrill - shuffles deck
+attrill - draws Estate, Village, Gardens, Copper
+attrill - plays Village
+attrill - draws Estate
+attrill - plays 3 Copper
+attrill - buys Silver
+attrill - gains Silver
+attrill - draws Copper, Silver, Gold, Silver, Gardens
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Ironworks, Estate, Copper, Ironworks, Copper
+ 
+---------- attrill: turn 14 ----------
+attrill - plays 2 Silver, 1 Copper, 1 Gold
+attrill - buys Province
+attrill - gains Province
+attrill - draws Estate, Moneylender
+attrill - shuffles deck
+attrill - draws Copper, Province, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Copper, Copper, Gardens, Nomad Camp
+ 
+---------- attrill: turn 15 ----------
+attrill - plays Moneylender
+attrill - trashes Copper
+attrill - plays 1 Silver
+attrill - buys Duchy
+attrill - gains Duchy
+attrill - draws Hunting Grounds, Copper, Gardens, Copper, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 2 Copper
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Copper, Copper, Ironworks, Copper
+ 
+---------- attrill: turn 16 ----------
+attrill - plays Hunting Grounds
+attrill - draws Gardens, Estate, Silver, Copper
+attrill - plays 3 Copper, 2 Silver
+attrill - buys Duchy
+attrill - gains Duchy
+attrill - draws Village, Gardens, Gardens, Estate, Village
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Ironworks
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Ironworks, Copper, Copper, Pawn, Estate
+ 
+---------- attrill: turn 17 ----------
+attrill - plays Village
+attrill - draws Gold
+attrill - plays Village
+attrill - shuffles deck
+attrill - draws Duchy
+attrill - plays 1 Gold
+attrill - buys Estate
+attrill - gains Estate
+attrill - draws Hunting Grounds, Copper, Duchy, Estate, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 10 Ironworks, 3 Pawn, 2 Nomad Camp, 16 Copper, 10 Estate, 4 Gardens
+Titandrake - total victory points: 26
+Titandrake - turns: 16
+ 
+attrill - cards: 2 Village, 1 Hunting Grounds, 1 Moneylender, 3 Copper, 3 Silver, 1 Gold, 4 Estate, 4 Gardens, 2 Duchy, 1 Province
+attrill - total victory points: 24
+attrill - turns: 17
+ 
+1st place: Titandrake
+2nd place: attrill
+ 

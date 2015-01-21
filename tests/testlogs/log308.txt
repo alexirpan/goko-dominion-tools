@@ -1,0 +1,566 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Loan, Sage, Warehouse, Farming Village, Horse Traders, Moneylender, Silk Road, Graverobber, Journeyman, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Titandrake - shuffles deck
+yed - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Moneylender
+yed - gains Moneylender
+yed - shuffles deck
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Horse Traders, Estate, Estate
+ 
+---------- yed: turn 3 ----------
+yed - plays 4 Copper
+yed - buys Farming Village
+yed - gains Farming Village
+yed - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Journeyman
+yed - gains Journeyman
+yed - draws Estate, Moneylender
+yed - shuffles deck
+yed - draws Journeyman, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Horse Traders, Copper, Duchy
+ 
+---------- yed: turn 5 ----------
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 1 Copper
+yed - buys Farming Village
+yed - gains Farming Village
+yed - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Duchy
+Titandrake - plays 2 Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Horse Traders, Candlestick Maker, Copper, Copper
+ 
+---------- yed: turn 6 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Journeyman
+yed - gains Journeyman
+yed - draws Estate, Copper, Copper, Farming Village
+yed - shuffles deck
+yed - draws Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays Farming Village
+yed - reveals Copper
+yed - places Copper in hand
+yed - plays 3 Copper, 1 Silver
+yed - buys Journeyman
+yed - gains Journeyman
+yed - draws Journeyman, Farming Village, Copper, Estate, Moneylender
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Duchy, Copper, Horse Traders
+ 
+---------- yed: turn 8 ----------
+yed - plays Farming Village
+yed - reveals Estate, Journeyman
+yed - places Journeyman in hand
+yed - discards Estate
+yed - plays Journeyman
+yed - names Copper
+yed - shuffles deck
+yed - reveals Copper, Copper, Silver, Copper, Copper, Copper, Farming Village, Estate
+yed - discards: Copper, Copper, Copper, Copper, Copper
+yed - places cards in hand:  Silver, Farming Village, Estate
+yed - plays Farming Village
+yed - reveals Estate, Journeyman
+yed - places Journeyman in hand
+yed - discards Estate
+yed - plays Journeyman
+yed - names Estate
+yed - shuffles deck
+yed - reveals Copper, Copper, Copper
+yed - places cards in hand:  Copper, Copper, Copper
+yed - plays Journeyman
+yed - names Candlestick Maker
+yed - reveals Estate, Copper, Copper
+yed - places cards in hand:  Estate, Copper, Copper
+yed - plays 6 Copper, 1 Silver
+yed - buys Horse Traders
+yed - gains Horse Traders
+yed - shuffles deck
+yed - draws Horse Traders, Copper, Estate, Journeyman, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Duchy
+Titandrake - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Copper, Silk Road, Copper, Silk Road
+ 
+---------- yed: turn 9 ----------
+yed - plays Horse Traders
+yed - discards Estate
+yed - discards Estate
+yed - plays 1 Copper
+yed - buys Farming Village
+yed - gains Farming Village
+yed - draws Estate, Copper, Farming Village, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Copper, Candlestick Maker, Copper, Estate, Horse Traders
+ 
+---------- yed: turn 10 ----------
+yed - plays Farming Village
+yed - reveals Copper
+yed - places Copper in hand
+yed - plays 3 Copper, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Farming Village, Copper, Journeyman, Journeyman, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Silver, Horse Traders, Copper, Copper, Copper
+ 
+---------- yed: turn 11 ----------
+yed - plays Farming Village
+yed - reveals Moneylender
+yed - places Moneylender in hand
+yed - plays Journeyman
+yed - names Estate
+yed - shuffles deck
+yed - reveals Farming Village, Journeyman, Silver
+yed - places cards in hand:  Farming Village, Journeyman, Silver
+yed - plays Farming Village
+yed - reveals Copper
+yed - places Copper in hand
+yed - plays Journeyman
+yed - names Estate
+yed - reveals Silver, Copper, Copper
+yed - places cards in hand:  Silver, Copper, Copper
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 4 Copper, 2 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Estate, Farming Village, Horse Traders, Estate, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Silk Road, Copper
+ 
+---------- yed: turn 12 ----------
+yed - plays Farming Village
+yed - shuffles deck
+yed - reveals Estate, Farming Village
+yed - places Farming Village in hand
+yed - discards Estate
+yed - plays Farming Village
+yed - reveals Copper
+yed - places Copper in hand
+yed - plays Horse Traders
+yed - discards Estate
+yed - discards Estate
+yed - plays 2 Copper
+yed - buys Journeyman
+yed - gains Journeyman
+yed - draws Copper, Province, Copper, Silver, Moneylender
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Candlestick Maker, Horse Traders, Copper, Copper, Silk Road
+ 
+---------- yed: turn 13 ----------
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 1 Copper, 1 Silver
+yed - buys Gold
+yed - gains Gold
+yed - draws Journeyman, Copper, Silver, Journeyman, Farming Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Horse Traders
+Titandrake - discards Silk Road
+Titandrake - discards Copper
+Titandrake - plays Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Silk Road, Silk Road, Silver, Copper, Duchy
+ 
+---------- yed: turn 14 ----------
+yed - plays Farming Village
+yed - reveals Journeyman
+yed - places Journeyman in hand
+yed - plays Journeyman
+yed - names Estate
+yed - shuffles deck
+yed - reveals Province, Journeyman, Horse Traders
+yed - places cards in hand:  Province, Journeyman, Horse Traders
+yed - plays Horse Traders
+yed - discards Province
+yed - discards Journeyman
+yed - plays 1 Copper, 1 Silver
+yed - buys Gold
+yed - gains Gold
+yed - draws Estate, Gold, Farming Village, Estate, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Estate, Copper, Silk Road, Horse Traders, Copper
+ 
+---------- yed: turn 15 ----------
+yed - plays Farming Village
+yed - reveals Copper
+yed - places Copper in hand
+yed - plays 1 Gold, 1 Silver, 1 Copper
+yed - buys Farming Village
+yed - gains Farming Village
+yed - draws Farming Village, Estate, Copper, Copper, Moneylender
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Silk Road
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Horse Traders, Candlestick Maker, Silk Road, Copper
+ 
+---------- yed: turn 16 ----------
+yed - plays Farming Village
+yed - shuffles deck
+yed - reveals Silver
+yed - places Silver in hand
+yed - plays Moneylender
+yed - trashes Copper
+yed - plays 1 Copper, 1 Silver
+yed - buys Gold
+yed - gains Gold
+yed - draws Gold, Province, Horse Traders, Journeyman, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Horse Traders
+Titandrake - discards Silk Road
+Titandrake - discards Copper
+Titandrake - plays Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silk Road, Candlestick Maker, Horse Traders
+ 
+---------- yed: turn 17 ----------
+yed - plays Horse Traders
+yed - discards Province
+yed - discards Journeyman
+yed - plays 1 Gold, 1 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Farming Village, Journeyman, Journeyman, Journeyman, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Silk Road
+Titandrake - plays Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 18 ----------
+yed - plays Farming Village
+yed - reveals Copper
+yed - places Copper in hand
+yed - plays Journeyman
+yed - names Estate
+yed - reveals Farming Village, Copper, Estate, Farming Village
+yed - discards Estate
+yed - places cards in hand:  Farming Village, Copper, Farming Village
+yed - plays Farming Village
+yed - reveals Gold
+yed - places Gold in hand
+yed - plays Farming Village
+yed - shuffles deck
+yed - reveals Journeyman
+yed - places Journeyman in hand
+yed - plays Journeyman
+yed - names Estate
+yed - reveals Gold, Province, Estate, Moneylender
+yed - discards Estate
+yed - places cards in hand:  Gold, Province, Moneylender
+yed - plays Journeyman
+yed - names Province
+yed - reveals Silver, Estate, Farming Village
+yed - places cards in hand:  Silver, Estate, Farming Village
+yed - plays Farming Village
+yed - reveals Gold
+yed - places Gold in hand
+yed - plays Journeyman
+yed - names Province
+yed - reveals Silver, Horse Traders, Copper
+yed - places cards in hand:  Silver, Horse Traders, Copper
+yed - plays Horse Traders
+yed - discards Province
+yed - discards Estate
+yed - plays 3 Copper, 3 Gold, 2 Silver
+yed - buys Province
+yed - gains Province
+yed - buys Province
+yed - gains Province
+yed - draws Province
+yed - shuffles deck
+yed - draws Silver, Farming Village, Gold, Province
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Candlestick Maker, Copper, Copper
+ 
+---------- yed: turn 19 ----------
+yed - plays Farming Village
+yed - reveals Copper
+yed - places Copper in hand
+yed - plays 1 Silver, 1 Gold, 1 Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Journeyman, Moneylender, Gold, Province, Journeyman
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Silk Road, Silk Road, Copper, Silk Road
+ 
+---------- yed: turn 20 ----------
+yed - plays Journeyman
+yed - names Farming Village
+yed - reveals Silver, Province, Farming Village, Estate
+yed - discards Farming Village
+yed - places cards in hand:  Silver, Province, Estate
+yed - plays 1 Gold, 1 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Farming Village, Journeyman, Gold, Copper, Estate
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Duchy, Copper, Silk Road, Horse Traders
+ 
+---------- yed: turn 21 ----------
+yed - plays Farming Village
+yed - reveals Farming Village
+yed - places Farming Village in hand
+yed - plays Farming Village
+yed - reveals Estate, Journeyman
+yed - places Journeyman in hand
+yed - discards Estate
+yed - plays Journeyman
+yed - names Province
+yed - shuffles deck
+yed - reveals Horse Traders, Copper, Duchy
+yed - places cards in hand:  Horse Traders, Copper, Duchy
+yed - plays Journeyman
+yed - names Province
+yed - reveals Gold, Journeyman, Farming Village
+yed - places cards in hand:  Gold, Journeyman, Farming Village
+yed - plays Farming Village
+yed - reveals Journeyman
+yed - places Journeyman in hand
+yed - plays Journeyman
+yed - names Province
+yed - reveals Farming Village, Province, Silver, Province, Estate
+yed - discards: Province, Province
+yed - places cards in hand:  Farming Village, Silver, Estate
+yed - plays Farming Village
+yed - reveals Province, Gold
+yed - places Gold in hand
+yed - discards Province
+yed - plays Journeyman
+yed - names Province
+yed - reveals Estate, Moneylender, Province, Copper
+yed - discards Province
+yed - places cards in hand:  Estate, Moneylender, Copper
+yed - plays Horse Traders
+yed - discards Estate
+yed - discards Estate
+yed - plays 3 Gold, 3 Copper, 1 Silver
+yed - buys Province
+yed - gains Province
+yed - buys Province
+yed - gains Province
+yed - draws Silver, Duchy
+yed - shuffles deck
+yed - draws Farming Village, Province, Moneylender
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Duchy
+Titandrake - discards Silk Road
+Titandrake - plays 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Duchy, Duchy, Silk Road, Copper, Copper
+ 
+---------- yed: turn 22 ----------
+yed - plays Farming Village
+yed - reveals Journeyman
+yed - places Journeyman in hand
+yed - plays Journeyman
+yed - names Province
+yed - reveals Journeyman, Horse Traders, Estate
+yed - places cards in hand:  Journeyman, Horse Traders, Estate
+yed - plays Journeyman
+yed - names Province
+yed - reveals Gold, Province, Copper, Journeyman
+yed - discards Province
+yed - places cards in hand:  Gold, Copper, Journeyman
+yed - plays 1 Silver, 1 Gold, 1 Copper
+yed - buys Gold
+yed - gains Gold
+yed - draws Copper, Farming Village, Estate, Gold, Province
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Horse Traders, Silk Road, Silk Road, Copper
+ 
+---------- yed: turn 23 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Horse Traders, 2 Candlestick Maker, 19 Copper, 1 Silver, 8 Silk Road, 6 Estate, 6 Duchy
+Titandrake - total victory points: 64
+Titandrake - turns: 22
+ 
+yed - resigned
+yed - cards: 4 Farming Village, 4 Journeyman, 1 Moneylender, 1 Horse Traders, 4 Gold, 3 Copper, 2 Silver, 6 Province, 3 Estate, 2 Duchy
+yed - total victory points: 45
+yed - turns: 22
+ 
+1st place: Titandrake
+2nd place: yed
+ 

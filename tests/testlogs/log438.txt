@@ -1,0 +1,665 @@
+------------ Game Setup ------------
+Supply cards: University, Market Square, Wishing Well, Baron, Death Cart, Island, Moneylender, Hunting Party, Jester, Mint, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+Shaq - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Shaq - shuffles deck
+Titandrake - shuffles deck
+Shaq - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- Shaq: turn 1 ----------
+Shaq - plays 5 Copper
+Shaq - buys Hunting Party
+Shaq - gains Hunting Party
+Shaq - draws Overgrown Estate, Copper, Hovel, Necropolis, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Island
+Titandrake - trashes Hovel
+Titandrake - gains Island
+Titandrake - draws Copper, Overgrown Estate, Copper, Necropolis, Copper
+ 
+---------- Shaq: turn 2 ----------
+Shaq - plays 2 Copper
+Shaq - buys Estate
+Shaq - trashes Hovel
+Shaq - gains Estate
+Shaq - shuffles deck
+Shaq - draws Hunting Party, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Necropolis, Silver, Copper, Copper
+ 
+---------- Shaq: turn 3 ----------
+Shaq - plays Hunting Party
+Shaq - draws Necropolis
+Shaq - reveals hand: Copper, Copper, Copper, Estate, Necropolis
+Shaq - reveals Copper, Overgrown Estate
+Shaq - places Overgrown Estate in hand
+Shaq - discards Copper
+Shaq - plays 3 Copper
+Shaq - buys Silver
+Shaq - gains Silver
+Shaq - draws Copper, Copper, Copper
+Shaq - shuffles deck
+Shaq - draws Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Copper, Copper, Overgrown Estate, Island
+ 
+---------- Shaq: turn 4 ----------
+Shaq - plays 4 Copper
+Shaq - buys Moneylender
+Shaq - gains Moneylender
+Shaq - draws Silver, Necropolis, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Island
+Titandrake - sets aside Overgrown Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Hunting Party
+ 
+---------- Shaq: turn 5 ----------
+Shaq - plays 2 Copper, 1 Silver
+Shaq - buys Silver
+Shaq - gains Silver
+Shaq - draws Hunting Party, Copper
+Shaq - shuffles deck
+Shaq - draws Copper, Copper, Necropolis
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Copper, Copper, Copper, Silver
+Titandrake - reveals Copper, Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - discards Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party, Hunting Party
+ 
+---------- Shaq: turn 6 ----------
+Shaq - plays Hunting Party
+Shaq - draws Copper
+Shaq - reveals hand: Copper, Copper, Copper, Necropolis, Copper
+Shaq - reveals Copper, Moneylender
+Shaq - places Moneylender in hand
+Shaq - discards Copper
+Shaq - plays Moneylender
+Shaq - trashes Copper
+Shaq - plays 3 Copper
+Shaq - buys Hunting Party
+Shaq - gains Hunting Party
+Shaq - draws Copper, Overgrown Estate, Estate, Silver, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Silver, Copper, Hunting Party, Copper
+Titandrake - reveals Copper, Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - discards Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Silver, Copper, Copper, Necropolis, Silver
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Copper
+Titandrake - discards: Copper, Copper, Copper, Copper
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Baron
+Titandrake - gains Baron
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hunting Party, Copper, Necropolis, Copper
+ 
+---------- Shaq: turn 7 ----------
+Shaq - plays 2 Silver, 1 Copper
+Shaq - buys Hunting Party
+Shaq - gains Hunting Party
+Shaq - draws Copper
+Shaq - shuffles deck
+Shaq - draws Estate, Necropolis, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Copper, Necropolis, Copper, Silver
+Titandrake - reveals Copper, Copper, Copper, Baron
+Titandrake - places Baron in hand
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - plays Baron
+Titandrake - gains Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Hunting Party, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- Shaq: turn 8 ----------
+Shaq - draws Copper, Hunting Party, Silver, Copper, Hunting Party
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Silver, Copper, Estate, Hunting Party
+Titandrake - reveals Copper, Copper, Hunting Party, Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - discards: Copper, Copper, Hunting Party
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Copper, Silver, Copper, Estate, Necropolis, Copper
+Titandrake - reveals Silver, Copper, Copper, Baron
+Titandrake - places Baron in hand
+Titandrake - discards: Silver, Copper, Copper
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hunting Party, Copper, Copper, Copper
+ 
+---------- Shaq: turn 9 ----------
+Shaq - plays Hunting Party
+Shaq - draws Copper
+Shaq - reveals hand: Copper, Hunting Party, Silver, Copper, Copper
+Shaq - reveals Silver, Moneylender
+Shaq - places Moneylender in hand
+Shaq - discards Silver
+Shaq - plays Hunting Party
+Shaq - draws Copper
+Shaq - reveals hand: Copper, Silver, Copper, Copper, Moneylender, Copper
+Shaq - reveals Hunting Party
+Shaq - places Hunting Party in hand
+Shaq - plays Moneylender
+Shaq - trashes Copper
+Shaq - plays 3 Copper, 1 Silver
+Shaq - buys Jester
+Shaq - gains Jester
+Shaq - shuffles deck
+Shaq - draws Copper, Silver, Estate, Moneylender, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Copper, Copper, Copper, Silver
+Titandrake - reveals Silver, Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - discards Silver
+Titandrake - plays Necropolis
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Silver, Hunting Party, Copper, Copper, Hunting Party
+ 
+---------- Shaq: turn 10 ----------
+Shaq - plays Moneylender
+Shaq - trashes Copper
+Shaq - plays 1 Copper, 1 Silver
+Shaq - buys Hunting Party
+Shaq - gains Hunting Party
+Shaq - draws Jester, Necropolis, Copper, Hunting Party, Overgrown Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Copper, Copper, Hunting Party, Copper
+Titandrake - reveals Baron
+Titandrake - places Baron in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Copper, Copper, Copper, Baron, Hunting Party
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Copper, Copper, Copper, Baron, Estate, Hunting Party
+Titandrake - reveals Silver, Silver, Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - discards: Silver, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Silver, Copper, Copper, Copper, Baron, Estate, Necropolis, Hunting Party
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Copper, Silver, Silver
+Titandrake - discards: Copper, Copper, Copper, Copper, Silver, Silver
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals hand: Silver, Copper, Copper, Copper, Baron, Estate, Necropolis, Copper
+Titandrake - reveals Copper, Copper, Silver, Silver, Copper
+Titandrake - discards: Copper, Copper, Silver, Silver, Copper
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Hunting Party, Copper
+ 
+---------- Shaq: turn 11 ----------
+Shaq - plays Necropolis
+Shaq - plays Jester
+Titandrake - reveals Hunting Party
+Titandrake - discards Hunting Party
+Shaq - plays Hunting Party
+Shaq - draws Copper
+Shaq - reveals hand: Copper, Overgrown Estate, Copper
+Shaq - reveals Hunting Party
+Shaq - places Hunting Party in hand
+Shaq - plays Hunting Party
+Shaq - draws Silver
+Shaq - reveals hand: Copper, Overgrown Estate, Copper, Silver
+Shaq - reveals Copper, Hunting Party
+Shaq - places Hunting Party in hand
+Shaq - discards Copper
+Shaq - plays Hunting Party
+Shaq - shuffles deck
+Shaq - draws Silver
+Shaq - reveals hand: Copper, Overgrown Estate, Copper, Silver, Silver
+Shaq - reveals Estate
+Shaq - places Estate in hand
+Shaq - plays 2 Copper, 2 Silver
+Shaq - buys Province
+Shaq - gains Province
+Shaq - draws Moneylender, Copper, Hunting Party, Copper
+Shaq - shuffles deck
+Shaq - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Copper, Copper, Silver, Copper, Estate
+Titandrake - reveals Jester
+Titandrake - places Jester in hand
+Titandrake - plays Jester
+Shaq - reveals Silver
+Shaq - discards Silver
+Titandrake - gains Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Hunting Party, Baron, Silver, Copper, Copper
+ 
+---------- Shaq: turn 12 ----------
+Shaq - plays Hunting Party
+Shaq - draws Province
+Shaq - reveals hand: Moneylender, Copper, Copper, Copper, Province
+Shaq - reveals Necropolis
+Shaq - places Necropolis in hand
+Shaq - plays Moneylender
+Shaq - trashes Copper
+Shaq - plays 2 Copper
+Shaq - buys Island
+Shaq - gains Island
+Shaq - draws Overgrown Estate, Hunting Party, Silver, Hunting Party, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Necropolis
+Titandrake - reveals hand: Baron, Silver, Copper, Copper, Necropolis
+Titandrake - reveals Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Baron, Silver, Copper, Copper, Necropolis, Hunting Party
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Hunting Party, Copper, Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Silver, Hunting Party, Copper, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Baron, Silver, Copper, Copper, Necropolis, Gold, Copper
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Baron, Silver, Copper, Copper, Necropolis, Gold, Copper, Estate
+Titandrake - reveals Jester
+Titandrake - places Jester in hand
+Titandrake - plays Necropolis
+Titandrake - plays Jester
+Shaq - reveals Hunting Party
+Shaq - discards Hunting Party
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Silver, Hunting Party, Copper, Silver
+ 
+---------- Shaq: turn 13 ----------
+Shaq - plays Hunting Party
+Shaq - draws Jester
+Shaq - reveals hand: Overgrown Estate, Hunting Party, Silver, Estate, Jester
+Shaq - reveals Copper
+Shaq - places Copper in hand
+Shaq - plays Hunting Party
+Shaq - shuffles deck
+Shaq - draws Moneylender
+Shaq - reveals hand: Overgrown Estate, Silver, Estate, Jester, Copper, Moneylender
+Shaq - reveals Province
+Shaq - places Province in hand
+Shaq - plays Jester
+Titandrake - shuffles deck
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Shaq - plays 1 Silver, 1 Copper
+Shaq - buys Island
+Shaq - gains Island
+Shaq - draws Copper, Hunting Party, Necropolis, Copper, Island
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Silver, Copper, Silver, Hunting Party
+Titandrake - reveals Copper, Silver, Estate
+Titandrake - places Estate in hand
+Titandrake - discards: Copper, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Copper, Silver, Copper, Silver, Estate, Hunting Party
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Copper, Silver, Copper, Silver, Estate, Gold, Silver
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays 3 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Copper, Copper, Baron, Hunting Party
+ 
+---------- Shaq: turn 14 ----------
+Shaq - plays Hunting Party
+Shaq - draws Hunting Party
+Shaq - reveals hand: Copper, Necropolis, Copper, Island, Hunting Party
+Shaq - reveals Silver
+Shaq - places Silver in hand
+Shaq - plays Hunting Party
+Shaq - shuffles deck
+Shaq - draws Hunting Party
+Shaq - reveals hand: Copper, Necropolis, Copper, Island, Silver, Hunting Party
+Shaq - reveals Jester
+Shaq - places Jester in hand
+Shaq - plays Necropolis
+Shaq - plays Jester
+Titandrake - reveals Necropolis
+Titandrake - discards Necropolis
+Shaq - plays Hunting Party
+Shaq - draws Hunting Party
+Shaq - reveals hand: Copper, Copper, Island, Silver, Hunting Party
+Shaq - reveals Province
+Shaq - places Province in hand
+Shaq - plays Hunting Party
+Shaq - draws Island
+Shaq - reveals hand: Copper, Copper, Island, Silver, Province, Island
+Shaq - reveals Estate
+Shaq - places Estate in hand
+Shaq - plays Island
+Shaq - sets aside Province
+Shaq - plays 2 Copper, 1 Silver
+Shaq - buys Gold
+Shaq - gains Gold
+Shaq - draws Moneylender, Copper, Silver, Overgrown Estate
+Shaq - shuffles deck
+Shaq - draws Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Gold, Copper, Copper, Baron, Hunting Party
+Titandrake - reveals Hunting Party, Copper, Jester
+Titandrake - places Jester in hand
+Titandrake - discards: Hunting Party, Copper
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals hand: Gold, Copper, Copper, Baron, Jester, Copper
+Titandrake - reveals Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Gold, Copper, Copper, Baron, Jester, Copper, Hunting Party
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Gold, Copper, Copper, Baron, Jester, Copper, Silver, Silver
+Titandrake - reveals Copper, Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - discards Copper
+Titandrake - plays Necropolis
+Titandrake - plays Jester
+Shaq - reveals Estate
+Shaq - discards Estate
+Shaq - gains Curse
+Titandrake - plays Baron
+Titandrake - gains Estate
+Titandrake - plays 3 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Province, Province, Hunting Party, Copper, Hunting Party
+ 
+---------- Shaq: turn 15 ----------
+Shaq - plays Moneylender
+Shaq - trashes Copper
+Shaq - plays 1 Silver, 1 Gold
+Shaq - buys Province
+Shaq - gains Province
+Shaq - draws Silver, Hunting Party, Copper, Hunting Party, Necropolis
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Province, Province, Copper, Hunting Party, Silver
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Province, Province, Copper, Silver, Gold, Copper
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Island, Hunting Party, Copper
+ 
+---------- Shaq: turn 16 ----------
+Shaq - plays Hunting Party
+Shaq - draws Hunting Party
+Shaq - reveals hand: Silver, Hunting Party, Copper, Necropolis, Hunting Party
+Shaq - reveals Island
+Shaq - places Island in hand
+Shaq - plays Hunting Party
+Shaq - draws Copper
+Shaq - reveals hand: Silver, Hunting Party, Copper, Necropolis, Island, Copper
+Shaq - reveals Hunting Party, Jester
+Shaq - places Jester in hand
+Shaq - discards Hunting Party
+Shaq - plays Hunting Party
+Shaq - shuffles deck
+Shaq - draws Estate
+Shaq - reveals hand: Silver, Copper, Necropolis, Island, Copper, Jester, Estate
+Shaq - reveals Curse
+Shaq - places Curse in hand
+Shaq - plays Necropolis
+Shaq - plays Island
+Shaq - sets aside Estate
+Shaq - plays Jester
+Titandrake - reveals Silver
+Titandrake - discards Silver
+Shaq - gains Silver
+Shaq - plays 2 Copper, 1 Silver
+Shaq - buys Baron
+Shaq - gains Baron
+Shaq - draws Hunting Party, Gold, Silver, Province, Moneylender
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Province
+Titandrake - reveals hand: Silver, Copper, Island, Copper, Province
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Province
+Titandrake - reveals hand: Silver, Copper, Island, Copper, Province, Province
+Titandrake - reveals Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Silver, Copper, Island, Copper, Province, Province, Estate
+Titandrake - reveals Estate, Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Estate, Copper
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Copper, Necropolis, Gold, Silver
+ 
+---------- Shaq: turn 17 ----------
+Shaq - plays Hunting Party
+Shaq - draws Overgrown Estate
+Shaq - reveals hand: Gold, Silver, Province, Moneylender, Overgrown Estate
+Shaq - shuffles deck
+Shaq - reveals Baron
+Shaq - places Baron in hand
+Shaq - plays Baron
+Shaq - gains Estate
+Shaq - plays 1 Gold, 1 Silver
+Shaq - buys Duchy
+Shaq - gains Duchy
+Shaq - draws Silver, Curse, Silver, Hunting Party, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Jester, Copper, Hunting Party, Copper, Copper
+ 
+---------- Shaq: turn 18 ----------
+Shaq - plays Hunting Party
+Shaq - draws Jester
+Shaq - reveals hand: Silver, Curse, Silver, Copper, Jester
+Shaq - reveals Necropolis
+Shaq - places Necropolis in hand
+Shaq - plays Necropolis
+Shaq - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Shaq - plays 2 Silver, 1 Copper
+Shaq - buys Island
+Shaq - gains Island
+Shaq - draws Hunting Party, Hunting Party, Copper
+Shaq - shuffles deck
+Shaq - draws Copper, Province
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Baron
+Titandrake - reveals hand: Jester, Copper, Copper, Copper, Baron
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Jester
+Shaq - reveals Necropolis
+Shaq - discards Necropolis
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Hunting Party, Province, Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Silver, Jester
+ 
+---------- Shaq: turn 19 ----------
+Shaq - plays Hunting Party
+Shaq - draws Estate
+Shaq - reveals hand: Hunting Party, Copper, Copper, Province, Estate
+Shaq - reveals Duchy
+Shaq - places Duchy in hand
+Shaq - plays Hunting Party
+Shaq - draws Silver
+Shaq - reveals hand: Copper, Copper, Province, Estate, Duchy, Silver
+Shaq - reveals Jester
+Shaq - places Jester in hand
+Shaq - plays Jester
+Titandrake - reveals Copper
+Titandrake - discards Copper
+Titandrake - gains Copper
+Shaq - plays 2 Copper, 1 Silver
+Shaq - buys Island
+Shaq - gains Island
+Shaq - draws Moneylender, Silver, Baron, Island, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Province, Hunting Party, Silver, Jester, Copper
+Titandrake - reveals Necropolis
+Titandrake - places Necropolis in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Gold
+Titandrake - reveals hand: Province, Silver, Jester, Copper, Necropolis, Gold
+Titandrake - reveals Copper, Silver, Copper, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Copper, Silver, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Copper
+Titandrake - reveals hand: Province, Silver, Jester, Copper, Necropolis, Gold, Copper
+Titandrake - reveals Province, Gold, Gold, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Province, Gold, Gold
+Titandrake - plays Jester
+Shaq - reveals Gold
+Shaq - discards Gold
+Titandrake - gains Gold
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Baron, Copper, Hunting Party, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Hunting Party, 2 Island, 1 Baron, 10 Copper, 1 Jester, 1 Necropolis, 4 Silver, 4 Gold, 6 Province, 2 Estate, 1 Duchy, 1 Overgrown Estate
+Titandrake - total victory points: 45
+Titandrake - turns: 19
+ 
+Shaq - cards: 4 Island, 4 Hunting Party, 1 Moneylender, 1 Baron, 1 Necropolis, 1 Jester, 3 Silver, 2 Copper, 1 Gold, 2 Province, 2 Estate, 1 Duchy, 1 Overgrown Estate, 1 Curse
+Shaq - total victory points: 24
+Shaq - turns: 19
+ 
+1st place: Titandrake
+2nd place: Shaq
+ 

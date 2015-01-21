@@ -1,0 +1,321 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Embargo, Trade Route, Bridge, Coppersmith, Thief, Treasure Map, Laboratory, Rogue, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Titandrake - shuffles deck
+yed - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Silver, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Silver, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Rogue
+Titandrake - gains Rogue
+Titandrake - draws Courtyard, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Rogue, Silver
+ 
+---------- yed: turn 4 ----------
+yed - plays 3 Copper, 1 Silver
+yed - buys Laboratory
+yed - gains Laboratory
+yed - draws Copper, Copper
+yed - shuffles deck
+yed - draws Laboratory, Estate, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Estate, Copper, Copper
+Titandrake - places Rogue on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Rogue, Copper, Silver, Copper, Copper
+ 
+---------- yed: turn 5 ----------
+yed - plays Laboratory
+yed - draws Estate, Copper
+yed - plays 3 Copper, 1 Silver
+yed - buys Laboratory
+yed - gains Laboratory
+yed - draws Silver, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Rogue
+yed - reveals: Copper, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Silver
+ 
+---------- yed: turn 6 ----------
+yed - plays 2 Silver, 2 Copper
+yed - buys Laboratory
+yed - gains Laboratory
+yed - shuffles deck
+yed - draws Laboratory, Copper, Copper, Laboratory, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Courtyard, Copper, Copper, Copper, Rogue
+ 
+---------- yed: turn 7 ----------
+yed - plays Laboratory
+yed - draws Laboratory, Estate
+yed - plays Laboratory
+yed - draws Silver, Copper
+yed - plays Laboratory
+yed - draws Estate, Copper
+yed - plays 4 Copper, 1 Silver
+yed - buys Potion
+yed - gains Potion
+yed - draws Silver, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Gold, Estate, Estate
+Titandrake - places Rogue on top of deck
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Rogue, Silver, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- yed: turn 8 ----------
+yed - plays 3 Copper, 2 Silver
+yed - buys Laboratory
+yed - gains Laboratory
+yed - shuffles deck
+yed - draws Silver, Copper, Estate, Copper, Laboratory
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Rogue
+yed - reveals: Copper, Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Copper, Silver, Gold, Copper
+ 
+---------- yed: turn 9 ----------
+yed - plays Laboratory
+yed - draws Silver, Copper
+yed - plays 3 Copper, 2 Silver
+yed - buys Laboratory
+yed - gains Laboratory
+yed - draws Copper, Laboratory, Silver, Potion, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Gold, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Estate, Laboratory, Courtyard
+ 
+---------- yed: turn 10 ----------
+yed - plays Laboratory
+yed - draws Estate, Laboratory
+yed - plays Laboratory
+yed - draws Estate, Laboratory
+yed - plays Laboratory
+yed - shuffles deck
+yed - draws Copper, Copper
+yed - plays 4 Copper, 1 Silver, 1 Potion
+yed - buys Possession
+yed - gains Possession
+yed - draws Silver, Silver, Laboratory, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Copper
+Titandrake - plays Courtyard
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Province, Gold, Silver, Gold
+ 
+---------- yed: turn 11 ----------
+yed - plays Laboratory
+yed - draws Copper, Laboratory
+yed - plays Laboratory
+yed - draws Estate
+yed - shuffles deck
+yed - draws Copper
+yed - plays 4 Copper, 2 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Copper, Laboratory, Possession, Laboratory, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Silver, Gold, Rogue
+ 
+---------- yed: turn 12 ----------
+yed - plays Laboratory
+yed - draws Potion, Silver
+yed - plays Laboratory
+yed - draws Estate, Copper
+yed - plays Possession
+yed - plays 2 Copper, 1 Potion, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Laboratory, Copper
+yed - shuffles deck
+yed - draws Silver, Copper, Silver
+ 
+---------- Titandrake: turn 13 [possessed] ----------
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+yed - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Laboratory, Courtyard, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Silver
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays 5 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Province, Gold, Copper, Silver
+ 
+---------- yed: turn 13 ----------
+yed - plays Laboratory
+yed - draws Copper, Laboratory
+yed - plays Laboratory
+yed - draws Laboratory, Estate
+yed - plays Laboratory
+yed - draws Silver, Possession
+yed - plays Possession
+yed - plays 3 Copper, 3 Silver
+yed - buys Province
+yed - gains Province
+yed - draws Copper, Copper, Copper, Potion, Estate
+ 
+---------- Titandrake: turn 14 [possessed] ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+yed - gains Province
+Titandrake - draws Gold, Estate, Silver, Copper, Rogue
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Rogue
+yed - reveals: Silver, Laboratory
+yed - trashes Silver
+yed - discards Laboratory
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Gold, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- yed: turn 14 ----------
+yed - plays 3 Copper, 1 Potion
+yed - buys Estate
+yed - gains Estate
+yed - draws Estate, Laboratory, Province, Copper
+yed - shuffles deck
+yed - draws Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver, Copper, Gold, Estate
+ 
+---------- yed: turn 15 ----------
+yed - plays Laboratory
+yed - draws Estate, Laboratory
+yed - plays Laboratory
+yed - draws Province, Silver
+yed - plays 2 Silver, 1 Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Copper, Province, Copper, Copper, Possession
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Courtyard, Copper, Copper, Gold
+ 
+---------- yed: turn 16 ----------
+yed - plays Possession
+yed - plays 3 Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Potion, Province, Copper, Laboratory, Estate
+ 
+---------- Titandrake: turn 17 [possessed] ----------
+Titandrake - plays Courtyard
+Titandrake - draws Province, Province, Silver
+Titandrake - places Province on top of deck
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+yed - gains Province
+Titandrake - draws Province, Silver, Duchy, Copper, Province
+ 
+------------ Game Over ------------
+yed - cards: 5 Laboratory, 1 Possession, 7 Copper, 3 Silver, 1 Potion, 5 Province, 5 Estate, 1 Duchy
+yed - total victory points: 38
+yed - turns: 16
+ 
+Titandrake - cards: 1 Courtyard, 1 Laboratory, 1 Rogue, 7 Copper, 4 Silver, 3 Gold, 3 Province, 3 Duchy, 3 Estate
+Titandrake - total victory points: 30
+Titandrake - turns: 16
+ 
+1st place: yed
+2nd place: Titandrake
+ 

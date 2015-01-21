@@ -1,0 +1,423 @@
+------------ Game Setup ------------
+Supply cards: Poor House, Fool's Gold, Develop, Oracle, Shanty Town, Tunnel, Bazaar, Cache, Ghost Ship, Ill-Gotten Gains, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Oracle
+SheCantSayNo - gains Oracle
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Oracle, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - shuffles deck
+Titandrake - draws Oracle, Copper, Copper, Silver, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Oracle
+SheCantSayNo - reveals: Copper, Estate
+SheCantSayNo - discards: Copper, Estate
+Titandrake - reveals: Copper, Estate
+Titandrake - places Copper on top of deck
+Titandrake - places Estate on top of deck
+SheCantSayNo - draws Copper, Silver
+SheCantSayNo - plays 4 Copper, 1 Silver
+SheCantSayNo - buys Ill-Gotten Gains
+SheCantSayNo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+SheCantSayNo - draws Copper, Estate, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Estate, Copper
+Titandrake - discards: Estate, Copper
+SheCantSayNo - reveals: Oracle, Copper
+SheCantSayNo - discards: Oracle, Copper
+Titandrake - draws Copper, Copper
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+SheCantSayNo - gains Curse
+Titandrake - draws Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Ill-Gotten Gains
+SheCantSayNo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+SheCantSayNo - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - draws Copper, Curse, Ill-Gotten Gains, Oracle, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Tunnel
+SheCantSayNo - gains Tunnel
+SheCantSayNo - draws Ill-Gotten Gains
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Tunnel, Copper, Ill-Gotten Gains, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Silver
+Titandrake - discards: Copper, Silver
+SheCantSayNo - reveals: Silver, Copper
+SheCantSayNo - discards: Silver, Copper
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+SheCantSayNo - gains Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Curse, Curse, Estate
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Ill-Gotten Gains
+SheCantSayNo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+SheCantSayNo - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Curse, Oracle, Copper, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Develop
+Titandrake - gains Develop
+Titandrake - draws Copper, Ill-Gotten Gains, Ill-Gotten Gains, Silver, Oracle
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Oracle
+SheCantSayNo - reveals: Silver, Curse
+SheCantSayNo - places Curse on top of deck
+SheCantSayNo - places Silver on top of deck
+Titandrake - reveals: Estate
+Titandrake - shuffles deck
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - places Estate on top of deck
+SheCantSayNo - draws Silver, Curse
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Ill-Gotten Gains
+SheCantSayNo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+SheCantSayNo - draws Silver, Ill-Gotten Gains, Copper, Copper, Ill-Gotten Gains
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Estate, Curse
+Titandrake - discards: Estate, Curse
+SheCantSayNo - reveals: Tunnel, Copper
+SheCantSayNo - places Tunnel on top of deck
+SheCantSayNo - places Copper on top of deck
+Titandrake - draws Estate, Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+SheCantSayNo - gains Curse
+Titandrake - draws Estate, Copper, Develop, Copper, Copper
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 4 Copper, 1 Silver
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Copper, Tunnel, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Develop
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - gains Poor House
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Poor House, Silver, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Tunnel
+SheCantSayNo - gains Tunnel
+SheCantSayNo - draws Estate, Estate, Ill-Gotten Gains, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Ill-Gotten Gains, Poor House, Silver, Curse
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - buys Ill-Gotten Gains
+SheCantSayNo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+SheCantSayNo - draws Copper, Copper, Curse, Tunnel, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Poor House
+Titandrake - reveals hand: Curse, Ill-Gotten Gains, Silver, Curse
+Titandrake - plays Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Develop, Curse, Copper, Curse, Copper
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Copper, Ill-Gotten Gains, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Develop
+Titandrake - trashes Curse
+Titandrake - gains Poor House
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Poor House, Silver, Copper, Duchy, Copper
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Curse, Copper, Copper, Ill-Gotten Gains, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Poor House
+Titandrake - reveals hand: Silver, Copper, Duchy, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Ill-Gotten Gains, Oracle, Estate, Ill-Gotten Gains, Silver
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Copper, Oracle, Tunnel, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Estate
+Titandrake - discards: Copper, Estate
+SheCantSayNo - reveals: Province, Ill-Gotten Gains
+SheCantSayNo - places Province on top of deck
+SheCantSayNo - places Ill-Gotten Gains on top of deck
+Titandrake - draws Copper, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Copper, Curse, Silver, Duchy
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Oracle
+SheCantSayNo - reveals: Ill-Gotten Gains, Province
+SheCantSayNo - places Province on top of deck
+SheCantSayNo - places Ill-Gotten Gains on top of deck
+Titandrake - reveals: Copper, Copper
+Titandrake - discards: Copper, Copper
+SheCantSayNo - draws Ill-Gotten Gains, Province
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Tunnel, Estate, Copper, Duchy, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Poor House, Curse, Duchy, Ill-Gotten Gains, Curse
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays 1 Copper, 1 Silver
+SheCantSayNo - buys Tunnel
+SheCantSayNo - gains Tunnel
+SheCantSayNo - draws Copper, Tunnel, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Poor House
+Titandrake - reveals hand: Curse, Duchy, Ill-Gotten Gains, Curse
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Oracle, Copper, Estate, Estate, Province
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Oracle, Duchy, Copper, Curse, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Ill-Gotten Gains
+Titandrake - places Ill-Gotten Gains on top of deck
+Titandrake - places Copper on top of deck
+SheCantSayNo - reveals: Copper, Ill-Gotten Gains
+SheCantSayNo - discards: Copper, Ill-Gotten Gains
+Titandrake - draws Copper, Ill-Gotten Gains
+Titandrake - plays 2 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Develop, Curse, Copper, Silver, Estate
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Oracle
+SheCantSayNo - reveals: Ill-Gotten Gains, Copper
+SheCantSayNo - places Copper on top of deck
+SheCantSayNo - places Ill-Gotten Gains on top of deck
+Titandrake - reveals: Copper, Poor House
+Titandrake - discards: Copper, Poor House
+SheCantSayNo - draws Ill-Gotten Gains, Copper
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Copper, Curse, Ill-Gotten Gains, Ill-Gotten Gains, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Develop
+Titandrake - trashes Curse
+Titandrake - gains Poor House
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Poor House, Copper, Silver, Copper, Ill-Gotten Gains
+ 
+---------- SheCantSayNo: turn 19 ----------
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Tunnel
+SheCantSayNo - gains Tunnel
+SheCantSayNo - draws Estate, Province, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Tunnel, Copper, Poor House
+ 
+---------- SheCantSayNo: turn 20 ----------
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Copper, Copper, Duchy, Copper, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Poor House
+Titandrake - reveals hand: Curse, Copper, Tunnel, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Duchy, Estate, Copper, Copper, Tunnel
+ 
+---------- SheCantSayNo: turn 21 ----------
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Ill-Gotten Gains
+SheCantSayNo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+SheCantSayNo - draws Copper, Ill-Gotten Gains
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Copper, Tunnel
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Poor House
+ 
+---------- SheCantSayNo: turn 22 ----------
+SheCantSayNo - plays Ill-Gotten Gains
+SheCantSayNo - gains Copper
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Ill-Gotten Gains
+SheCantSayNo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+SheCantSayNo - draws Estate, Ill-Gotten Gains, Copper, Estate, Copper
+ 
+------------ Game Over ------------
+SheCantSayNo - cards: 19 Copper, 1 Oracle, 7 Ill-Gotten Gains, 2 Silver, 6 Estate, 4 Tunnel, 4 Duchy, 1 Province, 3 Curse
+SheCantSayNo - total victory points: 29
+SheCantSayNo - turns: 22
+ 
+Titandrake - cards: 3 Poor House, 10 Copper, 1 Develop, 1 Oracle, 4 Silver, 3 Ill-Gotten Gains, 4 Estate, 4 Duchy, 4 Tunnel, 1 Province, 5 Curse
+Titandrake - total victory points: 25
+Titandrake - turns: 21
+ 
+1st place: SheCantSayNo
+2nd place: Titandrake
+ 

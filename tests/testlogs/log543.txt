@@ -1,0 +1,598 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Pearl Diver, Masterpiece, Advisor, Conspirator, Death Cart, Gardens, Baker, City, Merchant Guild, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+Emeric - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Emeric - shuffles deck
+Titandrake - shuffles deck
+Emeric - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Emeric: turn 1 ----------
+Emeric - plays 4 Copper
+Emeric - buys Advisor
+Emeric - gains Advisor
+Emeric - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Merchant Guild
+Titandrake - gains Merchant Guild
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Copper, Merchant Guild, Copper
+ 
+---------- Emeric: turn 2 ----------
+Emeric - plays 3 Copper
+Emeric - uses 1 coin token
+Emeric - buys Advisor
+Emeric - gains Advisor
+Emeric - shuffles deck
+Emeric - draws Copper, Estate, Advisor, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Merchant Guild
+Titandrake - receives 1 coin token
+Titandrake - gains Merchant Guild
+Titandrake - buys Copper
+Titandrake - receives 1 coin token
+Titandrake - gains Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Emeric: turn 3 ----------
+Emeric - plays Advisor
+Emeric - reveals: Advisor, Estate, Copper
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Estate, Copper
+Emeric - plays 4 Copper
+Emeric - buys Advisor
+Emeric - gains Advisor
+Emeric - draws Estate, Copper, Copper, Copper
+Emeric - shuffles deck
+Emeric - draws Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Death Cart
+Titandrake - gains Death Cart
+Titandrake - gains Ruined Library
+Titandrake - gains Ruined Village
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Ruined Library, Death Cart, Copper
+ 
+---------- Emeric: turn 4 ----------
+Emeric - plays 4 Copper
+Emeric - buys Advisor
+Emeric - gains Advisor
+Emeric - draws Estate, Copper, Advisor, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Death Cart
+Titandrake - trashes Ruined Library
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Merchant Guild, Copper, Copper, Ruined Village, Estate
+ 
+---------- Emeric: turn 5 ----------
+Emeric - plays Advisor
+Emeric - reveals: Copper, Advisor, Advisor
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Copper, Advisor
+Emeric - plays Advisor
+Emeric - shuffles deck
+Emeric - reveals: Copper, Copper, Estate
+Titandrake - discards Copper
+Emeric - places cards in hand:  Copper, Estate
+Emeric - plays 4 Copper
+Emeric - buys Conspirator
+Emeric - gains Conspirator
+Emeric - draws Copper, Advisor, Copper, Advisor
+Emeric - shuffles deck
+Emeric - draws Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Death Cart
+Titandrake - receives 1 coin token
+Titandrake - gains Death Cart
+Titandrake - gains Ruined Library
+Titandrake - gains Ruined Library
+Titandrake - buys Copper
+Titandrake - receives 1 coin token
+Titandrake - gains Copper
+Titandrake - draws Copper, Copper, Estate, Silver, Merchant Guild
+ 
+---------- Emeric: turn 6 ----------
+Emeric - plays Advisor
+Emeric - reveals: Estate, Estate, Copper
+Titandrake - discards Copper
+Emeric - places cards in hand:  Estate, Estate
+Emeric - plays Advisor
+Emeric - reveals: Copper, Advisor, Copper
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Copper, Copper
+Emeric - plays 4 Copper
+Emeric - buys Advisor
+Emeric - gains Advisor
+Emeric - draws Conspirator, Advisor, Copper, Copper
+Emeric - shuffles deck
+Emeric - draws Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Gardens
+Titandrake - receives 1 coin token
+Titandrake - gains Gardens
+Titandrake - buys Estate
+Titandrake - receives 1 coin token
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Ruined Village, Province
+ 
+---------- Emeric: turn 7 ----------
+Emeric - plays Advisor
+Emeric - reveals: Advisor, Copper, Copper
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Copper, Copper
+Emeric - plays Conspirator
+Emeric - plays 4 Copper
+Emeric - buys Merchant Guild
+Emeric - gains Merchant Guild
+Emeric - draws Copper, Advisor, Advisor, Estate, Advisor
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Copper, Estate, Ruined Library, Ruined Library, Estate
+ 
+---------- Emeric: turn 8 ----------
+Emeric - plays Advisor
+Emeric - reveals: Copper, Estate, Copper
+Titandrake - discards Copper
+Emeric - places cards in hand:  Copper, Estate
+Emeric - plays Advisor
+Emeric - shuffles deck
+Emeric - reveals: Estate, Copper, Copper
+Titandrake - discards Copper
+Emeric - places cards in hand:  Estate, Copper
+Emeric - plays Advisor
+Emeric - reveals: Advisor, Copper, Advisor
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Advisor, Copper
+Emeric - plays Advisor
+Emeric - reveals: Merchant Guild, Copper, Copper
+Titandrake - discards Merchant Guild
+Emeric - places cards in hand:  Copper, Copper
+Emeric - plays 6 Copper
+Emeric - buys City
+Emeric - gains City
+Emeric - draws Conspirator
+Emeric - shuffles deck
+Emeric - draws Estate, Advisor, Copper, Advisor
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Estate, Copper, Copper, Gardens, Death Cart
+ 
+---------- Emeric: turn 9 ----------
+Emeric - plays Advisor
+Emeric - reveals: Copper, Copper, Copper
+Titandrake - discards Copper
+Emeric - places cards in hand:  Copper, Copper
+Emeric - plays Advisor
+Emeric - reveals: Advisor, Estate, Merchant Guild
+Titandrake - discards Merchant Guild
+Emeric - places cards in hand:  Advisor, Estate
+Emeric - plays Advisor
+Emeric - reveals: Copper, Estate, Advisor
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Copper, Estate
+Emeric - plays Conspirator
+Emeric - draws City
+Emeric - plays City
+Emeric - draws Copper
+Emeric - plays 5 Copper
+Emeric - buys Merchant Guild
+Emeric - gains Merchant Guild
+Emeric - draws Copper, Advisor
+Emeric - shuffles deck
+Emeric - draws Advisor, Copper, City
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Death Cart
+Titandrake - trashes Death Cart
+Titandrake - buys Merchant Guild
+Titandrake - gains Merchant Guild
+Titandrake - draws Copper, Copper, Merchant Guild, Copper, Merchant Guild
+ 
+---------- Emeric: turn 10 ----------
+Emeric - plays Advisor
+Emeric - reveals: Advisor, Merchant Guild, Copper
+Titandrake - discards Merchant Guild
+Emeric - places cards in hand:  Advisor, Copper
+Emeric - plays Advisor
+Emeric - reveals: Estate, Estate, Advisor
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Estate, Estate
+Emeric - plays Advisor
+Emeric - reveals: Copper, Copper, Merchant Guild
+Titandrake - discards Merchant Guild
+Emeric - places cards in hand:  Copper, Copper
+Emeric - plays City
+Emeric - draws Conspirator
+Emeric - plays Conspirator
+Emeric - draws Copper
+Emeric - plays 6 Copper
+Emeric - buys Province
+Emeric - gains Province
+Emeric - draws Copper, Estate, Advisor
+Emeric - shuffles deck
+Emeric - draws Copper, Merchant Guild
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Merchant Guild
+Titandrake - plays 3 Copper
+Titandrake - buys Gardens
+Titandrake - receives 1 coin token
+Titandrake - gains Gardens
+Titandrake - buys Copper
+Titandrake - receives 1 coin token
+Titandrake - gains Copper
+Titandrake - draws Silver, Copper, Death Cart
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Emeric: turn 11 ----------
+Emeric - plays Advisor
+Emeric - reveals: Advisor, Conspirator, Advisor
+Titandrake - discards Conspirator
+Emeric - places cards in hand:  Advisor, Advisor
+Emeric - plays Advisor
+Emeric - reveals: Copper, Estate, Copper
+Titandrake - discards Copper
+Emeric - places cards in hand:  Estate, Copper
+Emeric - plays Advisor
+Emeric - reveals: Advisor, Copper, Copper
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Copper, Copper
+Emeric - plays Merchant Guild
+Emeric - plays 5 Copper
+Emeric - buys Gardens
+Emeric - receives 1 coin token
+Emeric - gains Gardens
+Emeric - buys Pearl Diver
+Emeric - receives 1 coin token
+Emeric - gains Pearl Diver
+Emeric - draws Estate, City, Advisor, Province, Merchant Guild
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Copper, Gardens, Ruined Library, Gardens, Copper
+ 
+---------- Emeric: turn 12 ----------
+Emeric - plays Advisor
+Emeric - reveals: Copper
+Emeric - shuffles deck
+Emeric - reveals: Advisor, Gardens
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Copper, Gardens
+Emeric - plays City
+Emeric - draws Advisor
+Emeric - plays Advisor
+Emeric - reveals: Advisor, Copper, Pearl Diver
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Copper, Pearl Diver
+Emeric - plays Pearl Diver
+Emeric - draws Estate
+Emeric - places Merchant Guild on top of deck
+Emeric - plays Merchant Guild
+Emeric - plays 2 Copper
+Emeric - uses 1 coin token
+Emeric - buys Gardens
+Emeric - receives 1 coin token
+Emeric - gains Gardens
+Emeric - buys Copper
+Emeric - receives 1 coin token
+Emeric - gains Copper
+Emeric - draws Merchant Guild, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ruined Library
+Titandrake - draws Estate
+Titandrake - plays 2 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Estate, Copper, Estate, Copper, Merchant Guild
+ 
+---------- Emeric: turn 13 ----------
+Emeric - plays Merchant Guild
+Emeric - plays 4 Copper
+Emeric - uses 1 coin token
+Emeric - buys Gardens
+Emeric - receives 1 coin token
+Emeric - gains Gardens
+Emeric - buys Estate
+Emeric - receives 1 coin token
+Emeric - gains Estate
+Emeric - draws Conspirator, Estate, Copper, Advisor
+Emeric - shuffles deck
+Emeric - draws Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Estate
+Titandrake - receives 1 coin token
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - receives 1 coin token
+Titandrake - gains Estate
+Titandrake - draws Ruined Library, Copper, Merchant Guild, Copper, Ruined Village
+ 
+---------- Emeric: turn 14 ----------
+Emeric - plays Advisor
+Emeric - reveals: Advisor, Copper, Copper
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Copper, Copper
+Emeric - plays Conspirator
+Emeric - plays 4 Copper
+Emeric - uses 2 coin tokens
+Emeric - buys Province
+Emeric - gains Province
+Emeric - draws Advisor, Merchant Guild, City, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Estate
+Titandrake - receives 1 coin token
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - receives 1 coin token
+Titandrake - gains Estate
+Titandrake - draws Estate, Province, Copper, Copper, Gardens
+ 
+---------- Emeric: turn 15 ----------
+Emeric - plays Advisor
+Emeric - reveals: Gardens, Advisor, Copper
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Gardens, Copper
+Emeric - plays City
+Emeric - draws Merchant Guild, Province
+Emeric - plays Merchant Guild
+Emeric - plays Merchant Guild
+Emeric - plays 3 Copper
+Emeric - buys City
+Emeric - receives 1 coin token
+Emeric - receives 1 coin token
+Emeric - gains City
+Emeric - buys Copper
+Emeric - receives 1 coin token
+Emeric - receives 1 coin token
+Emeric - gains Copper
+Emeric - buys Copper
+Emeric - receives 1 coin token
+Emeric - receives 1 coin token
+Emeric - gains Copper
+Emeric - draws Pearl Diver, Copper, Estate, Gardens, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Merchant Guild
+Titandrake - shuffles deck
+Titandrake - draws Death Cart, Copper, Copper, Estate
+ 
+---------- Emeric: turn 16 ----------
+Emeric - plays Pearl Diver
+Emeric - draws Estate
+Emeric - places Gardens on bottom of deck
+Emeric - plays 1 Copper
+Emeric - uses 7 coin tokens
+Emeric - buys Province
+Emeric - gains Province
+Emeric - draws Advisor, Gardens
+Emeric - shuffles deck
+Emeric - draws Gardens, Province, City
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Death Cart
+Titandrake - trashes Death Cart
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper, Estate, Copper, Province
+ 
+---------- Emeric: turn 17 ----------
+Emeric - plays Advisor
+Emeric - reveals: Copper, Merchant Guild, Conspirator
+Titandrake - discards Merchant Guild
+Emeric - places cards in hand:  Copper, Conspirator
+Emeric - plays City
+Emeric - draws Estate, Copper
+Emeric - plays Conspirator
+Emeric - draws Copper
+Emeric - plays 3 Copper
+Emeric - buys City
+Emeric - gains City
+Emeric - draws Gardens, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gardens, Ruined Village, Estate, Ruined Library, Merchant Guild
+ 
+---------- Emeric: turn 18 ----------
+Emeric - plays 3 Copper
+Emeric - uses 1 coin token
+Emeric - buys Conspirator
+Emeric - gains Conspirator
+Emeric - draws Advisor, City, Copper, Province, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Merchant Guild
+Titandrake - buys Ruined Library
+Titandrake - receives 1 coin token
+Titandrake - gains Ruined Library
+Titandrake - buys Ruined Library
+Titandrake - receives 1 coin token
+Titandrake - gains Ruined Library
+Titandrake - draws Copper, Ruined Library, Estate, Copper, Gardens
+ 
+---------- Emeric: turn 19 ----------
+Emeric - plays Advisor
+Emeric - reveals: Copper, Province, Estate
+Titandrake - discards Copper
+Emeric - places cards in hand:  Province, Estate
+Emeric - plays City
+Emeric - draws Copper, Advisor
+Emeric - plays Advisor
+Emeric - reveals: Pearl Diver, Advisor, Copper
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Pearl Diver, Copper
+Emeric - plays Pearl Diver
+Emeric - draws Merchant Guild
+Emeric - places Advisor on top of deck
+Emeric - plays Merchant Guild
+Emeric - plays 3 Copper
+Emeric - buys Duchy
+Emeric - receives 1 coin token
+Emeric - gains Duchy
+Emeric - buys Copper
+Emeric - receives 1 coin token
+Emeric - gains Copper
+Emeric - buys Copper
+Emeric - receives 1 coin token
+Emeric - gains Copper
+Emeric - draws Advisor
+Emeric - shuffles deck
+Emeric - draws Copper, Copper, Copper, Duchy
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Ruined Library
+Titandrake - draws Gardens
+Titandrake - buys Ruined Village
+Titandrake - gains Ruined Village
+Titandrake - draws Copper, Estate, Silver, Estate, Copper
+ 
+---------- Emeric: turn 20 ----------
+Emeric - plays Advisor
+Emeric - reveals: Province, Copper, Advisor
+Titandrake - discards Advisor
+Emeric - places cards in hand:  Province, Copper
+Emeric - plays 4 Copper
+Emeric - uses 1 coin token
+Emeric - buys Duchy
+Emeric - gains Duchy
+Emeric - draws Copper, Conspirator, Province, Advisor, City
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - uses 4 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Merchant Guild, Gardens, Estate, Gardens
+ 
+---------- Emeric: turn 21 ----------
+Emeric - plays Advisor
+Emeric - reveals: Merchant Guild, Copper, Gardens
+Titandrake - discards Merchant Guild
+Emeric - places cards in hand:  Copper, Gardens
+Emeric - plays City
+Emeric - draws Copper, Merchant Guild
+Emeric - plays Merchant Guild
+Emeric - plays Conspirator
+Emeric - draws Gardens
+Emeric - plays 3 Copper
+Emeric - uses 1 coin token
+Emeric - buys Province
+Emeric - receives 1 coin token
+Emeric - gains Province
+Emeric - buys Copper
+Emeric - receives 1 coin token
+Emeric - gains Copper
+Emeric - buys Copper
+Emeric - receives 1 coin token
+Emeric - gains Copper
+Emeric - draws City, Estate, City, Estate, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Merchant Guild
+Titandrake - plays Copper
+Titandrake - buys Pearl Diver
+Titandrake - receives 1 coin token
+Titandrake - gains Pearl Diver
+Titandrake - buys Abandoned Mine
+Titandrake - receives 1 coin token
+Titandrake - gains Abandoned Mine
+Titandrake - draws Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Ruined Library, Estate
+ 
+---------- Emeric: turn 22 ----------
+Emeric - plays City
+Emeric - draws Estate, Advisor
+Emeric - plays Advisor
+Emeric - reveals: Copper, Conspirator, Advisor
+Titandrake - discards Conspirator
+Emeric - places cards in hand:  Copper, Advisor
+Emeric - plays Advisor
+Emeric - reveals: Pearl Diver, Copper, Gardens
+Titandrake - discards Copper
+Emeric - places cards in hand:  Pearl Diver, Gardens
+Emeric - plays Pearl Diver
+Emeric - draws Copper
+Emeric - places Estate on bottom of deck
+Emeric - plays City
+Emeric - draws Copper, Province
+Emeric - plays 4 Copper
+Emeric - uses 4 coin tokens
+Emeric - buys Province
+Emeric - gains Province
+Emeric - buys Pearl Diver
+Emeric - gains Pearl Diver
+Emeric - buys Copper
+Emeric - gains Copper
+Emeric - draws Estate
+Emeric - shuffles deck
+Emeric - draws Province, Province, Copper, Advisor
+ 
+------------ Game Over ------------
+Emeric - cards: 5 Advisor, 3 City, 2 Conspirator, 2 Merchant Guild, 2 Pearl Diver, 15 Copper, 5 Province, 4 Estate, 3 Gardens, 2 Duchy
+Emeric - total victory points: 52
+Emeric - turns: 22
+ 
+Titandrake - cards: 4 Ruined Library, 3 Merchant Guild, 2 Ruined Village, 11 Copper, 1 Abandoned Mine, 1 Pearl Diver, 10 Estate, 1 Silver, 5 Gardens, 3 Province
+Titandrake - total victory points: 48
+Titandrake - turns: 22
+ 
+1st place: Emeric
+2nd place: Titandrake
+ 

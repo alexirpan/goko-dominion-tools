@@ -1,0 +1,495 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Scrying Pool, Fishing Village, Masterpiece, Moneylender, Bandit Camp, Graverobber, Harvest, Merchant Ship, Tactician, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+frankdom - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Copper, Estate, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Merchant Ship
+Titandrake - gains Merchant Ship
+Titandrake - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays 3 Copper
+frankdom - buys Fishing Village
+frankdom - gains Fishing Village
+frankdom - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Candlestick Maker, Copper, Estate
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays 4 Copper
+frankdom - buys Moneylender
+frankdom - gains Moneylender
+frankdom - shuffles deck
+frankdom - draws Copper, Copper, Copper, Fishing Village, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Merchant Ship, Copper, Copper, Copper, Copper
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays Fishing Village
+frankdom - plays 4 Copper
+frankdom - buys Merchant Ship
+frankdom - gains Merchant Ship
+frankdom - draws Moneylender, Estate, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Merchant Ship
+Titandrake - plays 4 Copper
+Titandrake - buys Moneylender
+Titandrake - gains Moneylender
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Candlestick Maker, Copper
+ 
+---------- frankdom: turn 4 ----------
+frankdom - duration Fishing Village
+frankdom - plays Moneylender
+frankdom - trashes Copper
+frankdom - buys Fishing Village
+frankdom - gains Fishing Village
+frankdom - draws Copper, Copper
+frankdom - shuffles deck
+frankdom - draws Copper, Merchant Ship, Fishing Village
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Merchant Ship
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Moneylender, Copper, Copper, Copper
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays Fishing Village
+frankdom - plays Merchant Ship
+frankdom - plays 3 Copper
+frankdom - buys Tactician
+frankdom - gains Tactician
+frankdom - draws Estate, Estate, Fishing Village, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Estate, Copper, Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- frankdom: turn 6 ----------
+frankdom - duration Fishing Village
+frankdom - duration Merchant Ship
+frankdom - plays Fishing Village
+frankdom - plays 1 Copper
+frankdom - buys Merchant Ship
+frankdom - gains Merchant Ship
+frankdom - draws Copper, Moneylender, Copper
+frankdom - shuffles deck
+frankdom - draws Tactician, Merchant Ship
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Candlestick Maker, Copper, Moneylender, Merchant Ship
+ 
+---------- frankdom: turn 7 ----------
+frankdom - duration Fishing Village
+frankdom - plays Moneylender
+frankdom - trashes Copper
+frankdom - plays Merchant Ship
+frankdom - plays 1 Copper
+frankdom - buys Merchant Ship
+frankdom - gains Merchant Ship
+frankdom - draws Merchant Ship, Copper, Fishing Village, Estate, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Estate, Estate, Copper, Potion, Fishing Village
+ 
+---------- frankdom: turn 8 ----------
+frankdom - duration Merchant Ship
+frankdom - plays Fishing Village
+frankdom - plays Merchant Ship
+frankdom - plays 1 Copper
+frankdom - buys Fishing Village
+frankdom - gains Fishing Village
+frankdom - draws Estate, Copper, Copper, Copper
+frankdom - shuffles deck
+frankdom - draws Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 1 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Copper, Merchant Ship, Candlestick Maker, Copper, Candlestick Maker
+ 
+---------- frankdom: turn 9 ----------
+frankdom - duration Fishing Village
+frankdom - duration Merchant Ship
+frankdom - plays 3 Copper
+frankdom - buys Fishing Village
+frankdom - gains Fishing Village
+frankdom - draws Moneylender, Merchant Ship, Merchant Ship, Estate, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Merchant Ship
+Titandrake - plays 2 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Estate, Moneylender, Estate, Candlestick Maker
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays Merchant Ship
+frankdom - plays 1 Copper
+frankdom - buys Candlestick Maker
+frankdom - gains Candlestick Maker
+frankdom - draws Tactician, Copper, Fishing Village, Fishing Village
+frankdom - shuffles deck
+frankdom - draws Fishing Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Merchant Ship
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Potion, Scrying Pool, Candlestick Maker, Candlestick Maker, Estate
+ 
+---------- frankdom: turn 11 ----------
+frankdom - duration Merchant Ship
+frankdom - plays Fishing Village
+frankdom - plays Fishing Village
+frankdom - plays Fishing Village
+frankdom - plays Tactician
+frankdom - discards Copper
+frankdom - buys Tactician
+frankdom - gains Tactician
+frankdom - draws Copper, Estate, Merchant Ship, Copper, Candlestick Maker
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+frankdom - places Estate on top of deck
+Titandrake - reveals Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Potion, 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Candlestick Maker, Fishing Village, Estate, Copper
+ 
+---------- frankdom: turn 12 ----------
+frankdom - duration Fishing Village
+frankdom - duration Fishing Village
+frankdom - duration Fishing Village
+frankdom - duration Tactician
+frankdom - draws Estate, Fishing Village, Moneylender, Copper, Estate
+frankdom - plays Fishing Village
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Merchant Ship
+frankdom - plays Moneylender
+frankdom - trashes Copper
+frankdom - plays 2 Copper
+frankdom - buys Province
+frankdom - gains Province
+frankdom - buys Fishing Village
+frankdom - gains Fishing Village
+frankdom - draws Merchant Ship, Copper
+frankdom - shuffles deck
+frankdom - draws Province, Tactician, Fishing Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - draws Candlestick Maker, Estate, Copper, Moneylender, Scrying Pool
+ 
+---------- frankdom: turn 13 ----------
+frankdom - duration Fishing Village
+frankdom - duration Merchant Ship
+frankdom - plays Fishing Village
+frankdom - plays Merchant Ship
+frankdom - plays Tactician
+frankdom - discards: Copper, Province
+frankdom - buys Merchant Ship
+frankdom - gains Merchant Ship
+frankdom - draws Merchant Ship, Copper, Estate, Fishing Village, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Scrying Pool
+Titandrake - places Candlestick Maker on top of deck
+frankdom - places Estate on top of deck
+Titandrake - reveals Candlestick Maker, Merchant Ship, Candlestick Maker, Scrying Pool, Estate
+Titandrake - plays Scrying Pool
+Titandrake - places Candlestick Maker on top of deck
+frankdom - places Estate on top of deck
+Titandrake - reveals Candlestick Maker, Candlestick Maker, Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - plays Merchant Ship
+Titandrake - plays 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Copper, Candlestick Maker, Fishing Village, Potion, Candlestick Maker
+ 
+---------- frankdom: turn 14 ----------
+frankdom - duration Fishing Village
+frankdom - duration Merchant Ship
+frankdom - duration Tactician
+frankdom - draws Estate, Candlestick Maker, Estate, Tactician, Fishing Village
+frankdom - plays Fishing Village
+frankdom - plays Fishing Village
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Merchant Ship
+frankdom - plays Tactician
+frankdom - discards: Copper, Estate, Copper, Estate, Estate
+frankdom - uses 1 coin token
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Moneylender, Fishing Village, Copper
+frankdom - shuffles deck
+frankdom - draws Merchant Ship, Merchant Ship
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Merchant Ship
+Titandrake - plays Fishing Village
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - shuffles deck
+Titandrake - draws Candlestick Maker, Copper, Candlestick Maker, Candlestick Maker, Copper
+ 
+---------- frankdom: turn 15 ----------
+frankdom - duration Fishing Village
+frankdom - duration Fishing Village
+frankdom - duration Merchant Ship
+frankdom - duration Tactician
+frankdom - draws Copper, Estate, Estate, Province, Copper
+frankdom - plays Fishing Village
+frankdom - plays Merchant Ship
+frankdom - plays Merchant Ship
+frankdom - plays Moneylender
+frankdom - trashes Copper
+frankdom - plays 2 Copper
+frankdom - buys Province
+frankdom - gains Province
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - draws Merchant Ship, Tactician, Candlestick Maker, Fishing Village, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Estate, Potion, Candlestick Maker, Merchant Ship, Candlestick Maker
+ 
+---------- frankdom: turn 16 ----------
+frankdom - duration Fishing Village
+frankdom - duration Merchant Ship
+frankdom - duration Merchant Ship
+frankdom - plays Fishing Village
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Merchant Ship
+frankdom - plays Tactician
+frankdom - discards Estate
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Fishing Village, Copper, Province
+frankdom - shuffles deck
+frankdom - draws Fishing Village, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Merchant Ship
+Titandrake - plays Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Candlestick Maker, Scrying Pool, Fishing Village, Copper, Estate
+ 
+---------- frankdom: turn 17 ----------
+frankdom - duration Fishing Village
+frankdom - duration Merchant Ship
+frankdom - duration Tactician
+frankdom - draws Fishing Village, Duchy, Estate, Copper, Merchant Ship
+frankdom - plays Fishing Village
+frankdom - plays Fishing Village
+frankdom - plays Fishing Village
+frankdom - plays Merchant Ship
+frankdom - plays 2 Copper
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Moneylender, Fishing Village, Province, Copper, Candlestick Maker
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Merchant Ship
+Titandrake - plays Scrying Pool
+Titandrake - places Candlestick Maker on top of deck
+frankdom - places Province on top of deck
+Titandrake - reveals Candlestick Maker, Candlestick Maker, Moneylender, Estate
+Titandrake - plays Fishing Village
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - uses 4 coin tokens
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Fishing Village, Bandit Camp, Candlestick Maker, Scrying Pool, Scrying Pool
+ 
+---------- frankdom: turn 18 ----------
+frankdom - duration Fishing Village
+frankdom - duration Fishing Village
+frankdom - duration Fishing Village
+frankdom - duration Merchant Ship
+frankdom - plays Fishing Village
+frankdom - plays Candlestick Maker
+frankdom - receives 1 coin token
+frankdom - plays Moneylender
+frankdom - trashes Copper
+frankdom - buys Province
+frankdom - gains Province
+frankdom - draws Province, Estate, Province, Merchant Ship, Tactician
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - discards Estate
+frankdom - discards Merchant Ship
+Titandrake - reveals Candlestick Maker, Fishing Village, Merchant Ship, Estate
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+frankdom - shuffles deck
+frankdom - places Copper on top of deck
+Titandrake - reveals Candlestick Maker, Scrying Pool, Moneylender, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+frankdom - places Copper on top of deck
+Titandrake - reveals Duchy
+Titandrake - plays Bandit Camp
+Titandrake - draws Duchy
+Titandrake - gains Spoils
+Titandrake - plays Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Merchant Ship
+Titandrake - plays Moneylender
+Titandrake - trashes Copper
+Titandrake - uses 22 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Candlestick Maker, Candlestick Maker, Fishing Village, Scrying Pool, Candlestick Maker
+ 
+------------ Game Over ------------
+frankdom - cards: 5 Fishing Village, 4 Merchant Ship, 2 Tactician, 1 Moneylender, 1 Candlestick Maker, 2 Copper, 6 Province, 3 Estate, 1 Duchy
+frankdom - total victory points: 42
+frankdom - turns: 18
+ 
+Titandrake - cards: 9 Candlestick Maker, 4 Fishing Village, 4 Scrying Pool, 1 Bandit Camp, 1 Moneylender, 1 Merchant Ship, 1 Copper, 1 Spoils, 1 Potion, 4 Duchy, 3 Estate, 2 Province
+Titandrake - total victory points: 27
+Titandrake - turns: 19
+ 
+1st place: frankdom
+2nd place: Titandrake
+ 

@@ -1,0 +1,508 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Chapel, Bishop, Bureaucrat, Ironworks, Nomad Camp, Taxman, Baker, Catacombs, Contraband, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Vampyroteuthis - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Vampyroteuthis - shuffles deck
+Titandrake - shuffles deck
+Vampyroteuthis - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Vampyroteuthis: turn 1 ----------
+Vampyroteuthis - plays 4 Copper
+Vampyroteuthis - buys Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Vampyroteuthis: turn 2 ----------
+Vampyroteuthis - plays 3 Copper
+Vampyroteuthis - buys Chapel
+Vampyroteuthis - gains Chapel
+Vampyroteuthis - shuffles deck
+Vampyroteuthis - draws Copper, Estate, Ironworks, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Baker, Estate, Estate
+ 
+---------- Vampyroteuthis: turn 3 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - plays 2 Copper
+Vampyroteuthis - uses 1 coin token
+Vampyroteuthis - buys Silver
+Vampyroteuthis - gains Silver
+Vampyroteuthis - draws Copper, Chapel, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Estate
+Titandrake - draws Copper, Copper, Copper, Chapel, Copper
+ 
+---------- Vampyroteuthis: turn 4 ----------
+Vampyroteuthis - plays Chapel
+Vampyroteuthis - trashes Copper, Copper, Copper, Copper
+Vampyroteuthis - draws Copper, Estate
+Vampyroteuthis - shuffles deck
+Vampyroteuthis - draws Ironworks, Silver, Ironworks
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Copper, Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Estate, Estate, Copper
+ 
+---------- Vampyroteuthis: turn 5 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bishop
+Vampyroteuthis - plays 1 Copper, 1 Silver
+Vampyroteuthis - buys Silver
+Vampyroteuthis - gains Silver
+Vampyroteuthis - draws Chapel, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Estate
+Titandrake - draws Estate, Copper, Baker
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Copper
+ 
+---------- Vampyroteuthis: turn 6 ----------
+Vampyroteuthis - plays Chapel
+Vampyroteuthis - trashes Estate, Estate, Copper, Copper
+Vampyroteuthis - shuffles deck
+Vampyroteuthis - draws Estate, Copper, Bishop, Ironworks, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper
+Titandrake - plays 2 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Baker, Copper, Copper, Bishop
+ 
+---------- Vampyroteuthis: turn 7 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - plays Bishop
+Vampyroteuthis - trashes Estate
+Vampyroteuthis - receives 1 victory point chips
+Vampyroteuthis - plays 1 Copper, 1 Silver
+Vampyroteuthis - buys Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - draws Ironworks, Silver, Ironworks, Chapel
+Vampyroteuthis - shuffles deck
+Vampyroteuthis - draws Ironworks
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays Bishop
+Titandrake - trashes Chapel
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Copper, Silver, Baker, Copper
+ 
+---------- Vampyroteuthis: turn 8 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Potion
+Vampyroteuthis - plays 1 Silver
+Vampyroteuthis - buys Silver
+Vampyroteuthis - gains Silver
+Vampyroteuthis - draws Silver, Ironworks, Bishop, Ironworks, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Bishop, Gold, Baker
+ 
+---------- Vampyroteuthis: turn 9 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - plays Bishop
+Vampyroteuthis - trashes Copper
+Vampyroteuthis - receives 0 victory point chips
+Vampyroteuthis - plays 1 Silver
+Vampyroteuthis - buys Silver
+Vampyroteuthis - gains Silver
+Vampyroteuthis - shuffles deck
+Vampyroteuthis - draws Silver, Silver, Ironworks, Ironworks, Chapel
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Silver, Gold, Gold, Baker
+ 
+---------- Vampyroteuthis: turn 10 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Nomad Camp
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Potion
+Vampyroteuthis - plays 2 Silver
+Vampyroteuthis - buys Baker
+Vampyroteuthis - gains Baker
+Vampyroteuthis - draws Nomad Camp, Ironworks, Potion, Silver, Ironworks
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Baker
+Titandrake - receives 2 victory point chips
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Silver, Gold, Bishop
+ 
+---------- Vampyroteuthis: turn 11 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Ironworks
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Nomad Camp
+Vampyroteuthis - plays 1 Potion, 1 Silver
+Vampyroteuthis - buys Vineyard
+Vampyroteuthis - gains Vineyard
+Vampyroteuthis - buys Taxman
+Vampyroteuthis - gains Taxman
+Vampyroteuthis - draws Ironworks, Ironworks, Ironworks, Bishop, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Bishop, Gold, Gold, Province
+ 
+---------- Vampyroteuthis: turn 12 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Potion
+Vampyroteuthis - plays 1 Silver
+Vampyroteuthis - buys Silver
+Vampyroteuthis - gains Silver
+Vampyroteuthis - draws Ironworks, Ironworks
+Vampyroteuthis - shuffles deck
+Vampyroteuthis - draws Silver, Ironworks, Ironworks
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Province, Bishop, Silver
+ 
+---------- Vampyroteuthis: turn 13 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Potion
+Vampyroteuthis - plays 1 Silver
+Vampyroteuthis - buys Silver
+Vampyroteuthis - gains Silver
+Vampyroteuthis - draws Bureaucrat, Silver, Ironworks, Baker, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Bishop, Gold, Silver, Gold
+ 
+---------- Vampyroteuthis: turn 14 ----------
+Vampyroteuthis - plays Baker
+Vampyroteuthis - receives 1 coin token
+Vampyroteuthis - draws Ironworks
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Taxman
+Vampyroteuthis - plays Bureaucrat
+Vampyroteuthis - gains Silver
+Titandrake - reveals Province
+Titandrake - places Province on top of deck
+Vampyroteuthis - plays 2 Silver
+Vampyroteuthis - buys Potion
+Vampyroteuthis - gains Potion
+Vampyroteuthis - draws Silver, Potion, Silver, Ironworks, Nomad Camp
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Bishop, Silver, Gold
+ 
+---------- Vampyroteuthis: turn 15 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Nomad Camp
+Vampyroteuthis - plays 2 Silver, 1 Potion
+Vampyroteuthis - buys Vineyard
+Vampyroteuthis - gains Vineyard
+Vampyroteuthis - buys Catacombs
+Vampyroteuthis - gains Catacombs
+Vampyroteuthis - draws Ironworks, Ironworks, Taxman, Bureaucrat, Potion
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Province, Gold, Silver, Bishop
+ 
+---------- Vampyroteuthis: turn 16 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bureaucrat
+Vampyroteuthis - plays Bureaucrat
+Vampyroteuthis - gains Silver
+Titandrake - reveals Province
+Titandrake - places Province on top of deck
+Vampyroteuthis - plays 1 Potion
+Vampyroteuthis - buys Vineyard
+Vampyroteuthis - gains Vineyard
+Vampyroteuthis - draws Silver, Bureaucrat, Silver, Potion, Ironworks
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Bishop, Gold
+ 
+---------- Vampyroteuthis: turn 17 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Taxman
+Vampyroteuthis - plays Bureaucrat
+Vampyroteuthis - gains Silver
+Titandrake - reveals Province
+Titandrake - places Province on top of deck
+Vampyroteuthis - plays 2 Silver, 1 Potion
+Vampyroteuthis - buys Vineyard
+Vampyroteuthis - gains Vineyard
+Vampyroteuthis - draws Silver, Vineyard, Chapel, Bishop
+Vampyroteuthis - shuffles deck
+Vampyroteuthis - draws Ironworks
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Bishop, Silver, Gold
+ 
+---------- Vampyroteuthis: turn 18 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Taxman
+Vampyroteuthis - plays Bishop
+Vampyroteuthis - trashes Chapel
+Vampyroteuthis - receives 1 victory point chips
+Vampyroteuthis - plays 1 Silver
+Vampyroteuthis - buys Chapel
+Vampyroteuthis - gains Chapel
+Vampyroteuthis - draws Silver, Taxman, Bureaucrat, Ironworks, Taxman
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Province, Bishop, Gold
+ 
+---------- Vampyroteuthis: turn 19 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Taxman
+Vampyroteuthis - plays Bureaucrat
+Vampyroteuthis - gains Silver
+Titandrake - reveals Province
+Titandrake - places Province on top of deck
+Vampyroteuthis - plays 1 Silver
+Vampyroteuthis - buys Chapel
+Vampyroteuthis - gains Chapel
+Vampyroteuthis - draws Silver, Silver, Bureaucrat, Silver, Potion
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Bishop, Gold, Silver
+ 
+---------- Vampyroteuthis: turn 20 ----------
+Vampyroteuthis - plays Bureaucrat
+Vampyroteuthis - gains Silver
+Titandrake - reveals Province
+Titandrake - places Province on top of deck
+Vampyroteuthis - plays 3 Silver, 1 Potion
+Vampyroteuthis - buys Vineyard
+Vampyroteuthis - gains Vineyard
+Vampyroteuthis - draws Silver, Silver, Bureaucrat, Bureaucrat, Nomad Camp
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Gold, Gold, Bishop
+ 
+---------- Vampyroteuthis: turn 21 ----------
+Vampyroteuthis - plays Bureaucrat
+Vampyroteuthis - gains Silver
+Titandrake - reveals Province
+Titandrake - places Province on top of deck
+Vampyroteuthis - plays 2 Silver
+Vampyroteuthis - buys Taxman
+Vampyroteuthis - gains Taxman
+Vampyroteuthis - draws Silver, Silver, Taxman, Potion, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Bishop, Gold, Silver
+ 
+---------- Vampyroteuthis: turn 22 ----------
+Vampyroteuthis - plays Taxman
+Vampyroteuthis - trashes Silver
+Titandrake - discards Silver
+Vampyroteuthis - gains Gold
+Vampyroteuthis - plays 2 Silver, 1 Potion
+Vampyroteuthis - buys Vineyard
+Vampyroteuthis - gains Vineyard
+Vampyroteuthis - draws Gold, Ironworks, Ironworks, Potion, Ironworks
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Gold, Bishop, Province, Gold
+ 
+---------- Vampyroteuthis: turn 23 ----------
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bishop
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Bishop
+Vampyroteuthis - plays Ironworks
+Vampyroteuthis - gains Taxman
+Vampyroteuthis - plays 1 Gold, 1 Potion
+Vampyroteuthis - buys Vineyard
+Vampyroteuthis - gains Vineyard
+Vampyroteuthis - draws Potion, Ironworks, Baker, Vineyard, Bureaucrat
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Bishop, Gold, Silver, Province
+ 
+------------ Game Over ------------
+Vampyroteuthis - cards: 10 Ironworks, 10 Bureaucrat, 7 Taxman, 3 Bishop, 2 Chapel, 11 Silver, 1 Baker, 1 Nomad Camp, 1 Catacombs, 5 Potion, 1 Gold, 7 Vineyard
+Vampyroteuthis - victory point chips: 5
+Vampyroteuthis - total victory points: 82
+Vampyroteuthis - turns: 23
+ 
+Titandrake - cards: 1 Bishop, 2 Gold, 1 Silver, 2 Province
+Titandrake - victory point chips: 61
+Titandrake - total victory points: 73
+Titandrake - turns: 23
+ 
+1st place: Vampyroteuthis
+2nd place: Titandrake
+ 

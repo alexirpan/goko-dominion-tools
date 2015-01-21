@@ -1,0 +1,447 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Smugglers, Alchemist, Coppersmith, Spy, Baker, Cultist, Festival, Trading Post, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+moharimo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+moharimo - shuffles deck
+Titandrake - shuffles deck
+moharimo - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- moharimo: turn 1 ----------
+moharimo - plays 4 Copper
+moharimo - uses 1 coin token
+moharimo - buys Cultist
+moharimo - gains Cultist
+moharimo - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Beggar
+Titandrake - gains Beggar
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- moharimo: turn 2 ----------
+moharimo - plays 3 Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - shuffles deck
+moharimo - draws Estate, Copper, Copper, Cultist, Silver
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - shuffles deck
+Titandrake - draws Trading Post, Copper, Copper, Copper, Beggar
+ 
+---------- moharimo: turn 3 ----------
+moharimo - plays Cultist
+Titandrake - reveals reaction Beggar
+Titandrake - discards Beggar
+Titandrake - gains Silver
+Titandrake - gains Silver
+moharimo - draws Estate, Estate
+Titandrake - gains Abandoned Mine
+moharimo - plays 2 Copper, 1 Silver
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- moharimo: turn 4 ----------
+moharimo - plays 5 Copper
+moharimo - buys Cultist
+moharimo - gains Cultist
+moharimo - shuffles deck
+moharimo - draws Estate, Copper, Copper, Estate, Cultist
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Estate, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Abandoned Mine
+ 
+---------- moharimo: turn 5 ----------
+moharimo - plays Cultist
+moharimo - draws Silver, Copper
+Titandrake - gains Ruined Market
+moharimo - plays 3 Copper, 1 Silver
+moharimo - buys Cultist
+moharimo - gains Cultist
+moharimo - draws Copper, Copper, Cultist, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Abandoned Mine
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Beggar, Silver, Copper
+ 
+---------- moharimo: turn 6 ----------
+moharimo - plays Cultist
+Titandrake - reveals reaction Beggar
+Titandrake - discards Beggar
+Titandrake - gains Silver
+Titandrake - gains Silver
+moharimo - draws Silver, Estate
+Titandrake - gains Ruined Village
+moharimo - plays 4 Copper, 1 Silver
+moharimo - buys Cultist
+moharimo - gains Cultist
+moharimo - shuffles deck
+moharimo - draws Silver, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Silver, Cultist, Silver, Estate, Trading Post
+ 
+---------- moharimo: turn 7 ----------
+moharimo - plays 2 Silver, 2 Copper
+moharimo - buys Cultist
+moharimo - gains Cultist
+moharimo - draws Copper, Cultist, Cultist, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+moharimo - gains Abandoned Mine
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Cultist, Silver, Copper, Silver, Copper
+ 
+---------- moharimo: turn 8 ----------
+moharimo - plays Cultist
+moharimo - draws Copper, Cultist
+Titandrake - gains Ruined Market
+moharimo - plays Cultist
+moharimo - draws Cultist, Estate
+Titandrake - gains Ruined Market
+moharimo - plays Cultist
+moharimo - draws Copper, Copper
+Titandrake - gains Survivors
+moharimo - plays Cultist
+moharimo - shuffles deck
+moharimo - draws Abandoned Mine, Copper
+Titandrake - gains Abandoned Mine
+moharimo - plays 6 Copper
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Silver, Cultist, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cultist
+Titandrake - draws Abandoned Mine, Gold
+moharimo - gains Ruined Market
+Titandrake - plays 2 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Ruined Market, Silver, Silver
+ 
+---------- moharimo: turn 9 ----------
+moharimo - plays Cultist
+moharimo - shuffles deck
+moharimo - draws Copper, Ruined Market
+Titandrake - gains Ruined Library
+moharimo - plays 2 Silver, 2 Copper
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Cultist, Copper, Copper, Copper, Abandoned Mine
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ruined Market
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - buys Beggar
+Titandrake - gains Beggar
+Titandrake - draws Beggar, Silver, Estate, Copper, Cultist
+ 
+---------- moharimo: turn 10 ----------
+moharimo - plays Cultist
+Titandrake - reveals reaction Beggar
+Titandrake - discards Beggar
+Titandrake - gains Silver
+Titandrake - gains Silver
+moharimo - draws Copper, Cultist
+moharimo - plays Cultist
+moharimo - draws Estate, Gold
+moharimo - plays 4 Copper, 1 Gold
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Copper, Estate, Cultist, Cultist
+moharimo - shuffles deck
+moharimo - draws Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Baker
+Titandrake - gains Baker
+Titandrake - draws Copper, Ruined Village, Trading Post, Estate, Silver
+ 
+---------- moharimo: turn 11 ----------
+moharimo - plays Cultist
+moharimo - draws Abandoned Mine, Gold
+moharimo - plays Cultist
+moharimo - draws Silver, Copper
+moharimo - plays 3 Copper, 1 Gold, 1 Silver
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Copper, Gold, Estate, Ruined Market, Cultist
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Ruined Village, Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - shuffles deck
+Titandrake - draws Silver, Trading Post, Baker, Abandoned Mine, Silver
+ 
+---------- moharimo: turn 12 ----------
+moharimo - plays Cultist
+moharimo - draws Copper, Gold
+moharimo - plays 2 Copper, 2 Gold
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Cultist, Copper, Copper, Estate, Cultist
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Province, Cultist, Copper, Beggar, Festival
+ 
+---------- moharimo: turn 13 ----------
+moharimo - plays Cultist
+Titandrake - reveals reaction Beggar
+Titandrake - discards Beggar
+Titandrake - gains Silver
+Titandrake - gains Silver
+moharimo - draws Silver
+moharimo - shuffles deck
+moharimo - draws Copper
+moharimo - plays Cultist
+moharimo - draws Copper, Cultist
+moharimo - plays Cultist
+moharimo - draws Silver, Gold
+moharimo - plays 4 Copper, 2 Silver, 1 Gold
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Province, Copper, Ruined Market, Province, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Festival
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - draws Festival, Ruined Market, Silver, Ruined Library, Silver
+ 
+---------- moharimo: turn 14 ----------
+moharimo - draws Gold, Cultist, Estate, Abandoned Mine, Cultist
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Festival
+Titandrake - plays Ruined Library
+Titandrake - draws Silver
+Titandrake - plays Ruined Market
+Titandrake - plays 3 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - buys Beggar
+Titandrake - gains Beggar
+Titandrake - draws Estate, Beggar, Silver, Gold, Silver
+ 
+---------- moharimo: turn 15 ----------
+moharimo - plays Cultist
+Titandrake - reveals reaction Beggar
+Titandrake - discards Beggar
+Titandrake - gains Silver
+Titandrake - gains Silver
+moharimo - draws Gold, Copper
+moharimo - plays Cultist
+moharimo - draws Copper
+moharimo - shuffles deck
+moharimo - draws Province
+moharimo - plays 2 Gold, 2 Copper
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Estate, Gold, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Silver, Copper, Copper, Silver, Copper
+ 
+---------- moharimo: turn 16 ----------
+moharimo - plays 1 Gold, 1 Silver, 1 Copper
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Province, Copper, Ruined Market, Cultist, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Estate, Cultist, Ruined Market, Survivors, Ruined Market
+ 
+---------- moharimo: turn 17 ----------
+moharimo - plays Cultist
+moharimo - draws Silver, Cultist
+moharimo - plays Cultist
+moharimo - draws Cultist, Province
+moharimo - plays Cultist
+moharimo - draws Copper, Copper
+moharimo - plays 4 Copper, 1 Silver
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - shuffles deck
+moharimo - draws Copper, Silver, Copper, Copper, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Abandoned Mine
+Titandrake - plays Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Smugglers
+Titandrake - gains Smugglers
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Fairgrounds, Cultist, Silver
+ 
+---------- moharimo: turn 18 ----------
+moharimo - plays 3 Copper, 1 Silver
+moharimo - buys Duchy
+moharimo - gains Duchy
+moharimo - draws Province, Estate, Province, Cultist, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Estate
+Titandrake - plays 4 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Estate, Baker, Silver, Survivors, Silver
+ 
+---------- moharimo: turn 19 ----------
+moharimo - plays Cultist
+moharimo - draws Ruined Market, Gold
+moharimo - plays 1 Silver, 1 Gold
+moharimo - buys Duchy
+moharimo - gains Duchy
+moharimo - draws Copper, Gold, Gold, Copper, Cultist
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Fairgrounds
+Titandrake - plays Survivors
+Titandrake - looks at Silver, Fairgrounds
+Titandrake - discards: Silver, Fairgrounds
+Titandrake - plays 2 Silver
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - draws Silver, Beggar, Trading Post, Silver, Copper
+ 
+---------- moharimo: turn 20 ----------
+moharimo - plays 2 Copper, 2 Gold
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Abandoned Mine, Gold, Estate, Cultist, Estate
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Beggar
+Titandrake - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Fairgrounds, Ruined Library, Ruined Market, Silver, Gold
+ 
+---------- moharimo: turn 21 ----------
+moharimo - plays Cultist
+moharimo - draws Copper, Copper
+moharimo - plays 2 Copper, 1 Gold
+moharimo - buys Duchy
+moharimo - gains Duchy
+moharimo - draws Province, Cultist, Cultist, Gold
+moharimo - shuffles deck
+moharimo - draws Province
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Cultist, Ruined Market, Silver, Silver, Beggar
+ 
+---------- moharimo: turn 22 ----------
+moharimo - plays Cultist
+Titandrake - reveals reaction Beggar
+Titandrake - discards Beggar
+Titandrake - gains Silver
+Titandrake - gains Silver
+moharimo - draws Province, Estate
+moharimo - plays Cultist
+moharimo - draws Copper, Cultist
+moharimo - plays Cultist
+moharimo - draws Silver, Cultist
+moharimo - plays Cultist
+moharimo - draws Estate, Copper
+moharimo - plays 2 Copper, 1 Gold, 1 Silver
+moharimo - buys Duchy
+moharimo - gains Duchy
+moharimo - draws Abandoned Mine, Copper, Silver, Gold, Gold
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Silver
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper, Silver, Festival
+ 
+---------- moharimo: turn 23 ----------
+moharimo - plays Abandoned Mine
+moharimo - plays 2 Gold, 1 Copper, 1 Silver
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Duchy, Duchy, Copper, Copper, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Ruined Market, 2 Festival, 2 Cultist, 2 Beggar, 2 Abandoned Mine, 17 Silver, 1 Spy, 1 Baker, 1 Survivors, 1 Trading Post, 1 Ruined Library, 1 Smugglers, 4 Copper, 1 Gold, 8 Fairgrounds, 2 Estate, 2 Province, 1 Curse
+Titandrake - total victory points: 61
+Titandrake - turns: 22
+ 
+moharimo - cards: 5 Cultist, 1 Abandoned Mine, 1 Ruined Market, 7 Copper, 5 Gold, 2 Silver, 6 Province, 4 Duchy, 3 Estate
+moharimo - total victory points: 51
+moharimo - turns: 23
+ 
+1st place: Titandrake
+2nd place: moharimo
+ 

@@ -1,0 +1,521 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Apothecary, Chancellor, Feast, Pirate Ship, Graverobber, Knights, Rogue, Altar, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+icancount2one - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+icancount2one - shuffles deck
+Titandrake - shuffles deck
+icancount2one - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- icancount2one: turn 1 ----------
+icancount2one - plays 4 Copper
+icancount2one - buys Feast
+icancount2one - gains Feast
+icancount2one - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- icancount2one: turn 2 ----------
+icancount2one - plays 3 Copper
+icancount2one - buys Silver
+icancount2one - gains Silver
+icancount2one - shuffles deck
+icancount2one - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Potion, Copper, Chancellor, Copper
+ 
+---------- icancount2one: turn 3 ----------
+icancount2one - plays 2 Copper
+icancount2one - buys Vagrant
+icancount2one - gains Vagrant
+icancount2one - draws Silver, Feast, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Apothecary, Chancellor, Copper
+ 
+---------- icancount2one: turn 4 ----------
+icancount2one - plays Feast
+icancount2one - trashes Feast
+icancount2one - gains Sir Destry
+icancount2one - plays 3 Copper, 1 Silver
+icancount2one - buys Dame Anna
+icancount2one - gains Dame Anna
+icancount2one - draws Copper, Copper
+icancount2one - shuffles deck
+icancount2one - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Estate
+Titandrake - reveals: Estate, Estate, Copper, Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 5 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Chancellor, Estate, Copper, Copper
+ 
+---------- icancount2one: turn 5 ----------
+icancount2one - plays 4 Copper
+icancount2one - buys Potion
+icancount2one - gains Potion
+icancount2one - draws Dame Anna, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 3 Copper
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Apothecary, Copper
+ 
+---------- icancount2one: turn 6 ----------
+icancount2one - plays Dame Anna
+icancount2one - trashes Copper, Copper
+Titandrake - reveals: Copper, Copper
+icancount2one - plays 1 Silver, 1 Copper
+icancount2one - buys Silver
+icancount2one - gains Silver
+icancount2one - draws Estate, Vagrant, Sir Destry, Estate
+icancount2one - shuffles deck
+icancount2one - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Gold
+Titandrake - reveals: Copper, Chancellor, Copper, Potion
+Titandrake - places Chancellor on top of deck
+Titandrake - plays 5 Copper, 1 Gold, 1 Potion
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Chancellor, Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- icancount2one: turn 7 ----------
+icancount2one - plays Vagrant
+icancount2one - draws Dame Anna
+icancount2one - reveals: Silver
+icancount2one - places Silver on top of deck
+icancount2one - plays Dame Anna
+icancount2one - trashes Estate, Estate
+Titandrake - reveals: Copper, Copper
+icancount2one - plays 1 Copper
+icancount2one - draws Silver, Estate, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Copper, Potion, Copper, Copper, Copper
+ 
+---------- icancount2one: turn 8 ----------
+icancount2one - plays 2 Silver, 2 Copper
+icancount2one - buys Graverobber
+icancount2one - gains Graverobber
+icancount2one - draws Potion, Copper, Copper
+icancount2one - shuffles deck
+icancount2one - draws Silver, Graverobber
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Apothecary, Copper, Chancellor, Gold, Copper
+ 
+---------- icancount2one: turn 9 ----------
+icancount2one - plays Graverobber
+icancount2one - gains Feast
+icancount2one - plays 2 Copper, 1 Potion, 1 Silver
+icancount2one - buys Apothecary
+icancount2one - gains Apothecary
+icancount2one - draws Feast, Estate, Sir Destry, Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Estate, Estate, Estate, Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Province, Copper
+ 
+---------- icancount2one: turn 10 ----------
+icancount2one - plays Sir Destry
+icancount2one - draws Vagrant, Dame Anna
+Titandrake - reveals: Gold, Estate
+Titandrake - trashes Gold
+Titandrake - discards Estate
+icancount2one - plays 1 Copper, 1 Silver
+icancount2one - buys Silver
+icancount2one - gains Silver
+icancount2one - draws Copper, Copper
+icancount2one - shuffles deck
+icancount2one - draws Graverobber, Silver, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Province, Copper, Estate, Copper, Potion
+ 
+---------- icancount2one: turn 11 ----------
+icancount2one - plays Graverobber
+icancount2one - gains Gold
+icancount2one - plays 2 Copper, 2 Silver
+icancount2one - buys Gold
+icancount2one - gains Gold
+icancount2one - draws Gold, Silver, Estate, Copper, Vagrant
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Chancellor, Copper, Copper, Copper, Apothecary
+ 
+---------- icancount2one: turn 12 ----------
+icancount2one - plays Vagrant
+icancount2one - draws Apothecary
+icancount2one - reveals: Copper
+icancount2one - places Copper on top of deck
+icancount2one - plays Apothecary
+icancount2one - draws Copper
+icancount2one - reveals: Sir Destry, Copper, Dame Anna, Feast
+icancount2one - places Sir Destry on top of deck
+icancount2one - places Dame Anna on top of deck
+icancount2one - places Feast on top of deck
+icancount2one - plays 3 Copper, 1 Gold, 1 Silver
+icancount2one - buys Province
+icancount2one - gains Province
+icancount2one - draws Feast, Dame Anna, Sir Destry, Potion
+icancount2one - shuffles deck
+icancount2one - draws Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Vagrant
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Potion, Copper
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Vagrant
+Titandrake - reveals: Estate, Estate, Province, Province
+Titandrake - places Province on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Estate
+Titandrake - reveals: Estate
+Titandrake - places Estate in hand
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 5 Copper, 1 Potion
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Apothecary, Estate, Copper, Copper, Estate
+ 
+---------- icancount2one: turn 13 ----------
+icancount2one - plays Sir Destry
+icancount2one - draws Silver, Graverobber
+Titandrake - reveals: Chancellor, Copper
+Titandrake - trashes Chancellor
+Titandrake - discards Copper
+icancount2one - plays 1 Potion, 1 Copper, 1 Silver
+icancount2one - buys Apothecary
+icancount2one - gains Apothecary
+icancount2one - draws Apothecary, Gold, Province, Vagrant, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Estate, Apothecary, Potion, Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys Apothecary
+Titandrake - gains Apothecary
+Titandrake - draws Apothecary, Estate, Vagrant, Copper, Province
+ 
+---------- icancount2one: turn 14 ----------
+icancount2one - plays Vagrant
+icancount2one - draws Copper
+icancount2one - reveals: Copper
+icancount2one - places Copper on top of deck
+icancount2one - plays Apothecary
+icancount2one - draws Copper
+icancount2one - reveals: Estate, Silver, Silver, Gold
+icancount2one - places Estate on top of deck
+icancount2one - places Silver on top of deck
+icancount2one - places Silver on top of deck
+icancount2one - places Gold on top of deck
+icancount2one - plays 3 Copper, 1 Gold
+icancount2one - buys Harem
+icancount2one - gains Harem
+icancount2one - draws Gold, Silver, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Province
+Titandrake - reveals: Apothecary, Vagrant, Copper, Copper
+Titandrake - places Vagrant on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Apothecary
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Vagrant
+Titandrake - reveals: Gold
+Titandrake - shuffles deck
+Titandrake - reveals: Potion, Estate, Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Estate
+Titandrake - places Estate in hand
+Titandrake - plays 4 Copper, 1 Potion, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Estate, Copper, Apothecary, Copper, Copper
+ 
+---------- icancount2one: turn 15 ----------
+icancount2one - plays 2 Silver, 1 Gold, 1 Copper
+icancount2one - buys Province
+icancount2one - gains Province
+icancount2one - shuffles deck
+icancount2one - draws Copper, Province, Silver, Harem, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Copper
+Titandrake - reveals: Apothecary
+Titandrake - shuffles deck
+Titandrake - reveals: Province, Copper, Estate
+Titandrake - places Apothecary on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays 5 Copper
+Titandrake - buys Chancellor
+Titandrake - gains Chancellor
+Titandrake - draws Estate, Province, Apothecary, Copper, Apothecary
+ 
+---------- icancount2one: turn 16 ----------
+icancount2one - plays 2 Silver, 1 Harem, 1 Copper
+icancount2one - buys Dame Josephine
+icancount2one - gains Dame Josephine
+icancount2one - draws Estate, Gold, Graverobber, Copper, Apothecary
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Province
+Titandrake - reveals: Vagrant, Copper, Vagrant, Potion
+Titandrake - places Vagrant on top of deck
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Vagrant
+Titandrake - reveals: Vagrant, Gold, Copper, Harem
+Titandrake - places Gold on top of deck
+Titandrake - places Harem on top of deck
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Vagrant
+Titandrake - reveals: Harem
+Titandrake - places Harem in hand
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Estate
+Titandrake - places Estate in hand
+Titandrake - plays 3 Copper, 1 Harem, 1 Potion, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Apothecary
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Harem, Vagrant
+ 
+---------- icancount2one: turn 17 ----------
+icancount2one - plays Apothecary
+icancount2one - draws Potion
+icancount2one - reveals: Sir Destry, Dame Anna, Gold, Silver
+icancount2one - places Sir Destry on top of deck
+icancount2one - places Dame Anna on top of deck
+icancount2one - places Gold on top of deck
+icancount2one - places Silver on top of deck
+icancount2one - plays 1 Gold, 1 Copper, 1 Potion
+icancount2one - buys Apothecary
+icancount2one - gains Apothecary
+icancount2one - draws Silver, Gold, Dame Anna, Sir Destry, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Chancellor
+Titandrake - reveals: Apothecary, Province, Copper, Potion
+Titandrake - places Province on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Apothecary
+Titandrake - reveals: Province
+Titandrake - places Province in hand
+Titandrake - plays Apothecary
+Titandrake - draws Gold
+Titandrake - reveals: Copper, Copper, Apothecary, Province
+Titandrake - places Province on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 5 Copper, 1 Harem, 1 Potion, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Apothecary, Chancellor, Vagrant, Apothecary, Copper
+ 
+---------- icancount2one: turn 18 ----------
+icancount2one - plays Sir Destry
+icancount2one - draws Feast, Apothecary
+Titandrake - reveals: Harem, Potion
+Titandrake - trashes Potion
+Titandrake - discards Harem
+icancount2one - plays 1 Silver, 1 Gold, 1 Copper
+icancount2one - buys Harem
+icancount2one - gains Harem
+icancount2one - draws Copper, Province, Copper, Vagrant
+icancount2one - shuffles deck
+icancount2one - draws Apothecary
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Apothecary
+Titandrake - draws Estate
+Titandrake - reveals: Apothecary, Vagrant, Gold, Province
+Titandrake - places Gold on top of deck
+Titandrake - places Vagrant on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Apothecary
+Titandrake - reveals: Province
+Titandrake - places Province in hand
+Titandrake - plays Apothecary
+Titandrake - draws Vagrant
+Titandrake - reveals: Gold, Copper, Copper, Province
+Titandrake - places Province on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Province
+Titandrake - places Province in hand
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Copper, Province, Estate, Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Province on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Province
+Titandrake - reveals: Estate, Province, Copper, Estate
+Titandrake - places Estate on top of deck
+Titandrake - places Province on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays Chancellor
+Titandrake - moves deck to discards
+Titandrake - plays 6 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Province, Vagrant
+ 
+---------- icancount2one: turn 19 ----------
+icancount2one - plays Apothecary
+icancount2one - draws Province
+icancount2one - reveals: Apothecary, Estate, Dame Anna, Gold
+icancount2one - places Estate on top of deck
+icancount2one - places Gold on top of deck
+icancount2one - places Dame Anna on top of deck
+icancount2one - places Apothecary on top of deck
+icancount2one - plays Vagrant
+icancount2one - draws Apothecary
+icancount2one - reveals: Dame Anna
+icancount2one - places Dame Anna on top of deck
+icancount2one - plays Apothecary
+icancount2one - draws Dame Anna
+icancount2one - reveals: Gold, Estate, Harem, Gold
+icancount2one - places Gold on top of deck
+icancount2one - places Estate on top of deck
+icancount2one - places Harem on top of deck
+icancount2one - places Gold on top of deck
+icancount2one - plays Dame Anna
+Titandrake - reveals: Copper, Apothecary
+icancount2one - plays 2 Copper
+icancount2one - buys Estate
+icancount2one - gains Estate
+icancount2one - draws Gold, Harem, Estate, Gold, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Apothecary
+Titandrake - reveals: Apothecary
+Titandrake - places Apothecary on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Apothecary
+Titandrake - reveals: Copper, Copper, Estate, Province
+Titandrake - places Province on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - plays Apothecary
+Titandrake - draws Estate
+Titandrake - reveals: Province, Copper, Chancellor, Copper
+Titandrake - places Province on top of deck
+Titandrake - places Chancellor on top of deck
+Titandrake - plays 6 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Chancellor, Province, Gold, Apothecary, Estate
+ 
+---------- icancount2one: turn 20 ----------
+icancount2one - plays 2 Gold, 1 Harem, 1 Silver
+icancount2one - buys Province
+icancount2one - gains Province
+icancount2one - draws Apothecary, Harem, Potion, Sir Destry, Graverobber
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Apothecary, 2 Vagrant, 1 Chancellor, 8 Copper, 2 Harem, 1 Gold, 5 Province, 3 Estate
+Titandrake - total victory points: 37
+Titandrake - turns: 19
+ 
+icancount2one - cards: 3 Apothecary, 1 Dame Josephine, 1 Feast, 1 Sir Destry, 1 Graverobber, 1 Vagrant, 1 Dame Anna, 5 Copper, 3 Silver, 2 Harem, 2 Gold, 1 Potion, 3 Province, 2 Estate
+icancount2one - total victory points: 26
+icancount2one - turns: 20
+ 
+1st place: Titandrake
+2nd place: icancount2one
+ 

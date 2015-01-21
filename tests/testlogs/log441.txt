@@ -1,0 +1,605 @@
+------------ Game Setup ------------
+Supply cards: Doctor, Woodcutter, Herald, Young Witch, Counterfeit, Cultist, Explorer, Horn of Plenty, Inn, Margrave, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Bane card: Doctor
+Rating system: pro
+yed - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Titandrake - shuffles deck
+yed - draws Hovel, Copper, Copper, Copper, Necropolis
+Titandrake - draws Copper, Copper, Copper, Copper, Hovel
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Woodcutter
+yed - gains Woodcutter
+yed - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Copper, Necropolis, Overgrown Estate, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Young Witch
+yed - gains Young Witch
+yed - shuffles deck
+yed - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, Copper, Overgrown Estate, Copper, Hovel
+ 
+---------- yed: turn 3 ----------
+yed - plays 4 Copper
+yed - buys Doctor
+yed - overpays for Doctor with 1 coin
+yed - looks at Copper
+yed - trashes Copper
+yed - gains Doctor
+yed - draws Copper, Woodcutter, Copper, Overgrown Estate, Necropolis
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - draws Copper, Young Witch, Copper, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays Woodcutter
+yed - plays 2 Copper
+yed - buys Herald
+yed - gains Herald
+yed - draws Young Witch
+yed - shuffles deck
+yed - draws Copper, Copper, Copper, Necropolis
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+yed - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - shuffles deck
+Titandrake - draws Copper, Young Witch, Hovel, Necropolis, Cultist
+ 
+---------- yed: turn 5 ----------
+yed - plays Necropolis
+yed - plays Young Witch
+yed - draws Copper, Doctor
+yed - discards Copper
+yed - discards Copper
+Titandrake - gains Curse
+yed - plays Doctor
+yed - names Copper
+yed - reveals: Herald, Copper, Copper
+yed - trashes Copper, Copper
+yed - places Herald on top of deck
+yed - draws Herald, Overgrown Estate, Hovel, Woodcutter
+yed - shuffles deck
+yed - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+yed - gains Abandoned Mine
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Hovel
+Titandrake - discards Copper
+yed - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Copper, Overgrown Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- yed: turn 6 ----------
+yed - plays Herald
+yed - draws Doctor
+yed - reveals: Young Witch
+yed - plays Young Witch
+yed - draws Copper, Copper
+yed - discards Hovel
+yed - discards Overgrown Estate
+Titandrake - gains Curse
+yed - plays Woodcutter
+yed - plays 3 Copper
+yed - buys Cultist
+yed - gains Cultist
+yed - draws Copper, Curse, Necropolis
+yed - shuffles deck
+yed - draws Curse, Overgrown Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Cultist, Copper, Curse, Hovel, Necropolis
+ 
+---------- yed: turn 7 ----------
+yed - draws Copper, Hovel, Copper, Woodcutter, Herald
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Cultist
+Titandrake - draws Copper, Young Witch
+yed - gains Abandoned Mine
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Hovel
+Titandrake - discards Curse
+yed - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Cultist
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Cultist, Silver
+ 
+---------- yed: turn 8 ----------
+yed - plays Herald
+yed - draws Copper
+yed - reveals: Doctor
+yed - plays Doctor
+yed - names Curse
+yed - reveals: Abandoned Mine, Young Witch, Cultist
+yed - places Abandoned Mine on top of deck
+yed - places Young Witch on top of deck
+yed - places Cultist on top of deck
+yed - plays Woodcutter
+yed - plays 3 Copper
+yed - buys Inn
+yed - gains Inn
+yed - places Inn, Necropolis on top of deck
+yed - shuffles deck
+yed - draws Abandoned Mine, Necropolis, Cultist, Inn, Young Witch
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cultist
+Titandrake - draws Curse, Hovel
+yed - gains Ruined Village
+Titandrake - plays Cultist
+Titandrake - draws Counterfeit, Copper
+yed - gains Abandoned Mine
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Herald, Copper, Young Witch, Copper, Copper
+ 
+---------- yed: turn 9 ----------
+yed - plays Necropolis
+yed - plays Cultist
+yed - shuffles deck
+yed - draws Overgrown Estate, Ruined Village
+Titandrake - gains Ruined Market
+yed - plays Inn
+yed - draws Hovel, Curse
+yed - discards Overgrown Estate
+yed - discards Curse
+yed - plays Young Witch
+yed - draws Woodcutter, Abandoned Mine
+yed - discards Hovel
+yed - discards Ruined Village
+Titandrake - gains Curse
+yed - plays Woodcutter
+yed - draws Copper, Copper, Copper, Copper, Curse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Herald
+Titandrake - draws Necropolis
+Titandrake - reveals: Overgrown Estate
+Titandrake - places Overgrown Estate on top of deck
+Titandrake - plays Necropolis
+Titandrake - plays Young Witch
+Titandrake - draws Overgrown Estate, Copper
+Titandrake - discards Overgrown Estate
+Titandrake - discards Copper
+yed - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Cultist
+ 
+---------- yed: turn 10 ----------
+yed - plays 4 Copper
+yed - buys Woodcutter
+yed - gains Woodcutter
+yed - draws Herald, Curse, Doctor, Abandoned Mine
+yed - shuffles deck
+yed - draws Curse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Necropolis
+yed - gains Ruined Village
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Inn
+Titandrake - gains Inn
+Titandrake - places Inn on top of deck
+Titandrake - shuffles deck
+Titandrake - draws Inn, Counterfeit, Herald, Hovel, Copper
+ 
+---------- yed: turn 11 ----------
+yed - plays Herald
+yed - draws Copper
+yed - reveals: Copper
+yed - places Copper on top of deck
+yed - plays Doctor
+yed - names Copper
+yed - reveals: Copper, Necropolis, Young Witch
+yed - trashes Copper
+yed - places Necropolis on top of deck
+yed - places Young Witch on top of deck
+yed - draws Young Witch, Necropolis, Copper, Ruined Village, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Inn
+Titandrake - draws Silver, Copper
+Titandrake - discards Hovel
+Titandrake - discards Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 2 coins
+Titandrake - places Cultist on top of deck
+Titandrake - places Necropolis on top of deck
+Titandrake - gains Herald
+Titandrake - draws Necropolis, Cultist, Gold, Ruined Market, Young Witch
+ 
+---------- yed: turn 12 ----------
+yed - plays Necropolis
+yed - plays Young Witch
+yed - draws Abandoned Mine, Woodcutter
+yed - discards Curse
+yed - discards Abandoned Mine
+Titandrake - gains Curse
+yed - plays Woodcutter
+yed - plays Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Inn, Cultist, Copper, Hovel, Overgrown Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Cultist
+Titandrake - draws Overgrown Estate, Curse
+yed - gains Ruined Village
+Titandrake - plays Young Witch
+Titandrake - draws Curse, Cultist
+Titandrake - discards Curse
+Titandrake - discards Curse
+yed - gains Curse
+Titandrake - plays Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Inn, Cultist, Hovel
+ 
+---------- yed: turn 13 ----------
+yed - plays Inn
+yed - draws Abandoned Mine, Woodcutter
+yed - discards Hovel
+yed - discards Overgrown Estate
+yed - plays Cultist
+yed - draws Curse
+yed - shuffles deck
+yed - draws Doctor
+Titandrake - gains Ruined Library
+yed - plays Woodcutter
+yed - plays Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Abandoned Mine, Curse, Overgrown Estate, Ruined Village
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Inn
+Titandrake - draws Overgrown Estate, Ruined Market
+Titandrake - discards Hovel
+Titandrake - discards Curse
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+yed - gains Survivors
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Cultist, Herald, Young Witch, Counterfeit, Copper
+ 
+---------- yed: turn 14 ----------
+yed - plays Abandoned Mine
+yed - plays Copper
+yed - buys Copper
+yed - gains Copper
+yed - draws Ruined Village, Abandoned Mine, Woodcutter, Necropolis, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Herald
+Titandrake - draws Necropolis
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - plays Necropolis
+Titandrake - plays Cultist
+Titandrake - draws Curse, Silver
+yed - gains Ruined Market
+Titandrake - plays Young Witch
+Titandrake - draws Herald, Copper
+Titandrake - discards Curse
+Titandrake - discards Herald
+yed - gains Curse
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Doctor
+Titandrake - overpays for Doctor with 3 coins
+Titandrake - looks at Curse
+Titandrake - trashes Curse
+Titandrake - looks at Gold
+Titandrake - discards Gold
+Titandrake - looks at Silver
+Titandrake - places Silver on top of deck
+Titandrake - gains Doctor
+Titandrake - draws Silver, Copper, Curse
+Titandrake - shuffles deck
+Titandrake - draws Ruined Market, Hovel
+ 
+---------- yed: turn 15 ----------
+yed - plays Necropolis
+yed - plays Woodcutter
+yed - plays Abandoned Mine
+yed - plays 1 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - buys Copper
+yed - gains Copper
+yed - draws Herald, Hovel, Copper, Curse, Curse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ruined Market
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Estate
+Titandrake - trashes Hovel
+Titandrake - gains Estate
+Titandrake - draws Counterfeit, Overgrown Estate, Herald, Herald, Young Witch
+ 
+---------- yed: turn 16 ----------
+yed - plays Herald
+yed - draws Young Witch
+yed - reveals: Curse
+yed - places Curse on top of deck
+yed - plays Young Witch
+yed - draws Curse, Ruined Village
+yed - discards Curse
+yed - discards Curse
+yed - buys Copper
+yed - gains Copper
+yed - shuffles deck
+yed - draws Survivors, Copper, Copper, Ruined Market, Duchy
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - plays Herald
+Titandrake - draws Curse
+Titandrake - reveals: Ruined Library
+Titandrake - plays Ruined Library
+Titandrake - draws Curse
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Herald
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Inn, Necropolis, Cultist, Copper, Silver
+ 
+---------- yed: turn 17 ----------
+yed - plays Survivors
+yed - looks at Curse, Abandoned Mine
+yed - discards: Curse, Abandoned Mine
+yed - plays 2 Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Inn, Copper, Ruined Village, Necropolis, Woodcutter
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Inn
+Titandrake - draws Copper, Doctor
+Titandrake - discards Copper
+Titandrake - discards Necropolis
+Titandrake - plays Doctor
+Titandrake - names Cultist
+Titandrake - reveals: Cultist, Gold
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+Titandrake - trashes Cultist
+Titandrake - draws Curse, Necropolis, Counterfeit
+Titandrake - places Copper on top of deck
+Titandrake - places Gold on top of deck
+Titandrake - plays Necropolis
+Titandrake - plays Cultist
+Titandrake - draws Gold, Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Young Witch, Overgrown Estate, Silver, Curse, Herald
+ 
+---------- yed: turn 18 ----------
+yed - plays Inn
+yed - draws Silver, Doctor
+yed - discards Ruined Village
+yed - discards Necropolis
+yed - plays Woodcutter
+yed - plays Doctor
+yed - names Curse
+yed - reveals: Curse, Curse, Young Witch
+yed - trashes Curse, Curse
+yed - places Young Witch on top of deck
+yed - plays 1 Copper, 1 Silver
+yed - buys Inn
+yed - gains Inn
+yed - places Inn on top of deck
+yed - shuffles deck
+yed - buys Copper
+yed - gains Copper
+yed - draws Herald, Inn, Curse, Young Witch, Ruined Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Estate
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Silver
+Titandrake - reveals: Ruined Library
+Titandrake - plays Ruined Library
+Titandrake - draws Curse
+Titandrake - plays Young Witch
+Titandrake - draws Ruined Market, Duchy
+Titandrake - discards Duchy
+Titandrake - discards Overgrown Estate
+Titandrake - plays Ruined Market
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Overgrown Estate, Estate, Copper, Young Witch
+ 
+---------- yed: turn 19 ----------
+yed - plays Inn
+yed - draws Overgrown Estate, Woodcutter
+yed - discards Curse
+yed - discards Overgrown Estate
+yed - plays Herald
+yed - draws Curse
+yed - reveals: Hovel
+yed - places Hovel on top of deck
+yed - plays Young Witch
+yed - draws Hovel, Abandoned Mine
+yed - discards Ruined Village
+yed - discards Curse
+yed - plays Woodcutter
+yed - buys Estate
+yed - trashes Hovel
+yed - gains Estate
+yed - buys Copper
+yed - gains Copper
+yed - draws Silver, Ruined Village, Abandoned Mine, Copper, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Province, Inn
+Titandrake - discards Overgrown Estate
+Titandrake - discards Estate
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Doctor, Duchy, Estate, Silver, Gold
+ 
+---------- yed: turn 20 ----------
+yed - plays Abandoned Mine
+yed - plays 2 Copper, 1 Silver
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Copper, Cultist, Curse
+yed - shuffles deck
+yed - draws Curse, Abandoned Mine
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Doctor
+Titandrake - names Curse
+Titandrake - reveals: Herald, Ruined Market, Silver
+Titandrake - places Silver on top of deck
+Titandrake - places Ruined Market on top of deck
+Titandrake - places Herald on top of deck
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Herald, Ruined Market, Silver, Curse, Herald
+ 
+---------- yed: turn 21 ----------
+yed - plays Cultist
+yed - draws Duchy, Abandoned Mine
+yed - plays 1 Copper
+yed - buys Copper
+yed - gains Copper
+yed - draws Copper, Duchy, Woodcutter, Inn, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Herald
+Titandrake - draws Curse
+Titandrake - reveals: Herald
+Titandrake - plays Herald
+Titandrake - draws Cultist
+Titandrake - reveals: Ruined Library
+Titandrake - plays Ruined Library
+Titandrake - draws Silver
+Titandrake - plays Herald
+Titandrake - draws Necropolis
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - plays Cultist
+Titandrake - draws Curse, Counterfeit
+Titandrake - plays Ruined Market
+Titandrake - plays Counterfeit
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - trashes Silver
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Herald, Herald, Herald, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Herald, 1 Young Witch, 1 Inn, 1 Cultist, 1 Necropolis, 1 Doctor, 1 Ruined Market, 1 Ruined Library, 3 Silver, 2 Copper, 1 Counterfeit, 1 Gold, 6 Estate, 2 Duchy, 1 Overgrown Estate, 1 Province, 3 Curse
+Titandrake - total victory points: 15
+Titandrake - turns: 21
+ 
+yed - cards: 3 Abandoned Mine, 3 Ruined Village, 2 Woodcutter, 2 Inn, 1 Cultist, 1 Survivors, 1 Young Witch, 1 Ruined Market, 1 Doctor, 1 Necropolis, 1 Herald, 9 Copper, 2 Silver, 2 Duchy, 2 Estate, 1 Overgrown Estate, 4 Curse
+yed - total victory points: 4
+yed - turns: 21
+ 
+1st place: Titandrake
+2nd place: yed
+ 

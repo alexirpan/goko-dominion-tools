@@ -1,0 +1,482 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Chancellor, Forager, Remake, Scout, Golem, Count, Merchant Guild, Venture, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Gherald - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Gherald - shuffles deck
+Titandrake - shuffles deck
+Gherald - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Gherald: turn 1 ----------
+Gherald - plays 4 Copper
+Gherald - buys Remake
+Gherald - gains Remake
+Gherald - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Gherald: turn 2 ----------
+Gherald - plays 3 Copper
+Gherald - buys Forager
+Gherald - gains Forager
+Gherald - shuffles deck
+Gherald - draws Remake, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Gherald: turn 3 ----------
+Gherald - plays Remake
+Gherald - trashes Copper
+Gherald - trashes Copper
+Gherald - plays 2 Copper
+Gherald - buys Duchess
+Gherald - gains Duchess
+Gherald - draws Forager, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Remake, Copper, Estate, Copper, Estate
+ 
+---------- Gherald: turn 4 ----------
+Gherald - plays Forager
+Gherald - trashes Estate
+Gherald - plays 2 Copper
+Gherald - buys Silver
+Gherald - gains Silver
+Gherald - draws Estate, Copper
+Gherald - shuffles deck
+Gherald - draws Copper, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - draws Forager, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- Gherald: turn 5 ----------
+Gherald - plays 3 Copper, 1 Silver
+Gherald - buys Merchant Guild
+Gherald - gains Merchant Guild
+Gherald - draws Copper, Estate, Duchess, Copper, Remake
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Silver, Silver, Copper
+ 
+---------- Gherald: turn 6 ----------
+Gherald - plays Remake
+Gherald - trashes Estate
+Gherald - gains Silver
+Gherald - trashes Copper
+Gherald - draws Forager
+Gherald - shuffles deck
+Gherald - draws Copper, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Count
+Titandrake - gains Count
+Titandrake - draws Remake, Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- Gherald: turn 7 ----------
+Gherald - plays Forager
+Gherald - trashes Estate
+Gherald - plays 2 Copper, 1 Silver
+Gherald - buys Venture
+Gherald - gains Venture
+Gherald - draws Copper, Merchant Guild, Remake, Silver, Duchess
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Remake
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - trashes Silver
+Titandrake - gains Remake
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Copper, Silver, Copper, Count, Silver
+ 
+---------- Gherald: turn 8 ----------
+Gherald - plays Remake
+Gherald - trashes Merchant Guild
+Gherald - gains Grand Market
+Gherald - trashes Copper
+Gherald - draws Copper
+Gherald - shuffles deck
+Gherald - draws Silver, Copper, Grand Market, Forager
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Count
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - takes 3 coins
+Titandrake - plays 2 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Copper, Copper, Copper, Forager
+Titandrake - shuffles deck
+Titandrake - draws Remake
+ 
+---------- Gherald: turn 9 ----------
+Gherald - plays Grand Market
+Gherald - draws Venture
+Gherald - plays Forager
+Gherald - trashes Copper
+Gherald - plays Silver
+Gherald - buys Grand Market
+Gherald - gains Grand Market
+Gherald - draws Silver, Remake, Duchess, Copper
+Gherald - shuffles deck
+Gherald - draws Grand Market
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - draws Remake, Silver, Grand Market, Forager, Silver
+ 
+---------- Gherald: turn 10 ----------
+Gherald - plays Grand Market
+Gherald - draws Venture
+Gherald - plays Remake
+Gherald - trashes Duchess
+Gherald - gains Silver
+Gherald - trashes Copper
+Gherald - plays Silver
+Gherald - plays Venture
+Gherald - reveals Forager, Copper
+Gherald - discards Forager
+Gherald - plays Copper
+Gherald - buys Venture
+Gherald - gains Venture
+Gherald - draws Grand Market, Silver
+Gherald - shuffles deck
+Gherald - draws Venture, Forager, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Forager
+Titandrake - trashes Remake
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Count, Silver, Copper, Copper
+ 
+---------- Gherald: turn 11 ----------
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays Forager
+Gherald - trashes Copper
+Gherald - plays 2 Silver
+Gherald - plays Venture
+Gherald - reveals Grand Market, Silver
+Gherald - discards Grand Market
+Gherald - plays Silver
+Gherald - buys Grand Market
+Gherald - gains Grand Market
+Gherald - buys Potion
+Gherald - gains Potion
+Gherald - draws Venture, Remake
+Gherald - shuffles deck
+Gherald - draws Grand Market, Silver, Forager
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Count
+Titandrake - places Silver on top of deck
+Titandrake - trashes Copper, Copper, Copper
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Grand Market, Count, Silver
+ 
+---------- Gherald: turn 12 ----------
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays Remake
+Gherald - trashes Forager
+Gherald - gains Potion
+Gherald - trashes Venture
+Gherald - gains Grand Market
+Gherald - plays 2 Silver
+Gherald - buys Grand Market
+Gherald - gains Grand Market
+Gherald - draws Silver, Venture, Potion, Grand Market
+Gherald - shuffles deck
+Gherald - draws Potion
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Forager
+Titandrake - plays Forager
+Titandrake - trashes Silver
+Titandrake - plays Count
+Titandrake - gains Copper
+Titandrake - takes 3 coins
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Remake, Forager, Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Gherald: turn 13 ----------
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays 2 Silver, 2 Potion
+Gherald - plays Venture
+Gherald - reveals Grand Market, Grand Market, Grand Market, Remake, Silver
+Gherald - discards: Grand Market, Grand Market, Grand Market, Remake
+Gherald - plays Silver
+Gherald - buys Golem
+Gherald - gains Golem
+Gherald - buys Grand Market
+Gherald - gains Grand Market
+Gherald - shuffles deck
+Gherald - draws Grand Market, Remake, Grand Market, Venture, Grand Market
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Forager
+Titandrake - trashes Remake
+Titandrake - plays 2 Silver
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Grand Market, Silver, Province, Forager, Grand Market
+ 
+---------- Gherald: turn 14 ----------
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Grand Market
+Gherald - draws Golem
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Golem
+Gherald - reveals Silver, Potion, Grand Market, Potion, Silver
+Gherald - discards: Silver, Potion, Potion, Silver
+Gherald - plays Grand Market
+Gherald - shuffles deck
+Gherald - draws Silver
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays 3 Silver
+Gherald - plays Venture
+Gherald - reveals Potion
+Gherald - plays Potion
+Gherald - buys Golem
+Gherald - gains Golem
+Gherald - buys Grand Market
+Gherald - gains Grand Market
+Gherald - buys Province
+Gherald - gains Province
+Gherald - draws Potion
+Gherald - shuffles deck
+Gherald - draws Grand Market, Grand Market, Venture, Grand Market
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Grand Market
+Titandrake - draws Count
+Titandrake - plays Count
+Titandrake - places Forager on top of deck
+Titandrake - gains Duchy
+Titandrake - gains Duchess
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Forager, Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Province, Forager, Province
+ 
+---------- Gherald: turn 15 ----------
+Gherald - plays Grand Market
+Gherald - draws Golem
+Gherald - plays Golem
+Gherald - reveals Grand Market, Golem, Silver, Province, Potion, Remake
+Gherald - discards: Golem, Silver, Province, Potion
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Remake
+Gherald - trashes Potion
+Gherald - gains Duchy
+Gherald - gains Duchess
+Gherald - trashes Venture
+Gherald - gains Gold
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Grand Market
+Gherald - shuffles deck
+Gherald - draws Silver
+Gherald - plays 3 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - gains Duchess
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - draws Potion, Duchy, Gold, Duchess, Golem
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays Forager
+Titandrake - trashes Forager
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Duchy, Silver, Province, Silver, Duchess
+ 
+---------- Gherald: turn 16 ----------
+Gherald - plays Golem
+Gherald - shuffles deck
+Gherald - reveals Province, Grand Market, Golem, Grand Market
+Gherald - discards: Province, Golem
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Grand Market
+Gherald - draws Duchess
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays Duchess
+Gherald - discards Duchy
+Titandrake - places Count on top of deck
+Gherald - plays Duchess
+Gherald - places Grand Market on top of deck
+Titandrake - places Count on top of deck
+Gherald - plays 1 Potion, 1 Gold, 1 Silver
+Gherald - buys Duchy
+Gherald - gains Duchy
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Grand Market, Grand Market, Duchy, Silver, Remake
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Duchess
+Titandrake - places Count on top of deck
+Gherald - places Grand Market on top of deck
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - gains Duchess
+Titandrake - draws Count, Grand Market, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- Gherald: turn 17 ----------
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Grand Market
+Gherald - draws Duchy
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays 2 Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Grand Market, Duchy
+Gherald - shuffles deck
+Gherald - draws Grand Market, Golem, Duchy
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Province
+Titandrake - plays Count
+Titandrake - places Silver on top of deck
+Titandrake - takes 3 coins
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Silver, Forager, Duchy, Duchy
+ 
+---------- Gherald: turn 18 ----------
+Gherald - plays Grand Market
+Gherald - draws Duchy
+Gherald - plays Grand Market
+Gherald - draws Silver
+Gherald - plays Golem
+Gherald - reveals Grand Market, Duchy, Duchy, Province, Silver, Grand Market
+Gherald - discards: Duchy, Duchy, Province, Silver
+Gherald - plays Grand Market
+Gherald - draws Province
+Gherald - plays Grand Market
+Gherald - draws Grand Market
+Gherald - plays Grand Market
+Gherald - draws Estate
+Gherald - plays 1 Silver
+Gherald - buys Province
+Gherald - gains Province
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - buys Estate
+Gherald - gains Estate
+Gherald - draws Duchy, Golem, Estate, Remake, Silver
+ 
+------------ Game Over ------------
+Gherald - cards: 7 Grand Market, 2 Golem, 2 Duchess, 1 Remake, 3 Silver, 1 Potion, 1 Gold, 6 Duchy, 4 Estate, 4 Province
+Gherald - total victory points: 46
+Gherald - turns: 18
+ 
+Titandrake - cards: 3 Grand Market, 2 Duchess, 1 Forager, 1 Count, 4 Silver, 2 Copper, 4 Province, 3 Estate, 2 Duchy
+Titandrake - total victory points: 33
+Titandrake - turns: 17
+ 
+1st place: Gherald
+2nd place: Titandrake
+ 

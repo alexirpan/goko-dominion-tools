@@ -1,0 +1,405 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Sage, Steward, Philosopher's Stone, Contraband, Count, Mountebank, Soothsayer, Harem, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+SheCantSayNo - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Hovel
+Titandrake - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - draws Copper, Copper, Copper, Hovel, Overgrown Estate
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Copper, Copper, Overgrown Estate, Necropolis, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper, Overgrown Estate, Copper, Copper, Steward
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Steward
+Titandrake - trashes Overgrown Estate, Copper
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Steward, Hovel, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Soothsayer
+SheCantSayNo - gains Soothsayer
+SheCantSayNo - draws Copper, Copper, Copper, Silver, Hovel
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Hovel
+Titandrake - plays 2 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Copper, Steward, Copper, Silver
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Soothsayer
+SheCantSayNo - gains Soothsayer
+SheCantSayNo - draws Copper, Necropolis
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Soothsayer, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Steward
+Titandrake - draws Crossroads, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Copper, Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Soothsayer
+SheCantSayNo - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Mountebank
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Overgrown Estate, Hovel, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Mountebank
+SheCantSayNo - gains Curse
+SheCantSayNo - gains Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Steward, Silver, Necropolis, Copper, Crossroads
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Copper, Silver, Silver, Soothsayer
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Gold
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Steward, Silver, Necropolis, Copper
+Titandrake - plays Steward
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Harem, Copper, Steward, Copper, Mountebank
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Soothsayer
+SheCantSayNo - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Curse
+SheCantSayNo - plays 2 Silver, 1 Copper, 1 Gold
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Soothsayer, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Mountebank
+SheCantSayNo - gains Curse
+SheCantSayNo - gains Copper
+Titandrake - plays 2 Copper, 1 Harem
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Curse, Crossroads
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Soothsayer
+SheCantSayNo - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Harem
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Potion
+SheCantSayNo - gains Potion
+SheCantSayNo - draws Silver, Curse, Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Copper, 1 Harem
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Mountebank, Silver, Copper, Copper, Steward
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Overgrown Estate, Hovel, Copper, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mountebank
+SheCantSayNo - gains Curse
+SheCantSayNo - gains Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Steward, Potion, Curse, Necropolis, Harem
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Province, Curse, Copper, Potion, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Steward
+Titandrake - trashes Curse, Necropolis
+Titandrake - plays 1 Harem, 1 Potion
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Copper, Mountebank, Copper
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays 1 Copper, 1 Potion, 1 Gold
+SheCantSayNo - buys Philosopher's Stone
+SheCantSayNo - gains Philosopher's Stone
+SheCantSayNo - draws Soothsayer, Copper, Soothsayer, Silver, Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Mountebank
+SheCantSayNo - discards Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Harem, Harem, Potion, Steward, Crossroads
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Soothsayer
+SheCantSayNo - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Copper
+SheCantSayNo - plays 1 Copper, 1 Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Silver, Copper, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Harem, Harem, Potion, Steward, Copper
+Titandrake - draws Silver, Steward
+Titandrake - plays Steward
+Titandrake - draws Copper, Crossroads
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Silver, Steward, Harem, Harem, Potion, Copper, Copper
+Titandrake - draws Curse, Harem
+Titandrake - plays Steward
+Titandrake - trashes Curse, Copper
+Titandrake - plays 3 Harem, 1 Silver, 1 Potion, 1 Copper
+Titandrake - buys Possession
+Titandrake - gains Possession
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Sage, Steward, Copper
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays 3 Copper, 2 Silver
+SheCantSayNo - buys Harem
+SheCantSayNo - gains Harem
+SheCantSayNo - draws Gold, Silver, Copper, Silver, Necropolis
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Harem
+Titandrake - places Harem in hand
+Titandrake - discards Copper
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Copper, 1 Harem, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Harem, Possession, Silver, Harem, Crossroads
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 2 Silver, 1 Gold, 1 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Gold
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Soothsayer, Province, Necropolis, Overgrown Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Harem, Possession, Silver, Harem
+Titandrake - draws Crossroads, Curse
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Curse, Harem, Possession, Silver, Harem
+Titandrake - draws Steward, Potion
+Titandrake - plays Possession
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 2 Harem, 1 Potion, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Mountebank, Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Crossroads
+ 
+---------- SheCantSayNo: turn 15 [possessed] ----------
+SheCantSayNo - plays Soothsayer
+Titandrake - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Possession
+SheCantSayNo - plays Gold
+SheCantSayNo - buys Estate
+Titandrake - gains Estate
+SheCantSayNo - draws Harem, Copper, Copper, Hovel, Curse
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays 2 Copper, 1 Harem
+SheCantSayNo - buys Estate
+SheCantSayNo - trashes Hovel
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Gold, Copper, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Mountebank, Curse, Copper, Copper, Possession
+Titandrake - plays Mountebank
+SheCantSayNo - gains Curse
+SheCantSayNo - gains Copper
+Titandrake - plays Possession
+Titandrake - plays 2 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Harem, Copper, Province, Curse, Steward
+ 
+---------- SheCantSayNo: turn 16 [possessed] ----------
+SheCantSayNo - plays 2 Copper, 2 Silver, 1 Gold
+SheCantSayNo - buys Province
+Titandrake - gains Province
+SheCantSayNo - draws Copper, Gold, Curse, Copper, Silver
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays 2 Copper, 1 Gold, 1 Silver
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Gold, Silver, Silver, Soothsayer, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 1 Harem, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Harem, Sage, Copper, Potion
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Soothsayer
+SheCantSayNo - gains Gold
+Titandrake - gains Curse
+Titandrake - draws Harem
+SheCantSayNo - plays 2 Silver, 1 Gold, 1 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Silver, Copper, Copper, Province, Philosopher's Stone
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 2 Harem, 1 Copper, 1 Potion, 1 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Steward, Silver, Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Harem
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays 2 Copper, 1 Silver
+SheCantSayNo - plays Philosopher's Stone
+SheCantSayNo - has 30 cards in discards
+SheCantSayNo - receives 6 coins
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Potion, Silver, Curse, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Steward, Silver, Duchy, Harem
+Titandrake - draws Possession, Province
+Titandrake - plays Steward
+Titandrake - draws Curse, Curse
+Titandrake - plays Possession
+Titandrake - plays 1 Harem, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Potion, Curse, Mountebank, Harem
+ 
+---------- SheCantSayNo: turn 19 [possessed] ----------
+SheCantSayNo - plays 2 Copper, 1 Potion, 1 Silver
+SheCantSayNo - buys Estate
+Titandrake - gains Estate
+SheCantSayNo - draws Curse, Province, Province, Estate, Gold
+ 
+---------- SheCantSayNo: turn 19 ----------
+SheCantSayNo - plays 1 Gold
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Gold, Province, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Mountebank
+SheCantSayNo - gains Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Crossroads, Steward, Copper, Province
+ 
+---------- SheCantSayNo: turn 20 ----------
+SheCantSayNo - plays 2 Silver, 1 Gold, 1 Copper
+SheCantSayNo - buys Province
+SheCantSayNo - gains Province
+SheCantSayNo - draws Silver, Copper, Copper, Gold, Silver
+ 
+------------ Game Over ------------
+SheCantSayNo - cards: 2 Soothsayer, 12 Copper, 1 Necropolis, 7 Silver, 5 Gold, 1 Harem, 1 Potion, 1 Philosopher's Stone, 5 Province, 2 Estate, 1 Duchy, 1 Overgrown Estate, 4 Curse
+SheCantSayNo - total victory points: 33
+SheCantSayNo - turns: 20
+ 
+Titandrake - cards: 2 Crossroads, 2 Steward, 2 Sage, 1 Possession, 1 Mountebank, 4 Harem, 4 Copper, 2 Silver, 1 Potion, 1 Gold, 4 Estate, 3 Province, 1 Duchy, 4 Curse
+Titandrake - total victory points: 29
+Titandrake - turns: 20
+ 
+1st place: SheCantSayNo
+2nd place: Titandrake
+ 

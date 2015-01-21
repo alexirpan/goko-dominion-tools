@@ -1,0 +1,606 @@
+------------ Game Setup ------------
+Supply cards: Secret Chamber, Fortune Teller, Masterpiece, Storeroom, Bureaucrat, Salvager, Wandering Minstrel, Stables, Adventurer, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Wolfhere - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Wolfhere - shuffles deck
+Titandrake - shuffles deck
+Wolfhere - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Wolfhere: turn 1 ----------
+Wolfhere - plays 4 Copper
+Wolfhere - buys Salvager
+Wolfhere - gains Salvager
+Wolfhere - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Salvager, Copper
+ 
+---------- Wolfhere: turn 2 ----------
+Wolfhere - plays 3 Copper
+Wolfhere - buys Fortune Teller
+Wolfhere - gains Fortune Teller
+Wolfhere - shuffles deck
+Wolfhere - draws Salvager, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Wolfhere: turn 3 ----------
+Wolfhere - plays Salvager
+Wolfhere - trashes Estate
+Wolfhere - plays 3 Copper
+Wolfhere - buys Stables
+Wolfhere - gains Stables
+Wolfhere - draws Copper, Estate, Copper, Copper, Fortune Teller
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Storeroom
+Titandrake - gains Storeroom
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- Wolfhere: turn 4 ----------
+Wolfhere - plays Fortune Teller
+Titandrake - reveals Wandering Minstrel, Copper, Estate
+Titandrake - discards: Wandering Minstrel, Copper
+Wolfhere - plays 3 Copper
+Wolfhere - buys Stables
+Wolfhere - gains Stables
+Wolfhere - draws Estate, Copper
+Wolfhere - shuffles deck
+Wolfhere - draws Stables, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Stables
+Titandrake - gains Stables
+Titandrake - draws Estate, Copper, Storeroom, Copper, Salvager
+ 
+---------- Wolfhere: turn 5 ----------
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Copper, Copper, Copper
+Wolfhere - plays 5 Copper
+Wolfhere - buys Masterpiece
+Wolfhere - overpays for Masterpiece with 2 coins
+Wolfhere - gains Silver
+Wolfhere - gains Silver
+Wolfhere - gains Masterpiece
+Wolfhere - draws Stables, Salvager, Fortune Teller, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Salvager, Storeroom, Silver
+ 
+---------- Wolfhere: turn 6 ----------
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - shuffles deck
+Wolfhere - draws Copper, Stables, Copper
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Copper, Masterpiece, Estate
+Wolfhere - plays Salvager
+Wolfhere - trashes Estate
+Wolfhere - plays 2 Copper, 1 Masterpiece
+Wolfhere - buys Wandering Minstrel
+Wolfhere - gains Wandering Minstrel
+Wolfhere - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Storeroom
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Copper, Stables, Estate, Copper
+ 
+---------- Wolfhere: turn 7 ----------
+Wolfhere - plays 4 Copper, 1 Silver
+Wolfhere - buys Nobles
+Wolfhere - gains Nobles
+Wolfhere - draws Silver
+Wolfhere - shuffles deck
+Wolfhere - draws Estate, Copper, Copper, Nobles
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Wandering Minstrel, Wandering Minstrel
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Salvager, Copper, Silver
+Titandrake - places Salvager on top of deck
+Titandrake - discards: Copper, Silver
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Salvager
+Titandrake - reveals: Nobles, Copper, Copper
+Titandrake - places Nobles on top of deck
+Titandrake - discards: Copper, Copper
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Nobles
+Titandrake - shuffles deck
+Titandrake - draws Wandering Minstrel, Salvager, Copper, Silver
+ 
+---------- Wolfhere: turn 8 ----------
+Wolfhere - plays Nobles
+Wolfhere - draws Copper, Stables, Fortune Teller
+Wolfhere - plays 3 Copper, 1 Silver
+Wolfhere - buys Wandering Minstrel
+Wolfhere - gains Wandering Minstrel
+Wolfhere - draws Silver, Wandering Minstrel, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - reveals: Gold, Copper, Copper
+Titandrake - discards: Gold, Copper, Copper
+Titandrake - plays Nobles
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Wandering Minstrel, Stables
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper
+ 
+---------- Wolfhere: turn 9 ----------
+Wolfhere - plays Wandering Minstrel
+Wolfhere - draws Copper
+Wolfhere - reveals: Stables, Masterpiece, Salvager
+Wolfhere - places Salvager on top of deck
+Wolfhere - places Stables on top of deck
+Wolfhere - discards Masterpiece
+Wolfhere - plays 4 Copper, 1 Silver
+Wolfhere - buys Nobles
+Wolfhere - gains Nobles
+Wolfhere - draws Stables, Salvager
+Wolfhere - shuffles deck
+Wolfhere - draws Masterpiece, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Salvager
+Titandrake - reveals: Gold, Wandering Minstrel, Nobles
+Titandrake - places Nobles on top of deck
+Titandrake - places Wandering Minstrel on top of deck
+Titandrake - discards Gold
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Wandering Minstrel, Nobles, Copper
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - reveals: Copper, Copper, Nobles
+Titandrake - places Nobles on top of deck
+Titandrake - discards: Copper, Copper
+Titandrake - plays Nobles
+Titandrake - draws Nobles
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - plays Nobles
+Titandrake - draws Gold, Copper
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays 6 Copper, 1 Gold
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Stables, Nobles, Copper, Copper
+ 
+---------- Wolfhere: turn 10 ----------
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Copper, Copper, Wandering Minstrel
+Wolfhere - plays Wandering Minstrel
+Wolfhere - draws Fortune Teller
+Wolfhere - reveals: Wandering Minstrel, Silver, Estate
+Wolfhere - places Wandering Minstrel on top of deck
+Wolfhere - discards: Silver, Estate
+Wolfhere - plays Fortune Teller
+Titandrake - reveals Copper, Nobles
+Titandrake - discards Copper
+Wolfhere - plays Salvager
+Wolfhere - trashes Masterpiece
+Wolfhere - plays 3 Copper
+Wolfhere - buys Nobles
+Wolfhere - gains Nobles
+Wolfhere - buys Secret Chamber
+Wolfhere - gains Secret Chamber
+Wolfhere - draws Wandering Minstrel, Copper, Nobles, Stables, Nobles
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Nobles, Wandering Minstrel, Copper
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Wandering Minstrel
+Titandrake - reveals: Salvager, Copper, Gold
+Titandrake - places Salvager on top of deck
+Titandrake - discards: Copper, Gold
+Titandrake - plays Nobles
+Titandrake - draws Salvager, Copper, Nobles
+Titandrake - plays Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - reveals: Copper, Copper, Copper
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - plays Nobles
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - plays 5 Copper, 1 Gold
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - buys Secret Chamber
+Titandrake - gains Secret Chamber
+Titandrake - shuffles deck
+Titandrake - draws Copper, Stables, Nobles, Copper, Nobles
+ 
+---------- Wolfhere: turn 11 ----------
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Silver, Copper, Copper
+Wolfhere - plays Wandering Minstrel
+Wolfhere - shuffles deck
+Wolfhere - draws Silver
+Wolfhere - reveals: Wandering Minstrel, Copper, Secret Chamber
+Wolfhere - places Secret Chamber on top of deck
+Wolfhere - places Wandering Minstrel on top of deck
+Wolfhere - discards Copper
+Wolfhere - plays Nobles
+Wolfhere - draws Wandering Minstrel, Secret Chamber, Stables
+Wolfhere - plays Wandering Minstrel
+Wolfhere - draws Salvager
+Wolfhere - reveals: Copper, Copper, Nobles
+Wolfhere - places Nobles on top of deck
+Wolfhere - discards: Copper, Copper
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Nobles, Estate, Copper
+Wolfhere - plays Nobles
+Wolfhere - draws Fortune Teller, Copper
+Wolfhere - shuffles deck
+Wolfhere - draws Copper
+Wolfhere - plays Nobles
+Wolfhere - takes 2 actions
+Wolfhere - plays Salvager
+Wolfhere - trashes Estate
+Wolfhere - plays Fortune Teller
+Titandrake - reveals Nobles
+Wolfhere - plays 4 Copper, 2 Silver
+Wolfhere - buys Gold
+Wolfhere - gains Gold
+Wolfhere - buys Gold
+Wolfhere - gains Gold
+Wolfhere - draws Copper, Copper, Copper
+Wolfhere - shuffles deck
+Wolfhere - draws Nobles, Secret Chamber
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Nobles, Wandering Minstrel, Secret Chamber
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - reveals: Wandering Minstrel, Nobles, Nobles
+Titandrake - places Nobles on top of deck
+Titandrake - places Nobles on top of deck
+Titandrake - places Wandering Minstrel on top of deck
+Titandrake - plays Nobles
+Titandrake - draws Wandering Minstrel, Nobles, Nobles
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Copper
+Titandrake - reveals: Copper, Gold, Salvager
+Titandrake - places Salvager on top of deck
+Titandrake - discards: Copper, Gold
+Titandrake - plays Nobles
+Titandrake - draws Salvager
+Titandrake - shuffles deck
+Titandrake - draws Gold, Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Secret Chamber
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - buys Masterpiece
+Titandrake - overpays for Masterpiece with 3 coins
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Masterpiece
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Wandering Minstrel, Silver, Copper, Nobles
+ 
+---------- Wolfhere: turn 12 ----------
+Wolfhere - plays Nobles
+Wolfhere - draws Wandering Minstrel, Silver, Stables
+Wolfhere - plays 3 Copper, 1 Silver
+Wolfhere - buys Stables
+Wolfhere - gains Stables
+Wolfhere - draws Copper, Copper, Salvager, Stables, Nobles
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Nobles
+Titandrake - reveals: Copper, Wandering Minstrel, Silver
+Titandrake - places Wandering Minstrel on top of deck
+Titandrake - discards: Copper, Silver
+Titandrake - plays Nobles
+Titandrake - draws Wandering Minstrel, Salvager, Stables
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Nobles
+Titandrake - reveals: Masterpiece, Copper, Nobles
+Titandrake - places Nobles on top of deck
+Titandrake - discards: Masterpiece, Copper
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Nobles, Silver, Copper
+Titandrake - plays Nobles
+Titandrake - draws Silver, Gold, Secret Chamber
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - shuffles deck
+Titandrake - draws Masterpiece, Copper, Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Salvager
+Titandrake - trashes Masterpiece
+Titandrake - plays 3 Silver, 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Nobles, Gold
+ 
+---------- Wolfhere: turn 13 ----------
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Copper, Fortune Teller, Gold
+Wolfhere - plays Nobles
+Wolfhere - takes 2 actions
+Wolfhere - plays Salvager
+Wolfhere - trashes Copper
+Wolfhere - plays Fortune Teller
+Titandrake - reveals Silver, Nobles
+Titandrake - discards Silver
+Wolfhere - plays 1 Copper, 1 Gold
+Wolfhere - buys Gold
+Wolfhere - gains Gold
+Wolfhere - draws Copper, Nobles, Gold, Silver, Wandering Minstrel
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Copper, Province
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Salvager, Nobles, Nobles, Silver, Silver
+ 
+---------- Wolfhere: turn 14 ----------
+Wolfhere - plays Wandering Minstrel
+Wolfhere - shuffles deck
+Wolfhere - draws Secret Chamber
+Wolfhere - reveals: Fortune Teller, Stables, Salvager
+Wolfhere - places Salvager on top of deck
+Wolfhere - places Stables on top of deck
+Wolfhere - places Fortune Teller on top of deck
+Wolfhere - plays Nobles
+Wolfhere - draws Fortune Teller, Stables, Salvager
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Copper, Stables, Copper
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Stables, Copper, Nobles
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Nobles, Wandering Minstrel, Silver
+Wolfhere - plays Wandering Minstrel
+Wolfhere - draws Gold
+Wolfhere - reveals: Copper, Gold, Copper
+Wolfhere - discards: Copper, Gold, Copper
+Wolfhere - plays Nobles
+Wolfhere - shuffles deck
+Wolfhere - draws Gold, Copper, Copper
+Wolfhere - plays Nobles
+Wolfhere - takes 2 actions
+Wolfhere - plays Salvager
+Wolfhere - trashes Copper
+Wolfhere - plays Fortune Teller
+Titandrake - reveals Wandering Minstrel, Wandering Minstrel, Stables, Nobles
+Titandrake - discards: Wandering Minstrel, Wandering Minstrel, Stables
+Wolfhere - plays 3 Gold, 2 Silver, 2 Copper
+Wolfhere - buys Province
+Wolfhere - gains Province
+Wolfhere - buys Province
+Wolfhere - gains Province
+Wolfhere - draws Copper, Copper, Copper
+Wolfhere - shuffles deck
+Wolfhere - draws Province, Stables
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Copper, Secret Chamber
+Titandrake - plays Salvager
+Titandrake - trashes Secret Chamber
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Nobles, Nobles
+ 
+---------- Wolfhere: turn 15 ----------
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Gold, Wandering Minstrel, Salvager
+Wolfhere - plays Wandering Minstrel
+Wolfhere - draws Secret Chamber
+Wolfhere - reveals: Fortune Teller, Silver, Province
+Wolfhere - places Fortune Teller on top of deck
+Wolfhere - discards: Silver, Province
+Wolfhere - plays Salvager
+Wolfhere - trashes Secret Chamber
+Wolfhere - plays 2 Copper, 1 Gold
+Wolfhere - buys Duchy
+Wolfhere - gains Duchy
+Wolfhere - buys Estate
+Wolfhere - gains Estate
+Wolfhere - draws Fortune Teller, Copper, Gold, Nobles, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Copper, Duchy, Nobles
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Wandering Minstrel, Copper, Copper, Silver
+ 
+---------- Wolfhere: turn 16 ----------
+Wolfhere - plays Fortune Teller
+Titandrake - reveals Stables, Gold, Salvager, Nobles
+Titandrake - discards: Stables, Gold, Salvager
+Wolfhere - plays 1 Copper, 1 Gold, 1 Silver
+Wolfhere - buys Province
+Wolfhere - gains Province
+Wolfhere - draws Gold, Copper, Stables, Stables, Nobles
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Nobles
+Titandrake - reveals: Silver, Wandering Minstrel, Copper
+Titandrake - places Wandering Minstrel on top of deck
+Titandrake - discards: Silver, Copper
+Titandrake - plays Nobles
+Titandrake - draws Wandering Minstrel, Province, Estate
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Nobles
+Titandrake - shuffles deck
+Titandrake - reveals: Gold, Province, Nobles
+Titandrake - places Nobles on top of deck
+Titandrake - discards: Gold, Province
+Titandrake - plays Nobles
+Titandrake - draws Nobles, Silver, Gold
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Duchy, Copper, Stables, Salvager, Silver
+ 
+---------- Wolfhere: turn 17 ----------
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Wandering Minstrel, Nobles
+Wolfhere - shuffles deck
+Wolfhere - draws Gold
+Wolfhere - plays Wandering Minstrel
+Wolfhere - draws Silver
+Wolfhere - reveals: Stables, Province, Wandering Minstrel
+Wolfhere - places Wandering Minstrel on top of deck
+Wolfhere - places Stables on top of deck
+Wolfhere - discards Province
+Wolfhere - plays Nobles
+Wolfhere - draws Stables, Wandering Minstrel, Province
+Wolfhere - plays Wandering Minstrel
+Wolfhere - draws Salvager
+Wolfhere - reveals: Gold, Copper, Duchy
+Wolfhere - discards: Gold, Copper, Duchy
+Wolfhere - plays Nobles
+Wolfhere - draws Copper, Estate, Silver
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Copper, Copper, Copper
+Wolfhere - plays Stables
+Wolfhere - discards Copper
+Wolfhere - draws Fortune Teller, Nobles, Province
+Wolfhere - plays Nobles
+Wolfhere - takes 2 actions
+Wolfhere - plays Fortune Teller
+Titandrake - reveals Silver, Nobles
+Titandrake - discards Silver
+Wolfhere - plays Salvager
+Wolfhere - trashes Copper
+Wolfhere - plays 2 Gold, 2 Silver, 1 Copper
+Wolfhere - buys Duchy
+Wolfhere - gains Duchy
+Wolfhere - buys Duchy
+Wolfhere - gains Duchy
+Wolfhere - shuffles deck
+Wolfhere - draws Gold, Duchy, Nobles, Duchy, Wandering Minstrel
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Stables
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Nobles, Nobles, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Nobles, 2 Wandering Minstrel, 1 Salvager, 4 Copper, 4 Silver, 2 Gold, 5 Province, 1 Estate, 1 Duchy
+Titandrake - total victory points: 44
+Titandrake - turns: 18
+ 
+Wolfhere - cards: 3 Nobles, 3 Stables, 2 Wandering Minstrel, 1 Salvager, 1 Fortune Teller, 4 Copper, 3 Gold, 2 Silver, 3 Duchy, 3 Province, 1 Estate
+Wolfhere - total victory points: 34
+Wolfhere - turns: 17
+ 
+1st place: Titandrake
+2nd place: Wolfhere
+ 

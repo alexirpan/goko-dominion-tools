@@ -1,0 +1,633 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Sage, Cutpurse, Quarry, Cartographer, Graverobber, Saboteur, Altar, Grand Market, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Perna - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Perna - shuffles deck
+Titandrake - shuffles deck
+Perna - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Perna: turn 1 ----------
+Perna - plays 3 Copper
+Perna - buys Silver
+Perna - gains Silver
+Perna - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Perna: turn 2 ----------
+Perna - plays 4 Copper
+Perna - buys Cutpurse
+Perna - gains Cutpurse
+Perna - shuffles deck
+Perna - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Sage
+ 
+---------- Perna: turn 3 ----------
+Perna - plays 3 Copper, 1 Silver
+Perna - buys Cartographer
+Perna - gains Cartographer
+Perna - draws Cutpurse, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Quarry
+Titandrake - places Quarry in hand
+Titandrake - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Perna: turn 4 ----------
+Perna - plays Cutpurse
+Titandrake - discards Copper
+Perna - plays 3 Copper
+Perna - buys Cartographer
+Perna - gains Cartographer
+Perna - draws Estate, Copper
+Perna - shuffles deck
+Perna - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Quarry, Copper, Cartographer, Copper, Copper
+ 
+---------- Perna: turn 5 ----------
+Perna - plays 3 Copper
+Perna - buys Sage
+Perna - gains Sage
+Perna - draws Copper, Copper, Silver, Cutpurse, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Sage
+Titandrake - looks at Copper, Copper, Estate, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Quarry
+Titandrake - plays Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Quarry
+ 
+---------- Perna: turn 6 ----------
+Perna - plays Cutpurse
+Titandrake - discards Copper
+Perna - plays 2 Copper, 1 Silver
+Perna - buys Altar
+Perna - gains Altar
+Perna - draws Cartographer, Copper, Copper, Cartographer
+Perna - shuffles deck
+Perna - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Estate, Cartographer, Copper, Copper, Copper
+ 
+---------- Perna: turn 7 ----------
+Perna - plays Cartographer
+Perna - draws Altar
+Perna - looks at Silver, Estate, Copper, Estate
+Perna - discards Estate
+Perna - discards Copper
+Perna - discards Estate
+Perna - places Silver on top of deck
+Perna - plays Cartographer
+Perna - draws Silver
+Perna - looks at Copper, Estate, Copper, Copper
+Perna - discards Estate
+Perna - discards Copper
+Perna - discards Copper
+Perna - discards Copper
+Perna - plays Altar
+Perna - trashes Copper
+Perna - gains Cartographer
+Perna - plays 2 Copper, 1 Silver
+Perna - buys Quarry
+Perna - gains Quarry
+Perna - draws Cutpurse, Sage
+Perna - shuffles deck
+Perna - draws Copper, Altar, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Sage
+Titandrake - looks at Estate, Silver, Quarry, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - places Quarry on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Quarry
+Titandrake - shuffles deck
+Titandrake - draws Quarry, Copper, Sage, Cartographer
+ 
+---------- Perna: turn 8 ----------
+Perna - plays Sage
+Perna - reveals Cartographer
+Perna - places Cartographer in hand
+Perna - plays Cartographer
+Perna - draws Quarry
+Perna - looks at Cartographer, Copper, Estate, Estate
+Perna - discards Estate
+Perna - discards Estate
+Perna - discards Copper
+Perna - places Cartographer on top of deck
+Perna - plays Cutpurse
+Titandrake - discards Copper
+Perna - plays 2 Copper
+Perna - plays Quarry
+Perna - buys Expand
+Perna - gains Expand
+Perna - draws Cartographer, Silver, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Estate, Copper, Cartographer
+Titandrake - places Cartographer in hand
+Titandrake - discards: Copper, Estate, Copper
+Titandrake - plays Cartographer
+Titandrake - draws Copper
+Titandrake - looks at Copper, Silver, Estate, Quarry
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - places Quarry on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Silver
+Titandrake - looks at Quarry, Copper, Estate, Copper
+Titandrake - discards Quarry
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Estate, Grand Market, Copper, Copper, Quarry
+ 
+---------- Perna: turn 9 ----------
+Perna - plays Cartographer
+Perna - draws Cartographer
+Perna - looks at Copper
+Perna - shuffles deck
+Perna - looks at Estate, Estate, Altar
+Perna - discards Estate
+Perna - discards Estate
+Perna - discards Copper
+Perna - places Altar on top of deck
+Perna - plays Cartographer
+Perna - draws Altar
+Perna - looks at Sage, Copper, Quarry, Cutpurse
+Perna - discards Copper
+Perna - places Quarry on top of deck
+Perna - places Sage on top of deck
+Perna - places Cutpurse on top of deck
+Perna - plays Altar
+Perna - trashes Estate
+Perna - gains Cartographer
+Perna - plays 2 Copper, 1 Silver
+Perna - buys Quarry
+Perna - gains Quarry
+Perna - draws Cutpurse, Sage, Quarry, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Quarry
+Titandrake - plays 3 Copper
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Quarry, Copper, Cartographer, Estate
+ 
+---------- Perna: turn 10 ----------
+Perna - plays Sage
+Perna - reveals Cartographer
+Perna - places Cartographer in hand
+Perna - plays Cartographer
+Perna - draws Expand
+Perna - shuffles deck
+Perna - looks at Copper, Cartographer, Copper, Estate
+Perna - discards Copper
+Perna - discards Estate
+Perna - discards Copper
+Perna - places Cartographer on top of deck
+Perna - plays Expand
+Perna - trashes Cutpurse
+Perna - gains Grand Market
+Perna - plays 2 Copper
+Perna - plays Quarry
+Perna - buys Cartographer
+Perna - gains Cartographer
+Perna - draws Cartographer, Silver, Copper, Cartographer, Altar
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Sage
+Titandrake - looks at Quarry, Copper, Estate, Copper
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - places Quarry on top of deck
+Titandrake - plays Sage
+Titandrake - reveals Quarry
+Titandrake - places Quarry in hand
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Cartographer, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Quarry
+ 
+---------- Perna: turn 11 ----------
+Perna - plays Cartographer
+Perna - draws Estate
+Perna - looks at Cartographer, Quarry, Copper
+Perna - shuffles deck
+Perna - looks at Copper
+Perna - discards Copper
+Perna - discards Copper
+Perna - places Quarry on top of deck
+Perna - places Cartographer on top of deck
+Perna - plays Cartographer
+Perna - draws Cartographer
+Perna - looks at Quarry, Grand Market, Sage, Estate
+Perna - discards Estate
+Perna - places Quarry on top of deck
+Perna - places Sage on top of deck
+Perna - places Grand Market on top of deck
+Perna - plays Cartographer
+Perna - draws Grand Market
+Perna - looks at Sage, Quarry, Cartographer, Cartographer
+Perna - places Quarry on top of deck
+Perna - places Cartographer on top of deck
+Perna - places Cartographer on top of deck
+Perna - places Sage on top of deck
+Perna - plays Grand Market
+Perna - draws Sage
+Perna - plays Sage
+Perna - reveals Cartographer
+Perna - places Cartographer in hand
+Perna - plays Cartographer
+Perna - draws Cartographer
+Perna - looks at Quarry, Copper, Copper, Expand
+Perna - discards Copper
+Perna - discards Copper
+Perna - discards Expand
+Perna - places Quarry on top of deck
+Perna - plays Cartographer
+Perna - draws Quarry
+Perna - looks at Quarry, Copper
+Perna - shuffles deck
+Perna - looks at Copper, Copper
+Perna - discards Copper
+Perna - discards Copper
+Perna - discards Copper
+Perna - places Quarry on top of deck
+Perna - plays Altar
+Perna - trashes Estate
+Perna - gains Cartographer
+Perna - plays 1 Silver
+Perna - plays Quarry
+Perna - buys Grand Market
+Perna - gains Grand Market
+Perna - buys Sage
+Perna - gains Sage
+Perna - draws Quarry, Copper, Copper, Expand, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Cartographer
+Titandrake - draws Grand Market
+Titandrake - looks at Altar, Cartographer, Grand Market, Copper
+Titandrake - discards Copper
+Titandrake - places Altar on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Altar
+Titandrake - looks at Copper, Sage, Estate, Quarry
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - places Quarry on top of deck
+Titandrake - places Sage on top of deck
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Cartographer
+Titandrake - plays Quarry
+Titandrake - plays Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - draws Sage, Quarry, Copper, Estate, Copper
+ 
+---------- Perna: turn 12 ----------
+Perna - plays Expand
+Perna - trashes Estate
+Perna - gains Graverobber
+Perna - plays 2 Copper
+Perna - plays Quarry
+Perna - buys Graverobber
+Perna - gains Graverobber
+Perna - shuffles deck
+Perna - draws Quarry, Copper, Expand, Cartographer, Cartographer
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - reveals Quarry
+Titandrake - places Quarry in hand
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Sage, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Sage, Cartographer
+ 
+---------- Perna: turn 13 ----------
+Perna - plays Cartographer
+Perna - draws Silver
+Perna - looks at Cartographer, Sage, Altar, Copper
+Perna - discards Altar
+Perna - discards Copper
+Perna - places Sage on top of deck
+Perna - places Cartographer on top of deck
+Perna - plays Cartographer
+Perna - draws Cartographer
+Perna - looks at Sage, Copper, Cartographer, Grand Market
+Perna - discards Copper
+Perna - places Cartographer on top of deck
+Perna - places Grand Market on top of deck
+Perna - places Sage on top of deck
+Perna - plays Cartographer
+Perna - draws Sage
+Perna - looks at Grand Market, Cartographer, Cartographer, Graverobber
+Perna - discards Graverobber
+Perna - places Cartographer on top of deck
+Perna - places Cartographer on top of deck
+Perna - places Grand Market on top of deck
+Perna - plays Sage
+Perna - reveals Grand Market
+Perna - places Grand Market in hand
+Perna - plays Grand Market
+Perna - draws Cartographer
+Perna - plays Cartographer
+Perna - draws Cartographer
+Perna - looks at Copper, Copper, Copper, Cartographer
+Perna - discards Copper
+Perna - discards Copper
+Perna - discards Copper
+Perna - places Cartographer on top of deck
+Perna - plays Cartographer
+Perna - draws Cartographer
+Perna - looks at Sage, Quarry, Graverobber, Grand Market
+Perna - discards Graverobber
+Perna - places Quarry on top of deck
+Perna - places Sage on top of deck
+Perna - places Grand Market on top of deck
+Perna - plays Cartographer
+Perna - draws Grand Market
+Perna - looks at Sage, Quarry
+Perna - shuffles deck
+Perna - looks at Copper, Altar
+Perna - discards Copper
+Perna - discards Altar
+Perna - places Quarry on top of deck
+Perna - places Sage on top of deck
+Perna - plays Grand Market
+Perna - draws Sage
+Perna - plays Sage
+Perna - reveals Quarry
+Perna - places Quarry in hand
+Perna - plays Expand
+Perna - trashes Copper
+Perna - gains Sage
+Perna - plays 1 Silver
+Perna - plays Quarry
+Perna - plays Quarry
+Perna - buys Grand Market
+Perna - gains Grand Market
+Perna - buys Grand Market
+Perna - gains Grand Market
+Perna - buys Grand Market
+Perna - gains Grand Market
+Perna - draws Graverobber, Graverobber, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Altar
+Titandrake - places Altar in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Cartographer
+Titandrake - places Cartographer in hand
+Titandrake - plays Cartographer
+Titandrake - draws Cartographer
+Titandrake - looks at Quarry, Grand Market, Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - places Quarry on top of deck
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Grand Market
+Titandrake - looks at Quarry, Cartographer, Grand Market, Quarry
+Titandrake - places Quarry on top of deck
+Titandrake - places Quarry on top of deck
+Titandrake - places Cartographer on top of deck
+Titandrake - places Grand Market on top of deck
+Titandrake - plays Grand Market
+Titandrake - draws Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Cartographer
+Titandrake - plays Cartographer
+Titandrake - draws Quarry
+Titandrake - looks at Quarry, Copper, Silver, Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - places Quarry on top of deck
+Titandrake - plays Cartographer
+Titandrake - draws Quarry
+Titandrake - looks at Silver, Copper, Grand Market, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - places Grand Market on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Duchy
+Titandrake - plays Quarry
+Titandrake - plays Quarry
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - buys Expand
+Titandrake - gains Expand
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Silver, Grand Market, Quarry, Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Altar
+ 
+---------- Perna: turn 14 ----------
+Perna - plays Graverobber
+Perna - trashes Graverobber
+Perna - gains Province
+Perna - plays 3 Copper
+Perna - buys Sage
+Perna - gains Sage
+Perna - draws Copper
+Perna - shuffles deck
+Perna - draws Cartographer, Cartographer, Copper, Altar
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Grand Market
+Titandrake - draws Copper
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Silver
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Quarry
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Duchy, Copper, Estate, Cartographer, Sage
+ 
+---------- Perna: turn 15 ----------
+Perna - plays Cartographer
+Perna - draws Cartographer
+Perna - looks at Province, Cartographer, Grand Market, Cartographer
+Perna - discards Province
+Perna - places Cartographer on top of deck
+Perna - places Cartographer on top of deck
+Perna - places Grand Market on top of deck
+Perna - plays Cartographer
+Perna - draws Grand Market
+Perna - looks at Cartographer, Cartographer, Copper, Expand
+Perna - discards Copper
+Perna - discards Expand
+Perna - places Cartographer on top of deck
+Perna - places Cartographer on top of deck
+Perna - plays Grand Market
+Perna - draws Cartographer
+Perna - plays Cartographer
+Perna - draws Cartographer
+Perna - looks at Graverobber, Sage, Grand Market, Quarry
+Perna - discards Graverobber
+Perna - discards Quarry
+Perna - places Sage on top of deck
+Perna - places Grand Market on top of deck
+Perna - plays Cartographer
+Perna - draws Grand Market
+Perna - looks at Sage, Cartographer, Sage, Copper
+Perna - discards Copper
+Perna - places Sage on top of deck
+Perna - places Cartographer on top of deck
+Perna - places Sage on top of deck
+Perna - plays Grand Market
+Perna - draws Sage
+Perna - plays Sage
+Perna - reveals Cartographer
+Perna - places Cartographer in hand
+Perna - plays Cartographer
+Perna - draws Sage
+Perna - looks at Grand Market, Quarry, Grand Market, Grand Market
+Perna - discards Quarry
+Perna - places Grand Market on top of deck
+Perna - places Grand Market on top of deck
+Perna - places Grand Market on top of deck
+Perna - plays Sage
+Perna - reveals Grand Market
+Perna - places Grand Market in hand
+Perna - plays Grand Market
+Perna - draws Grand Market
+Perna - plays Grand Market
+Perna - draws Grand Market
+Perna - plays Grand Market
+Perna - draws Copper
+Perna - plays Cartographer
+Perna - draws Sage
+Perna - looks at Silver, Sage
+Perna - shuffles deck
+Perna - looks at Province, Quarry
+Perna - discards Province
+Perna - discards Quarry
+Perna - discards Silver
+Perna - places Sage on top of deck
+Perna - plays Sage
+Perna - reveals Sage
+Perna - places Sage in hand
+Perna - plays Sage
+Perna - reveals Copper, Expand
+Perna - places Expand in hand
+Perna - discards Copper
+Perna - plays Expand
+Perna - trashes Altar
+Perna - gains Province
+Perna - plays 3 Copper
+Perna - buys Sage
+Perna - gains Sage
+Perna - buys Province
+Perna - gains Province
+Perna - buys Estate
+Perna - gains Estate
+Perna - draws Quarry, Graverobber, Copper
+Perna - shuffles deck
+Perna - draws Sage, Cartographer
+ 
+------------ Game Over ------------
+Perna - cards: 6 Cartographer, 5 Sage, 5 Grand Market, 1 Graverobber, 1 Expand, 5 Copper, 2 Quarry, 1 Silver, 3 Province, 1 Estate
+Perna - total victory points: 19
+Perna - turns: 15
+ 
+Titandrake - cards: 5 Sage, 5 Grand Market, 4 Cartographer, 1 Altar, 1 Expand, 4 Copper, 3 Quarry, 2 Silver, 1 Gold, 3 Estate, 1 Duchy
+Titandrake - total victory points: 6
+Titandrake - turns: 14
+ 
+1st place: Perna
+2nd place: Titandrake
+ 

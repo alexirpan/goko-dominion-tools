@@ -1,0 +1,619 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Chapel, Herbalist, Vagrant, University, Fortune Teller, Hermit, Familiar, Ironmonger, Mountebank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+goonsquad - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+goonsquad - shuffles deck
+Titandrake - shuffles deck
+goonsquad - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- goonsquad: turn 1 ----------
+goonsquad - plays 3 Copper
+goonsquad - buys Hermit
+goonsquad - gains Hermit
+goonsquad - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- goonsquad: turn 2 ----------
+goonsquad - plays 4 Copper
+goonsquad - buys Potion
+goonsquad - gains Potion
+goonsquad - shuffles deck
+goonsquad - draws Hermit, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Estate, Copper, Estate, Chapel, Mountebank
+ 
+---------- goonsquad: turn 3 ----------
+goonsquad - plays Hermit
+goonsquad - trashes Estate
+goonsquad - gains Vagrant
+goonsquad - plays 2 Copper
+goonsquad - buys Chapel
+goonsquad - gains Chapel
+goonsquad - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper, Estate
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Mountebank, Copper, Chapel
+ 
+---------- goonsquad: turn 4 ----------
+goonsquad - plays 4 Copper
+goonsquad - buys Ironmonger
+goonsquad - gains Ironmonger
+goonsquad - draws Potion, Copper
+goonsquad - shuffles deck
+goonsquad - draws Copper, Chapel, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Mountebank
+goonsquad - gains Curse
+goonsquad - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Copper, Copper, Copper, Mountebank, Copper
+ 
+---------- goonsquad: turn 5 ----------
+goonsquad - plays Chapel
+goonsquad - trashes Estate
+goonsquad - plays 2 Copper, 1 Potion
+goonsquad - buys University
+goonsquad - gains University
+goonsquad - draws Hermit, Copper, Copper, Copper, Ironmonger
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Mountebank
+goonsquad - gains Curse
+goonsquad - gains Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Chapel, Estate, Copper, Gold
+ 
+---------- goonsquad: turn 6 ----------
+goonsquad - plays Ironmonger
+goonsquad - draws Copper
+goonsquad - reveals: Vagrant
+goonsquad - places Vagrant on top of deck
+goonsquad - plays Hermit
+goonsquad - trashes Curse
+goonsquad - gains Vagrant
+goonsquad - plays 4 Copper
+goonsquad - buys Ironmonger
+goonsquad - gains Ironmonger
+goonsquad - draws Vagrant, Estate, Copper
+goonsquad - shuffles deck
+goonsquad - draws Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Estate, Copper
+Titandrake - plays Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Mountebank, Copper, Mountebank, Copper
+ 
+---------- goonsquad: turn 7 ----------
+goonsquad - plays Vagrant
+goonsquad - draws Chapel
+goonsquad - reveals: Vagrant
+goonsquad - places Vagrant on top of deck
+goonsquad - plays Chapel
+goonsquad - trashes Estate, Copper, Copper, Copper
+goonsquad - draws Vagrant, Ironmonger, Copper, Copper, Curse
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Mountebank
+goonsquad - discards Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Ironmonger, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Copper
+ 
+---------- goonsquad: turn 8 ----------
+goonsquad - plays Ironmonger
+goonsquad - draws Copper
+goonsquad - reveals: University
+goonsquad - places University on top of deck
+goonsquad - plays Vagrant
+goonsquad - draws University
+goonsquad - reveals: Copper
+goonsquad - places Copper on top of deck
+goonsquad - plays University
+goonsquad - gains Mountebank
+goonsquad - plays 3 Copper
+goonsquad - buys Silver
+goonsquad - gains Silver
+goonsquad - draws Copper, Copper, Hermit, Copper, Potion
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Chapel, Ironmonger, Mountebank, Mountebank
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- goonsquad: turn 9 ----------
+goonsquad - plays Hermit
+goonsquad - trashes Curse
+goonsquad - gains Hermit
+goonsquad - plays 3 Copper, 1 Potion
+goonsquad - buys Familiar
+goonsquad - gains Familiar
+goonsquad - draws Ironmonger
+goonsquad - shuffles deck
+goonsquad - draws Silver, Copper, Chapel, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Mountebank
+goonsquad - gains Curse
+goonsquad - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Silver, Copper, Copper, Ironmonger, Gold
+ 
+---------- goonsquad: turn 10 ----------
+goonsquad - plays Ironmonger
+goonsquad - draws Ironmonger
+goonsquad - reveals: University
+goonsquad - discards University
+goonsquad - plays Ironmonger
+goonsquad - draws Copper
+goonsquad - reveals: Copper
+goonsquad - discards Copper
+goonsquad - plays Chapel
+goonsquad - trashes Copper, Copper
+goonsquad - plays 1 Silver, 1 Copper
+goonsquad - buys Ironmonger
+goonsquad - gains Ironmonger
+goonsquad - draws Familiar, Hermit, Hermit, Copper, Vagrant
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals: Mountebank
+Titandrake - places Mountebank on top of deck
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Mountebank, Chapel, Copper, Ironmonger, Mountebank
+ 
+---------- goonsquad: turn 11 ----------
+goonsquad - plays Vagrant
+goonsquad - draws Mountebank
+goonsquad - reveals: Copper
+goonsquad - places Copper on top of deck
+goonsquad - plays Familiar
+goonsquad - draws Copper
+Titandrake - gains Curse
+goonsquad - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+goonsquad - plays 2 Copper
+goonsquad - buys Ironmonger
+goonsquad - gains Ironmonger
+goonsquad - draws Vagrant, Potion
+goonsquad - shuffles deck
+goonsquad - draws Vagrant, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Province
+Titandrake - reveals: Ironmonger
+Titandrake - discards Ironmonger
+Titandrake - plays Mountebank
+goonsquad - gains Curse
+goonsquad - gains Copper
+Titandrake - plays Mountebank
+goonsquad - gains Curse
+goonsquad - gains Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Mountebank, Copper, Curse, Mountebank, Chapel
+ 
+---------- goonsquad: turn 12 ----------
+goonsquad - plays Vagrant
+goonsquad - draws Copper
+goonsquad - reveals: Ironmonger
+goonsquad - places Ironmonger on top of deck
+goonsquad - plays Vagrant
+goonsquad - draws Ironmonger
+goonsquad - reveals: Ironmonger
+goonsquad - places Ironmonger on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws Ironmonger
+goonsquad - reveals: Mountebank
+goonsquad - places Mountebank on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws Mountebank
+goonsquad - reveals: Copper
+goonsquad - discards Copper
+goonsquad - plays Mountebank
+Titandrake - discards Curse
+goonsquad - plays 3 Copper, 1 Potion
+goonsquad - buys Gold
+goonsquad - gains Gold
+goonsquad - draws Silver, Curse, Copper, Hermit, University
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Mountebank
+goonsquad - discards Curse
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ironmonger, Copper, Silver, Ironmonger, Province
+ 
+---------- goonsquad: turn 13 ----------
+goonsquad - plays University
+goonsquad - gains Ironmonger
+goonsquad - plays Hermit
+goonsquad - trashes Curse
+goonsquad - gains Vagrant
+goonsquad - trashes Hermit
+goonsquad - gains Madman
+goonsquad - draws Ironmonger, Hermit, Ironmonger, Familiar, Chapel
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Curse
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Silver, Copper, Ironmonger, Province
+ 
+---------- goonsquad: turn 14 ----------
+goonsquad - plays Ironmonger
+goonsquad - shuffles deck
+goonsquad - draws Copper
+goonsquad - reveals: Silver
+goonsquad - places Silver on top of deck
+goonsquad - plays Familiar
+goonsquad - draws Silver
+Titandrake - gains Curse
+goonsquad - plays Ironmonger
+goonsquad - draws Ironmonger
+goonsquad - reveals: Gold
+goonsquad - places Gold on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws Gold
+goonsquad - reveals: Copper
+goonsquad - discards Copper
+goonsquad - plays 1 Copper, 1 Silver, 1 Gold
+goonsquad - buys Province
+goonsquad - gains Province
+goonsquad - draws Madman, Copper, Curse, Ironmonger, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Curse
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Ironmonger, Curse, Copper, Mountebank, Copper
+ 
+---------- goonsquad: turn 15 ----------
+goonsquad - plays Madman
+goonsquad - draws Curse, Potion, Vagrant, Copper
+goonsquad - plays Vagrant
+goonsquad - draws Ironmonger
+goonsquad - reveals: Copper
+goonsquad - places Copper on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws Copper
+goonsquad - reveals: Mountebank
+goonsquad - places Mountebank on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws Mountebank
+goonsquad - reveals: Vagrant
+goonsquad - places Vagrant on top of deck
+goonsquad - plays Mountebank
+Titandrake - discards Curse
+goonsquad - plays 4 Copper, 1 Potion
+goonsquad - buys Gold
+goonsquad - gains Gold
+goonsquad - draws Vagrant, University, Vagrant, Copper
+goonsquad - shuffles deck
+goonsquad - draws Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Silver
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Mountebank
+goonsquad - discards Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Ironmonger, Curse, Gold, Copper, Province
+ 
+---------- goonsquad: turn 16 ----------
+goonsquad - plays Vagrant
+goonsquad - draws Ironmonger
+goonsquad - reveals: Silver
+goonsquad - places Silver on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws Silver
+goonsquad - reveals: Ironmonger
+goonsquad - places Ironmonger on top of deck
+goonsquad - plays Vagrant
+goonsquad - draws Ironmonger
+goonsquad - reveals: Ironmonger
+goonsquad - places Ironmonger on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws Ironmonger
+goonsquad - reveals: Hermit
+goonsquad - places Hermit on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws Hermit
+goonsquad - reveals: Mountebank
+goonsquad - places Mountebank on top of deck
+goonsquad - plays Hermit
+goonsquad - trashes Curse
+goonsquad - gains Vagrant
+goonsquad - plays University
+goonsquad - gains Mountebank
+goonsquad - plays 1 Copper, 1 Silver
+goonsquad - buys Silver
+goonsquad - gains Silver
+goonsquad - draws Mountebank, Ironmonger, Copper, Curse, Vagrant
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Mountebank
+Titandrake - places Mountebank on top of deck
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Mountebank, Chapel, Silver
+Titandrake - shuffles deck
+Titandrake - draws Mountebank, Gold
+ 
+---------- goonsquad: turn 17 ----------
+goonsquad - plays Ironmonger
+goonsquad - draws Province
+goonsquad - reveals: Chapel
+goonsquad - places Chapel on top of deck
+goonsquad - plays Vagrant
+goonsquad - draws Chapel
+goonsquad - reveals: Copper
+goonsquad - places Copper on top of deck
+goonsquad - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+goonsquad - plays Chapel
+goonsquad - trashes Copper, Curse
+goonsquad - buys Vagrant
+goonsquad - gains Vagrant
+goonsquad - draws Copper, Copper, Familiar, Gold, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Mountebank
+goonsquad - gains Curse
+goonsquad - gains Copper
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Silver, Ironmonger, Gold, Silver
+ 
+---------- goonsquad: turn 18 ----------
+goonsquad - plays Familiar
+goonsquad - draws Potion
+goonsquad - plays 3 Copper, 1 Gold, 1 Potion
+goonsquad - buys Duchy
+goonsquad - gains Duchy
+goonsquad - draws Gold, Copper, Copper, Ironmonger
+goonsquad - shuffles deck
+goonsquad - draws University
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Curse
+Titandrake - discards Curse
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Copper, Copper, Gold, Curse
+ 
+---------- goonsquad: turn 19 ----------
+goonsquad - plays Ironmonger
+goonsquad - draws Duchy
+goonsquad - reveals: Copper
+goonsquad - discards Copper
+goonsquad - plays University
+goonsquad - gains Ironmonger
+goonsquad - plays 2 Copper, 1 Gold
+goonsquad - buys Duchy
+goonsquad - gains Duchy
+goonsquad - draws Mountebank, Silver, Chapel, Gold, Potion
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Gold, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Province, Ironmonger, Ironmonger, Curse
+ 
+---------- goonsquad: turn 20 ----------
+goonsquad - plays Mountebank
+Titandrake - discards Curse
+goonsquad - plays 1 Silver, 1 Gold, 1 Potion
+goonsquad - buys Duchy
+goonsquad - gains Duchy
+goonsquad - draws Copper, Copper, Vagrant, Copper, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Copper, Gold, Copper, Silver
+ 
+---------- goonsquad: turn 21 ----------
+goonsquad - plays Vagrant
+goonsquad - draws Copper
+goonsquad - reveals: Province
+goonsquad - places Province in hand
+goonsquad - plays 4 Copper, 1 Silver
+goonsquad - buys Duchy
+goonsquad - gains Duchy
+goonsquad - draws Vagrant, Hermit, Curse, Vagrant, Ironmonger
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Curse, Curse, Silver, Mountebank
+ 
+---------- goonsquad: turn 22 ----------
+goonsquad - plays Ironmonger
+goonsquad - draws Ironmonger
+goonsquad - reveals: Vagrant
+goonsquad - discards Vagrant
+goonsquad - plays Ironmonger
+goonsquad - draws Ironmonger
+goonsquad - reveals: Mountebank
+goonsquad - places Mountebank on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws Mountebank
+goonsquad - reveals: Ironmonger
+goonsquad - places Ironmonger on top of deck
+goonsquad - plays Vagrant
+goonsquad - draws Ironmonger
+goonsquad - reveals: Familiar
+goonsquad - places Familiar on top of deck
+goonsquad - plays Vagrant
+goonsquad - draws Familiar
+goonsquad - reveals: Vagrant
+goonsquad - places Vagrant on top of deck
+goonsquad - plays Familiar
+goonsquad - draws Vagrant
+goonsquad - plays Vagrant
+goonsquad - shuffles deck
+goonsquad - draws Vagrant
+goonsquad - reveals: Mountebank
+goonsquad - places Mountebank on top of deck
+goonsquad - plays Vagrant
+goonsquad - draws Mountebank
+goonsquad - reveals: University
+goonsquad - places University on top of deck
+goonsquad - plays Ironmonger
+goonsquad - draws University
+goonsquad - reveals: Copper
+goonsquad - discards Copper
+goonsquad - plays Hermit
+goonsquad - trashes Curse
+goonsquad - gains Estate
+goonsquad - plays Mountebank
+Titandrake - discards Curse
+goonsquad - plays Mountebank
+Titandrake - discards Curse
+goonsquad - plays University
+goonsquad - gains Mountebank
+goonsquad - buys Duchy
+goonsquad - gains Duchy
+goonsquad - draws Copper, Copper, Silver, Province, Potion
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Mountebank
+goonsquad - gains Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Province, Copper, Curse, Province
+ 
+---------- goonsquad: turn 23 ----------
+goonsquad - plays 2 Copper, 1 Silver, 1 Potion
+goonsquad - buys Estate
+goonsquad - gains Estate
+goonsquad - draws Ironmonger, Copper, Duchy, Copper, Duchy
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - draws Gold, Gold, Ironmonger, Ironmonger, Mountebank
+ 
+---------- goonsquad: turn 24 ----------
+goonsquad - plays Ironmonger
+goonsquad - draws Duchy
+goonsquad - reveals: Gold
+goonsquad - places Gold on top of deck
+goonsquad - plays 2 Copper
+goonsquad - buys Estate
+goonsquad - gains Estate
+goonsquad - draws Gold, Gold, Silver, Duchy, Vagrant
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Chapel
+Titandrake - shuffles deck
+Titandrake - draws Province, Duchy, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Ironmonger, 2 Mountebank, 1 Chapel, 6 Copper, 4 Gold, 3 Silver, 5 Province, 3 Duchy, 1 Estate, 4 Curse
+Titandrake - total victory points: 36
+Titandrake - turns: 25
+ 
+goonsquad - cards: 6 Ironmonger, 5 Vagrant, 3 Mountebank, 1 Chapel, 1 Hermit, 1 Familiar, 1 University, 8 Copper, 2 Silver, 2 Gold, 1 Potion, 5 Duchy, 3 Estate, 1 Province
+goonsquad - total victory points: 24
+goonsquad - turns: 24
+ 
+1st place: Titandrake
+2nd place: goonsquad
+ 

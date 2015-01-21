@@ -1,0 +1,500 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Develop, Fishing Village, Masquerade, Warehouse, Woodcutter, Cultist, Library, Merchant Guild, Mystic, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Fishing Village
+SM.SM - gains Fishing Village
+SM.SM - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Masquerade
+SM.SM - gains Masquerade
+SM.SM - shuffles deck
+SM.SM - draws Masquerade, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Estate, Copper, Fishing Village, Estate, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Masquerade
+SM.SM - draws Estate, Copper
+SM.SM - passes Estate
+Titandrake - passes Estate
+SM.SM - trashes Estate
+SM.SM - plays 4 Copper
+SM.SM - buys Fishing Village
+SM.SM - gains Fishing Village
+SM.SM - draws Estate, Copper, Copper, Fishing Village, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Fishing Village
+SM.SM - plays 3 Copper
+SM.SM - buys Fishing Village
+SM.SM - gains Fishing Village
+SM.SM - shuffles deck
+SM.SM - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Masquerade
+Titandrake - draws Estate, Copper
+Titandrake - passes Estate
+SM.SM - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Estate, Copper, Copper, Warehouse, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - duration Fishing Village
+SM.SM - plays 4 Copper
+SM.SM - buys Merchant Guild
+SM.SM - gains Merchant Guild
+SM.SM - draws Masquerade, Fishing Village, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Cultist, Masquerade, Silver, Copper, Fishing Village
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Fishing Village
+SM.SM - plays Masquerade
+SM.SM - draws Copper, Fishing Village
+SM.SM - passes Estate
+Titandrake - passes Copper
+SM.SM - trashes Copper
+SM.SM - plays Fishing Village
+SM.SM - plays 3 Copper
+SM.SM - buys Library
+SM.SM - gains Library
+SM.SM - shuffles deck
+SM.SM - draws Copper, Fishing Village, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Masquerade
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - passes Estate
+SM.SM - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Cultist
+Titandrake - draws Estate, Copper
+SM.SM - gains Abandoned Mine
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Merchant Guild
+Titandrake - gains Merchant Guild
+Titandrake - draws Estate, Fishing Village, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - duration Fishing Village
+SM.SM - duration Fishing Village
+SM.SM - plays Fishing Village
+SM.SM - plays 3 Copper
+SM.SM - buys Merchant Guild
+SM.SM - gains Merchant Guild
+SM.SM - draws Masquerade, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays 3 Copper
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Masquerade, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - duration Fishing Village
+SM.SM - plays Masquerade
+SM.SM - draws Merchant Guild, Library
+SM.SM - passes Estate
+Titandrake - passes Estate
+SM.SM - trashes Estate
+SM.SM - plays Merchant Guild
+SM.SM - plays 3 Copper
+SM.SM - buys Fishing Village
+SM.SM - receives 1 coin token
+SM.SM - gains Fishing Village
+SM.SM - buys Vagrant
+SM.SM - receives 1 coin token
+SM.SM - gains Vagrant
+SM.SM - shuffles deck
+SM.SM - draws Merchant Guild, Copper, Fishing Village, Fishing Village, Vagrant
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Cultist
+Titandrake - passes Estate
+SM.SM - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Warehouse
+Titandrake - draws Merchant Guild, Silver, Fishing Village
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Fishing Village
+Titandrake - plays Cultist
+Titandrake - draws Copper, Copper
+SM.SM - gains Ruined Library
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Fishing Village
+Titandrake - receives 1 coin token
+Titandrake - gains Fishing Village
+Titandrake - buys Fishing Village
+Titandrake - receives 1 coin token
+Titandrake - gains Fishing Village
+Titandrake - draws Cultist, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Fishing Village, Copper
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Vagrant
+SM.SM - draws Merchant Guild
+SM.SM - reveals: Estate
+SM.SM - places Estate in hand
+SM.SM - plays Fishing Village
+SM.SM - plays Fishing Village
+SM.SM - plays Merchant Guild
+SM.SM - plays Merchant Guild
+SM.SM - uses 2 coin tokens
+SM.SM - buys Vagrant
+SM.SM - receives 1 coin token
+SM.SM - receives 1 coin token
+SM.SM - gains Vagrant
+SM.SM - buys Vagrant
+SM.SM - receives 1 coin token
+SM.SM - receives 1 coin token
+SM.SM - gains Vagrant
+SM.SM - buys Vagrant
+SM.SM - receives 1 coin token
+SM.SM - receives 1 coin token
+SM.SM - gains Vagrant
+SM.SM - draws Library, Copper, Copper, Copper, Abandoned Mine
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+SM.SM - gains Ruined Village
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Merchant Guild
+Titandrake - gains Merchant Guild
+Titandrake - draws Copper, Merchant Guild, Warehouse, Copper, Cultist
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - duration Fishing Village
+SM.SM - duration Fishing Village
+SM.SM - plays Abandoned Mine
+SM.SM - plays Library
+SM.SM - draws Copper
+SM.SM - discards Fishing Village
+SM.SM - draws Copper
+SM.SM - moves Masquerade to hand
+SM.SM - moves Fishing Village to hand
+SM.SM - discards Fishing Village
+SM.SM - plays Fishing Village
+SM.SM - plays Masquerade
+SM.SM - shuffles deck
+SM.SM - draws Vagrant, Estate
+SM.SM - passes Estate
+Titandrake - passes Copper
+SM.SM - trashes Copper
+SM.SM - plays Vagrant
+SM.SM - draws Estate
+SM.SM - reveals: Merchant Guild
+SM.SM - places Merchant Guild on top of deck
+SM.SM - plays 5 Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Merchant Guild, Fishing Village, Ruined Library, Vagrant, Ruined Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Warehouse
+Titandrake - draws Fishing Village, Masquerade, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Fishing Village
+Titandrake - plays Cultist
+Titandrake - draws Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Copper
+SM.SM - gains Abandoned Mine
+Titandrake - plays Fishing Village
+Titandrake - plays Masquerade
+Titandrake - draws Cultist, Merchant Guild
+Titandrake - passes Copper
+SM.SM - passes Ruined Village
+Titandrake - trashes Ruined Village
+Titandrake - plays Cultist
+Titandrake - draws Estate, Copper
+SM.SM - gains Survivors
+Titandrake - plays Merchant Guild
+Titandrake - plays Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Vagrant
+Titandrake - receives 1 coin token
+Titandrake - gains Vagrant
+Titandrake - buys Library
+Titandrake - receives 1 coin token
+Titandrake - gains Library
+Titandrake - draws Copper, Fishing Village, Copper, Silver, Estate
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - duration Fishing Village
+SM.SM - plays Vagrant
+SM.SM - draws Vagrant
+SM.SM - reveals: Merchant Guild
+SM.SM - places Merchant Guild on top of deck
+SM.SM - plays Vagrant
+SM.SM - draws Merchant Guild
+SM.SM - reveals: Vagrant
+SM.SM - places Vagrant on top of deck
+SM.SM - plays Ruined Library
+SM.SM - draws Vagrant
+SM.SM - plays Vagrant
+SM.SM - shuffles deck
+SM.SM - draws Copper
+SM.SM - reveals: Abandoned Mine
+SM.SM - places Abandoned Mine in hand
+SM.SM - plays Fishing Village
+SM.SM - plays Merchant Guild
+SM.SM - plays Merchant Guild
+SM.SM - plays 2 Copper
+SM.SM - uses 6 coin tokens
+SM.SM - buys Province
+SM.SM - receives 1 coin token
+SM.SM - receives 1 coin token
+SM.SM - gains Province
+SM.SM - buys Vagrant
+SM.SM - receives 1 coin token
+SM.SM - receives 1 coin token
+SM.SM - gains Vagrant
+SM.SM - buys Vagrant
+SM.SM - receives 1 coin token
+SM.SM - receives 1 coin token
+SM.SM - gains Vagrant
+SM.SM - draws Copper, Estate, Province, Fishing Village, Vagrant
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Fishing Village, Merchant Guild
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - duration Fishing Village
+SM.SM - plays Vagrant
+SM.SM - draws Library
+SM.SM - reveals: Copper
+SM.SM - places Copper on top of deck
+SM.SM - plays Fishing Village
+SM.SM - plays Library
+SM.SM - draws Copper
+SM.SM - draws Copper
+SM.SM - discards Survivors
+SM.SM - draws Copper
+SM.SM - moves Masquerade to hand
+SM.SM - discards Survivors
+SM.SM - plays Masquerade
+SM.SM - draws Fishing Village, Abandoned Mine
+SM.SM - passes Abandoned Mine
+Titandrake - passes Estate
+SM.SM - trashes Estate
+SM.SM - plays Fishing Village
+SM.SM - plays 4 Copper
+SM.SM - uses 1 coin token
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - shuffles deck
+SM.SM - draws Vagrant, Vagrant, Province, Vagrant, Abandoned Mine
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Abandoned Mine
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - receives 1 coin token
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - receives 1 coin token
+Titandrake - gains Estate
+Titandrake - draws Cultist, Merchant Guild, Fishing Village, Library, Silver
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - duration Fishing Village
+SM.SM - duration Fishing Village
+SM.SM - plays Vagrant
+SM.SM - draws Copper
+SM.SM - reveals: Merchant Guild
+SM.SM - places Merchant Guild on top of deck
+SM.SM - plays Vagrant
+SM.SM - draws Merchant Guild
+SM.SM - reveals: Province
+SM.SM - places Province in hand
+SM.SM - plays Vagrant
+SM.SM - draws Copper
+SM.SM - reveals: Copper
+SM.SM - places Copper on top of deck
+SM.SM - plays Merchant Guild
+SM.SM - plays Abandoned Mine
+SM.SM - plays 2 Copper
+SM.SM - uses 2 coin tokens
+SM.SM - buys Province
+SM.SM - receives 1 coin token
+SM.SM - gains Province
+SM.SM - draws Copper, Merchant Guild, Vagrant, Fishing Village, Masquerade
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Merchant Guild
+Titandrake - plays Library
+Titandrake - moves Fishing Village to hand
+Titandrake - moves Masquerade to hand
+Titandrake - draws Estate
+Titandrake - draws Province
+Titandrake - draws Copper
+Titandrake - plays Fishing Village
+Titandrake - plays Masquerade
+Titandrake - draws Vagrant, Cultist
+Titandrake - passes Estate
+SM.SM - passes Copper
+Titandrake - trashes Copper
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Warehouse
+Titandrake - places Warehouse on top of deck
+Titandrake - plays Cultist
+Titandrake - draws Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Estate
+SM.SM - gains Ruined Market
+Titandrake - plays Cultist
+Titandrake - draws Copper, Fishing Village
+SM.SM - gains Abandoned Mine
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - receives 1 coin token
+Titandrake - gains Province
+Titandrake - draws Merchant Guild, Abandoned Mine, Duchy, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Fishing Village
+SM.SM - plays Vagrant
+SM.SM - draws Fishing Village
+SM.SM - reveals: Estate
+SM.SM - places Estate in hand
+SM.SM - plays Fishing Village
+SM.SM - plays Masquerade
+SM.SM - draws Vagrant, Province
+SM.SM - passes Estate
+Titandrake - passes Abandoned Mine
+SM.SM - plays Vagrant
+SM.SM - draws Library
+SM.SM - reveals: Survivors
+SM.SM - places Survivors in hand
+SM.SM - plays Library
+SM.SM - draws Copper
+SM.SM - draws Copper
+SM.SM - plays Merchant Guild
+SM.SM - plays 2 Copper
+SM.SM - uses 3 coin tokens
+SM.SM - buys Province
+SM.SM - receives 1 coin token
+SM.SM - gains Province
+SM.SM - buys Copper
+SM.SM - receives 1 coin token
+SM.SM - gains Copper
+SM.SM - draws Vagrant, Ruined Library, Copper
+SM.SM - shuffles deck
+SM.SM - draws Merchant Guild, Vagrant
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays Merchant Guild
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - uses 2 coin tokens
+Titandrake - buys Province
+Titandrake - receives 1 coin token
+Titandrake - gains Province
+Titandrake - buys Copper
+Titandrake - receives 1 coin token
+Titandrake - gains Copper
+Titandrake - draws Copper, Vagrant, Warehouse, Masquerade, Copper
+ 
+------------ Game Over ------------
+SM.SM - cards: 6 Vagrant, 4 Fishing Village, 3 Abandoned Mine, 2 Merchant Guild, 1 Ruined Library, 1 Ruined Market, 1 Survivors, 1 Library, 1 Masquerade, 6 Copper, 5 Province, 1 Estate
+SM.SM - total victory points: 31
+SM.SM - turns: 14
+ 
+Titandrake - cards: 4 Fishing Village, 2 Merchant Guild, 2 Cultist, 1 Vagrant, 1 Warehouse, 1 Masquerade, 1 Library, 5 Copper, 1 Silver, 3 Province, 2 Estate, 1 Duchy
+Titandrake - total victory points: 23
+Titandrake - turns: 15
+ 
+1st place: SM.SM
+2nd place: Titandrake
+ 

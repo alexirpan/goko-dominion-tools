@@ -1,0 +1,521 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Tunnel, Village, Warehouse, Workshop, Bishop, Envoy, Island, Harem, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+ftl - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+ftl - shuffles deck
+Titandrake - shuffles deck
+ftl - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- ftl: turn 1 ----------
+ftl - plays 4 Copper
+ftl - buys Workshop
+ftl - gains Workshop
+ftl - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Envoy
+Titandrake - gains Envoy
+Titandrake - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- ftl: turn 2 ----------
+ftl - plays 3 Copper
+ftl - buys Warehouse
+ftl - gains Warehouse
+ftl - shuffles deck
+ftl - draws Copper, Estate, Estate, Workshop, Warehouse
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Copper, Estate
+ 
+---------- ftl: turn 3 ----------
+ftl - plays Warehouse
+ftl - draws Copper, Copper, Estate
+ftl - discards Estate
+ftl - discards Estate
+ftl - discards Estate
+ftl - plays Workshop
+ftl - gains Tunnel
+ftl - plays 3 Copper
+ftl - buys Warehouse
+ftl - gains Warehouse
+ftl - draws Copper, Copper, Copper, Copper
+ftl - shuffles deck
+ftl - draws Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - draws Copper, Envoy, Copper, Copper, Copper
+ 
+---------- ftl: turn 4 ----------
+ftl - plays 5 Copper
+ftl - buys Tunnel
+ftl - gains Tunnel
+ftl - draws Copper, Copper, Warehouse, Warehouse, Workshop
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Envoy
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Estate, Estate, Copper
+ftl - discards Copper
+Titandrake - discards Copper
+Titandrake - places cards in hand:  Copper, Estate, Estate, Copper
+Titandrake - plays 6 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Gold, Copper
+ 
+---------- ftl: turn 5 ----------
+ftl - plays Warehouse
+ftl - draws Estate, Estate, Estate
+ftl - discards Estate
+ftl - discards Estate
+ftl - discards Estate
+ftl - plays Warehouse
+ftl - draws Tunnel
+ftl - shuffles deck
+ftl - draws Estate, Copper
+ftl - discards Tunnel
+ftl - discards Estate
+ftl - discards Copper
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - plays Workshop
+ftl - gains Warehouse
+ftl - plays 2 Copper
+ftl - buys Vagrant
+ftl - gains Vagrant
+ftl - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- ftl: turn 6 ----------
+ftl - plays 3 Copper
+ftl - buys Tunnel
+ftl - gains Tunnel
+ftl - draws Tunnel, Copper
+ftl - shuffles deck
+ftl - draws Warehouse, Warehouse, Gold
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Envoy, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- ftl: turn 7 ----------
+ftl - plays Warehouse
+ftl - draws Vagrant, Workshop, Estate
+ftl - discards Estate
+ftl - discards Tunnel
+ftl - discards Copper
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - plays Vagrant
+ftl - draws Tunnel
+ftl - reveals: Tunnel
+ftl - places Tunnel in hand
+ftl - plays Warehouse
+ftl - draws Warehouse, Copper, Copper
+ftl - discards Tunnel
+ftl - discards Tunnel
+ftl - discards Copper
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - plays Warehouse
+ftl - draws Copper, Estate, Estate
+ftl - discards Estate
+ftl - discards Estate
+ftl - discards Copper
+ftl - plays Workshop
+ftl - gains Warehouse
+ftl - plays 1 Gold, 1 Copper
+ftl - buys Tunnel
+ftl - gains Tunnel
+ftl - draws Copper, Copper, Copper
+ftl - shuffles deck
+ftl - draws Tunnel, Tunnel
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Envoy
+Titandrake - reveals: Copper, Copper, Copper, Estate, Gold
+ftl - discards Gold
+Titandrake - discards Gold
+Titandrake - places cards in hand:  Copper, Copper, Copper, Estate
+Titandrake - plays 6 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Silver, Estate, Copper, Village
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- ftl: turn 8 ----------
+ftl - plays 3 Copper
+ftl - buys Tunnel
+ftl - gains Tunnel
+ftl - draws Copper, Copper, Warehouse, Tunnel, Workshop
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Village
+Titandrake - draws Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Envoy, Harem, Estate, Copper
+ 
+---------- ftl: turn 9 ----------
+ftl - plays Warehouse
+ftl - draws Warehouse, Gold, Copper
+ftl - discards Tunnel
+ftl - discards Copper
+ftl - discards Copper
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - plays Warehouse
+ftl - draws Tunnel, Estate, Estate
+ftl - discards Tunnel
+ftl - discards Estate
+ftl - discards Estate
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - plays Workshop
+ftl - gains Island
+ftl - plays 1 Copper, 1 Gold
+ftl - buys Island
+ftl - gains Island
+ftl - draws Gold, Vagrant, Estate, Warehouse, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Envoy
+Titandrake - reveals: Copper, Copper, Copper, Gold
+Titandrake - shuffles deck
+Titandrake - reveals: Copper
+ftl - discards Gold
+Titandrake - discards Gold
+Titandrake - places cards in hand:  Copper, Copper, Copper, Copper
+Titandrake - plays 6 Copper, 1 Harem
+Titandrake - buys Forge
+Titandrake - gains Forge
+Titandrake - draws Copper, Village, Estate, Tunnel, Silver
+ 
+---------- ftl: turn 10 ----------
+ftl - plays Vagrant
+ftl - draws Gold
+ftl - reveals: Warehouse
+ftl - places Warehouse on top of deck
+ftl - plays Warehouse
+ftl - draws Warehouse, Gold
+ftl - shuffles deck
+ftl - draws Gold
+ftl - discards Estate
+ftl - discards Copper
+ftl - discards Gold
+ftl - plays Warehouse
+ftl - draws Gold, Estate, Copper
+ftl - discards Gold
+ftl - discards Estate
+ftl - discards Copper
+ftl - plays 3 Gold
+ftl - buys Province
+ftl - gains Province
+ftl - draws Copper, Estate, Copper, Workshop, Island
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Village
+Titandrake - draws Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - shuffles deck
+Titandrake - draws Village, Copper, Harem, Envoy, Copper
+ 
+---------- ftl: turn 11 ----------
+ftl - plays Workshop
+ftl - gains Island
+ftl - plays 2 Copper
+ftl - buys Vagrant
+ftl - gains Vagrant
+ftl - draws Copper, Gold, Warehouse, Warehouse, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays Envoy
+Titandrake - reveals: Estate, Copper, Estate, Village, Copper
+ftl - discards Village
+Titandrake - discards Village
+Titandrake - places cards in hand:  Estate, Copper, Estate, Copper
+Titandrake - plays 4 Copper, 1 Harem, 1 Silver
+Titandrake - buys Forge
+Titandrake - gains Forge
+Titandrake - draws Copper, Copper, Copper, Forge, Tunnel
+ 
+---------- ftl: turn 12 ----------
+ftl - plays Warehouse
+ftl - draws Tunnel, Tunnel, Island
+ftl - discards Tunnel
+ftl - discards Tunnel
+ftl - discards Copper
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - plays Warehouse
+ftl - draws Tunnel, Tunnel, Tunnel
+ftl - discards Tunnel
+ftl - discards Tunnel
+ftl - discards Tunnel
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - plays Island
+ftl - sets aside Copper
+ftl - plays 1 Gold
+ftl - buys Tunnel
+ftl - gains Tunnel
+ftl - draws Copper
+ftl - shuffles deck
+ftl - draws Gold, Copper, Gold, Tunnel
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Forge
+Titandrake - trashes Copper, Copper, Copper, Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Gold, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Envoy
+ 
+---------- ftl: turn 13 ----------
+ftl - plays 2 Copper, 2 Gold
+ftl - buys Province
+ftl - gains Province
+ftl - draws Tunnel, Estate, Warehouse, Copper, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Envoy
+Titandrake - reveals: Silver, Copper, Estate, Village, Copper
+ftl - discards Silver
+Titandrake - discards Silver
+Titandrake - places cards in hand:  Copper, Estate, Village, Copper
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Forge, Forge, Copper, Village, Tunnel
+ 
+---------- ftl: turn 14 ----------
+ftl - plays Warehouse
+ftl - draws Warehouse, Gold, Tunnel
+ftl - discards Tunnel
+ftl - discards Estate
+ftl - discards Tunnel
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - plays Warehouse
+ftl - draws Gold, Warehouse, Estate
+ftl - discards Warehouse
+ftl - discards Estate
+ftl - discards Copper
+ftl - plays 3 Gold
+ftl - buys Province
+ftl - gains Province
+ftl - draws Gold, Gold, Island, Island, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Village
+Titandrake - draws Harem
+Titandrake - plays Forge
+Titandrake - trashes Copper, Forge
+Titandrake - gains Forge
+Titandrake - plays Harem
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Copper, Envoy, Estate, Copper, Tunnel
+ 
+---------- ftl: turn 15 ----------
+ftl - plays Island
+ftl - sets aside Island
+ftl - plays 3 Gold
+ftl - buys Province
+ftl - gains Province
+ftl - draws Workshop, Gold, Gold, Vagrant, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Envoy
+Titandrake - reveals: Village, Gold, Estate, Forge, Vagrant
+ftl - discards Gold
+Titandrake - discards Gold
+Titandrake - places cards in hand:  Village, Estate, Forge, Vagrant
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Silver, Forge, Estate, Village, Copper
+ 
+---------- ftl: turn 16 ----------
+ftl - plays Vagrant
+ftl - draws Vagrant
+ftl - reveals: Copper
+ftl - places Copper on top of deck
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Province
+ftl - places Province in hand
+ftl - plays Workshop
+ftl - gains Island
+ftl - plays 3 Gold, 1 Copper
+ftl - buys Province
+ftl - gains Province
+ftl - draws Tunnel, Copper, Tunnel, Estate, Warehouse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Village
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Harem
+Titandrake - plays Forge
+Titandrake - trashes Estate, Copper
+Titandrake - gains Vagrant
+Titandrake - plays 1 Harem, 1 Silver
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - shuffles deck
+Titandrake - draws Village, Vagrant, Silver, Estate, Tunnel
+ 
+---------- ftl: turn 17 ----------
+ftl - plays Warehouse
+ftl - draws Copper, Tunnel
+ftl - shuffles deck
+ftl - draws Gold
+ftl - discards Tunnel
+ftl - discards Tunnel
+ftl - discards Tunnel
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - reveals reaction Tunnel
+ftl - gains Gold
+ftl - plays 2 Copper, 1 Gold
+ftl - buys Island
+ftl - gains Island
+ftl - draws Gold, Gold, Gold, Gold, Vagrant
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Envoy
+Titandrake - places Envoy on top of deck
+Titandrake - plays Village
+Titandrake - draws Envoy
+Titandrake - plays Envoy
+Titandrake - reveals: Forge, Forge, Copper, Vagrant, Estate
+ftl - discards Vagrant
+Titandrake - discards Vagrant
+Titandrake - places cards in hand:  Forge, Forge, Copper, Estate
+Titandrake - plays Forge
+Titandrake - trashes Estate, Estate, Copper
+Titandrake - gains Bishop
+Titandrake - plays Gold
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Harem, Village, Village, Copper, Bishop
+ 
+---------- ftl: turn 18 ----------
+ftl - plays Vagrant
+ftl - draws Copper
+ftl - reveals: Gold
+ftl - places Gold on top of deck
+ftl - plays 4 Gold, 1 Copper
+ftl - buys Province
+ftl - gains Province
+ftl - draws Gold, Copper, Copper, Gold, Workshop
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Village
+Titandrake - draws Vagrant
+Titandrake - plays Village
+Titandrake - shuffles deck
+Titandrake - draws Bishop
+Titandrake - plays Vagrant
+Titandrake - draws Village
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Village
+Titandrake - draws Vagrant
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Envoy
+Titandrake - places Envoy on top of deck
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - plays Harem
+Titandrake - buys Envoy
+Titandrake - gains Envoy
+Titandrake - draws Envoy, Vagrant, Forge, Forge, Warehouse
+ 
+---------- ftl: turn 19 ----------
+ftl - plays Workshop
+ftl - gains Island
+ftl - plays 2 Gold, 2 Copper
+ftl - buys Province
+ftl - gains Province
+ftl - draws Province, Island, Gold, Gold, Warehouse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Tunnel
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Warehouse
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Bishop
+Titandrake - discards Tunnel
+Titandrake - discards Forge
+Titandrake - discards Vagrant
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Forge
+Titandrake - trashes Envoy, Bishop
+Titandrake - gains Province
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Vagrant, Envoy, Harem, Village, Bishop
+ 
+------------ Game Over ------------
+ftl - cards: 6 Island, 4 Warehouse, 2 Vagrant, 16 Gold, 1 Workshop, 7 Copper, 7 Province, 6 Tunnel, 3 Estate
+ftl - victory point chips: 0
+ftl - total victory points: 69
+ftl - turns: 19
+ 
+Titandrake - cards: 3 Vagrant, 3 Village, 2 Forge, 1 Envoy, 1 Bishop, 1 Warehouse, 1 Harem, 1 Gold, 1 Silver, 1 Tunnel, 1 Province, 1 Estate
+Titandrake - victory point chips: 5
+Titandrake - total victory points: 16
+Titandrake - turns: 19
+ 
+1st place: ftl
+2nd place: Titandrake
+ 

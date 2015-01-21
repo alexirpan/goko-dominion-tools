@@ -1,0 +1,645 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Armory, Militia, Remake, Scavenger, Cultist, Highway, Library, Farmland, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+astrosity - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+astrosity - shuffles deck
+Titandrake - shuffles deck
+astrosity - draws Copper, Copper, Copper, Necropolis, Copper
+Titandrake - draws Copper, Copper, Copper, Overgrown Estate, Necropolis
+ 
+---------- astrosity: turn 1 ----------
+astrosity - plays Necropolis
+astrosity - plays 4 Copper
+astrosity - buys Remake
+astrosity - gains Remake
+astrosity - draws Hovel, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- astrosity: turn 2 ----------
+astrosity - plays 3 Copper
+astrosity - buys Silver
+astrosity - gains Silver
+astrosity - shuffles deck
+astrosity - draws Necropolis, Overgrown Estate, Copper, Copper, Remake
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - shuffles deck
+Titandrake - draws Hovel, Copper, Copper, Militia, Copper
+ 
+---------- astrosity: turn 3 ----------
+astrosity - plays Necropolis
+astrosity - plays Remake
+astrosity - trashes Copper
+astrosity - trashes Overgrown Estate
+astrosity - draws Copper
+astrosity - gains Herbalist
+astrosity - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Militia
+astrosity - discards Copper
+astrosity - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Overgrown Estate, Silver, Copper, Copper
+ 
+---------- astrosity: turn 4 ----------
+astrosity - plays 2 Copper, 1 Silver
+astrosity - buys Militia
+astrosity - gains Militia
+astrosity - draws Hovel
+astrosity - shuffles deck
+astrosity - draws Herbalist, Copper, Remake, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Necropolis, Copper
+Titandrake - shuffles deck
+Titandrake - draws Cultist, Hovel, Copper
+ 
+---------- astrosity: turn 5 ----------
+astrosity - plays Remake
+astrosity - trashes Herbalist
+astrosity - gains Silver
+astrosity - trashes Copper
+astrosity - draws Copper, Copper, Silver, Militia, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Cultist
+Titandrake - draws Militia, Copper
+astrosity - gains Survivors
+Titandrake - plays Militia
+astrosity - discards Copper
+astrosity - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - draws Copper, Copper, Cultist, Copper, Overgrown Estate
+ 
+---------- astrosity: turn 6 ----------
+astrosity - plays Militia
+Titandrake - discards Overgrown Estate
+Titandrake - discards Copper
+astrosity - plays 1 Copper, 1 Silver
+astrosity - buys Cultist
+astrosity - gains Cultist
+astrosity - draws Necropolis, Copper
+astrosity - shuffles deck
+astrosity - draws Cultist, Copper, Hovel
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Cultist
+Titandrake - draws Silver, Copper
+astrosity - gains Ruined Market
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Hovel, Copper, Cultist
+ 
+---------- astrosity: turn 7 ----------
+astrosity - plays Necropolis
+astrosity - plays Cultist
+astrosity - draws Copper, Copper
+Titandrake - gains Abandoned Mine
+astrosity - plays 4 Copper
+astrosity - buys Silver
+astrosity - gains Silver
+astrosity - draws Militia, Remake, Silver, Silver, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cultist
+Titandrake - draws Overgrown Estate, Necropolis
+astrosity - gains Survivors
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Cultist, Copper, Remake
+ 
+---------- astrosity: turn 8 ----------
+astrosity - plays Militia
+Titandrake - discards Remake
+Titandrake - discards Copper
+astrosity - plays 2 Silver, 1 Copper
+astrosity - buys King's Court
+astrosity - gains King's Court
+astrosity - draws Survivors
+astrosity - shuffles deck
+astrosity - draws Copper, Cultist, Copper, Hovel
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cultist
+Titandrake - draws Militia, Highway
+astrosity - gains Ruined Village
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Highway
+ 
+---------- astrosity: turn 9 ----------
+astrosity - plays Cultist
+astrosity - draws Survivors, Copper
+Titandrake - gains Ruined Market
+astrosity - draws Silver, Necropolis, Copper, King's Court, Ruined Market
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Highway
+Titandrake - draws Necropolis
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Copper, Overgrown Estate, Cultist, Remake, Abandoned Mine
+ 
+---------- astrosity: turn 10 ----------
+astrosity - plays Necropolis
+astrosity - plays King's Court
+astrosity - plays Ruined Market
+astrosity - plays Ruined Market
+astrosity - plays Ruined Market
+astrosity - draws Copper, Silver, Remake, Silver, Militia
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Remake
+Titandrake - trashes Cultist
+Titandrake - draws Copper, Copper, Copper
+Titandrake - gains Gold
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Copper
+Titandrake - gains Herbalist
+Titandrake - plays 5 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Cultist, Militia, Hovel
+Titandrake - shuffles deck
+Titandrake - draws Herbalist, Copper
+ 
+---------- astrosity: turn 11 ----------
+astrosity - plays Remake
+astrosity - trashes Copper
+astrosity - trashes Militia
+astrosity - gains Cultist
+astrosity - plays 2 Silver
+astrosity - buys Militia
+astrosity - gains Militia
+astrosity - shuffles deck
+astrosity - draws Survivors, Necropolis, Silver, Survivors, Ruined Village
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Copper
+astrosity - gains Ruined Village
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ruined Market, Silver, Gold, Highway, King's Court
+ 
+---------- astrosity: turn 12 ----------
+astrosity - plays Necropolis
+astrosity - plays Survivors
+astrosity - looks at King's Court, Remake
+astrosity - places Remake on top of deck
+astrosity - places King's Court on top of deck
+astrosity - plays Ruined Village
+astrosity - plays Survivors
+astrosity - looks at King's Court, Remake
+astrosity - places Remake on top of deck
+astrosity - places King's Court on top of deck
+astrosity - draws King's Court, Remake, Ruined Market, Militia, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays King's Court
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Remake
+Titandrake - plays Highway
+Titandrake - draws Abandoned Mine
+Titandrake - plays Remake
+Titandrake - trashes Ruined Market
+Titandrake - gains Herbalist
+Titandrake - trashes Gold
+Titandrake - gains King's Court
+Titandrake - plays Abandoned Mine
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Silver, Highway, Necropolis, Copper, Copper
+ 
+---------- astrosity: turn 13 ----------
+astrosity - plays King's Court
+astrosity - plays Remake
+astrosity - trashes Ruined Market
+astrosity - trashes Silver
+astrosity - gains Militia
+astrosity - plays Remake
+astrosity - trashes Militia
+astrosity - gains Cultist
+astrosity - plays Remake
+astrosity - draws Silver, Copper, Copper, Copper, Hovel
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - shuffles deck
+Titandrake - draws King's Court, King's Court, Necropolis, Militia, Remake
+ 
+---------- astrosity: turn 14 ----------
+astrosity - plays 3 Copper, 1 Silver
+astrosity - buys Highway
+astrosity - gains Highway
+astrosity - draws Copper, Cultist, Cultist
+astrosity - shuffles deck
+astrosity - draws Copper, Militia
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays King's Court
+Titandrake - plays Militia
+astrosity - discards Militia
+astrosity - discards Copper
+Titandrake - plays Militia
+Titandrake - plays Militia
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Highway, Copper, Copper, Silver
+ 
+---------- astrosity: turn 15 ----------
+astrosity - plays Cultist
+astrosity - draws Ruined Village, King's Court
+Titandrake - gains Ruined Library
+astrosity - plays Cultist
+astrosity - draws Silver, Highway
+Titandrake - gains Ruined Library
+astrosity - draws Ruined Village, Survivors, Remake, Copper, Hovel
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - draws Highway, Herbalist, Copper, Silver, Hovel
+ 
+---------- astrosity: turn 16 ----------
+astrosity - plays Remake
+astrosity - trashes Survivors
+astrosity - trashes Ruined Village
+astrosity - draws Silver, Necropolis, Survivors, Copper, Cultist
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Highway
+Titandrake - draws Abandoned Mine
+Titandrake - plays Herbalist
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Silver, Highway, Copper, Herbalist, Cultist
+ 
+---------- astrosity: turn 17 ----------
+astrosity - plays Necropolis
+astrosity - plays Cultist
+astrosity - shuffles deck
+astrosity - draws Ruined Village, Remake
+Titandrake - gains Ruined Village
+astrosity - plays Remake
+astrosity - trashes Ruined Village
+astrosity - trashes Survivors
+astrosity - draws Cultist, King's Court, Hovel, Militia, Highway
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Herbalist
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Highway
+Titandrake - shuffles deck
+Titandrake - draws Herbalist, Remake, Militia, Copper
+ 
+---------- astrosity: turn 18 ----------
+astrosity - plays King's Court
+astrosity - plays Highway
+astrosity - draws Silver
+astrosity - plays Highway
+astrosity - draws Copper
+astrosity - plays Highway
+astrosity - draws Copper
+astrosity - plays Cultist
+astrosity - draws Cultist, Copper
+astrosity - plays Cultist
+astrosity - shuffles deck
+astrosity - draws Necropolis, Silver
+astrosity - plays Necropolis
+astrosity - plays Militia
+Titandrake - discards Herbalist
+Titandrake - discards Militia
+astrosity - plays 3 Copper, 2 Silver
+astrosity - buys Province
+astrosity - trashes Hovel
+astrosity - gains Province
+astrosity - draws Remake, Cultist, Copper
+astrosity - shuffles deck
+astrosity - draws King's Court, Necropolis
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Highway
+Titandrake - draws Herbalist
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - gains Herbalist
+Titandrake - trashes Herbalist
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Abandoned Mine, Copper, Necropolis
+ 
+---------- astrosity: turn 19 ----------
+astrosity - plays Necropolis
+astrosity - plays King's Court
+astrosity - plays Cultist
+astrosity - draws Province, Silver
+astrosity - plays Cultist
+astrosity - draws Highway, Copper
+astrosity - plays Cultist
+astrosity - draws Silver, Cultist
+astrosity - plays Cultist
+astrosity - draws Militia, Copper
+astrosity - plays Highway
+astrosity - draws Copper
+astrosity - plays Militia
+Titandrake - discards Necropolis
+Titandrake - discards Copper
+astrosity - plays 4 Copper, 2 Silver
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Cultist
+astrosity - shuffles deck
+astrosity - draws Copper, Copper, Province, Cultist
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Abandoned Mine
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Copper, King's Court, Silver, Copper, Ruined Library
+ 
+---------- astrosity: turn 20 ----------
+astrosity - plays Cultist
+astrosity - draws Highway, Necropolis
+astrosity - plays Cultist
+astrosity - draws Remake, Province
+astrosity - draws Copper, Copper, Silver, King's Court, Militia
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays King's Court
+Titandrake - plays Ruined Library
+Titandrake - draws Hovel
+Titandrake - plays Ruined Library
+Titandrake - draws Cultist
+Titandrake - plays Ruined Library
+Titandrake - draws Highway
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - draws Copper, Copper, Ruined Village, King's Court, Silver
+ 
+---------- astrosity: turn 21 ----------
+astrosity - plays King's Court
+astrosity - plays Militia
+Titandrake - discards Ruined Village
+Titandrake - discards King's Court
+astrosity - plays Militia
+astrosity - plays Militia
+astrosity - plays 2 Copper, 1 Silver
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Cultist, Silver
+astrosity - shuffles deck
+astrosity - draws Copper, Cultist, Province
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Highway, Cultist, Ruined Library, King's Court, Highway
+ 
+---------- astrosity: turn 22 ----------
+astrosity - plays Cultist
+astrosity - draws Necropolis, Highway
+astrosity - plays Cultist
+astrosity - draws Province, Copper
+astrosity - plays 2 Copper, 1 Silver
+astrosity - buys Silver
+astrosity - gains Silver
+astrosity - draws Copper, King's Court, Silver, Cultist, Province
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Scavenger
+Titandrake - plays King's Court
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Scavenger
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Highway
+Titandrake - draws Necropolis
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Remake on top of deck
+Titandrake - plays Necropolis
+Titandrake - plays Ruined Library
+Titandrake - draws Remake
+Titandrake - plays Remake
+Titandrake - trashes Cultist
+Titandrake - shuffles deck
+Titandrake - draws Herbalist, Hovel, Silver
+Titandrake - gains Gold
+Titandrake - trashes Hovel
+Titandrake - gains Militia
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places King's Court on top of deck
+Titandrake - plays 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws King's Court
+Titandrake - shuffles deck
+Titandrake - draws King's Court, Highway, Militia, Gold
+ 
+---------- astrosity: turn 23 ----------
+astrosity - plays King's Court
+astrosity - plays Cultist
+astrosity - draws Copper, Remake
+astrosity - plays Cultist
+astrosity - draws Militia
+astrosity - shuffles deck
+astrosity - draws Cultist
+astrosity - plays Cultist
+astrosity - draws Highway, Cultist
+astrosity - plays Cultist
+astrosity - draws Copper, Necropolis
+astrosity - plays Cultist
+astrosity - draws Silver, Province
+astrosity - plays 3 Copper, 2 Silver
+astrosity - buys King's Court
+astrosity - gains King's Court
+astrosity - draws Silver, Copper, Province
+astrosity - shuffles deck
+astrosity - draws Cultist, Province
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays King's Court
+Titandrake - plays King's Court
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Scavenger
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays King's Court
+Titandrake - plays Militia
+astrosity - discards Province
+astrosity - discards Province
+Titandrake - plays Militia
+Titandrake - plays Militia
+Titandrake - plays King's Court
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays Scavenger
+Titandrake - places King's Court on top of deck
+Titandrake - plays Scavenger
+Titandrake - places Herbalist on top of deck
+Titandrake - buys Farmland
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - draws Herbalist, King's Court, Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Remake
+ 
+---------- astrosity: turn 24 ----------
+astrosity - plays Cultist
+astrosity - draws Copper, Remake
+astrosity - plays 2 Copper, 1 Silver
+astrosity - buys Scavenger
+astrosity - gains Scavenger
+astrosity - draws Silver, Cultist, Necropolis, Militia, Province
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays King's Court
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Scavenger on top of deck
+Titandrake - plays Scavenger
+Titandrake - places King's Court on top of deck
+Titandrake - plays Scavenger
+Titandrake - places Highway on top of deck
+Titandrake - buys Farmland
+Titandrake - trashes Remake
+Titandrake - gains Farmland
+Titandrake - gains Farmland
+Titandrake - draws Highway, King's Court, Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Copper, Necropolis
+ 
+---------- astrosity: turn 25 ----------
+astrosity - plays Necropolis
+astrosity - plays Cultist
+astrosity - draws Highway, King's Court
+astrosity - plays Highway
+astrosity - draws Silver
+astrosity - plays King's Court
+astrosity - plays Militia
+Titandrake - discards Necropolis
+Titandrake - discards Copper
+astrosity - plays Militia
+astrosity - plays Militia
+astrosity - plays 2 Silver
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Copper, Cultist, Copper, King's Court
+astrosity - shuffles deck
+astrosity - draws Necropolis
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays King's Court
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places King's Court on top of deck
+Titandrake - plays Scavenger
+Titandrake - places Scavenger on top of deck
+Titandrake - plays Scavenger
+Titandrake - places Silver on top of deck
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Scavenger, King's Court
+Titandrake - shuffles deck
+Titandrake - draws Highway, Copper
+ 
+---------- astrosity: turn 26 ----------
+astrosity - plays Necropolis
+astrosity - plays King's Court
+astrosity - plays Cultist
+astrosity - draws Remake, Copper
+astrosity - plays Cultist
+astrosity - draws Highway, Militia
+astrosity - plays Cultist
+astrosity - draws King's Court, Province
+astrosity - plays King's Court
+astrosity - plays Highway
+astrosity - draws Cultist
+astrosity - plays Highway
+astrosity - draws Silver
+astrosity - plays Highway
+astrosity - draws Scavenger
+astrosity - plays Scavenger
+astrosity - moves deck to discards
+astrosity - places Cultist on top of deck
+astrosity - plays Cultist
+astrosity - draws Cultist
+astrosity - shuffles deck
+astrosity - draws Province
+astrosity - plays Cultist
+astrosity - draws Province, Silver
+astrosity - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Highway
+astrosity - plays 3 Copper, 2 Silver
+astrosity - buys Province
+astrosity - gains Province
+astrosity - draws Copper, Silver, Province
+astrosity - shuffles deck
+astrosity - draws Remake, Silver
+ 
+------------ Game Over ------------
+astrosity - cards: 3 Cultist, 2 King's Court, 1 Remake, 1 Necropolis, 1 Scavenger, 1 Highway, 1 Militia, 4 Copper, 3 Silver, 5 Province
+astrosity - total victory points: 30
+astrosity - turns: 26
+ 
+Titandrake - cards: 5 Highway, 3 Scavenger, 3 King's Court, 2 Militia, 2 Ruined Library, 2 Herbalist, 1 Cultist, 1 Remake, 1 Ruined Village, 1 Necropolis, 1 Abandoned Mine, 6 Copper, 4 Silver, 3 Province, 3 Farmland
+Titandrake - total victory points: 24
+Titandrake - turns: 25
+ 
+1st place: astrosity
+2nd place: Titandrake
+ 

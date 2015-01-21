@@ -1,0 +1,794 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Forager, Fortune Teller, Menagerie, Philosopher's Stone, Envoy, Ironmonger, Militia, Nomad Camp, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Venca - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Venca - shuffles deck
+Titandrake - shuffles deck
+Venca - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Venca: turn 1 ----------
+Venca - plays 3 Copper
+Venca - buys Forager
+Venca - gains Forager
+Venca - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Venca: turn 2 ----------
+Venca - plays 4 Copper
+Venca - buys Militia
+Venca - gains Militia
+Venca - shuffles deck
+Venca - draws Militia, Copper, Copper, Copper, Forager
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Forager, Estate
+ 
+---------- Venca: turn 3 ----------
+Venca - plays Forager
+Venca - trashes Copper
+Venca - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+Venca - plays 2 Copper
+Venca - buys Ironmonger
+Venca - gains Ironmonger
+Venca - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Copper, Ironmonger, Copper, Copper
+ 
+---------- Venca: turn 4 ----------
+Venca - plays 3 Copper
+Venca - buys Menagerie
+Venca - gains Menagerie
+Venca - draws Copper, Estate
+Venca - shuffles deck
+Venca - draws Copper, Ironmonger, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Estate, Copper, Candlestick Maker, Copper
+ 
+---------- Venca: turn 5 ----------
+Venca - plays Ironmonger
+Venca - draws Menagerie
+Venca - reveals: Estate
+Venca - discards Estate
+Venca - draws Copper
+Venca - plays Menagerie
+Venca - reveals hand: Copper, Estate, Copper, Copper, Copper
+Venca - draws Forager
+Venca - plays Forager
+Venca - trashes Estate
+Venca - plays 4 Copper
+Venca - buys Candlestick Maker
+Venca - gains Candlestick Maker
+Venca - buys Menagerie
+Venca - gains Menagerie
+Venca - draws Militia, Copper, Estate, Copper
+Venca - shuffles deck
+Venca - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Copper, Candlestick Maker, Copper
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Estate
+Titandrake - discards Estate
+Titandrake - draws Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Forager, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Candlestick Maker
+ 
+---------- Venca: turn 6 ----------
+Venca - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+Venca - plays 3 Copper
+Venca - buys Ironmonger
+Venca - gains Ironmonger
+Venca - draws Estate, Menagerie, Copper, Copper, Menagerie
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - draws Copper, Candlestick Maker, Copper, Copper, Menagerie
+ 
+---------- Venca: turn 7 ----------
+Venca - plays Menagerie
+Venca - reveals hand: Estate, Menagerie, Copper, Copper
+Venca - draws Copper
+Venca - plays Menagerie
+Venca - reveals hand: Copper, Estate, Copper, Copper
+Venca - draws Candlestick Maker
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays 3 Copper
+Venca - uses 1 coin token
+Venca - buys Ironmonger
+Venca - gains Ironmonger
+Venca - draws Forager, Ironmonger
+Venca - shuffles deck
+Venca - draws Menagerie, Militia, Ironmonger
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Candlestick Maker, Copper, Copper
+Titandrake - draws Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Candlestick Maker, Copper, Copper
+Titandrake - draws Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 4 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Estate, Ironmonger, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Venca: turn 8 ----------
+Venca - plays Ironmonger
+Venca - draws Estate
+Venca - reveals: Estate
+Venca - discards Estate
+Venca - draws Candlestick Maker
+Venca - plays Menagerie
+Venca - reveals hand: Forager, Ironmonger, Militia, Estate, Candlestick Maker
+Venca - draws Copper, Copper, Copper
+Venca - plays Ironmonger
+Venca - draws Copper
+Venca - reveals: Copper
+Venca - discards Copper
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Forager
+Venca - trashes Estate
+Venca - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+Venca - plays 4 Copper
+Venca - buys Ironmonger
+Venca - gains Ironmonger
+Venca - buys Ironmonger
+Venca - gains Ironmonger
+Venca - draws Menagerie, Ironmonger, Copper
+Venca - shuffles deck
+Venca - draws Menagerie, Militia
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Forager
+Titandrake - reveals: Candlestick Maker
+Titandrake - places Candlestick Maker on top of deck
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Copper
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Candlestick Maker, Menagerie, Copper, Candlestick Maker, Ironmonger
+ 
+---------- Venca: turn 9 ----------
+Venca - plays Menagerie
+Venca - reveals hand: Menagerie, Ironmonger, Copper, Militia
+Venca - draws Copper, Ironmonger, Copper
+Venca - plays Ironmonger
+Venca - draws Candlestick Maker
+Venca - reveals: Copper
+Venca - discards Copper
+Venca - plays Ironmonger
+Venca - draws Copper
+Venca - reveals: Estate
+Venca - discards Estate
+Venca - draws Ironmonger
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Copper
+Venca - discards Copper
+Venca - plays Ironmonger
+Venca - draws Forager
+Venca - shuffles deck
+Venca - reveals: Estate
+Venca - discards Estate
+Venca - draws Copper
+Venca - plays Forager
+Venca - trashes Copper
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Menagerie
+Venca - reveals hand: Copper, Copper, Copper, Militia, Copper
+Venca - draws Copper
+Venca - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Candlestick Maker
+Venca - plays 5 Copper
+Venca - buys Ironmonger
+Venca - gains Ironmonger
+Venca - buys Gold
+Venca - gains Gold
+Venca - shuffles deck
+Venca - draws Ironmonger, Ironmonger, Militia, Ironmonger, Candlestick Maker
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Candlestick Maker, Ironmonger
+Titandrake - draws Menagerie, Copper, Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Forager
+Titandrake - places Forager on top of deck
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Candlestick Maker, Copper
+Titandrake - draws Forager
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Ironmonger, Candlestick Maker
+ 
+---------- Venca: turn 10 ----------
+Venca - plays Ironmonger
+Venca - draws Estate
+Venca - reveals: Copper
+Venca - discards Copper
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Copper
+Venca - discards Copper
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Copper
+Venca - discards Copper
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Menagerie
+Venca - places Menagerie on top of deck
+Venca - plays Ironmonger
+Venca - draws Menagerie
+Venca - reveals: Forager
+Venca - places Forager on top of deck
+Venca - plays Menagerie
+Venca - reveals hand: Militia, Candlestick Maker, Estate, Ironmonger
+Venca - draws Forager, Menagerie, Copper
+Venca - plays Menagerie
+Venca - reveals hand: Forager, Copper, Militia, Candlestick Maker, Estate, Ironmonger
+Venca - draws Copper, Gold
+Venca - shuffles deck
+Venca - draws Copper
+Venca - plays Ironmonger
+Venca - draws Copper
+Venca - reveals: Copper
+Venca - discards Copper
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Forager
+Venca - trashes Estate
+Venca - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+Venca - plays 4 Copper, 1 Gold
+Venca - buys Ironmonger
+Venca - gains Ironmonger
+Venca - buys Ironmonger
+Venca - gains Ironmonger
+Venca - buys Gold
+Venca - gains Gold
+Venca - shuffles deck
+Venca - draws Forager, Ironmonger, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Candlestick Maker
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Copper
+Titandrake - uses 4 coin tokens
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - buys Fortune Teller
+Titandrake - gains Fortune Teller
+Titandrake - shuffles deck
+Titandrake - draws Silver, Ironmonger, Copper, Copper, Forager
+ 
+---------- Venca: turn 11 ----------
+Venca - plays Ironmonger
+Venca - draws Militia
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Forager
+Venca - trashes Copper
+Venca - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+Venca - plays 1 Copper, 1 Gold
+Venca - uses 2 coin tokens
+Venca - buys Menagerie
+Venca - gains Menagerie
+Venca - buys Gold
+Venca - gains Gold
+Venca - draws Ironmonger, Copper, Ironmonger, Gold, Ironmonger
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Candlestick Maker
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Silver
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Estate, Menagerie, Ironmonger, Menagerie, Copper
+ 
+---------- Venca: turn 12 ----------
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Copper
+Venca - discards Copper
+Venca - plays Ironmonger
+Venca - draws Menagerie
+Venca - reveals: Menagerie
+Venca - places Menagerie on top of deck
+Venca - plays Ironmonger
+Venca - draws Menagerie
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Menagerie
+Venca - reveals hand: Ironmonger, Copper, Gold, Menagerie
+Venca - draws Ironmonger, Copper, Ironmonger
+Venca - plays Ironmonger
+Venca - draws Candlestick Maker
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - shuffles deck
+Venca - reveals: Copper
+Venca - discards Copper
+Venca - plays Ironmonger
+Venca - draws Gold
+Venca - reveals: Gold
+Venca - places Gold on top of deck
+Venca - plays Ironmonger
+Venca - draws Gold
+Venca - reveals: Forager
+Venca - places Forager on top of deck
+Venca - plays Menagerie
+Venca - reveals hand: Copper, Copper, Gold, Candlestick Maker, Gold, Gold
+Venca - draws Forager
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Forager
+Venca - trashes Copper
+Venca - plays 3 Gold, 1 Copper
+Venca - buys Province
+Venca - gains Province
+Venca - buys Envoy
+Venca - gains Envoy
+Venca - buys Candlestick Maker
+Venca - gains Candlestick Maker
+Venca - draws Menagerie, Ironmonger, Copper, Militia
+Venca - shuffles deck
+Venca - draws Ironmonger
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Ironmonger, Menagerie, Copper
+Titandrake - draws Copper, Candlestick Maker, Candlestick Maker
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Ironmonger
+Titandrake - draws Menagerie
+Titandrake - reveals: Fortune Teller
+Titandrake - discards Fortune Teller
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Candlestick Maker, Estate, Copper, Menagerie
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Forager
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Candlestick Maker, Estate
+Titandrake - draws Silver, Copper, Fortune Teller
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Fortune Teller
+Venca - reveals Ironmonger, Copper, Ironmonger, Forager, Candlestick Maker, Gold, Gold, Province
+Venca - discards: Ironmonger, Copper, Ironmonger, Forager, Candlestick Maker, Gold, Gold
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Candlestick Maker
+Titandrake - gains Candlestick Maker
+Titandrake - draws Copper, Candlestick Maker, Menagerie, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Venca: turn 13 ----------
+Venca - plays Ironmonger
+Venca - draws Province
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Menagerie
+Venca - reveals hand: Ironmonger, Copper, Militia, Province
+Venca - draws Ironmonger, Copper, Menagerie
+Venca - plays Ironmonger
+Venca - draws Menagerie
+Venca - reveals: Gold
+Venca - places Gold on top of deck
+Venca - plays Menagerie
+Venca - reveals hand: Ironmonger, Copper, Menagerie, Copper, Militia, Province
+Venca - draws Gold
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Envoy
+Venca - places Envoy on top of deck
+Venca - plays Ironmonger
+Venca - draws Envoy
+Venca - reveals: Candlestick Maker
+Venca - places Candlestick Maker on top of deck
+Venca - plays Menagerie
+Venca - reveals hand: Gold, Copper, Copper, Militia, Province, Envoy
+Venca - draws Candlestick Maker
+Venca - plays Envoy
+Venca - reveals: Ironmonger
+Venca - shuffles deck
+Venca - reveals: Candlestick Maker, Ironmonger, Gold, Copper
+Titandrake - discards Gold
+Venca - discards Gold
+Venca - places cards in hand:  Ironmonger, Candlestick Maker, Ironmonger, Copper
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Gold
+Venca - places Gold on top of deck
+Venca - plays Ironmonger
+Venca - draws Gold
+Venca - reveals: Forager
+Venca - places Forager on top of deck
+Venca - plays Ironmonger
+Venca - draws Forager
+Venca - shuffles deck
+Venca - reveals: Gold
+Venca - places Gold on top of deck
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+Venca - plays Forager
+Venca - trashes Copper
+Venca - plays 2 Gold, 2 Copper
+Venca - buys Province
+Venca - gains Province
+Venca - buys Envoy
+Venca - gains Envoy
+Venca - buys Candlestick Maker
+Venca - gains Candlestick Maker
+Venca - draws Gold
+Venca - shuffles deck
+Venca - draws Candlestick Maker, Ironmonger, Ironmonger, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Candlestick Maker
+Titandrake - draws Forager, Candlestick Maker, Silver
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Menagerie, Candlestick Maker, Ironmonger, Menagerie, Menagerie
+ 
+---------- Venca: turn 14 ----------
+Venca - plays Ironmonger
+Venca - draws Copper
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Menagerie
+Venca - places Menagerie on top of deck
+Venca - plays Ironmonger
+Venca - draws Menagerie
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Menagerie
+Venca - reveals hand: Gold, Candlestick Maker, Gold, Copper
+Venca - draws Ironmonger
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Candlestick Maker
+Venca - discards Candlestick Maker
+Venca - plays Ironmonger
+Venca - draws Forager
+Venca - reveals: Candlestick Maker
+Venca - places Candlestick Maker on top of deck
+Venca - plays Forager
+Venca - trashes Copper
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays 2 Gold
+Venca - uses 1 coin token
+Venca - buys Province
+Venca - gains Province
+Venca - draws Candlestick Maker, Ironmonger, Province, Menagerie, Envoy
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Menagerie, Candlestick Maker, Ironmonger, Menagerie
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Candlestick Maker
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Ironmonger, Menagerie, Candlestick Maker
+Titandrake - draws Estate, Gold, Fortune Teller
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Estate, Gold, Fortune Teller, Ironmonger, Candlestick Maker
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Copper, Estate, Gold, Fortune Teller, Ironmonger, Candlestick Maker
+Titandrake - draws Candlestick Maker, Copper, Candlestick Maker
+Titandrake - plays Ironmonger
+Titandrake - draws Forager
+Titandrake - reveals: Menagerie
+Titandrake - places Menagerie on top of deck
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Fortune Teller
+Venca - reveals Menagerie, Province
+Venca - discards Menagerie
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - uses 6 coin tokens
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Menagerie, Copper
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Fortune Teller, Candlestick Maker
+ 
+---------- Venca: turn 15 ----------
+Venca - plays Menagerie
+Venca - reveals hand: Candlestick Maker, Ironmonger, Province, Envoy
+Venca - draws Province, Copper, Gold
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Militia
+Venca - places Militia on top of deck
+Venca - plays Ironmonger
+Venca - draws Militia
+Venca - reveals: Envoy
+Venca - places Envoy on top of deck
+Venca - plays Envoy
+Venca - reveals: Envoy
+Venca - shuffles deck
+Venca - reveals: Ironmonger, Ironmonger, Province, Candlestick Maker
+Titandrake - discards Envoy
+Venca - discards Envoy
+Venca - places cards in hand:  Ironmonger, Ironmonger, Province, Candlestick Maker
+Venca - plays Ironmonger
+Venca - draws Menagerie
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Candlestick Maker
+Venca - places Candlestick Maker on top of deck
+Venca - plays Ironmonger
+Venca - draws Candlestick Maker
+Venca - reveals: Gold
+Venca - places Gold on top of deck
+Venca - plays Menagerie
+Venca - reveals hand: Province, Copper, Gold, Candlestick Maker, Province, Militia, Province, Candlestick Maker, Candlestick Maker
+Venca - draws Gold
+Venca - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Fortune Teller
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays 2 Gold, 1 Copper
+Venca - uses 6 coin tokens
+Venca - buys Province
+Venca - gains Province
+Venca - buys Province
+Venca - gains Province
+Venca - draws Ironmonger, Ironmonger, Menagerie, Forager, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Menagerie, Candlestick Maker
+Titandrake - draws Candlestick Maker, Province, Candlestick Maker
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Candlestick Maker, Province
+Titandrake - draws Menagerie, Menagerie, Gold
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Menagerie, Gold, Candlestick Maker, Province
+Titandrake - draws Forager, Ironmonger, Candlestick Maker
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Forager, Ironmonger, Gold, Candlestick Maker, Province
+Titandrake - draws Copper, Estate, Silver
+Titandrake - plays Ironmonger
+Titandrake - draws Province
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - uses 8 coin tokens
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Ironmonger, Menagerie
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger, Province, Menagerie
+ 
+---------- Venca: turn 16 ----------
+Venca - plays Ironmonger
+Venca - shuffles deck
+Venca - draws Province
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Menagerie
+Venca - reveals hand: Ironmonger, Forager, Gold, Province
+Venca - draws Ironmonger, Militia, Envoy
+Venca - plays Envoy
+Venca - reveals: Ironmonger, Gold, Province, Ironmonger, Candlestick Maker
+Titandrake - discards Gold
+Venca - discards Gold
+Venca - places cards in hand:  Ironmonger, Province, Ironmonger, Candlestick Maker
+Venca - plays Ironmonger
+Venca - draws Copper
+Venca - reveals: Menagerie
+Venca - places Menagerie on top of deck
+Venca - plays Ironmonger
+Venca - draws Menagerie
+Venca - reveals: Ironmonger
+Venca - places Ironmonger on top of deck
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Candlestick Maker
+Venca - places Candlestick Maker on top of deck
+Venca - plays Ironmonger
+Venca - draws Candlestick Maker
+Venca - reveals: Province
+Venca - discards Province
+Venca - draws Ironmonger
+Venca - plays Ironmonger
+Venca - draws Ironmonger
+Venca - reveals: Menagerie
+Venca - places Menagerie on top of deck
+Venca - plays Ironmonger
+Venca - draws Menagerie
+Venca - reveals: Candlestick Maker
+Venca - places Candlestick Maker on top of deck
+Venca - plays Ironmonger
+Venca - draws Candlestick Maker
+Venca - reveals: Province
+Venca - discards Province
+Venca - draws Province
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Candlestick Maker
+Venca - receives 1 coin token
+Venca - plays Forager
+Venca - trashes Menagerie
+Venca - plays Menagerie
+Venca - reveals hand: Militia, Gold, Province, Province, Copper, Province
+Venca - draws Envoy
+Venca - plays 1 Gold, 1 Copper
+Venca - uses 3 coin tokens
+Venca - buys Province
+Venca - gains Province
+Venca - draws Gold
+Venca - shuffles deck
+Venca - draws Forager, Ironmonger, Gold, Candlestick Maker
+ 
+------------ Game Over ------------
+Venca - cards: 8 Ironmonger, 3 Candlestick Maker, 2 Envoy, 2 Menagerie, 1 Forager, 1 Militia, 3 Gold, 1 Copper, 6 Province
+Venca - total victory points: 36
+Venca - turns: 16
+ 
+Titandrake - cards: 5 Menagerie, 4 Candlestick Maker, 2 Ironmonger, 1 Forager, 1 Fortune Teller, 2 Copper, 1 Silver, 1 Gold, 3 Duchy, 2 Province
+Titandrake - total victory points: 21
+Titandrake - turns: 15
+ 
+1st place: Venca
+2nd place: Titandrake
+ 

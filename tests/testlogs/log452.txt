@@ -1,0 +1,398 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Doctor, Ironworks, Mining Village, Salvager, Throne Room, Ill-Gotten Gains, Junk Dealer, Witch, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Christian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Christian - shuffles deck
+Titandrake - shuffles deck
+Christian - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Christian: turn 1 ----------
+Christian - plays 5 Copper
+Christian - buys Witch
+Christian - gains Witch
+Christian - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Estate, Estate, Copper
+ 
+---------- Christian: turn 2 ----------
+Christian - plays 2 Copper
+Christian - buys Crossroads
+Christian - gains Crossroads
+Christian - shuffles deck
+Christian - draws Estate, Copper, Copper, Estate, Crossroads
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Salvager, Copper
+ 
+---------- Christian: turn 3 ----------
+Christian - plays Crossroads
+Christian - reveals hand: Estate, Copper, Copper, Estate
+Christian - draws Copper, Estate
+Christian - plays 3 Copper
+Christian - buys Silver
+Christian - gains Silver
+Christian - draws Witch, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Doctor
+Titandrake - overpays for Doctor with 1 coin
+Titandrake - looks at Copper
+Titandrake - trashes Copper
+Titandrake - gains Doctor
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Doctor, Copper, Estate, Copper
+ 
+---------- Christian: turn 4 ----------
+Christian - plays Witch
+Christian - shuffles deck
+Christian - draws Copper, Estate
+Titandrake - gains Curse
+Christian - plays 5 Copper
+Christian - buys Witch
+Christian - gains Witch
+Christian - draws Silver, Copper, Copper, Crossroads, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Doctor
+Titandrake - names Copper
+Titandrake - reveals: Copper, Copper, Salvager
+Titandrake - trashes Copper, Copper
+Titandrake - places Salvager on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Salvager, Silver, Estate, Estate, Silver
+ 
+---------- Christian: turn 5 ----------
+Christian - plays Crossroads
+Christian - reveals hand: Silver, Copper, Copper, Estate
+Christian - draws Estate
+Christian - plays 2 Copper, 1 Silver
+Christian - buys Crossroads
+Christian - gains Crossroads
+Christian - shuffles deck
+Christian - draws Witch, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Estate
+Titandrake - plays 2 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Silver, Salvager
+ 
+---------- Christian: turn 6 ----------
+Christian - plays Witch
+Christian - draws Copper, Crossroads
+Titandrake - gains Curse
+Christian - plays 4 Copper
+Christian - buys Crossroads
+Christian - gains Crossroads
+Christian - draws Copper, Silver, Witch, Copper, Crossroads
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Copper
+Titandrake - plays 3 Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Christian - gains Curse
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Christian: turn 7 ----------
+Christian - plays Crossroads
+Christian - reveals hand: Copper, Silver, Witch, Copper
+Christian - plays Witch
+Christian - draws Estate, Estate
+Titandrake - gains Curse
+Christian - plays 2 Copper, 1 Silver
+Christian - buys Silver
+Christian - gains Silver
+Christian - draws Copper
+Christian - shuffles deck
+Christian - draws Estate, Copper, Witch, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Doctor, Witch, Curse
+Titandrake - shuffles deck
+Titandrake - draws Curse, Silver
+ 
+---------- Christian: turn 8 ----------
+Christian - plays Witch
+Christian - draws Estate, Copper
+Titandrake - gains Curse
+Christian - plays 4 Copper
+Christian - buys Silver
+Christian - gains Silver
+Christian - draws Witch, Copper, Curse, Silver, Crossroads
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Witch
+Titandrake - draws Salvager, Silver
+Christian - gains Curse
+Titandrake - plays 2 Silver
+Titandrake - buys Mining Village
+Titandrake - gains Mining Village
+Titandrake - draws Estate, Silver, Curse, Estate, Copper
+ 
+---------- Christian: turn 9 ----------
+Christian - plays Crossroads
+Christian - reveals hand: Witch, Copper, Curse, Silver
+Christian - plays Witch
+Christian - draws Silver, Copper
+Titandrake - gains Curse
+Christian - plays 2 Copper, 2 Silver
+Christian - buys Gold
+Christian - gains Gold
+Christian - draws Crossroads, Copper, Estate, Crossroads
+Christian - shuffles deck
+Christian - draws Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ill-Gotten Gains, Copper, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Doctor
+ 
+---------- Christian: turn 10 ----------
+Christian - plays Crossroads
+Christian - reveals hand: Crossroads, Copper, Estate, Copper
+Christian - draws Copper
+Christian - plays Crossroads
+Christian - reveals hand: Copper, Copper, Estate, Copper
+Christian - draws Curse
+Christian - plays 3 Copper
+Christian - buys Silver
+Christian - gains Silver
+Christian - draws Estate, Crossroads, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Doctor
+Titandrake - names Curse
+Titandrake - reveals: Silver, Estate, Witch
+Titandrake - places Witch on top of deck
+Titandrake - places Estate on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Christian - gains Curse
+Titandrake - draws Silver, Estate, Witch, Silver, Copper
+ 
+---------- Christian: turn 11 ----------
+Christian - plays Crossroads
+Christian - reveals hand: Estate, Copper, Gold, Copper
+Christian - draws Silver
+Christian - plays 2 Copper, 1 Silver, 1 Gold
+Christian - buys Gold
+Christian - gains Gold
+Christian - draws Curse, Witch, Witch, Silver, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Witch
+Titandrake - draws Curse, Curse
+Christian - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+Christian - gains Curse
+Titandrake - draws Silver, Estate, Curse, Salvager, Mining Village
+ 
+---------- Christian: turn 12 ----------
+Christian - plays Witch
+Christian - draws Silver, Estate
+Christian - plays 2 Silver, 1 Copper
+Christian - buys Junk Dealer
+Christian - gains Junk Dealer
+Christian - draws Copper
+Christian - shuffles deck
+Christian - draws Silver, Crossroads, Witch, Curse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Mining Village
+Titandrake - draws Silver
+Titandrake - trashes Mining Village
+Titandrake - plays Salvager
+Titandrake - trashes Curse
+Titandrake - plays 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Curse, Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- Christian: turn 13 ----------
+Christian - plays Crossroads
+Christian - reveals hand: Copper, Silver, Witch, Curse
+Christian - plays Witch
+Christian - draws Curse, Copper
+Christian - plays 2 Copper, 1 Silver
+Christian - buys Salvager
+Christian - gains Salvager
+Christian - draws Copper, Silver, Curse, Silver, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - draws Silver, Silver, Salvager, Ill-Gotten Gains, Gold
+ 
+---------- Christian: turn 14 ----------
+Christian - plays 2 Silver, 1 Copper
+Christian - buys Junk Dealer
+Christian - gains Junk Dealer
+Christian - draws Gold, Curse, Copper, Copper, Junk Dealer
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Ill-Gotten Gains
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - draws Silver, Ill-Gotten Gains, Silver, Silver, Curse
+ 
+---------- Christian: turn 15 ----------
+Christian - plays Junk Dealer
+Christian - draws Gold
+Christian - trashes Curse
+Christian - plays 2 Gold, 2 Copper
+Christian - buys Province
+Christian - gains Province
+Christian - draws Estate, Silver, Crossroads, Witch, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 3 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Ill-Gotten Gains, Witch, Estate, Copper, Curse
+ 
+---------- Christian: turn 16 ----------
+Christian - plays Crossroads
+Christian - reveals hand: Estate, Silver, Witch, Copper
+Christian - draws Copper
+Christian - plays Witch
+Christian - draws Curse, Estate
+Christian - plays 2 Copper, 1 Silver
+Christian - buys Silver
+Christian - gains Silver
+Christian - draws Crossroads
+Christian - shuffles deck
+Christian - draws Silver, Province, Copper, Witch
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Witch
+Titandrake - draws Doctor
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Silver, Silver, Ill-Gotten Gains
+ 
+---------- Christian: turn 17 ----------
+Christian - plays Crossroads
+Christian - reveals hand: Silver, Province, Copper, Witch
+Christian - draws Estate
+Christian - plays Witch
+Christian - draws Silver, Crossroads
+Christian - plays Crossroads
+Christian - reveals hand: Estate, Silver, Province, Copper, Silver
+Christian - draws Silver, Copper
+Christian - plays 3 Silver, 2 Copper
+Christian - buys Province
+Christian - gains Province
+Christian - draws Gold, Junk Dealer, Copper, Copper, Salvager
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Silver, Province, Silver, Salvager
+ 
+---------- Christian: turn 18 ----------
+Christian - plays Junk Dealer
+Christian - draws Estate
+Christian - trashes Estate
+Christian - plays Salvager
+Christian - trashes Gold
+Christian - plays 2 Copper
+Christian - buys Province
+Christian - gains Province
+Christian - draws Crossroads, Copper, Curse, Curse, Junk Dealer
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Silver
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Silver, Province, Salvager, Curse
+ 
+---------- Christian: turn 19 ----------
+Christian - plays Junk Dealer
+Christian - draws Estate
+Christian - trashes Curse
+Christian - plays Crossroads
+Christian - reveals hand: Copper, Curse, Estate
+Christian - draws Gold
+Christian - plays 1 Gold, 1 Copper
+Christian - buys Duchy
+Christian - gains Duchy
+Christian - draws Silver, Witch, Curse, Copper, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Salvager
+Titandrake - trashes Province
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Salvager, 1 Doctor, 1 Witch, 5 Silver, 5 Copper, 2 Ill-Gotten Gains, 1 Gold, 4 Province, 3 Estate, 4 Curse
+Titandrake - total victory points: 23
+Titandrake - turns: 20
+ 
+Christian - cards: 3 Crossroads, 2 Witch, 2 Junk Dealer, 1 Salvager, 7 Copper, 5 Silver, 1 Gold, 3 Province, 2 Estate, 1 Duchy, 3 Curse
+Christian - total victory points: 20
+Christian - turns: 19
+ 
+1st place: Titandrake
+2nd place: Christian
+ 

@@ -1,0 +1,419 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Develop, Warehouse, Cutpurse, Noble Brigand, Thief, Mint, Pillage, Rebuild, Royal Seal, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+frankdom - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Copper, Copper, Estate, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays 3 Copper
+frankdom - buys Warehouse
+frankdom - gains Warehouse
+frankdom - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Cutpurse
+Titandrake - gains Cutpurse
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays 4 Copper
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - shuffles deck
+frankdom - draws Copper, Estate, Estate, Warehouse, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays Warehouse
+frankdom - draws Copper, Estate, Copper
+frankdom - discards Estate
+frankdom - discards Estate
+frankdom - discards Estate
+frankdom - plays 4 Copper
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - draws Copper, Copper, Copper, Silver
+frankdom - shuffles deck
+frankdom - draws Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Warehouse, Copper, Estate
+ 
+---------- frankdom: turn 4 ----------
+frankdom - plays 3 Copper, 1 Silver
+frankdom - buys Rebuild
+frankdom - gains Rebuild
+frankdom - draws Copper, Warehouse, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Cutpurse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays Cutpurse
+frankdom - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays Warehouse
+frankdom - draws Silver, Copper, Copper
+frankdom - discards Estate
+frankdom - discards Estate
+frankdom - discards Copper
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Cutpurse
+frankdom - gains Cutpurse
+frankdom - shuffles deck
+frankdom - draws Estate, Rebuild, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Rebuild, Copper
+ 
+---------- frankdom: turn 6 ----------
+frankdom - plays Rebuild
+frankdom - names Province
+frankdom - reveals Silver, Copper, Warehouse, Silver, Copper, Estate
+frankdom - discards: Silver, Copper, Warehouse, Silver, Copper
+frankdom - trashes Estate
+frankdom - gains Duchy
+frankdom - plays 2 Copper
+frankdom - buys Estate
+frankdom - gains Estate
+frankdom - draws Copper, Cutpurse, Copper, Copper
+frankdom - shuffles deck
+frankdom - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Rebuild, Silver, Estate
+Titandrake - discards: Rebuild, Silver
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Warehouse, Copper, Copper, Cutpurse
+ 
+---------- frankdom: turn 7 ----------
+frankdom - plays Cutpurse
+Titandrake - discards Copper
+frankdom - plays 4 Copper
+frankdom - buys Rebuild
+frankdom - gains Rebuild
+frankdom - draws Copper, Estate, Estate, Rebuild, Warehouse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+Titandrake - discards Estate
+Titandrake - discards Duchy
+Titandrake - discards Copper
+Titandrake - plays Cutpurse
+frankdom - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Copper, Copper, Rebuild, Estate, Copper
+ 
+---------- frankdom: turn 8 ----------
+frankdom - plays Warehouse
+frankdom - draws Duchy, Silver, Estate
+frankdom - discards Duchy
+frankdom - discards Estate
+frankdom - discards Estate
+frankdom - plays Rebuild
+frankdom - names Province
+frankdom - shuffles deck
+frankdom - reveals Copper, Silver, Copper, Copper, Copper, Copper, Duchy
+frankdom - discards: Copper, Silver, Copper, Copper, Copper, Copper
+frankdom - trashes Duchy
+frankdom - gains Province
+frankdom - plays 1 Silver
+frankdom - buys Estate
+frankdom - gains Estate
+frankdom - draws Copper, Estate, Copper, Cutpurse, Rebuild
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - reveals Silver, Estate
+Titandrake - discards Silver
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Rebuild, Copper
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Copper, Copper
+ 
+---------- frankdom: turn 9 ----------
+frankdom - plays Rebuild
+frankdom - names Province
+frankdom - reveals Estate
+frankdom - trashes Estate
+frankdom - gains Duchy
+frankdom - plays Cutpurse
+Titandrake - discards Copper
+frankdom - plays 2 Copper
+frankdom - buys Warehouse
+frankdom - gains Warehouse
+frankdom - shuffles deck
+frankdom - draws Rebuild, Copper, Warehouse, Province, Duchy
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - reveals Cutpurse, Estate
+Titandrake - discards Cutpurse
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - draws Silver, Copper, Copper, Copper, Rebuild
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays Warehouse
+frankdom - draws Warehouse, Copper, Copper
+frankdom - discards Duchy
+frankdom - discards Province
+frankdom - discards Copper
+frankdom - plays Rebuild
+frankdom - names Province
+frankdom - reveals Copper, Rebuild, Cutpurse, Estate
+frankdom - discards: Copper, Rebuild, Cutpurse
+frankdom - trashes Estate
+frankdom - gains Duchy
+frankdom - plays Warehouse
+frankdom - draws Estate, Copper, Silver
+frankdom - discards Estate
+frankdom - discards Copper
+frankdom - discards Copper
+frankdom - plays 1 Copper, 1 Silver
+frankdom - buys Warehouse
+frankdom - gains Warehouse
+frankdom - draws Estate, Copper, Silver, Copper
+frankdom - shuffles deck
+frankdom - draws Warehouse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Warehouse, Duchy, Warehouse, Silver
+ 
+---------- frankdom: turn 11 ----------
+frankdom - plays Warehouse
+frankdom - draws Rebuild, Copper, Copper
+frankdom - discards Estate
+frankdom - discards Copper
+frankdom - discards Copper
+frankdom - plays Rebuild
+frankdom - names Estate
+frankdom - reveals Province
+frankdom - trashes Province
+frankdom - gains Province
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - draws Cutpurse, Copper, Duchy, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Duchy, Copper
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - discards Copper
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Cutpurse, Duchy
+Titandrake - discards Duchy
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Cutpurse
+frankdom - discards Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Duchy, Copper, Copper, Rebuild, Rebuild
+ 
+---------- frankdom: turn 12 ----------
+frankdom - plays Cutpurse
+Titandrake - discards Copper
+frankdom - plays 2 Copper
+frankdom - buys Develop
+frankdom - gains Develop
+frankdom - draws Warehouse, Duchy, Silver, Rebuild, Warehouse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Duchy
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Copper, Duchy
+Titandrake - discards: Silver, Copper
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - draws Warehouse, Silver, Copper, Copper, Copper
+ 
+---------- frankdom: turn 13 ----------
+frankdom - plays Warehouse
+frankdom - draws Estate
+frankdom - shuffles deck
+frankdom - draws Cutpurse, Copper
+frankdom - discards Duchy
+frankdom - discards Copper
+frankdom - discards Cutpurse
+frankdom - plays Rebuild
+frankdom - names Province
+frankdom - reveals Silver, Develop, Province, Copper, Copper, Copper, Rebuild, Silver, Estate
+frankdom - discards: Silver, Develop, Province, Copper, Copper, Copper, Rebuild, Silver
+frankdom - trashes Estate
+frankdom - gains Estate
+frankdom - plays Warehouse
+frankdom - draws Copper, Warehouse, Copper
+frankdom - discards Silver
+frankdom - discards Copper
+frankdom - discards Copper
+frankdom - plays Warehouse
+frankdom - draws Duchy, Copper
+frankdom - shuffles deck
+frankdom - draws Copper
+frankdom - discards Estate
+frankdom - discards Duchy
+frankdom - discards Copper
+frankdom - plays Copper
+frankdom - draws Silver, Duchy, Rebuild, Copper, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Duchy, Duchy
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Cutpurse, Warehouse, Province, Copper, Rebuild
+ 
+---------- frankdom: turn 14 ----------
+frankdom - plays Rebuild
+frankdom - names Province
+frankdom - reveals Silver, Copper, Develop, Copper, Cutpurse, Silver, Copper, Estate
+frankdom - discards: Silver, Copper, Develop, Copper, Cutpurse, Silver, Copper
+frankdom - trashes Estate
+frankdom - gains Estate
+frankdom - plays 1 Silver, 1 Copper
+frankdom - buys Estate
+frankdom - gains Estate
+frankdom - draws Copper
+frankdom - shuffles deck
+frankdom - draws Duchy, Rebuild, Copper, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Rebuild, Copper, Copper
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Rebuild, Copper, Copper, Duchy
+Titandrake - discards: Rebuild, Copper, Copper
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Rebuild, Silver, Copper, Warehouse, Copper, Duchy
+Titandrake - discards: Rebuild, Silver, Copper, Warehouse, Copper
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Cutpurse
+frankdom - discards Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Duchy, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Warehouse
+ 
+---------- frankdom: turn 15 ----------
+frankdom - plays Rebuild
+frankdom - names Estate
+frankdom - reveals Copper, Copper, Warehouse, Duchy
+frankdom - discards: Copper, Copper, Warehouse
+frankdom - trashes Duchy
+frankdom - gains Province
+frankdom - plays 1 Copper, 1 Silver
+frankdom - buys Estate
+frankdom - gains Estate
+frankdom - draws Silver, Rebuild, Cutpurse, Warehouse, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper, Copper
+Titandrake - discards Duchy
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province, Copper, Warehouse, Estate, Copper
+ 
+---------- frankdom: turn 16 ----------
+frankdom - plays Rebuild
+frankdom - names Estate
+frankdom - reveals Estate, Silver, Estate, Develop, Copper, Copper, Province
+frankdom - discards: Estate, Silver, Estate, Develop, Copper, Copper
+frankdom - trashes Province
+frankdom - gains Province
+frankdom - draws Copper, Warehouse
+frankdom - shuffles deck
+frankdom - draws Estate, Develop, Warehouse
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Rebuild, 2 Warehouse, 1 Cutpurse, 7 Copper, 2 Silver, 1 Gold, 4 Province, 1 Estate, 1 Duchy
+Titandrake - total victory points: 28
+Titandrake - turns: 15
+ 
+frankdom - cards: 3 Warehouse, 2 Rebuild, 1 Develop, 1 Cutpurse, 7 Copper, 3 Silver, 4 Estate, 2 Province, 1 Duchy
+frankdom - total victory points: 19
+frankdom - turns: 16
+ 
+1st place: Titandrake
+2nd place: frankdom
+ 

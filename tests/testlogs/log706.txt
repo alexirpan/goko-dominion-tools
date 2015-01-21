@@ -1,0 +1,785 @@
+------------ Game Setup ------------
+Supply cards: Great Hall, Lookout, Bishop, Fortress, Militia, Explorer, Haggler, Saboteur, Upgrade, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Bishop
+SheCantSayNo - gains Bishop
+SheCantSayNo - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Militia
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Lookout
+SheCantSayNo - gains Lookout
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Militia
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Lookout, Copper, Estate, Copper, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Lookout, Estate, Copper, Bishop, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Copper
+Titandrake - discards Copper
+Titandrake - places Bishop on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Bishop, Estate, Copper, Militia, Copper
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays Lookout
+SheCantSayNo - shuffles deck
+SheCantSayNo - trashes Estate
+SheCantSayNo - discards Copper
+SheCantSayNo - places Copper on top of deck
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Estate
+SheCantSayNo - receives 1 victory point chips
+Titandrake - trashes Copper
+SheCantSayNo - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Estate
+Titandrake - receives 1 victory point chips
+SheCantSayNo - trashes Copper
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Lookout, Militia
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays 3 Copper, 1 Silver
+SheCantSayNo - buys Upgrade
+SheCantSayNo - gains Upgrade
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Silver, Copper, Bishop, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Militia
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Copper, Copper, Bishop, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Copper
+SheCantSayNo - receives 0 victory point chips
+Titandrake - trashes Copper
+SheCantSayNo - plays 1 Silver
+SheCantSayNo - buys Silver
+SheCantSayNo - gains Silver
+SheCantSayNo - draws Copper, Copper, Upgrade, Lookout, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+SheCantSayNo - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Militia, Haggler, Copper, Lookout, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Lookout
+SheCantSayNo - shuffles deck
+SheCantSayNo - trashes Estate
+SheCantSayNo - discards Silver
+SheCantSayNo - places Bishop on top of deck
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Bishop
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Copper
+SheCantSayNo - receives 0 victory point chips
+Titandrake - trashes Copper
+SheCantSayNo - draws Copper, Silver, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Lookout, Upgrade
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Fortress
+Titandrake - discards Estate
+Titandrake - places Silver on top of deck
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Militia
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Copper
+Titandrake - plays Haggler
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Fortress
+Titandrake - gains Gold
+Titandrake - draws Copper, Bishop
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Militia, Copper
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Silver
+SheCantSayNo - trashes Lookout
+SheCantSayNo - gains Fortress
+SheCantSayNo - plays 2 Silver
+SheCantSayNo - buys Militia
+SheCantSayNo - gains Militia
+SheCantSayNo - draws Bishop
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Upgrade, Militia, Silver, Fortress
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Fortress
+Titandrake - draws Lookout
+Titandrake - plays Militia
+SheCantSayNo - discards Silver
+SheCantSayNo - discards Militia
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Haggler, Gold, Estate, Fortress, Silver
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Copper
+SheCantSayNo - trashes Fortress
+SheCantSayNo - gains Upgrade
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Copper
+SheCantSayNo - receives 0 victory point chips
+Titandrake - trashes Estate
+SheCantSayNo - draws Silver
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Upgrade, Upgrade, Fortress, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Fortress
+Titandrake - shuffles deck
+Titandrake - draws Militia
+Titandrake - plays Militia
+SheCantSayNo - discards Copper
+SheCantSayNo - discards Silver
+Titandrake - plays Haggler
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Copper, Militia, Bishop, Fortress, Lookout
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Militia
+SheCantSayNo - trashes Fortress
+SheCantSayNo - gains Upgrade
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Bishop
+SheCantSayNo - trashes Fortress
+SheCantSayNo - gains Haggler
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Silver
+SheCantSayNo - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Lookout
+SheCantSayNo - plays 1 Silver
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Upgrade, Fortress, Upgrade, Haggler, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Fortress
+Titandrake - shuffles deck
+Titandrake - draws Gold
+Titandrake - plays Militia
+SheCantSayNo - discards Upgrade
+SheCantSayNo - discards Upgrade
+Titandrake - plays Bishop
+Titandrake - trashes Gold
+Titandrake - receives 3 victory point chips
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Gold, Copper, Haggler, Silver, Province
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Upgrade
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Copper
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Haggler
+SheCantSayNo - plays 1 Silver
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Lookout
+SheCantSayNo - gains Fortress
+SheCantSayNo - draws Militia, Bishop, Silver, Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Lookout
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Haggler
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Fortress
+Titandrake - gains Province
+Titandrake - draws Fortress, Militia, Lookout
+Titandrake - shuffles deck
+Titandrake - draws Great Hall, Fortress
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Lookout
+SheCantSayNo - trashes Fortress
+SheCantSayNo - discards Upgrade
+SheCantSayNo - places Upgrade on top of deck
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Upgrade
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Fortress
+SheCantSayNo - receives 2 victory point chips
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Fortress
+SheCantSayNo - trashes Fortress
+SheCantSayNo - gains Saboteur
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Upgrade
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Silver
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Haggler
+SheCantSayNo - trashes Silver
+SheCantSayNo - gains Bishop
+SheCantSayNo - plays Militia
+Titandrake - discards Great Hall
+Titandrake - discards Lookout
+SheCantSayNo - plays Haggler
+SheCantSayNo - plays 1 Silver
+SheCantSayNo - buys Gold
+SheCantSayNo - gains Fortress
+SheCantSayNo - gains Gold
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Saboteur, Bishop, Fortress, Bishop, Upgrade
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Fortress
+Titandrake - draws Militia
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Militia
+SheCantSayNo - discards Bishop
+SheCantSayNo - discards Bishop
+Titandrake - plays Militia
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Province, Gold, Copper, Province, Bishop
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Haggler
+SheCantSayNo - trashes Fortress
+SheCantSayNo - gains Saboteur
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Upgrade
+SheCantSayNo - plays Saboteur
+Titandrake - reveals Haggler
+Titandrake - trashes Haggler
+Titandrake - gains Great Hall
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Militia
+SheCantSayNo - trashes Haggler
+SheCantSayNo - gains Gold
+SheCantSayNo - plays Militia
+Titandrake - discards Province
+Titandrake - discards Copper
+SheCantSayNo - draws Fortress, Lookout, Gold, Silver, Upgrade
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 1 Gold
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - shuffles deck
+Titandrake - draws Silver, Bishop, Copper, Fortress, Great Hall
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Lookout
+SheCantSayNo - shuffles deck
+SheCantSayNo - trashes Fortress
+SheCantSayNo - discards Fortress
+SheCantSayNo - places Saboteur on top of deck
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Saboteur
+SheCantSayNo - plays Saboteur
+Titandrake - reveals Gold
+Titandrake - trashes Gold
+Titandrake - gains Fortress
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Upgrade
+SheCantSayNo - trashes Silver
+SheCantSayNo - gains Bishop
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Gold
+SheCantSayNo - trashes Fortress
+SheCantSayNo - gains Duchy
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Bishop
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Gold
+SheCantSayNo - receives 3 victory point chips
+SheCantSayNo - plays 1 Gold
+SheCantSayNo - buys Bishop
+SheCantSayNo - gains Bishop
+SheCantSayNo - draws Upgrade, Militia, Fortress, Saboteur, Bishop
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Lookout
+Titandrake - plays Lookout
+Titandrake - trashes Fortress
+Titandrake - discards Fortress
+Titandrake - places Militia on top of deck
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+SheCantSayNo - trashes Fortress
+Titandrake - plays Fortress
+Titandrake - draws Militia
+Titandrake - plays Fortress
+Titandrake - draws Province
+Titandrake - plays Militia
+SheCantSayNo - discards Saboteur
+SheCantSayNo - discards Upgrade
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Militia, Fortress, Great Hall
+Titandrake - shuffles deck
+Titandrake - draws Great Hall, Fortress
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Fortress
+SheCantSayNo - receives 2 victory point chips
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Lookout
+SheCantSayNo - plays Lookout
+SheCantSayNo - trashes Fortress
+SheCantSayNo - discards Bishop
+SheCantSayNo - places Upgrade on top of deck
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Upgrade
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Upgrade
+SheCantSayNo - trashes Upgrade
+SheCantSayNo - gains Gold
+SheCantSayNo - plays Militia
+Titandrake - discards Great Hall
+Titandrake - discards Great Hall
+SheCantSayNo - buys Great Hall
+SheCantSayNo - gains Great Hall
+SheCantSayNo - draws Saboteur, Duchy, Bishop, Fortress, Bishop
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Fortress
+Titandrake - draws Haggler
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Lookout
+Titandrake - plays Lookout
+Titandrake - trashes Fortress
+Titandrake - discards Copper
+Titandrake - places Bishop on top of deck
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Militia
+SheCantSayNo - discards Bishop
+SheCantSayNo - discards Duchy
+Titandrake - plays Haggler
+Titandrake - plays Bishop
+SheCantSayNo - trashes Fortress
+Titandrake - buys Duchy
+Titandrake - gains Bishop
+Titandrake - gains Duchy
+Titandrake - draws Silver, Fortress, Fortress, Province, Militia
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Gold
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Gold
+SheCantSayNo - receives 3 victory point chips
+SheCantSayNo - plays Saboteur
+Titandrake - shuffles deck
+Titandrake - reveals Duchy
+Titandrake - trashes Duchy
+Titandrake - gains Great Hall
+SheCantSayNo - draws Upgrade, Saboteur
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Bishop, Lookout
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Fortress
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Militia
+SheCantSayNo - discards Saboteur
+SheCantSayNo - discards Upgrade
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Fortress, Lookout, Fortress, Militia, Bishop
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Lookout
+SheCantSayNo - trashes Fortress
+SheCantSayNo - discards Saboteur
+SheCantSayNo - places Great Hall on top of deck
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Great Hall
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Fortress
+SheCantSayNo - receives 2 victory point chips
+SheCantSayNo - plays Great Hall
+SheCantSayNo - draws Bishop
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Fortress
+SheCantSayNo - receives 2 victory point chips
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Bishop, Gold, Duchy, Fortress, Upgrade
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Fortress
+Titandrake - discards Fortress
+Titandrake - places Haggler on top of deck
+Titandrake - plays Fortress
+Titandrake - draws Haggler
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Province
+Titandrake - plays Militia
+SheCantSayNo - discards Duchy
+SheCantSayNo - discards Gold
+Titandrake - plays Haggler
+Titandrake - buys Duchy
+Titandrake - gains Bishop
+Titandrake - gains Duchy
+Titandrake - draws Copper, Great Hall, Militia, Great Hall, Bishop
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Militia
+SheCantSayNo - trashes Fortress
+SheCantSayNo - gains Duchy
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Fortress
+SheCantSayNo - receives 2 victory point chips
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Bishop
+SheCantSayNo - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Great Hall
+SheCantSayNo - plays Bishop
+SheCantSayNo - buys Bishop
+SheCantSayNo - gains Bishop
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Bishop, Gold, Duchy, Bishop
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Upgrade
+Titandrake - plays Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+Titandrake - trashes Bishop
+Titandrake - gains Duchy
+Titandrake - plays Militia
+SheCantSayNo - discards Duchy
+SheCantSayNo - discards Bishop
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Great Hall, Copper, Bishop, Fortress, Fortress
+ 
+---------- SheCantSayNo: turn 19 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Saboteur
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Gold
+SheCantSayNo - receives 3 victory point chips
+SheCantSayNo - plays Saboteur
+Titandrake - reveals Great Hall
+Titandrake - trashes Great Hall
+SheCantSayNo - draws Upgrade, Estate, Militia, Bishop, Fortress
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Lookout
+Titandrake - plays Lookout
+Titandrake - trashes Fortress
+Titandrake - discards Haggler
+Titandrake - places Militia on top of deck
+Titandrake - plays Fortress
+Titandrake - draws Militia
+Titandrake - plays Fortress
+Titandrake - draws Province
+Titandrake - plays Fortress
+Titandrake - draws Silver
+Titandrake - plays Militia
+SheCantSayNo - discards Estate
+SheCantSayNo - discards Bishop
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Bishop, Fortress
+Titandrake - shuffles deck
+Titandrake - draws Upgrade, Militia, Province
+ 
+---------- SheCantSayNo: turn 20 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Lookout
+SheCantSayNo - trashes Fortress
+SheCantSayNo - gains Duchy
+SheCantSayNo - plays Lookout
+SheCantSayNo - trashes Fortress
+SheCantSayNo - discards Saboteur
+SheCantSayNo - places Bishop on top of deck
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Bishop
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Fortress
+SheCantSayNo - receives 2 victory point chips
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Duchy
+SheCantSayNo - plays Militia
+Titandrake - discards Province
+Titandrake - discards Militia
+SheCantSayNo - buys Great Hall
+SheCantSayNo - gains Great Hall
+SheCantSayNo - draws Upgrade, Bishop, Fortress, Great Hall
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Bishop
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Great Hall
+Titandrake - trashes Fortress
+Titandrake - gains Duchy
+Titandrake - plays Great Hall
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Bishop
+Titandrake - trashes Fortress
+Titandrake - receives 2 victory point chips
+Titandrake - plays Fortress
+Titandrake - draws Militia
+Titandrake - plays Fortress
+Titandrake - draws Haggler
+Titandrake - plays Militia
+SheCantSayNo - discards Great Hall
+SheCantSayNo - discards Bishop
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Fortress, Estate, Copper, Silver, Duchy
+ 
+---------- SheCantSayNo: turn 21 ----------
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Fortress
+SheCantSayNo - trashes Fortress
+SheCantSayNo - gains Explorer
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Duchy
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Fortress
+SheCantSayNo - receives 2 victory point chips
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Duchy
+SheCantSayNo - buys Copper
+SheCantSayNo - gains Copper
+SheCantSayNo - draws Fortress, Bishop, Great Hall, Fortress, Lookout
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Fortress
+Titandrake - draws Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Duchy, Fortress, Duchy, Fortress, Lookout
+ 
+---------- SheCantSayNo: turn 22 ----------
+SheCantSayNo - plays Lookout
+SheCantSayNo - trashes Saboteur
+SheCantSayNo - discards Duchy
+SheCantSayNo - places Bishop on top of deck
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Bishop
+SheCantSayNo - plays Great Hall
+SheCantSayNo - draws Bishop
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Fortress
+SheCantSayNo - receives 2 victory point chips
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Upgrade
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Militia
+SheCantSayNo - trashes Bishop
+SheCantSayNo - gains Upgrade
+SheCantSayNo - plays Militia
+Titandrake - discards Duchy
+Titandrake - discards Duchy
+SheCantSayNo - plays Bishop
+SheCantSayNo - buys Great Hall
+SheCantSayNo - gains Great Hall
+SheCantSayNo - draws Saboteur, Estate
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Duchy, Fortress, Duchy
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Estate
+Titandrake - discards Great Hall
+Titandrake - places Great Hall on top of deck
+Titandrake - plays Fortress
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Militia
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Duchy
+Titandrake - plays Militia
+SheCantSayNo - discards Duchy
+SheCantSayNo - discards Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Fortress, Bishop, Fortress, Duchy, Haggler
+ 
+---------- SheCantSayNo: turn 23 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Great Hall
+SheCantSayNo - plays Great Hall
+SheCantSayNo - draws Upgrade
+SheCantSayNo - plays Upgrade
+SheCantSayNo - draws Bishop
+SheCantSayNo - trashes Estate
+SheCantSayNo - gains Great Hall
+SheCantSayNo - plays Bishop
+SheCantSayNo - trashes Saboteur
+SheCantSayNo - receives 2 victory point chips
+SheCantSayNo - draws Fortress, Bishop, Upgrade, Bishop, Duchy
+ 
+------------ Game Over ------------
+SheCantSayNo - cards: 4 Great Hall, 4 Fortress, 4 Bishop, 3 Upgrade, 1 Explorer, 1 Lookout, 1 Militia, 1 Copper, 3 Duchy
+SheCantSayNo - victory point chips: 46
+SheCantSayNo - total victory points: 59
+SheCantSayNo - turns: 23
+ 
+Titandrake - cards: 6 Fortress, 3 Great Hall, 2 Militia, 2 Bishop, 1 Upgrade, 1 Haggler, 1 Lookout, 1 Silver, 4 Duchy, 2 Estate, 1 Province
+Titandrake - victory point chips: 30
+Titandrake - total victory points: 53
+Titandrake - turns: 23
+ 
+1st place: SheCantSayNo
+2nd place: Titandrake
+ 

@@ -1,0 +1,363 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Hamlet, Forager, Great Hall, Hermit, Woodcutter, Coppersmith, Thief, Bandit Camp, Count, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Hoam - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Hoam - shuffles deck
+Titandrake - shuffles deck
+Hoam - draws Copper, Copper, Overgrown Estate, Copper, Necropolis
+Titandrake - draws Copper, Copper, Hovel, Overgrown Estate, Necropolis
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Hoam: turn 1 ----------
+Hoam - plays 3 Copper
+Hoam - buys Hermit
+Hoam - gains Hermit
+Hoam - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Hoam: turn 2 ----------
+Hoam - plays 4 Copper
+Hoam - buys Coppersmith
+Hoam - gains Coppersmith
+Hoam - shuffles deck
+Hoam - draws Copper, Copper, Copper, Overgrown Estate, Hovel
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Hovel, Necropolis, Bandit Camp, Courtyard
+ 
+---------- Hoam: turn 3 ----------
+Hoam - plays 3 Copper
+Hoam - buys Silver
+Hoam - gains Silver
+Hoam - draws Hermit, Copper, Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Courtyard
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Spoils, Silver
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Hoam: turn 4 ----------
+Hoam - plays Necropolis
+Hoam - plays Hermit
+Hoam - trashes Overgrown Estate
+Hoam - draws Copper
+Hoam - gains Hermit
+Hoam - plays 4 Copper
+Hoam - buys Forager
+Hoam - gains Forager
+Hoam - draws Coppersmith
+Hoam - shuffles deck
+Hoam - draws Hermit, Hermit, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hovel, Copper, Silver
+ 
+---------- Hoam: turn 5 ----------
+Hoam - plays Hermit
+Hoam - gains Silver
+Hoam - trashes Hermit
+Hoam - gains Madman
+Hoam - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Necropolis, Copper, Copper, Gold, Overgrown Estate
+ 
+---------- Hoam: turn 6 ----------
+Hoam - plays 5 Copper
+Hoam - buys Bandit Camp
+Hoam - gains Bandit Camp
+Hoam - draws Necropolis, Forager, Hovel, Copper
+Hoam - shuffles deck
+Hoam - draws Coppersmith
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Copper, Courtyard, Copper, Bandit Camp, Silver
+ 
+---------- Hoam: turn 7 ----------
+Hoam - plays Necropolis
+Hoam - plays Forager
+Hoam - trashes Hovel
+Hoam - plays Coppersmith
+Hoam - plays 1 Copper
+Hoam - buys Courtyard
+Hoam - gains Courtyard
+Hoam - draws Copper, Hermit, Madman, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays 6 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Necropolis, Silver, Gold, Copper
+ 
+---------- Hoam: turn 8 ----------
+Hoam - plays Madman
+Hoam - draws Silver, Copper, Bandit Camp, Copper
+Hoam - plays Bandit Camp
+Hoam - draws Copper
+Hoam - gains Spoils
+Hoam - plays Hermit
+Hoam - gains Great Hall
+Hoam - plays 5 Copper, 2 Silver
+Hoam - buys Gold
+Hoam - gains Gold
+Hoam - draws Copper
+Hoam - shuffles deck
+Hoam - draws Gold, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Overgrown Estate, Hovel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold
+ 
+---------- Hoam: turn 9 ----------
+Hoam - plays 3 Copper, 1 Gold, 1 Silver
+Hoam - buys Province
+Hoam - gains Province
+Hoam - draws Spoils, Great Hall, Copper, Copper, Necropolis
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Bandit Camp, Copper, Necropolis, Copper, Spoils
+ 
+---------- Hoam: turn 10 ----------
+Hoam - plays Great Hall
+Hoam - draws Copper
+Hoam - plays 3 Copper
+Hoam - plays Spoils
+Hoam - buys Count
+Hoam - gains Count
+Hoam - draws Hermit, Silver, Coppersmith, Bandit Camp, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays 3 Copper
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Spoils, Silver, Courtyard, Silver, Copper
+ 
+---------- Hoam: turn 11 ----------
+Hoam - plays Bandit Camp
+Hoam - draws Forager
+Hoam - gains Spoils
+Hoam - plays Forager
+Hoam - trashes Copper
+Hoam - plays Hermit
+Hoam - trashes Coppersmith
+Hoam - gains Forager
+Hoam - trashes Hermit
+Hoam - gains Madman
+Hoam - draws Courtyard
+Hoam - shuffles deck
+Hoam - draws Forager, Necropolis, Copper, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Province, Bandit Camp, Copper
+Titandrake - places Bandit Camp on top of deck
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Bandit Camp, Gold, Copper
+Titandrake - shuffles deck
+Titandrake - draws Courtyard, Copper
+ 
+---------- Hoam: turn 12 ----------
+Hoam - plays Necropolis
+Hoam - plays Courtyard
+Hoam - draws Count, Copper, Copper
+Hoam - places Forager on top of deck
+Hoam - plays Count
+Hoam - places Silver on top of deck
+Hoam - trashes Copper, Copper, Copper
+Hoam - draws Silver, Forager, Province, Madman, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Overgrown Estate
+Titandrake - gains Spoils
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Silver, Province
+Titandrake - places Overgrown Estate on top of deck
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Overgrown Estate, Copper, Necropolis, Gold, Gold
+ 
+---------- Hoam: turn 13 ----------
+Hoam - plays Madman
+Hoam - draws Great Hall, Copper, Copper, Forager
+Hoam - plays Great Hall
+Hoam - draws Gold
+Hoam - plays Forager
+Hoam - trashes Copper
+Hoam - plays Forager
+Hoam - trashes Copper
+Hoam - plays 2 Silver, 1 Gold
+Hoam - buys Province
+Hoam - gains Province
+Hoam - draws Copper, Bandit Camp, Spoils
+Hoam - shuffles deck
+Hoam - draws Great Hall, Forager
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Hovel, Silver, Copper, Province, Bandit Camp
+ 
+---------- Hoam: turn 14 ----------
+Hoam - plays Bandit Camp
+Hoam - draws Necropolis
+Hoam - gains Spoils
+Hoam - plays Great Hall
+Hoam - draws Courtyard
+Hoam - plays Necropolis
+Hoam - plays Courtyard
+Hoam - draws Province, Province, Count
+Hoam - places Count on top of deck
+Hoam - plays Forager
+Hoam - trashes Copper
+Hoam - plays Spoils
+Hoam - buys Thief
+Hoam - gains Thief
+Hoam - draws Count, Forager, Silver, Gold, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Great Hall
+Titandrake - trashes Hovel
+Titandrake - gains Great Hall
+Titandrake - draws Gold, Spoils, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- Hoam: turn 15 ----------
+Hoam - plays Forager
+Hoam - trashes Count
+Hoam - plays 2 Silver, 1 Gold
+Hoam - buys Province
+Hoam - gains Province
+Hoam - shuffles deck
+Hoam - draws Bandit Camp, Necropolis, Spoils, Silver, Forager
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper, Spoils, Province
+ 
+---------- Hoam: turn 16 ----------
+Hoam - plays Bandit Camp
+Hoam - draws Great Hall
+Hoam - gains Spoils
+Hoam - plays Great Hall
+Hoam - draws Courtyard
+Hoam - plays Courtyard
+Hoam - draws Gold, Thief, Silver
+Hoam - places Necropolis on top of deck
+Hoam - plays Forager
+Hoam - trashes Silver
+Hoam - plays Thief
+Titandrake - reveals: Silver, Spoils
+Titandrake - trashes Silver
+Titandrake - discards Spoils
+Hoam - gains Silver
+Hoam - plays 1 Gold, 1 Silver
+Hoam - plays Spoils
+Hoam - buys Duchy
+Hoam - gains Duchy
+Hoam - buys Duchy
+Hoam - gains Duchy
+Hoam - draws Necropolis, Province, Province, Forager, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 3 Copper
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Gold, Copper, Copper, Bandit Camp
+ 
+---------- Hoam: turn 17 ----------
+Hoam - shuffles deck
+Hoam - draws Necropolis, Great Hall, Silver, Silver, Spoils
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Necropolis
+Titandrake - gains Spoils
+Titandrake - plays 2 Gold, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Courtyard, Great Hall, Bandit Camp, Province, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Bandit Camp, 1 Great Hall, 1 Courtyard, 1 Necropolis, 7 Copper, 4 Gold, 2 Silver, 2 Spoils, 5 Province, 2 Duchy, 1 Overgrown Estate
+Titandrake - total victory points: 37
+Titandrake - turns: 18
+ 
+Hoam - cards: 2 Forager, 1 Great Hall, 1 Thief, 1 Necropolis, 1 Courtyard, 1 Bandit Camp, 2 Silver, 1 Spoils, 1 Gold, 3 Province, 2 Duchy
+Hoam - total victory points: 25
+Hoam - turns: 17
+ 
+1st place: Titandrake
+2nd place: Hoam
+ 

@@ -1,0 +1,416 @@
+------------ Game Setup ------------
+Supply cards: Haven, Pawn, Doctor, Philosopher's Stone, Bridge, Death Cart, Ironworks, Taxman, Upgrade, Grand Market, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion, Ruins
+Rating system: pro
+charlietuna - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+charlietuna - shuffles deck
+Titandrake - shuffles deck
+charlietuna - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- charlietuna: turn 1 ----------
+charlietuna - plays 3 Copper
+charlietuna - buys Silver
+charlietuna - gains Silver
+charlietuna - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- charlietuna: turn 2 ----------
+charlietuna - plays 4 Copper
+charlietuna - buys Bridge
+charlietuna - gains Bridge
+charlietuna - shuffles deck
+charlietuna - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- charlietuna: turn 3 ----------
+charlietuna - plays 4 Copper
+charlietuna - buys Silver
+charlietuna - gains Silver
+charlietuna - draws Estate, Bridge, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Bridge, Estate, Copper
+ 
+---------- charlietuna: turn 4 ----------
+charlietuna - plays Bridge
+charlietuna - plays 1 Copper, 1 Silver
+charlietuna - buys Upgrade
+charlietuna - gains Upgrade
+charlietuna - draws Copper, Copper
+charlietuna - shuffles deck
+charlietuna - draws Bridge, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Haven, Silver, Estate
+ 
+---------- charlietuna: turn 5 ----------
+charlietuna - plays Bridge
+charlietuna - plays 3 Copper
+charlietuna - buys Upgrade
+charlietuna - gains Upgrade
+charlietuna - draws Copper, Silver, Copper, Upgrade, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Haven
+Titandrake - draws Copper
+Titandrake - sets aside Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Copper, Copper, Bridge, Copper, Upgrade
+ 
+---------- charlietuna: turn 6 ----------
+charlietuna - plays Upgrade
+charlietuna - draws Estate
+charlietuna - trashes Estate
+charlietuna - gains Silver
+charlietuna - plays 3 Copper, 1 Silver
+charlietuna - buys Upgrade
+charlietuna - gains Upgrade
+charlietuna - draws Estate, Silver, Copper
+charlietuna - shuffles deck
+charlietuna - draws Upgrade, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Estate in hand
+Titandrake - plays Upgrade
+Titandrake - draws Estate
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Bridge
+Titandrake - plays 3 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Estate, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- charlietuna: turn 7 ----------
+charlietuna - plays Upgrade
+charlietuna - draws Bridge
+charlietuna - trashes Estate
+charlietuna - gains Silver
+charlietuna - plays Bridge
+charlietuna - plays 2 Copper, 1 Silver
+charlietuna - buys Upgrade
+charlietuna - gains Upgrade
+charlietuna - buys Pawn
+charlietuna - gains Pawn
+charlietuna - draws Copper, Copper, Silver, Estate, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Estate, Copper, Upgrade, Upgrade, Copper
+ 
+---------- charlietuna: turn 8 ----------
+charlietuna - plays 2 Copper, 2 Silver
+charlietuna - buys Gold
+charlietuna - gains Gold
+charlietuna - draws Copper, Copper, Upgrade, Copper, Upgrade
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Bridge
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Bridge
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Copper, Upgrade, Silver, Copper, Haven
+ 
+---------- charlietuna: turn 9 ----------
+charlietuna - plays Upgrade
+charlietuna - shuffles deck
+charlietuna - draws Estate
+charlietuna - trashes Copper
+charlietuna - plays Upgrade
+charlietuna - draws Silver
+charlietuna - trashes Estate
+charlietuna - gains Silver
+charlietuna - plays 2 Copper, 1 Silver
+charlietuna - buys Silver
+charlietuna - gains Silver
+charlietuna - draws Copper, Silver, Copper, Upgrade, Upgrade
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Haven
+Titandrake - shuffles deck
+Titandrake - draws Upgrade
+Titandrake - sets aside Copper
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Upgrade
+Titandrake - gains Grand Market
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Silver, Upgrade, Upgrade
+ 
+---------- charlietuna: turn 10 ----------
+charlietuna - plays Upgrade
+charlietuna - draws Bridge
+charlietuna - trashes Copper
+charlietuna - plays Upgrade
+charlietuna - draws Copper
+charlietuna - trashes Copper
+charlietuna - plays Bridge
+charlietuna - plays 1 Copper, 1 Silver
+charlietuna - buys Upgrade
+charlietuna - gains Upgrade
+charlietuna - draws Silver, Copper, Silver, Pawn, Gold
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays 3 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Estate, Bridge, Upgrade, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- charlietuna: turn 11 ----------
+charlietuna - plays Pawn
+charlietuna - takes 1 buy
+charlietuna - shuffles deck
+charlietuna - draws Bridge
+charlietuna - plays Gold
+charlietuna - plays Silver
+charlietuna - plays Silver
+charlietuna - buys Grand Market
+charlietuna - gains Grand Market
+charlietuna - draws Copper, Upgrade, Silver, Copper, Upgrade
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Bridge
+Titandrake - plays 2 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Grand Market, Copper, Silver, Copper, Silver
+ 
+---------- charlietuna: turn 12 ----------
+charlietuna - plays Upgrade
+charlietuna - draws Silver
+charlietuna - trashes Copper
+charlietuna - plays Upgrade
+charlietuna - draws Upgrade
+charlietuna - trashes Upgrade
+charlietuna - gains Grand Market
+charlietuna - plays 2 Silver, 1 Copper
+charlietuna - buys Duchy
+charlietuna - gains Duchy
+charlietuna - draws Silver, Copper, Silver, Upgrade, Upgrade
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Haven
+Titandrake - plays Haven
+Titandrake - draws Silver
+Titandrake - sets aside Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Grand Market
+Titandrake - gains Grand Market
+Titandrake - draws Upgrade, Copper, Upgrade, Upgrade, Grand Market
+ 
+---------- charlietuna: turn 13 ----------
+charlietuna - plays Upgrade
+charlietuna - shuffles deck
+charlietuna - draws Silver
+charlietuna - trashes Upgrade
+charlietuna - gains Grand Market
+charlietuna - plays Silver
+charlietuna - plays Silver
+charlietuna - plays Silver
+charlietuna - buys Grand Market
+charlietuna - gains Grand Market
+charlietuna - draws Bridge, Copper, Silver, Gold, Upgrade
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Silver in hand
+Titandrake - plays Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Upgrade
+Titandrake - draws Grand Market
+Titandrake - trashes Upgrade
+Titandrake - gains Grand Market
+Titandrake - plays Grand Market
+Titandrake - draws Bridge
+Titandrake - plays Bridge
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Copper, Upgrade, Silver, Silver, Silver
+ 
+---------- charlietuna: turn 14 ----------
+charlietuna - plays Upgrade
+charlietuna - draws Copper
+charlietuna - trashes Copper
+charlietuna - plays Bridge
+charlietuna - plays Gold
+charlietuna - plays Silver
+charlietuna - buys Grand Market
+charlietuna - gains Grand Market
+charlietuna - buys Haven
+charlietuna - gains Haven
+charlietuna - draws Grand Market, Pawn, Upgrade, Silver, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Grand Market
+Titandrake - trashes Copper
+Titandrake - plays Grand Market
+Titandrake - draws Silver
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - draws Grand Market
+Titandrake - shuffles deck
+Titandrake - draws Grand Market, Bridge, Copper, Silver
+ 
+---------- charlietuna: turn 15 ----------
+charlietuna - plays Grand Market
+charlietuna - draws Grand Market
+charlietuna - plays Grand Market
+charlietuna - draws Duchy
+charlietuna - plays Upgrade
+charlietuna - shuffles deck
+charlietuna - draws Grand Market
+charlietuna - trashes Duchy
+charlietuna - gains Gold
+charlietuna - plays Grand Market
+charlietuna - draws Silver
+charlietuna - plays Pawn
+charlietuna - takes 1 action
+charlietuna - draws Upgrade
+charlietuna - plays Upgrade
+charlietuna - draws Silver
+charlietuna - trashes Silver
+charlietuna - gains Bridge
+charlietuna - plays 3 Silver
+charlietuna - buys Province
+charlietuna - gains Province
+charlietuna - buys Death Cart
+charlietuna - gains Death Cart
+charlietuna - gains Abandoned Mine
+charlietuna - gains Survivors
+charlietuna - draws Grand Market, Grand Market, Copper, Bridge, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Grand Market
+Titandrake - draws Upgrade
+Titandrake - plays Grand Market
+Titandrake - draws Upgrade
+Titandrake - plays Upgrade
+Titandrake - draws Grand Market
+Titandrake - trashes Silver
+Titandrake - gains Death Cart
+Titandrake - gains Abandoned Mine
+Titandrake - gains Ruined Village
+Titandrake - plays Upgrade
+Titandrake - draws Province
+Titandrake - trashes Copper
+Titandrake - plays Grand Market
+Titandrake - draws Province
+Titandrake - plays Bridge
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Survivors
+Titandrake - gains Survivors
+Titandrake - buys Ruined Market
+Titandrake - gains Ruined Market
+Titandrake - buys Survivors
+Titandrake - gains Survivors
+Titandrake - buys Ruined Village
+Titandrake - gains Ruined Village
+Titandrake - draws Silver, Haven, Upgrade, Silver, Haven
+ 
+---------- charlietuna: turn 16 ----------
+charlietuna - plays Grand Market
+charlietuna - draws Silver
+charlietuna - plays Grand Market
+charlietuna - draws Gold
+charlietuna - plays Bridge
+charlietuna - plays 2 Copper, 1 Silver, 1 Gold
+charlietuna - buys Province
+charlietuna - gains Province
+charlietuna - buys Duchy
+charlietuna - gains Duchy
+charlietuna - buys Estate
+charlietuna - gains Estate
+charlietuna - draws Haven, Upgrade, Silver
+charlietuna - shuffles deck
+charlietuna - draws Gold, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Pawn
+Titandrake - trashes Silver
+Titandrake - gains Death Cart
+Titandrake - gains Ruined Village
+Titandrake - gains Survivors
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Grand Market, Grand Market, Silver, Silver, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Grand Market, 3 Ruined Village, 3 Survivors, 3 Upgrade, 2 Death Cart, 2 Haven, 1 Abandoned Mine, 1 Ruined Market, 1 Bridge, 1 Pawn, 3 Silver, 3 Province, 2 Estate
+Titandrake - total victory points: 20
+Titandrake - turns: 16
+ 
+charlietuna - cards: 5 Grand Market, 3 Upgrade, 2 Bridge, 1 Haven, 1 Death Cart, 1 Survivors, 1 Abandoned Mine, 1 Pawn, 5 Silver, 2 Gold, 2 Copper, 2 Province, 1 Estate, 1 Duchy
+charlietuna - total victory points: 16
+charlietuna - turns: 16
+ 
+1st place: Titandrake
+2nd place: charlietuna
+ 

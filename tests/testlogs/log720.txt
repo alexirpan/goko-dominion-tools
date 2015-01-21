@@ -1,0 +1,628 @@
+------------ Game Setup ------------
+Supply cards: Haven, Apothecary, Ambassador, Chancellor, Lookout, Sage, Tunnel, Warehouse, Watchtower, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Darkness Returns - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Darkness Returns - shuffles deck
+Titandrake - shuffles deck
+Darkness Returns - draws Copper, Estate, Estate, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Darkness Returns: turn 1 ----------
+Darkness Returns - plays 2 Copper
+Darkness Returns - buys Haven
+Darkness Returns - gains Haven
+Darkness Returns - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Warehouse, Estate, Copper
+ 
+---------- Darkness Returns: turn 2 ----------
+Darkness Returns - plays 5 Copper
+Darkness Returns - buys Lookout
+Darkness Returns - gains Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - draws Copper, Estate, Estate, Copper, Lookout
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Estate, Copper, Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Darkness Returns: turn 3 ----------
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Copper
+Darkness Returns - discards Copper
+Darkness Returns - places Copper on top of deck
+Darkness Returns - plays 2 Copper
+Darkness Returns - buys Haven
+Darkness Returns - gains Haven
+Darkness Returns - draws Copper, Copper, Copper, Estate, Haven
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+Darkness Returns - gains Copper
+Titandrake - draws Estate, Estate, Copper, Copper, Warehouse
+ 
+---------- Darkness Returns: turn 4 ----------
+Darkness Returns - plays Haven
+Darkness Returns - shuffles deck
+Darkness Returns - draws Haven
+Darkness Returns - sets aside Estate
+Darkness Returns - plays Haven
+Darkness Returns - draws Estate
+Darkness Returns - sets aside Estate
+Darkness Returns - plays 3 Copper
+Darkness Returns - buys Silver
+Darkness Returns - gains Silver
+Darkness Returns - draws Lookout, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper, Tunnel
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 4 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Tunnel, Warehouse, Estate, Copper
+ 
+---------- Darkness Returns: turn 5 ----------
+Darkness Returns - duration Haven
+Darkness Returns - places set aside Estate in hand
+Darkness Returns - duration Haven
+Darkness Returns - places set aside Estate in hand
+Darkness Returns - plays Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - trashes Copper
+Darkness Returns - discards Copper
+Darkness Returns - places Silver on top of deck
+Darkness Returns - plays 3 Copper
+Darkness Returns - buys Ambassador
+Darkness Returns - gains Ambassador
+Darkness Returns - draws Silver, Copper, Copper
+Darkness Returns - shuffles deck
+Darkness Returns - draws Haven, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Warehouse, Gold, Copper
+Titandrake - discards Tunnel
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Estate, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Copper, Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Copper, Warehouse, Ambassador
+ 
+---------- Darkness Returns: turn 6 ----------
+Darkness Returns - plays Haven
+Darkness Returns - draws Estate
+Darkness Returns - sets aside Silver
+Darkness Returns - plays 3 Copper
+Darkness Returns - buys Lookout
+Darkness Returns - gains Lookout
+Darkness Returns - draws Haven, Lookout, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Estate, Tunnel
+Titandrake - discards Ambassador
+Titandrake - discards Tunnel
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+Darkness Returns - gains Estate
+Titandrake - draws Copper, Estate, Gold, Copper, Copper
+ 
+---------- Darkness Returns: turn 7 ----------
+Darkness Returns - duration Haven
+Darkness Returns - places set aside Silver in hand
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Estate
+Darkness Returns - discards Estate
+Darkness Returns - places Ambassador on top of deck
+Darkness Returns - plays Haven
+Darkness Returns - draws Ambassador
+Darkness Returns - sets aside Silver
+Darkness Returns - plays Ambassador
+Darkness Returns - reveals Copper
+Titandrake - gains Copper
+Darkness Returns - plays 3 Copper
+Darkness Returns - buys Sage
+Darkness Returns - gains Sage
+Darkness Returns - shuffles deck
+Darkness Returns - draws Estate, Ambassador, Copper, Copper, Lookout
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Gold, Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Tunnel
+ 
+---------- Darkness Returns: turn 8 ----------
+Darkness Returns - duration Haven
+Darkness Returns - places set aside Silver in hand
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Copper
+Darkness Returns - discards Haven
+Darkness Returns - places Sage on top of deck
+Darkness Returns - plays Ambassador
+Darkness Returns - reveals Estate
+Darkness Returns - returns Estate to the Supply
+Titandrake - gains Estate
+Darkness Returns - plays 2 Copper, 1 Silver
+Darkness Returns - buys Sage
+Darkness Returns - gains Sage
+Darkness Returns - draws Sage, Copper, Copper, Copper, Lookout
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Warehouse, Estate, Copper
+Titandrake - discards Tunnel
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Tunnel, Copper
+Titandrake - discards Tunnel
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Bank
+Titandrake - gains Bank
+Titandrake - draws Copper, Copper, Ambassador, Gold, Ambassador
+ 
+---------- Darkness Returns: turn 9 ----------
+Darkness Returns - plays Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - trashes Estate
+Darkness Returns - discards Estate
+Darkness Returns - places Sage on top of deck
+Darkness Returns - plays Sage
+Darkness Returns - reveals Sage
+Darkness Returns - places Sage in hand
+Darkness Returns - plays Sage
+Darkness Returns - reveals Ambassador
+Darkness Returns - places Ambassador in hand
+Darkness Returns - plays Ambassador
+Darkness Returns - reveals Copper
+Titandrake - gains Copper
+Darkness Returns - plays 3 Copper
+Darkness Returns - buys Tunnel
+Darkness Returns - gains Tunnel
+Darkness Returns - draws Silver, Copper, Haven, Copper, Lookout
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+Darkness Returns - gains Copper
+Titandrake - plays 1 Gold
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Warehouse, Copper, Estate, Copper, Copper
+ 
+---------- Darkness Returns: turn 10 ----------
+Darkness Returns - plays Haven
+Darkness Returns - draws Haven
+Darkness Returns - sets aside Copper
+Darkness Returns - plays Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - trashes Copper
+Darkness Returns - discards Tunnel
+Darkness Returns - reveals reaction Tunnel
+Darkness Returns - gains Gold
+Darkness Returns - places Ambassador on top of deck
+Darkness Returns - plays Haven
+Darkness Returns - draws Ambassador
+Darkness Returns - sets aside Silver
+Darkness Returns - plays Ambassador
+Darkness Returns - reveals Copper
+Darkness Returns - returns Copper to the Supply
+Titandrake - gains Copper
+Darkness Returns - draws Estate, Sage, Copper, Lookout, Sage
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Tunnel, Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - plays 4 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Bank, Tunnel, Gold, Ambassador, Gold
+ 
+---------- Darkness Returns: turn 11 ----------
+Darkness Returns - duration Haven
+Darkness Returns - places set aside Copper in hand
+Darkness Returns - duration Haven
+Darkness Returns - places set aside Silver in hand
+Darkness Returns - plays Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - trashes Copper
+Darkness Returns - discards Copper
+Darkness Returns - places Gold on top of deck
+Darkness Returns - plays Sage
+Darkness Returns - reveals Gold
+Darkness Returns - places Gold in hand
+Darkness Returns - plays Sage
+Darkness Returns - reveals Ambassador
+Darkness Returns - places Ambassador in hand
+Darkness Returns - plays Ambassador
+Darkness Returns - reveals Estate
+Darkness Returns - returns Estate to the Supply
+Titandrake - gains Estate
+Darkness Returns - plays 2 Copper, 1 Silver, 1 Gold
+Darkness Returns - buys Bank
+Darkness Returns - gains Bank
+Darkness Returns - draws Lookout, Tunnel
+Darkness Returns - shuffles deck
+Darkness Returns - draws Ambassador, Bank, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Gold
+Titandrake - plays Bank
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Watchtower, Copper, Ambassador, Gold, Gold
+ 
+---------- Darkness Returns: turn 12 ----------
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Copper
+Darkness Returns - discards Sage
+Darkness Returns - places Sage on top of deck
+Darkness Returns - plays 1 Silver
+Darkness Returns - plays Bank
+Darkness Returns - buys Warehouse
+Darkness Returns - gains Warehouse
+Darkness Returns - draws Sage, Haven, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Darkness Returns - gains Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - applied Watchtower to place Gold on top of the deck
+Titandrake - draws Gold, Gold, Warehouse
+Titandrake - shuffles deck
+Titandrake - draws Warehouse, Ambassador
+ 
+---------- Darkness Returns: turn 13 ----------
+Darkness Returns - plays Haven
+Darkness Returns - draws Lookout
+Darkness Returns - sets aside Copper
+Darkness Returns - plays Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - trashes Haven
+Darkness Returns - discards Tunnel
+Darkness Returns - reveals reaction Tunnel
+Darkness Returns - gains Gold
+Darkness Returns - places Warehouse on top of deck
+Darkness Returns - plays Sage
+Darkness Returns - reveals Warehouse
+Darkness Returns - places Warehouse in hand
+Darkness Returns - plays Warehouse
+Darkness Returns - draws Copper, Sage, Lookout
+Darkness Returns - discards Copper
+Darkness Returns - discards Copper
+Darkness Returns - discards Sage
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Ambassador
+Darkness Returns - discards Silver
+Darkness Returns - places Bank on top of deck
+Darkness Returns - plays 1 Gold
+Darkness Returns - buys Sage
+Darkness Returns - gains Sage
+Darkness Returns - draws Bank
+Darkness Returns - shuffles deck
+Darkness Returns - draws Sage, Sage, Gold, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Watchtower, Ambassador, Estate
+Titandrake - discards Ambassador
+Titandrake - discards Estate
+Titandrake - discards Ambassador
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Watchtower
+Titandrake - draws Gold, Tunnel, Estate, Gold
+Titandrake - plays 4 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Sage, Bank, Tunnel, Estate
+ 
+---------- Darkness Returns: turn 14 ----------
+Darkness Returns - duration Haven
+Darkness Returns - places set aside Copper in hand
+Darkness Returns - plays Sage
+Darkness Returns - reveals Tunnel
+Darkness Returns - places Tunnel in hand
+Darkness Returns - plays Sage
+Darkness Returns - reveals Lookout
+Darkness Returns - places Lookout in hand
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Silver
+Darkness Returns - discards Warehouse
+Darkness Returns - places Sage on top of deck
+Darkness Returns - plays 2 Copper, 1 Gold
+Darkness Returns - plays Bank
+Darkness Returns - buys Platinum
+Darkness Returns - gains Platinum
+Darkness Returns - draws Sage, Gold, Copper, Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - draws Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - plays Bank
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Gold, Copper, Gold, Platinum
+Titandrake - shuffles deck
+Titandrake - draws Watchtower
+ 
+---------- Darkness Returns: turn 15 ----------
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Copper
+Darkness Returns - discards Haven
+Darkness Returns - places Sage on top of deck
+Darkness Returns - plays Sage
+Darkness Returns - reveals Sage
+Darkness Returns - places Sage in hand
+Darkness Returns - plays Sage
+Darkness Returns - reveals Sage
+Darkness Returns - places Sage in hand
+Darkness Returns - plays Sage
+Darkness Returns - reveals Gold
+Darkness Returns - places Gold in hand
+Darkness Returns - plays 2 Gold, 2 Copper
+Darkness Returns - buys Bank
+Darkness Returns - gains Bank
+Darkness Returns - draws Bank, Warehouse, Platinum, Lookout, Tunnel
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Gold, 1 Copper, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Gold, Sage, Warehouse, Warehouse, Colony
+ 
+---------- Darkness Returns: turn 16 ----------
+Darkness Returns - plays Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - trashes Copper
+Darkness Returns - discards Haven
+Darkness Returns - places Lookout on top of deck
+Darkness Returns - plays Warehouse
+Darkness Returns - draws Lookout, Gold, Copper
+Darkness Returns - discards Tunnel
+Darkness Returns - discards Copper
+Darkness Returns - discards Lookout
+Darkness Returns - reveals reaction Tunnel
+Darkness Returns - gains Gold
+Darkness Returns - plays 1 Platinum, 1 Gold
+Darkness Returns - plays Bank
+Darkness Returns - buys Colony
+Darkness Returns - gains Colony
+Darkness Returns - draws Bank, Sage, Sage, Sage, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Sage
+Titandrake - reveals Bank
+Titandrake - places Bank in hand
+Titandrake - plays Warehouse
+Titandrake - draws Copper, Estate, Gold
+Titandrake - discards Colony
+Titandrake - discards Estate
+Titandrake - discards Warehouse
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - plays Bank
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Ambassador, Copper, Watchtower, Copper, Tunnel
+ 
+---------- Darkness Returns: turn 17 ----------
+Darkness Returns - plays Sage
+Darkness Returns - shuffles deck
+Darkness Returns - reveals Gold
+Darkness Returns - places Gold in hand
+Darkness Returns - plays Sage
+Darkness Returns - reveals Lookout
+Darkness Returns - places Lookout in hand
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Gold
+Darkness Returns - discards Colony
+Darkness Returns - places Platinum on top of deck
+Darkness Returns - plays Sage
+Darkness Returns - reveals Platinum
+Darkness Returns - places Platinum in hand
+Darkness Returns - plays 2 Gold, 1 Platinum
+Darkness Returns - buys Colony
+Darkness Returns - gains Colony
+Darkness Returns - draws Warehouse, Bank, Copper, Tunnel, Lookout
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Gold, Tunnel
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Estate, Estate, Ambassador, Gold
+ 
+---------- Darkness Returns: turn 18 ----------
+Darkness Returns - plays Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - trashes Haven
+Darkness Returns - discards Colony
+Darkness Returns - places Bank on top of deck
+Darkness Returns - plays Warehouse
+Darkness Returns - draws Bank, Sage, Gold
+Darkness Returns - discards Tunnel
+Darkness Returns - discards Copper
+Darkness Returns - discards Bank
+Darkness Returns - reveals reaction Tunnel
+Darkness Returns - gains Gold
+Darkness Returns - plays Sage
+Darkness Returns - reveals Colony
+Darkness Returns - places Colony in hand
+Darkness Returns - plays 1 Gold
+Darkness Returns - plays Bank
+Darkness Returns - buys Duchy
+Darkness Returns - gains Duchy
+Darkness Returns - draws Platinum, Gold, Sage, Sage, Lookout
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+Darkness Returns - gains Estate
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Colony, Tunnel, Colony
+ 
+---------- Darkness Returns: turn 19 ----------
+Darkness Returns - plays Lookout
+Darkness Returns - shuffles deck
+Darkness Returns - trashes Tunnel
+Darkness Returns - discards Colony
+Darkness Returns - places Gold on top of deck
+Darkness Returns - plays Sage
+Darkness Returns - reveals Gold
+Darkness Returns - places Gold in hand
+Darkness Returns - plays Sage
+Darkness Returns - reveals Warehouse
+Darkness Returns - places Warehouse in hand
+Darkness Returns - plays 2 Gold, 1 Platinum
+Darkness Returns - buys Colony
+Darkness Returns - gains Colony
+Darkness Returns - draws Copper, Estate, Bank, Sage, Lookout
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Watchtower, Gold, Gold, Duchy, Copper
+ 
+---------- Darkness Returns: turn 20 ----------
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Gold
+Darkness Returns - discards Duchy
+Darkness Returns - places Bank on top of deck
+Darkness Returns - plays Sage
+Darkness Returns - reveals Bank
+Darkness Returns - places Bank in hand
+Darkness Returns - plays 1 Copper
+Darkness Returns - plays Bank
+Darkness Returns - plays Bank
+Darkness Returns - buys Duchy
+Darkness Returns - gains Duchy
+Darkness Returns - draws Colony
+Darkness Returns - shuffles deck
+Darkness Returns - draws Lookout, Copper, Warehouse, Bank
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Gold, Ambassador
+Titandrake - plays 3 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Tunnel, Warehouse, Watchtower, Bank, Copper
+ 
+---------- Darkness Returns: turn 21 ----------
+Darkness Returns - plays Lookout
+Darkness Returns - trashes Sage
+Darkness Returns - discards Colony
+Darkness Returns - places Sage on top of deck
+Darkness Returns - plays Warehouse
+Darkness Returns - draws Sage, Gold, Bank
+Darkness Returns - discards Colony
+Darkness Returns - discards Copper
+Darkness Returns - discards Bank
+Darkness Returns - plays Sage
+Darkness Returns - reveals Duchy
+Darkness Returns - places Duchy in hand
+Darkness Returns - plays 1 Gold
+Darkness Returns - plays Bank
+Darkness Returns - buys Duchy
+Darkness Returns - gains Duchy
+Darkness Returns - draws Colony, Duchy, Estate, Gold, Sage
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Sage, Warehouse, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Watchtower, 2 Ambassador, 1 Sage, 1 Warehouse, 7 Gold, 5 Copper, 1 Bank, 1 Platinum, 4 Tunnel, 3 Colony, 1 Province, 1 Duchy, 1 Estate
+Titandrake - total victory points: 48
+Titandrake - turns: 21
+ 
+Darkness Returns - resigned
+Darkness Returns - cards: 2 Sage, 2 Lookout, 1 Warehouse, 2 Gold, 2 Bank, 1 Copper, 1 Platinum, 3 Colony, 3 Duchy, 1 Estate
+Darkness Returns - total victory points: 40
+Darkness Returns - turns: 21
+ 
+1st place: Titandrake
+2nd place: Darkness Returns
+ 

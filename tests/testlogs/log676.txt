@@ -1,0 +1,665 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Haven, Ambassador, Hermit, Storeroom, Bureaucrat, Spy, Knights, Mystic, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Hoam - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Hoam - shuffles deck
+Titandrake - shuffles deck
+Hoam - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Hoam: turn 1 ----------
+Hoam - plays 4 Copper
+Hoam - buys Hermit
+Hoam - gains Hermit
+Hoam - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Hoam: turn 2 ----------
+Hoam - plays 3 Copper
+Hoam - buys Silver
+Hoam - gains Silver
+Hoam - shuffles deck
+Hoam - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Ambassador, Copper, Copper
+ 
+---------- Hoam: turn 3 ----------
+Hoam - plays 3 Copper
+Hoam - buys Ambassador
+Hoam - gains Ambassador
+Hoam - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+Hoam - gains Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Hoam: turn 4 ----------
+Hoam - plays 3 Copper, 1 Silver
+Hoam - buys Sir Destry
+Hoam - gains Sir Destry
+Hoam - draws Copper, Hermit
+Hoam - shuffles deck
+Hoam - draws Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver
+ 
+---------- Hoam: turn 5 ----------
+Hoam - plays Hermit
+Hoam - trashes Estate
+Hoam - gains Hermit
+Hoam - trashes Hermit
+Hoam - gains Madman
+Hoam - draws Estate, Sir Destry, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Dame Natalie
+Titandrake - gains Dame Natalie
+Titandrake - draws Ambassador, Copper, Estate, Silver, Copper
+ 
+---------- Hoam: turn 6 ----------
+Hoam - plays Sir Destry
+Hoam - draws Silver, Copper
+Titandrake - reveals: Ambassador, Estate
+Titandrake - trashes Ambassador
+Titandrake - discards Estate
+Hoam - plays 4 Copper, 1 Silver
+Hoam - buys Gold
+Hoam - gains Gold
+Hoam - draws Copper, Ambassador, Copper
+Hoam - shuffles deck
+Hoam - draws Estate, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Hoam - gains Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Ambassador
+ 
+---------- Hoam: turn 7 ----------
+Hoam - plays Ambassador
+Hoam - reveals Estate
+Hoam - returns Estate to the Supply
+Hoam - returns Estate to the Supply
+Titandrake - gains Estate
+Hoam - plays 2 Copper
+Hoam - buys Haven
+Hoam - gains Haven
+Hoam - draws Copper, Copper, Hermit, Copper, Sir Destry
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+Hoam - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Dame Natalie, Estate, Copper, Estate, Silver
+ 
+---------- Hoam: turn 8 ----------
+Hoam - plays Sir Destry
+Hoam - draws Copper, Copper
+Titandrake - reveals: Ambassador, Silver
+Titandrake - trashes Silver
+Titandrake - discards Ambassador
+Hoam - plays 5 Copper
+Hoam - buys Sir Martin
+Hoam - gains Sir Martin
+Hoam - draws Copper, Madman, Silver, Gold
+Hoam - shuffles deck
+Hoam - draws Sir Destry
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Dame Natalie
+Titandrake - gains Silver
+Hoam - reveals: Copper, Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Copper, Ambassador, Estate, Haven
+ 
+---------- Hoam: turn 9 ----------
+Hoam - plays Madman
+Hoam - draws Copper, Copper, Sir Martin, Copper
+Hoam - plays Sir Destry
+Hoam - draws Ambassador, Haven
+Titandrake - reveals: Dame Natalie, Copper
+Titandrake - trashes Dame Natalie
+Titandrake - discards Copper
+Hoam - trashes Sir Destry
+Hoam - plays Haven
+Hoam - draws Copper
+Hoam - sets aside Ambassador
+Hoam - plays Sir Martin
+Titandrake - reveals: Silver, Copper
+Titandrake - trashes Silver
+Titandrake - discards Copper
+Hoam - plays 5 Copper, 1 Silver, 1 Gold
+Hoam - buys Mystic
+Hoam - gains Mystic
+Hoam - buys Dame Anna
+Hoam - gains Dame Anna
+Hoam - draws Copper, Estate, Copper, Hermit
+Hoam - shuffles deck
+Hoam - draws Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Haven
+Titandrake - draws Estate
+Titandrake - sets aside Ambassador
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+Hoam - gains Estate
+Titandrake - draws Silver, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Hoam: turn 10 ----------
+Hoam - duration Haven
+Hoam - places set aside Ambassador in hand
+Hoam - plays Ambassador
+Hoam - reveals Estate
+Hoam - returns Estate to the Supply
+Titandrake - gains Estate
+Hoam - plays 2 Copper, 1 Gold
+Hoam - buys Sir Vander
+Hoam - gains Sir Vander
+Hoam - draws Sir Martin, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Ambassador in hand
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Hoam - gains Estate
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Dame Josephine
+Titandrake - gains Dame Josephine
+Titandrake - draws Ambassador, Copper
+Titandrake - shuffles deck
+Titandrake - draws Haven, Ambassador, Copper
+ 
+---------- Hoam: turn 11 ----------
+Hoam - plays Sir Martin
+Titandrake - reveals: Dame Josephine, Copper
+Titandrake - trashes Dame Josephine
+Titandrake - discards Copper
+Hoam - trashes Sir Martin
+Hoam - plays 4 Copper
+Hoam - buys Silver
+Hoam - gains Silver
+Hoam - draws Copper, Copper, Mystic, Silver, Dame Anna
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Haven
+Titandrake - draws Silver
+Titandrake - sets aside Ambassador
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+Hoam - gains Copper
+Titandrake - plays Silver
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Haven, Silver
+ 
+---------- Hoam: turn 12 ----------
+Hoam - plays Mystic
+Hoam - names Copper
+Hoam - reveals Copper
+Hoam - places Copper in hand
+Hoam - plays Dame Anna
+Titandrake - reveals: Copper
+Hoam - plays 3 Copper, 1 Silver
+Hoam - buys Sir Bailey
+Hoam - gains Sir Bailey
+Hoam - shuffles deck
+Hoam - draws Mystic, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Ambassador in hand
+Titandrake - plays Haven
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - sets aside Ambassador
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Hoam - gains Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Dame Molly
+Titandrake - gains Dame Molly
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Ambassador, Silver, Dame Molly
+ 
+---------- Hoam: turn 13 ----------
+Hoam - plays Mystic
+Hoam - names Sir Michael
+Hoam - reveals Copper
+Hoam - plays 4 Copper
+Hoam - buys Sir Michael
+Hoam - gains Sir Michael
+Hoam - draws Copper, Gold, Hermit, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Ambassador in hand
+Titandrake - plays Dame Molly
+Hoam - reveals: Estate, Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Hoam - gains Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Hoam - gains Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Dame Sylvia
+Titandrake - gains Dame Sylvia
+Titandrake - draws Haven
+Titandrake - shuffles deck
+Titandrake - draws Silver, Ambassador, Ambassador, Dame Sylvia
+ 
+---------- Hoam: turn 14 ----------
+Hoam - plays Hermit
+Hoam - trashes Estate
+Hoam - gains Haven
+Hoam - plays 3 Copper, 1 Gold
+Hoam - buys Gold
+Hoam - gains Gold
+Hoam - draws Sir Bailey, Estate, Sir Vander, Copper, Dame Anna
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Haven
+Titandrake - draws Copper
+Titandrake - sets aside Ambassador
+Titandrake - plays Dame Sylvia
+Hoam - reveals: Silver, Silver
+Hoam - trashes Silver
+Hoam - discards Silver
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - draws Dame Molly, Haven, Silver
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Silver
+ 
+---------- Hoam: turn 15 ----------
+Hoam - plays Sir Bailey
+Hoam - draws Haven
+Titandrake - reveals: Mystic, Dame Sylvia
+Titandrake - trashes Dame Sylvia
+Titandrake - discards Mystic
+Hoam - trashes Sir Bailey
+Hoam - plays Haven
+Hoam - draws Ambassador
+Hoam - sets aside Ambassador
+Hoam - plays Dame Anna
+Hoam - trashes Estate, Sir Vander
+Hoam - gains Gold
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Mystic
+Titandrake - trashes Mystic
+Titandrake - discards Copper
+Hoam - draws Copper
+Hoam - shuffles deck
+Hoam - draws Copper, Hermit, Haven, Dame Anna
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Ambassador in hand
+Titandrake - plays Haven
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - sets aside Silver
+Titandrake - plays Dame Molly
+Hoam - reveals: Copper, Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Hoam - gains Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Hoam - gains Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Dame Molly, Silver, Silver, Haven, Copper
+ 
+---------- Hoam: turn 16 ----------
+Hoam - duration Haven
+Hoam - places set aside Ambassador in hand
+Hoam - plays Haven
+Hoam - draws Sir Michael
+Hoam - sets aside Sir Michael
+Hoam - plays Dame Anna
+Hoam - trashes Copper, Copper
+Titandrake - reveals: Ambassador, Ambassador
+Titandrake - trashes Ambassador
+Titandrake - discards Ambassador
+Hoam - draws Mystic, Copper, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Silver in hand
+Titandrake - plays Haven
+Titandrake - shuffles deck
+Titandrake - draws Ambassador
+Titandrake - sets aside Silver
+Titandrake - plays Dame Molly
+Hoam - reveals: Copper, Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Hoam - gains Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Silver, Silver, Dame Molly, Copper
+ 
+---------- Hoam: turn 17 ----------
+Hoam - duration Haven
+Hoam - places set aside Sir Michael in hand
+Hoam - plays Mystic
+Hoam - names Copper
+Hoam - reveals Silver
+Hoam - plays Sir Michael
+Titandrake - discards Ambassador
+Titandrake - discards Copper
+Titandrake - reveals: Haven, Mystic
+Titandrake - trashes Mystic
+Titandrake - discards Haven
+Hoam - plays 3 Copper, 1 Gold
+Hoam - buys Province
+Hoam - gains Province
+Hoam - draws Silver, Copper, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Silver in hand
+Titandrake - plays Dame Molly
+Hoam - reveals: Gold, Copper
+Hoam - trashes Gold
+Hoam - discards Copper
+Titandrake - plays 3 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Silver, Silver, Dame Molly, Silver
+ 
+---------- Hoam: turn 18 ----------
+Hoam - plays 3 Copper, 1 Silver, 1 Gold
+Hoam - buys Province
+Hoam - gains Province
+Hoam - shuffles deck
+Hoam - draws Sir Michael, Copper, Ambassador, Hermit, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Dame Molly
+Hoam - reveals: Copper, Copper
+Titandrake - plays 3 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Haven, Gold, Copper, Haven
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- Hoam: turn 19 ----------
+Hoam - plays Sir Michael
+Titandrake - discards Haven
+Titandrake - discards Haven
+Titandrake - reveals: Gold, Silver
+Titandrake - trashes Silver
+Titandrake - discards Gold
+Hoam - plays 2 Copper
+Hoam - buys Haven
+Hoam - gains Haven
+Hoam - draws Estate, Copper, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Ambassador, Dame Molly, Silver
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold
+ 
+---------- Hoam: turn 20 ----------
+Hoam - plays 3 Copper, 1 Gold
+Hoam - buys Gold
+Hoam - gains Gold
+Hoam - draws Copper, Gold, Province, Copper, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Dame Molly
+Hoam - reveals: Copper, Mystic
+Hoam - trashes Mystic
+Hoam - discards Copper
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Haven, Silver, Haven, Copper, Gold
+ 
+---------- Hoam: turn 21 ----------
+Hoam - plays 3 Copper, 1 Gold
+Hoam - buys Gold
+Hoam - gains Gold
+Hoam - draws Haven, Dame Anna, Copper, Province, Silver
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Haven
+Titandrake - shuffles deck
+Titandrake - draws Ambassador
+Titandrake - sets aside Ambassador
+Titandrake - plays Haven
+Titandrake - draws Gold
+Titandrake - sets aside Copper
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Dame Molly, Silver, Gold, Gold
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- Hoam: turn 22 ----------
+Hoam - plays Haven
+Hoam - draws Copper
+Hoam - sets aside Province
+Hoam - plays Dame Anna
+Hoam - trashes Copper, Copper
+Titandrake - reveals: Province, Silver
+Titandrake - trashes Silver
+Titandrake - discards Province
+Hoam - plays 1 Silver
+Hoam - buys Haven
+Hoam - gains Haven
+Hoam - draws Haven
+Hoam - shuffles deck
+Hoam - draws Copper, Dame Anna, Haven, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Ambassador in hand
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - plays Dame Molly
+Hoam - reveals: Copper, Gold
+Hoam - trashes Gold
+Hoam - discards Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Hoam - gains Copper
+Titandrake - plays 3 Gold, 1 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Haven, Silver, Province
+ 
+---------- Hoam: turn 23 ----------
+Hoam - duration Haven
+Hoam - places set aside Province in hand
+Hoam - plays Haven
+Hoam - draws Ambassador
+Hoam - sets aside Ambassador
+Hoam - plays Haven
+Hoam - draws Copper
+Hoam - sets aside Province
+Hoam - plays Dame Anna
+Hoam - trashes Copper, Copper
+Titandrake - reveals: Dame Molly, Ambassador
+Titandrake - trashes Dame Molly
+Titandrake - discards Ambassador
+Hoam - trashes Dame Anna
+Hoam - draws Gold, Copper, Province, Copper, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Haven
+Titandrake - draws Gold
+Titandrake - sets aside Copper
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Haven, Gold, Province, Gold
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- Hoam: turn 24 ----------
+Hoam - duration Haven
+Hoam - places set aside Ambassador in hand
+Hoam - duration Haven
+Hoam - places set aside Province in hand
+Hoam - plays Ambassador
+Hoam - reveals Copper
+Titandrake - gains Copper
+Hoam - plays 3 Copper, 1 Gold
+Hoam - buys Gold
+Hoam - gains Gold
+Hoam - draws Copper, Gold, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - plays Haven
+Titandrake - draws Ambassador
+Titandrake - sets aside Province
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Hoam - gains Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Gold, Gold, Province
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- Hoam: turn 25 ----------
+Hoam - plays 3 Copper, 1 Gold, 1 Silver
+Hoam - buys Province
+Hoam - gains Province
+Hoam - draws Gold, Sir Michael, Estate, Copper, Hermit
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Province in hand
+Titandrake - plays 3 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Ambassador, Copper, Haven, Gold, Province
+ 
+---------- Hoam: turn 26 ----------
+Hoam - plays Sir Michael
+Titandrake - discards Ambassador
+Titandrake - discards Province
+Titandrake - reveals: Gold
+Titandrake - shuffles deck
+Titandrake - reveals: Gold
+Titandrake - trashes Gold
+Titandrake - discards Gold
+Hoam - plays 1 Gold, 1 Copper
+Hoam - buys Estate
+Hoam - gains Estate
+Hoam - draws Haven
+Hoam - shuffles deck
+Hoam - draws Copper, Gold, Copper, Province
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Haven
+Titandrake - draws Ambassador
+Titandrake - sets aside Gold
+Titandrake - draws Province, Province, Haven, Gold, Province
+ 
+---------- Hoam: turn 27 ----------
+Hoam - plays Haven
+Hoam - draws Copper
+Hoam - sets aside Province
+Hoam - plays 3 Copper, 1 Gold
+Hoam - buys Duchy
+Hoam - gains Duchy
+Hoam - draws Copper, Copper, Gold, Hermit, Copper
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Gold in hand
+Titandrake - plays Haven
+Titandrake - draws Gold
+Titandrake - sets aside Province
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Silver
+Titandrake - shuffles deck
+Titandrake - draws Ambassador, Province, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Haven, 1 Ambassador, 4 Gold, 1 Silver, 1 Copper, 5 Province
+Titandrake - total victory points: 30
+Titandrake - turns: 27
+ 
+Hoam - cards: 4 Haven, 11 Copper, 1 Hermit, 1 Ambassador, 1 Sir Michael, 4 Gold, 1 Silver, 3 Province, 2 Estate, 1 Duchy
+Hoam - total victory points: 23
+Hoam - turns: 27
+ 
+1st place: Titandrake
+2nd place: Hoam
+ 

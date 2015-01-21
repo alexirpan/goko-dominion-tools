@@ -1,0 +1,388 @@
+------------ Game Setup ------------
+Supply cards: Beggar, University, Scheme, Steward, Armory, Farming Village, Salvager, Counting House, Festival, Vault, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Delta-Alpha-Theta-Theta-Iota - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Titandrake - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 1 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 3 Copper
+Delta-Alpha-Theta-Theta-Iota - buys Steward
+Delta-Alpha-Theta-Theta-Iota - gains Steward
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Copper, Steward
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 2 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 4 Copper
+Delta-Alpha-Theta-Theta-Iota - buys Silver
+Delta-Alpha-Theta-Theta-Iota - gains Silver
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Steward
+Titandrake - trashes Copper, Estate
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 3 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 3 Copper
+Delta-Alpha-Theta-Theta-Iota - buys Silver
+Delta-Alpha-Theta-Theta-Iota - gains Silver
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Copper, Steward, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Armory, Copper
+Titandrake - shuffles deck
+Titandrake - draws Scheme, Copper, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 4 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Steward
+Delta-Alpha-Theta-Theta-Iota - trashes Estate, Copper
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Silver
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Silver, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Armory
+Titandrake - gains Farming Village
+Titandrake - plays 4 Copper
+Titandrake - buys Steward
+Titandrake - gains Steward
+Titandrake - Scheme choice: Armory
+Titandrake - draws Armory, Farming Village, Estate, Estate, Steward
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 5 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 2 Copper, 2 Silver
+Delta-Alpha-Theta-Theta-Iota - buys Gold
+Delta-Alpha-Theta-Theta-Iota - gains Gold
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Copper, Copper, Copper, Steward
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Steward
+Titandrake - trashes Estate, Estate
+Titandrake - plays Armory
+Titandrake - gains Farming Village
+Titandrake - draws Farming Village, Copper
+Titandrake - shuffles deck
+Titandrake - draws Steward, Copper, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 6 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Steward
+Delta-Alpha-Theta-Theta-Iota - trashes Copper, Copper
+Delta-Alpha-Theta-Theta-Iota - draws Estate
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Estate, Copper, Steward, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Armory
+Titandrake - places Armory in hand
+Titandrake - plays Armory
+Titandrake - gains Farming Village
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 3 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Farming Village, Scheme, Copper, Copper, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 7 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Steward
+Delta-Alpha-Theta-Theta-Iota - trashes Estate, Estate
+Delta-Alpha-Theta-Theta-Iota - plays 1 Copper, 1 Silver
+Delta-Alpha-Theta-Theta-Iota - buys Silver
+Delta-Alpha-Theta-Theta-Iota - gains Silver
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Silver, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Scheme
+Titandrake - draws Steward
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Steward
+Titandrake - places Steward in hand
+Titandrake - plays Steward
+Titandrake - draws Armory, Festival
+Titandrake - plays Festival
+Titandrake - plays Armory
+Titandrake - gains Scheme
+Titandrake - plays Steward
+Titandrake - trashes Copper, Copper
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Armory
+Titandrake - draws Armory, Scheme, Farming Village, Copper, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 8 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 3 Copper, 1 Silver, 1 Gold
+Delta-Alpha-Theta-Theta-Iota - buys Province
+Delta-Alpha-Theta-Theta-Iota - gains Province
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Copper, Province, Steward, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Festival
+Titandrake - plays Festival
+Titandrake - plays Armory
+Titandrake - gains Farming Village
+Titandrake - plays 3 Copper
+Titandrake - buys Vault
+Titandrake - gains Vault
+Titandrake - Scheme choice: Festival
+Titandrake - draws Festival, Farming Village, Scheme, Steward, Farming Village
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 9 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Steward
+Delta-Alpha-Theta-Theta-Iota - draws Silver, Copper
+Delta-Alpha-Theta-Theta-Iota - plays 3 Copper, 2 Silver
+Delta-Alpha-Theta-Theta-Iota - buys Gold
+Delta-Alpha-Theta-Theta-Iota - gains Gold
+Delta-Alpha-Theta-Theta-Iota - draws Gold, Silver, Copper
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Steward
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Scheme
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Steward
+Titandrake - places Steward in hand
+Titandrake - plays Steward
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Armory
+Titandrake - places Armory in hand
+Titandrake - plays Armory
+Titandrake - gains Steward
+Titandrake - plays Festival
+Titandrake - plays Steward
+Titandrake - draws Steward, Vault
+Titandrake - plays Vault
+Titandrake - draws Scheme, Copper
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Festival
+Titandrake - Scheme choice: Vault
+Titandrake - draws Vault, Festival
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Silver, Scheme
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 10 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Steward
+Delta-Alpha-Theta-Theta-Iota - takes 2 coins
+Delta-Alpha-Theta-Theta-Iota - plays 2 Copper, 1 Gold, 1 Silver
+Delta-Alpha-Theta-Theta-Iota - buys Province
+Delta-Alpha-Theta-Theta-Iota - gains Province
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Gold, Silver, Province, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Scheme
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Festival
+Titandrake - plays Vault
+Titandrake - draws Steward, Steward
+Titandrake - plays Steward
+Titandrake - draws Steward, Copper
+Titandrake - plays Steward
+Titandrake - draws Scheme, Province
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Steward
+Titandrake - draws Farming Village, Armory
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Farming Village
+Titandrake - Scheme choice: Steward
+Titandrake - draws Steward, Farming Village, Farming Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 11 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 2 Silver, 1 Copper, 1 Gold
+Delta-Alpha-Theta-Theta-Iota - buys Province
+Delta-Alpha-Theta-Theta-Iota - gains Province
+Delta-Alpha-Theta-Theta-Iota - draws Copper
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Steward, Copper, Province
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Armory
+Titandrake - places Armory in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Scheme
+Titandrake - places Scheme in hand
+Titandrake - plays Scheme
+Titandrake - draws Steward
+Titandrake - plays Armory
+Titandrake - gains Farming Village
+Titandrake - plays Steward
+Titandrake - draws Farming Village, Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Vault
+Titandrake - places Vault in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Province, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Province
+Titandrake - plays Vault
+Titandrake - draws Copper, Steward
+Delta-Alpha-Theta-Theta-Iota - discards Province
+Delta-Alpha-Theta-Theta-Iota - discards Copper
+Titandrake - plays Steward
+Titandrake - draws Scheme, Copper
+Titandrake - plays Scheme
+Titandrake - draws Province
+Titandrake - plays Steward
+Titandrake - takes 2 coins
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Farming Village
+Titandrake - Scheme choice: Armory
+Titandrake - draws Armory, Farming Village, Festival
+Titandrake - shuffles deck
+Titandrake - draws Copper, Farming Village
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 12 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Steward
+Delta-Alpha-Theta-Theta-Iota - draws Province, Silver
+Delta-Alpha-Theta-Theta-Iota - plays 2 Copper, 1 Gold, 1 Silver
+Delta-Alpha-Theta-Theta-Iota - buys Duchy
+Delta-Alpha-Theta-Theta-Iota - gains Duchy
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Silver, Gold, Province, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Steward
+Titandrake - places Steward in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Steward
+Titandrake - places Steward in hand
+Titandrake - plays Armory
+Titandrake - gains Salvager
+Titandrake - plays Steward
+Titandrake - draws Salvager, Copper
+Titandrake - plays Festival
+Titandrake - plays Steward
+Titandrake - draws Copper, Province
+Titandrake - plays 3 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Vault, Farming Village, Scheme, Farming Village, Farming Village
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 13 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 2 Silver, 1 Copper, 1 Gold
+Delta-Alpha-Theta-Theta-Iota - buys Province
+Delta-Alpha-Theta-Theta-Iota - gains Province
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Duchy, Silver, Copper, Province, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Scheme
+Titandrake - places Scheme in hand
+Titandrake - plays Scheme
+Titandrake - draws Steward
+Titandrake - plays Scheme
+Titandrake - draws Province
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Vault
+Titandrake - draws Province
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - discards Province
+Titandrake - discards Province
+Delta-Alpha-Theta-Theta-Iota - discards Province
+Delta-Alpha-Theta-Theta-Iota - discards Duchy
+Titandrake - plays Steward
+Titandrake - draws Steward, Copper
+Titandrake - plays Steward
+Titandrake - draws Festival, Province
+Titandrake - plays Festival
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Salvager
+Titandrake - gains Salvager
+Titandrake - Scheme choice: Festival
+Titandrake - Scheme choice: Steward
+Titandrake - draws Steward, Festival, Farming Village, Copper, Farming Village
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 14 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 2 Silver, 1 Copper, 1 Gold
+Delta-Alpha-Theta-Theta-Iota - buys Province
+Delta-Alpha-Theta-Theta-Iota - gains Province
+Delta-Alpha-Theta-Theta-Iota - draws Steward, Gold, Silver, Province, Copper
+ 
+------------ Game Over ------------
+Delta-Alpha-Theta-Theta-Iota - cards: 1 Steward, 4 Copper, 3 Silver, 2 Gold, 5 Province, 1 Duchy
+Delta-Alpha-Theta-Theta-Iota - total victory points: 33
+Delta-Alpha-Theta-Theta-Iota - turns: 14
+ 
+Titandrake - cards: 5 Farming Village, 3 Steward, 2 Salvager, 2 Scheme, 1 Festival, 1 Vault, 1 Armory, 4 Copper, 1 Silver, 3 Province, 2 Duchy
+Titandrake - total victory points: 24
+Titandrake - turns: 14
+ 
+1st place: Delta-Alpha-Theta-Theta-Iota
+2nd place: Titandrake
+ 

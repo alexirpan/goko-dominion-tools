@@ -1,0 +1,510 @@
+------------ Game Setup ------------
+Supply cards: Courtyard, Smugglers, Moneylender, Smithy, Cache, Cartographer, Mountebank, Trading Post, Treasury, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Copperman - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Copperman - shuffles deck
+Titandrake - shuffles deck
+Copperman - draws Copper, Estate, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Copperman: turn 1 ----------
+Copperman - plays 3 Copper
+Copperman - buys Smugglers
+Copperman - gains Smugglers
+Copperman - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Copperman: turn 2 ----------
+Copperman - plays 4 Copper
+Copperman - buys Moneylender
+Copperman - gains Moneylender
+Copperman - shuffles deck
+Copperman - draws Copper, Copper, Copper, Copper, Smugglers
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- Copperman: turn 3 ----------
+Copperman - plays Smugglers
+Copperman - gains Courtyard
+Copperman - plays 4 Copper
+Copperman - buys Silver
+Copperman - gains Silver
+Copperman - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Copperman: turn 4 ----------
+Copperman - plays 3 Copper
+Copperman - buys Silver
+Copperman - gains Silver
+Copperman - draws Moneylender, Estate
+Copperman - shuffles deck
+Copperman - draws Courtyard, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Courtyard, Copper
+Titandrake - shuffles deck
+Titandrake - draws Mountebank, Copper, Estate
+ 
+---------- Copperman: turn 5 ----------
+Copperman - plays Moneylender
+Copperman - trashes Copper
+Copperman - buys Silver
+Copperman - gains Silver
+Copperman - draws Estate, Copper, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Silver, Copper, Copper
+Titandrake - places Mountebank on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Mountebank, Silver, Copper, Copper, Estate
+ 
+---------- Copperman: turn 6 ----------
+Copperman - plays 2 Copper, 2 Silver
+Copperman - buys Mountebank
+Copperman - gains Mountebank
+Copperman - draws Copper, Copper, Copper, Smugglers, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Mountebank
+Copperman - gains Curse
+Copperman - gains Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Mountebank, Estate
+ 
+---------- Copperman: turn 7 ----------
+Copperman - plays Smugglers
+Copperman - gains Gold
+Copperman - plays 4 Copper
+Copperman - buys Silver
+Copperman - gains Silver
+Copperman - shuffles deck
+Copperman - draws Copper, Curse, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Mountebank
+Copperman - discards Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Copperman: turn 8 ----------
+Copperman - plays 3 Copper, 1 Silver
+Copperman - buys Cartographer
+Copperman - gains Cartographer
+Copperman - draws Copper, Estate, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Gold, Gold, Estate, Courtyard
+ 
+---------- Copperman: turn 9 ----------
+Copperman - plays 2 Copper, 1 Silver
+Copperman - buys Silver
+Copperman - gains Silver
+Copperman - draws Silver, Smugglers, Copper, Estate, Moneylender
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+Titandrake - places Gold on top of deck
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Copper, Copper, Silver, Mountebank
+ 
+---------- Copperman: turn 10 ----------
+Copperman - plays Moneylender
+Copperman - trashes Copper
+Copperman - plays 1 Silver
+Copperman - buys Cartographer
+Copperman - gains Cartographer
+Copperman - draws Copper, Gold, Courtyard, Silver, Mountebank
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mountebank
+Copperman - gains Curse
+Copperman - gains Copper
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- Copperman: turn 11 ----------
+Copperman - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Copperman - plays 1 Copper, 1 Gold, 1 Silver
+Copperman - buys Province
+Copperman - gains Province
+Copperman - shuffles deck
+Copperman - draws Estate, Estate, Curse, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Courtyard, Copper
+ 
+---------- Copperman: turn 12 ----------
+Copperman - plays 2 Copper
+Copperman - buys Courtyard
+Copperman - gains Courtyard
+Copperman - draws Silver, Mountebank, Estate, Cartographer, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Gold, Copper, Province
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Estate, Gold, Mountebank
+ 
+---------- Copperman: turn 13 ----------
+Copperman - plays Cartographer
+Copperman - draws Silver
+Copperman - looks at Copper, Gold, Silver, Curse
+Copperman - discards Curse
+Copperman - discards Copper
+Copperman - places Silver on top of deck
+Copperman - places Gold on top of deck
+Copperman - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Copperman - plays 3 Silver
+Copperman - buys Province
+Copperman - gains Province
+Copperman - draws Gold, Silver, Moneylender, Copper, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Mountebank
+Copperman - gains Curse
+Copperman - gains Copper
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Province, Estate, Silver, Copper, Copper
+ 
+---------- Copperman: turn 14 ----------
+Copperman - plays Moneylender
+Copperman - trashes Copper
+Copperman - plays 2 Silver, 1 Gold
+Copperman - buys Province
+Copperman - gains Province
+Copperman - draws Courtyard, Smugglers, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Silver, Copper, Curse, Estate, Silver
+ 
+---------- Copperman: turn 15 ----------
+Copperman - plays Courtyard
+Copperman - draws Province, Cartographer
+Copperman - shuffles deck
+Copperman - draws Province
+Copperman - places Cartographer on top of deck
+Copperman - plays 3 Copper
+Copperman - buys Silver
+Copperman - gains Silver
+Copperman - draws Cartographer, Cartographer, Moneylender, Silver, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Curse, Copper
+ 
+---------- Copperman: turn 16 ----------
+Copperman - plays Cartographer
+Copperman - draws Copper
+Copperman - looks at Province, Curse, Curse, Mountebank
+Copperman - discards Curse
+Copperman - discards Curse
+Copperman - discards Province
+Copperman - places Mountebank on top of deck
+Copperman - plays Cartographer
+Copperman - draws Mountebank
+Copperman - looks at Silver, Copper, Curse, Gold
+Copperman - discards Curse
+Copperman - discards Copper
+Copperman - places Gold on top of deck
+Copperman - places Silver on top of deck
+Copperman - plays Mountebank
+Titandrake - discards Curse
+Copperman - plays 2 Copper, 1 Silver
+Copperman - buys Duchy
+Copperman - gains Duchy
+Copperman - draws Silver, Gold, Silver, Estate, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Province, Copper, Copper, Courtyard
+ 
+---------- Copperman: turn 17 ----------
+Copperman - plays 3 Silver, 1 Gold
+Copperman - buys Province
+Copperman - gains Province
+Copperman - draws Courtyard, Copper, Estate, Estate, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Province, Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver, Estate, Duchy, Gold
+ 
+---------- Copperman: turn 18 ----------
+Copperman - plays Courtyard
+Copperman - shuffles deck
+Copperman - draws Estate, Province, Copper
+Copperman - places Silver on top of deck
+Copperman - plays 2 Copper
+Copperman - buys Estate
+Copperman - gains Estate
+Copperman - draws Silver, Silver, Copper, Province, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy, Mountebank, Copper, Copper, Estate
+ 
+---------- Copperman: turn 19 ----------
+Copperman - plays 2 Silver, 2 Copper
+Copperman - buys Duchy
+Copperman - gains Duchy
+Copperman - draws Silver, Courtyard, Moneylender, Curse, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Mountebank
+Copperman - discards Curse
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Copper, Curse, Gold, Province
+ 
+---------- Copperman: turn 20 ----------
+Copperman - plays Courtyard
+Copperman - draws Copper, Silver, Duchy
+Copperman - places Silver on top of deck
+Copperman - plays 2 Silver, 1 Copper
+Copperman - buys Duchy
+Copperman - gains Duchy
+Copperman - draws Silver, Cartographer, Province, Mountebank, Smugglers
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Courtyard
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Gold, Duchy
+ 
+---------- Copperman: turn 21 ----------
+Copperman - plays Cartographer
+Copperman - draws Province
+Copperman - looks at Cartographer, Silver, Curse, Copper
+Copperman - discards Curse
+Copperman - discards Copper
+Copperman - places Silver on top of deck
+Copperman - places Cartographer on top of deck
+Copperman - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+Copperman - plays 1 Silver
+Copperman - buys Estate
+Copperman - gains Estate
+Copperman - draws Cartographer, Silver, Copper, Gold, Curse
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Duchy
+Titandrake - places Gold on top of deck
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Curse, Copper, Estate, Duchy
+ 
+---------- Copperman: turn 22 ----------
+Copperman - plays Cartographer
+Copperman - shuffles deck
+Copperman - draws Province
+Copperman - looks at Silver, Silver, Province, Curse
+Copperman - discards Province
+Copperman - discards Curse
+Copperman - places Silver on top of deck
+Copperman - places Silver on top of deck
+Copperman - plays 1 Silver, 1 Copper, 1 Gold
+Copperman - buys Estate
+Copperman - gains Estate
+Copperman - draws Silver, Silver, Duchy, Copper, Silver
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse, Duchy, Province, Silver, Copper
+ 
+---------- Copperman: turn 23 ----------
+Copperman - plays 3 Silver, 1 Copper
+Copperman - buys Estate
+Copperman - gains Estate
+Copperman - draws Courtyard, Copper, Copper, Moneylender, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Copperman: turn 24 ----------
+Copperman - plays Courtyard
+Copperman - draws Estate, Mountebank, Cartographer
+Copperman - places Cartographer on top of deck
+Copperman - plays 3 Copper
+Copperman - buys Silver
+Copperman - gains Silver
+Copperman - draws Cartographer, Duchy, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Silver, Mountebank, Copper, Courtyard, Estate
+ 
+---------- Copperman: turn 25 ----------
+Copperman - plays Cartographer
+Copperman - draws Courtyard
+Copperman - looks at Curse, Duchy, Silver, Province
+Copperman - discards Duchy
+Copperman - discards Curse
+Copperman - discards Province
+Copperman - places Silver on top of deck
+Copperman - plays Courtyard
+Copperman - draws Silver, Silver, Copper
+Copperman - places Silver on top of deck
+Copperman - plays 2 Copper, 1 Silver
+Copperman - buys Peddler
+Copperman - gains Peddler
+Copperman - draws Silver, Smugglers, Estate, Province, Estate
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Gold, Estate, Province
+Titandrake - places Mountebank on top of deck
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Mountebank, Silver, Estate, Province, Silver
+ 
+---------- Copperman: turn 26 ----------
+Copperman - plays Smugglers
+Copperman - gains Gold
+Copperman - plays Silver
+Copperman - buys Courtyard
+Copperman - gains Courtyard
+Copperman - shuffles deck
+Copperman - draws Estate, Courtyard, Moneylender, Silver, Estate
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Mountebank
+Copperman - gains Curse
+Copperman - gains Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Cartographer
+Titandrake - gains Cartographer
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Courtyard, Copper, Curse, Copper
+ 
+---------- Copperman: turn 27 ----------
+Copperman - plays Courtyard
+Copperman - draws Cartographer, Mountebank, Estate
+Copperman - places Cartographer on top of deck
+Copperman - draws Cartographer, Estate, Province, Silver, Province
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Estate, Gold, Copper
+Titandrake - places Gold on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, Province, Duchy, Silver, Courtyard
+ 
+---------- Copperman: turn 28 ----------
+Copperman - plays Cartographer
+Copperman - draws Courtyard
+Copperman - looks at Silver, Silver, Duchy, Silver
+Copperman - discards Duchy
+Copperman - places Silver on top of deck
+Copperman - places Silver on top of deck
+Copperman - places Silver on top of deck
+Copperman - draws Silver, Silver, Silver, Province, Silver
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Estate, Cartographer, Silver
+Titandrake - places Gold on top of deck
+Titandrake - plays 2 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, Duchy, Gold, Curse, Estate
+ 
+---------- Copperman: turn 29 ----------
+Copperman - plays 4 Silver
+Copperman - buys Province
+Copperman - gains Province
+Copperman - draws Silver, Copper, Copper, Copper, Copper
+ 
+------------ Game Over ------------
+Copperman - cards: 3 Courtyard, 2 Cartographer, 1 Mountebank, 1 Smugglers, 1 Peddler, 1 Moneylender, 8 Copper, 7 Silver, 2 Gold, 7 Estate, 5 Province, 3 Duchy, 4 Curse
+Copperman - total victory points: 42
+Copperman - turns: 29
+ 
+Titandrake - cards: 3 Courtyard, 10 Copper, 1 Cartographer, 1 Mountebank, 8 Silver, 3 Gold, 7 Estate, 5 Duchy, 3 Province, 3 Curse
+Titandrake - total victory points: 37
+Titandrake - turns: 28
+ 
+1st place: Copperman
+2nd place: Titandrake
+ 

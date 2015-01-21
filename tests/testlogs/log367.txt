@@ -1,0 +1,583 @@
+------------ Game Setup ------------
+Supply cards: Moat, Native Village, Scheme, Smugglers, Armory, Caravan, Fortress, Ironmonger, Worker's Village, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Armory
+lightbulb - gains Armory
+lightbulb - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Smugglers
+lightbulb - gains Smugglers
+lightbulb - shuffles deck
+lightbulb - draws Estate, Copper, Copper, Copper, Armory
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Smugglers
+Titandrake - gains Smugglers
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Copper, Armory
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays Armory
+lightbulb - gains Caravan
+lightbulb - plays 3 Copper
+lightbulb - buys Smugglers
+lightbulb - gains Smugglers
+lightbulb - draws Caravan, Estate, Estate, Smugglers, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Armory
+Titandrake - gains Caravan
+Titandrake - plays 2 Copper
+Titandrake - buys Moat
+Titandrake - gains Moat
+Titandrake - draws Caravan, Estate, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Caravan
+lightbulb - draws Copper
+lightbulb - plays Smugglers
+lightbulb - gains Caravan
+lightbulb - plays 2 Copper
+lightbulb - buys Native Village
+lightbulb - gains Native Village
+lightbulb - draws Copper, Copper
+lightbulb - shuffles deck
+lightbulb - draws Armory, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Caravan
+Titandrake - draws Smugglers
+Titandrake - plays Smugglers
+Titandrake - gains Caravan
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - duration Caravan
+lightbulb - draws Copper
+lightbulb - plays Armory
+lightbulb - gains Caravan
+lightbulb - plays 4 Copper
+lightbulb - buys Caravan
+lightbulb - gains Caravan
+lightbulb - draws Caravan, Native Village, Smugglers, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Smugglers, Moat, Copper, Copper, Caravan
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays Caravan
+lightbulb - draws Estate
+lightbulb - plays Native Village
+lightbulb - sets aside Copper
+lightbulb - plays Smugglers
+lightbulb - gains Caravan
+lightbulb - draws Smugglers, Copper, Caravan
+lightbulb - shuffles deck
+lightbulb - draws Caravan, Caravan
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Smugglers
+Titandrake - gains Caravan
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Copper, Armory, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - duration Caravan
+lightbulb - draws Copper
+lightbulb - plays Caravan
+lightbulb - draws Copper
+lightbulb - plays Caravan
+lightbulb - draws Smugglers
+lightbulb - plays Caravan
+lightbulb - draws Estate
+lightbulb - plays Smugglers
+lightbulb - gains Caravan
+lightbulb - plays 3 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Native Village, Caravan, Estate, Armory, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Caravan
+Titandrake - draws Estate
+Titandrake - plays Armory
+Titandrake - gains Ironmonger
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ironmonger, Copper, Copper, Native Village, Smugglers
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - duration Caravan
+lightbulb - draws Estate
+lightbulb - duration Caravan
+lightbulb - draws Copper
+lightbulb - duration Caravan
+lightbulb - draws Copper
+lightbulb - plays Caravan
+lightbulb - shuffles deck
+lightbulb - draws Copper
+lightbulb - plays Native Village
+lightbulb - sets aside Estate
+lightbulb - plays Armory
+lightbulb - gains Ironmonger
+lightbulb - plays 4 Copper
+lightbulb - buys Ironmonger
+lightbulb - gains Ironmonger
+lightbulb - draws Ironmonger, Silver, Copper, Caravan, Caravan
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Caravan
+Titandrake - places Caravan on top of deck
+Titandrake - plays Smugglers
+Titandrake - gains Ironmonger
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Caravan, Caravan, Moat, Estate, Caravan
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - duration Caravan
+lightbulb - draws Smugglers
+lightbulb - plays Caravan
+lightbulb - draws Smugglers
+lightbulb - plays Ironmonger
+lightbulb - draws Copper
+lightbulb - shuffles deck
+lightbulb - reveals: Armory
+lightbulb - discards Armory
+lightbulb - plays Caravan
+lightbulb - draws Copper
+lightbulb - plays Smugglers
+lightbulb - gains Ironmonger
+lightbulb - plays Smugglers
+lightbulb - gains Ironmonger
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - buys Venture
+lightbulb - gains Venture
+lightbulb - draws Native Village, Estate, Estate, Caravan, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Caravan
+Titandrake - shuffles deck
+Titandrake - draws Smugglers
+Titandrake - plays Smugglers
+Titandrake - gains Venture
+Titandrake - plays Silver
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Estate, Copper, Silver, Armory, Ironmonger
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - duration Caravan
+lightbulb - draws Copper
+lightbulb - duration Caravan
+lightbulb - draws Caravan
+lightbulb - plays Caravan
+lightbulb - draws Caravan
+lightbulb - plays Caravan
+lightbulb - draws Ironmonger
+lightbulb - plays Ironmonger
+lightbulb - draws Copper
+lightbulb - shuffles deck
+lightbulb - reveals: Ironmonger
+lightbulb - places Ironmonger on top of deck
+lightbulb - plays Caravan
+lightbulb - draws Ironmonger
+lightbulb - plays Ironmonger
+lightbulb - draws Venture
+lightbulb - reveals: Smugglers
+lightbulb - places Smugglers on top of deck
+lightbulb - plays Native Village
+lightbulb - sets aside Smugglers
+lightbulb - plays 3 Copper
+lightbulb - plays Venture
+lightbulb - reveals Copper
+lightbulb - plays Copper
+lightbulb - buys Venture
+lightbulb - gains Venture
+lightbulb - draws Copper, Ironmonger, Caravan, Copper, Smugglers
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - draws Caravan
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Caravan
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Armory
+Titandrake - gains Ironmonger
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Ironmonger, Silver, Copper, Native Village
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - duration Caravan
+lightbulb - draws Silver
+lightbulb - duration Caravan
+lightbulb - draws Ironmonger
+lightbulb - duration Caravan
+lightbulb - draws Armory
+lightbulb - plays Ironmonger
+lightbulb - shuffles deck
+lightbulb - draws Native Village
+lightbulb - reveals: Venture
+lightbulb - places Venture on top of deck
+lightbulb - plays Ironmonger
+lightbulb - draws Venture
+lightbulb - reveals: Ironmonger
+lightbulb - places Ironmonger on top of deck
+lightbulb - plays Caravan
+lightbulb - draws Ironmonger
+lightbulb - plays Ironmonger
+lightbulb - draws Ironmonger
+lightbulb - reveals: Estate
+lightbulb - discards Estate
+lightbulb - draws Estate
+lightbulb - plays Ironmonger
+lightbulb - draws Caravan
+lightbulb - reveals: Venture
+lightbulb - places Venture on top of deck
+lightbulb - plays Caravan
+lightbulb - draws Venture
+lightbulb - plays Native Village
+lightbulb - takes set aside cards: Copper, Estate, Smugglers
+lightbulb - plays Smugglers
+lightbulb - gains Ironmonger
+lightbulb - plays Smugglers
+lightbulb - gains Ironmonger
+lightbulb - plays Armory
+lightbulb - gains Ironmonger
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - plays Venture
+lightbulb - reveals Ironmonger, Copper
+lightbulb - discards Ironmonger
+lightbulb - plays Copper
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - draws Caravan, Copper, Copper, Copper
+lightbulb - shuffles deck
+lightbulb - draws Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Caravan
+Titandrake - draws Caravan
+Titandrake - plays Ironmonger
+Titandrake - draws Ironmonger
+Titandrake - reveals: Estate
+Titandrake - discards Estate
+Titandrake - draws Native Village
+Titandrake - plays Ironmonger
+Titandrake - draws Province
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Caravan
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Smugglers
+Titandrake - places Smugglers on top of deck
+Titandrake - plays Native Village
+Titandrake - sets aside Smugglers
+Titandrake - plays Native Village
+Titandrake - sets aside Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Estate, Silver, Venture
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - duration Caravan
+lightbulb - draws Estate
+lightbulb - duration Caravan
+lightbulb - draws Ironmonger
+lightbulb - plays Ironmonger
+lightbulb - draws Native Village
+lightbulb - reveals: Ironmonger
+lightbulb - places Ironmonger on top of deck
+lightbulb - plays Caravan
+lightbulb - draws Ironmonger
+lightbulb - plays Ironmonger
+lightbulb - draws Copper
+lightbulb - reveals: Venture
+lightbulb - places Venture on top of deck
+lightbulb - plays Native Village
+lightbulb - sets aside Venture
+lightbulb - plays 4 Copper
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Caravan, Copper, Armory, Ironmonger, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - plays Venture
+Titandrake - reveals Armory, Moat, Copper
+Titandrake - discards: Armory, Moat
+Titandrake - plays Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Moat, Copper, Copper, Estate, Gold
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - duration Caravan
+lightbulb - draws Estate
+lightbulb - plays Ironmonger
+lightbulb - draws Venture
+lightbulb - reveals: Ironmonger
+lightbulb - places Ironmonger on top of deck
+lightbulb - plays Caravan
+lightbulb - draws Ironmonger
+lightbulb - plays Ironmonger
+lightbulb - draws Caravan
+lightbulb - reveals: Copper
+lightbulb - discards Copper
+lightbulb - plays Caravan
+lightbulb - draws Ironmonger
+lightbulb - plays Ironmonger
+lightbulb - draws Ironmonger
+lightbulb - reveals: Smugglers
+lightbulb - places Smugglers on top of deck
+lightbulb - plays Ironmonger
+lightbulb - draws Smugglers
+lightbulb - reveals: Ironmonger
+lightbulb - places Ironmonger on top of deck
+lightbulb - plays Smugglers
+lightbulb - gains Gold
+lightbulb - plays Armory
+lightbulb - gains Worker's Village
+lightbulb - plays 2 Copper
+lightbulb - plays Venture
+lightbulb - reveals Worker's Village, Ironmonger, Province, Silver
+lightbulb - discards: Worker's Village, Ironmonger, Province
+lightbulb - plays Silver
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Caravan, Smugglers
+lightbulb - shuffles deck
+lightbulb - draws Silver, Copper, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Caravan
+Titandrake - draws Duchy
+Titandrake - duration Caravan
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Moat
+Titandrake - draws Ironmonger, Venture
+Titandrake - plays Ironmonger
+Titandrake - draws Caravan
+Titandrake - reveals: Province
+Titandrake - discards Province
+Titandrake - draws Copper
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays 4 Copper, 1 Gold
+Titandrake - plays Venture
+Titandrake - reveals Native Village, Silver
+Titandrake - discards Native Village
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Armory, Copper, Estate, Ironmonger, Native Village
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - duration Caravan
+lightbulb - draws Ironmonger
+lightbulb - duration Caravan
+lightbulb - draws Estate
+lightbulb - plays Ironmonger
+lightbulb - draws Copper
+lightbulb - reveals: Worker's Village
+lightbulb - places Worker's Village on top of deck
+lightbulb - plays Caravan
+lightbulb - draws Worker's Village
+lightbulb - plays Worker's Village
+lightbulb - draws Copper
+lightbulb - plays Smugglers
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Duchy, Ironmonger, Native Village, Smugglers, Ironmonger
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Smugglers, Silver
+Titandrake - plays Armory
+Titandrake - gains Estate
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Smugglers
+Titandrake - gains Duchy
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Armory, Smugglers, Province, Estate
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - duration Caravan
+lightbulb - draws Estate
+lightbulb - plays Ironmonger
+lightbulb - draws Gold
+lightbulb - reveals: Copper
+lightbulb - discards Copper
+lightbulb - plays Ironmonger
+lightbulb - draws Province
+lightbulb - reveals: Caravan
+lightbulb - places Caravan on top of deck
+lightbulb - plays Native Village
+lightbulb - sets aside Caravan
+lightbulb - plays Smugglers
+lightbulb - gains Estate
+lightbulb - plays 1 Gold
+lightbulb - buys Estate
+lightbulb - gains Estate
+lightbulb - draws Ironmonger, Ironmonger, Duchy, Ironmonger, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Smugglers
+Titandrake - gains Estate
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Duchy, Gold, Duchy, Caravan, Duchy
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays Ironmonger
+lightbulb - draws Venture
+lightbulb - reveals: Caravan
+lightbulb - places Caravan on top of deck
+lightbulb - plays Ironmonger
+lightbulb - draws Caravan
+lightbulb - reveals: Armory
+lightbulb - places Armory on top of deck
+lightbulb - plays Caravan
+lightbulb - draws Armory
+lightbulb - plays Ironmonger
+lightbulb - draws Copper
+lightbulb - reveals: Caravan
+lightbulb - places Caravan on top of deck
+lightbulb - plays Armory
+lightbulb - gains Estate
+lightbulb - plays 2 Copper
+lightbulb - plays Venture
+lightbulb - reveals Estate, Caravan, Ironmonger, Copper
+lightbulb - discards: Estate, Caravan, Ironmonger
+lightbulb - plays Copper
+lightbulb - buys Worker's Village
+lightbulb - gains Worker's Village
+lightbulb - shuffles deck
+lightbulb - draws Ironmonger, Copper, Copper, Caravan, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Caravan
+Titandrake - draws Ironmonger
+Titandrake - plays Ironmonger
+Titandrake - draws Province
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Copper, Caravan, Caravan, Venture
+ 
+---------- lightbulb: turn 17 ----------
+lightbulb - duration Caravan
+lightbulb - draws Smugglers
+lightbulb - plays Caravan
+lightbulb - draws Duchy
+lightbulb - plays Ironmonger
+lightbulb - draws Armory
+lightbulb - reveals: Copper
+lightbulb - discards Copper
+lightbulb - plays Smugglers
+lightbulb - gains Estate
+lightbulb - plays 2 Copper, 1 Silver
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Caravan, Estate, Province, Caravan, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Caravan, 3 Ironmonger, 2 Native Village, 1 Smugglers, 1 Armory, 1 Moat, 7 Copper, 3 Silver, 1 Venture, 1 Gold, 7 Estate, 3 Duchy, 2 Province
+Titandrake - total victory points: 28
+Titandrake - turns: 16
+ 
+lightbulb - cards: 7 Ironmonger, 6 Caravan, 2 Smugglers, 2 Worker's Village, 1 Armory, 1 Native Village, 7 Copper, 2 Venture, 1 Silver, 1 Gold, 7 Estate, 4 Duchy, 1 Province
+lightbulb - total victory points: 25
+lightbulb - turns: 17
+ 
+1st place: Titandrake
+2nd place: lightbulb
+ 

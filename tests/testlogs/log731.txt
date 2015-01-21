@@ -1,0 +1,523 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Herbalist, Vagrant, Apothecary, Sage, Shanty Town, Feodum, Junk Dealer, Witch, Border Village, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Lekkit - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lekkit - shuffles deck
+Titandrake - shuffles deck
+Lekkit - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- Lekkit: turn 1 ----------
+Lekkit - plays 4 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Vagrant, Estate, Copper
+ 
+---------- Lekkit: turn 2 ----------
+Lekkit - plays 3 Copper
+Lekkit - buys Shanty Town
+Lekkit - gains Shanty Town
+Lekkit - shuffles deck
+Lekkit - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Witch, Copper, Estate
+ 
+---------- Lekkit: turn 3 ----------
+Lekkit - plays 4 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Lekkit - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Copper, Copper, Vagrant
+ 
+---------- Lekkit: turn 4 ----------
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - buys Junk Dealer
+Lekkit - gains Junk Dealer
+Lekkit - draws Estate, Shanty Town
+Lekkit - shuffles deck
+Lekkit - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Vagrant, Copper
+ 
+---------- Lekkit: turn 5 ----------
+Lekkit - plays Shanty Town
+Lekkit - reveals Estate, Estate, Copper, Copper
+Lekkit - draws Copper, Copper
+Lekkit - plays 4 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Silver, Curse, Copper, Estate, Junk Dealer
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Witch
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Witch
+Titandrake - draws Copper, Estate
+Lekkit - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Junk Dealer, Estate, Copper, Copper, Silver
+ 
+---------- Lekkit: turn 6 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Silver
+Lekkit - trashes Curse
+Lekkit - plays 2 Silver, 1 Copper
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Junk Dealer
+Lekkit - draws Copper, Copper
+Lekkit - shuffles deck
+Lekkit - draws Estate, Junk Dealer, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Junk Dealer, Witch, Copper, Copper
+ 
+---------- Lekkit: turn 7 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Copper
+Lekkit - trashes Estate
+Lekkit - plays 4 Copper
+Lekkit - buys Witch
+Lekkit - gains Witch
+Lekkit - draws Copper, Copper, Curse, Shanty Town, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Witch
+Titandrake - draws Estate, Silver
+Lekkit - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Vagrant, Copper, Silver, Copper
+ 
+---------- Lekkit: turn 8 ----------
+Lekkit - plays Shanty Town
+Lekkit - reveals Copper, Copper, Curse, Estate
+Lekkit - draws Silver, Copper
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - buys Junk Dealer
+Lekkit - gains Junk Dealer
+Lekkit - draws Silver, Silver, Junk Dealer, Border Village, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Gold, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Copper
+ 
+---------- Lekkit: turn 9 ----------
+Lekkit - plays Border Village
+Lekkit - shuffles deck
+Lekkit - draws Copper
+Lekkit - plays Junk Dealer
+Lekkit - draws Estate
+Lekkit - trashes Estate
+Lekkit - plays 2 Silver, 1 Copper
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Witch
+Lekkit - draws Curse, Shanty Town, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Vagrant, Copper, Silver, Gold
+ 
+---------- Lekkit: turn 10 ----------
+Lekkit - plays Shanty Town
+Lekkit - reveals Curse, Copper, Copper, Copper
+Lekkit - draws Copper, Copper
+Lekkit - plays 5 Copper
+Lekkit - buys Junk Dealer
+Lekkit - gains Junk Dealer
+Lekkit - draws Copper, Curse, Junk Dealer, Silver, Witch
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Witch
+Titandrake - places Witch on top of deck
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Witch, Witch, Junk Dealer, Copper, Estate
+ 
+---------- Lekkit: turn 11 ----------
+Lekkit - plays Junk Dealer
+Lekkit - draws Junk Dealer
+Lekkit - trashes Curse
+Lekkit - plays Junk Dealer
+Lekkit - shuffles deck
+Lekkit - draws Copper
+Lekkit - trashes Copper
+Lekkit - plays Witch
+Lekkit - draws Copper, Shanty Town
+Titandrake - gains Curse
+Lekkit - plays 2 Copper, 1 Silver
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Feodum
+Lekkit - draws Silver, Border Village, Copper, Witch, Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - plays Witch
+Titandrake - shuffles deck
+Titandrake - draws Vagrant, Estate
+Lekkit - gains Curse
+Titandrake - draws Silver, Province, Silver, Silver, Copper
+ 
+---------- Lekkit: turn 12 ----------
+Lekkit - plays Border Village
+Lekkit - draws Border Village
+Lekkit - plays Border Village
+Lekkit - draws Silver
+Lekkit - plays Witch
+Lekkit - draws Copper, Junk Dealer
+Titandrake - gains Curse
+Lekkit - plays Junk Dealer
+Lekkit - draws Junk Dealer
+Lekkit - trashes Curse
+Lekkit - plays Junk Dealer
+Lekkit - draws Copper
+Lekkit - trashes Copper
+Lekkit - plays 2 Silver, 2 Copper
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Estate, Copper
+Lekkit - shuffles deck
+Lekkit - draws Copper, Silver, Witch
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Curse, Copper, Province, Copper
+ 
+---------- Lekkit: turn 13 ----------
+Lekkit - plays Witch
+Lekkit - draws Junk Dealer, Border Village
+Titandrake - gains Curse
+Lekkit - plays 2 Copper, 1 Silver
+Lekkit - buys Feodum
+Lekkit - gains Feodum
+Lekkit - draws Junk Dealer, Border Village, Province, Copper, Junk Dealer
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Copper, Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver
+ 
+---------- Lekkit: turn 14 ----------
+Lekkit - plays Border Village
+Lekkit - draws Silver
+Lekkit - plays Junk Dealer
+Lekkit - draws Silver
+Lekkit - trashes Copper
+Lekkit - plays Junk Dealer
+Lekkit - draws Copper
+Lekkit - trashes Copper
+Lekkit - plays 2 Silver
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Feodum
+Lekkit - draws Copper, Junk Dealer, Curse, Border Village, Witch
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Vagrant, Province, Gold, Witch, Curse
+ 
+---------- Lekkit: turn 15 ----------
+Lekkit - plays Border Village
+Lekkit - draws Shanty Town
+Lekkit - plays Witch
+Lekkit - draws Feodum
+Lekkit - shuffles deck
+Lekkit - draws Border Village
+Titandrake - gains Curse
+Lekkit - plays Border Village
+Lekkit - draws Junk Dealer
+Lekkit - plays Junk Dealer
+Lekkit - draws Feodum
+Lekkit - trashes Curse
+Lekkit - plays Junk Dealer
+Lekkit - draws Silver
+Lekkit - trashes Copper
+Lekkit - plays Shanty Town
+Lekkit - reveals Feodum, Feodum, Silver
+Lekkit - draws Silver, Junk Dealer
+Lekkit - plays Junk Dealer
+Lekkit - draws Province
+Lekkit - trashes Feodum
+Lekkit - gains Silver
+Lekkit - gains Silver
+Lekkit - gains Silver
+Lekkit - plays 2 Silver
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Feodum
+Lekkit - draws Border Village, Copper, Estate, Junk Dealer, Witch
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Feodum
+Titandrake - reveals: Witch
+Titandrake - places Witch on top of deck
+Titandrake - plays Witch
+Titandrake - draws Witch, Copper
+Lekkit - gains Curse
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Junk Dealer, Estate, Silver, Curse, Gold
+ 
+---------- Lekkit: turn 16 ----------
+Lekkit - plays Border Village
+Lekkit - draws Border Village
+Lekkit - plays Border Village
+Lekkit - draws Copper
+Lekkit - plays Witch
+Lekkit - draws Feodum, Silver
+Titandrake - gains Curse
+Lekkit - plays Junk Dealer
+Lekkit - shuffles deck
+Lekkit - draws Silver
+Lekkit - trashes Estate
+Lekkit - plays 2 Copper, 2 Silver
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Feodum
+Lekkit - draws Feodum, Witch, Silver, Border Village, Border Village
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Curse
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Feodum
+Titandrake - draws Copper, Curse, Province, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- Lekkit: turn 17 ----------
+Lekkit - plays Border Village
+Lekkit - draws Silver
+Lekkit - plays Border Village
+Lekkit - draws Junk Dealer
+Lekkit - plays Witch
+Lekkit - draws Border Village, Junk Dealer
+Lekkit - plays Border Village
+Lekkit - draws Shanty Town
+Lekkit - plays Junk Dealer
+Lekkit - draws Province
+Lekkit - trashes Junk Dealer
+Lekkit - plays Shanty Town
+Lekkit - reveals Feodum, Silver, Silver, Province
+Lekkit - draws Feodum, Junk Dealer
+Lekkit - plays Junk Dealer
+Lekkit - draws Silver
+Lekkit - trashes Feodum
+Lekkit - gains Silver
+Lekkit - gains Silver
+Lekkit - gains Silver
+Lekkit - plays 3 Silver
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Silver, Curse
+Lekkit - shuffles deck
+Lekkit - draws Silver, Border Village, Junk Dealer
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Gold, Copper, Gold, Feodum
+ 
+---------- Lekkit: turn 18 ----------
+Lekkit - plays Border Village
+Lekkit - draws Silver
+Lekkit - plays Junk Dealer
+Lekkit - draws Witch
+Lekkit - trashes Curse
+Lekkit - plays Witch
+Lekkit - draws Silver, Junk Dealer
+Lekkit - plays 4 Silver
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Border Village, Silver, Feodum, Feodum, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 2 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Curse, Silver, Silver, Witch
+ 
+---------- Lekkit: turn 19 ----------
+Lekkit - plays Border Village
+Lekkit - draws Copper
+Lekkit - plays 2 Silver, 1 Copper
+Lekkit - buys Duchy
+Lekkit - gains Duchy
+Lekkit - draws Border Village, Silver, Province, Silver, Junk Dealer
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Witch
+Titandrake - draws Junk Dealer, Province
+Titandrake - plays 2 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Witch, Gold, Curse, Border Village, Feodum
+ 
+---------- Lekkit: turn 20 ----------
+Lekkit - plays Border Village
+Lekkit - draws Province
+Lekkit - plays Junk Dealer
+Lekkit - draws Witch
+Lekkit - trashes Silver
+Lekkit - plays Witch
+Lekkit - draws Silver, Shanty Town
+Lekkit - plays Shanty Town
+Lekkit - reveals Silver, Province, Province, Silver
+Lekkit - draws Border Village, Border Village
+Lekkit - plays Border Village
+Lekkit - draws Copper
+Lekkit - plays Border Village
+Lekkit - draws Border Village
+Lekkit - plays Border Village
+Lekkit - draws Feodum
+Lekkit - plays 2 Silver, 1 Copper
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Duchy
+Lekkit - shuffles deck
+Lekkit - draws Feodum, Silver, Copper, Silver, Province
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Border Village
+Titandrake - draws Feodum
+Titandrake - plays Witch
+Titandrake - draws Vagrant, Estate
+Titandrake - plays Vagrant
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Province, Witch, Estate
+ 
+---------- Lekkit: turn 21 ----------
+Lekkit - plays 2 Silver, 1 Copper
+Lekkit - buys Duchy
+Lekkit - gains Duchy
+Lekkit - draws Border Village, Junk Dealer, Silver, Witch, Border Village
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Witch
+Titandrake - draws Duchy, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Copper, Estate, Gold, Witch
+ 
+---------- Lekkit: turn 22 ----------
+Lekkit - plays Border Village
+Lekkit - draws Province
+Lekkit - plays Border Village
+Lekkit - draws Copper
+Lekkit - plays Witch
+Lekkit - draws Silver, Border Village
+Lekkit - plays Border Village
+Lekkit - draws Witch
+Lekkit - plays Witch
+Lekkit - draws Border Village, Silver
+Lekkit - plays Border Village
+Lekkit - draws Silver
+Lekkit - plays 4 Silver, 1 Copper
+Lekkit - buys Province
+Lekkit - gains Province
+Lekkit - draws Feodum, Province, Silver, Shanty Town, Junk Dealer
+ 
+------------ Game Over ------------
+Lekkit - cards: 7 Border Village, 3 Junk Dealer, 2 Witch, 1 Shanty Town, 8 Silver, 2 Copper, 4 Province, 3 Feodum, 3 Duchy
+Lekkit - total victory points: 39
+Lekkit - turns: 22
+ 
+Titandrake - cards: 2 Witch, 1 Border Village, 1 Junk Dealer, 1 Vagrant, 6 Copper, 3 Gold, 3 Silver, 4 Province, 4 Estate, 3 Feodum, 1 Duchy, 4 Curse
+Titandrake - total victory points: 30
+Titandrake - turns: 22
+ 
+1st place: Lekkit
+2nd place: Titandrake
+ 

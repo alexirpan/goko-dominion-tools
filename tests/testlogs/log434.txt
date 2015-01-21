@@ -1,0 +1,641 @@
+------------ Game Setup ------------
+Supply cards: Embargo, University, Doctor, Armory, Worker's Village, Ghost Ship, Rogue, Harem, Hunting Grounds, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+frankdom - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays 4 Copper
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Ghost Ship
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays 3 Copper
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - shuffles deck
+frankdom - draws Silver, Copper, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Copper
+frankdom - places Estate on top of deck
+frankdom - places Copper on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Embargo, Copper, Copper, Copper
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays 2 Silver, 1 Copper
+frankdom - buys Ghost Ship
+frankdom - gains Ghost Ship
+frankdom - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes University
+Titandrake - trashes Embargo
+Titandrake - plays 3 Copper
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- frankdom: turn 4 ----------
+frankdom - plays 2 Copper
+frankdom - buys Embargo
+frankdom - gains Embargo
+frankdom - draws Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+frankdom - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays 5 Copper
+frankdom - buys Worker's Village
+frankdom - gains Worker's Village
+frankdom - draws Estate, Copper, Silver, Copper, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ghost Ship, Copper, Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- frankdom: turn 6 ----------
+frankdom - plays 2 Copper, 2 Silver
+frankdom - buys Hunting Grounds
+frankdom - gains Hunting Grounds
+frankdom - draws Embargo, Estate, Ghost Ship, Estate
+frankdom - shuffles deck
+frankdom - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Silver
+frankdom - places Ghost Ship on top of deck
+frankdom - places Copper on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Estate, Estate, Ghost Ship
+ 
+---------- frankdom: turn 7 ----------
+frankdom - plays Embargo
+frankdom - embargoes Platinum
+frankdom - trashes Embargo
+frankdom - draws Copper, Ghost Ship, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Estate, Copper
+frankdom - places Copper on top of deck
+frankdom - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Ghost Ship, Estate
+ 
+---------- frankdom: turn 8 ----------
+frankdom - plays Ghost Ship
+frankdom - draws Copper, Copper
+Titandrake - places Estate on top of deck
+Titandrake - places Estate on top of deck
+frankdom - plays 3 Copper, 1 Silver
+frankdom - buys Worker's Village
+frankdom - gains Worker's Village
+frankdom - draws Silver, Estate, Worker's Village, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Estate, Estate
+frankdom - places Estate on top of deck
+frankdom - places Worker's Village on top of deck
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ghost Ship, Copper, Estate, Gold, Copper
+ 
+---------- frankdom: turn 9 ----------
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Worker's Village
+frankdom - gains Worker's Village
+frankdom - draws Worker's Village, Estate, Copper, Hunting Grounds, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Worker's Village
+frankdom - places Estate on top of deck
+frankdom - places Copper on top of deck
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - draws Silver, Copper, Copper, Copper, Ghost Ship
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays Worker's Village
+frankdom - draws Copper
+frankdom - plays Hunting Grounds
+frankdom - draws Estate
+frankdom - shuffles deck
+frankdom - draws Estate, Worker's Village, Copper
+frankdom - plays Worker's Village
+frankdom - draws Silver
+frankdom - plays 3 Copper, 1 Silver
+frankdom - buys Worker's Village
+frankdom - gains Worker's Village
+frankdom - draws Estate, Copper, Ghost Ship, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+frankdom - places Estate on top of deck
+frankdom - places Copper on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Ghost Ship, Silver, Copper, Silver, Hunting Grounds
+ 
+---------- frankdom: turn 11 ----------
+frankdom - plays Ghost Ship
+frankdom - draws Copper, Estate
+Titandrake - places Hunting Grounds on top of deck
+Titandrake - places Copper on top of deck
+frankdom - plays 3 Copper
+frankdom - buys Doctor
+frankdom - gains Doctor
+frankdom - draws Copper, Worker's Village, Silver
+frankdom - shuffles deck
+frankdom - draws Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Hunting Grounds
+frankdom - places Worker's Village on top of deck
+frankdom - places Estate on top of deck
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Estate, Ghost Ship, Copper, Estate, Worker's Village
+ 
+---------- frankdom: turn 12 ----------
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Worker's Village
+frankdom - gains Worker's Village
+frankdom - draws Estate, Worker's Village, Worker's Village, Hunting Grounds, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Ghost Ship
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver
+frankdom - places Estate on top of deck
+frankdom - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Worker's Village, Worker's Village, Copper, Ghost Ship
+ 
+---------- frankdom: turn 13 ----------
+frankdom - plays Worker's Village
+frankdom - draws Copper
+frankdom - plays Worker's Village
+frankdom - draws Estate
+frankdom - plays Hunting Grounds
+frankdom - draws Worker's Village, Silver, Ghost Ship, Doctor
+frankdom - plays Worker's Village
+frankdom - draws Worker's Village
+frankdom - plays Worker's Village
+frankdom - draws Estate
+frankdom - plays Ghost Ship
+frankdom - draws Copper, Estate
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+frankdom - plays Doctor
+frankdom - names Copper
+frankdom - reveals: Copper, Copper, Copper
+frankdom - trashes Copper, Copper, Copper
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Worker's Village
+frankdom - gains Worker's Village
+frankdom - shuffles deck
+frankdom - draws Silver, Doctor, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Copper
+frankdom - places Copper on top of deck
+frankdom - places Copper on top of deck
+Titandrake - plays 4 Copper
+Titandrake - buys Worker's Village
+Titandrake - gains Worker's Village
+Titandrake - draws Hunting Grounds, Estate, Silver, Silver, Copper
+ 
+---------- frankdom: turn 14 ----------
+frankdom - plays Doctor
+frankdom - names Copper
+frankdom - reveals: Copper, Copper, Estate
+frankdom - trashes Copper, Copper
+frankdom - places Estate on top of deck
+frankdom - plays 2 Silver
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - draws Estate, Worker's Village, Worker's Village, Estate, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hunting Grounds
+Titandrake - draws Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Silver, Worker's Village, Worker's Village
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Ghost Ship, Worker's Village, Copper, Gold, Copper
+ 
+---------- frankdom: turn 15 ----------
+frankdom - plays Worker's Village
+frankdom - draws Worker's Village
+frankdom - plays Worker's Village
+frankdom - draws Worker's Village
+frankdom - plays Worker's Village
+frankdom - draws Copper
+frankdom - plays Worker's Village
+frankdom - draws Copper
+frankdom - plays 2 Copper
+frankdom - buys Embargo
+frankdom - gains Embargo
+frankdom - draws Worker's Village, Worker's Village, Hunting Grounds, Ghost Ship
+frankdom - shuffles deck
+frankdom - draws Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Ghost Ship
+Titandrake - plays Ghost Ship
+Titandrake - draws Embargo, Copper
+frankdom - places Estate on top of deck
+frankdom - places Ghost Ship on top of deck
+Titandrake - plays Embargo
+Titandrake - embargoes Ghost Ship
+Titandrake - trashes Embargo
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Estate, Worker's Village, Copper, Copper, Estate
+ 
+---------- frankdom: turn 16 ----------
+frankdom - plays Worker's Village
+frankdom - draws Ghost Ship
+frankdom - plays Worker's Village
+frankdom - draws Estate
+frankdom - plays Hunting Grounds
+frankdom - draws Estate, Worker's Village, Silver, Doctor
+frankdom - plays Worker's Village
+frankdom - draws Worker's Village
+frankdom - plays Worker's Village
+frankdom - draws Estate
+frankdom - plays Doctor
+frankdom - names Copper
+frankdom - reveals: Silver, Copper, Worker's Village
+frankdom - trashes Copper
+frankdom - places Worker's Village on top of deck
+frankdom - places Silver on top of deck
+frankdom - plays Ghost Ship
+frankdom - draws Silver, Worker's Village
+Titandrake - places Worker's Village on top of deck
+Titandrake - places Copper on top of deck
+frankdom - plays Worker's Village
+frankdom - draws Copper
+frankdom - plays 2 Silver, 1 Copper
+frankdom - buys Rogue
+frankdom - gains Rogue
+frankdom - draws Silver, Embargo, Worker's Village
+frankdom - shuffles deck
+frankdom - draws Silver, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - draws Copper, Worker's Village, Copper, Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- frankdom: turn 17 ----------
+frankdom - plays Worker's Village
+frankdom - draws Ghost Ship
+frankdom - plays Ghost Ship
+frankdom - draws Worker's Village, Hunting Grounds
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+frankdom - plays Worker's Village
+frankdom - draws Estate
+frankdom - plays Hunting Grounds
+frankdom - draws Copper, Silver, Worker's Village, Doctor
+frankdom - plays Worker's Village
+frankdom - draws Rogue
+frankdom - plays Rogue
+Titandrake - reveals: Copper, Copper
+frankdom - plays Embargo
+frankdom - embargoes Platinum
+frankdom - trashes Embargo
+frankdom - plays 3 Silver, 1 Copper
+frankdom - buys Hunting Grounds
+frankdom - gains Hunting Grounds
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - draws Worker's Village, Worker's Village, Worker's Village, Estate
+frankdom - shuffles deck
+frankdom - draws Worker's Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Worker's Village
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Hunting Grounds
+frankdom - places Estate on top of deck
+frankdom - places Worker's Village on top of deck
+Titandrake - plays Worker's Village
+Titandrake - draws Ghost Ship
+Titandrake - plays Hunting Grounds
+Titandrake - draws Worker's Village, Silver, Ghost Ship, Worker's Village
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays Ghost Ship
+Titandrake - draws Harem, Copper
+Titandrake - plays Worker's Village
+Titandrake - draws Gold
+Titandrake - plays Ghost Ship
+Titandrake - draws Ghost Ship, Estate
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Harem
+Titandrake - plays 4 Copper, 2 Harem, 2 Silver, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Estate, Copper, Embargo, Estate
+ 
+---------- frankdom: turn 18 ----------
+frankdom - plays Worker's Village
+frankdom - draws Worker's Village
+frankdom - plays Worker's Village
+frankdom - draws Estate
+frankdom - plays Worker's Village
+frankdom - draws Estate
+frankdom - plays Worker's Village
+frankdom - draws Doctor
+frankdom - plays Doctor
+frankdom - names Estate
+frankdom - reveals: Silver, Copper, Rogue
+frankdom - places Copper on top of deck
+frankdom - places Silver on top of deck
+frankdom - places Rogue on top of deck
+frankdom - draws Rogue, Silver, Copper, Hunting Grounds, Hunting Grounds
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Ghost Ship
+Titandrake - trashes Embargo
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Hunting Grounds, Silver, Colony, Copper
+ 
+---------- frankdom: turn 19 ----------
+frankdom - plays Hunting Grounds
+frankdom - draws Worker's Village, Silver, Ghost Ship, Silver
+frankdom - plays 3 Silver, 1 Copper
+frankdom - buys Forge
+frankdom - gains Forge
+frankdom - draws Estate, Silver, Worker's Village
+frankdom - shuffles deck
+frankdom - draws Ghost Ship, Forge
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Hunting Grounds
+Titandrake - draws Harem, Worker's Village, Ghost Ship, Worker's Village
+Titandrake - plays 2 Silver, 1 Harem, 1 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Worker's Village, Copper, Estate, Estate, Copper
+ 
+---------- frankdom: turn 20 ----------
+frankdom - plays Worker's Village
+frankdom - draws Hunting Grounds
+frankdom - plays Hunting Grounds
+frankdom - draws Silver, Worker's Village, Worker's Village, Estate
+frankdom - plays Worker's Village
+frankdom - draws Estate
+frankdom - plays Worker's Village
+frankdom - draws Hunting Grounds
+frankdom - plays Hunting Grounds
+frankdom - draws Worker's Village, Worker's Village, Silver, Copper
+frankdom - plays Worker's Village
+frankdom - draws Worker's Village
+frankdom - plays Worker's Village
+frankdom - draws Doctor
+frankdom - plays Worker's Village
+frankdom - draws Rogue
+frankdom - plays Rogue
+Titandrake - reveals: Ghost Ship, Ghost Ship
+Titandrake - trashes Ghost Ship
+Titandrake - discards Ghost Ship
+frankdom - plays Ghost Ship
+frankdom - draws Silver
+Titandrake - places Worker's Village on top of deck
+Titandrake - places Copper on top of deck
+frankdom - plays Forge
+frankdom - trashes Copper, Estate, Estate, Estate, Doctor
+frankdom - gains Platinum
+frankdom - plays 4 Silver
+frankdom - buys Hunting Grounds
+frankdom - gains Hunting Grounds
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - shuffles deck
+frankdom - draws Hunting Grounds, Rogue, Worker's Village, Worker's Village, Worker's Village
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - draws Copper, Worker's Village, Copper, Harem, Gold
+ 
+---------- frankdom: turn 21 ----------
+frankdom - plays Worker's Village
+frankdom - draws Silver
+frankdom - plays Worker's Village
+frankdom - draws Hunting Grounds
+frankdom - plays Worker's Village
+frankdom - draws Forge
+frankdom - plays Hunting Grounds
+frankdom - draws Worker's Village, Silver, Ghost Ship, Worker's Village
+frankdom - plays Worker's Village
+frankdom - draws Silver
+frankdom - plays Worker's Village
+frankdom - draws Hunting Grounds
+frankdom - plays Hunting Grounds
+frankdom - draws Platinum, Silver, Silver, Worker's Village
+frankdom - plays Worker's Village
+frankdom - plays Forge
+frankdom - trashes Hunting Grounds, Rogue
+frankdom - gains Duchy
+frankdom - gains Colony
+frankdom - plays Ghost Ship
+frankdom - shuffles deck
+frankdom - draws Duchy, Colony
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+frankdom - plays 5 Silver, 1 Platinum
+frankdom - buys Colony
+frankdom - gains Colony
+frankdom - buys Armory
+frankdom - gains Armory
+frankdom - shuffles deck
+frankdom - draws Silver, Ghost Ship, Silver, Forge, Hunting Grounds
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Copper
+Titandrake - plays 1 Harem, 1 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Silver, Ghost Ship, Silver, Copper
+ 
+---------- frankdom: turn 22 ----------
+frankdom - plays Hunting Grounds
+frankdom - draws Worker's Village, Worker's Village, Silver, Platinum
+frankdom - plays 3 Silver, 1 Platinum
+frankdom - buys Colony
+frankdom - gains Colony
+frankdom - draws Hunting Grounds, Worker's Village, Armory, Silver, Worker's Village
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Silver, Estate
+frankdom - places Silver on top of deck
+frankdom - places Armory on top of deck
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Doctor
+Titandrake - overpays for Doctor with 5 coins
+Titandrake - looks at Worker's Village
+Titandrake - discards Worker's Village
+Titandrake - looks at Copper
+Titandrake - trashes Copper
+Titandrake - looks at Copper
+Titandrake - trashes Copper
+Titandrake - shuffles deck
+Titandrake - looks at Silver
+Titandrake - discards Silver
+Titandrake - looks at Colony
+Titandrake - discards Colony
+Titandrake - gains Doctor
+Titandrake - draws Silver, Harem, Worker's Village, Harem, Worker's Village
+ 
+---------- frankdom: turn 23 ----------
+frankdom - plays Worker's Village
+frankdom - draws Armory
+frankdom - plays Worker's Village
+frankdom - draws Silver
+frankdom - plays Hunting Grounds
+frankdom - draws Worker's Village, Duchy, Colony, Silver
+frankdom - plays Worker's Village
+frankdom - draws Worker's Village
+frankdom - plays Worker's Village
+frankdom - draws Colony
+frankdom - plays Armory
+frankdom - gains Armory
+frankdom - plays 2 Silver
+frankdom - buys Armory
+frankdom - gains Armory
+frankdom - draws Armory
+frankdom - shuffles deck
+frankdom - draws Armory, Worker's Village, Silver, Colony
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Worker's Village
+Titandrake - draws Gold
+Titandrake - plays Worker's Village
+Titandrake - draws Estate
+Titandrake - plays 2 Harem, 1 Silver, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Hunting Grounds, Estate, Copper, Copper, Harem
+ 
+---------- frankdom: turn 24 ----------
+frankdom - plays Worker's Village
+frankdom - draws Hunting Grounds
+frankdom - plays Hunting Grounds
+frankdom - draws Forge, Ghost Ship, Worker's Village, Worker's Village
+frankdom - plays Worker's Village
+frankdom - draws Colony
+frankdom - plays Worker's Village
+frankdom - draws Silver
+frankdom - plays Ghost Ship
+frankdom - draws Silver, Worker's Village
+Titandrake - places Estate on top of deck
+Titandrake - places Copper on top of deck
+frankdom - plays Worker's Village
+frankdom - draws Duchy
+frankdom - plays Forge
+frankdom - trashes Armory, Armory, Silver
+frankdom - gains Colony
+frankdom - plays 2 Silver
+frankdom - buys Armory
+frankdom - gains Armory
+frankdom - draws Hunting Grounds, Silver, Worker's Village, Worker's Village, Colony
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Hunting Grounds
+Titandrake - draws Copper, Estate, Ghost Ship, Worker's Village
+ 
+------------ Game Over ------------
+frankdom - cards: 6 Worker's Village, 2 Hunting Grounds, 2 Armory, 1 Ghost Ship, 1 Forge, 4 Silver, 1 Platinum, 4 Colony, 1 Duchy
+frankdom - total victory points: 43
+frankdom - turns: 24
+ 
+Titandrake - resigned
+Titandrake - cards: 4 Worker's Village, 3 Ghost Ship, 1 Doctor, 1 Embargo, 5 Copper, 5 Silver, 4 Harem, 2 Gold, 3 Estate, 1 Colony
+Titandrake - total victory points: 21
+Titandrake - turns: 24
+ 
+1st place: frankdom
+2nd place: Titandrake
+ 

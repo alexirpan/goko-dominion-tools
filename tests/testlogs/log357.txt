@@ -1,0 +1,277 @@
+------------ Game Setup ------------
+Supply cards: Tunnel, Silk Road, Butcher, Catacombs, Jester, Journeyman, Outpost, Trading Post, Wharf, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Delta-Alpha-Theta-Theta-Iota - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Titandrake - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 1 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 4 Copper
+Delta-Alpha-Theta-Theta-Iota - buys Silver
+Delta-Alpha-Theta-Theta-Iota - gains Silver
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 2 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 3 Copper
+Delta-Alpha-Theta-Theta-Iota - buys Silver
+Delta-Alpha-Theta-Theta-Iota - gains Silver
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Silver, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Copper, Copper, Estate
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 3 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 3 Copper, 2 Silver
+Delta-Alpha-Theta-Theta-Iota - buys Journeyman
+Delta-Alpha-Theta-Theta-Iota - gains Journeyman
+Delta-Alpha-Theta-Theta-Iota - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 4 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 3 Copper
+Delta-Alpha-Theta-Theta-Iota - buys Silver
+Delta-Alpha-Theta-Theta-Iota - gains Silver
+Delta-Alpha-Theta-Theta-Iota - draws Estate, Copper
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Estate, Silver, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 5 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 2 Copper, 1 Silver
+Delta-Alpha-Theta-Theta-Iota - buys Potion
+Delta-Alpha-Theta-Theta-Iota - gains Potion
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Estate, Copper, Wharf, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 6 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 4 Copper, 1 Silver
+Delta-Alpha-Theta-Theta-Iota - buys Gold
+Delta-Alpha-Theta-Theta-Iota - gains Gold
+Delta-Alpha-Theta-Theta-Iota - draws Silver, Copper, Journeyman, Estate
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Potion
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Gold, Copper, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 7 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Journeyman
+Delta-Alpha-Theta-Theta-Iota - names Estate
+Delta-Alpha-Theta-Theta-Iota - reveals Silver, Estate, Copper, Silver
+Delta-Alpha-Theta-Theta-Iota - discards Estate
+Delta-Alpha-Theta-Theta-Iota - places cards in hand:  Silver, Copper, Silver
+Delta-Alpha-Theta-Theta-Iota - plays 3 Silver, 2 Copper, 1 Potion
+Delta-Alpha-Theta-Theta-Iota - buys Possession
+Delta-Alpha-Theta-Theta-Iota - gains Possession
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Gold, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 5 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Silver, Estate, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 8 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 4 Copper, 1 Gold
+Delta-Alpha-Theta-Theta-Iota - buys Gold
+Delta-Alpha-Theta-Theta-Iota - gains Gold
+Delta-Alpha-Theta-Theta-Iota - draws Estate, Copper
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Estate, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 3 Silver, 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Estate, Gold, Wharf, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 9 ----------
+Delta-Alpha-Theta-Theta-Iota - draws Gold, Silver, Copper, Potion, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 10 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 2 Copper, 1 Gold, 1 Silver, 1 Potion
+Delta-Alpha-Theta-Theta-Iota - buys Possession
+Delta-Alpha-Theta-Theta-Iota - gains Possession
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Silver, Copper, Gold, Possession
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Wharf
+Titandrake - draws Province, Province
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Wharf, Copper, Copper, Gold, Estate
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 11 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Possession
+Delta-Alpha-Theta-Theta-Iota - plays 2 Copper, 1 Silver, 1 Gold
+Delta-Alpha-Theta-Theta-Iota - buys Gold
+Delta-Alpha-Theta-Theta-Iota - gains Gold
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Journeyman, Silver
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Potion, Silver
+ 
+---------- Titandrake: turn 11 [possessed] ----------
+Titandrake - plays Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Delta-Alpha-Theta-Theta-Iota - gains Province
+Titandrake - draws Silver, Gold, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Province
+Titandrake - plays 2 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Gold, Copper, Wharf, Estate
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 12 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Journeyman
+Delta-Alpha-Theta-Theta-Iota - names Estate
+Delta-Alpha-Theta-Theta-Iota - reveals Estate, Copper, Possession, Gold
+Delta-Alpha-Theta-Theta-Iota - discards Estate
+Delta-Alpha-Theta-Theta-Iota - places cards in hand:  Copper, Possession, Gold
+Delta-Alpha-Theta-Theta-Iota - plays 2 Copper, 2 Silver, 1 Potion, 1 Gold
+Delta-Alpha-Theta-Theta-Iota - buys Province
+Delta-Alpha-Theta-Theta-Iota - gains Province
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Estate, Copper, Possession, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Province
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 13 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Possession
+Delta-Alpha-Theta-Theta-Iota - plays 3 Copper
+Delta-Alpha-Theta-Theta-Iota - buys Silver
+Delta-Alpha-Theta-Theta-Iota - gains Silver
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Gold, Gold, Silver, Copper
+ 
+---------- Titandrake: turn 13 [possessed] ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Province
+Delta-Alpha-Theta-Theta-Iota - gains Province
+Titandrake - draws Gold, Duchy, Province, Copper, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Wharf, Silver, Copper, Wharf, Province
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 14 ----------
+Delta-Alpha-Theta-Theta-Iota - plays 2 Copper, 2 Gold, 1 Silver
+Delta-Alpha-Theta-Theta-Iota - buys Province
+Delta-Alpha-Theta-Theta-Iota - gains Province
+Delta-Alpha-Theta-Theta-Iota - draws Estate
+Delta-Alpha-Theta-Theta-Iota - shuffles deck
+Delta-Alpha-Theta-Theta-Iota - draws Silver, Province, Journeyman, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Wharf
+Titandrake - draws Province, Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Gold
+Titandrake - shuffles deck
+Titandrake - draws Tunnel, Silver, Silver
+ 
+---------- Delta-Alpha-Theta-Theta-Iota: turn 15 ----------
+Delta-Alpha-Theta-Theta-Iota - plays Journeyman
+Delta-Alpha-Theta-Theta-Iota - names Copper
+Delta-Alpha-Theta-Theta-Iota - reveals Copper, Province, Copper, Estate, Estate
+Delta-Alpha-Theta-Theta-Iota - discards: Copper, Copper
+Delta-Alpha-Theta-Theta-Iota - places cards in hand:  Province, Estate, Estate
+Delta-Alpha-Theta-Theta-Iota - plays 1 Silver, 1 Gold
+Delta-Alpha-Theta-Theta-Iota - buys Duchy
+Delta-Alpha-Theta-Theta-Iota - gains Duchy
+Delta-Alpha-Theta-Theta-Iota - draws Copper, Gold, Silver, Province, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Province
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Estate, Wharf, Copper, Wharf
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Wharf, 7 Copper, 4 Silver, 2 Gold, 4 Province, 3 Estate, 1 Tunnel, 1 Duchy
+Titandrake - total victory points: 32
+Titandrake - turns: 15
+ 
+Delta-Alpha-Theta-Theta-Iota - cards: 2 Possession, 1 Journeyman, 7 Copper, 4 Silver, 3 Gold, 1 Potion, 4 Province, 3 Estate, 1 Duchy
+Delta-Alpha-Theta-Theta-Iota - total victory points: 30
+Delta-Alpha-Theta-Theta-Iota - turns: 15
+ 
+1st place: Titandrake
+2nd place: Delta-Alpha-Theta-Theta-Iota
+ 

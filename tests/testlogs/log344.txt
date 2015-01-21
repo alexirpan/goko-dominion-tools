@@ -1,0 +1,712 @@
+------------ Game Setup ------------
+Supply cards: Lookout, Scheme, Warehouse, Advisor, Moneylender, Rats, Spice Merchant, Young Witch, Cultist, Junk Dealer, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Bane card: Lookout
+Rating system: pro
+qten - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+qten - shuffles deck
+Titandrake - shuffles deck
+qten - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- qten: turn 1 ----------
+qten - plays 3 Copper
+qten - buys Warehouse
+qten - gains Warehouse
+qten - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- qten: turn 2 ----------
+qten - plays 4 Copper
+qten - buys Moneylender
+qten - gains Moneylender
+qten - shuffles deck
+qten - draws Moneylender, Copper, Copper, Copper, Warehouse
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Silver, Copper, Copper
+ 
+---------- qten: turn 3 ----------
+qten - plays Warehouse
+qten - draws Copper, Copper, Estate
+qten - discards Estate
+qten - discards Copper
+qten - discards Copper
+qten - plays Moneylender
+qten - trashes Copper
+qten - plays 2 Copper
+qten - buys Cultist
+qten - gains Cultist
+qten - draws Estate, Copper, Copper, Estate
+qten - shuffles deck
+qten - draws Warehouse
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Silver
+ 
+---------- qten: turn 4 ----------
+qten - plays Warehouse
+qten - draws Copper, Copper, Estate
+qten - discards Estate
+qten - discards Estate
+qten - discards Estate
+qten - plays 4 Copper
+qten - buys Silver
+qten - gains Silver
+qten - draws Copper, Copper, Moneylender, Cultist
+qten - shuffles deck
+qten - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+qten - gains Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- qten: turn 5 ----------
+qten - plays Cultist
+qten - draws Warehouse, Silver
+Titandrake - gains Survivors
+qten - plays 3 Copper, 1 Silver
+qten - buys Cultist
+qten - gains Cultist
+qten - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Estate, Cultist
+Titandrake - shuffles deck
+Titandrake - draws Estate, Survivors, Copper
+ 
+---------- qten: turn 6 ----------
+qten - plays 3 Copper
+qten - buys Warehouse
+qten - gains Warehouse
+qten - draws Estate
+qten - shuffles deck
+qten - draws Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Copper
+qten - gains Ruined Market
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Copper, Estate, Silver, Cultist, Young Witch
+ 
+---------- qten: turn 7 ----------
+qten - plays 3 Copper
+qten - buys Silver
+qten - gains Silver
+qten - draws Silver, Warehouse, Cultist, Estate, Moneylender
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+qten - gains Survivors
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Copper, Cultist, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Survivors
+ 
+---------- qten: turn 8 ----------
+qten - plays Warehouse
+qten - draws Copper, Cultist, Copper
+qten - discards Estate
+qten - discards Moneylender
+qten - discards Copper
+qten - plays Cultist
+qten - draws Curse, Warehouse
+Titandrake - gains Ruined Village
+qten - plays Cultist
+qten - draws Copper
+qten - shuffles deck
+qten - draws Estate
+Titandrake - gains Ruined Village
+qten - plays 2 Copper, 1 Silver
+qten - buys Warehouse
+qten - gains Warehouse
+qten - draws Copper, Survivors, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Estate
+qten - gains Ruined Market
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- qten: turn 9 ----------
+qten - plays Survivors
+qten - looks at Estate, Ruined Market
+qten - discards: Estate, Ruined Market
+qten - plays 3 Copper
+qten - buys Silver
+qten - gains Silver
+qten - draws Copper, Silver, Moneylender
+qten - shuffles deck
+qten - draws Warehouse, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Cultist, Young Witch, Cultist, Warehouse, Cultist
+ 
+---------- qten: turn 10 ----------
+qten - plays Warehouse
+qten - draws Copper, Cultist, Silver
+qten - discards Estate
+qten - discards Moneylender
+qten - discards Copper
+qten - plays Cultist
+qten - draws Cultist, Warehouse
+Titandrake - gains Ruined Library
+qten - plays Cultist
+qten - draws Warehouse, Estate
+Titandrake - gains Ruined Library
+qten - plays 2 Silver, 1 Copper
+qten - buys Junk Dealer
+qten - gains Junk Dealer
+qten - draws Ruined Market, Silver, Copper, Ruined Market, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+qten - gains Ruined Market
+Titandrake - plays Cultist
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+qten - gains Abandoned Mine
+Titandrake - plays Cultist
+Titandrake - draws Ruined Library, Cultist
+Titandrake - plays Cultist
+Titandrake - draws Ruined Village, Ruined Village
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Ruined Library, Silver, Estate, Copper, Estate
+ 
+---------- qten: turn 11 ----------
+qten - plays Ruined Market
+qten - plays 2 Copper, 1 Silver
+qten - buys Young Witch
+qten - gains Young Witch
+qten - draws Copper, Estate, Curse, Copper, Survivors
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Ruined Library
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Junk Dealer, Survivors, Silver, Copper, Estate
+ 
+---------- qten: turn 12 ----------
+qten - plays Survivors
+qten - shuffles deck
+qten - looks at Silver, Junk Dealer
+qten - places Junk Dealer on top of deck
+qten - places Silver on top of deck
+qten - draws Silver, Junk Dealer, Abandoned Mine, Silver, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Survivors
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Warehouse, Estate, Ruined Library
+ 
+---------- qten: turn 13 ----------
+qten - plays Junk Dealer
+qten - draws Ruined Market
+qten - trashes Ruined Market
+qten - plays Abandoned Mine
+qten - plays 2 Silver, 1 Copper
+qten - buys Junk Dealer
+qten - gains Junk Dealer
+qten - draws Warehouse, Warehouse, Copper, Ruined Market, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Ruined Village, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Ruined Village
+Titandrake - discards Ruined Library
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Junk Dealer, Junk Dealer, Silver, Young Witch
+ 
+---------- qten: turn 14 ----------
+qten - plays Warehouse
+qten - draws Young Witch, Cultist, Silver
+qten - discards Ruined Market
+qten - discards Copper
+qten - discards Cultist
+qten - plays Warehouse
+qten - draws Cultist, Moneylender, Ruined Market
+qten - discards Cultist
+qten - discards Ruined Market
+qten - discards Young Witch
+qten - plays Moneylender
+qten - trashes Copper
+qten - plays 1 Silver
+qten - buys Junk Dealer
+qten - gains Junk Dealer
+qten - draws Warehouse, Estate, Estate, Copper
+qten - shuffles deck
+qten - draws Young Witch
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Cultist
+Titandrake - trashes Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Estate
+Titandrake - trashes Cultist
+Titandrake - draws Copper, Silver, Lookout
+Titandrake - plays Lookout
+Titandrake - trashes Cultist
+Titandrake - draws Estate, Ruined Village, Ruined Library
+Titandrake - discards Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Copper
+Titandrake - discards Ruined Library
+Titandrake - discards Ruined Village
+qten - gains Curse
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Cultist, Cultist
+Titandrake - shuffles deck
+Titandrake - draws Estate, Ruined Village, Silver
+ 
+---------- qten: turn 15 ----------
+qten - plays Warehouse
+qten - draws Copper, Copper, Abandoned Mine
+qten - discards Estate
+qten - discards Estate
+qten - discards Abandoned Mine
+qten - plays Young Witch
+qten - draws Copper, Estate
+qten - discards Estate
+qten - discards Copper
+Titandrake - gains Curse
+qten - plays 3 Copper
+qten - buys Silver
+qten - gains Silver
+qten - draws Ruined Market, Moneylender, Warehouse, Silver, Survivors
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Ruined Village
+Titandrake - plays Cultist
+Titandrake - draws Ruined Library, Estate
+Titandrake - plays Cultist
+Titandrake - draws Young Witch, Junk Dealer
+Titandrake - draws Copper, Copper, Silver, Lookout, Copper
+ 
+---------- qten: turn 16 ----------
+qten - plays Warehouse
+qten - draws Junk Dealer, Ruined Market, Silver
+qten - discards Survivors
+qten - discards Moneylender
+qten - discards Ruined Market
+qten - plays Junk Dealer
+qten - draws Junk Dealer
+qten - trashes Ruined Market
+qten - plays Junk Dealer
+qten - draws Warehouse
+qten - trashes Warehouse
+qten - plays 2 Silver
+qten - buys Hoard
+qten - gains Hoard
+qten - draws Copper, Silver, Cultist, Cultist, Curse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Copper
+Titandrake - discards Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Silver, Province, Warehouse, Copper, Junk Dealer
+ 
+---------- qten: turn 17 ----------
+qten - plays Cultist
+qten - draws Junk Dealer
+qten - shuffles deck
+qten - draws Warehouse
+qten - plays Cultist
+qten - draws Silver, Junk Dealer
+qten - plays 2 Silver, 1 Copper
+qten - buys Cultist
+qten - gains Cultist
+qten - draws Ruined Market, Abandoned Mine, Junk Dealer, Estate, Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Estate, Ruined Village, Copper
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Ruined Village
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Ruined Library
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Ruined Library, Copper
+ 
+---------- qten: turn 18 ----------
+qten - plays Junk Dealer
+qten - draws Warehouse
+qten - trashes Curse
+qten - plays Warehouse
+qten - draws Silver, Silver, Copper
+qten - discards Ruined Market
+qten - discards Abandoned Mine
+qten - discards Estate
+qten - plays 2 Silver, 1 Copper
+qten - buys Hoard
+qten - gains Hoard
+qten - draws Young Witch, Estate, Copper, Survivors, Hoard
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Ruined Library
+Titandrake - draws Young Witch
+Titandrake - plays 3 Copper
+Titandrake - buys Warehouse
+Titandrake - gains Warehouse
+Titandrake - draws Silver, Curse, Lookout, Warehouse, Estate
+ 
+---------- qten: turn 19 ----------
+qten - plays Young Witch
+qten - draws Copper, Copper
+qten - discards Estate
+qten - discards Survivors
+Titandrake - reveals bane Lookout
+qten - plays 3 Copper
+qten - plays Hoard
+qten - buys Duchy
+qten - gains Gold
+qten - gains Duchy
+qten - draws Estate, Moneylender
+qten - shuffles deck
+qten - draws Young Witch, Warehouse, Cultist
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Junk Dealer on top of deck
+Titandrake - plays Warehouse
+Titandrake - draws Junk Dealer, Silver, Silver
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - discards Junk Dealer
+Titandrake - plays 3 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Cultist, Cultist, Junk Dealer, Silver
+ 
+---------- qten: turn 20 ----------
+qten - plays Warehouse
+qten - draws Survivors, Silver, Copper
+qten - discards Estate
+qten - discards Survivors
+qten - discards Cultist
+qten - plays Young Witch
+qten - draws Copper, Cultist
+qten - discards Cultist
+qten - discards Moneylender
+Titandrake - gains Curse
+qten - plays 2 Copper, 1 Silver
+qten - buys Warehouse
+qten - gains Warehouse
+qten - draws Abandoned Mine, Silver, Copper, Hoard, Gold
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Province
+Titandrake - trashes Cultist
+Titandrake - draws Cultist, Copper, Cultist
+Titandrake - plays Cultist
+Titandrake - draws Silver, Ruined Village
+Titandrake - plays Cultist
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+Titandrake - plays Cultist
+Titandrake - draws Duchy, Young Witch
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Warehouse, Copper, Lookout, Silver, Ruined Library
+ 
+---------- qten: turn 21 ----------
+qten - plays Abandoned Mine
+qten - plays 1 Silver, 1 Copper, 1 Gold
+qten - plays Hoard
+qten - buys Province
+qten - gains Gold
+qten - gains Province
+qten - draws Duchy, Junk Dealer, Silver, Estate, Ruined Market
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Estate
+Titandrake - places Junk Dealer on top of deck
+Titandrake - plays Warehouse
+Titandrake - draws Junk Dealer, Silver, Copper
+Titandrake - discards Ruined Library
+Titandrake - discards Copper
+Titandrake - discards Junk Dealer
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Cultist
+Titandrake - gains Cultist
+Titandrake - draws Curse, Warehouse, Ruined Library, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- qten: turn 22 ----------
+qten - plays Junk Dealer
+qten - draws Estate
+qten - trashes Ruined Market
+qten - plays Silver
+qten - buys Warehouse
+qten - gains Warehouse
+qten - draws Junk Dealer, Junk Dealer, Copper, Silver, Curse
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Warehouse
+Titandrake - draws Ruined Village, Province, Copper
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - discards Ruined Village
+Titandrake - plays Ruined Library
+Titandrake - draws Cultist
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Warehouse, Copper, Lookout, Junk Dealer, Duchy
+ 
+---------- qten: turn 23 ----------
+qten - plays Junk Dealer
+qten - draws Copper
+qten - trashes Curse
+qten - plays Junk Dealer
+qten - draws Cultist
+qten - trashes Cultist
+qten - draws Hoard, Warehouse
+qten - shuffles deck
+qten - draws Silver
+qten - plays Warehouse
+qten - draws Gold, Hoard, Copper
+qten - discards Copper
+qten - discards Copper
+qten - discards Copper
+qten - plays 2 Silver, 1 Gold
+qten - plays Hoard
+qten - plays Hoard
+qten - buys Province
+qten - gains Gold
+qten - gains Gold
+qten - gains Province
+qten - draws Cultist, Abandoned Mine, Junk Dealer, Copper, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Cultist
+Titandrake - draws Junk Dealer, Ruined Library, Silver
+Titandrake - discards Province
+Titandrake - places Silver on top of deck
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Ruined Library
+Titandrake - plays Warehouse
+Titandrake - draws Young Witch, Cultist, Silver
+Titandrake - discards Duchy
+Titandrake - discards Junk Dealer
+Titandrake - discards Cultist
+Titandrake - plays Young Witch
+Titandrake - draws Silver, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+qten - gains Curse
+Titandrake - plays 4 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper, Silver, Cultist
+Titandrake - shuffles deck
+Titandrake - draws Cultist
+ 
+---------- qten: turn 24 ----------
+qten - plays Junk Dealer
+qten - draws Province
+qten - trashes Cultist
+qten - draws Cultist, Young Witch, Gold
+qten - plays Young Witch
+qten - draws Moneylender, Warehouse
+qten - discards Province
+qten - discards Abandoned Mine
+Titandrake - gains Curse
+qten - plays 1 Copper, 1 Silver, 1 Gold
+qten - buys Duchy
+qten - gains Duchy
+qten - draws Survivors, Duchy, Warehouse, Estate, Estate
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Cultist
+Titandrake - draws Warehouse, Ruined Library
+Titandrake - plays Cultist
+Titandrake - draws Copper, Silver
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Junk Dealer, Silver, Ruined Village, Estate, Copper
+ 
+---------- qten: turn 25 ----------
+qten - plays Warehouse
+qten - draws Copper, Estate, Silver
+qten - discards Estate
+qten - discards Estate
+qten - discards Estate
+qten - plays Survivors
+qten - looks at Warehouse
+qten - shuffles deck
+qten - looks at Warehouse
+qten - places Warehouse on top of deck
+qten - places Warehouse on top of deck
+qten - plays 1 Copper, 1 Silver
+qten - buys Silver
+qten - gains Silver
+qten - draws Warehouse, Warehouse, Estate, Gold, Hoard
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Ruined Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Province, Province, Copper, Young Witch
+ 
+---------- qten: turn 26 ----------
+qten - plays Warehouse
+qten - draws Cultist, Junk Dealer, Estate
+qten - discards Estate
+qten - discards Estate
+qten - discards Warehouse
+qten - plays Junk Dealer
+qten - draws Gold
+qten - trashes Cultist
+qten - draws Hoard, Gold, Copper
+qten - plays 3 Gold, 1 Copper
+qten - plays Hoard
+qten - plays Hoard
+qten - buys Province
+qten - gains Gold
+qten - gains Gold
+qten - gains Province
+qten - draws Duchy, Estate, Silver, Silver, Young Witch
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Cultist, Estate
+Titandrake - discards Province
+Titandrake - discards Province
+qten - gains Curse
+Titandrake - draws Junk Dealer, Warehouse, Silver, Silver, Province
+ 
+---------- qten: turn 27 ----------
+qten - plays Young Witch
+qten - draws Province, Silver
+qten - discards Province
+qten - discards Duchy
+Titandrake - gains Curse
+qten - plays 3 Silver
+qten - buys Duchy
+qten - gains Duchy
+qten - draws Curse, Copper, Abandoned Mine, Warehouse, Copper
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Lookout
+Titandrake - trashes Warehouse
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Duchy
+Titandrake - shuffles deck
+Titandrake - draws Cultist, Duchy, Province, Curse
+ 
+---------- qten: turn 28 ----------
+qten - plays Warehouse
+qten - draws Junk Dealer, Province, Junk Dealer
+qten - discards Abandoned Mine
+qten - discards Province
+qten - discards Copper
+qten - plays Junk Dealer
+qten - draws Gold
+qten - trashes Curse
+qten - plays Junk Dealer
+qten - draws Moneylender
+qten - trashes Moneylender
+qten - plays 1 Copper, 1 Gold
+qten - buys Duchy
+qten - gains Duchy
+qten - draws Copper
+qten - shuffles deck
+qten - draws Hoard, Abandoned Mine, Warehouse, Curse
+ 
+------------ Game Over ------------
+qten - cards: 4 Warehouse, 3 Junk Dealer, 1 Abandoned Mine, 1 Young Witch, 1 Survivors, 6 Gold, 5 Copper, 5 Silver, 2 Hoard, 4 Duchy, 3 Province, 3 Estate, 1 Curse
+qten - total victory points: 32
+qten - turns: 28
+ 
+Titandrake - cards: 3 Cultist, 2 Junk Dealer, 1 Lookout, 1 Young Witch, 1 Warehouse, 1 Ruined Library, 5 Silver, 5 Copper, 4 Duchy, 3 Province, 3 Estate, 3 Curse
+Titandrake - total victory points: 30
+Titandrake - turns: 28
+ 
+1st place: qten
+2nd place: Titandrake
+ 

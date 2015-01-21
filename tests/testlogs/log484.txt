@@ -1,0 +1,434 @@
+------------ Game Setup ------------
+Supply cards: Chancellor, Fishing Village, Oasis, Shanty Town, Watchtower, Workshop, Militia, Scavenger, Young Witch, Graverobber, Rogue, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Chancellor
+Rating system: pro
+moharimo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+moharimo - shuffles deck
+Titandrake - shuffles deck
+moharimo - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- moharimo: turn 1 ----------
+moharimo - plays 4 Copper
+moharimo - buys Young Witch
+moharimo - gains Young Witch
+moharimo - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- moharimo: turn 2 ----------
+moharimo - plays 3 Copper
+moharimo - buys Watchtower
+moharimo - gains Watchtower
+moharimo - shuffles deck
+moharimo - draws Young Witch, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - draws Copper, Young Witch, Estate, Estate, Estate
+ 
+---------- moharimo: turn 3 ----------
+moharimo - plays Young Witch
+moharimo - draws Estate, Copper
+moharimo - discards Estate
+moharimo - discards Estate
+Titandrake - gains Curse
+moharimo - plays 4 Copper
+moharimo - buys Workshop
+moharimo - gains Workshop
+moharimo - draws Watchtower, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Fishing Village, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+moharimo - gains Curse
+moharimo - applied Watchtower to trash Curse
+moharimo - trashes Curse
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Copper, Estate, Estate
+ 
+---------- moharimo: turn 4 ----------
+moharimo - plays 3 Copper
+moharimo - buys Fishing Village
+moharimo - gains Fishing Village
+moharimo - applied Watchtower to place Fishing Village on top of the deck
+moharimo - draws Fishing Village
+moharimo - shuffles deck
+moharimo - draws Estate, Copper, Watchtower, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - draws Copper, Copper, Watchtower, Copper, Young Witch
+ 
+---------- moharimo: turn 5 ----------
+moharimo - plays Fishing Village
+moharimo - plays Watchtower
+moharimo - draws Young Witch, Copper, Copper
+moharimo - plays Young Witch
+moharimo - draws Estate, Copper
+moharimo - discards Estate
+moharimo - discards Estate
+Titandrake - gains Curse
+Titandrake - applied Watchtower to trash Curse
+Titandrake - trashes Curse
+moharimo - plays 5 Copper
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Copper, Workshop, Estate, Copper
+moharimo - shuffles deck
+moharimo - draws Young Witch
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Fishing Village, Estate
+Titandrake - discards Watchtower
+Titandrake - discards Fishing Village
+moharimo - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Fishing Village, Estate
+ 
+---------- moharimo: turn 6 ----------
+moharimo - duration Fishing Village
+moharimo - plays Young Witch
+moharimo - draws Gold, Copper
+moharimo - discards Estate
+moharimo - discards Copper
+Titandrake - gains Curse
+moharimo - plays Workshop
+moharimo - gains Fishing Village
+moharimo - plays 2 Copper, 1 Gold
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper
+Titandrake - buys Workshop
+Titandrake - gains Workshop
+Titandrake - draws Copper, Copper, Copper, Copper, Oasis
+ 
+---------- moharimo: turn 7 ----------
+moharimo - plays 3 Copper
+moharimo - buys Watchtower
+moharimo - gains Watchtower
+moharimo - draws Watchtower, Copper
+moharimo - shuffles deck
+moharimo - draws Gold, Curse, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Curse, Young Witch, Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- moharimo: turn 8 ----------
+moharimo - plays Watchtower
+moharimo - draws Estate, Fishing Village
+moharimo - plays 2 Copper, 1 Gold
+moharimo - buys Fishing Village
+moharimo - gains Fishing Village
+moharimo - draws Gold, Copper, Young Witch, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Estate, Curse
+Titandrake - discards Curse
+Titandrake - discards Curse
+moharimo - gains Curse
+Titandrake - draws Copper, Fishing Village, Estate, Workshop, Copper
+ 
+---------- moharimo: turn 9 ----------
+moharimo - plays Young Witch
+moharimo - draws Workshop, Fishing Village
+moharimo - discards Workshop
+moharimo - discards Fishing Village
+Titandrake - gains Curse
+moharimo - plays 3 Copper, 1 Gold
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Copper, Estate, Estate, Copper, Watchtower
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Workshop
+Titandrake - gains Watchtower
+Titandrake - plays 2 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Gold, Oasis, Copper, Copper, Copper
+ 
+---------- moharimo: turn 10 ----------
+moharimo - plays Watchtower
+moharimo - shuffles deck
+moharimo - draws Curse, Curse
+moharimo - draws Fishing Village, Watchtower, Fishing Village, Copper, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Oasis
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Watchtower, Curse, Province, Watchtower, Oasis
+ 
+---------- moharimo: turn 11 ----------
+moharimo - plays Fishing Village
+moharimo - plays Fishing Village
+moharimo - plays Watchtower
+moharimo - draws Copper, Estate, Fishing Village, Copper
+moharimo - plays Fishing Village
+moharimo - plays 3 Copper, 1 Gold
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Copper, Gold, Workshop, Young Witch, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Oasis
+Titandrake - draws Estate
+Titandrake - discards Province
+Titandrake - plays Watchtower
+Titandrake - draws Gold, Copper, Curse
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - applied Watchtower to place Silver on top of the deck
+Titandrake - draws Silver, Estate, Workshop, Fishing Village, Copper
+ 
+---------- moharimo: turn 12 ----------
+moharimo - duration Fishing Village
+moharimo - duration Fishing Village
+moharimo - duration Fishing Village
+moharimo - plays Workshop
+moharimo - gains Fishing Village
+moharimo - plays Young Witch
+moharimo - draws Copper
+moharimo - shuffles deck
+moharimo - draws Copper
+moharimo - discards Copper
+moharimo - discards Copper
+Titandrake - gains Curse
+moharimo - plays 2 Gold, 1 Copper
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Fishing Village, Copper, Watchtower, Estate, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Workshop
+Titandrake - gains Fishing Village
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Copper, Young Witch, Copper, Estate, Fishing Village
+ 
+---------- moharimo: turn 13 ----------
+moharimo - plays Fishing Village
+moharimo - plays Watchtower
+moharimo - draws Estate, Gold, Copper
+moharimo - plays 2 Copper, 1 Gold
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Curse, Copper, Copper, Watchtower, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+moharimo - gains Curse
+moharimo - applied Watchtower to trash Curse
+moharimo - trashes Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Curse
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Copper
+ 
+---------- moharimo: turn 14 ----------
+moharimo - duration Fishing Village
+moharimo - plays Watchtower
+moharimo - draws Curse
+moharimo - shuffles deck
+moharimo - draws Province
+moharimo - plays 2 Copper
+moharimo - buys Fishing Village
+moharimo - gains Fishing Village
+moharimo - draws Fishing Village, Fishing Village, Watchtower, Estate, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Workshop, Young Witch, Estate, Watchtower, Scavenger
+ 
+---------- moharimo: turn 15 ----------
+moharimo - plays Fishing Village
+moharimo - plays Fishing Village
+moharimo - plays Watchtower
+moharimo - draws Gold, Workshop, Estate, Fishing Village
+moharimo - plays Fishing Village
+moharimo - plays Workshop
+moharimo - gains Fishing Village
+moharimo - plays Gold
+moharimo - buys Gold
+moharimo - gains Gold
+moharimo - draws Gold, Copper, Copper, Gold, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Workshop
+Titandrake - gains Watchtower
+Titandrake - applied Watchtower to place Watchtower on top of the deck
+Titandrake - draws Watchtower, Fishing Village, Watchtower, Curse, Fishing Village
+ 
+---------- moharimo: turn 16 ----------
+moharimo - duration Fishing Village
+moharimo - duration Fishing Village
+moharimo - duration Fishing Village
+moharimo - plays 3 Copper, 2 Gold
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Copper, Young Witch, Gold, Copper
+moharimo - shuffles deck
+moharimo - draws Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Fishing Village
+Titandrake - plays Watchtower
+Titandrake - draws Copper, Province, Oasis, Copper
+Titandrake - plays Oasis
+Titandrake - draws Gold
+Titandrake - discards Curse
+Titandrake - plays Watchtower
+Titandrake - draws Curse, Copper
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Curse, Estate, Silver, Copper
+ 
+---------- moharimo: turn 17 ----------
+moharimo - plays Young Witch
+moharimo - draws Copper, Estate
+moharimo - discards Province
+moharimo - discards Estate
+Titandrake - gains Curse
+moharimo - plays 3 Copper, 1 Gold
+moharimo - buys Duchy
+moharimo - gains Duchy
+moharimo - draws Province, Copper, Gold, Fishing Village, Estate
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Fishing Village
+Titandrake - duration Fishing Village
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Province, Estate, Watchtower, Copper, Copper
+ 
+---------- moharimo: turn 18 ----------
+moharimo - plays Fishing Village
+moharimo - plays 1 Copper, 1 Gold
+moharimo - buys Duchy
+moharimo - gains Duchy
+moharimo - draws Fishing Village, Province, Copper, Workshop, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Watchtower, Fishing Village
+Titandrake - draws Curse, Copper, Watchtower, Workshop, Estate
+ 
+---------- moharimo: turn 19 ----------
+moharimo - duration Fishing Village
+moharimo - plays Fishing Village
+moharimo - plays Workshop
+moharimo - gains Oasis
+moharimo - plays 2 Copper
+moharimo - buys Oasis
+moharimo - gains Oasis
+moharimo - draws Fishing Village, Gold, Gold, Watchtower, Fishing Village
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Workshop
+Titandrake - gains Silver
+Titandrake - applied Watchtower to place Silver on top of the deck
+Titandrake - draws Silver, Silver, Gold, Curse, Scavenger
+ 
+---------- moharimo: turn 20 ----------
+moharimo - duration Fishing Village
+moharimo - plays Fishing Village
+moharimo - plays Fishing Village
+moharimo - plays 2 Gold
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Watchtower, Estate, Curse, Fishing Village, Curse
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Fishing Village on top of deck
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper, Copper
+ 
+---------- moharimo: turn 21 ----------
+moharimo - duration Fishing Village
+moharimo - duration Fishing Village
+moharimo - plays Fishing Village
+moharimo - plays Watchtower
+moharimo - draws Copper, Fishing Village, Gold
+moharimo - plays Fishing Village
+moharimo - plays 1 Copper, 1 Gold
+moharimo - buys Province
+moharimo - gains Province
+moharimo - shuffles deck
+moharimo - draws Province, Curse, Watchtower, Duchy, Fishing Village
+ 
+------------ Game Over ------------
+moharimo - cards: 6 Fishing Village, 2 Watchtower, 2 Oasis, 1 Workshop, 1 Young Witch, 7 Copper, 5 Gold, 5 Province, 3 Estate, 2 Duchy, 2 Curse
+moharimo - total victory points: 37
+moharimo - turns: 21
+ 
+Titandrake - cards: 4 Fishing Village, 3 Watchtower, 1 Scavenger, 1 Oasis, 1 Workshop, 1 Young Witch, 7 Copper, 3 Silver, 1 Gold, 3 Estate, 3 Province, 1 Duchy, 5 Curse
+Titandrake - total victory points: 19
+Titandrake - turns: 21
+ 
+1st place: moharimo
+2nd place: Titandrake
+ 

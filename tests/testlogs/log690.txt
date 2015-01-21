@@ -1,0 +1,645 @@
+------------ Game Setup ------------
+Supply cards: Pearl Diver, Scrying Pool, Bishop, Bridge, Ironmonger, Bandit Camp, Explorer, Mountebank, Upgrade, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Titandrake - shuffles deck
+yed - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Bridge
+Titandrake - gains Bridge
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Bridge
+yed - gains Bridge
+yed - shuffles deck
+yed - draws Copper, Estate, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Bridge, Estate, Copper, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Ironmonger
+yed - gains Ironmonger
+yed - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Bridge, Silver
+ 
+---------- yed: turn 4 ----------
+yed - plays 4 Copper
+yed - buys Ironmonger
+yed - gains Ironmonger
+yed - draws Bridge, Copper
+yed - shuffles deck
+yed - draws Copper, Ironmonger, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Bridge
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Estate, Estate
+ 
+---------- yed: turn 5 ----------
+yed - plays Ironmonger
+yed - draws Copper
+yed - reveals: Estate
+yed - discards Estate
+yed - draws Copper
+yed - plays Bridge
+yed - plays 4 Copper
+yed - buys Mountebank
+yed - gains Mountebank
+yed - buys Pearl Diver
+yed - gains Pearl Diver
+yed - draws Copper, Silver, Ironmonger, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Copper, Pearl Diver, Copper, Silver, Mountebank
+ 
+---------- yed: turn 6 ----------
+yed - plays Ironmonger
+yed - draws Copper
+yed - shuffles deck
+yed - reveals: Copper
+yed - discards Copper
+yed - plays 3 Copper, 1 Silver
+yed - buys Upgrade
+yed - gains Upgrade
+yed - draws Estate, Pearl Diver, Copper, Bridge, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - shuffles deck
+Titandrake - draws Mountebank, Copper, Copper, Mountebank, Silver
+ 
+---------- yed: turn 7 ----------
+yed - plays Pearl Diver
+yed - draws Mountebank
+yed - places Copper on bottom of deck
+yed - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+yed - plays 2 Copper
+yed - buys Ironmonger
+yed - gains Ironmonger
+yed - draws Estate, Ironmonger, Copper
+yed - shuffles deck
+yed - draws Curse, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Mountebank
+yed - discards Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Copper, Estate, Estate, Copper, Bridge
+ 
+---------- yed: turn 8 ----------
+yed - plays Ironmonger
+yed - draws Ironmonger
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Ironmonger
+yed - draws Upgrade
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Upgrade
+yed - draws Copper
+yed - trashes Estate
+yed - gains Silver
+yed - plays 2 Copper, 1 Silver
+yed - buys Upgrade
+yed - gains Upgrade
+yed - draws Bridge, Mountebank, Copper, Estate, Ironmonger
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Pearl Diver, Silver, Pearl Diver, Estate, Copper
+ 
+---------- yed: turn 9 ----------
+yed - plays Ironmonger
+yed - draws Copper
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+yed - plays 2 Copper
+yed - buys Upgrade
+yed - gains Upgrade
+yed - draws Pearl Diver, Copper, Estate
+yed - shuffles deck
+yed - draws Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Upgrade
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Upgrade, Copper, Silver, Ironmonger
+ 
+---------- yed: turn 10 ----------
+yed - plays Pearl Diver
+yed - draws Bridge
+yed - places Ironmonger on top of deck
+yed - plays Bridge
+yed - plays 2 Copper, 1 Silver
+yed - buys Bandit Camp
+yed - gains Bandit Camp
+yed - buys Pearl Diver
+yed - gains Pearl Diver
+yed - draws Ironmonger, Silver, Copper, Curse, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Estate
+Titandrake - discards Estate
+Titandrake - draws Silver
+Titandrake - plays Upgrade
+Titandrake - draws Upgrade
+Titandrake - trashes Copper
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Silver
+Titandrake - gains Ironmonger
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Curse, Bridge, Estate, Upgrade, Copper
+ 
+---------- yed: turn 11 ----------
+yed - plays Ironmonger
+yed - draws Ironmonger
+yed - reveals: Mountebank
+yed - places Mountebank on top of deck
+yed - plays Ironmonger
+yed - draws Mountebank
+yed - reveals: Upgrade
+yed - places Upgrade on top of deck
+yed - plays Mountebank
+Titandrake - discards Curse
+yed - plays 2 Copper, 1 Silver
+yed - buys Ironmonger
+yed - gains Ironmonger
+yed - draws Upgrade, Copper, Copper, Copper, Upgrade
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Pearl Diver
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Bridge
+Titandrake - plays 2 Copper
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Curse, Copper, Pearl Diver, Silver, Mountebank
+ 
+---------- yed: turn 12 ----------
+yed - plays Upgrade
+yed - draws Copper
+yed - trashes Copper
+yed - plays Upgrade
+yed - draws Upgrade
+yed - trashes Copper
+yed - plays Upgrade
+yed - draws Ironmonger
+yed - trashes Copper
+yed - plays Ironmonger
+yed - draws Estate
+yed - shuffles deck
+yed - reveals: Bandit Camp
+yed - places Bandit Camp on top of deck
+yed - draws Bandit Camp, Mountebank, Ironmonger, Copper, Pearl Diver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Mountebank
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Mountebank, Copper
+ 
+---------- yed: turn 13 ----------
+yed - plays Bandit Camp
+yed - draws Bridge
+yed - gains Spoils
+yed - plays Ironmonger
+yed - draws Silver
+yed - reveals: Pearl Diver
+yed - places Pearl Diver on top of deck
+yed - plays Pearl Diver
+yed - draws Pearl Diver
+yed - places Copper on bottom of deck
+yed - plays Pearl Diver
+yed - draws Copper
+yed - places Copper on bottom of deck
+yed - plays Bridge
+yed - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+yed - plays 2 Copper, 1 Silver
+yed - buys Ironmonger
+yed - gains Ironmonger
+yed - buys Ironmonger
+yed - gains Ironmonger
+yed - draws Ironmonger, Estate, Copper, Ironmonger, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Ironmonger, Copper, Upgrade, Bridge, Upgrade
+ 
+---------- yed: turn 14 ----------
+yed - plays Ironmonger
+yed - draws Curse
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Ironmonger
+yed - shuffles deck
+yed - draws Curse
+yed - reveals: Ironmonger
+yed - places Ironmonger on top of deck
+yed - plays 1 Copper, 1 Silver
+yed - buys Estate
+yed - gains Estate
+yed - draws Ironmonger, Copper, Silver, Spoils, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Upgrade
+Titandrake - reveals: Ironmonger
+Titandrake - places Ironmonger on top of deck
+Titandrake - plays Upgrade
+Titandrake - draws Ironmonger
+Titandrake - trashes Copper
+Titandrake - plays Ironmonger
+Titandrake - draws Upgrade
+Titandrake - reveals: Estate
+Titandrake - discards Estate
+Titandrake - draws Silver
+Titandrake - plays Upgrade
+Titandrake - draws Ironmonger
+Titandrake - trashes Upgrade
+Titandrake - gains Gold
+Titandrake - plays Ironmonger
+Titandrake - draws Silver
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Bridge
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Pearl Diver
+Titandrake - gains Pearl Diver
+Titandrake - draws Upgrade, Pearl Diver, Silver, Curse, Silver
+ 
+---------- yed: turn 15 ----------
+yed - plays Ironmonger
+yed - draws Pearl Diver
+yed - reveals: Mountebank
+yed - places Mountebank on top of deck
+yed - plays Pearl Diver
+yed - draws Mountebank
+yed - places Upgrade on top of deck
+yed - plays Mountebank
+Titandrake - discards Curse
+yed - plays 2 Copper, 1 Silver
+yed - plays Spoils
+yed - buys Province
+yed - gains Province
+yed - draws Upgrade, Bridge, Copper, Copper, Bandit Camp
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Curse
+Titandrake - trashes Curse
+Titandrake - plays Pearl Diver
+Titandrake - draws Pearl Diver
+Titandrake - places Mountebank on top of deck
+Titandrake - plays Pearl Diver
+Titandrake - draws Mountebank
+Titandrake - places Copper on bottom of deck
+Titandrake - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Pearl Diver, Ironmonger
+ 
+---------- yed: turn 16 ----------
+yed - plays Bandit Camp
+yed - draws Pearl Diver
+yed - gains Spoils
+yed - plays Pearl Diver
+yed - draws Upgrade
+yed - places Upgrade on top of deck
+yed - plays Upgrade
+yed - draws Upgrade
+yed - trashes Copper
+yed - plays Upgrade
+yed - draws Copper
+yed - trashes Copper
+yed - plays Upgrade
+yed - draws Copper
+yed - trashes Copper
+yed - plays Bridge
+yed - plays 1 Copper
+yed - buys Pearl Diver
+yed - gains Pearl Diver
+yed - buys Pearl Diver
+yed - gains Pearl Diver
+yed - draws Ironmonger, Ironmonger, Ironmonger, Estate, Curse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Copper
+Titandrake - places Mountebank on top of deck
+Titandrake - plays Ironmonger
+Titandrake - draws Mountebank
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Mountebank
+yed - discards Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Silver, Upgrade, Estate, Upgrade
+ 
+---------- yed: turn 17 ----------
+yed - plays Ironmonger
+yed - shuffles deck
+yed - draws Pearl Diver
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Ironmonger
+yed - draws Bandit Camp
+yed - reveals: Estate
+yed - discards Estate
+yed - draws Ironmonger
+yed - plays Ironmonger
+yed - draws Pearl Diver
+yed - reveals: Bridge
+yed - places Bridge on top of deck
+yed - plays Ironmonger
+yed - draws Bridge
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Bandit Camp
+yed - draws Pearl Diver
+yed - gains Spoils
+yed - plays Pearl Diver
+yed - draws Pearl Diver
+yed - places Mountebank on top of deck
+yed - plays Pearl Diver
+yed - draws Mountebank
+yed - places Upgrade on bottom of deck
+yed - plays Pearl Diver
+yed - draws Copper
+yed - places Upgrade on top of deck
+yed - plays Pearl Diver
+yed - draws Upgrade
+yed - places Copper on bottom of deck
+yed - plays Upgrade
+yed - draws Curse
+yed - trashes Curse
+yed - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+yed - plays Bridge
+yed - plays 1 Copper
+yed - buys Duchy
+yed - gains Duchy
+yed - buys Estate
+yed - gains Estate
+yed - draws Province, Ironmonger, Estate, Upgrade, Curse
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Pearl Diver
+Titandrake - trashes Pearl Diver
+Titandrake - gains Silver
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Silver
+Titandrake - gains Bishop
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Duchy, Copper, Ironmonger, Duchy
+ 
+---------- yed: turn 18 ----------
+yed - plays Upgrade
+yed - draws Silver
+yed - trashes Curse
+yed - plays Ironmonger
+yed - draws Curse
+yed - reveals: Silver
+yed - places Silver on top of deck
+yed - plays 1 Silver
+yed - buys Estate
+yed - gains Estate
+yed - draws Silver, Copper, Upgrade, Curse, Ironmonger
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Upgrade
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Ironmonger, Bridge, Pearl Diver, Mountebank, Upgrade
+ 
+---------- yed: turn 19 ----------
+yed - plays Ironmonger
+yed - draws Spoils
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Upgrade
+yed - shuffles deck
+yed - draws Duchy
+yed - trashes Curse
+yed - plays 1 Silver, 1 Copper
+yed - plays Spoils
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Pearl Diver, Ironmonger, Silver, Estate, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Pearl Diver
+Titandrake - draws Upgrade
+Titandrake - places Silver on top of deck
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Bridge
+Titandrake - gains Duchy
+Titandrake - plays Upgrade
+Titandrake - draws Curse
+Titandrake - trashes Ironmonger
+Titandrake - gains Duchy
+Titandrake - plays Mountebank
+yed - gains Curse
+yed - gains Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Curse, Silver, Estate
+ 
+---------- yed: turn 20 ----------
+yed - plays Pearl Diver
+yed - draws Copper
+yed - places Estate on bottom of deck
+yed - plays Ironmonger
+yed - draws Curse
+yed - reveals: Pearl Diver
+yed - places Pearl Diver on top of deck
+yed - plays 1 Silver, 1 Copper
+yed - buys Estate
+yed - gains Estate
+yed - draws Pearl Diver, Ironmonger, Mountebank, Pearl Diver, Ironmonger
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Duchy, Bishop, Silver, Silver
+ 
+---------- yed: turn 21 ----------
+yed - plays Ironmonger
+yed - draws Copper
+yed - reveals: Upgrade
+yed - places Upgrade on top of deck
+yed - plays Ironmonger
+yed - draws Upgrade
+yed - reveals: Pearl Diver
+yed - places Pearl Diver on top of deck
+yed - plays Pearl Diver
+yed - draws Pearl Diver
+yed - places Estate on bottom of deck
+yed - plays Pearl Diver
+yed - draws Ironmonger
+yed - places Estate on bottom of deck
+yed - plays Ironmonger
+yed - draws Spoils
+yed - reveals: Estate
+yed - discards Estate
+yed - draws Ironmonger
+yed - plays Ironmonger
+yed - draws Bridge
+yed - reveals: Copper
+yed - discards Copper
+yed - plays Pearl Diver
+yed - draws Estate
+yed - places Estate on bottom of deck
+yed - plays Upgrade
+yed - draws Copper
+yed - trashes Copper
+yed - plays Bridge
+yed - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+yed - plays 1 Copper
+yed - plays Spoils
+yed - buys Province
+yed - gains Province
+yed - buys Estate
+yed - gains Estate
+yed - draws Estate, Upgrade, Bandit Camp, Estate
+yed - shuffles deck
+yed - draws Copper
+ 
+------------ Game Over ------------
+yed - cards: 6 Ironmonger, 4 Pearl Diver, 3 Upgrade, 1 Bandit Camp, 1 Mountebank, 1 Bridge, 5 Copper, 2 Silver, 7 Estate, 2 Province, 2 Duchy, 2 Curse
+yed - victory point chips: 0
+yed - total victory points: 23
+yed - turns: 21
+ 
+Titandrake - cards: 5 Upgrade, 2 Mountebank, 2 Pearl Diver, 2 Ironmonger, 1 Bishop, 8 Copper, 4 Silver, 1 Gold, 6 Duchy, 4 Estate, 4 Curse
+Titandrake - victory point chips: 0
+Titandrake - total victory points: 18
+Titandrake - turns: 21
+ 
+1st place: yed
+2nd place: Titandrake
+ 

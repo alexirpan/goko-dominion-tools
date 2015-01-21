@@ -1,0 +1,559 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Fishing Village, Forager, Baron, Coppersmith, Plaza, Sea Hag, Taxman, Butcher, Possession, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+SheCantSayNo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Estate, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Forager
+SheCantSayNo - gains Forager
+SheCantSayNo - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Baron
+Titandrake - gains Baron
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Sea Hag
+SheCantSayNo - gains Sea Hag
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Forager, Sea Hag, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Forager, Estate, Copper, Baron, Estate
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Forager
+SheCantSayNo - gains Forager
+SheCantSayNo - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Baron
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Baron
+SheCantSayNo - gains Baron
+SheCantSayNo - draws Estate, Estate
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Forager, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - draws Forager, Copper, Copper, Estate, Estate
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays 1 Copper
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - draws Copper, Estate, Copper, Baron, Forager
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Copper, Sea Hag, Gold
+Titandrake - shuffles deck
+Titandrake - draws Curse
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Copper
+SheCantSayNo - buys Plaza
+SheCantSayNo - gains Plaza
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - draws Copper, Copper, Sea Hag
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Forager, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Sea Hag
+SheCantSayNo - discards Vagrant
+SheCantSayNo - gains Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Butcher
+Titandrake - gains Butcher
+Titandrake - draws Copper, Forager, Estate, Copper, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Sea Hag
+Titandrake - discards Forager
+Titandrake - gains Curse
+SheCantSayNo - plays Copper
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - draws Curse, Copper, Estate, Estate, Baron
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Curse, Copper, Estate, Vagrant, Baron
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - buys Potion
+SheCantSayNo - gains Potion
+SheCantSayNo - draws Forager, Copper, Vagrant, Plaza
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Baron
+Titandrake - discards Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Curse, Sea Hag, Gold, Forager
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Vagrant
+SheCantSayNo - reveals: Curse
+SheCantSayNo - places Curse in hand
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Estate
+SheCantSayNo - reveals: Vagrant
+SheCantSayNo - places Vagrant on top of deck
+SheCantSayNo - plays Plaza
+SheCantSayNo - draws Vagrant
+SheCantSayNo - discards Copper
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Baron
+SheCantSayNo - reveals: Potion
+SheCantSayNo - places Potion on top of deck
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Curse
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Copper
+SheCantSayNo - buys Baron
+SheCantSayNo - gains Baron
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - draws Potion, Sea Hag, Copper, Forager, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Forager
+Titandrake - trashes Curse
+Titandrake - plays Sea Hag
+SheCantSayNo - discards Estate
+SheCantSayNo - gains Curse
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Forager
+Titandrake - gains Forager
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Copper, Butcher, Forager, Plaza, Copper
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+SheCantSayNo - draws Curse
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate, Vagrant, Vagrant, Estate
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Forager
+Titandrake - trashes Curse
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Copper
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Vagrant
+Titandrake - shuffles deck
+Titandrake - draws Forager, Forager, Vagrant, Vagrant, Gold
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Sea Hag
+SheCantSayNo - reveals: Estate
+SheCantSayNo - places Estate in hand
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Vagrant
+SheCantSayNo - reveals: Baron
+SheCantSayNo - places Baron on top of deck
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Baron
+SheCantSayNo - reveals: Forager
+SheCantSayNo - places Forager on top of deck
+SheCantSayNo - plays Sea Hag
+Titandrake - discards Gold
+Titandrake - gains Curse
+SheCantSayNo - draws Forager, Potion, Vagrant, Forager, Plaza
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Curse
+Titandrake - reveals: Estate
+Titandrake - places Estate in hand
+Titandrake - plays Vagrant
+Titandrake - draws Forager
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Forager
+Titandrake - trashes Curse
+Titandrake - plays Forager
+Titandrake - trashes Estate
+Titandrake - plays Gold
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Copper, Plaza, Sea Hag, Vagrant
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Copper
+SheCantSayNo - reveals: Baron
+SheCantSayNo - places Baron on top of deck
+SheCantSayNo - plays Plaza
+SheCantSayNo - draws Baron
+SheCantSayNo - discards Potion
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Copper
+SheCantSayNo - plays Baron
+SheCantSayNo - gains Estate
+SheCantSayNo - plays Forager
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - draws Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Baron, Estate, Vagrant, Vagrant
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Baron
+Titandrake - places Baron on top of deck
+Titandrake - plays Sea Hag
+SheCantSayNo - discards Vagrant
+SheCantSayNo - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Vagrant
+Titandrake - gains Vagrant
+Titandrake - draws Baron, Copper, Copper, Butcher
+Titandrake - shuffles deck
+Titandrake - draws Forager
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Curse
+SheCantSayNo - reveals: Plaza
+SheCantSayNo - places Plaza on top of deck
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Plaza
+SheCantSayNo - reveals: Curse
+SheCantSayNo - places Curse in hand
+SheCantSayNo - plays Plaza
+SheCantSayNo - draws Vagrant
+SheCantSayNo - discards Copper
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Estate
+SheCantSayNo - reveals: Vagrant
+SheCantSayNo - places Vagrant on top of deck
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - uses 1 coin token
+SheCantSayNo - buys Vagrant
+SheCantSayNo - gains Vagrant
+SheCantSayNo - buys Fishing Village
+SheCantSayNo - gains Fishing Village
+SheCantSayNo - draws Vagrant, Forager, Baron, Potion, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Forager
+Titandrake - trashes Copper
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Baron
+Titandrake - gains Plaza
+Titandrake - draws Curse, Sea Hag, Copper, Forager, Copper
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Sea Hag
+SheCantSayNo - reveals: Estate
+SheCantSayNo - places Estate in hand
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - plays 1 Potion
+SheCantSayNo - uses 2 coin tokens
+SheCantSayNo - buys Possession
+SheCantSayNo - gains Possession
+SheCantSayNo - draws Forager
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Vagrant, Copper, Vagrant, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Forager
+Titandrake - trashes Curse
+Titandrake - plays Sea Hag
+SheCantSayNo - discards Curse
+SheCantSayNo - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - uses 3 coin tokens
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Vagrant, Vagrant, Plaza, Vagrant, Potion
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Curse
+SheCantSayNo - reveals: Sea Hag
+SheCantSayNo - places Sea Hag on top of deck
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Sea Hag
+SheCantSayNo - reveals: Curse
+SheCantSayNo - places Curse in hand
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Curse
+SheCantSayNo - plays Sea Hag
+Titandrake - discards Forager
+Titandrake - gains Curse
+SheCantSayNo - draws Estate, Plaza, Baron, Vagrant, Fishing Village
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Curse
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Vagrant
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Gold
+Titandrake - plays 2 Gold, 1 Potion, 1 Copper
+Titandrake - buys Possession
+Titandrake - gains Possession
+Titandrake - shuffles deck
+Titandrake - draws Curse, Plaza, Forager, Copper, Sea Hag
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Forager
+SheCantSayNo - reveals: Estate
+SheCantSayNo - places Estate in hand
+SheCantSayNo - plays Plaza
+SheCantSayNo - draws Vagrant
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Estate
+SheCantSayNo - reveals: Baron
+SheCantSayNo - places Baron on top of deck
+SheCantSayNo - plays Fishing Village
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - buys Duchy
+SheCantSayNo - gains Duchy
+SheCantSayNo - draws Baron, Potion, Vagrant, Possession, Vagrant
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - plays Forager
+Titandrake - trashes Curse
+Titandrake - plays Sea Hag
+SheCantSayNo - shuffles deck
+SheCantSayNo - discards Vagrant
+SheCantSayNo - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Vagrant, Forager, Vagrant, Vagrant, Forager
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - duration Fishing Village
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Curse
+SheCantSayNo - reveals: Estate
+SheCantSayNo - places Estate in hand
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Estate
+SheCantSayNo - reveals: Curse
+SheCantSayNo - places Curse in hand
+SheCantSayNo - plays Possession
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Potion
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Baron, Forager, Duchy, Curse, Sea Hag
+ 
+---------- Titandrake: turn 18 [possessed] ----------
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Gold
+Titandrake - places Gold on top of deck
+Titandrake - plays Vagrant
+Titandrake - draws Gold
+Titandrake - reveals: Vagrant
+Titandrake - places Vagrant on top of deck
+Titandrake - plays Forager
+Titandrake - trashes Forager
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Province
+SheCantSayNo - gains Province
+Titandrake - draws Vagrant, Possession, Gold, Copper, Butcher
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Vagrant
+Titandrake - draws Plaza
+Titandrake - reveals: Potion
+Titandrake - places Potion on top of deck
+Titandrake - plays Plaza
+Titandrake - draws Potion
+Titandrake - discards Potion
+Titandrake - receives 1 coin token
+Titandrake - plays Possession
+Titandrake - plays Butcher
+Titandrake - receives 2 coin tokens
+Titandrake - trashes Gold
+Titandrake - uses 1 coin token
+Titandrake - uses 1 coin token
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Sea Hag, Forager, Province, Plaza, Potion
+ 
+---------- SheCantSayNo: turn 18 [possessed] ----------
+SheCantSayNo - draws Estate, Forager, Estate, Copper, Plaza
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Plaza
+SheCantSayNo - draws Vagrant
+SheCantSayNo - discards Copper
+SheCantSayNo - receives 1 coin token
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Vagrant
+SheCantSayNo - reveals: Vagrant
+SheCantSayNo - places Vagrant on top of deck
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Vagrant
+SheCantSayNo - shuffles deck
+SheCantSayNo - reveals: Possession
+SheCantSayNo - places Possession on top of deck
+SheCantSayNo - plays Vagrant
+SheCantSayNo - draws Possession
+SheCantSayNo - reveals: Vagrant
+SheCantSayNo - places Vagrant on top of deck
+SheCantSayNo - plays Forager
+SheCantSayNo - trashes Estate
+SheCantSayNo - plays Possession
+SheCantSayNo - buys Estate
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Vagrant, Baron, Estate, Sea Hag, Vagrant
+ 
+---------- Titandrake: turn 19 [possessed] ----------
+Titandrake - plays Plaza
+Titandrake - draws Vagrant
+Titandrake - discards Potion
+Titandrake - receives 1 coin token
+Titandrake - plays Vagrant
+Titandrake - draws Copper
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Forager
+Titandrake - trashes Sea Hag
+Titandrake - plays Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Estate
+SheCantSayNo - gains Estate
+Titandrake - buys Estate
+SheCantSayNo - gains Estate
+Titandrake - draws Copper, Possession, Vagrant, Butcher, Estate
+ 
+------------ Game Over ------------
+SheCantSayNo - cards: 6 Vagrant, 2 Baron, 2 Forager, 1 Sea Hag, 1 Plaza, 1 Possession, 1 Fishing Village, 1 Potion, 1 Copper, 8 Estate, 1 Province, 1 Duchy, 3 Curse
+SheCantSayNo - total victory points: 14
+SheCantSayNo - turns: 18
+ 
+Titandrake - cards: 4 Vagrant, 3 Forager, 2 Plaza, 1 Possession, 1 Butcher, 1 Sea Hag, 4 Copper, 2 Gold, 1 Potion, 2 Estate, 1 Province
+Titandrake - total victory points: 8
+Titandrake - turns: 18
+ 
+1st place: SheCantSayNo
+2nd place: Titandrake
+ 

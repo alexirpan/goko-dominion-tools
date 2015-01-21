@@ -1,0 +1,382 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Moat, Hermit, Remodel, Scavenger, Jester, Laboratory, Mint, Royal Seal, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Mooncake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Mooncake - shuffles deck
+Titandrake - shuffles deck
+Mooncake - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Mooncake: turn 1 ----------
+Mooncake - plays 4 Copper
+Mooncake - buys Scavenger
+Mooncake - gains Scavenger
+Mooncake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Scavenger, Copper, Copper
+ 
+---------- Mooncake: turn 2 ----------
+Mooncake - plays 3 Copper
+Mooncake - buys Silver
+Mooncake - gains Silver
+Mooncake - shuffles deck
+Mooncake - draws Estate, Scavenger, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Scavenger
+Titandrake - plays 3 Copper
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Mooncake: turn 3 ----------
+Mooncake - plays Scavenger
+Mooncake - moves deck to discards
+Mooncake - places Copper on top of deck
+Mooncake - plays 2 Copper, 1 Silver
+Mooncake - buys Gold
+Mooncake - gains Gold
+Mooncake - draws Copper
+Mooncake - shuffles deck
+Mooncake - draws Silver, Copper, Copper, Gold
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Scavenger, Silver
+ 
+---------- Mooncake: turn 4 ----------
+Mooncake - plays 3 Copper, 1 Silver, 1 Gold
+Mooncake - buys Gold
+Mooncake - gains Gold
+Mooncake - draws Estate, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Mooncake: turn 5 ----------
+Mooncake - plays 2 Copper
+Mooncake - buys Chapel
+Mooncake - gains Chapel
+Mooncake - draws Scavenger, Copper, Copper
+Mooncake - shuffles deck
+Mooncake - draws Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Laboratory, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Mooncake: turn 6 ----------
+Mooncake - plays Scavenger
+Mooncake - moves deck to discards
+Mooncake - places Gold on top of deck
+Mooncake - plays 3 Copper
+Mooncake - buys Laboratory
+Mooncake - gains Laboratory
+Mooncake - draws Gold
+Mooncake - shuffles deck
+Mooncake - draws Chapel, Gold, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Silver, Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Estate, Copper, Silver, Chapel, Copper
+ 
+---------- Mooncake: turn 7 ----------
+Mooncake - plays Chapel
+Mooncake - trashes Estate, Copper
+Mooncake - plays 2 Gold
+Mooncake - buys Gold
+Mooncake - gains Gold
+Mooncake - draws Copper, Copper, Silver, Scavenger, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Copper, Copper, Estate
+Titandrake - draws Scavenger
+Titandrake - shuffles deck
+Titandrake - draws Silver, Laboratory, Silver, Estate
+ 
+---------- Mooncake: turn 8 ----------
+Mooncake - plays Scavenger
+Mooncake - moves deck to discards
+Mooncake - places Gold on top of deck
+Mooncake - plays 3 Copper, 1 Silver
+Mooncake - buys Gold
+Mooncake - gains Gold
+Mooncake - draws Gold
+Mooncake - shuffles deck
+Mooncake - draws Copper, Copper, Laboratory, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Jester
+Titandrake - plays Jester
+Mooncake - reveals Gold
+Mooncake - discards Gold
+Titandrake - gains Gold
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Estate, Copper, Copper, Chapel
+Titandrake - shuffles deck
+Titandrake - draws Scavenger
+ 
+---------- Mooncake: turn 9 ----------
+Mooncake - plays Laboratory
+Mooncake - draws Chapel, Gold
+Mooncake - plays 3 Copper, 2 Gold
+Mooncake - buys Platinum
+Mooncake - gains Platinum
+Mooncake - draws Gold, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper, Copper
+Titandrake - draws Copper, Silver, Laboratory, Silver, Laboratory
+ 
+---------- Mooncake: turn 10 ----------
+Mooncake - plays 3 Copper, 1 Gold
+Mooncake - buys Laboratory
+Mooncake - gains Laboratory
+Mooncake - draws Estate, Scavenger, Silver
+Mooncake - shuffles deck
+Mooncake - draws Laboratory, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Jester, Gold
+Titandrake - plays Laboratory
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Scavenger
+Titandrake - plays Jester
+Mooncake - reveals Copper
+Mooncake - discards Copper
+Mooncake - gains Copper
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Chapel
+Titandrake - shuffles deck
+Titandrake - draws Jester, Laboratory, Gold, Scavenger
+ 
+---------- Mooncake: turn 11 ----------
+Mooncake - plays Laboratory
+Mooncake - draws Gold, Laboratory
+Mooncake - plays Laboratory
+Mooncake - draws Estate, Platinum
+Mooncake - plays Scavenger
+Mooncake - moves deck to discards
+Mooncake - places Gold on top of deck
+Mooncake - plays 1 Silver, 1 Copper, 1 Gold, 1 Platinum
+Mooncake - buys Colony
+Mooncake - gains Colony
+Mooncake - draws Gold
+Mooncake - shuffles deck
+Mooncake - draws Laboratory, Copper, Estate, Colony
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Platinum, Copper
+Titandrake - plays Jester
+Mooncake - reveals Copper
+Mooncake - discards Copper
+Mooncake - gains Copper
+Titandrake - plays 1 Gold, 1 Platinum, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Silver, Silver, Laboratory, Estate
+Titandrake - shuffles deck
+Titandrake - draws Scavenger
+ 
+---------- Mooncake: turn 12 ----------
+Mooncake - plays Laboratory
+Mooncake - draws Copper, Gold
+Mooncake - plays 2 Gold, 2 Copper
+Mooncake - buys Province
+Mooncake - gains Province
+Mooncake - draws Copper, Estate, Gold, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Platinum
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Laboratory on top of deck
+Titandrake - plays 2 Silver, 1 Copper, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Laboratory
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Laboratory, Colony
+ 
+---------- Mooncake: turn 13 ----------
+Mooncake - plays 3 Copper, 1 Gold
+Mooncake - buys Laboratory
+Mooncake - gains Laboratory
+Mooncake - draws Platinum, Gold, Silver, Scavenger, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Platinum, Estate
+Titandrake - plays Laboratory
+Titandrake - draws Copper, Colony
+Titandrake - plays 2 Silver, 1 Platinum, 1 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Chapel, Scavenger, Gold, Jester
+Titandrake - shuffles deck
+Titandrake - draws Colony
+ 
+---------- Mooncake: turn 14 ----------
+Mooncake - plays Scavenger
+Mooncake - moves deck to discards
+Mooncake - places Gold on top of deck
+Mooncake - plays 1 Platinum, 1 Gold, 1 Silver, 1 Copper
+Mooncake - buys Colony
+Mooncake - gains Colony
+Mooncake - draws Gold
+Mooncake - shuffles deck
+Mooncake - draws Copper, Platinum, Estate, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Jester
+Mooncake - reveals Copper
+Mooncake - discards Copper
+Mooncake - gains Copper
+Titandrake - plays Gold
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Laboratory, Laboratory, Silver, Platinum, Silver
+ 
+---------- Mooncake: turn 15 ----------
+Mooncake - plays 2 Copper, 1 Gold, 1 Platinum
+Mooncake - buys Platinum
+Mooncake - gains Platinum
+Mooncake - draws Estate, Copper, Colony, Silver, Gold
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Estate, Platinum
+Titandrake - plays Laboratory
+Titandrake - draws Colony, Copper
+Titandrake - plays 2 Silver, 2 Platinum, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - shuffles deck
+Titandrake - draws Gold, Colony, Colony, Laboratory, Silver
+ 
+---------- Mooncake: turn 16 ----------
+Mooncake - plays 1 Copper, 1 Silver, 1 Gold
+Mooncake - buys Laboratory
+Mooncake - gains Laboratory
+Mooncake - draws Province, Colony, Copper, Copper, Laboratory
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Estate, Scavenger
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Platinum on top of deck
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Laboratory
+Titandrake - gains Laboratory
+Titandrake - draws Platinum
+Titandrake - shuffles deck
+Titandrake - draws Platinum, Estate, Jester, Copper
+ 
+---------- Mooncake: turn 17 ----------
+Mooncake - plays Laboratory
+Mooncake - draws Laboratory, Copper
+Mooncake - plays Laboratory
+Mooncake - draws Gold, Scavenger
+Mooncake - plays Scavenger
+Mooncake - moves deck to discards
+Mooncake - places Platinum on top of deck
+Mooncake - plays 3 Copper, 1 Gold
+Mooncake - buys Province
+Mooncake - gains Province
+Mooncake - draws Platinum
+Mooncake - shuffles deck
+Mooncake - draws Laboratory, Gold, Laboratory, Colony
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Jester
+Mooncake - reveals Gold
+Mooncake - discards Gold
+Titandrake - gains Gold
+Titandrake - plays 2 Platinum, 1 Copper
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Silver, Gold, Laboratory, Scavenger, Laboratory
+ 
+---------- Mooncake: turn 18 ----------
+Mooncake - plays Laboratory
+Mooncake - draws Gold, Chapel
+Mooncake - plays Laboratory
+Mooncake - draws Copper, Copper
+Mooncake - plays Chapel
+Mooncake - trashes Copper, Copper
+Mooncake - plays 2 Gold, 1 Platinum
+Mooncake - buys Colony
+Mooncake - gains Colony
+Mooncake - draws Copper, Province, Platinum, Province, Laboratory
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Laboratory
+Titandrake - draws Colony, Laboratory
+Titandrake - plays Laboratory
+Titandrake - draws Laboratory, Silver
+Titandrake - plays Laboratory
+Titandrake - draws Chapel, Colony
+Titandrake - plays Laboratory
+Titandrake - draws Colony
+Titandrake - shuffles deck
+Titandrake - draws Platinum
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Platinum on top of deck
+Titandrake - plays 2 Silver, 1 Gold, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Platinum
+Titandrake - shuffles deck
+Titandrake - draws Scavenger, Colony, Gold, Colony
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Laboratory, 1 Scavenger, 1 Jester, 1 Chapel, 2 Platinum, 2 Gold, 2 Silver, 1 Copper, 5 Colony, 1 Estate
+Titandrake - total victory points: 51
+Titandrake - turns: 19
+ 
+Mooncake - cards: 4 Laboratory, 1 Chapel, 1 Scavenger, 7 Copper, 4 Gold, 2 Platinum, 1 Silver, 3 Colony, 2 Province, 2 Estate
+Mooncake - total victory points: 44
+Mooncake - turns: 18
+ 
+1st place: Titandrake
+2nd place: Mooncake
+ 

@@ -1,0 +1,693 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Courtyard, Crossroads, Hamlet, Sage, Horse Traders, Scout, Silk Road, Spy, Royal Seal, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Horse Traders
+SM.SM - gains Horse Traders
+SM.SM - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Sage
+SM.SM - gains Sage
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Sage, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays Sage
+SM.SM - reveals Estate, Copper, Copper, Copper, Horse Traders
+SM.SM - places Horse Traders in hand
+SM.SM - discards: Estate, Copper, Copper, Copper
+SM.SM - plays Horse Traders
+SM.SM - discards Estate
+SM.SM - discards Copper
+SM.SM - plays 2 Copper
+SM.SM - buys Courtyard
+SM.SM - gains Courtyard
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - draws Estate, Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Horse Traders
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Horse Traders, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Silver
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Horse Traders
+SM.SM - discards Copper
+SM.SM - discards Estate
+SM.SM - plays 2 Copper
+SM.SM - buys Courtyard
+SM.SM - gains Courtyard
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - draws Estate, Estate, Copper, Copper, Courtyard
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Gold, Copper, Copper, Crossroads, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Courtyard
+SM.SM - draws Crossroads, Copper, Sage
+SM.SM - places Sage on top of deck
+SM.SM - plays 3 Copper
+SM.SM - buys Hamlet
+SM.SM - gains Hamlet
+SM.SM - draws Sage, Copper
+SM.SM - shuffles deck
+SM.SM - draws Estate, Courtyard, Hamlet
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Copper, Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Hamlet
+SM.SM - draws Estate
+SM.SM - discards Copper
+SM.SM - receives one action
+SM.SM - plays Courtyard
+SM.SM - draws Copper, Crossroads, Crossroads
+SM.SM - places Copper on top of deck
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Sage, Estate, Estate, Crossroads
+SM.SM - draws Copper, Copper
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Copper, Sage, Estate, Estate
+SM.SM - draws Copper, Courtyard
+SM.SM - plays Courtyard
+SM.SM - draws Horse Traders, Estate, Copper
+SM.SM - places Estate on top of deck
+SM.SM - plays Sage
+SM.SM - shuffles deck
+SM.SM - reveals Estate, Copper, Copper, Copper
+SM.SM - discards: Estate, Copper, Copper, Copper
+SM.SM - plays Horse Traders
+SM.SM - discards Estate
+SM.SM - discards Estate
+SM.SM - plays 4 Copper
+SM.SM - buys Horse Traders
+SM.SM - gains Horse Traders
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - shuffles deck
+SM.SM - draws Copper, Crossroads, Courtyard, Courtyard, Sage
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Silver
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Copper, Copper, Hamlet, Crossroads, Gold
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Sage
+SM.SM - reveals Hamlet, Copper, Copper, Copper, Crossroads, Estate, Horse Traders
+SM.SM - places Horse Traders in hand
+SM.SM - discards: Hamlet, Copper, Copper, Copper, Crossroads, Estate
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Courtyard, Courtyard, Horse Traders
+SM.SM - plays Courtyard
+SM.SM - draws Estate, Copper, Crossroads
+SM.SM - places Copper on top of deck
+SM.SM - plays Courtyard
+SM.SM - draws Copper, Copper, Copper
+SM.SM - places Crossroads on top of deck
+SM.SM - plays Horse Traders
+SM.SM - discards Estate
+SM.SM - discards Copper
+SM.SM - plays 3 Copper
+SM.SM - buys Potion
+SM.SM - gains Potion
+SM.SM - buys Hamlet
+SM.SM - gains Hamlet
+SM.SM - draws Crossroads, Estate, Horse Traders
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Horse Traders
+Titandrake - discards Crossroads
+Titandrake - receives one buy
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays Gold
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Estate, Horse Traders, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Estate, Horse Traders, Estate, Copper
+SM.SM - draws Hamlet, Hamlet
+SM.SM - plays Hamlet
+SM.SM - draws Copper
+SM.SM - plays Hamlet
+SM.SM - draws Estate
+SM.SM - discards Estate
+SM.SM - receives one buy
+SM.SM - plays Horse Traders
+SM.SM - discards Estate
+SM.SM - discards Estate
+SM.SM - plays 2 Copper
+SM.SM - buys Courtyard
+SM.SM - gains Courtyard
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - draws Copper, Horse Traders, Copper, Courtyard, Crossroads
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - buys Courtyard
+Titandrake - gains Courtyard
+Titandrake - draws Horse Traders
+Titandrake - shuffles deck
+Titandrake - draws Courtyard, Estate, Courtyard, Estate
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Horse Traders, Copper, Courtyard
+SM.SM - plays Courtyard
+SM.SM - draws Copper, Courtyard, Potion
+SM.SM - places Copper on top of deck
+SM.SM - plays Courtyard
+SM.SM - draws Copper, Crossroads, Copper
+SM.SM - places Crossroads on top of deck
+SM.SM - plays Horse Traders
+SM.SM - discards Copper
+SM.SM - discards Copper
+SM.SM - plays 2 Copper, 1 Potion
+SM.SM - buys Vineyard
+SM.SM - gains Vineyard
+SM.SM - buys Scout
+SM.SM - gains Scout
+SM.SM - draws Crossroads, Copper, Sage
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Crossroads, Copper, Hamlet, Horse Traders, Horse Traders
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Sage
+SM.SM - reveals Horse Traders
+SM.SM - places Horse Traders in hand
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Estate, Copper, Horse Traders
+SM.SM - draws Scout
+SM.SM - plays Scout
+SM.SM - reveals: Potion, Crossroads, Copper, Copper
+SM.SM - places Potion on top of deck
+SM.SM - places Crossroads on top of deck
+SM.SM - places Copper on top of deck
+SM.SM - places Copper on top of deck
+SM.SM - plays Horse Traders
+SM.SM - discards Estate
+SM.SM - discards Copper
+SM.SM - plays 1 Copper
+SM.SM - buys Hamlet
+SM.SM - gains Hamlet
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - draws Copper, Copper, Crossroads, Potion, Courtyard
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Crossroads
+Titandrake - discards Crossroads
+Titandrake - receives one action
+Titandrake - plays Horse Traders
+Titandrake - discards Crossroads
+Titandrake - discards Copper
+Titandrake - plays Horse Traders
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Copper, Potion, Courtyard
+SM.SM - plays Courtyard
+SM.SM - draws Hamlet, Courtyard, Crossroads
+SM.SM - places Copper on top of deck
+SM.SM - plays Courtyard
+SM.SM - draws Copper, Estate, Copper
+SM.SM - places Copper on top of deck
+SM.SM - plays Hamlet
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - receives one action
+SM.SM - discards Copper
+SM.SM - receives one buy
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Potion, Estate
+SM.SM - draws Horse Traders
+SM.SM - plays Horse Traders
+SM.SM - discards Copper
+SM.SM - discards Estate
+SM.SM - plays 1 Potion
+SM.SM - buys Vineyard
+SM.SM - gains Vineyard
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - draws Estate, Vineyard, Copper, Crossroads, Courtyard
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Copper, Copper, Copper, Gold, Hamlet
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Estate, Vineyard, Copper, Courtyard
+SM.SM - draws Hamlet, Copper
+SM.SM - plays Courtyard
+SM.SM - shuffles deck
+SM.SM - draws Crossroads, Crossroads, Crossroads
+SM.SM - places Copper on top of deck
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Hamlet, Copper, Estate, Vineyard, Crossroads, Crossroads
+SM.SM - draws Copper, Copper
+SM.SM - plays Hamlet
+SM.SM - draws Hamlet
+SM.SM - discards Copper
+SM.SM - receives one action
+SM.SM - discards Copper
+SM.SM - receives one buy
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Copper, Estate, Vineyard, Crossroads, Hamlet
+SM.SM - draws Horse Traders, Horse Traders
+SM.SM - plays Hamlet
+SM.SM - draws Estate
+SM.SM - discards Copper
+SM.SM - receives one action
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Horse Traders, Horse Traders, Estate, Vineyard, Estate
+SM.SM - draws Copper, Copper, Scout
+SM.SM - plays Scout
+SM.SM - reveals: Sage, Copper, Crossroads, Potion
+SM.SM - places Sage on top of deck
+SM.SM - places Copper on top of deck
+SM.SM - places Crossroads on top of deck
+SM.SM - places Potion on top of deck
+SM.SM - plays Horse Traders
+SM.SM - discards Estate
+SM.SM - discards Estate
+SM.SM - plays 2 Copper
+SM.SM - buys Hamlet
+SM.SM - gains Hamlet
+SM.SM - buys Hamlet
+SM.SM - gains Hamlet
+SM.SM - draws Potion, Crossroads, Copper, Sage, Hamlet
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Courtyard
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Courtyard
+Titandrake - draws Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+Titandrake - places Copper on top of deck
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Gold, Estate
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Horse Traders, Courtyard, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Sage
+SM.SM - shuffles deck
+SM.SM - reveals Courtyard, Crossroads, Estate, Copper, Vineyard, Courtyard, Estate, Hamlet, Horse Traders
+SM.SM - places Horse Traders in hand
+SM.SM - discards: Courtyard, Crossroads, Estate, Copper, Vineyard, Courtyard, Estate, Hamlet
+SM.SM - plays Hamlet
+SM.SM - draws Copper
+SM.SM - plays Horse Traders
+SM.SM - discards Crossroads
+SM.SM - discards Copper
+SM.SM - plays 1 Potion, 1 Copper
+SM.SM - buys Vineyard
+SM.SM - gains Vineyard
+SM.SM - buys Scout
+SM.SM - gains Scout
+SM.SM - draws Hamlet, Estate, Copper, Crossroads, Crossroads
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Courtyard
+Titandrake - discards Copper
+Titandrake - plays Copper
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Hamlet, Estate, Estate, Copper, Potion
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Hamlet, Estate, Copper, Crossroads
+SM.SM - draws Crossroads
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Crossroads, Hamlet, Estate, Copper
+SM.SM - draws Crossroads
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Crossroads, Hamlet, Estate, Copper
+SM.SM - draws Hamlet
+SM.SM - plays Hamlet
+SM.SM - draws Vineyard
+SM.SM - discards Copper
+SM.SM - receives one action
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Hamlet, Estate, Vineyard
+SM.SM - draws Copper, Courtyard
+SM.SM - plays Hamlet
+SM.SM - draws Copper
+SM.SM - discards Copper
+SM.SM - receives one action
+SM.SM - plays Courtyard
+SM.SM - draws Scout, Hamlet, Copper
+SM.SM - places Estate on top of deck
+SM.SM - plays Scout
+SM.SM - reveals: Estate, Horse Traders
+SM.SM - shuffles deck
+SM.SM - reveals: Sage, Estate
+SM.SM - places cards in hand:  Estate, Estate
+SM.SM - places Sage on top of deck
+SM.SM - places Horse Traders on top of deck
+SM.SM - plays Hamlet
+SM.SM - draws Horse Traders
+SM.SM - discards Estate
+SM.SM - receives one action
+SM.SM - plays Horse Traders
+SM.SM - discards Estate
+SM.SM - discards Vineyard
+SM.SM - plays 2 Copper
+SM.SM - buys Crossroads
+SM.SM - gains Crossroads
+SM.SM - buys Hamlet
+SM.SM - gains Hamlet
+SM.SM - draws Sage, Courtyard, Scout, Courtyard, Crossroads
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Horse Traders
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 1 Copper, 1 Potion
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Courtyard, Silver, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Scout
+SM.SM - reveals: Vineyard, Vineyard, Hamlet, Copper
+SM.SM - places cards in hand:  Vineyard, Vineyard
+SM.SM - places Copper on top of deck
+SM.SM - places Hamlet on top of deck
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Sage, Courtyard, Courtyard, Vineyard, Vineyard
+SM.SM - draws Hamlet, Copper
+SM.SM - plays Sage
+SM.SM - reveals Copper, Horse Traders
+SM.SM - places Horse Traders in hand
+SM.SM - discards Copper
+SM.SM - plays Courtyard
+SM.SM - draws Potion, Hamlet, Copper
+SM.SM - places Copper on top of deck
+SM.SM - plays Courtyard
+SM.SM - draws Copper, Copper, Estate
+SM.SM - places Copper on top of deck
+SM.SM - plays Hamlet
+SM.SM - draws Copper
+SM.SM - plays Hamlet
+SM.SM - draws Copper
+SM.SM - discards Estate
+SM.SM - receives one buy
+SM.SM - plays Horse Traders
+SM.SM - discards Vineyard
+SM.SM - discards Vineyard
+SM.SM - plays 4 Copper, 1 Potion
+SM.SM - buys Vineyard
+SM.SM - gains Vineyard
+SM.SM - buys Scout
+SM.SM - gains Scout
+SM.SM - buys Hamlet
+SM.SM - gains Hamlet
+SM.SM - draws Crossroads
+SM.SM - shuffles deck
+SM.SM - draws Courtyard, Crossroads, Scout, Vineyard
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Courtyard
+Titandrake - draws Estate, Crossroads, Crossroads
+Titandrake - places Crossroads on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Crossroads, Horse Traders, Silk Road
+Titandrake - shuffles deck
+Titandrake - draws Courtyard, Estate
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Scout
+SM.SM - reveals: Hamlet, Copper, Horse Traders, Vineyard
+SM.SM - places cards in hand:  Vineyard
+SM.SM - places Horse Traders on top of deck
+SM.SM - places Copper on top of deck
+SM.SM - places Hamlet on top of deck
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Crossroads, Courtyard, Vineyard, Vineyard
+SM.SM - draws Hamlet, Copper
+SM.SM - plays Courtyard
+SM.SM - draws Horse Traders, Hamlet, Copper
+SM.SM - places Copper on top of deck
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Hamlet, Copper, Vineyard, Vineyard, Horse Traders, Hamlet
+SM.SM - draws Copper, Hamlet
+SM.SM - plays Hamlet
+SM.SM - draws Scout
+SM.SM - plays Scout
+SM.SM - reveals: Potion, Copper, Hamlet, Courtyard
+SM.SM - places Potion on top of deck
+SM.SM - places Copper on top of deck
+SM.SM - places Hamlet on top of deck
+SM.SM - places Courtyard on top of deck
+SM.SM - plays Hamlet
+SM.SM - draws Courtyard
+SM.SM - discards Copper
+SM.SM - receives one action
+SM.SM - plays Courtyard
+SM.SM - draws Hamlet, Copper, Potion
+SM.SM - places Copper on top of deck
+SM.SM - plays Hamlet
+SM.SM - draws Copper
+SM.SM - plays Hamlet
+SM.SM - draws Sage
+SM.SM - discards Vineyard
+SM.SM - receives one action
+SM.SM - plays Sage
+SM.SM - reveals Crossroads, Hamlet, Copper, Courtyard, Estate, Copper, Hamlet, Copper, Hamlet, Crossroads, Crossroads, Vineyard, Scout
+SM.SM - places Scout in hand
+SM.SM - discards: Crossroads, Hamlet, Copper, Courtyard, Estate, Copper, Hamlet, Copper, Hamlet, Crossroads, Crossroads, Vineyard
+SM.SM - plays Horse Traders
+SM.SM - discards Vineyard
+SM.SM - discards Scout
+SM.SM - plays 2 Copper, 1 Potion
+SM.SM - buys Vineyard
+SM.SM - gains Vineyard
+SM.SM - buys Hamlet
+SM.SM - gains Hamlet
+SM.SM - draws Estate, Horse Traders, Vineyard, Crossroads, Crossroads
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Horse Traders, Silk Road, Courtyard, Estate
+Titandrake - draws Vineyard, Gold
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Copper, Horse Traders
+Titandrake - places Copper on top of deck
+Titandrake - plays Horse Traders
+Titandrake - discards Silk Road
+Titandrake - discards Estate
+Titandrake - plays Horse Traders
+Titandrake - discards Vineyard
+Titandrake - discards Copper
+Titandrake - plays Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Copper, Crossroads, Crossroads, Horse Traders, Silk Road
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Estate, Horse Traders, Vineyard, Crossroads
+SM.SM - draws Estate, Copper
+SM.SM - plays Crossroads
+SM.SM - reveals hand: Estate, Copper, Estate, Horse Traders, Vineyard
+SM.SM - shuffles deck
+SM.SM - draws Copper, Vineyard, Courtyard
+SM.SM - plays Courtyard
+SM.SM - draws Crossroads, Vineyard, Crossroads
+SM.SM - places Crossroads on top of deck
+SM.SM - plays Horse Traders
+SM.SM - discards Vineyard
+SM.SM - discards Vineyard
+SM.SM - plays 2 Copper
+SM.SM - buys Sage
+SM.SM - gains Sage
+SM.SM - buys Courtyard
+SM.SM - gains Courtyard
+SM.SM - draws Crossroads, Hamlet, Copper, Scout, Crossroads
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Crossroads, Horse Traders, Silk Road
+Titandrake - draws Courtyard
+Titandrake - plays Courtyard
+Titandrake - draws Copper, Hamlet, Silk Road
+Titandrake - places Copper on top of deck
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Horse Traders, Silk Road, Hamlet, Silk Road
+Titandrake - draws Copper, Estate
+Titandrake - plays Hamlet
+Titandrake - draws Potion
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Horse Traders
+Titandrake - discards Silk Road
+Titandrake - discards Silk Road
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Vineyard
+Titandrake - gains Vineyard
+Titandrake - draws Silk Road, Estate, Copper, Silver, Copper
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Scout
+SM.SM - reveals: Copper, Hamlet, Hamlet, Scout
+SM.SM - places Copper on top of deck
+SM.SM - places Scout on top of deck
+SM.SM - places Hamlet on top of deck
+SM.SM - places Hamlet on top of deck
+SM.SM - plays Hamlet
+SM.SM - draws Hamlet
+SM.SM - plays Hamlet
+SM.SM - draws Hamlet
+SM.SM - plays Hamlet
+SM.SM - draws Scout
+SM.SM - discards Copper
+SM.SM - receives one buy
+SM.SM - plays Scout
+SM.SM - reveals: Copper, Crossroads, Potion, Crossroads
+SM.SM - places Crossroads on top of deck
+SM.SM - places Potion on top of deck
+SM.SM - places Copper on top of deck
+SM.SM - places Crossroads on top of deck
+SM.SM - draws Crossroads, Copper, Potion, Crossroads, Hamlet
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Estate, Copper, Courtyard, Copper, Silk Road
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Hamlet
+SM.SM - draws Hamlet
+SM.SM - plays Hamlet
+SM.SM - draws Copper
+SM.SM - discards Crossroads
+SM.SM - receives one buy
+SM.SM - plays 2 Copper, 1 Potion
+SM.SM - buys Vineyard
+SM.SM - gains Vineyard
+SM.SM - buys Courtyard
+SM.SM - gains Courtyard
+SM.SM - draws Courtyard, Scout, Estate, Copper, Vineyard
+ 
+------------ Game Over ------------
+SM.SM - cards: 8 Hamlet, 7 Crossroads, 5 Courtyard, 3 Scout, 2 Sage, 2 Horse Traders, 7 Copper, 1 Potion, 6 Vineyard, 3 Estate
+SM.SM - total victory points: 57
+SM.SM - turns: 19
+ 
+Titandrake - cards: 3 Courtyard, 3 Crossroads, 3 Horse Traders, 2 Hamlet, 8 Copper, 1 Gold, 1 Potion, 1 Silver, 7 Silk Road, 5 Estate, 2 Vineyard, 2 Duchy
+Titandrake - total victory points: 45
+Titandrake - turns: 19
+ 
+1st place: SM.SM
+2nd place: Titandrake
+ 

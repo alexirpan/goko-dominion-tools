@@ -1,0 +1,511 @@
+------------ Game Setup ------------
+Supply cards: Oracle, Cutpurse, Procession, Sea Hag, Bandit Camp, Embassy, Harvest, Merchant Ship, Mine, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+sista_s - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+sista_s - shuffles deck
+Titandrake - shuffles deck
+sista_s - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- sista_s: turn 1 ----------
+sista_s - plays 4 Copper
+sista_s - buys Sea Hag
+sista_s - gains Sea Hag
+sista_s - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Estate, Sea Hag
+ 
+---------- sista_s: turn 2 ----------
+sista_s - plays 3 Copper
+sista_s - buys Silver
+sista_s - gains Silver
+sista_s - shuffles deck
+sista_s - draws Copper, Sea Hag, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Sea Hag
+sista_s - discards Estate
+sista_s - gains Curse
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- sista_s: turn 3 ----------
+sista_s - plays Sea Hag
+Titandrake - discards Estate
+Titandrake - gains Curse
+sista_s - plays 4 Copper
+sista_s - buys Procession
+sista_s - gains Procession
+sista_s - draws Curse, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Curse, Oracle
+Titandrake - shuffles deck
+Titandrake - draws Copper, Bandit Camp, Copper
+ 
+---------- sista_s: turn 4 ----------
+sista_s - draws Silver, Copper
+sista_s - shuffles deck
+sista_s - draws Copper, Curse, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Copper
+Titandrake - discards: Copper, Copper
+sista_s - reveals: Copper, Copper
+sista_s - discards: Copper, Copper
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Procession
+Titandrake - gains Procession
+Titandrake - draws Sea Hag, Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- sista_s: turn 5 ----------
+sista_s - plays 2 Copper, 1 Silver
+sista_s - buys Cutpurse
+sista_s - gains Cutpurse
+sista_s - draws Copper, Estate, Sea Hag, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sea Hag
+sista_s - discards Procession
+sista_s - gains Curse
+Titandrake - draws Copper, Copper, Procession, Bandit Camp, Copper
+ 
+---------- sista_s: turn 6 ----------
+sista_s - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+sista_s - draws Curse, Copper
+sista_s - shuffles deck
+sista_s - draws Copper, Estate, Cutpurse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Curse
+Titandrake - gains Spoils
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Curse, Oracle, Spoils, Estate
+ 
+---------- sista_s: turn 7 ----------
+sista_s - plays Cutpurse
+Titandrake - discards Copper
+sista_s - plays 2 Copper
+sista_s - buys Silver
+sista_s - gains Silver
+sista_s - draws Copper, Curse, Procession, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Oracle
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Estate
+Titandrake - discards: Copper, Estate
+sista_s - reveals: Sea Hag, Copper
+sista_s - discards: Sea Hag, Copper
+Titandrake - draws Curse, Spoils
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Procession, Copper, Copper, Copper
+ 
+---------- sista_s: turn 8 ----------
+sista_s - plays 2 Copper, 1 Silver
+sista_s - buys Silver
+sista_s - gains Silver
+sista_s - draws Estate, Copper, Estate, Copper
+sista_s - shuffles deck
+sista_s - draws Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Sea Hag, Copper, Bandit Camp, Copper, Silver
+ 
+---------- sista_s: turn 9 ----------
+sista_s - plays 3 Copper
+sista_s - buys Oracle
+sista_s - gains Oracle
+sista_s - draws Estate, Copper, Curse, Silver, Curse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays Sea Hag
+sista_s - discards Copper
+sista_s - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Sea Hag, Curse, Copper, Curse, Silver
+ 
+---------- sista_s: turn 10 ----------
+sista_s - plays 1 Copper, 1 Silver
+sista_s - buys Oracle
+sista_s - gains Oracle
+sista_s - draws Curse, Copper, Copper, Sea Hag, Procession
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Sea Hag
+sista_s - discards Silver
+sista_s - gains Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Gold, Copper
+ 
+---------- sista_s: turn 11 ----------
+sista_s - plays Procession
+sista_s - plays Sea Hag
+Titandrake - discards Procession
+Titandrake - gains Curse
+sista_s - plays Sea Hag
+Titandrake - discards Curse
+Titandrake - gains Curse
+sista_s - trashes Sea Hag
+sista_s - gains Merchant Ship
+sista_s - draws Curse, Cutpurse, Silver
+sista_s - shuffles deck
+sista_s - draws Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Curse, Oracle, Spoils, Estate, Bandit Camp
+ 
+---------- sista_s: turn 12 ----------
+sista_s - plays Cutpurse
+Titandrake - reveals Curse, Oracle, Spoils, Estate, Bandit Camp
+sista_s - plays 2 Copper, 1 Silver
+sista_s - buys Gold
+sista_s - gains Gold
+sista_s - draws Oracle, Copper, Estate, Merchant Ship, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Oracle
+Titandrake - reveals: Silver, Copper
+Titandrake - discards: Silver, Copper
+sista_s - reveals: Procession, Curse
+sista_s - places Curse on top of deck
+sista_s - places Procession on top of deck
+Titandrake - draws Estate, Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+sista_s - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Gold, Copper, Silver
+ 
+---------- sista_s: turn 13 ----------
+sista_s - plays Merchant Ship
+sista_s - plays 1 Copper, 1 Silver
+sista_s - buys Bandit Camp
+sista_s - gains Bandit Camp
+sista_s - draws Procession, Curse, Silver, Copper, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Curse, Copper, Curse
+ 
+---------- sista_s: turn 14 ----------
+sista_s - duration Merchant Ship
+sista_s - plays 1 Silver, 1 Copper
+sista_s - buys Embassy
+sista_s - gains Embassy
+Titandrake - gains Silver
+sista_s - draws Estate, Oracle, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Estate, Silver, Embassy, Oracle
+ 
+---------- sista_s: turn 15 ----------
+sista_s - plays Oracle
+sista_s - reveals: Curse, Estate
+sista_s - discards: Curse, Estate
+Titandrake - reveals: Bandit Camp, Gold
+Titandrake - discards: Bandit Camp, Gold
+sista_s - shuffles deck
+sista_s - draws Silver, Oracle
+sista_s - plays 3 Copper, 1 Silver
+sista_s - buys Bandit Camp
+sista_s - gains Bandit Camp
+sista_s - draws Copper, Copper, Curse, Estate, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Embassy
+Titandrake - draws Estate, Curse, Procession, Sea Hag, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Silver, Spoils, Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp
+ 
+---------- sista_s: turn 16 ----------
+sista_s - plays 2 Copper, 1 Silver
+sista_s - buys Silver
+sista_s - gains Silver
+sista_s - draws Copper, Estate, Curse, Merchant Ship, Curse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Bandit Camp
+Titandrake - gains Spoils
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Curse, Gold, Curse
+ 
+---------- sista_s: turn 17 ----------
+sista_s - plays Merchant Ship
+sista_s - plays 1 Copper
+sista_s - buys Oracle
+sista_s - gains Oracle
+sista_s - draws Silver, Cutpurse, Embassy, Procession, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Embassy, Oracle, Copper, Estate, Copper
+ 
+---------- sista_s: turn 18 ----------
+sista_s - duration Merchant Ship
+sista_s - plays Procession
+sista_s - plays Cutpurse
+Titandrake - discards Copper
+sista_s - plays Cutpurse
+Titandrake - discards Copper
+sista_s - trashes Cutpurse
+sista_s - gains Bandit Camp
+sista_s - plays 2 Silver
+sista_s - buys Province
+sista_s - gains Province
+sista_s - draws Gold, Copper, Bandit Camp, Curse
+sista_s - shuffles deck
+sista_s - draws Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Embassy
+Titandrake - draws Sea Hag, Copper, Procession, Curse, Silver
+Titandrake - discards Oracle
+Titandrake - discards Estate
+Titandrake - discards Sea Hag
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, Gold, Silver, Silver, Estate
+ 
+---------- sista_s: turn 19 ----------
+sista_s - plays Bandit Camp
+sista_s - draws Oracle
+sista_s - gains Spoils
+sista_s - plays Oracle
+sista_s - reveals: Curse, Bandit Camp
+sista_s - places Bandit Camp on top of deck
+sista_s - places Curse on top of deck
+Titandrake - reveals: Estate, Silver
+Titandrake - discards: Estate, Silver
+sista_s - draws Curse, Bandit Camp
+sista_s - plays Bandit Camp
+sista_s - draws Copper
+sista_s - gains Spoils
+sista_s - plays 2 Copper, 1 Gold
+sista_s - buys Venture
+sista_s - gains Venture
+sista_s - draws Curse, Estate, Estate, Estate, Procession
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Gold, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver, Bandit Camp
+ 
+---------- sista_s: turn 20 ----------
+sista_s - draws Silver, Curse, Silver, Bandit Camp, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Province
+Titandrake - gains Spoils
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Curse, Spoils, Gold, Curse
+ 
+---------- sista_s: turn 21 ----------
+sista_s - plays Bandit Camp
+sista_s - draws Oracle
+sista_s - gains Spoils
+sista_s - plays Oracle
+sista_s - reveals: Silver, Copper
+sista_s - places Copper on top of deck
+sista_s - places Silver on top of deck
+Titandrake - reveals: Estate, Gold
+Titandrake - discards: Estate, Gold
+sista_s - draws Silver, Copper
+sista_s - plays 3 Silver, 2 Copper
+sista_s - buys Province
+sista_s - gains Province
+sista_s - draws Copper, Silver, Merchant Ship, Embassy, Copper
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Gold, Silver, Copper, Procession, Sea Hag
+ 
+---------- sista_s: turn 22 ----------
+sista_s - plays Merchant Ship
+sista_s - plays 2 Copper, 1 Silver
+sista_s - buys Gold
+sista_s - gains Gold
+sista_s - draws Silver, Oracle, Copper
+sista_s - shuffles deck
+sista_s - draws Copper, Estate
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Procession
+Titandrake - plays Sea Hag
+sista_s - discards Spoils
+sista_s - gains Curse
+Titandrake - plays Sea Hag
+sista_s - discards Curse
+sista_s - gains Curse
+Titandrake - trashes Sea Hag
+Titandrake - gains Merchant Ship
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Oracle, Estate, Spoils, Silver, Gold
+ 
+---------- sista_s: turn 23 ----------
+sista_s - duration Merchant Ship
+sista_s - plays Oracle
+sista_s - reveals: Curse, Spoils
+sista_s - discards: Curse, Spoils
+Titandrake - reveals: Silver, Silver
+Titandrake - discards: Silver, Silver
+sista_s - draws Silver, Bandit Camp
+sista_s - plays 2 Silver, 2 Copper
+sista_s - buys Province
+sista_s - gains Province
+sista_s - draws Estate, Copper, Curse, Curse, Copper
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Curse, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Curse on top of deck
+sista_s - reveals: Venture, Bandit Camp
+sista_s - discards: Venture, Bandit Camp
+Titandrake - draws Curse, Copper
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Gold, Copper, Embassy, Bandit Camp
+ 
+---------- sista_s: turn 24 ----------
+sista_s - plays 2 Copper
+sista_s - buys Estate
+sista_s - gains Estate
+sista_s - draws Province, Silver, Oracle, Gold, Copper
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays Embassy
+Titandrake - draws Silver, Curse
+Titandrake - shuffles deck
+Titandrake - draws Curse, Province, Spoils
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Bandit Camp, Spoils, Gold, Copper, Curse
+ 
+---------- sista_s: turn 25 ----------
+sista_s - plays Oracle
+sista_s - reveals: Silver, Silver
+sista_s - places Silver on top of deck
+sista_s - places Silver on top of deck
+Titandrake - reveals: Copper, Curse
+Titandrake - discards: Copper, Curse
+sista_s - draws Silver, Silver
+sista_s - plays 3 Silver, 1 Gold, 1 Copper
+sista_s - buys Province
+sista_s - gains Province
+sista_s - draws Spoils, Province, Copper, Embassy, Bandit Camp
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Gold
+Titandrake - gains Spoils
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Merchant Ship, Copper, Estate, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Bandit Camp, 1 Procession, 1 Oracle, 1 Merchant Ship, 1 Embassy, 7 Silver, 7 Gold, 7 Copper, 1 Spoils, 4 Province, 3 Estate, 1 Duchy, 4 Curse
+Titandrake - total victory points: 26
+Titandrake - turns: 26
+ 
+sista_s - cards: 3 Oracle, 3 Bandit Camp, 1 Merchant Ship, 1 Embassy, 1 Procession, 7 Copper, 5 Silver, 3 Spoils, 2 Gold, 1 Venture, 4 Province, 4 Estate, 6 Curse
+sista_s - total victory points: 22
+sista_s - turns: 25
+ 
+1st place: Titandrake
+2nd place: sista_s
+ 

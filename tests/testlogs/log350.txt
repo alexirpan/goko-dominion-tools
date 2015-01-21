@@ -1,0 +1,443 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Embargo, Lighthouse, Develop, Workshop, Feodum, Scout, Merchant Ship, Tribute, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Develop
+Titandrake - gains Develop
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Develop
+SM.SM - gains Develop
+SM.SM - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Develop, Copper, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - shuffles deck
+SM.SM - draws Estate, Silver, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Develop
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Feodum
+SM.SM - gains Feodum
+SM.SM - draws Copper, Develop, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Merchant Ship
+Titandrake - gains Merchant Ship
+Titandrake - draws Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Develop
+SM.SM - trashes Copper
+SM.SM - plays 3 Copper
+SM.SM - buys Develop
+SM.SM - gains Develop
+SM.SM - draws Copper, Estate
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Silver, Develop, Copper, Silver, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Develop
+SM.SM - gains Develop
+SM.SM - draws Copper, Copper, Feodum, Develop, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Develop
+Titandrake - trashes Silver
+Titandrake - gains Feodum
+Titandrake - gains Lighthouse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Develop
+Titandrake - gains Develop
+Titandrake - draws Lighthouse, Feodum, Estate, Merchant Ship, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Develop
+SM.SM - trashes Feodum
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Merchant Ship
+SM.SM - gains Silver
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Feodum
+SM.SM - gains Feodum
+SM.SM - draws Silver, Merchant Ship, Develop, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Merchant Ship
+Titandrake - plays Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Develop, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Develop
+SM.SM - trashes Merchant Ship
+SM.SM - gains Feodum
+SM.SM - gains Gold
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Gold, Feodum
+SM.SM - shuffles deck
+SM.SM - draws Develop, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Merchant Ship
+Titandrake - plays Develop
+Titandrake - trashes Silver
+Titandrake - gains Feodum
+Titandrake - gains Candlestick Maker
+Titandrake - plays 3 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Candlestick Maker, Feodum, Copper, Estate, Silver
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Develop
+SM.SM - trashes Feodum
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Merchant Ship
+SM.SM - gains Silver
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Merchant Ship
+SM.SM - gains Merchant Ship
+SM.SM - draws Silver, Merchant Ship, Develop, Feodum, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Feodum, Feodum, Develop, Feodum
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Merchant Ship
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - buys Merchant Ship
+SM.SM - gains Merchant Ship
+SM.SM - draws Copper, Silver, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Develop
+Titandrake - trashes Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Merchant Ship
+Titandrake - draws Merchant Ship, Silver, Copper, Copper, Copper
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - duration Merchant Ship
+SM.SM - plays 2 Copper, 2 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Estate, Silver, Silver, Estate, Develop
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Merchant Ship
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Feodum, Silver, Silver, Silver, Copper
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Develop
+SM.SM - trashes Estate
+SM.SM - gains Silver
+SM.SM - plays 2 Silver
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Silver, Silver, Copper, Silver
+SM.SM - shuffles deck
+SM.SM - draws Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Merchant Ship
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Feodum, Feodum, Estate, Candlestick Maker
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays 4 Silver, 1 Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Silver, Develop, Estate, Merchant Ship, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - draws Merchant Ship, Copper, Develop, Estate, Silver
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Merchant Ship
+SM.SM - plays 2 Silver
+SM.SM - buys Harem
+SM.SM - gains Harem
+SM.SM - draws Copper, Silver, Copper, Silver, Develop
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Develop
+Titandrake - trashes Merchant Ship
+Titandrake - gains Harem
+Titandrake - gains Scout
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Scout, Harem, Develop, Copper, Copper
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - duration Merchant Ship
+SM.SM - plays 2 Copper, 2 Silver
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Silver, Feodum, Copper, Silver, Develop
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Scout
+Titandrake - reveals: Silver, Feodum, Silver, Copper
+Titandrake - places cards in hand:  Feodum
+Titandrake - places Copper on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - places Silver on top of deck
+Titandrake - plays Develop
+Titandrake - trashes Copper
+Titandrake - plays 1 Harem, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Copper, Copper, Province
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Develop
+SM.SM - trashes Feodum
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Silver
+SM.SM - gains Merchant Ship
+SM.SM - gains Silver
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Silver, Merchant Ship, Merchant Ship, Copper, Merchant Ship
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Silver, Scout
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Merchant Ship
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Silver, Copper, Province, Estate, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Scout
+Titandrake - reveals: Feodum, Harem, Feodum, Develop
+Titandrake - places cards in hand:  Feodum, Harem, Feodum
+Titandrake - places Develop on top of deck
+Titandrake - plays Lighthouse
+Titandrake - plays 1 Harem, 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Develop, Silver, Silver, Develop, Silver
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - duration Merchant Ship
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - buys Harem
+SM.SM - gains Harem
+SM.SM - draws Gold
+SM.SM - shuffles deck
+SM.SM - draws Develop, Develop, Silver, Harem
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays 3 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Feodum, Silver, Harem, Silver, Merchant Ship
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Develop
+SM.SM - trashes Develop
+SM.SM - gains Scout
+SM.SM - gains Candlestick Maker
+SM.SM - plays 1 Harem, 1 Gold, 1 Silver
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Candlestick Maker, Scout, Duchy, Silver, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Merchant Ship
+Titandrake - plays 2 Silver, 1 Harem
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Candlestick Maker, Feodum, Copper, Estate
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Scout
+SM.SM - reveals: Silver, Develop, Merchant Ship, Silver
+SM.SM - places Develop on top of deck
+SM.SM - places Merchant Ship on top of deck
+SM.SM - places Silver on top of deck
+SM.SM - places Silver on top of deck
+SM.SM - plays Candlestick Maker
+SM.SM - receives 1 coin token
+SM.SM - plays 1 Silver
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Silver, Silver, Merchant Ship, Develop, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Merchant Ship
+Titandrake - plays Candlestick Maker
+Titandrake - receives 1 coin token
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Province, Province, Silver
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - plays Develop
+SM.SM - trashes Merchant Ship
+SM.SM - gains Harem
+SM.SM - gains Scout
+SM.SM - plays 3 Silver
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Scout, Harem, Province, Silver, Merchant Ship
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Develop, Silver, Copper
+ 
+---------- SM.SM: turn 21 ----------
+SM.SM - plays Scout
+SM.SM - reveals: Copper, Province, Silver, Copper
+SM.SM - places cards in hand:  Province
+SM.SM - places Silver on top of deck
+SM.SM - places Copper on top of deck
+SM.SM - places Copper on top of deck
+SM.SM - plays Merchant Ship
+SM.SM - plays 1 Harem, 1 Silver
+SM.SM - buys Harem
+SM.SM - gains Harem
+SM.SM - draws Copper, Copper, Silver, Silver, Silver
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Develop
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Estate, Province, Feodum, Develop
+ 
+---------- SM.SM: turn 22 ----------
+SM.SM - duration Merchant Ship
+SM.SM - plays 3 Silver, 2 Copper
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Silver, Duchy, Silver, Silver, Silver
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Develop
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Province, Silver, Duchy, Province
+ 
+---------- SM.SM: turn 23 ----------
+SM.SM - plays 4 Silver
+SM.SM - buys Harem
+SM.SM - gains Harem
+SM.SM - draws Silver, Silver, Province, Merchant Ship, Copper
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Feodum, Merchant Ship, Copper, Duchy
+ 
+---------- SM.SM: turn 24 ----------
+SM.SM - plays Merchant Ship
+SM.SM - plays 2 Silver, 1 Copper
+SM.SM - uses 1 coin token
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Harem, Estate, Copper, Merchant Ship, Copper
+ 
+------------ Game Over ------------
+SM.SM - cards: 3 Merchant Ship, 2 Develop, 2 Scout, 16 Silver, 1 Candlestick Maker, 6 Copper, 5 Harem, 1 Gold, 5 Duchy, 4 Province, 3 Estate
+SM.SM - total victory points: 52
+SM.SM - turns: 24
+ 
+Titandrake - cards: 2 Develop, 1 Merchant Ship, 10 Silver, 1 Lighthouse, 1 Candlestick Maker, 1 Scout, 5 Copper, 2 Harem, 4 Feodum, 4 Province, 3 Duchy, 3 Estate
+Titandrake - total victory points: 52
+Titandrake - turns: 24
+ 
+1st place: SM.SM
+1st place: Titandrake
+ 

@@ -1,0 +1,505 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Hermit, Bureaucrat, Golem, Baker, Catacombs, Counting House, Duke, Rabble, Treasury, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+-dg- - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+-dg- - shuffles deck
+Titandrake - shuffles deck
+-dg- - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- -dg-: turn 1 ----------
+-dg- - plays 3 Copper
+-dg- - buys Silver
+-dg- - gains Silver
+-dg- - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Catacombs
+Titandrake - gains Catacombs
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- -dg-: turn 2 ----------
+-dg- - plays 4 Copper
+-dg- - uses 1 coin token
+-dg- - buys Baker
+-dg- - gains Baker
+-dg- - shuffles deck
+-dg- - draws Estate, Baker, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- -dg-: turn 3 ----------
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Copper
+-dg- - plays 2 Copper, 1 Silver
+-dg- - uses 1 coin token
+-dg- - buys Baker
+-dg- - gains Baker
+-dg- - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Estate, Copper, Silver, Copper
+ 
+---------- -dg-: turn 4 ----------
+-dg- - plays 4 Copper
+-dg- - buys Potion
+-dg- - gains Potion
+-dg- - draws Copper
+-dg- - shuffles deck
+-dg- - draws Baker, Potion, Baker, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Catacombs, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- -dg-: turn 5 ----------
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Silver
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Copper
+-dg- - plays 2 Copper, 1 Potion, 1 Silver
+-dg- - buys Golem
+-dg- - gains Golem
+-dg- - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Silver, Copper, Estate
+Titandrake - discards: Silver, Copper, Estate
+Titandrake - draws Copper, Copper, Silver
+Titandrake - plays 6 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- -dg-: turn 6 ----------
+-dg- - plays 3 Copper
+-dg- - uses 2 coin tokens
+-dg- - buys Treasury
+-dg- - gains Treasury
+-dg- - draws Copper, Copper
+-dg- - shuffles deck
+-dg- - draws Silver, Estate, Treasury
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Catacombs, Gold
+ 
+---------- -dg-: turn 7 ----------
+-dg- - plays Treasury
+-dg- - draws Copper
+-dg- - plays 3 Copper, 1 Silver
+-dg- - buys Gold
+-dg- - gains Gold
+-dg- - places Treasury on top of deck
+-dg- - draws Treasury, Potion, Golem, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Silver, Copper, Copper
+Titandrake - places cards in hand:  Silver, Copper, Copper
+Titandrake - plays 4 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Catacombs, Province, Copper
+ 
+---------- -dg-: turn 8 ----------
+-dg- - plays Treasury
+-dg- - draws Copper
+-dg- - plays Golem
+-dg- - reveals Estate, Copper, Baker, Baker
+-dg- - discards: Estate, Copper
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Copper
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - shuffles deck
+-dg- - draws Silver
+-dg- - plays 3 Copper, 1 Potion, 1 Silver
+-dg- - uses 2 coin tokens
+-dg- - buys Province
+-dg- - gains Province
+-dg- - draws Gold, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Silver, Copper, Estate
+Titandrake - discards: Silver, Copper, Estate
+Titandrake - draws Gold, Silver, Silver
+Titandrake - plays 3 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- -dg-: turn 9 ----------
+-dg- - plays 3 Copper, 1 Gold
+-dg- - buys Duchy
+-dg- - gains Duchy
+-dg- - draws Estate, Copper
+-dg- - shuffles deck
+-dg- - draws Copper, Treasury, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Catacombs, Copper
+ 
+---------- -dg-: turn 10 ----------
+-dg- - plays Treasury
+-dg- - draws Golem
+-dg- - plays Golem
+-dg- - reveals Duchy, Copper, Estate, Province, Potion, Copper, Baker, Silver, Copper, Copper, Baker
+-dg- - discards: Duchy, Copper, Estate, Province, Potion, Copper, Silver, Copper, Copper
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Copper
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Estate
+-dg- - plays 3 Copper, 1 Gold
+-dg- - uses 1 coin token
+-dg- - buys Province
+-dg- - gains Province
+-dg- - shuffles deck
+-dg- - draws Estate, Baker, Copper, Copper, Baker
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Copper, Gold, Silver
+Titandrake - places cards in hand:  Copper, Gold, Silver
+Titandrake - plays 3 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Province, Copper, Estate
+ 
+---------- -dg-: turn 11 ----------
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Duchy
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Copper
+-dg- - plays 3 Copper
+-dg- - uses 2 coin tokens
+-dg- - buys Duchy
+-dg- - gains Duchy
+-dg- - draws Gold, Estate, Province, Silver, Treasury
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Province, Estate, Silver, Silver, Copper
+ 
+---------- -dg-: turn 12 ----------
+-dg- - plays Treasury
+-dg- - draws Golem
+-dg- - plays Golem
+-dg- - shuffles deck
+-dg- - reveals Copper, Copper, Estate, Province, Potion, Copper, Copper, Duchy, Copper, Estate, Duchy, Baker, Copper, Copper, Baker
+-dg- - discards: Copper, Copper, Estate, Province, Potion, Copper, Copper, Duchy, Copper, Estate, Duchy, Copper, Copper
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - shuffles deck
+-dg- - draws Copper
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Duchy
+-dg- - plays 1 Gold, 1 Silver, 1 Copper
+-dg- - uses 1 coin token
+-dg- - buys Province
+-dg- - gains Province
+-dg- - draws Province, Copper, Duchy, Estate, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Province, Silver
+ 
+---------- -dg-: turn 13 ----------
+-dg- - plays 2 Copper
+-dg- - buys Estate
+-dg- - gains Estate
+-dg- - draws Estate, Copper, Potion, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Copper, Silver, Duchy, Province
+ 
+---------- -dg-: turn 14 ----------
+-dg- - plays 3 Copper, 1 Potion
+-dg- - uses 1 coin token
+-dg- - buys Golem
+-dg- - gains Golem
+-dg- - draws Copper
+-dg- - shuffles deck
+-dg- - draws Estate, Province, Estate, Golem
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Copper, Silver, Copper, Silver
+ 
+---------- -dg-: turn 15 ----------
+-dg- - plays Golem
+-dg- - reveals Copper, Estate, Copper, Copper, Province, Potion, Copper, Treasury, Baker
+-dg- - discards: Copper, Estate, Copper, Copper, Province, Potion, Copper
+-dg- - plays Treasury
+-dg- - draws Province
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Golem
+-dg- - plays Golem
+-dg- - shuffles deck
+-dg- - reveals Copper, Estate, Duchy, Baker, Silver, Duchy, Gold, Copper, Copper, Copper, Copper, Potion, Estate, Copper, Province
+-dg- - discards: Copper, Estate, Duchy, Silver, Duchy, Gold, Copper, Copper, Copper, Copper, Potion, Estate, Copper, Province
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - shuffles deck
+-dg- - draws Potion
+-dg- - plays 1 Copper, 1 Potion
+-dg- - uses 3 coin tokens
+-dg- - buys Duchy
+-dg- - gains Duchy
+-dg- - draws Copper, Copper, Duchy, Silver, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Gold, Copper, Catacombs, Silver
+ 
+---------- -dg-: turn 16 ----------
+-dg- - plays 2 Copper, 1 Silver
+-dg- - buys Bureaucrat
+-dg- - gains Bureaucrat
+-dg- - draws Duchy, Gold, Province, Copper, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Estate, Copper
+Titandrake - shuffles deck
+Titandrake - looks at Copper
+Titandrake - places cards in hand:  Estate, Copper, Copper
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Duchy, Duchy, Copper, Copper
+ 
+---------- -dg-: turn 17 ----------
+-dg- - plays 1 Gold, 1 Copper
+-dg- - buys Estate
+-dg- - gains Estate
+-dg- - draws Copper, Copper, Copper
+-dg- - shuffles deck
+-dg- - draws Baker, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Province, Province, Duchy, Silver
+ 
+---------- -dg-: turn 18 ----------
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Treasury
+-dg- - plays Treasury
+-dg- - draws Copper
+-dg- - plays 4 Copper
+-dg- - buys Duke
+-dg- - gains Duke
+-dg- - draws Copper, Province, Golem, Duchy, Gold
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Silver, Estate, Estate, Copper
+ 
+---------- -dg-: turn 19 ----------
+-dg- - plays Golem
+-dg- - reveals Copper, Silver, Potion, Golem, Estate, Estate, Bureaucrat, Duchy, Copper, Estate, Estate, Province, Province, Duchy, Baker
+-dg- - discards: Copper, Silver, Potion, Golem, Estate, Estate, Duchy, Copper, Estate, Estate, Province, Province, Duchy
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - shuffles deck
+-dg- - draws Duchy
+-dg- - plays Bureaucrat
+-dg- - gains Silver
+Titandrake - reveals Estate
+Titandrake - places Estate on top of deck
+-dg- - plays 1 Copper, 1 Gold
+-dg- - uses 1 coin token
+-dg- - buys Duchy
+-dg- - gains Duchy
+-dg- - draws Silver, Copper, Copper, Estate, Baker
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Silver, Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate
+ 
+---------- -dg-: turn 20 ----------
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Estate
+-dg- - plays 2 Copper, 1 Silver
+-dg- - uses 1 coin token
+-dg- - buys Duke
+-dg- - gains Duke
+-dg- - draws Estate, Potion, Duke, Province, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 2 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Silver, Silver, Duchy, Copper
+ 
+---------- -dg-: turn 21 ----------
+-dg- - draws Treasury, Silver, Golem, Copper, Estate
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Duchy, Copper, Estate, Duchy, Gold
+ 
+---------- -dg-: turn 22 ----------
+-dg- - plays Treasury
+-dg- - draws Duchy
+-dg- - plays Golem
+-dg- - shuffles deck
+-dg- - reveals Province, Estate, Copper, Copper, Silver, Copper, Duchy, Potion, Province, Province, Baker, Duke, Duchy, Bureaucrat
+-dg- - discards: Province, Estate, Copper, Copper, Silver, Copper, Duchy, Potion, Province, Province, Duke, Duchy
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Copper
+-dg- - plays Bureaucrat
+-dg- - gains Silver
+Titandrake - reveals Estate
+Titandrake - places Estate on top of deck
+-dg- - plays 2 Copper, 1 Silver
+-dg- - buys Duke
+-dg- - gains Duke
+-dg- - draws Silver, Duchy, Copper, Estate, Golem
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Province, Estate, Estate, Estate
+ 
+---------- -dg-: turn 23 ----------
+-dg- - plays Golem
+-dg- - shuffles deck
+-dg- - reveals Estate, Gold, Copper, Baker, Duke, Estate, Silver, Copper, Duchy, Duchy, Duke, Duchy, Copper, Province, Estate, Province, Copper, Golem, Copper, Bureaucrat
+-dg- - discards: Estate, Gold, Copper, Duke, Estate, Silver, Copper, Duchy, Duchy, Duke, Duchy, Copper, Province, Estate, Province, Copper, Golem, Copper
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Duke
+-dg- - plays Bureaucrat
+-dg- - gains Silver
+Titandrake - reveals Estate
+Titandrake - places Estate on top of deck
+-dg- - plays 1 Silver, 1 Copper
+-dg- - uses 2 coin tokens
+-dg- - buys Duke
+-dg- - gains Duke
+-dg- - draws Silver, Estate, Baker, Potion, Silver
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - draws Estate, Province, Catacombs, Copper, Province
+ 
+---------- -dg-: turn 24 ----------
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Treasury
+-dg- - plays Treasury
+-dg- - draws Province
+-dg- - plays 2 Silver, 1 Potion
+-dg- - buys Duke
+-dg- - gains Duke
+-dg- - draws Copper
+-dg- - shuffles deck
+-dg- - draws Duke, Baker, Baker, Duchy
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Copper, Duchy, Silver
+Titandrake - discards: Copper, Duchy, Silver
+Titandrake - draws Copper, Silver, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper, Duke, Copper, Duchy
+ 
+---------- -dg-: turn 25 ----------
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Copper
+-dg- - plays Baker
+-dg- - receives 1 coin token
+-dg- - draws Silver
+-dg- - plays 2 Copper, 1 Silver
+-dg- - uses 1 coin token
+-dg- - buys Duke
+-dg- - gains Duke
+-dg- - draws Copper, Copper, Copper, Duke, Duchy
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Duchy, Duchy, Silver, Province, Duchy
+ 
+------------ Game Over ------------
+-dg- - cards: 2 Baker, 2 Golem, 1 Treasury, 1 Bureaucrat, 7 Copper, 4 Silver, 1 Gold, 1 Potion, 6 Duke, 5 Estate, 4 Duchy, 3 Province
+-dg- - total victory points: 59
+-dg- - turns: 25
+ 
+Titandrake - cards: 1 Catacombs, 7 Copper, 6 Silver, 1 Gold, 9 Estate, 4 Duchy, 4 Province, 2 Duke
+Titandrake - total victory points: 53
+Titandrake - turns: 25
+ 
+1st place: -dg-
+2nd place: Titandrake
+ 

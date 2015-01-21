@@ -1,0 +1,556 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Oasis, Sage, Talisman, Bandit Camp, Duke, Highway, Soothsayer, Altar, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Watno - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Watno - shuffles deck
+Titandrake - shuffles deck
+Watno - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Watno: turn 1 ----------
+Watno - plays 4 Copper
+Watno - buys Talisman
+Watno - gains Talisman
+Watno - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Watno: turn 2 ----------
+Watno - plays 3 Copper
+Watno - buys Silver
+Watno - gains Silver
+Watno - shuffles deck
+Watno - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Talisman
+Titandrake - gains Talisman
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Talisman, Estate, Estate
+ 
+---------- Watno: turn 3 ----------
+Watno - plays 3 Copper
+Watno - buys Oasis
+Watno - gains Oasis
+Watno - draws Silver, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Talisman
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- Watno: turn 4 ----------
+Watno - plays 3 Copper, 1 Silver
+Watno - buys Highway
+Watno - gains Highway
+Watno - draws Copper, Talisman
+Watno - shuffles deck
+Watno - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Soothsayer
+Titandrake - gains Soothsayer
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- Watno: turn 5 ----------
+Watno - plays 3 Copper
+Watno - plays Talisman
+Watno - buys Sage
+Watno - gains Sage
+Watno - gains Sage
+Watno - draws Estate, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Oasis
+Titandrake - gains Oasis
+Titandrake - draws Talisman, Soothsayer, Silver, Sage, Sage
+ 
+---------- Watno: turn 6 ----------
+Watno - plays 3 Copper, 1 Silver
+Watno - buys Highway
+Watno - gains Highway
+Watno - draws Copper, Estate, Oasis, Highway
+Watno - shuffles deck
+Watno - draws Talisman
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Estate, Copper, Estate, Copper, Oasis
+Titandrake - places Oasis in hand
+Titandrake - discards: Copper, Estate, Copper, Estate, Copper
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Copper, Copper, Copper, Copper, Estate, Estate, Copper, Copper, Copper
+Titandrake - discards: Estate, Copper, Copper, Copper, Copper, Estate, Estate, Copper, Copper, Copper
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Watno - gains Curse
+Watno - draws Sage
+Titandrake - plays Silver
+Titandrake - plays Talisman
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - gains Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Sage, Estate, Copper, Gold
+ 
+---------- Watno: turn 7 ----------
+Watno - plays Sage
+Watno - reveals Copper, Copper, Highway
+Watno - places Highway in hand
+Watno - discards: Copper, Copper
+Watno - plays Oasis
+Watno - draws Copper
+Watno - discards Estate
+Watno - plays Highway
+Watno - draws Silver
+Watno - plays Highway
+Watno - draws Estate
+Watno - plays 2 Copper, 1 Silver
+Watno - plays Talisman
+Watno - buys Highway
+Watno - gains Highway
+Watno - gains Highway
+Watno - draws Copper, Copper, Estate, Copper, Sage
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Talisman
+Titandrake - places Talisman in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - plays Talisman
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - draws Copper, Oasis, Copper, Silver, Copper
+ 
+---------- Watno: turn 8 ----------
+Watno - plays Sage
+Watno - shuffles deck
+Watno - reveals Estate, Highway
+Watno - places Highway in hand
+Watno - discards Estate
+Watno - plays Highway
+Watno - draws Curse
+Watno - plays 3 Copper
+Watno - buys Sage
+Watno - gains Sage
+Watno - draws Sage, Copper, Oasis, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Oasis
+Titandrake - draws Sage
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Estate, Estate, Soothsayer
+Titandrake - places Soothsayer in hand
+Titandrake - discards: Estate, Estate
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Watno - gains Curse
+Watno - draws Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Sage, Sage
+Titandrake - shuffles deck
+Titandrake - draws Gold, Sage, Estate
+ 
+---------- Watno: turn 9 ----------
+Watno - plays Oasis
+Watno - draws Copper
+Watno - discards Copper
+Watno - plays Sage
+Watno - reveals Highway
+Watno - places Highway in hand
+Watno - plays Highway
+Watno - draws Highway
+Watno - plays Highway
+Watno - draws Talisman
+Watno - plays 3 Copper, 1 Silver
+Watno - plays Talisman
+Watno - buys Gold
+Watno - gains Gold
+Watno - gains Gold
+Watno - draws Estate, Highway
+Watno - shuffles deck
+Watno - draws Copper, Estate, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Sage
+Titandrake - reveals Estate, Gold
+Titandrake - places Gold in hand
+Titandrake - discards Estate
+Titandrake - plays Sage
+Titandrake - reveals Oasis
+Titandrake - places Oasis in hand
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Copper, Copper, Estate, Soothsayer
+Titandrake - places Soothsayer in hand
+Titandrake - discards: Copper, Copper, Copper, Copper, Estate
+Titandrake - plays Oasis
+Titandrake - draws Sage
+Titandrake - discards Estate
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Watno - gains Curse
+Watno - draws Talisman
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Highway, Altar, Talisman
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- Watno: turn 10 ----------
+Watno - plays Highway
+Watno - draws Copper
+Watno - plays 2 Copper, 1 Gold
+Watno - plays Talisman
+Watno - buys Highway
+Watno - gains Highway
+Watno - gains Highway
+Watno - draws Oasis, Estate, Highway, Gold, Curse
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Altar
+Titandrake - trashes Estate
+Titandrake - gains Highway
+Titandrake - plays Talisman
+Titandrake - plays Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - gains Sage
+Titandrake - draws Estate, Copper, Copper, Sage, Copper
+ 
+---------- Watno: turn 11 ----------
+Watno - plays Highway
+Watno - draws Copper
+Watno - plays Oasis
+Watno - draws Sage
+Watno - discards Curse
+Watno - plays Sage
+Watno - reveals Copper, Copper, Copper, Highway
+Watno - places Highway in hand
+Watno - discards: Copper, Copper, Copper
+Watno - plays Highway
+Watno - draws Silver
+Watno - plays 1 Gold, 1 Copper, 1 Silver
+Watno - buys Province
+Watno - gains Province
+Watno - draws Highway, Copper, Sage, Curse, Sage
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Oasis, Silver, Copper, Sage, Sage
+ 
+---------- Watno: turn 12 ----------
+Watno - plays Highway
+Watno - shuffles deck
+Watno - draws Estate
+Watno - plays Sage
+Watno - reveals Copper, Highway
+Watno - places Highway in hand
+Watno - discards Copper
+Watno - plays Highway
+Watno - draws Silver
+Watno - plays Sage
+Watno - reveals Highway
+Watno - places Highway in hand
+Watno - plays Highway
+Watno - draws Highway
+Watno - plays Highway
+Watno - draws Copper
+Watno - plays 2 Copper, 1 Silver
+Watno - buys Province
+Watno - gains Province
+Watno - draws Oasis, Copper, Talisman, Highway, Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - reveals Soothsayer
+Titandrake - places Soothsayer in hand
+Titandrake - plays Sage
+Titandrake - reveals Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards Copper
+Titandrake - plays Oasis
+Titandrake - draws Gold
+Titandrake - discards Copper
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Watno - gains Curse
+Watno - draws Gold
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Sage, Copper, Altar
+ 
+---------- Watno: turn 13 ----------
+Watno - plays Highway
+Watno - draws Copper
+Watno - plays Oasis
+Watno - draws Copper
+Watno - discards Curse
+Watno - plays 3 Copper, 1 Gold
+Watno - plays Talisman
+Watno - buys Province
+Watno - gains Province
+Watno - draws Highway, Sage, Curse, Copper, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Sage
+Titandrake - reveals Talisman
+Titandrake - places Talisman in hand
+Titandrake - plays Altar
+Titandrake - trashes Copper
+Titandrake - gains Duchy
+Titandrake - plays Talisman
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Sage, Province, Silver, Gold
+ 
+---------- Watno: turn 14 ----------
+Watno - plays Highway
+Watno - draws Estate
+Watno - plays Sage
+Watno - reveals Gold
+Watno - places Gold in hand
+Watno - plays 1 Copper, 1 Gold
+Watno - buys Highway
+Watno - gains Highway
+Watno - draws Estate
+Watno - shuffles deck
+Watno - draws Highway, Curse, Highway, Sage
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Soothsayer
+Titandrake - places Soothsayer in hand
+Titandrake - discards Copper
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Watno - gains Curse
+Watno - draws Copper
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Highway, Highway, Copper, Gold
+ 
+---------- Watno: turn 15 ----------
+Watno - plays Highway
+Watno - draws Copper
+Watno - plays Highway
+Watno - draws Province
+Watno - plays Sage
+Watno - reveals Province
+Watno - places Province in hand
+Watno - plays 2 Copper
+Watno - buys Estate
+Watno - gains Estate
+Watno - draws Estate, Talisman, Curse, Oasis, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Highway
+Titandrake - draws Gold
+Titandrake - plays Highway
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Sage, Sage, Copper, Oasis, Sage, Estate, Copper, Copper, Highway
+Titandrake - places Highway in hand
+Titandrake - discards: Sage, Sage, Copper, Oasis, Sage, Estate, Copper, Copper
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Highway, Sage, Sage, Estate
+ 
+---------- Watno: turn 16 ----------
+Watno - plays Oasis
+Watno - draws Curse
+Watno - discards Curse
+Watno - plays 1 Copper
+Watno - plays Talisman
+Watno - buys Estate
+Watno - gains Estate
+Watno - draws Highway, Copper, Highway, Gold, Sage
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Highway
+Titandrake - draws Province
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Sage, Province, Gold, Altar, Gold
+ 
+---------- Watno: turn 17 ----------
+Watno - plays Highway
+Watno - draws Copper
+Watno - plays Highway
+Watno - draws Province
+Watno - plays Sage
+Watno - reveals Silver, Sage, Gold
+Watno - places Gold in hand
+Watno - discards: Silver, Sage
+Watno - plays 2 Copper, 2 Gold
+Watno - buys Duchy
+Watno - gains Duchy
+Watno - draws Copper, Highway, Highway, Highway, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Highway
+Titandrake - places Highway in hand
+Titandrake - plays Highway
+Titandrake - draws Province
+Titandrake - plays Altar
+Titandrake - trashes Gold
+Titandrake - gains Duchy
+Titandrake - plays Gold
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Estate, Oasis, Copper, Silver, Gold
+ 
+---------- Watno: turn 18 ----------
+Watno - plays Highway
+Watno - draws Curse
+Watno - plays Highway
+Watno - draws Estate
+Watno - plays Highway
+Watno - shuffles deck
+Watno - draws Copper
+Watno - plays 3 Copper
+Watno - buys Duchy
+Watno - gains Duchy
+Watno - draws Oasis, Curse, Gold, Talisman, Sage
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Oasis
+Titandrake - draws Duchy
+Titandrake - discards Estate
+Titandrake - plays 1 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Talisman, Sage, Highway, Estate, Copper
+ 
+---------- Watno: turn 19 ----------
+Watno - plays Sage
+Watno - reveals Estate, Sage
+Watno - places Sage in hand
+Watno - discards Estate
+Watno - plays Sage
+Watno - reveals Highway
+Watno - places Highway in hand
+Watno - plays Highway
+Watno - draws Gold
+Watno - plays Oasis
+Watno - draws Copper
+Watno - discards Curse
+Watno - plays 2 Gold, 1 Copper
+Watno - buys Duchy
+Watno - gains Duchy
+Watno - draws Duchy, Province, Highway, Highway, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Sage
+Titandrake - reveals Copper, Soothsayer
+Titandrake - places Soothsayer in hand
+Titandrake - discards Copper
+Titandrake - plays Soothsayer
+Titandrake - gains Gold
+Watno - gains Curse
+Watno - draws Estate
+Titandrake - plays 2 Copper
+Titandrake - plays Talisman
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Province, Sage, Soothsayer, Highway, Sage
+ 
+---------- Watno: turn 20 ----------
+Watno - plays Highway
+Watno - draws Estate
+Watno - plays Highway
+Watno - draws Estate
+Watno - plays 1 Copper
+Watno - buys Estate
+Watno - gains Estate
+Watno - draws Highway, Province, Silver, Curse, Curse
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Highway
+Titandrake - draws Altar
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Sage
+Titandrake - reveals Sage, Estate, Gold
+Titandrake - places Gold in hand
+Titandrake - discards: Sage, Estate
+Titandrake - plays Altar
+Titandrake - trashes Soothsayer
+Titandrake - gains Duchy
+Titandrake - plays 2 Gold
+Titandrake - buys Duke
+Titandrake - gains Duke
+Titandrake - draws Duchy, Highway, Estate, Copper, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Sage, 3 Highway, 1 Altar, 1 Oasis, 6 Copper, 5 Gold, 1 Talisman, 1 Silver, 5 Duchy, 4 Estate, 4 Province, 1 Duke
+Titandrake - total victory points: 48
+Titandrake - turns: 20
+ 
+Watno - cards: 7 Highway, 3 Sage, 1 Oasis, 7 Copper, 2 Gold, 1 Silver, 1 Talisman, 6 Estate, 3 Province, 3 Duchy, 6 Curse
+Watno - total victory points: 27
+Watno - turns: 20
+ 
+1st place: Titandrake
+2nd place: Watno
+ 

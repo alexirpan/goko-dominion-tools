@@ -1,0 +1,456 @@
+------------ Game Setup ------------
+Supply cards: Pawn, Familiar, Ironworks, Quarry, Silk Road, Young Witch, Hunting Party, Altar, Border Village, Hoard, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Pawn
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Silver
+lightbulb - gains Silver
+lightbulb - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Potion
+lightbulb - gains Potion
+lightbulb - shuffles deck
+lightbulb - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Pawn
+Titandrake - gains Pawn
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Young Witch, Estate, Copper
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Ironworks
+lightbulb - gains Ironworks
+lightbulb - draws Copper, Copper, Silver, Estate, Potion
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+lightbulb - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Ironworks
+Titandrake - gains Ironworks
+Titandrake - draws Copper, Estate, Copper, Copper, Pawn
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays 2 Copper, 1 Silver, 1 Potion
+lightbulb - buys Familiar
+lightbulb - gains Familiar
+lightbulb - draws Estate, Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 action
+Titandrake - plays 3 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Young Witch, Pawn, Estate
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Pawn
+lightbulb - gains Pawn
+lightbulb - draws Potion, Estate, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - takes 1 coin
+Titandrake - plays Young Witch
+Titandrake - draws Ironworks, Young Witch
+Titandrake - discards Estate
+Titandrake - discards Ironworks
+lightbulb - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays 2 Copper, 1 Potion, 1 Silver
+lightbulb - buys Familiar
+lightbulb - gains Familiar
+lightbulb - draws Familiar, Curse, Ironworks, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Young Witch
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Familiar
+lightbulb - shuffles deck
+lightbulb - draws Copper
+Titandrake - gains Curse
+lightbulb - plays Ironworks
+lightbulb - gains Young Witch
+lightbulb - plays 3 Copper
+lightbulb - buys Pawn
+lightbulb - gains Pawn
+lightbulb - draws Curse, Familiar, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+lightbulb - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Young Witch, Estate, Silver, Copper, Silver
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays Familiar
+lightbulb - draws Estate
+Titandrake - gains Curse
+lightbulb - plays 3 Copper
+lightbulb - buys Pawn
+lightbulb - gains Pawn
+lightbulb - draws Potion, Pawn, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Ironworks
+Titandrake - discards Estate
+Titandrake - discards Ironworks
+lightbulb - reveals bane Pawn
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - draws Copper, Pawn
+Titandrake - shuffles deck
+Titandrake - draws Curse, Silver, Estate
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays Pawn
+lightbulb - takes 1 action
+lightbulb - draws Estate
+lightbulb - plays 1 Potion, 1 Copper, 1 Silver
+lightbulb - buys Familiar
+lightbulb - gains Familiar
+lightbulb - shuffles deck
+lightbulb - draws Copper, Ironworks, Copper, Copper, Familiar
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 coin
+Titandrake - takes 1 buy
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Young Witch, Copper, Silver, Estate, Copper
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Familiar
+lightbulb - draws Young Witch
+Titandrake - gains Curse
+lightbulb - plays Ironworks
+lightbulb - gains Ironworks
+lightbulb - plays Young Witch
+lightbulb - draws Curse, Copper
+lightbulb - discards Curse
+lightbulb - discards Copper
+Titandrake - gains Curse
+lightbulb - plays 3 Copper
+lightbulb - buys Peddler
+lightbulb - gains Peddler
+lightbulb - draws Curse, Familiar, Copper, Familiar, Pawn
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Estate, Silver
+Titandrake - discards Estate
+Titandrake - discards Estate
+lightbulb - reveals bane Pawn
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Silk Road
+Titandrake - draws Ironworks, Hoard, Curse, Copper, Copper
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays Familiar
+lightbulb - draws Potion
+Titandrake - gains Curse
+lightbulb - plays Familiar
+lightbulb - draws Estate
+Titandrake - gains Curse
+lightbulb - plays Pawn
+lightbulb - takes 1 buy
+lightbulb - draws Copper
+lightbulb - plays 2 Copper, 1 Potion
+lightbulb - buys Peddler
+lightbulb - gains Peddler
+lightbulb - draws Copper, Estate, Silver, Estate, Curse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Silk Road
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - plays Hoard
+Titandrake - buys Silk Road
+Titandrake - gains Gold
+Titandrake - gains Silk Road
+Titandrake - draws Young Witch, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hoard, Copper, Pawn
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays 1 Copper, 1 Silver
+lightbulb - buys Pawn
+lightbulb - gains Pawn
+lightbulb - draws Pawn, Pawn
+lightbulb - shuffles deck
+lightbulb - draws Copper, Pawn, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Pawn
+Titandrake - takes 1 action
+Titandrake - draws Gold
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Curse
+Titandrake - discards Curse
+Titandrake - discards Copper
+lightbulb - reveals bane Pawn
+Titandrake - plays Hoard
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Silk Road
+Titandrake - gains Gold
+Titandrake - gains Silk Road
+Titandrake - draws Young Witch, Curse, Curse, Silver, Silver
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Pawn
+lightbulb - takes 1 action
+lightbulb - draws Familiar
+lightbulb - plays Familiar
+lightbulb - draws Estate
+Titandrake - gains Curse
+lightbulb - plays Pawn
+lightbulb - takes 1 action
+lightbulb - draws Familiar
+lightbulb - plays Familiar
+lightbulb - draws Curse
+lightbulb - plays Pawn
+lightbulb - takes 1 buy
+lightbulb - takes 1 coin
+lightbulb - plays 2 Copper
+lightbulb - buys Peddler
+lightbulb - gains Peddler
+lightbulb - buys Peddler
+lightbulb - gains Peddler
+lightbulb - draws Young Witch, Potion, Peddler, Copper, Pawn
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Estate, Curse
+Titandrake - discards Curse
+Titandrake - discards Curse
+lightbulb - reveals bane Pawn
+Titandrake - plays 2 Silver
+Titandrake - buys Silk Road
+Titandrake - gains Silk Road
+Titandrake - draws Estate, Silk Road, Silk Road, Copper, Border Village
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Peddler
+lightbulb - draws Peddler
+lightbulb - plays Peddler
+lightbulb - draws Curse
+lightbulb - plays Pawn
+lightbulb - takes 1 action
+lightbulb - draws Copper
+lightbulb - plays Young Witch
+lightbulb - draws Ironworks, Estate
+lightbulb - discards Curse
+lightbulb - discards Estate
+lightbulb - plays 2 Copper, 1 Potion
+lightbulb - buys Silk Road
+lightbulb - gains Silk Road
+lightbulb - draws Familiar, Copper, Curse, Silver, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Border Village
+Titandrake - draws Silk Road
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Silver, Estate, Silk Road, Copper, Ironworks
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays Familiar
+lightbulb - draws Ironworks
+lightbulb - plays Ironworks
+lightbulb - gains Silk Road
+lightbulb - draws Copper
+lightbulb - plays 3 Copper, 1 Silver
+lightbulb - buys Peddler
+lightbulb - gains Peddler
+lightbulb - draws Estate
+lightbulb - shuffles deck
+lightbulb - draws Familiar, Peddler, Copper, Pawn
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Estate
+Titandrake - draws Copper
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Curse, Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- lightbulb: turn 16 ----------
+lightbulb - plays Familiar
+lightbulb - draws Estate
+lightbulb - plays Peddler
+lightbulb - draws Copper
+lightbulb - plays Pawn
+lightbulb - takes 1 action
+lightbulb - draws Pawn
+lightbulb - plays Pawn
+lightbulb - takes 1 buy
+lightbulb - takes 1 coin
+lightbulb - plays 2 Copper
+lightbulb - buys Peddler
+lightbulb - gains Peddler
+lightbulb - buys Peddler
+lightbulb - gains Peddler
+lightbulb - draws Peddler, Silver, Copper, Potion, Peddler
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Estate, Silver, Curse, Silk Road
+ 
+---------- lightbulb: turn 17 ----------
+lightbulb - plays Peddler
+lightbulb - draws Peddler
+lightbulb - plays Peddler
+lightbulb - draws Copper
+lightbulb - plays Peddler
+lightbulb - draws Copper
+lightbulb - plays 3 Copper, 1 Silver, 1 Potion
+lightbulb - buys Altar
+lightbulb - gains Altar
+lightbulb - draws Silk Road, Curse, Silk Road, Young Witch, Pawn
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Curse, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 18 ----------
+lightbulb - plays Pawn
+lightbulb - takes 1 action
+lightbulb - takes 1 buy
+lightbulb - plays Young Witch
+lightbulb - draws Curse, Estate
+lightbulb - discards Silk Road
+lightbulb - discards Silk Road
+lightbulb - draws Copper, Familiar, Curse, Familiar, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silk Road, Copper, Copper, Silk Road, Border Village
+ 
+---------- lightbulb: turn 19 ----------
+lightbulb - plays Familiar
+lightbulb - draws Pawn
+lightbulb - plays Familiar
+lightbulb - draws Ironworks
+lightbulb - plays Pawn
+lightbulb - takes 1 action
+lightbulb - draws Ironworks
+lightbulb - plays Ironworks
+lightbulb - gains Pawn
+lightbulb - plays Ironworks
+lightbulb - gains Silver
+lightbulb - plays 2 Copper
+lightbulb - buys Peddler
+lightbulb - gains Peddler
+lightbulb - draws Peddler
+lightbulb - shuffles deck
+lightbulb - draws Silver, Silk Road, Pawn, Peddler
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Border Village
+Titandrake - draws Silk Road
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Young Witch, Gold, Copper, Copper, Ironworks
+ 
+---------- lightbulb: turn 20 ----------
+lightbulb - plays Peddler
+lightbulb - draws Silk Road
+lightbulb - plays Peddler
+lightbulb - draws Curse
+lightbulb - plays Pawn
+lightbulb - takes 1 action
+lightbulb - draws Copper
+lightbulb - plays 1 Silver, 1 Copper
+lightbulb - buys Duchy
+lightbulb - gains Duchy
+lightbulb - draws Peddler, Pawn, Peddler, Copper, Ironworks
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Ironworks
+Titandrake - gains Estate
+Titandrake - draws Curse
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Pawn, Silk Road, Hoard, Silver, Young Witch
+ 
+---------- lightbulb: turn 21 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Young Witch, 1 Pawn, 1 Border Village, 1 Ironworks, 9 Copper, 3 Silver, 2 Gold, 1 Hoard, 10 Estate, 6 Silk Road, 1 Duchy, 7 Curse
+Titandrake - total victory points: 30
+Titandrake - turns: 20
+ 
+lightbulb - resigned
+lightbulb - cards: 8 Peddler, 5 Pawn, 3 Familiar, 2 Ironworks, 1 Young Witch, 1 Altar, 7 Copper, 2 Silver, 1 Potion, 3 Estate, 2 Silk Road, 1 Duchy, 3 Curse
+lightbulb - total victory points: 5
+lightbulb - turns: 20
+ 
+1st place: Titandrake
+2nd place: lightbulb
+ 

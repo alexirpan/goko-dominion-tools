@@ -1,0 +1,455 @@
+------------ Game Setup ------------
+Supply cards: Trade Route, Armory, Plaza, Minion, Mystic, Torturer, Trading Post, Witch, Border Village, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+Lekkit - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lekkit - shuffles deck
+Titandrake - shuffles deck
+Lekkit - draws Copper, Estate, Estate, Copper, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Lekkit: turn 1 ----------
+Lekkit - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Trading Post, Estate
+ 
+---------- Lekkit: turn 2 ----------
+Lekkit - plays 5 Copper
+Lekkit - buys Witch
+Lekkit - gains Witch
+Lekkit - shuffles deck
+Lekkit - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Lekkit: turn 3 ----------
+Lekkit - plays 3 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate, Silver
+ 
+---------- Lekkit: turn 4 ----------
+Lekkit - plays 4 Copper
+Lekkit - buys Plaza
+Lekkit - gains Plaza
+Lekkit - draws Witch
+Lekkit - shuffles deck
+Lekkit - draws Copper, Silver, Estate, Plaza
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Witch
+Titandrake - draws Copper, Plaza, Trading Post, Copper, Copper
+ 
+---------- Lekkit: turn 5 ----------
+Lekkit - plays Plaza
+Lekkit - draws Copper
+Lekkit - discards Copper
+Lekkit - receives 1 coin token
+Lekkit - plays Witch
+Lekkit - draws Copper, Copper
+Titandrake - gains Curse
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - uses 1 coin token
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Trading Post
+Lekkit - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - uses 1 coin token
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Plaza, Copper, Copper, Silver
+ 
+---------- Lekkit: turn 6 ----------
+Lekkit - plays 3 Copper
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - shuffles deck
+Lekkit - draws Trading Post, Copper, Witch, Copper, Border Village
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Plaza
+Titandrake - draws Witch
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Witch
+Titandrake - draws Plaza, Trading Post
+Lekkit - gains Curse
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - uses 2 coin tokens
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Witch
+Titandrake - draws Estate, Copper, Silver, Border Village, Silver
+ 
+---------- Lekkit: turn 7 ----------
+Lekkit - plays Border Village
+Lekkit - draws Copper
+Lekkit - plays Witch
+Lekkit - draws Copper, Estate
+Titandrake - gains Curse
+Lekkit - plays Trading Post
+Lekkit - trashes Estate, Copper
+Lekkit - gains Silver
+Lekkit - plays 3 Copper, 1 Silver
+Lekkit - buys Minion
+Lekkit - gains Minion
+Lekkit - draws Copper, Estate, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Border Village
+Titandrake - draws Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Copper, Trading Post, Witch
+ 
+---------- Lekkit: turn 8 ----------
+Lekkit - plays 2 Copper, 1 Silver
+Lekkit - buys Plaza
+Lekkit - gains Plaza
+Lekkit - draws Copper, Plaza, Silver
+Lekkit - shuffles deck
+Lekkit - draws Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Border Village
+Lekkit - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Curse, Plaza, Witch, Plaza, Silver
+ 
+---------- Lekkit: turn 9 ----------
+Lekkit - plays Plaza
+Lekkit - draws Silver
+Lekkit - discards Copper
+Lekkit - receives 1 coin token
+Lekkit - plays 3 Silver, 1 Copper
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Minion
+Lekkit - draws Copper, Estate, Border Village, Estate, Plaza
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Witch
+Titandrake - draws Silver, Curse
+Lekkit - gains Curse
+Titandrake - plays Plaza
+Titandrake - draws Minion
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Minion
+Titandrake - draws Border Village, Copper
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Plaza, Border Village
+ 
+---------- Lekkit: turn 10 ----------
+Lekkit - plays Border Village
+Lekkit - draws Curse
+Lekkit - plays Plaza
+Lekkit - draws Copper
+Lekkit - discards Copper
+Lekkit - receives 1 coin token
+Lekkit - draws Copper, Trading Post, Copper, Witch, Minion
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Plaza
+Titandrake - draws Silver
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Border Village
+Titandrake - draws Witch
+Titandrake - plays Border Village
+Titandrake - draws Witch
+Titandrake - plays Witch
+Titandrake - draws Copper, Silver
+Lekkit - gains Curse
+Titandrake - plays Witch
+Titandrake - draws Minion, Minion
+Lekkit - gains Curse
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Curse, Silver, Estate, Minion, Plaza
+ 
+---------- Lekkit: turn 11 ----------
+Lekkit - plays Minion
+Lekkit - discards: Copper, Trading Post, Copper, Witch
+Lekkit - shuffles deck
+Lekkit - draws Estate, Copper, Plaza, Curse
+Titandrake - discards: Curse, Silver, Estate, Minion, Plaza
+Titandrake - draws Trading Post, Silver, Curse
+Titandrake - shuffles deck
+Titandrake - draws Border Village
+Lekkit - plays Plaza
+Lekkit - draws Minion
+Lekkit - discards Copper
+Lekkit - receives 1 coin token
+Lekkit - plays Minion
+Lekkit - discards: Estate, Curse
+Lekkit - draws Silver, Curse, Copper, Copper
+Lekkit - plays 2 Copper, 1 Silver
+Lekkit - uses 2 coin tokens
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Trade Route
+Lekkit - draws Plaza, Copper, Copper, Trading Post, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Trading Post
+Titandrake - trashes Curse, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Silver
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Witch, Plaza, Estate, Border Village, Minion
+ 
+---------- Lekkit: turn 12 ----------
+Lekkit - plays Plaza
+Lekkit - draws Estate
+Lekkit - discards Copper
+Lekkit - receives 1 coin token
+Lekkit - plays Trading Post
+Lekkit - trashes Estate, Copper
+Lekkit - gains Silver
+Lekkit - plays 2 Silver
+Lekkit - uses 1 coin token
+Lekkit - buys Minion
+Lekkit - gains Minion
+Lekkit - draws Curse, Silver, Witch, Curse, Curse
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Border Village
+Titandrake - draws Platinum
+Titandrake - plays Witch
+Titandrake - draws Silver, Border Village
+Lekkit - gains Curse
+Titandrake - plays Border Village
+Titandrake - draws Minion
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 1 Platinum, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Witch, Silver, Curse, Minion, Plaza
+ 
+---------- Lekkit: turn 13 ----------
+Lekkit - plays Witch
+Lekkit - draws Copper, Border Village
+Titandrake - gains Curse
+Lekkit - plays 1 Silver, 1 Copper
+Lekkit - uses 1 coin token
+Lekkit - buys Plaza
+Lekkit - gains Plaza
+Lekkit - draws Border Village
+Lekkit - shuffles deck
+Lekkit - draws Copper, Border Village, Witch, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Plaza
+Titandrake - draws Silver
+Titandrake - discards Silver
+Titandrake - receives 1 coin token
+Titandrake - plays Witch
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Border Village
+Lekkit - gains Curse
+Titandrake - plays Border Village
+Titandrake - draws Trading Post
+Titandrake - plays Trading Post
+Titandrake - trashes Curse, Copper
+Titandrake - gains Silver
+Titandrake - plays Minion
+Titandrake - discards: Silver, Silver
+Titandrake - draws Silver, Border Village, Silver, Witch
+Lekkit - discards: Border Village, Copper, Border Village, Witch, Copper
+Lekkit - draws Border Village, Minion, Trading Post, Plaza
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Witch
+Titandrake - draws Silver, Minion
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 3 Silver
+Titandrake - uses 3 coin tokens
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Trade Route, Curse, Plaza, Border Village, Minion
+ 
+---------- Lekkit: turn 14 ----------
+Lekkit - plays Border Village
+Lekkit - draws Curse
+Lekkit - plays Plaza
+Lekkit - draws Silver
+Lekkit - plays Trading Post
+Lekkit - trashes Curse, Silver
+Lekkit - gains Silver
+Lekkit - plays Minion
+Lekkit - discards Silver
+Lekkit - draws Curse, Silver, Curse, Copper
+Titandrake - discards: Trade Route, Curse, Plaza, Border Village, Minion
+Titandrake - draws Silver, Platinum, Copper, Colony
+Lekkit - plays 1 Silver, 1 Copper
+Lekkit - buys Trade Route
+Lekkit - gains Trade Route
+Lekkit - draws Curse, Minion, Estate, Copper, Plaza
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 1 Silver, 1 Platinum, 1 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Minion
+Titandrake - shuffles deck
+Titandrake - draws Minion, Border Village, Colony, Estate, Witch
+ 
+---------- Lekkit: turn 15 ----------
+Lekkit - plays Plaza
+Lekkit - draws Minion
+Lekkit - discards Copper
+Lekkit - receives 1 coin token
+Lekkit - plays Minion
+Lekkit - takes 2 coins
+Lekkit - plays Minion
+Lekkit - discards: Curse, Estate
+Lekkit - draws Copper, Silver, Trade Route, Silver
+Titandrake - discards: Minion, Border Village, Colony, Estate, Witch
+Titandrake - draws Border Village, Minion, Trading Post, Silver
+Lekkit - plays Trade Route
+Lekkit - trashes Copper
+Lekkit - plays 2 Silver
+Lekkit - buys Border Village
+Lekkit - gains Border Village
+Lekkit - gains Minion
+Lekkit - draws Curse, Plaza, Curse
+Lekkit - shuffles deck
+Lekkit - draws Border Village, Curse
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Border Village
+Titandrake - draws Trade Route
+Titandrake - plays Trade Route
+Titandrake - trashes Trading Post
+Titandrake - plays Minion
+Titandrake - discards Silver
+Titandrake - draws Border Village, Minion, Plaza, Border Village
+Lekkit - discards: Curse, Plaza, Curse, Border Village, Curse
+Lekkit - draws Trade Route, Silver, Estate, Trading Post
+Titandrake - plays Border Village
+Titandrake - draws Curse
+Titandrake - plays Border Village
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Silver
+Titandrake - plays Plaza
+Titandrake - draws Platinum
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 1 Silver, 1 Platinum
+Titandrake - uses 1 coin token
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Minion
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper, Witch, Silver, Colony, Silver
+ 
+---------- Lekkit: turn 16 ----------
+Lekkit - plays Trade Route
+Lekkit - trashes Trading Post
+Lekkit - plays 1 Silver
+Lekkit - buys Silver
+Lekkit - gains Silver
+Lekkit - draws Curse, Minion, Minion, Copper, Plaza
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Witch
+Titandrake - draws Silver, Minion
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Duchy
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Colony, Minion, Silver, Border Village
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Minion, 6 Border Village, 2 Plaza, 2 Witch, 1 Trade Route, 6 Silver, 1 Copper, 1 Platinum, 2 Colony, 1 Duchy, 1 Estate, 1 Curse
+Titandrake - total victory points: 23
+Titandrake - turns: 17
+ 
+Lekkit - cards: 4 Minion, 4 Border Village, 3 Plaza, 2 Trade Route, 1 Witch, 5 Silver, 4 Copper, 1 Estate, 6 Curse
+Lekkit - total victory points: -5
+Lekkit - turns: 16
+ 
+1st place: Titandrake
+2nd place: Lekkit
+ 

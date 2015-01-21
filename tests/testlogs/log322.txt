@@ -1,0 +1,689 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Scrying Pool, University, Throne Room, Apprentice, Embassy, Junk Dealer, Mystic, Stables, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+pst - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+pst - shuffles deck
+Titandrake - shuffles deck
+pst - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- pst: turn 1 ----------
+pst - plays 3 Copper
+pst - buys Silver
+pst - gains Silver
+pst - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hamlet, Copper, Copper, Estate
+ 
+---------- pst: turn 2 ----------
+pst - plays 4 Copper
+pst - buys Potion
+pst - gains Potion
+pst - shuffles deck
+pst - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Potion
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- pst: turn 3 ----------
+pst - plays 4 Copper
+pst - buys Throne Room
+pst - gains Throne Room
+pst - draws Potion, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Potion, Estate, Copper
+ 
+---------- pst: turn 4 ----------
+pst - plays 2 Copper, 1 Potion, 1 Silver
+pst - buys University
+pst - gains University
+pst - draws Copper, Estate
+pst - shuffles deck
+pst - draws Potion, Copper, University
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Hamlet, Copper, Estate, Copper
+ 
+---------- pst: turn 5 ----------
+pst - plays University
+pst - gains Junk Dealer
+pst - plays 2 Copper, 1 Potion
+pst - buys University
+pst - gains University
+pst - draws Copper, Estate, Throne Room, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Scrying Pool, Copper, Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- pst: turn 6 ----------
+pst - plays 3 Copper
+pst - buys Hamlet
+pst - gains Hamlet
+pst - draws Copper, Copper, Estate, Silver
+pst - shuffles deck
+pst - draws University
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Estate
+pst - places Copper on top of deck
+Titandrake - reveals Estate
+Titandrake - plays Hamlet
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Potion, Hamlet, Hamlet, Copper, Copper
+ 
+---------- pst: turn 7 ----------
+pst - plays University
+pst - gains Mystic
+pst - plays 2 Copper, 1 Silver
+pst - buys Throne Room
+pst - gains Throne Room
+pst - draws Copper, Estate, Throne Room, Potion, Junk Dealer
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Hamlet
+Titandrake - draws University
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays University
+Titandrake - gains Junk Dealer
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Scrying Pool, Copper, Estate
+ 
+---------- pst: turn 8 ----------
+pst - plays Throne Room
+pst - plays Junk Dealer
+pst - draws Copper
+pst - trashes Estate
+pst - plays Junk Dealer
+pst - draws Copper
+pst - trashes Copper
+pst - plays 2 Copper, 1 Potion
+pst - buys Scrying Pool
+pst - gains Scrying Pool
+pst - draws University, Copper, Copper, Estate, Hamlet
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+pst - shuffles deck
+pst - discards Mystic
+Titandrake - reveals Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Junk Dealer, University, Scrying Pool, Copper, Copper
+ 
+---------- pst: turn 9 ----------
+pst - plays University
+pst - gains Mystic
+pst - plays Hamlet
+pst - draws University
+pst - plays University
+pst - gains Mystic
+pst - plays 2 Copper
+pst - buys Hamlet
+pst - gains Hamlet
+pst - draws Throne Room, Copper, Copper, Throne Room, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Hamlet on top of deck
+pst - discards Scrying Pool
+Titandrake - reveals Hamlet, Estate
+Titandrake - plays Junk Dealer
+Titandrake - draws Potion
+Titandrake - trashes Estate
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays University
+Titandrake - gains Stables
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Hamlet, Copper, Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Silver
+ 
+---------- pst: turn 10 ----------
+pst - plays 3 Copper
+pst - buys Hamlet
+pst - gains Hamlet
+pst - draws Junk Dealer, Estate, Silver, Potion, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+pst - shuffles deck
+pst - discards University
+Titandrake - reveals Potion
+Titandrake - plays Hamlet
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - places University on top of deck
+pst - discards University
+Titandrake - reveals University, Copper
+Titandrake - plays Hamlet
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - places Junk Dealer on top of deck
+pst - discards Throne Room
+Titandrake - reveals Junk Dealer, Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays University
+Titandrake - gains Mystic
+Titandrake - plays 3 Copper, 1 Silver, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Copper, Copper, Stables, Estate, Hamlet
+ 
+---------- pst: turn 11 ----------
+pst - plays Junk Dealer
+pst - draws Throne Room
+pst - trashes Estate
+pst - plays 1 Silver, 1 Potion, 1 Copper
+pst - buys Scrying Pool
+pst - gains Scrying Pool
+pst - draws Copper, Hamlet, Estate, Copper, Scrying Pool
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Estate, Throne Room
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool
+Titandrake - plays Throne Room
+Titandrake - plays Scrying Pool
+Titandrake - discards Silver
+pst - places Copper on top of deck
+Titandrake - reveals Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+pst - places Copper on top of deck
+Titandrake - reveals Scrying Pool, Potion
+Titandrake - plays Scrying Pool
+Titandrake - places Junk Dealer on top of deck
+pst - places Copper on top of deck
+Titandrake - reveals Junk Dealer, Hamlet, Scrying Pool, Scrying Pool, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+pst - places Copper on top of deck
+Titandrake - reveals Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+pst - places Copper on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Mystic, Hamlet, University, Silver
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - plays University
+Titandrake - gains Mystic
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Mystic
+Titandrake - names Mystic
+Titandrake - shuffles deck
+Titandrake - reveals Mystic
+Titandrake - places Mystic in hand
+Titandrake - plays Hamlet
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Mystic
+Titandrake - names Estate
+Titandrake - shuffles deck
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays 6 Copper, 1 Potion, 1 Silver
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - shuffles deck
+Titandrake - draws Potion, Scrying Pool, Mystic, Hamlet, Scrying Pool
+ 
+---------- pst: turn 12 ----------
+pst - plays Scrying Pool
+pst - discards Copper
+Titandrake - discards Throne Room
+pst - reveals Mystic, Hamlet, Mystic, Copper
+pst - plays Mystic
+pst - names University
+pst - reveals Hamlet
+pst - plays Mystic
+pst - names Hamlet
+pst - reveals Hamlet
+pst - places Hamlet in hand
+pst - plays Hamlet
+pst - draws Copper
+pst - plays Hamlet
+pst - draws Mystic
+pst - discards Estate
+pst - receives one buy
+pst - plays Mystic
+pst - names University
+pst - shuffles deck
+pst - reveals Junk Dealer
+pst - plays Hamlet
+pst - draws Junk Dealer
+pst - plays Junk Dealer
+pst - draws Silver
+pst - trashes Copper
+pst - plays 3 Copper, 1 Silver
+pst - buys Province
+pst - gains Province
+pst - buys Throne Room
+pst - gains Throne Room
+pst - draws Throne Room, Estate, University, University, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+pst - discards Scrying Pool
+Titandrake - reveals Copper
+Titandrake - plays Scrying Pool
+Titandrake - places University on top of deck
+pst - discards Potion
+Titandrake - reveals University, Mystic, Estate
+Titandrake - plays Hamlet
+Titandrake - draws Scrying Pool
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+pst - discards Throne Room
+Titandrake - reveals Scrying Pool, Junk Dealer, Hamlet, Stables, Copper
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Copper, Hamlet
+Titandrake - plays Scrying Pool
+Titandrake - discards Silver
+pst - places Copper on top of deck
+Titandrake - reveals Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Mystic
+Titandrake - trashes Copper
+Titandrake - plays University
+Titandrake - gains Mystic
+Titandrake - plays Hamlet
+Titandrake - draws Scrying Pool
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - discards Copper
+pst - places Copper on top of deck
+Titandrake - reveals Silver
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Throne Room
+Titandrake - plays Hamlet
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Mystic
+Titandrake - plays 4 Copper, 1 Potion, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - buys Mystic
+Titandrake - gains Mystic
+Titandrake - draws Mystic, Estate
+Titandrake - shuffles deck
+Titandrake - draws Hamlet, Copper, Hamlet
+ 
+---------- pst: turn 13 ----------
+pst - plays University
+pst - gains Mystic
+pst - plays Throne Room
+pst - plays University
+pst - gains Mystic
+pst - plays University
+pst - gains Embassy
+Titandrake - gains Silver
+pst - draws Copper
+pst - shuffles deck
+pst - draws Throne Room, Copper, Junk Dealer, Potion
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hamlet
+Titandrake - draws University
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays Mystic
+Titandrake - names Scrying Pool
+Titandrake - reveals Mystic
+Titandrake - plays University
+Titandrake - gains Embassy
+pst - gains Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Mystic, Mystic, Scrying Pool, Copper, Mystic
+ 
+---------- pst: turn 14 ----------
+pst - plays Throne Room
+pst - plays Junk Dealer
+pst - draws Embassy
+pst - trashes Copper
+pst - plays Junk Dealer
+pst - draws Hamlet
+pst - trashes Copper
+pst - plays Embassy
+pst - draws University, Scrying Pool, Estate, Mystic, University
+pst - discards Estate
+pst - discards University
+pst - discards University
+pst - plays Scrying Pool
+pst - places Scrying Pool on top of deck
+Titandrake - places Copper on top of deck
+pst - reveals Scrying Pool, Copper
+pst - plays Scrying Pool
+pst - discards Province
+Titandrake - places Copper on top of deck
+pst - reveals Mystic, Mystic, Mystic, Copper
+pst - plays Mystic
+pst - names Copper
+pst - reveals Hamlet
+pst - plays Mystic
+pst - names Hamlet
+pst - reveals Hamlet
+pst - places Hamlet in hand
+pst - plays Mystic
+pst - names Copper
+pst - reveals Hamlet
+pst - plays Mystic
+pst - names Hamlet
+pst - reveals Hamlet
+pst - places Hamlet in hand
+pst - plays Hamlet
+pst - draws Throne Room
+pst - plays Hamlet
+pst - draws Mystic
+pst - discards Copper
+pst - receives one buy
+pst - plays Throne Room
+pst - plays Mystic
+pst - names Copper
+pst - reveals Throne Room
+pst - plays Mystic
+pst - names Throne Room
+pst - reveals Throne Room
+pst - places Throne Room in hand
+pst - plays Throne Room
+pst - plays Hamlet
+pst - draws Silver
+pst - plays Hamlet
+pst - draws Copper
+pst - discards Copper
+pst - receives one buy
+pst - plays 1 Potion, 1 Copper, 1 Silver
+pst - buys Province
+pst - gains Province
+pst - buys Province
+pst - gains Province
+pst - shuffles deck
+pst - draws University, Throne Room, Copper, Mystic, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+pst - places Potion on top of deck
+Titandrake - reveals Scrying Pool, Scrying Pool, Throne Room, Stables, Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Hamlet on top of deck
+pst - places Potion on top of deck
+Titandrake - reveals Hamlet, Province
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Potion, Mystic, Copper
+Titandrake - plays Throne Room
+Titandrake - plays Scrying Pool
+Titandrake - places Scrying Pool on top of deck
+pst - places Potion on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Scrying Pool, Scrying Pool, Scrying Pool, Junk Dealer, Silver
+Titandrake - plays Scrying Pool
+Titandrake - places Mystic on top of deck
+pst - places Potion on top of deck
+Titandrake - reveals Mystic, Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Embassy
+Titandrake - trashes Copper
+Titandrake - plays Embassy
+Titandrake - draws University, Silver, Hamlet, Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - discards Copper
+Titandrake - plays Hamlet
+Titandrake - draws Duchy
+Titandrake - discards Duchy
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - draws Hamlet
+Titandrake - discards University
+Titandrake - receives one buy
+Titandrake - plays Scrying Pool
+Titandrake - shuffles deck
+Titandrake - places University on top of deck
+pst - places Potion on top of deck
+Titandrake - reveals University, Copper
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Duchy
+Titandrake - plays Mystic
+Titandrake - names Duchy
+Titandrake - reveals Duchy
+Titandrake - places Duchy in hand
+Titandrake - plays Mystic
+Titandrake - names Estate
+Titandrake - reveals Estate
+Titandrake - places Estate in hand
+Titandrake - plays Mystic
+Titandrake - names Province
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Farmland
+Titandrake - trashes Potion
+Titandrake - gains Farmland
+Titandrake - gains Farmland
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool, Scrying Pool, Hamlet, Junk Dealer, Hamlet
+ 
+---------- pst: turn 15 ----------
+pst - plays Throne Room
+pst - plays Mystic
+pst - names Potion
+pst - reveals Potion
+pst - places Potion in hand
+pst - plays Mystic
+pst - names Mystic
+pst - reveals Junk Dealer
+pst - plays University
+pst - gains Embassy
+Titandrake - gains Silver
+pst - plays Silver
+pst - buys Farmland
+pst - trashes Potion
+pst - gains Farmland
+pst - gains Farmland
+pst - draws Junk Dealer, Province, Province, University, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+pst - discards Mystic
+Titandrake - reveals University, Mystic, Scrying Pool, Scrying Pool, Stables, Copper
+Titandrake - plays Scrying Pool
+Titandrake - discards Province
+pst - discards Embassy
+Titandrake - reveals Province
+Titandrake - plays Stables
+Titandrake - discards Copper
+Titandrake - draws Copper, Scrying Pool, Estate
+Titandrake - plays Scrying Pool
+Titandrake - places Mystic on top of deck
+pst - discards Hamlet
+Titandrake - reveals Mystic, Duchy
+Titandrake - plays Scrying Pool
+Titandrake - discards Duchy
+pst - discards Hamlet
+Titandrake - reveals Copper
+Titandrake - plays Scrying Pool
+Titandrake - places Mystic on top of deck
+pst - discards Mystic
+Titandrake - reveals Mystic, Mystic, Scrying Pool, Throne Room, Embassy, Silver
+Titandrake - plays Throne Room
+Titandrake - plays Scrying Pool
+Titandrake - places Mystic on top of deck
+pst - places Province on top of deck
+Titandrake - reveals Mystic, Hamlet, Silver
+Titandrake - plays Scrying Pool
+Titandrake - discards Farmland
+pst - places Province on top of deck
+Titandrake - reveals Farmland
+Titandrake - plays Embassy
+Titandrake - shuffles deck
+Titandrake - draws Province, Duchy, Farmland, Copper, Silver
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - discards Duchy
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Mystic
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Mystic
+Titandrake - names Hamlet
+Titandrake - reveals Duchy
+Titandrake - plays Mystic
+Titandrake - names Duchy
+Titandrake - reveals Duchy
+Titandrake - places Duchy in hand
+Titandrake - plays Mystic
+Titandrake - names Copper
+Titandrake - reveals Province
+Titandrake - plays Hamlet
+Titandrake - draws Province
+Titandrake - discards Province
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - discards Province
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Province
+Titandrake - discards Province
+Titandrake - receives one buy
+Titandrake - plays University
+Titandrake - gains Throne Room
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - buys Farmland
+Titandrake - trashes Farmland
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - buys Farmland
+Titandrake - trashes Farmland
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Junk Dealer, Mystic, Farmland, Stables, Scrying Pool
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Scrying Pool, 5 Mystic, 3 Hamlet, 2 Throne Room, 1 Junk Dealer, 1 Stables, 1 University, 1 Embassy, 4 Copper, 3 Silver, 5 Province, 2 Farmland, 2 Duchy, 1 Estate
+Titandrake - total victory points: 41
+Titandrake - turns: 16
+ 
+pst - cards: 5 Mystic, 3 Throne Room, 3 Hamlet, 2 University, 2 Embassy, 2 Scrying Pool, 1 Junk Dealer, 3 Copper, 2 Silver, 3 Province, 2 Farmland, 1 Estate
+pst - total victory points: 23
+pst - turns: 15
+ 
+1st place: Titandrake
+2nd place: pst
+ 

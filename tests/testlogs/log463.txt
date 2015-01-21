@@ -1,0 +1,365 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Lighthouse, Shanty Town, Armory, Bureaucrat, Gardens, Scout, Silk Road, Apprentice, Fairgrounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dudeabides - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dudeabides - shuffles deck
+Titandrake - shuffles deck
+dudeabides - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- dudeabides: turn 1 ----------
+dudeabides - plays 4 Copper
+dudeabides - buys Armory
+dudeabides - gains Armory
+dudeabides - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- dudeabides: turn 2 ----------
+dudeabides - plays 3 Copper
+dudeabides - buys Shanty Town
+dudeabides - gains Shanty Town
+dudeabides - shuffles deck
+dudeabides - draws Copper, Copper, Copper, Copper, Armory
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - draws Copper, Armory, Copper, Shanty Town, Copper
+ 
+---------- dudeabides: turn 3 ----------
+dudeabides - plays Armory
+dudeabides - gains Bureaucrat
+dudeabides - plays 4 Copper
+dudeabides - buys Armory
+dudeabides - gains Armory
+dudeabides - draws Bureaucrat, Estate, Shanty Town, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Armory, Copper, Copper
+Titandrake - plays Armory
+Titandrake - gains Bureaucrat
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Bureaucrat, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- dudeabides: turn 4 ----------
+dudeabides - plays Bureaucrat
+dudeabides - gains Silver
+Titandrake - reveals Estate
+Titandrake - places Estate on top of deck
+dudeabides - plays 2 Copper
+dudeabides - buys Lighthouse
+dudeabides - gains Lighthouse
+dudeabides - draws Silver, Estate, Estate, Copper
+dudeabides - shuffles deck
+dudeabides - draws Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Bureaucrat
+Titandrake - gains Silver
+dudeabides - reveals Estate
+dudeabides - places Estate on top of deck
+Titandrake - plays 2 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Silver, Estate, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 5 ----------
+dudeabides - plays 2 Copper, 1 Silver
+dudeabides - buys Shanty Town
+dudeabides - gains Shanty Town
+dudeabides - draws Estate, Shanty Town, Copper, Armory, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - draws Copper, Copper, Armory, Shanty Town, Estate
+ 
+---------- dudeabides: turn 6 ----------
+dudeabides - plays Armory
+dudeabides - gains Shanty Town
+dudeabides - plays 2 Copper
+dudeabides - buys Lighthouse
+dudeabides - gains Lighthouse
+dudeabides - draws Shanty Town, Lighthouse, Copper, Copper, Armory
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Copper, Copper, Armory, Estate
+Titandrake - plays Armory
+Titandrake - gains Armory
+Titandrake - plays 2 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Armory, Silver, Shanty Town
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- dudeabides: turn 7 ----------
+dudeabides - plays Lighthouse
+dudeabides - plays Armory
+dudeabides - gains Armory
+dudeabides - plays 2 Copper
+dudeabides - buys Shanty Town
+dudeabides - gains Shanty Town
+dudeabides - draws Armory, Copper, Estate, Bureaucrat
+dudeabides - shuffles deck
+dudeabides - draws Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Armory, Silver, Silver, Copper
+Titandrake - plays Armory
+Titandrake - gains Armory
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Armory, Lighthouse, Copper, Copper, Armory
+ 
+---------- dudeabides: turn 8 ----------
+dudeabides - duration Lighthouse
+dudeabides - plays Armory
+dudeabides - gains Gardens
+dudeabides - plays 2 Copper
+dudeabides - buys Lighthouse
+dudeabides - gains Lighthouse
+dudeabides - draws Gardens, Shanty Town, Copper, Lighthouse, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Armory
+Titandrake - gains Armory
+Titandrake - plays 2 Copper
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - draws Armory, Copper, Estate, Armory, Estate
+ 
+---------- dudeabides: turn 9 ----------
+dudeabides - plays Lighthouse
+dudeabides - plays Shanty Town
+dudeabides - reveals Gardens, Copper, Copper
+dudeabides - draws Copper, Shanty Town
+dudeabides - plays Shanty Town
+dudeabides - reveals Copper, Gardens, Copper, Copper
+dudeabides - draws Armory, Copper
+dudeabides - plays Armory
+dudeabides - gains Armory
+dudeabides - plays 4 Copper
+dudeabides - buys Gardens
+dudeabides - gains Gardens
+dudeabides - draws Armory, Estate, Copper, Shanty Town, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Armory
+Titandrake - gains Gardens
+Titandrake - plays Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Gardens, Estate, Copper, Copper, Copper
+ 
+---------- dudeabides: turn 10 ----------
+dudeabides - duration Lighthouse
+dudeabides - plays Armory
+dudeabides - gains Armory
+dudeabides - plays 1 Copper, 1 Silver
+dudeabides - buys Shanty Town
+dudeabides - gains Shanty Town
+dudeabides - draws Armory, Armory, Estate, Shanty Town
+dudeabides - shuffles deck
+dudeabides - draws Bureaucrat
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Bureaucrat, Shanty Town, Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Armory, Estate
+ 
+---------- dudeabides: turn 11 ----------
+dudeabides - plays Shanty Town
+dudeabides - reveals Armory, Armory, Estate, Bureaucrat
+dudeabides - plays Bureaucrat
+dudeabides - gains Silver
+Titandrake - reveals Estate
+Titandrake - places Estate on top of deck
+dudeabides - plays Armory
+dudeabides - gains Gardens
+dudeabides - buys Copper
+dudeabides - gains Copper
+dudeabides - draws Gardens, Silver, Lighthouse, Lighthouse, Shanty Town
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Shanty Town
+Titandrake - reveals Bureaucrat, Armory
+Titandrake - plays Bureaucrat
+Titandrake - gains Silver
+dudeabides - reveals Gardens
+dudeabides - places Gardens on top of deck
+Titandrake - plays Armory
+Titandrake - gains Gardens
+Titandrake - draws Gardens, Silver, Estate, Lighthouse, Estate
+ 
+---------- dudeabides: turn 12 ----------
+dudeabides - plays Lighthouse
+dudeabides - plays Lighthouse
+dudeabides - plays Shanty Town
+dudeabides - reveals Silver
+dudeabides - draws Gardens, Estate
+dudeabides - plays 1 Silver
+dudeabides - buys Gardens
+dudeabides - gains Gardens
+dudeabides - draws Gardens, Copper, Shanty Town, Copper, Shanty Town
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Silver
+Titandrake - buys Gardens
+Titandrake - gains Gardens
+Titandrake - draws Silver, Copper, Copper, Gardens, Copper
+ 
+---------- dudeabides: turn 13 ----------
+dudeabides - duration Lighthouse
+dudeabides - duration Lighthouse
+dudeabides - plays Shanty Town
+dudeabides - reveals Gardens, Copper, Copper, Shanty Town
+dudeabides - plays Shanty Town
+dudeabides - reveals Gardens, Copper, Copper
+dudeabides - draws Estate, Copper
+dudeabides - plays 3 Copper
+dudeabides - buys Silk Road
+dudeabides - gains Silk Road
+dudeabides - draws Copper, Gardens, Copper, Shanty Town, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Fairgrounds
+Titandrake - gains Fairgrounds
+Titandrake - draws Armory, Estate, Shanty Town, Lighthouse, Armory
+ 
+---------- dudeabides: turn 14 ----------
+dudeabides - plays Shanty Town
+dudeabides - reveals Copper, Gardens, Copper, Copper
+dudeabides - draws Silver, Armory
+dudeabides - plays Armory
+dudeabides - gains Scout
+dudeabides - plays 3 Copper, 1 Silver
+dudeabides - buys Duchy
+dudeabides - gains Duchy
+dudeabides - draws Scout, Lighthouse, Armory, Armory, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Shanty Town
+Titandrake - reveals Armory, Estate, Armory
+Titandrake - plays Armory
+Titandrake - gains Silk Road
+Titandrake - plays Armory
+Titandrake - gains Silk Road
+Titandrake - buys Copper
+Titandrake - gains Copper
+Titandrake - draws Silk Road, Silk Road, Gardens, Armory, Copper
+ 
+---------- dudeabides: turn 15 ----------
+dudeabides - plays Scout
+dudeabides - shuffles deck
+dudeabides - reveals: Copper, Armory, Gardens, Copper
+dudeabides - places cards in hand:  Gardens
+dudeabides - places Copper on top of deck
+dudeabides - places Armory on top of deck
+dudeabides - places Copper on top of deck
+dudeabides - plays Lighthouse
+dudeabides - plays Armory
+dudeabides - gains Silk Road
+dudeabides - plays 1 Copper
+dudeabides - buys Estate
+dudeabides - gains Estate
+dudeabides - draws Silk Road, Copper, Armory, Copper, Armory
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Armory
+Titandrake - gains Silk Road
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silk Road, Estate, Armory, Silver, Copper
+ 
+---------- dudeabides: turn 16 ----------
+dudeabides - duration Lighthouse
+dudeabides - plays Armory
+dudeabides - gains Silk Road
+dudeabides - plays 2 Copper
+dudeabides - buys Estate
+dudeabides - gains Estate
+dudeabides - draws Silk Road, Shanty Town, Gardens, Shanty Town, Lighthouse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Armory
+Titandrake - gains Silk Road
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silk Road, Shanty Town, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- dudeabides: turn 17 ----------
+dudeabides - plays Shanty Town
+dudeabides - reveals Silk Road, Shanty Town, Gardens, Lighthouse
+dudeabides - plays Lighthouse
+dudeabides - plays Shanty Town
+dudeabides - reveals Silk Road, Gardens
+dudeabides - draws Copper, Lighthouse
+dudeabides - plays Lighthouse
+dudeabides - plays 1 Copper
+dudeabides - buys Estate
+dudeabides - gains Estate
+dudeabides - draws Silk Road, Gardens, Shanty Town, Duchy, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Shanty Town
+Titandrake - reveals Silk Road, Copper, Copper, Silver
+Titandrake - draws Armory, Copper
+Titandrake - plays Armory
+Titandrake - gains Silk Road
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silk Road, Gardens, Gardens, Copper, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Armory, 3 Shanty Town, 3 Lighthouse, 1 Bureaucrat, 8 Copper, 3 Silver, 6 Estate, 5 Silk Road, 4 Gardens, 1 Duchy, 1 Fairgrounds
+Titandrake - total victory points: 49
+Titandrake - turns: 18
+ 
+dudeabides - cards: 5 Shanty Town, 5 Armory, 3 Lighthouse, 1 Scout, 1 Bureaucrat, 8 Copper, 2 Silver, 6 Estate, 4 Gardens, 3 Silk Road, 1 Duchy
+dudeabides - total victory points: 30
+dudeabides - turns: 17
+ 
+1st place: Titandrake
+2nd place: dudeabides
+ 

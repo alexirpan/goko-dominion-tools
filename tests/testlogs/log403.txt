@@ -1,0 +1,312 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Smugglers, Spy, Treasure Map, Wandering Minstrel, Bazaar, Council Room, Junk Dealer, Mandarin, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+TryAgainLater - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+TryAgainLater - shuffles deck
+Titandrake - shuffles deck
+TryAgainLater - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- TryAgainLater: turn 1 ----------
+TryAgainLater - plays 4 Copper
+TryAgainLater - buys Treasure Map
+TryAgainLater - gains Treasure Map
+TryAgainLater - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- TryAgainLater: turn 2 ----------
+TryAgainLater - plays 3 Copper
+TryAgainLater - buys Silver
+TryAgainLater - gains Silver
+TryAgainLater - shuffles deck
+TryAgainLater - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Copper, Silver
+ 
+---------- TryAgainLater: turn 3 ----------
+TryAgainLater - plays 3 Copper
+TryAgainLater - buys Silver
+TryAgainLater - gains Silver
+TryAgainLater - draws Copper, Silver, Copper, Treasure Map, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Wandering Minstrel
+Titandrake - gains Wandering Minstrel
+Titandrake - draws Embargo, Copper, Copper, Copper, Copper
+ 
+---------- TryAgainLater: turn 4 ----------
+TryAgainLater - plays 2 Copper, 1 Silver
+TryAgainLater - buys Treasure Map
+TryAgainLater - gains Treasure Map
+TryAgainLater - draws Copper, Copper
+TryAgainLater - shuffles deck
+TryAgainLater - draws Silver, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Embargo
+Titandrake - trashes Embargo
+Titandrake - plays 4 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Junk Dealer, Copper, Silver
+ 
+---------- TryAgainLater: turn 5 ----------
+TryAgainLater - plays 4 Copper, 1 Silver
+TryAgainLater - buys Junk Dealer
+TryAgainLater - gains Junk Dealer
+TryAgainLater - draws Estate, Copper, Silver, Estate, Treasure Map
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Wandering Minstrel, Copper, Estate, Copper
+ 
+---------- TryAgainLater: turn 6 ----------
+TryAgainLater - plays 1 Copper, 1 Silver
+TryAgainLater - buys Silver
+TryAgainLater - gains Silver
+TryAgainLater - draws Copper, Copper, Estate, Treasure Map
+TryAgainLater - shuffles deck
+TryAgainLater - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Silver, Copper
+Titandrake - discards: Copper, Silver, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Nobles, Copper, Copper, Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- TryAgainLater: turn 7 ----------
+TryAgainLater - plays 3 Copper
+TryAgainLater - buys Silver
+TryAgainLater - gains Silver
+TryAgainLater - draws Treasure Map, Copper, Silver, Silver, Junk Dealer
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Nobles
+Titandrake - draws Silver, Silver, Copper
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Estate, Wandering Minstrel, Copper, Estate, Copper
+ 
+---------- TryAgainLater: turn 8 ----------
+TryAgainLater - plays Junk Dealer
+TryAgainLater - draws Copper
+TryAgainLater - trashes Copper
+TryAgainLater - plays 2 Silver, 1 Copper
+TryAgainLater - buys Junk Dealer
+TryAgainLater - gains Junk Dealer
+TryAgainLater - draws Estate, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - shuffles deck
+Titandrake - draws Nobles
+Titandrake - reveals: Copper, Copper, Silver
+Titandrake - discards: Copper, Copper, Silver
+Titandrake - plays Nobles
+Titandrake - draws Copper, Nobles, Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Junk Dealer, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- TryAgainLater: turn 9 ----------
+TryAgainLater - plays 2 Copper, 1 Silver
+TryAgainLater - buys Wandering Minstrel
+TryAgainLater - gains Wandering Minstrel
+TryAgainLater - shuffles deck
+TryAgainLater - draws Copper, Silver, Silver, Estate, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Council Room
+Titandrake - trashes Estate
+Titandrake - plays Council Room
+Titandrake - draws Copper, Estate, Copper, Wandering Minstrel
+TryAgainLater - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Nobles, Silver, Silver, Nobles
+ 
+---------- TryAgainLater: turn 10 ----------
+TryAgainLater - plays 3 Silver, 2 Copper
+TryAgainLater - buys Nobles
+TryAgainLater - gains Nobles
+TryAgainLater - draws Copper, Treasure Map, Estate, Wandering Minstrel, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - shuffles deck
+Titandrake - draws Junk Dealer, Estate, Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Copper, Copper, Wandering Minstrel, Nobles
+ 
+---------- TryAgainLater: turn 11 ----------
+TryAgainLater - plays Wandering Minstrel
+TryAgainLater - draws Copper
+TryAgainLater - reveals: Junk Dealer, Junk Dealer, Treasure Map
+TryAgainLater - places Treasure Map on top of deck
+TryAgainLater - places Junk Dealer on top of deck
+TryAgainLater - places Junk Dealer on top of deck
+TryAgainLater - plays 2 Copper, 1 Silver
+TryAgainLater - buys Wandering Minstrel
+TryAgainLater - gains Wandering Minstrel
+TryAgainLater - draws Junk Dealer, Junk Dealer, Treasure Map, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Council Room
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Junk Dealer, Silver
+Titandrake - places Junk Dealer on top of deck
+Titandrake - discards: Copper, Silver
+Titandrake - plays Council Room
+Titandrake - draws Junk Dealer, Nobles, Nobles, Nobles
+TryAgainLater - draws Estate
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Silver
+Titandrake - plays 5 Copper, 2 Silver
+Titandrake - buys Treasure Map
+Titandrake - gains Treasure Map
+Titandrake - buys Treasure Map
+Titandrake - gains Treasure Map
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Copper, Nobles, Copper
+ 
+---------- TryAgainLater: turn 12 ----------
+TryAgainLater - plays Junk Dealer
+TryAgainLater - shuffles deck
+TryAgainLater - draws Copper
+TryAgainLater - trashes Estate
+TryAgainLater - plays Junk Dealer
+TryAgainLater - draws Copper
+TryAgainLater - trashes Copper
+TryAgainLater - plays 3 Copper
+TryAgainLater - buys Council Room
+TryAgainLater - gains Council Room
+TryAgainLater - draws Silver, Estate, Silver, Copper, Wandering Minstrel
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Nobles
+Titandrake - draws Treasure Map, Copper, Copper
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Treasure Map, Nobles, Council Room, Copper, Nobles
+ 
+---------- TryAgainLater: turn 13 ----------
+TryAgainLater - plays Wandering Minstrel
+TryAgainLater - draws Treasure Map
+TryAgainLater - reveals: Wandering Minstrel, Silver, Estate
+TryAgainLater - places Wandering Minstrel on top of deck
+TryAgainLater - discards: Silver, Estate
+TryAgainLater - plays 2 Silver, 1 Copper
+TryAgainLater - buys Wandering Minstrel
+TryAgainLater - gains Wandering Minstrel
+TryAgainLater - draws Wandering Minstrel, Copper, Silver, Nobles
+TryAgainLater - shuffles deck
+TryAgainLater - draws Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Council Room
+Titandrake - draws Wandering Minstrel, Junk Dealer, Nobles
+Titandrake - shuffles deck
+Titandrake - draws Copper
+TryAgainLater - draws Copper
+Titandrake - plays Wandering Minstrel
+Titandrake - draws Nobles
+Titandrake - reveals: Silver, Copper, Copper
+Titandrake - discards: Silver, Copper, Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Treasure Map
+Titandrake - trashes Copper
+Titandrake - plays Treasure Map
+Titandrake - trashes Treasure Map, Treasure Map
+Titandrake - gains Gold
+Titandrake - gains Gold
+Titandrake - gains Gold
+Titandrake - gains Gold
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Nobles
+Titandrake - draws Gold, Gold, Gold
+Titandrake - plays Nobles
+Titandrake - draws Gold, Province, Copper
+Titandrake - plays 4 Gold, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Nobles, Copper, Province, Province
+ 
+---------- TryAgainLater: turn 14 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Nobles, 1 Council Room, 1 Junk Dealer, 1 Wandering Minstrel, 4 Copper, 4 Gold, 2 Silver, 2 Province
+Titandrake - total victory points: 22
+Titandrake - turns: 13
+ 
+TryAgainLater - resigned
+TryAgainLater - cards: 3 Wandering Minstrel, 2 Treasure Map, 2 Junk Dealer, 1 Nobles, 1 Council Room, 5 Copper, 4 Silver, 2 Estate
+TryAgainLater - total victory points: 4
+TryAgainLater - turns: 13
+ 
+1st place: Titandrake
+2nd place: TryAgainLater
+ 

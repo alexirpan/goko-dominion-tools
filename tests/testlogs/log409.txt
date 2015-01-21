@@ -1,0 +1,505 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Great Hall, Conspirator, Feast, Fortress, Throne Room, Treasure Map, Junk Dealer, Possession, Expand, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+lightbulb - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+lightbulb - shuffles deck
+Titandrake - shuffles deck
+lightbulb - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 1 ----------
+lightbulb - plays 3 Copper
+lightbulb - buys Great Hall
+lightbulb - gains Great Hall
+lightbulb - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- lightbulb: turn 2 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Conspirator
+lightbulb - gains Conspirator
+lightbulb - shuffles deck
+lightbulb - draws Estate, Copper, Copper, Copper, Great Hall
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- lightbulb: turn 3 ----------
+lightbulb - plays Great Hall
+lightbulb - draws Estate
+lightbulb - plays 3 Copper
+lightbulb - buys Crossroads
+lightbulb - gains Crossroads
+lightbulb - draws Conspirator, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Copper, Silver, Estate, Copper, Copper
+ 
+---------- lightbulb: turn 4 ----------
+lightbulb - plays Conspirator
+lightbulb - plays 3 Copper
+lightbulb - buys Junk Dealer
+lightbulb - gains Junk Dealer
+lightbulb - draws Copper
+lightbulb - shuffles deck
+lightbulb - draws Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Conspirator, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper
+ 
+---------- lightbulb: turn 5 ----------
+lightbulb - plays 4 Copper
+lightbulb - buys Throne Room
+lightbulb - gains Throne Room
+lightbulb - draws Great Hall, Copper, Junk Dealer, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Conspirator
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Expand
+Titandrake - gains Expand
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- lightbulb: turn 6 ----------
+lightbulb - plays Great Hall
+lightbulb - draws Conspirator
+lightbulb - plays Junk Dealer
+lightbulb - draws Copper
+lightbulb - trashes Copper
+lightbulb - plays Conspirator
+lightbulb - draws Estate
+lightbulb - plays 2 Copper
+lightbulb - buys Junk Dealer
+lightbulb - gains Junk Dealer
+lightbulb - draws Crossroads
+lightbulb - shuffles deck
+lightbulb - draws Copper, Junk Dealer, Copper, Junk Dealer
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Estate, Copper, Crossroads, Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Silver
+ 
+---------- lightbulb: turn 7 ----------
+lightbulb - plays Junk Dealer
+lightbulb - draws Estate
+lightbulb - trashes Copper
+lightbulb - plays Junk Dealer
+lightbulb - draws Estate
+lightbulb - trashes Copper
+lightbulb - plays Crossroads
+lightbulb - reveals hand: Estate, Estate
+lightbulb - draws Copper, Great Hall
+lightbulb - plays Great Hall
+lightbulb - draws Conspirator
+lightbulb - plays Conspirator
+lightbulb - draws Copper
+lightbulb - plays 2 Copper
+lightbulb - buys Conspirator
+lightbulb - gains Conspirator
+lightbulb - draws Copper, Copper, Throne Room, Estate
+lightbulb - shuffles deck
+lightbulb - draws Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Estate, Copper, Junk Dealer, Silver
+Titandrake - draws Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Expand
+Titandrake - trashes Copper
+Titandrake - plays Expand
+Titandrake - trashes Estate
+Titandrake - gains Conspirator
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- lightbulb: turn 8 ----------
+lightbulb - plays 2 Copper
+lightbulb - buys Crossroads
+lightbulb - gains Crossroads
+lightbulb - draws Estate, Conspirator, Crossroads, Junk Dealer, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Conspirator, Great Hall, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- lightbulb: turn 9 ----------
+lightbulb - plays Junk Dealer
+lightbulb - draws Junk Dealer
+lightbulb - trashes Copper
+lightbulb - plays Crossroads
+lightbulb - reveals hand: Estate, Conspirator, Junk Dealer
+lightbulb - draws Copper
+lightbulb - plays Conspirator
+lightbulb - draws Great Hall
+lightbulb - plays Great Hall
+lightbulb - draws Conspirator
+lightbulb - plays Conspirator
+lightbulb - shuffles deck
+lightbulb - draws Copper
+lightbulb - plays Junk Dealer
+lightbulb - draws Copper
+lightbulb - trashes Copper
+lightbulb - plays 2 Copper
+lightbulb - buys Potion
+lightbulb - gains Potion
+lightbulb - draws Estate, Crossroads, Estate, Throne Room
+lightbulb - shuffles deck
+lightbulb - draws Crossroads
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - plays 4 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Estate, Potion, Estate, Expand, Crossroads
+ 
+---------- lightbulb: turn 10 ----------
+lightbulb - plays Throne Room
+lightbulb - plays Crossroads
+lightbulb - reveals hand: Estate, Estate, Crossroads
+lightbulb - draws Copper, Conspirator
+lightbulb - plays Crossroads
+lightbulb - reveals hand: Copper, Conspirator, Estate, Estate, Crossroads
+lightbulb - draws Junk Dealer, Junk Dealer
+lightbulb - plays Conspirator
+lightbulb - draws Copper
+lightbulb - plays Crossroads
+lightbulb - reveals hand: Junk Dealer, Junk Dealer, Copper, Estate, Estate, Copper
+lightbulb - draws Estate, Great Hall
+lightbulb - plays Great Hall
+lightbulb - draws Conspirator
+lightbulb - plays Conspirator
+lightbulb - draws Potion
+lightbulb - plays Junk Dealer
+lightbulb - trashes Copper
+lightbulb - plays Junk Dealer
+lightbulb - trashes Estate
+lightbulb - plays 1 Copper, 1 Potion
+lightbulb - buys Possession
+lightbulb - gains Possession
+lightbulb - shuffles deck
+lightbulb - draws Crossroads, Possession, Potion, Estate, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Estate, Potion, Estate, Expand
+Titandrake - draws Junk Dealer, Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Estate
+Titandrake - plays Expand
+Titandrake - trashes Estate
+Titandrake - gains Conspirator
+Titandrake - plays 1 Potion, 1 Copper, 1 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Conspirator, Copper
+Titandrake - shuffles deck
+Titandrake - draws Crossroads, Copper, Great Hall
+ 
+---------- lightbulb: turn 11 ----------
+lightbulb - plays Crossroads
+lightbulb - reveals hand: Possession, Potion, Estate, Estate
+lightbulb - draws Great Hall, Throne Room
+lightbulb - plays Great Hall
+lightbulb - draws Junk Dealer
+lightbulb - plays Junk Dealer
+lightbulb - draws Conspirator
+lightbulb - trashes Estate
+lightbulb - plays Conspirator
+lightbulb - draws Junk Dealer
+lightbulb - plays Junk Dealer
+lightbulb - draws Crossroads
+lightbulb - trashes Crossroads
+lightbulb - plays Throne Room
+lightbulb - plays Possession
+lightbulb - plays Possession
+lightbulb - plays 1 Potion
+lightbulb - buys Conspirator
+lightbulb - gains Conspirator
+lightbulb - draws Copper, Conspirator
+lightbulb - shuffles deck
+lightbulb - draws Junk Dealer, Conspirator, Throne Room
+ 
+---------- Titandrake: turn 11 [possessed] ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Conspirator, Copper, Copper, Great Hall
+Titandrake - draws Junk Dealer
+Titandrake - plays Great Hall
+Titandrake - draws Conspirator
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Province
+lightbulb - gains Province
+Titandrake - draws Copper, Potion, Expand, Throne Room, Great Hall
+ 
+---------- Titandrake: turn 11 [possessed] ----------
+Titandrake - plays Throne Room
+Titandrake - plays Great Hall
+Titandrake - draws Junk Dealer
+Titandrake - plays Great Hall
+Titandrake - draws Silver
+Titandrake - plays Expand
+Titandrake - trashes Junk Dealer
+lightbulb - gains Province
+Titandrake - plays 1 Copper, 1 Potion, 1 Silver
+Titandrake - buys Great Hall
+lightbulb - gains Great Hall
+Titandrake - shuffles deck
+Titandrake - draws Copper, Crossroads, Silver, Conspirator, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Conspirator
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Conspirator, Great Hall, Copper, Copper, Conspirator
+ 
+---------- lightbulb: turn 12 ----------
+lightbulb - plays Junk Dealer
+lightbulb - draws Estate
+lightbulb - trashes Copper
+lightbulb - plays Throne Room
+lightbulb - plays Conspirator
+lightbulb - draws Conspirator
+lightbulb - plays Conspirator
+lightbulb - draws Possession
+lightbulb - plays Conspirator
+lightbulb - draws Great Hall
+lightbulb - plays Great Hall
+lightbulb - draws Junk Dealer
+lightbulb - plays Conspirator
+lightbulb - draws Potion
+lightbulb - plays Junk Dealer
+lightbulb - draws Crossroads
+lightbulb - trashes Estate
+lightbulb - plays Possession
+lightbulb - plays Crossroads
+lightbulb - reveals hand: Potion
+lightbulb - plays 1 Potion
+lightbulb - buys Province
+lightbulb - gains Province
+lightbulb - shuffles deck
+lightbulb - draws Possession, Conspirator, Province, Junk Dealer, Province
+ 
+---------- Titandrake: turn 12 [possessed] ----------
+Titandrake - plays Great Hall
+Titandrake - draws Junk Dealer
+Titandrake - plays Junk Dealer
+Titandrake - draws Potion
+Titandrake - trashes Copper
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Throne Room
+Titandrake - plays Throne Room
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Possession
+lightbulb - gains Possession
+Titandrake - draws Expand, Copper, Great Hall
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Potion
+Titandrake - plays Expand
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Throne Room, Copper, Silver, Junk Dealer, Conspirator
+ 
+---------- lightbulb: turn 13 ----------
+lightbulb - plays Possession
+lightbulb - draws Crossroads, Conspirator, Great Hall, Junk Dealer, Great Hall
+ 
+---------- Titandrake: turn 13 [possessed] ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Junk Dealer
+Titandrake - trashes Copper
+Titandrake - plays Throne Room
+Titandrake - plays Conspirator
+Titandrake - draws Crossroads
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Great Hall
+Titandrake - trashes Copper
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Silver, Great Hall
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Great Hall
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+lightbulb - gains Province
+Titandrake - draws Expand, Copper, Crossroads, Potion, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Expand, Copper, Potion, Province
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Expand
+Titandrake - trashes Potion
+Titandrake - gains Duchy
+Titandrake - plays 2 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Throne Room, Junk Dealer, Great Hall, Copper, Conspirator
+ 
+---------- lightbulb: turn 14 ----------
+lightbulb - plays Crossroads
+lightbulb - reveals hand: Conspirator, Great Hall, Junk Dealer, Great Hall
+lightbulb - draws Province, Conspirator
+lightbulb - plays Great Hall
+lightbulb - draws Potion
+lightbulb - plays Great Hall
+lightbulb - draws Throne Room
+lightbulb - plays Conspirator
+lightbulb - shuffles deck
+lightbulb - draws Possession
+lightbulb - plays Throne Room
+lightbulb - plays Conspirator
+lightbulb - draws Province
+lightbulb - plays Conspirator
+lightbulb - draws Junk Dealer
+lightbulb - plays Junk Dealer
+lightbulb - draws Province
+lightbulb - trashes Junk Dealer
+lightbulb - plays Possession
+lightbulb - plays 1 Potion
+lightbulb - buys Conspirator
+lightbulb - gains Conspirator
+lightbulb - draws Conspirator, Province, Possession
+lightbulb - shuffles deck
+lightbulb - draws Province, Crossroads
+ 
+---------- Titandrake: turn 14 [possessed] ----------
+Titandrake - plays Great Hall
+Titandrake - draws Province
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Throne Room
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Province
+lightbulb - gains Province
+Titandrake - draws Crossroads, Duchy, Copper, Conspirator, Crossroads
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Duchy, Copper, Conspirator, Crossroads
+Titandrake - draws Copper
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Duchy, Copper, Conspirator
+Titandrake - draws Silver
+Titandrake - plays Conspirator
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Junk Dealer
+Titandrake - plays Junk Dealer
+Titandrake - draws Expand
+Titandrake - trashes Copper
+Titandrake - plays Expand
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Crossroads, Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Expand, Crossroads, Conspirator
+ 
+---------- lightbulb: turn 15 ----------
+lightbulb - plays Crossroads
+lightbulb - reveals hand: Conspirator, Province, Possession, Province
+lightbulb - draws Junk Dealer, Great Hall
+lightbulb - plays Great Hall
+lightbulb - draws Province
+lightbulb - plays Conspirator
+lightbulb - draws Province
+lightbulb - plays Possession
+lightbulb - buys Crossroads
+lightbulb - gains Crossroads
+lightbulb - draws Conspirator, Possession, Great Hall, Potion, Conspirator
+ 
+---------- Titandrake: turn 15 [possessed] ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Crossroads, Conspirator, Expand, Conspirator
+Titandrake - plays Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Junk Dealer
+Titandrake - plays Expand
+Titandrake - trashes Junk Dealer
+lightbulb - gains Province
+Titandrake - buys Estate
+lightbulb - gains Estate
+Titandrake - draws Conspirator, Throne Room, Junk Dealer, Copper, Copper
+ 
+------------ Game Over ------------
+lightbulb - cards: 4 Conspirator, 2 Great Hall, 2 Possession, 2 Crossroads, 1 Junk Dealer, 1 Throne Room, 1 Potion, 6 Province, 1 Estate
+lightbulb - total victory points: 39
+lightbulb - turns: 15
+ 
+Titandrake - cards: 3 Conspirator, 3 Crossroads, 2 Great Hall, 2 Junk Dealer, 1 Throne Room, 1 Expand, 5 Copper, 1 Silver, 2 Province, 1 Duchy
+Titandrake - total victory points: 17
+Titandrake - turns: 14
+ 
+1st place: lightbulb
+2nd place: Titandrake
+ 

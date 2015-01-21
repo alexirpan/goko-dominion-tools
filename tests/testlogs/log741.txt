@@ -1,0 +1,339 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Chapel, Chancellor, Woodcutter, Feast, Moneylender, Thief, Festival, Market, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Domainerror - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Domainerror - shuffles deck
+Titandrake - shuffles deck
+Domainerror - draws Copper, Copper, Estate, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Domainerror: turn 1 ----------
+Domainerror - plays 3 Copper
+Domainerror - buys Silver
+Domainerror - gains Silver
+Domainerror - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Chapel
+Titandrake - gains Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Market, Estate, Estate
+ 
+---------- Domainerror: turn 2 ----------
+Domainerror - plays 4 Copper
+Domainerror - buys Moneylender
+Domainerror - gains Moneylender
+Domainerror - shuffles deck
+Domainerror - draws Copper, Copper, Copper, Moneylender, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Chapel
+ 
+---------- Domainerror: turn 3 ----------
+Domainerror - plays Moneylender
+Domainerror - trashes Copper
+Domainerror - plays 3 Copper
+Domainerror - buys Hoard
+Domainerror - gains Hoard
+Domainerror - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper, Copper, Copper
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Chapel, Estate, Market, Copper
+ 
+---------- Domainerror: turn 4 ----------
+Domainerror - plays 3 Copper
+Domainerror - buys Silver
+Domainerror - gains Silver
+Domainerror - draws Silver, Estate
+Domainerror - shuffles deck
+Domainerror - draws Hoard, Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays Chapel
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Market
+ 
+---------- Domainerror: turn 5 ----------
+Domainerror - plays 1 Silver, 1 Copper
+Domainerror - plays Hoard
+Domainerror - buys Duchy
+Domainerror - gains Gold
+Domainerror - gains Duchy
+Domainerror - draws Copper, Copper, Silver, Copper, Moneylender
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Market
+Titandrake - draws Chapel
+Titandrake - plays Chapel
+Titandrake - trashes Estate, Copper, Copper
+Titandrake - plays 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Market, Silver
+ 
+---------- Domainerror: turn 6 ----------
+Domainerror - plays Moneylender
+Domainerror - trashes Copper
+Domainerror - plays 2 Copper, 1 Silver
+Domainerror - buys Gold
+Domainerror - gains Gold
+Domainerror - draws Copper, Copper, Estate
+Domainerror - shuffles deck
+Domainerror - draws Hoard, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - draws Chapel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver, Market
+ 
+---------- Domainerror: turn 7 ----------
+Domainerror - plays 3 Copper
+Domainerror - plays Hoard
+Domainerror - buys Duchy
+Domainerror - gains Gold
+Domainerror - gains Duchy
+Domainerror - draws Estate, Silver, Moneylender, Silver, Duchy
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Chapel
+Titandrake - trashes Copper
+Titandrake - plays 3 Silver
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Copper, Hoard
+Titandrake - shuffles deck
+Titandrake - draws Festival, Silver, Market
+ 
+---------- Domainerror: turn 8 ----------
+Domainerror - plays 2 Silver
+Domainerror - buys Thief
+Domainerror - gains Thief
+Domainerror - draws Gold, Copper, Gold, Estate, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Market
+Titandrake - draws Silver
+Titandrake - plays Festival
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - plays Hoard
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Gold
+Titandrake - gains Estate
+Titandrake - draws Chapel, Silver
+Titandrake - shuffles deck
+Titandrake - draws Province, Copper, Hoard
+ 
+---------- Domainerror: turn 9 ----------
+Domainerror - plays 2 Gold, 2 Copper
+Domainerror - buys Province
+Domainerror - gains Province
+Domainerror - shuffles deck
+Domainerror - draws Hoard, Copper, Gold, Duchy, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Silver, Market, Gold, Silver, Festival
+ 
+---------- Domainerror: turn 10 ----------
+Domainerror - plays 1 Copper, 1 Gold, 1 Silver
+Domainerror - plays Hoard
+Domainerror - buys Province
+Domainerror - gains Gold
+Domainerror - gains Province
+Domainerror - draws Duchy, Gold, Province, Silver, Gold
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Market
+Titandrake - draws Estate
+Titandrake - plays Festival
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Chapel, Estate
+ 
+---------- Domainerror: turn 11 ----------
+Domainerror - plays 2 Gold, 1 Silver
+Domainerror - buys Province
+Domainerror - gains Province
+Domainerror - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 1 Gold, 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Festival, Province, Duchy, Market
+ 
+---------- Domainerror: turn 12 ----------
+Domainerror - plays 3 Copper
+Domainerror - buys Estate
+Domainerror - gains Estate
+Domainerror - draws Copper, Estate, Thief, Moneylender
+Domainerror - shuffles deck
+Domainerror - draws Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays Festival
+Titandrake - plays 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Hoard, Silver, Silver, Province
+Titandrake - shuffles deck
+Titandrake - draws Market
+ 
+---------- Domainerror: turn 13 ----------
+Domainerror - plays Moneylender
+Domainerror - trashes Copper
+Domainerror - plays 1 Silver
+Domainerror - buys Duchy
+Domainerror - gains Duchy
+Domainerror - draws Estate, Gold, Silver, Province, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Market
+Titandrake - draws Gold
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Gold, Festival, Estate, Province, Copper
+ 
+---------- Domainerror: turn 14 ----------
+Domainerror - plays 1 Gold, 1 Silver, 1 Copper
+Domainerror - buys Duchy
+Domainerror - gains Duchy
+Domainerror - draws Duchy, Estate, Gold, Copper, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Festival
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province, Silver, Duchy, Gold, Chapel
+ 
+---------- Domainerror: turn 15 ----------
+Domainerror - plays 2 Gold, 1 Copper
+Domainerror - buys Gold
+Domainerror - gains Gold
+Domainerror - draws Copper, Province, Province, Hoard, Estate
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Market
+Titandrake - gains Market
+Titandrake - draws Duchy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Duchy, Gold, Gold
+ 
+---------- Domainerror: turn 16 ----------
+Domainerror - plays 1 Copper
+Domainerror - plays Hoard
+Domainerror - buys Estate
+Domainerror - gains Gold
+Domainerror - gains Estate
+Domainerror - draws Gold, Copper, Duchy
+Domainerror - shuffles deck
+Domainerror - draws Province, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Gold, Province, Copper, Province
+ 
+---------- Domainerror: turn 17 ----------
+Domainerror - plays 2 Copper, 1 Gold
+Domainerror - buys Estate
+Domainerror - gains Estate
+Domainerror - draws Thief, Gold, Province, Moneylender, Duchy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Duchy, Silver, Hoard, Market, Gold
+ 
+---------- Domainerror: turn 18 ----------
+Domainerror - plays Thief
+Titandrake - reveals: Estate, Gold
+Titandrake - trashes Gold
+Titandrake - discards Estate
+Domainerror - gains Gold
+Domainerror - plays 1 Gold
+Domainerror - buys Silver
+Domainerror - gains Silver
+Domainerror - draws Copper, Silver, Gold, Duchy, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Market
+Titandrake - draws Market
+Titandrake - plays Market
+Titandrake - draws Chapel
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - plays Hoard
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Gold, Silver, Festival, Duchy
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Market, 1 Festival, 1 Chapel, 6 Gold, 4 Silver, 1 Hoard, 1 Copper, 5 Province, 4 Duchy, 1 Estate
+Titandrake - total victory points: 43
+Titandrake - turns: 19
+ 
+Domainerror - cards: 1 Thief, 1 Moneylender, 7 Gold, 4 Copper, 3 Silver, 1 Hoard, 6 Estate, 4 Duchy, 3 Province
+Domainerror - total victory points: 36
+Domainerror - turns: 18
+ 
+1st place: Titandrake
+2nd place: Domainerror
+ 

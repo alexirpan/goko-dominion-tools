@@ -1,0 +1,895 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Urchin, Baron, Fortress, Noble Brigand, Quarry, Counting House, Duke, Minion, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+SheCantSayNo - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - shuffles deck
+Titandrake - shuffles deck
+SheCantSayNo - draws Hovel, Copper, Necropolis, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper, Hovel, Necropolis, Copper, Overgrown Estate
+ 
+---------- SheCantSayNo: turn 1 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Urchin
+SheCantSayNo - gains Urchin
+SheCantSayNo - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Minion, Copper, Copper
+ 
+---------- SheCantSayNo: turn 2 ----------
+SheCantSayNo - plays 4 Copper
+SheCantSayNo - buys Urchin
+SheCantSayNo - gains Urchin
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Minion
+Titandrake - discards: Copper, Copper, Copper, Copper
+Titandrake - draws Overgrown Estate, Necropolis, Copper, Copper
+SheCantSayNo - discards: Copper, Copper, Copper, Copper, Copper
+SheCantSayNo - draws Hovel, Copper, Overgrown Estate, Urchin
+Titandrake - draws Copper, Hovel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 3 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Necropolis
+Titandrake - discards Hovel
+SheCantSayNo - plays Necropolis
+SheCantSayNo - draws Urchin, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Copper, Urchin
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper, Necropolis, Copper, Minion, Copper
+ 
+---------- SheCantSayNo: turn 4 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Necropolis
+Titandrake - discards Copper
+SheCantSayNo - plays Urchin
+SheCantSayNo - trashes Urchin
+SheCantSayNo - gains Mercenary
+SheCantSayNo - draws Hovel
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Urchin
+SheCantSayNo - gains Urchin
+SheCantSayNo - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Minion
+Titandrake - discards: Copper, Copper
+Titandrake - draws Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hovel, Copper
+SheCantSayNo - discards: Copper, Copper, Copper, Overgrown Estate, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Hovel, Mercenary, Overgrown Estate, Copper
+Titandrake - draws Copper, Urchin, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 5 ----------
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Overgrown Estate, Hovel
+SheCantSayNo - draws Urchin
+SheCantSayNo - draws Copper, Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - draws Copper, Copper, Copper, Urchin, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Urchin
+Titandrake - draws Copper
+SheCantSayNo - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Minion, Copper, Copper
+ 
+---------- SheCantSayNo: turn 6 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Necropolis
+Titandrake - discards Copper
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Urchin
+SheCantSayNo - gains Urchin
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Urchin, Copper, Copper, Fortress, Necropolis
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 3 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Overgrown Estate, Necropolis, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 7 ----------
+SheCantSayNo - plays Necropolis
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Urchin
+Titandrake - discards Overgrown Estate
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Urchin
+SheCantSayNo - trashes Urchin
+SheCantSayNo - gains Mercenary
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Copper, Copper
+SheCantSayNo - draws Copper, Copper
+Titandrake - discards Necropolis
+SheCantSayNo - plays 3 Copper
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - draws Copper, Urchin, Copper
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Copper, Fortress
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Urchin, Hovel, Urchin
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+---------- SheCantSayNo: turn 8 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Mercenary
+Titandrake - discards Hovel
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Necropolis
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Copper, Copper
+SheCantSayNo - draws Mercenary, Urchin
+Titandrake - discards Copper
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Copper
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Necropolis, Copper
+SheCantSayNo - draws Copper
+SheCantSayNo - plays 2 Copper
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Mercenary, Copper, Fortress, Copper, Urchin
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Urchin
+Titandrake - draws Minion
+SheCantSayNo - discards Urchin
+Titandrake - plays Urchin
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - draws Copper
+Titandrake - plays Minion
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - takes 2 coins
+Titandrake - plays 2 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Overgrown Estate, Copper, Copper, Urchin, Copper
+ 
+---------- SheCantSayNo: turn 9 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Copper, Copper
+SheCantSayNo - draws Fortress, Urchin
+Titandrake - discards Overgrown Estate
+Titandrake - discards Copper
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Urchin
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Urchin, Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Urchin, Fortress, Mercenary, Fortress, Mercenary
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Urchin
+Titandrake - draws Necropolis
+SheCantSayNo - discards Mercenary
+Titandrake - draws Copper, Minion
+Titandrake - shuffles deck
+Titandrake - draws Minion, Copper, Mercenary
+ 
+---------- SheCantSayNo: turn 10 ----------
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Fortress
+Titandrake - discards Minion
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Urchin
+SheCantSayNo - gains Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Mercenary, Mercenary
+Titandrake - discards Minion
+SheCantSayNo - plays Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - buys Minion
+SheCantSayNo - gains Minion
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Mercenary, Mercenary, Mercenary, Minion
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Necropolis, Copper
+SheCantSayNo - discards Mercenary
+SheCantSayNo - discards Mercenary
+Titandrake - draws Copper, Copper, Copper, Hovel, Fortress
+ 
+---------- SheCantSayNo: turn 11 ----------
+SheCantSayNo - plays Minion
+SheCantSayNo - discards: Fortress, Mercenary
+SheCantSayNo - draws Fortress, Fortress, Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Mercenary
+Titandrake - discards: Copper, Copper, Copper, Hovel, Fortress
+Titandrake - draws Urchin, Mercenary, Copper, Overgrown Estate
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Fortress, Mercenary
+Titandrake - discards Copper
+SheCantSayNo - plays Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Fortress, Fortress, Fortress, Mercenary
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Urchin
+Titandrake - shuffles deck
+Titandrake - draws Copper
+SheCantSayNo - discards Fortress
+Titandrake - plays Mercenary
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - trashes Copper, Overgrown Estate
+Titandrake - draws Hovel
+Titandrake - draws Mercenary, Copper
+SheCantSayNo - discards Fortress
+Titandrake - plays 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Fortress, Minion, Copper, Copper, Copper
+ 
+---------- SheCantSayNo: turn 12 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Mercenary, Fortress
+SheCantSayNo - draws Minion, Fortress
+Titandrake - discards Copper
+Titandrake - discards Copper
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Minion
+SheCantSayNo - discards: Fortress, Mercenary
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Mercenary, Fortress, Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - buys Urchin
+SheCantSayNo - gains Urchin
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Fortress, Urchin, Mercenary, Minion
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Fortress
+Titandrake - draws Necropolis
+Titandrake - plays Necropolis
+Titandrake - plays Minion
+Titandrake - discards Copper
+Titandrake - draws Minion
+Titandrake - shuffles deck
+Titandrake - draws Hovel, Copper, Mercenary
+SheCantSayNo - discards: Fortress, Fortress, Urchin, Mercenary, Minion
+SheCantSayNo - draws Fortress, Fortress, Fortress, Mercenary
+Titandrake - plays Mercenary
+Titandrake - trashes Hovel, Copper
+Titandrake - draws Copper, Copper
+SheCantSayNo - discards Fortress
+Titandrake - plays Minion
+Titandrake - discards: Copper, Copper
+Titandrake - draws Silver, Copper, Mercenary, Mercenary
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - shuffles deck
+Titandrake - draws Minion, Necropolis, Minion, Mercenary, Minion
+ 
+---------- SheCantSayNo: turn 13 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Fortress, Urchin
+Titandrake - discards Necropolis
+Titandrake - discards Mercenary
+SheCantSayNo - plays Urchin
+SheCantSayNo - draws Minion
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Urchin
+SheCantSayNo - gains Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - buys Minion
+SheCantSayNo - gains Minion
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Mercenary, Fortress, Fortress, Mercenary, Mercenary
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - draws Copper, Mercenary, Copper, Mercenary
+SheCantSayNo - discards: Mercenary, Fortress, Fortress, Mercenary, Mercenary
+SheCantSayNo - draws Fortress, Minion, Fortress, Fortress
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Fortress
+Titandrake - shuffles deck
+Titandrake - draws Mercenary
+SheCantSayNo - discards Fortress
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Mercenary, Fortress, Minion, Minion
+ 
+---------- SheCantSayNo: turn 14 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Minion
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Minion
+SheCantSayNo - discards Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Mercenary, Fortress, Fortress, Mercenary
+Titandrake - discards: Necropolis, Mercenary, Fortress, Minion, Minion
+Titandrake - draws Mercenary, Mercenary, Minion, Minion
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Fortress, Mercenary
+Titandrake - discards Mercenary
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - buys Baron
+SheCantSayNo - gains Baron
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Fortress, Fortress, Mercenary, Baron
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Minion, Necropolis, Mercenary
+SheCantSayNo - discards: Fortress, Fortress, Fortress, Mercenary, Baron
+SheCantSayNo - draws Mercenary, Mercenary, Fortress, Minion
+Titandrake - plays Necropolis
+Titandrake - plays Minion
+Titandrake - discards: Fortress, Mercenary
+Titandrake - draws Mercenary, Mercenary, Minion
+Titandrake - shuffles deck
+Titandrake - draws Mercenary
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Fortress
+Titandrake - shuffles deck
+Titandrake - draws Minion, Mercenary, Minion, Necropolis
+ 
+---------- SheCantSayNo: turn 15 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Minion
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Minion
+SheCantSayNo - discards: Mercenary, Mercenary
+SheCantSayNo - draws Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Mercenary, Mercenary
+Titandrake - discards: Fortress, Minion, Mercenary, Minion, Necropolis
+Titandrake - draws Fortress, Minion, Mercenary, Minion
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Mercenary, Fortress
+Titandrake - discards Mercenary
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Baron
+SheCantSayNo - plays Fortress
+SheCantSayNo - plays Baron
+SheCantSayNo - gains Estate
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Minion, Fortress, Fortress, Minion
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Fortress
+Titandrake - draws Mercenary
+Titandrake - plays Minion
+Titandrake - discards Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Minion, Necropolis, Mercenary
+SheCantSayNo - discards: Fortress, Minion, Fortress, Fortress, Minion
+SheCantSayNo - draws Mercenary, Baron, Fortress, Fortress
+Titandrake - plays Mercenary
+Titandrake - trashes Necropolis, Fortress
+Titandrake - draws Minion, Mercenary
+SheCantSayNo - discards Baron
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Fortress, Mercenary
+Titandrake - draws Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Mercenary, Fortress
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Mercenary, Minion, Mercenary, Potion, Fortress
+ 
+---------- SheCantSayNo: turn 16 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Estate
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Estate
+SheCantSayNo - draws Mercenary, Fortress
+Titandrake - discards Mercenary
+Titandrake - discards Mercenary
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Baron
+SheCantSayNo - plays Baron
+SheCantSayNo - gains Estate
+SheCantSayNo - draws Fortress, Fortress, Minion, Minion, Fortress
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Minion
+Titandrake - discards: Potion, Fortress
+Titandrake - draws Minion, Minion, Minion, Mercenary
+SheCantSayNo - discards: Fortress, Fortress, Minion, Minion, Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Minion, Minion, Fortress
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards Mercenary
+Titandrake - shuffles deck
+Titandrake - draws Mercenary, Mercenary, Mercenary, Fortress
+Titandrake - plays Mercenary
+Titandrake - trashes Mercenary, Mercenary
+Titandrake - draws Potion
+SheCantSayNo - discards Fortress
+Titandrake - plays Potion
+Titandrake - buys Transmute
+Titandrake - gains Transmute
+Titandrake - shuffles deck
+Titandrake - draws Minion, Transmute, Fortress, Potion, Fortress
+ 
+---------- SheCantSayNo: turn 17 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Baron
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Minion
+SheCantSayNo - discards Baron
+SheCantSayNo - draws Mercenary, Fortress, Fortress, Mercenary
+Titandrake - discards: Minion, Transmute, Fortress, Potion, Fortress
+Titandrake - draws Minion, Minion, Minion, Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Fortress, Estate
+Titandrake - discards Mercenary
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Mercenary, Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Baron
+SheCantSayNo - plays Fortress
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - buys Fortress
+SheCantSayNo - gains Fortress
+SheCantSayNo - buys Minion
+SheCantSayNo - gains Minion
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Baron, Estate, Fortress, Mercenary, Fortress
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - shuffles deck
+Titandrake - draws Minion, Fortress, Transmute, Fortress
+SheCantSayNo - discards: Baron, Estate, Fortress, Mercenary, Fortress
+SheCantSayNo - draws Fortress, Fortress, Fortress, Fortress
+Titandrake - plays Fortress
+Titandrake - draws Mercenary
+Titandrake - plays Transmute
+Titandrake - trashes Fortress
+Titandrake - gains Duchy
+Titandrake - plays Fortress
+Titandrake - draws Potion
+Titandrake - plays Potion
+Titandrake - buys Transmute
+Titandrake - gains Transmute
+Titandrake - shuffles deck
+Titandrake - draws Transmute, Transmute, Minion, Fortress, Duchy
+ 
+---------- SheCantSayNo: turn 18 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Fortress, Minion
+Titandrake - discards Duchy
+Titandrake - discards Transmute
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Minion
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Minion
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Estate, Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Baron
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - buys Colony
+SheCantSayNo - gains Colony
+SheCantSayNo - buys Minion
+SheCantSayNo - gains Minion
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Mercenary, Minion, Minion, Colony, Minion
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Fortress
+Titandrake - draws Mercenary
+Titandrake - plays Minion
+Titandrake - discards: Transmute, Mercenary
+Titandrake - draws Fortress, Minion, Minion, Minion
+SheCantSayNo - discards: Mercenary, Minion, Minion, Colony, Minion
+SheCantSayNo - draws Fortress, Fortress, Fortress, Mercenary
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards Fortress
+Titandrake - draws Potion
+Titandrake - shuffles deck
+Titandrake - draws Mercenary, Transmute, Fortress
+Titandrake - plays Transmute
+Titandrake - trashes Fortress
+Titandrake - gains Duchy
+Titandrake - plays Fortress
+Titandrake - draws Transmute
+Titandrake - plays Transmute
+Titandrake - trashes Potion
+Titandrake - gains Transmute
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Duchy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Transmute, Fortress, Mercenary
+ 
+---------- SheCantSayNo: turn 19 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Estate, Fortress
+Titandrake - discards Duchy
+Titandrake - discards Mercenary
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Baron
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Fortress, Minion
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Minion
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Minion
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Minion
+SheCantSayNo - discards Fortress
+SheCantSayNo - draws Colony, Minion, Mercenary
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Estate
+SheCantSayNo - plays Minion
+SheCantSayNo - discards: Colony, Mercenary, Estate
+SheCantSayNo - draws Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Mercenary, Colony, Estate
+SheCantSayNo - buys Minion
+SheCantSayNo - gains Minion
+SheCantSayNo - buys Minion
+SheCantSayNo - gains Minion
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Baron, Minion, Minion, Fortress, Minion
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Fortress
+Titandrake - draws Minion
+Titandrake - plays Minion
+Titandrake - discards: Silver, Transmute
+Titandrake - draws Transmute, Minion, Duchy, Fortress
+SheCantSayNo - discards: Baron, Minion, Minion, Fortress, Minion
+SheCantSayNo - draws Fortress, Minion, Fortress, Fortress
+Titandrake - plays Transmute
+Titandrake - trashes Fortress
+Titandrake - gains Duchy
+Titandrake - plays Fortress
+Titandrake - draws Minion
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards Duchy
+Titandrake - draws Minion, Transmute
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Transmute
+Titandrake - plays Transmute
+Titandrake - trashes Transmute
+Titandrake - gains Duchy
+Titandrake - plays Minion
+Titandrake - discards Duchy
+Titandrake - draws Duchy, Silver, Mercenary, Duchy
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Duchy, Transmute, Fortress, Duchy
+ 
+---------- SheCantSayNo: turn 20 ----------
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Estate
+SheCantSayNo - plays Minion
+SheCantSayNo - discards: Fortress, Fortress, Estate
+SheCantSayNo - draws Fortress, Minion, Colony, Mercenary
+Titandrake - discards: Fortress, Duchy, Transmute, Fortress, Duchy
+Titandrake - draws Duchy, Minion, Duchy, Mercenary
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Minion, Fortress
+SheCantSayNo - draws Fortress, Mercenary
+Titandrake - discards Duchy
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - draws Mercenary, Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Minion
+SheCantSayNo - plays Mercenary
+SheCantSayNo - trashes Fortress, Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - applies the 'when you trash ability' of Fortress
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Baron, Minion
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Fortress
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Estate
+SheCantSayNo - plays Baron
+SheCantSayNo - discards Estate
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Minion
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Minion
+SheCantSayNo - discards Colony
+SheCantSayNo - draws Fortress, Fortress, Minion
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Colony
+SheCantSayNo - plays Fortress
+SheCantSayNo - draws Estate
+SheCantSayNo - plays Minion
+SheCantSayNo - takes 2 coins
+SheCantSayNo - plays Fortress
+SheCantSayNo - buys Colony
+SheCantSayNo - gains Colony
+SheCantSayNo - buys Urchin
+SheCantSayNo - gains Urchin
+SheCantSayNo - shuffles deck
+SheCantSayNo - draws Fortress, Mercenary, Mercenary, Minion, Colony
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Minion
+Titandrake - discards: Duchy, Mercenary
+Titandrake - draws Minion, Silver, Transmute, Minion
+SheCantSayNo - discards: Fortress, Mercenary, Mercenary, Minion, Colony
+SheCantSayNo - draws Minion, Baron, Minion, Fortress
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Minion
+Titandrake - discards: Silver, Transmute
+Titandrake - draws Minion, Silver
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Mercenary
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Silver
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Duchy, Duchy, Transmute, Silver, Duchy
+ 
+------------ Game Over ------------
+SheCantSayNo - cards: 8 Fortress, 5 Minion, 3 Mercenary, 1 Baron, 1 Urchin, 2 Colony, 1 Estate
+SheCantSayNo - total victory points: 21
+SheCantSayNo - turns: 20
+ 
+Titandrake - cards: 4 Minion, 2 Transmute, 2 Fortress, 1 Urchin, 1 Mercenary, 2 Silver, 4 Duchy
+Titandrake - total victory points: 12
+Titandrake - turns: 21
+ 
+1st place: SheCantSayNo
+2nd place: Titandrake
+ 

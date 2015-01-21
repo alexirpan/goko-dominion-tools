@@ -1,0 +1,659 @@
+------------ Game Setup ------------
+Supply cards: Herbalist, Farming Village, Horse Traders, Militia, Catacombs, Count, Highway, Margrave, Mine, Saboteur, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+migga - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+migga - shuffles deck
+Titandrake - shuffles deck
+migga - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- migga: turn 1 ----------
+migga - plays 4 Copper
+migga - buys Farming Village
+migga - gains Farming Village
+migga - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- migga: turn 2 ----------
+migga - plays 3 Copper
+migga - buys Silver
+migga - gains Silver
+migga - shuffles deck
+migga - draws Copper, Farming Village, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Horse Traders, Estate, Copper, Silver, Copper
+ 
+---------- migga: turn 3 ----------
+migga - plays Farming Village
+migga - reveals Copper
+migga - places Copper in hand
+migga - plays 4 Copper
+migga - buys Farming Village
+migga - gains Farming Village
+migga - draws Silver, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Highway, Estate
+ 
+---------- migga: turn 4 ----------
+migga - plays 2 Copper, 1 Silver
+migga - buys Militia
+migga - gains Militia
+migga - draws Copper
+migga - shuffles deck
+migga - draws Copper, Farming Village, Copper, Militia
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Copper, Copper, Horse Traders, Copper
+ 
+---------- migga: turn 5 ----------
+migga - plays Farming Village
+migga - reveals Silver
+migga - places Silver in hand
+migga - plays Militia
+Titandrake - reveals reaction Horse Traders
+Titandrake - discards Copper
+migga - plays 3 Copper, 1 Silver
+migga - buys Gold
+migga - gains Gold
+migga - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Horse Traders
+Titandrake - draws Copper
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Highway, Copper, Horse Traders
+ 
+---------- migga: turn 6 ----------
+migga - plays 2 Copper
+migga - buys Herbalist
+migga - gains Herbalist
+migga - draws Copper, Copper, Farming Village
+migga - shuffles deck
+migga - draws Gold, Militia
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- migga: turn 7 ----------
+migga - plays Farming Village
+migga - reveals Copper
+migga - places Copper in hand
+migga - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Estate
+migga - plays 3 Copper, 1 Gold
+migga - buys Gold
+migga - gains Gold
+migga - draws Silver, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Highway, Margrave, Copper
+ 
+---------- migga: turn 8 ----------
+migga - plays 2 Copper, 1 Silver
+migga - buys Militia
+migga - gains Militia
+migga - draws Farming Village, Copper, Herbalist, Copper, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Highway
+Titandrake - shuffles deck
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Margrave
+Titandrake - draws Horse Traders, Copper, Silver
+migga - shuffles deck
+migga - draws Copper
+migga - discards Estate
+migga - discards Copper
+migga - discards Copper
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Silver, Estate, Farming Village, Estate, Estate
+ 
+---------- migga: turn 9 ----------
+migga - plays Farming Village
+migga - reveals Gold
+migga - places Gold in hand
+migga - plays Herbalist
+migga - plays 1 Copper, 1 Gold
+migga - buys Margrave
+migga - gains Margrave
+migga - places Gold on top of deck
+migga - draws Gold, Farming Village, Copper, Copper, Militia
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Silver
+Titandrake - buys Herbalist
+Titandrake - gains Herbalist
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Estate
+ 
+---------- migga: turn 10 ----------
+migga - plays Farming Village
+migga - reveals Copper
+migga - places Copper in hand
+migga - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Estate
+migga - plays 3 Copper, 1 Gold
+migga - buys Gold
+migga - gains Gold
+migga - draws Copper, Gold, Militia, Estate, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Highway, Herbalist, Copper, Silver, Estate
+ 
+---------- migga: turn 11 ----------
+migga - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+migga - plays 1 Copper, 1 Gold, 1 Silver
+migga - buys Province
+migga - gains Province
+migga - draws Estate
+migga - shuffles deck
+migga - draws Copper, Militia, Farming Village, Farming Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Highway
+Titandrake - draws Horse Traders
+Titandrake - plays Herbalist
+Titandrake - plays Silver
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - places Silver on top of deck
+Titandrake - draws Silver, Farming Village, Highway, Copper, Highway
+ 
+---------- migga: turn 12 ----------
+migga - plays Farming Village
+migga - reveals Copper
+migga - places Copper in hand
+migga - plays Farming Village
+migga - reveals Herbalist
+migga - places Herbalist in hand
+migga - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Silver
+migga - plays Herbalist
+migga - plays 2 Copper
+migga - buys Margrave
+migga - gains Margrave
+migga - draws Gold, Copper, Margrave, Province, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Margrave
+Titandrake - plays Farming Village
+Titandrake - reveals Margrave
+Titandrake - places Margrave in hand
+Titandrake - plays Margrave
+Titandrake - draws Copper, Copper, Copper
+migga - draws Copper
+migga - discards Province
+migga - discards Copper
+migga - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Margrave
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Horse Traders
+migga - draws Gold
+migga - discards Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - buys Count
+Titandrake - gains Count
+Titandrake - draws Highway, Silver, Estate, Highway, Farming Village
+ 
+---------- migga: turn 13 ----------
+migga - plays Margrave
+migga - draws Militia, Copper, Copper
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Silver
+migga - plays 2 Gold, 2 Copper
+migga - buys Province
+migga - gains Province
+migga - draws Estate, Silver, Estate, Gold
+migga - shuffles deck
+migga - draws Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Farming Village
+Titandrake - reveals Herbalist
+Titandrake - places Herbalist in hand
+Titandrake - plays Herbalist
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Estate, Silver
+Titandrake - shuffles deck
+Titandrake - draws Farming Village, Farming Village, Copper
+ 
+---------- migga: turn 14 ----------
+migga - plays 1 Silver, 1 Gold
+migga - buys Farming Village
+migga - gains Farming Village
+migga - draws Farming Village, Farming Village, Militia, Gold, Margrave
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Farming Village
+Titandrake - reveals Horse Traders
+Titandrake - places Horse Traders in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Highway
+Titandrake - places Highway in hand
+Titandrake - plays Highway
+Titandrake - draws Herbalist
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - plays Herbalist
+Titandrake - plays Silver
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - buys Farming Village
+Titandrake - gains Farming Village
+Titandrake - draws Copper, Highway, Copper, Highway, Copper
+ 
+---------- migga: turn 15 ----------
+migga - plays Farming Village
+migga - reveals Copper
+migga - places Copper in hand
+migga - plays Farming Village
+migga - reveals Copper
+migga - places Copper in hand
+migga - plays Margrave
+migga - draws Copper, Copper, Province
+Titandrake - draws Highway
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+migga - plays Militia
+migga - plays 4 Copper, 1 Gold
+migga - buys Province
+migga - gains Province
+migga - draws Copper, Herbalist, Copper, Militia, Margrave
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Farming Village
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Silver, Copper, Margrave, Farming Village, Highway
+ 
+---------- migga: turn 16 ----------
+migga - plays Margrave
+migga - draws Estate, Copper, Gold
+Titandrake - draws Count
+Titandrake - discards Copper
+Titandrake - discards Silver
+Titandrake - discards Count
+migga - plays 3 Copper, 1 Gold
+migga - buys Highway
+migga - gains Highway
+migga - shuffles deck
+migga - draws Silver, Copper, Copper, Province, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Highway
+Titandrake - draws Margrave
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Estate
+Titandrake - plays Margrave
+Titandrake - draws Copper, Farming Village, Highway
+migga - draws Gold
+migga - discards Province
+migga - discards Copper
+migga - discards Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Margrave
+Titandrake - draws Copper, Farming Village, Highway
+migga - draws Highway
+migga - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Horse Traders
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - buys Margrave
+Titandrake - gains Margrave
+Titandrake - draws Farming Village, Estate, Highway, Estate, Highway
+ 
+---------- migga: turn 17 ----------
+migga - plays Highway
+migga - draws Province
+migga - plays 1 Silver, 1 Gold
+migga - buys Highway
+migga - gains Highway
+migga - draws Copper, Copper, Margrave, Militia, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Margrave
+Titandrake - places Margrave in hand
+Titandrake - plays Margrave
+Titandrake - draws Silver, Highway, Count
+migga - draws Estate
+migga - discards Estate
+migga - discards Copper
+migga - discards Militia
+Titandrake - plays Highway
+Titandrake - draws Herbalist
+Titandrake - plays Count
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - takes 3 coins
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Herbalist, Highway, Highway
+ 
+---------- migga: turn 18 ----------
+migga - plays Margrave
+migga - draws Farming Village, Herbalist, Margrave
+Titandrake - draws Duchy
+Titandrake - discards Duchy
+Titandrake - discards Herbalist
+Titandrake - discards Copper
+migga - plays 2 Copper
+migga - buys Estate
+migga - gains Estate
+migga - draws Province, Gold, Gold, Copper, Farming Village
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Highway
+Titandrake - draws Margrave
+Titandrake - plays Margrave
+Titandrake - draws Margrave, Margrave, Highway
+migga - draws Farming Village
+migga - discards Province
+migga - discards Copper
+migga - discards Farming Village
+Titandrake - plays 2 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Highway, Copper, Province, Farming Village, Highway
+ 
+---------- migga: turn 19 ----------
+migga - plays Farming Village
+migga - reveals Estate, Estate, Militia
+migga - places Militia in hand
+migga - discards: Estate, Estate
+migga - plays Militia
+Titandrake - discards Province
+Titandrake - discards Copper
+migga - plays 2 Gold
+migga - buys Province
+migga - gains Province
+migga - shuffles deck
+migga - draws Copper, Estate, Copper, Copper, Province
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Farming Village
+Titandrake - plays Highway
+Titandrake - draws Count
+Titandrake - plays Farming Village
+Titandrake - reveals Highway
+Titandrake - places Highway in hand
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Farming Village
+Titandrake - places Farming Village in hand
+Titandrake - discards Estate
+Titandrake - plays Farming Village
+Titandrake - reveals Copper
+Titandrake - places Copper in hand
+Titandrake - plays Highway
+Titandrake - draws Estate
+Titandrake - plays Count
+Titandrake - gains Copper
+Titandrake - gains Duchy
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Margrave, Margrave, Estate, Silver, Copper
+ 
+---------- migga: turn 20 ----------
+migga - plays 3 Copper
+migga - buys Estate
+migga - gains Estate
+migga - draws Militia, Silver, Margrave, Province, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Margrave
+Titandrake - draws Horse Traders, Farming Village, Farming Village
+migga - draws Farming Village
+migga - discards Province
+migga - discards Copper
+migga - discards Militia
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - draws Copper, Copper, Farming Village, Highway, Farming Village
+ 
+---------- migga: turn 21 ----------
+migga - plays Farming Village
+migga - reveals Province, Gold
+migga - places Gold in hand
+migga - discards Province
+migga - plays Margrave
+migga - draws Estate, Margrave, Gold
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+migga - plays Margrave
+migga - draws Farming Village, Province, Herbalist
+Titandrake - shuffles deck
+Titandrake - draws Margrave
+Titandrake - discards Farming Village
+migga - plays 2 Gold, 1 Silver
+migga - buys Province
+migga - gains Province
+migga - draws Copper, Militia, Estate, Farming Village, Highway
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Farming Village
+Titandrake - reveals Estate, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Estate
+Titandrake - plays Margrave
+Titandrake - draws Highway, Farming Village, Highway
+migga - draws Estate
+migga - discards Estate
+migga - discards Estate
+migga - discards Copper
+Titandrake - plays Highway
+Titandrake - draws Duchy
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Farming Village
+Titandrake - reveals Margrave
+Titandrake - places Margrave in hand
+Titandrake - plays Margrave
+Titandrake - draws Silver, Estate, Margrave
+migga - draws Gold
+migga - discards Militia
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Margrave
+Titandrake - draws Herbalist, Silver, Highway
+migga - draws Copper
+migga - discards Copper
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Count, Farming Village, Duchy, Farming Village, Farming Village
+ 
+---------- migga: turn 22 ----------
+migga - plays Farming Village
+migga - reveals Highway
+migga - places Highway in hand
+migga - plays Highway
+migga - draws Copper
+migga - plays Highway
+migga - shuffles deck
+migga - draws Margrave
+migga - plays Margrave
+migga - draws Militia, Farming Village, Copper
+Titandrake - draws Highway
+Titandrake - discards Duchy
+Titandrake - discards Farming Village
+Titandrake - discards Farming Village
+migga - plays Farming Village
+migga - reveals Militia
+migga - places Militia in hand
+migga - plays Militia
+migga - plays Militia
+migga - plays 2 Copper, 1 Gold
+migga - buys Province
+migga - gains Province
+migga - buys Duchy
+migga - gains Duchy
+migga - draws Copper, Copper, Herbalist, Copper, Farming Village
+ 
+------------ Game Over ------------
+migga - cards: 3 Farming Village, 2 Highway, 2 Margrave, 2 Militia, 1 Herbalist, 7 Copper, 3 Gold, 1 Silver, 6 Province, 5 Estate, 1 Duchy
+migga - total victory points: 44
+migga - turns: 22
+ 
+Titandrake - cards: 8 Highway, 7 Farming Village, 5 Margrave, 1 Count, 1 Herbalist, 1 Horse Traders, 8 Copper, 3 Silver, 7 Duchy, 3 Estate, 2 Province
+Titandrake - total victory points: 36
+Titandrake - turns: 22
+ 
+1st place: migga
+2nd place: Titandrake
+ 

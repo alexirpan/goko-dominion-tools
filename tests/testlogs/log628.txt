@@ -1,0 +1,695 @@
+------------ Game Setup ------------
+Supply cards: Sage, Storeroom, Militia, Taxman, Contraband, Hunting Party, Junk Dealer, Trading Post, Treasury, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+iccir - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+iccir - shuffles deck
+Titandrake - shuffles deck
+iccir - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- iccir: turn 1 ----------
+iccir - plays 4 Copper
+iccir - buys Militia
+iccir - gains Militia
+iccir - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- iccir: turn 2 ----------
+iccir - plays 3 Copper
+iccir - buys Silver
+iccir - gains Silver
+iccir - shuffles deck
+iccir - draws Militia, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Militia, Copper
+ 
+---------- iccir: turn 3 ----------
+iccir - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+iccir - plays 3 Copper
+iccir - buys Junk Dealer
+iccir - gains Junk Dealer
+iccir - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Militia
+iccir - discards Estate
+iccir - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Silver, Estate
+Titandrake - shuffles deck
+Titandrake - draws Militia, Copper, Silver
+ 
+---------- iccir: turn 4 ----------
+iccir - plays 2 Copper, 1 Silver
+iccir - buys Silver
+iccir - gains Silver
+iccir - draws Estate, Copper
+iccir - shuffles deck
+iccir - draws Estate, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Militia
+iccir - discards Estate
+iccir - discards Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Copper, Copper, Sage, Estate
+ 
+---------- iccir: turn 5 ----------
+iccir - draws Copper, Copper, Silver, Militia, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Estate, Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Copper, Copper, Estate, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Wharf, Silver, Copper, Militia
+ 
+---------- iccir: turn 6 ----------
+iccir - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Militia
+iccir - plays 3 Copper, 1 Silver
+iccir - buys Hunting Party
+iccir - gains Hunting Party
+iccir - draws Junk Dealer, Silver, Copper, Copper
+iccir - shuffles deck
+iccir - draws Militia
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Militia, Copper, Silver, Sage
+ 
+---------- iccir: turn 7 ----------
+iccir - plays Junk Dealer
+iccir - draws Estate
+iccir - trashes Estate
+iccir - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Militia
+iccir - plays 2 Copper, 1 Silver
+iccir - buys Hunting Party
+iccir - gains Hunting Party
+iccir - draws Hunting Party, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Sage
+Titandrake - reveals Estate, Copper, Wharf
+Titandrake - places Wharf in hand
+Titandrake - discards: Estate, Copper
+Titandrake - plays Wharf
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Militia
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- iccir: turn 8 ----------
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Estate, Estate, Copper, Copper, Copper
+iccir - reveals Copper, Silver
+iccir - places Silver in hand
+iccir - discards Copper
+iccir - plays 3 Copper, 1 Silver
+iccir - buys Hunting Party
+iccir - gains Hunting Party
+iccir - draws Copper
+iccir - shuffles deck
+iccir - draws Junk Dealer, Militia, Copper, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Militia, Estate
+ 
+---------- iccir: turn 9 ----------
+iccir - plays Junk Dealer
+iccir - draws Copper
+iccir - trashes Estate
+iccir - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+iccir - plays 3 Copper
+iccir - buys Hunting Party
+iccir - gains Hunting Party
+iccir - draws Copper, Silver, Copper, Hunting Party, Hunting Party
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Militia
+iccir - discards Copper
+iccir - discards Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- iccir: turn 10 ----------
+iccir - plays Hunting Party
+iccir - draws Estate
+iccir - reveals hand: Silver, Hunting Party, Estate
+iccir - reveals Silver, Hunting Party, Copper
+iccir - places Copper in hand
+iccir - discards: Silver, Hunting Party
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Silver, Estate, Copper, Copper
+iccir - shuffles deck
+iccir - reveals Hunting Party
+iccir - places Hunting Party in hand
+iccir - plays Hunting Party
+iccir - draws Junk Dealer
+iccir - reveals hand: Silver, Estate, Copper, Copper, Junk Dealer
+iccir - reveals Copper, Copper, Hunting Party
+iccir - places Hunting Party in hand
+iccir - discards: Copper, Copper
+iccir - plays Junk Dealer
+iccir - draws Copper
+iccir - trashes Estate
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Silver, Copper, Copper, Copper, Copper
+iccir - reveals Copper, Militia
+iccir - places Militia in hand
+iccir - discards Copper
+iccir - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+iccir - plays 4 Copper, 1 Silver
+iccir - buys Treasury
+iccir - gains Treasury
+iccir - draws Silver
+iccir - shuffles deck
+iccir - draws Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Gold, Copper, Copper, Copper, Wharf
+ 
+---------- iccir: turn 11 ----------
+iccir - plays 4 Copper, 1 Silver
+iccir - buys Treasury
+iccir - gains Treasury
+iccir - draws Hunting Party, Hunting Party, Hunting Party, Treasury, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Wharf
+Titandrake - draws Estate, Sage
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Silver, Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Hunting Party, Estate
+ 
+---------- iccir: turn 12 ----------
+iccir - plays Treasury
+iccir - draws Copper
+iccir - plays Hunting Party
+iccir - draws Silver
+iccir - reveals hand: Hunting Party, Hunting Party, Copper, Copper, Silver
+iccir - reveals Copper, Junk Dealer
+iccir - places Junk Dealer in hand
+iccir - discards Copper
+iccir - plays Junk Dealer
+iccir - draws Militia
+iccir - trashes Copper
+iccir - plays Hunting Party
+iccir - draws Hunting Party
+iccir - reveals hand: Hunting Party, Copper, Silver, Militia, Hunting Party
+iccir - shuffles deck
+iccir - reveals Silver, Treasury
+iccir - places Treasury in hand
+iccir - discards Silver
+iccir - plays Treasury
+iccir - draws Copper
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Hunting Party, Copper, Silver, Militia, Copper, Copper
+iccir - shuffles deck
+iccir - reveals Copper, Copper, Copper, Silver
+iccir - discards: Copper, Copper, Copper, Silver
+iccir - plays Hunting Party
+iccir - shuffles deck
+iccir - draws Copper
+iccir - reveals hand: Copper, Silver, Militia, Copper, Copper, Copper
+iccir - reveals Copper, Copper, Silver
+iccir - discards: Copper, Copper, Silver
+iccir - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+iccir - plays 4 Copper, 1 Silver
+iccir - buys Wharf
+iccir - gains Wharf
+iccir - places Treasury, Treasury on top of deck
+iccir - draws Treasury, Treasury
+iccir - shuffles deck
+iccir - draws Silver, Hunting Party, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Militia
+Titandrake - plays Hunting Party
+Titandrake - draws Gold
+Titandrake - reveals hand: Silver, Wharf, Silver, Militia, Gold
+Titandrake - reveals Silver, Copper
+Titandrake - places Copper in hand
+Titandrake - discards Silver
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 2 Silver, 1 Gold
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - buys Hunting Party
+Titandrake - gains Hunting Party
+Titandrake - draws Sage, Sage, Estate, Copper, Copper
+ 
+---------- iccir: turn 13 ----------
+iccir - plays Treasury
+iccir - draws Silver
+iccir - plays Hunting Party
+iccir - draws Hunting Party
+iccir - reveals hand: Treasury, Silver, Copper, Silver, Hunting Party
+iccir - reveals Copper, Copper, Copper, Hunting Party, Hunting Party, Wharf
+iccir - places Wharf in hand
+iccir - discards: Copper, Copper, Copper, Hunting Party, Hunting Party
+iccir - plays Treasury
+iccir - draws Copper
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Silver, Copper, Silver, Wharf, Copper, Copper
+iccir - reveals Militia
+iccir - places Militia in hand
+iccir - plays Wharf
+iccir - draws Junk Dealer
+iccir - shuffles deck
+iccir - draws Copper
+iccir - plays 4 Copper, 2 Silver
+iccir - buys Hunting Party
+iccir - gains Hunting Party
+iccir - buys Hunting Party
+iccir - gains Hunting Party
+iccir - places Treasury, Treasury on top of deck
+iccir - draws Treasury, Treasury, Hunting Party, Copper, Hunting Party
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Hunting Party
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Estate, Copper, Militia
+Titandrake - places Militia in hand
+Titandrake - discards: Copper, Estate, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Sage, Estate, Copper, Copper, Silver, Militia, Silver
+Titandrake - reveals Wharf
+Titandrake - places Wharf in hand
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Wharf
+Titandrake - draws Hunting Party, Copper
+Titandrake - plays 3 Copper, 3 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold, Hunting Party, Copper, Estate, Silver
+ 
+---------- iccir: turn 14 ----------
+iccir - duration Wharf
+iccir - draws Copper
+iccir - shuffles deck
+iccir - draws Copper
+iccir - plays Hunting Party
+iccir - draws Hunting Party
+iccir - reveals hand: Treasury, Treasury, Copper, Hunting Party, Copper, Copper, Hunting Party
+iccir - reveals Copper, Silver
+iccir - places Silver in hand
+iccir - discards Copper
+iccir - plays Treasury
+iccir - draws Copper
+iccir - plays Treasury
+iccir - draws Hunting Party
+iccir - plays Hunting Party
+iccir - draws Silver
+iccir - reveals hand: Copper, Copper, Copper, Hunting Party, Silver, Copper, Hunting Party, Silver
+iccir - reveals Militia
+iccir - places Militia in hand
+iccir - plays Hunting Party
+iccir - draws Junk Dealer
+iccir - reveals hand: Copper, Copper, Copper, Silver, Copper, Hunting Party, Silver, Militia, Junk Dealer
+iccir - shuffles deck
+iccir - reveals Hunting Party, Copper, Hunting Party, Copper
+iccir - discards: Hunting Party, Copper, Hunting Party, Copper
+iccir - plays Junk Dealer
+iccir - shuffles deck
+iccir - draws Hunting Party
+iccir - trashes Copper
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Copper, Copper, Copper, Silver, Silver, Militia, Hunting Party, Copper
+iccir - reveals Copper, Hunting Party
+iccir - discards: Copper, Hunting Party
+iccir - plays Hunting Party
+iccir - shuffles deck
+iccir - draws Hunting Party
+iccir - reveals hand: Copper, Copper, Copper, Silver, Silver, Militia, Copper, Hunting Party
+iccir - reveals Copper
+iccir - discards Copper
+iccir - plays Hunting Party
+iccir - shuffles deck
+iccir - draws Copper
+iccir - reveals hand: Copper, Copper, Copper, Silver, Silver, Militia, Copper, Copper
+iccir - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+iccir - plays 5 Copper, 2 Silver
+iccir - buys Province
+iccir - gains Province
+iccir - buys Wharf
+iccir - gains Wharf
+iccir - shuffles deck
+iccir - draws Copper, Hunting Party, Militia, Silver, Hunting Party
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Hunting Party
+Titandrake - plays Hunting Party
+Titandrake - shuffles deck
+Titandrake - draws Hunting Party
+Titandrake - reveals hand: Gold, Silver, Copper, Hunting Party, Hunting Party
+Titandrake - reveals Hunting Party, Copper, Estate
+Titandrake - places Estate in hand
+Titandrake - discards: Hunting Party, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Militia
+Titandrake - reveals hand: Gold, Silver, Copper, Hunting Party, Estate, Militia
+Titandrake - reveals Silver, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Silver
+Titandrake - plays Sage
+Titandrake - reveals Estate, Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards: Estate, Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Silver
+Titandrake - reveals hand: Gold, Silver, Copper, Estate, Militia, Silver, Silver
+Titandrake - reveals Estate, Province
+Titandrake - places Province in hand
+Titandrake - discards Estate
+Titandrake - plays Militia
+iccir - discards Militia
+iccir - discards Copper
+Titandrake - plays 3 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Copper, Copper, Wharf, Copper
+ 
+---------- iccir: turn 15 ----------
+iccir - plays Hunting Party
+iccir - draws Hunting Party
+iccir - reveals hand: Silver, Hunting Party, Hunting Party
+iccir - reveals Silver, Copper
+iccir - places Copper in hand
+iccir - discards Silver
+iccir - plays Hunting Party
+iccir - draws Hunting Party
+iccir - reveals hand: Silver, Hunting Party, Copper, Hunting Party
+iccir - reveals Copper, Wharf
+iccir - places Wharf in hand
+iccir - discards Copper
+iccir - plays Hunting Party
+iccir - draws Wharf
+iccir - reveals hand: Silver, Copper, Hunting Party, Wharf, Wharf
+iccir - reveals Hunting Party, Treasury
+iccir - places Treasury in hand
+iccir - discards Hunting Party
+iccir - plays Treasury
+iccir - draws Treasury
+iccir - plays Treasury
+iccir - draws Copper
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Silver, Copper, Wharf, Wharf, Copper, Copper
+iccir - reveals Province
+iccir - places Province in hand
+iccir - plays Wharf
+iccir - draws Hunting Party, Junk Dealer
+iccir - plays 3 Copper, 1 Silver
+iccir - buys Duchy
+iccir - gains Duchy
+iccir - shuffles deck
+iccir - draws Wharf, Copper, Militia, Hunting Party, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Wharf
+Titandrake - draws Sage
+Titandrake - shuffles deck
+Titandrake - draws Wharf
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Hunting Party, Hunting Party, Silver
+ 
+---------- iccir: turn 16 ----------
+iccir - duration Wharf
+iccir - draws Copper, Copper
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Wharf, Copper, Militia, Province, Copper, Copper, Copper
+iccir - reveals Silver
+iccir - places Silver in hand
+iccir - plays Wharf
+iccir - draws Treasury, Treasury
+iccir - plays 4 Copper, 1 Silver
+iccir - buys Gold
+iccir - gains Gold
+iccir - draws Hunting Party, Hunting Party, Hunting Party, Junk Dealer, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Wharf
+Titandrake - draws Hunting Party, Sage
+Titandrake - plays Sage
+Titandrake - reveals Estate, Estate, Province
+Titandrake - places Province in hand
+Titandrake - discards: Estate, Estate
+Titandrake - plays Hunting Party
+Titandrake - draws Province
+Titandrake - reveals hand: Copper, Copper, Hunting Party, Silver, Hunting Party, Province, Province
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Estate
+Titandrake - reveals hand: Copper, Copper, Hunting Party, Silver, Province, Province, Gold, Estate
+Titandrake - reveals Hunting Party, Silver, Sage
+Titandrake - places Sage in hand
+Titandrake - discards: Hunting Party, Silver
+Titandrake - plays Hunting Party
+Titandrake - draws Militia
+Titandrake - reveals hand: Copper, Copper, Silver, Province, Province, Gold, Estate, Sage, Militia
+Titandrake - shuffles deck
+Titandrake - reveals Silver, Copper, Silver, Hunting Party
+Titandrake - places Hunting Party in hand
+Titandrake - discards: Silver, Copper, Silver
+Titandrake - plays Sage
+Titandrake - reveals Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Copper
+Titandrake - plays Hunting Party
+Titandrake - draws Wharf
+Titandrake - reveals hand: Copper, Copper, Silver, Province, Province, Gold, Estate, Militia, Silver, Wharf
+Titandrake - reveals Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Copper
+Titandrake - plays Wharf
+Titandrake - draws Estate, Silver
+Titandrake - plays 3 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- iccir: turn 17 ----------
+iccir - duration Wharf
+iccir - draws Hunting Party, Hunting Party
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Hunting Party, Hunting Party, Junk Dealer, Silver, Hunting Party, Hunting Party, Copper
+iccir - reveals Duchy
+iccir - places Duchy in hand
+iccir - plays Junk Dealer
+iccir - shuffles deck
+iccir - draws Silver
+iccir - trashes Copper
+iccir - plays Hunting Party
+iccir - draws Province
+iccir - reveals hand: Hunting Party, Hunting Party, Silver, Hunting Party, Duchy, Silver, Province
+iccir - reveals Treasury
+iccir - places Treasury in hand
+iccir - plays Treasury
+iccir - draws Hunting Party
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Hunting Party, Hunting Party, Silver, Duchy, Silver, Province, Hunting Party, Copper
+iccir - reveals Wharf
+iccir - places Wharf in hand
+iccir - plays Hunting Party
+iccir - draws Gold
+iccir - reveals hand: Hunting Party, Hunting Party, Silver, Duchy, Silver, Province, Copper, Wharf, Gold
+iccir - reveals Treasury
+iccir - places Treasury in hand
+iccir - plays Treasury
+iccir - draws Copper
+iccir - plays Hunting Party
+iccir - draws Militia
+iccir - reveals hand: Hunting Party, Silver, Duchy, Silver, Province, Copper, Wharf, Gold, Copper, Militia
+iccir - reveals Copper, Copper
+iccir - discards: Copper, Copper
+iccir - plays Hunting Party
+iccir - shuffles deck
+iccir - draws Copper
+iccir - reveals hand: Silver, Duchy, Silver, Province, Copper, Wharf, Gold, Copper, Militia, Copper
+iccir - reveals Copper
+iccir - discards Copper
+iccir - plays Wharf
+iccir - shuffles deck
+iccir - draws Copper
+iccir - plays 4 Copper, 2 Silver, 1 Gold
+iccir - buys Province
+iccir - gains Province
+iccir - buys Gold
+iccir - gains Gold
+iccir - shuffles deck
+iccir - draws Treasury, Hunting Party, Hunting Party, Copper, Wharf
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Wharf
+Titandrake - draws Hunting Party, Sage
+Titandrake - plays Sage
+Titandrake - reveals Militia
+Titandrake - places Militia in hand
+Titandrake - plays Hunting Party
+Titandrake - draws Gold
+Titandrake - reveals hand: Estate, Copper, Copper, Copper, Silver, Militia, Gold
+Titandrake - reveals Wharf
+Titandrake - places Wharf in hand
+Titandrake - plays Wharf
+Titandrake - draws Province, Hunting Party
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Silver, Estate, Copper, Estate
+ 
+---------- iccir: turn 18 ----------
+iccir - duration Wharf
+iccir - draws Junk Dealer, Hunting Party
+iccir - plays Treasury
+iccir - draws Copper
+iccir - plays Hunting Party
+iccir - draws Gold
+iccir - reveals hand: Hunting Party, Copper, Wharf, Junk Dealer, Hunting Party, Copper, Gold
+iccir - reveals Province
+iccir - places Province in hand
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Copper, Wharf, Junk Dealer, Hunting Party, Copper, Gold, Province, Copper
+iccir - reveals Treasury
+iccir - places Treasury in hand
+iccir - plays Treasury
+iccir - draws Silver
+iccir - plays Hunting Party
+iccir - draws Copper
+iccir - reveals hand: Copper, Wharf, Junk Dealer, Copper, Gold, Province, Copper, Silver, Copper
+iccir - reveals Gold, Hunting Party
+iccir - places Hunting Party in hand
+iccir - discards Gold
+iccir - plays Hunting Party
+iccir - draws Militia
+iccir - reveals hand: Copper, Wharf, Junk Dealer, Copper, Gold, Province, Copper, Silver, Copper, Militia
+iccir - reveals Hunting Party
+iccir - places Hunting Party in hand
+iccir - plays Junk Dealer
+iccir - draws Duchy
+iccir - trashes Militia
+iccir - plays Hunting Party
+iccir - draws Silver
+iccir - reveals hand: Copper, Wharf, Copper, Gold, Province, Copper, Silver, Copper, Duchy, Silver
+iccir - reveals Province, Hunting Party
+iccir - places Hunting Party in hand
+iccir - discards Province
+iccir - plays Hunting Party
+iccir - shuffles deck
+iccir - draws Province
+iccir - reveals hand: Copper, Wharf, Copper, Gold, Province, Copper, Silver, Copper, Duchy, Silver, Province
+iccir - reveals Gold
+iccir - discards Gold
+iccir - plays Wharf
+iccir - shuffles deck
+iccir - draws Gold
+iccir - plays 4 Copper, 2 Gold, 2 Silver
+iccir - buys Province
+iccir - gains Province
+iccir - buys Province
+iccir - gains Province
+iccir - shuffles deck
+iccir - draws Hunting Party, Copper, Copper, Province, Junk Dealer
+ 
+------------ Game Over ------------
+iccir - cards: 6 Hunting Party, 2 Treasury, 2 Wharf, 1 Junk Dealer, 4 Copper, 2 Gold, 2 Silver, 4 Province, 1 Duchy
+iccir - total victory points: 27
+iccir - turns: 18
+ 
+Titandrake - cards: 4 Hunting Party, 3 Sage, 2 Wharf, 1 Militia, 7 Copper, 6 Silver, 1 Gold, 4 Province, 3 Estate
+Titandrake - total victory points: 27
+Titandrake - turns: 18
+ 
+1st place: iccir
+1st place: Titandrake
+ 

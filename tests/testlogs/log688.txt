@@ -1,0 +1,627 @@
+------------ Game Setup ------------
+Supply cards: Duchess, Hamlet, Haven, Fortress, Apprentice, Market, Rogue, Altar, Hoard, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Troninho - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Troninho - shuffles deck
+Titandrake - shuffles deck
+Troninho - draws Estate, Copper, Copper, Estate, Estate
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Troninho: turn 1 ----------
+Troninho - plays 2 Copper
+Troninho - buys Hamlet
+Troninho - gains Hamlet
+Troninho - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Troninho: turn 2 ----------
+Troninho - plays 5 Copper
+Troninho - buys Market
+Troninho - gains Market
+Troninho - shuffles deck
+Troninho - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Troninho: turn 3 ----------
+Troninho - plays 3 Copper
+Troninho - buys Hamlet
+Troninho - gains Hamlet
+Troninho - draws Market, Copper, Hamlet, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Troninho: turn 4 ----------
+Troninho - plays Market
+Troninho - draws Copper
+Troninho - plays Hamlet
+Troninho - draws Estate
+Troninho - discards Estate
+Troninho - receives one buy
+Troninho - plays 4 Copper
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - shuffles deck
+Troninho - draws Peddler, Estate, Hamlet, Estate, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Estate
+ 
+---------- Troninho: turn 5 ----------
+Troninho - plays Hamlet
+Troninho - draws Market
+Troninho - discards Estate
+Troninho - receives one action
+Troninho - discards Estate
+Troninho - receives one buy
+Troninho - plays Market
+Troninho - draws Copper
+Troninho - plays Peddler
+Troninho - draws Hamlet
+Troninho - plays Hamlet
+Troninho - draws Copper
+Troninho - discards Estate
+Troninho - receives one buy
+Troninho - plays 2 Copper
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Silver
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Copper, Copper, Hamlet, Copper, Copper
+ 
+---------- Troninho: turn 6 ----------
+Troninho - plays 5 Copper
+Troninho - buys Market
+Troninho - gains Market
+Troninho - shuffles deck
+Troninho - draws Peddler, Copper, Estate, Hamlet, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Apprentice, Copper, Hamlet
+ 
+---------- Troninho: turn 7 ----------
+Troninho - plays Peddler
+Troninho - draws Copper
+Troninho - plays Hamlet
+Troninho - draws Peddler
+Troninho - discards Estate
+Troninho - receives one action
+Troninho - discards Estate
+Troninho - receives one buy
+Troninho - plays Peddler
+Troninho - draws Copper
+Troninho - plays 3 Copper
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - draws Copper, Peddler, Market, Peddler, Peddler
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Fortress, Copper, Copper, Copper, Estate
+ 
+---------- Troninho: turn 8 ----------
+Troninho - plays Peddler
+Troninho - draws Market
+Troninho - plays Peddler
+Troninho - draws Estate
+Troninho - plays Peddler
+Troninho - draws Copper
+Troninho - plays Market
+Troninho - draws Hamlet
+Troninho - plays Market
+Troninho - draws Copper
+Troninho - plays Hamlet
+Troninho - draws Copper
+Troninho - discards Estate
+Troninho - receives one buy
+Troninho - plays 4 Copper
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - buys Peddler
+Troninho - gains Peddler
+Troninho - buys Altar
+Troninho - gains Altar
+Troninho - shuffles deck
+Troninho - draws Hamlet, Market, Estate, Peddler, Peddler
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Silver, Silver, Estate, Fortress
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Troninho: turn 9 ----------
+Troninho - plays Peddler
+Troninho - draws Copper
+Troninho - plays Peddler
+Troninho - draws Market
+Troninho - plays Market
+Troninho - draws Peddler
+Troninho - plays Market
+Troninho - draws Hamlet
+Troninho - plays Peddler
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Copper
+Troninho - plays Hamlet
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Copper
+Troninho - plays Hamlet
+Troninho - draws Peddler
+Troninho - discards Estate
+Troninho - receives one buy
+Troninho - plays Peddler
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Copper
+Troninho - plays 4 Copper
+Troninho - buys Altar
+Troninho - gains Altar
+Troninho - buys Apprentice
+Troninho - gains Apprentice
+Troninho - buys Haven
+Troninho - gains Haven
+Troninho - draws Estate, Altar, Copper, Peddler, Peddler
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Fortress, Apprentice, Haven, Estate
+ 
+---------- Troninho: turn 10 ----------
+Troninho - plays Peddler
+Troninho - draws Estate
+Troninho - plays Peddler
+Troninho - draws Copper
+Troninho - plays Altar
+Troninho - trashes Estate
+Troninho - gains Apprentice
+Troninho - plays 2 Copper
+Troninho - buys Fortress
+Troninho - gains Fortress
+Troninho - draws Copper, Peddler
+Troninho - shuffles deck
+Troninho - draws Copper, Hamlet, Peddler
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Fortress
+Titandrake - draws Copper, Copper, Hamlet, Estate
+Titandrake - plays Fortress
+Titandrake - draws Hamlet
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Haven
+Titandrake - draws Silver
+Titandrake - sets aside Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Apprentice, Estate, Copper, Fortress
+ 
+---------- Troninho: turn 11 ----------
+Troninho - plays Peddler
+Troninho - draws Estate
+Troninho - plays Peddler
+Troninho - draws Market
+Troninho - plays Market
+Troninho - draws Market
+Troninho - plays Market
+Troninho - draws Estate
+Troninho - plays Hamlet
+Troninho - draws Fortress
+Troninho - discards Estate
+Troninho - receives one action
+Troninho - plays Fortress
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Copper
+Troninho - plays 3 Copper
+Troninho - buys Apprentice
+Troninho - gains Apprentice
+Troninho - buys Haven
+Troninho - gains Haven
+Troninho - buys Haven
+Troninho - gains Haven
+Troninho - draws Hamlet, Copper, Peddler, Altar, Altar
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Estate in hand
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Fortress
+Titandrake - draws Silver, Apprentice, Copper, Hamlet
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Copper, Estate
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Fortress
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays 6 Copper, 2 Silver
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Copper, Apprentice, Estate
+ 
+---------- Troninho: turn 12 ----------
+Troninho - plays Peddler
+Troninho - draws Apprentice
+Troninho - plays Hamlet
+Troninho - draws Peddler
+Troninho - discards Copper
+Troninho - receives one action
+Troninho - plays Apprentice
+Troninho - trashes Peddler
+Troninho - draws Copper, Peddler, Peddler, Copper, Copper, Peddler, Peddler, Apprentice
+Troninho - plays Peddler
+Troninho - draws Haven
+Troninho - plays Peddler
+Troninho - shuffles deck
+Troninho - draws Fortress
+Troninho - plays Peddler
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Estate
+Troninho - plays Peddler
+Troninho - draws Market
+Troninho - plays Apprentice
+Troninho - trashes Fortress
+Troninho - draws Copper, Peddler, Haven, Market
+Troninho - plays Peddler
+Troninho - draws Estate
+Troninho - plays Market
+Troninho - draws Copper
+Troninho - plays Market
+Troninho - draws Copper
+Troninho - plays Haven
+Troninho - draws Copper
+Troninho - sets aside Copper
+Troninho - plays Haven
+Troninho - draws Apprentice
+Troninho - sets aside Copper
+Troninho - plays Altar
+Troninho - trashes Fortress
+Troninho - gains Market
+Troninho - plays Apprentice
+Troninho - trashes Fortress
+Troninho - draws Hamlet, Haven, Peddler
+Troninho - shuffles deck
+Troninho - draws Market
+Troninho - plays Haven
+Troninho - sets aside Peddler
+Troninho - plays Hamlet
+Troninho - discards Estate
+Troninho - receives one action
+Troninho - discards Estate
+Troninho - receives one buy
+Troninho - plays Altar
+Troninho - trashes Fortress
+Troninho - gains Apprentice
+Troninho - plays Market
+Troninho - shuffles deck
+Troninho - draws Estate
+Troninho - plays Fortress
+Troninho - draws Apprentice
+Troninho - plays Apprentice
+Troninho - trashes Copper
+Troninho - plays 4 Copper
+Troninho - buys Hoard
+Troninho - gains Hoard
+Troninho - buys Province
+Troninho - gains Province
+Troninho - draws Estate
+Troninho - shuffles deck
+Troninho - draws Copper, Altar, Peddler, Peddler
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Fortress
+Titandrake - draws Hoard, Copper, Haven, Copper
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Haven
+Titandrake - draws Apprentice
+Titandrake - sets aside Copper
+Titandrake - plays Apprentice
+Titandrake - trashes Fortress
+Titandrake - draws Copper, Copper, Copper, Fortress
+Titandrake - plays Fortress
+Titandrake - draws Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Fortress
+Titandrake - draws Hamlet, Fortress, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Hamlet
+Titandrake - discards Estate
+Titandrake - receives one buy
+Titandrake - plays Fortress
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - plays Fortress
+Titandrake - plays 5 Copper, 2 Silver
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - shuffles deck
+Titandrake - draws Apprentice, Silver, Duchy, Copper, Hamlet
+ 
+---------- Troninho: turn 13 ----------
+Troninho - duration Haven
+Troninho - places set aside Copper in hand
+Troninho - duration Haven
+Troninho - places set aside Copper in hand
+Troninho - duration Haven
+Troninho - places set aside Peddler in hand
+Troninho - plays Peddler
+Troninho - draws Market
+Troninho - plays Market
+Troninho - draws Market
+Troninho - plays Market
+Troninho - draws Apprentice
+Troninho - plays Peddler
+Troninho - draws Hoard
+Troninho - plays Apprentice
+Troninho - trashes Peddler
+Troninho - draws Copper, Copper, Fortress, Apprentice, Hamlet, Apprentice, Peddler, Copper
+Troninho - plays Apprentice
+Troninho - trashes Fortress
+Troninho - draws Apprentice, Province, Estate, Market
+Troninho - plays Hamlet
+Troninho - draws Altar
+Troninho - discards Estate
+Troninho - receives one action
+Troninho - discards Province
+Troninho - receives one buy
+Troninho - plays Altar
+Troninho - trashes Fortress
+Troninho - gains Apprentice
+Troninho - plays Market
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Hamlet
+Troninho - plays Peddler
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Peddler
+Troninho - plays Hamlet
+Troninho - shuffles deck
+Troninho - draws Apprentice
+Troninho - discards Copper
+Troninho - receives one action
+Troninho - plays Altar
+Troninho - trashes Fortress
+Troninho - gains Duchy
+Troninho - plays Peddler
+Troninho - draws Estate
+Troninho - plays Fortress
+Troninho - draws Province
+Troninho - plays Apprentice
+Troninho - trashes Copper
+Troninho - plays Apprentice
+Troninho - trashes Copper
+Troninho - plays Apprentice
+Troninho - trashes Copper
+Troninho - plays 2 Copper
+Troninho - plays Hoard
+Troninho - buys Province
+Troninho - gains Gold
+Troninho - gains Province
+Troninho - buys Duchy
+Troninho - gains Gold
+Troninho - gains Duchy
+Troninho - buys Estate
+Troninho - gains Gold
+Troninho - gains Estate
+Troninho - shuffles deck
+Troninho - draws Peddler, Copper, Gold, Haven, Fortress
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - plays Apprentice
+Titandrake - trashes Duchy
+Titandrake - draws Copper, Silver, Fortress, Copper, Fortress
+Titandrake - plays Hamlet
+Titandrake - draws Hoard
+Titandrake - discards Copper
+Titandrake - receives one buy
+Titandrake - plays Fortress
+Titandrake - draws Gold
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 2 Silver, 1 Gold
+Titandrake - plays Hoard
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Apprentice, Fortress, Copper, Copper, Hamlet
+ 
+---------- Troninho: turn 14 ----------
+Troninho - plays Haven
+Troninho - draws Apprentice
+Troninho - sets aside Copper
+Troninho - plays Apprentice
+Troninho - trashes Gold
+Troninho - draws Gold, Province, Apprentice, Gold, Peddler, Apprentice
+Troninho - plays Peddler
+Troninho - draws Estate
+Troninho - plays Peddler
+Troninho - draws Apprentice
+Troninho - plays Apprentice
+Troninho - trashes Fortress
+Troninho - draws Duchy, Estate, Market, Copper
+Troninho - plays Apprentice
+Troninho - trashes Fortress
+Troninho - draws Market, Peddler, Apprentice, Haven
+Troninho - plays Market
+Troninho - draws Province
+Troninho - plays Market
+Troninho - draws Peddler
+Troninho - plays Peddler
+Troninho - draws Hamlet
+Troninho - plays Hamlet
+Troninho - draws Peddler
+Troninho - discards Province
+Troninho - receives one action
+Troninho - discards Province
+Troninho - receives one buy
+Troninho - plays Peddler
+Troninho - draws Hamlet
+Troninho - plays Hamlet
+Troninho - draws Duchy
+Troninho - discards Estate
+Troninho - receives one action
+Troninho - discards Estate
+Troninho - receives one buy
+Troninho - plays Haven
+Troninho - draws Haven
+Troninho - sets aside Duchy
+Troninho - plays Haven
+Troninho - draws Altar
+Troninho - sets aside Duchy
+Troninho - plays Altar
+Troninho - trashes Fortress
+Troninho - gains Apprentice
+Troninho - plays Apprentice
+Troninho - trashes Peddler
+Troninho - draws Peddler, Peddler, Market, Copper, Hoard, Altar, Peddler, Estate
+Troninho - plays Market
+Troninho - shuffles deck
+Troninho - draws Estate
+Troninho - plays Altar
+Troninho - trashes Fortress
+Troninho - gains Apprentice
+Troninho - plays Peddler
+Troninho - draws Province
+Troninho - plays Peddler
+Troninho - draws Estate
+Troninho - plays Peddler
+Troninho - draws Province
+Troninho - plays Fortress
+Troninho - draws Apprentice
+Troninho - plays Apprentice
+Troninho - trashes Apprentice
+Troninho - shuffles deck
+Troninho - draws Apprentice
+Troninho - plays 2 Gold, 2 Copper
+Troninho - plays Hoard
+Troninho - buys Hamlet
+Troninho - gains Hamlet
+Troninho - buys Hamlet
+Troninho - gains Hamlet
+Troninho - buys Hamlet
+Troninho - gains Hamlet
+Troninho - buys Hamlet
+Troninho - gains Hamlet
+Troninho - buys Hamlet
+Troninho - gains Hamlet
+Troninho - buys Hamlet
+Troninho - gains Hamlet
+Troninho - shuffles deck
+Troninho - draws Altar, Peddler, Hamlet, Hamlet, Fortress
+ 
+------------ Game Over ------------
+Troninho - cards: 8 Hamlet, 7 Peddler, 6 Apprentice, 3 Market, 3 Haven, 2 Altar, 1 Fortress, 3 Copper, 2 Gold, 1 Hoard, 3 Estate, 2 Province, 2 Duchy
+Troninho - total victory points: 21
+Troninho - turns: 14
+ 
+Titandrake - cards: 4 Fortress, 3 Apprentice, 2 Hamlet, 1 Haven, 6 Copper, 2 Gold, 2 Silver, 2 Hoard, 1 Province, 1 Estate
+Titandrake - total victory points: 7
+Titandrake - turns: 13
+ 
+1st place: Troninho
+2nd place: Titandrake
+ 

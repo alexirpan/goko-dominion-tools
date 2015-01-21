@@ -1,0 +1,274 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Great Hall, Trade Route, JackOfAllTrades, Band of Misfits, Library, Pillage, Wharf, Harem, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+domos - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+domos - shuffles deck
+Titandrake - shuffles deck
+domos - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Copper, Copper, Estate, Estate
+ 
+---------- domos: turn 1 ----------
+domos - plays 3 Copper
+domos - buys Trade Route
+domos - gains Trade Route
+domos - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Wharf
+ 
+---------- domos: turn 2 ----------
+domos - plays 4 Copper
+domos - buys Silver
+domos - gains Silver
+domos - shuffles deck
+domos - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - draws Copper, Copper, Copper, Estate, Embargo
+ 
+---------- domos: turn 3 ----------
+domos - plays 4 Copper
+domos - buys Silver
+domos - gains Silver
+domos - draws Silver, Estate, Copper, Trade Route, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, JackOfAllTrades
+Titandrake - plays Embargo
+Titandrake - embargoes Wharf
+Titandrake - trashes Embargo
+Titandrake - plays 4 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- domos: turn 4 ----------
+domos - plays Trade Route
+domos - trashes Estate
+domos - plays 2 Copper, 1 Silver
+domos - buys Silver
+domos - gains Silver
+domos - draws Estate, Copper
+domos - shuffles deck
+domos - draws Trade Route, Copper, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Gold, Wharf, Copper
+ 
+---------- domos: turn 5 ----------
+domos - plays Trade Route
+domos - trashes Estate
+domos - plays 2 Copper, 1 Silver
+domos - buys Silver
+domos - gains Silver
+domos - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Estate, JackOfAllTrades, Copper, Copper
+ 
+---------- domos: turn 6 ----------
+domos - plays 3 Copper, 1 Silver
+domos - buys Wharf
+domos - gains Curse
+domos - gains Wharf
+domos - draws Copper, Silver, Copper
+domos - shuffles deck
+domos - draws Silver, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - places Silver on top of deck
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Silver, Copper, Gold, Estate, Copper
+ 
+---------- domos: turn 7 ----------
+domos - plays 2 Copper, 2 Silver
+domos - buys Gold
+domos - gains Gold
+domos - draws Copper, Copper, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Gold, Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate
+ 
+---------- domos: turn 8 ----------
+domos - plays 3 Copper, 1 Silver
+domos - buys Pillage
+domos - gains Pillage
+domos - draws Trade Route, Wharf, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Wharf, Gold, JackOfAllTrades, Copper
+ 
+---------- domos: turn 9 ----------
+domos - plays Trade Route
+domos - trashes Copper
+domos - plays 1 Silver, 1 Copper
+domos - buys Silver
+domos - gains Silver
+domos - shuffles deck
+domos - draws Gold, Copper, Silver, Silver, Trade Route
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Wharf
+Titandrake - draws Trade Route, Copper
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Silver, Copper, Copper, Estate, Harem
+ 
+---------- domos: turn 10 ----------
+domos - plays Trade Route
+domos - trashes Copper
+domos - plays 2 Silver, 1 Gold
+domos - buys Gold
+domos - gains Gold
+domos - draws Copper, Pillage, Silver, Wharf, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Gold, Copper
+Titandrake - plays 3 Copper, 1 Harem, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Harem, Trade Route, Copper, Estate, Copper
+ 
+---------- domos: turn 11 ----------
+domos - plays Wharf
+domos - draws Copper, Copper
+domos - plays 4 Copper, 1 Silver
+domos - buys Gold
+domos - gains Gold
+domos - draws Silver, Estate, Copper, Silver, Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 1 Harem
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Copper, JackOfAllTrades, Silver, Harem
+ 
+---------- domos: turn 12 ----------
+domos - duration Wharf
+domos - shuffles deck
+domos - draws Copper, Silver
+domos - plays 3 Silver, 2 Copper
+domos - buys Province
+domos - gains Province
+domos - draws Gold, Gold, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Gold on top of deck
+Titandrake - plays 2 Copper, 1 Harem, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Harem, Harem, Copper, Silver, Copper
+ 
+---------- domos: turn 13 ----------
+domos - plays 2 Gold, 2 Copper, 1 Silver
+domos - buys Province
+domos - gains Province
+domos - draws Silver, Trade Route, Pillage, Gold, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Harem, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Wharf, Copper, Harem, Gold
+ 
+---------- domos: turn 14 ----------
+domos - plays Trade Route
+domos - trashes Copper
+domos - plays 1 Silver, 1 Gold
+domos - buys Harem
+domos - gains Harem
+domos - shuffles deck
+domos - draws Silver, Gold, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Wharf
+Titandrake - draws Harem, Silver
+Titandrake - plays 2 Harem, 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Silver, Copper, Copper, Copper
+ 
+---------- domos: turn 15 ----------
+domos - plays 2 Silver, 2 Copper, 1 Gold
+domos - buys Province
+domos - gains Province
+domos - draws Gold, Gold, Silver, Silver, Harem
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Wharf
+Titandrake - draws JackOfAllTrades, Estate
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Copper on top of deck
+Titandrake - plays 3 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Trade Route, Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Trade Route, 1 Wharf, 1 JackOfAllTrades, 7 Copper, 4 Harem, 4 Silver, 2 Gold, 5 Province, 2 Estate
+Titandrake - total victory points: 40
+Titandrake - turns: 16
+ 
+domos - cards: 1 Wharf, 1 Pillage, 1 Trade Route, 5 Silver, 4 Copper, 3 Gold, 1 Harem, 3 Province, 1 Estate, 1 Curse
+domos - total victory points: 20
+domos - turns: 15
+ 
+1st place: Titandrake
+2nd place: domos
+ 

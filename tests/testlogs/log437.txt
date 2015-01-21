@@ -1,0 +1,592 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Menagerie, Pirate Ship, Throne Room, Apprentice, Counting House, Tactician, Wharf, Border Village, King's Court, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Emeric - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Emeric - shuffles deck
+Titandrake - shuffles deck
+Emeric - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Emeric: turn 1 ----------
+Emeric - plays 4 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Emeric: turn 2 ----------
+Emeric - plays 3 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - shuffles deck
+Emeric - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Silver, Copper, Copper
+ 
+---------- Emeric: turn 3 ----------
+Emeric - plays 3 Copper, 1 Silver
+Emeric - buys Wharf
+Emeric - gains Wharf
+Emeric - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- Emeric: turn 4 ----------
+Emeric - plays 3 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Silver, Copper
+Emeric - shuffles deck
+Emeric - draws Wharf, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Wharf
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Estate
+ 
+---------- Emeric: turn 5 ----------
+Emeric - plays Wharf
+Emeric - draws Silver, Copper
+Emeric - plays 3 Copper, 2 Silver
+Emeric - buys King's Court
+Emeric - gains King's Court
+Emeric - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Throne Room
+Titandrake - gains Throne Room
+Titandrake - draws Copper, Wharf, Throne Room, Estate, Silver
+ 
+---------- Emeric: turn 6 ----------
+Emeric - duration Wharf
+Emeric - draws Estate, Estate
+Emeric - plays 4 Copper, 1 Silver
+Emeric - buys Border Village
+Emeric - gains Border Village
+Emeric - gains Wharf
+Emeric - shuffles deck
+Emeric - draws Copper, Copper, Border Village, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Throne Room
+Titandrake - plays Wharf
+Titandrake - draws Copper, Border Village
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Wharf
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Wharf, Border Village, Estate
+ 
+---------- Emeric: turn 7 ----------
+Emeric - plays Border Village
+Emeric - draws Wharf
+Emeric - plays Wharf
+Emeric - draws King's Court, Copper
+Emeric - plays 4 Copper
+Emeric - buys Throne Room
+Emeric - gains Throne Room
+Emeric - draws Silver, Copper, Silver, Estate, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Throne Room
+Titandrake - duration Wharf
+Titandrake - draws Border Village, Throne Room
+Titandrake - duration Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays Throne Room
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays 6 Copper, 2 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Wharf
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Border Village, Wharf, Silver
+ 
+---------- Emeric: turn 8 ----------
+Emeric - duration Wharf
+Emeric - draws Copper, Copper
+Emeric - plays 3 Copper, 2 Silver
+Emeric - buys Border Village
+Emeric - gains Border Village
+Emeric - gains Wharf
+Emeric - draws Silver, Wharf
+Emeric - shuffles deck
+Emeric - draws Silver, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Throne Room
+Titandrake - duration Wharf
+Titandrake - draws Estate, Border Village
+Titandrake - duration Wharf
+Titandrake - draws Silver, Silver
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays 4 Copper, 3 Silver
+Titandrake - buys King's Court
+Titandrake - gains King's Court
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Throne Room, Copper, Wharf, Copper, Copper
+ 
+---------- Emeric: turn 9 ----------
+Emeric - plays Wharf
+Emeric - draws Wharf, Silver
+Emeric - plays 3 Silver, 1 Copper
+Emeric - buys King's Court
+Emeric - gains King's Court
+Emeric - draws King's Court, Throne Room, Copper, Copper, Border Village
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+Titandrake - plays Throne Room
+Titandrake - plays Wharf
+Titandrake - draws Border Village, King's Court
+Titandrake - plays Wharf
+Titandrake - draws Estate, Silver
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Border Village, Copper, Copper, Silver, Estate
+ 
+---------- Emeric: turn 10 ----------
+Emeric - duration Wharf
+Emeric - draws Copper, Wharf
+Emeric - plays Throne Room
+Emeric - plays King's Court
+Emeric - plays Wharf
+Emeric - draws Border Village, Estate
+Emeric - plays Wharf
+Emeric - draws Copper, Estate
+Emeric - plays Wharf
+Emeric - draws Copper, Copper
+Emeric - plays King's Court
+Emeric - plays Border Village
+Emeric - shuffles deck
+Emeric - draws Copper
+Emeric - plays Border Village
+Emeric - draws Wharf
+Emeric - plays Border Village
+Emeric - draws Silver
+Emeric - plays Wharf
+Emeric - draws Silver, Estate
+Emeric - plays Border Village
+Emeric - draws Silver
+Emeric - plays 7 Copper, 3 Silver
+Emeric - buys Pirate Ship
+Emeric - gains Pirate Ship
+Emeric - buys Border Village
+Emeric - gains Border Village
+Emeric - gains Wharf
+Emeric - draws King's Court
+Emeric - shuffles deck
+Emeric - draws Silver, Border Village, Border Village, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Throne Room
+Titandrake - duration Wharf
+Titandrake - draws Copper, Border Village
+Titandrake - duration Wharf
+Titandrake - draws Silver, Wharf
+Titandrake - plays Border Village
+Titandrake - draws Throne Room
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Throne Room
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Silver, King's Court
+Titandrake - plays Wharf
+Titandrake - draws Silver, Estate
+Titandrake - plays 4 Silver, 3 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Wharf
+Titandrake - draws Border Village, Copper, Copper, Wharf, Silver
+ 
+---------- Emeric: turn 11 ----------
+Emeric - duration King's Court
+Emeric - duration Wharf
+Emeric - draws Border Village, Estate
+Emeric - duration Wharf
+Emeric - draws Estate, Estate
+Emeric - duration Wharf
+Emeric - draws Copper, Copper
+Emeric - duration Wharf
+Emeric - draws Pirate Ship, Wharf
+Emeric - plays Border Village
+Emeric - draws Silver
+Emeric - plays Border Village
+Emeric - draws Copper
+Emeric - plays King's Court
+Emeric - plays Wharf
+Emeric - draws Copper, Copper
+Emeric - plays Wharf
+Emeric - draws Copper, Copper
+Emeric - plays Wharf
+Emeric - draws Throne Room, Wharf
+Emeric - plays Border Village
+Emeric - plays Wharf
+Emeric - plays Throne Room
+Emeric - plays Pirate Ship
+Titandrake - reveals Copper, Wharf
+Titandrake - trashes Copper
+Titandrake - discards Wharf
+Emeric - receives a pirate coin, now has 1 pirate coin(s)
+Emeric - plays Pirate Ship
+Titandrake - reveals Copper
+Titandrake - shuffles deck
+Titandrake - reveals Wharf
+Titandrake - trashes Copper
+Titandrake - discards Wharf
+Emeric - receives a pirate coin, now has 2 pirate coin(s)
+Emeric - plays 7 Copper, 3 Silver
+Emeric - buys King's Court
+Emeric - gains King's Court
+Emeric - buys Border Village
+Emeric - gains Border Village
+Emeric - gains Pirate Ship
+Emeric - shuffles deck
+Emeric - draws Copper, Throne Room, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Throne Room
+Titandrake - duration Wharf
+Titandrake - draws Border Village, Estate
+Titandrake - duration Wharf
+Titandrake - draws Wharf, King's Court
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays Border Village
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays King's Court
+Titandrake - plays Wharf
+Titandrake - draws Border Village, Copper
+Titandrake - plays Wharf
+Titandrake - draws Estate, Silver
+Titandrake - plays Wharf
+Titandrake - draws Throne Room, Border Village
+Titandrake - plays Border Village
+Titandrake - draws Estate
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Throne Room
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Silver
+Titandrake - plays Wharf
+Titandrake - shuffles deck
+Titandrake - draws Wharf
+Titandrake - plays Wharf
+Titandrake - plays Wharf
+Titandrake - plays 5 Copper, 5 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Gold, Copper, Silver, Silver
+ 
+---------- Emeric: turn 12 ----------
+Emeric - duration King's Court
+Emeric - duration Wharf
+Emeric - draws Estate, Estate
+Emeric - duration Wharf
+Emeric - draws Copper, Estate
+Emeric - duration Wharf
+Emeric - draws King's Court, Border Village
+Emeric - duration Wharf
+Emeric - draws Border Village, Silver
+Emeric - plays Border Village
+Emeric - draws Copper
+Emeric - plays Throne Room
+Emeric - plays King's Court
+Emeric - plays Border Village
+Emeric - draws King's Court
+Emeric - plays Border Village
+Emeric - draws Wharf
+Emeric - plays Border Village
+Emeric - draws Copper
+Emeric - plays King's Court
+Emeric - plays King's Court
+Emeric - plays Wharf
+Emeric - draws Copper, Pirate Ship
+Emeric - plays Wharf
+Emeric - draws Pirate Ship, Border Village
+Emeric - plays Wharf
+Emeric - draws Border Village, Silver
+Emeric - plays King's Court
+Emeric - plays Pirate Ship
+Titandrake - reveals Border Village, Copper
+Titandrake - trashes Copper
+Titandrake - discards Border Village
+Emeric - receives a pirate coin, now has 3 pirate coin(s)
+Emeric - plays Pirate Ship
+Titandrake - reveals Province, Copper
+Titandrake - trashes Copper
+Titandrake - discards Province
+Emeric - receives a pirate coin, now has 4 pirate coin(s)
+Emeric - plays Pirate Ship
+Titandrake - reveals Wharf, Copper
+Titandrake - trashes Copper
+Titandrake - discards Wharf
+Emeric - receives a pirate coin, now has 5 pirate coin(s)
+Emeric - plays King's Court
+Emeric - plays Pirate Ship
+Titandrake - reveals Silver, Copper
+Titandrake - trashes Silver
+Titandrake - discards Copper
+Emeric - receives a pirate coin, now has 6 pirate coin(s)
+Emeric - plays Pirate Ship
+Titandrake - reveals Estate, Estate
+Titandrake - discards: Estate, Estate
+Emeric - plays Pirate Ship
+Titandrake - reveals Border Village, Silver
+Titandrake - trashes Silver
+Titandrake - discards Border Village
+Emeric - receives a pirate coin, now has 7 pirate coin(s)
+Emeric - plays Border Village
+Emeric - draws Wharf
+Emeric - plays Wharf
+Emeric - plays Border Village
+Emeric - plays 7 Copper, 3 Silver
+Emeric - buys King's Court
+Emeric - gains King's Court
+Emeric - buys Pirate Ship
+Emeric - gains Pirate Ship
+Emeric - buys Vagrant
+Emeric - gains Vagrant
+Emeric - shuffles deck
+Emeric - draws Copper, Copper, Border Village, Copper, Border Village
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Wharf
+Titandrake - draws Throne Room, Estate
+Titandrake - duration King's Court
+Titandrake - duration Wharf
+Titandrake - draws Silver, Border Village
+Titandrake - duration Wharf
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Copper
+Titandrake - duration Wharf
+Titandrake - draws Estate, Estate
+Titandrake - duration Throne Room
+Titandrake - duration Wharf
+Titandrake - draws Border Village, Wharf
+Titandrake - duration Wharf
+Titandrake - draws Province
+Titandrake - duration Wharf
+Titandrake - duration Wharf
+Titandrake - plays Border Village
+Titandrake - plays Throne Room
+Titandrake - plays Wharf
+Titandrake - plays Wharf
+Titandrake - plays 3 Silver, 2 Copper, 1 Gold
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Duchy, Estate, Duchy, Throne Room
+ 
+---------- Emeric: turn 13 ----------
+Emeric - duration King's Court
+Emeric - duration Wharf
+Emeric - draws Pirate Ship, Estate
+Emeric - duration Wharf
+Emeric - draws Copper, Silver
+Emeric - duration Wharf
+Emeric - draws Copper, Border Village
+Emeric - duration Wharf
+Emeric - draws Estate, Pirate Ship
+Emeric - plays Border Village
+Emeric - draws Wharf
+Emeric - plays Wharf
+Emeric - draws King's Court, King's Court
+Emeric - plays King's Court
+Emeric - plays King's Court
+Emeric - plays Border Village
+Emeric - draws King's Court
+Emeric - plays Border Village
+Emeric - draws Copper
+Emeric - plays Border Village
+Emeric - draws Throne Room
+Emeric - plays King's Court
+Emeric - plays Throne Room
+Emeric - plays King's Court
+Emeric - plays Border Village
+Emeric - draws Silver
+Emeric - plays Border Village
+Emeric - draws Copper
+Emeric - plays Border Village
+Emeric - draws Vagrant
+Emeric - plays King's Court
+Emeric - plays Vagrant
+Emeric - draws Silver
+Emeric - reveals: Wharf
+Emeric - places Wharf on top of deck
+Emeric - plays Vagrant
+Emeric - draws Wharf
+Emeric - reveals: Estate
+Emeric - places Estate in hand
+Emeric - plays Vagrant
+Emeric - draws Pirate Ship
+Emeric - reveals: Border Village
+Emeric - places Border Village on top of deck
+Emeric - plays Throne Room
+Emeric - plays Wharf
+Emeric - draws Border Village
+Emeric - plays Wharf
+Emeric - plays Throne Room
+Emeric - plays Pirate Ship
+Emeric - takes 7 coins
+Emeric - plays Pirate Ship
+Emeric - takes 7 coins
+Emeric - plays King's Court
+Emeric - plays Pirate Ship
+Emeric - takes 7 coins
+Emeric - plays Pirate Ship
+Emeric - takes 7 coins
+Emeric - plays Pirate Ship
+Emeric - takes 7 coins
+Emeric - plays Pirate Ship
+Emeric - takes 7 coins
+Emeric - plays 7 Copper, 3 Silver
+Emeric - buys Province
+Emeric - gains Province
+Emeric - buys Province
+Emeric - gains Province
+Emeric - buys Province
+Emeric - gains Province
+Emeric - buys Province
+Emeric - gains Province
+Emeric - buys Province
+Emeric - gains Province
+Emeric - buys Province
+Emeric - gains Province
+Emeric - buys Duchy
+Emeric - gains Duchy
+Emeric - buys Estate
+Emeric - gains Estate
+Emeric - shuffles deck
+Emeric - draws Copper, Province, Silver, Province, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Throne Room
+Titandrake - duration Wharf
+Titandrake - draws Border Village, Border Village
+Titandrake - duration Wharf
+Titandrake - draws Wharf, King's Court
+Titandrake - plays Border Village
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Wharf
+Titandrake - plays Border Village
+Titandrake - draws Wharf
+Titandrake - plays Throne Room
+Titandrake - plays King's Court
+Titandrake - plays Wharf
+Titandrake - draws Province, Estate
+Titandrake - plays Wharf
+Titandrake - draws Estate, Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays King's Court
+Titandrake - plays Wharf
+Titandrake - draws Copper, Border Village
+Titandrake - plays Wharf
+Titandrake - draws Border Village, Gold
+Titandrake - plays Wharf
+Titandrake - draws Silver, Silver
+Titandrake - plays Wharf
+Titandrake - plays Border Village
+Titandrake - plays Border Village
+Titandrake - plays Wharf
+Titandrake - plays Wharf
+Titandrake - plays 3 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - shuffles deck
+Titandrake - draws Curse, Curse, Province, Duchy, Silver
+ 
+------------ Game Over ------------
+Emeric - cards: 4 King's Court, 4 Border Village, 4 Wharf, 3 Pirate Ship, 1 Vagrant, 1 Throne Room, 7 Copper, 3 Silver, 6 Province, 4 Estate, 1 Duchy
+Emeric - total victory points: 43
+Emeric - turns: 13
+ 
+Titandrake - cards: 6 Wharf, 5 Border Village, 2 Throne Room, 1 King's Court, 3 Silver, 2 Copper, 1 Gold, 4 Estate, 2 Province, 2 Duchy, 10 Curse
+Titandrake - total victory points: 12
+Titandrake - turns: 13
+ 
+1st place: Emeric
+2nd place: Titandrake
+ 

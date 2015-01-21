@@ -1,0 +1,545 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Poor House, Herbalist, Lighthouse, Ambassador, Trade Route, Feast, Spy, Treasure Map, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Perna - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Perna - shuffles deck
+Titandrake - shuffles deck
+Perna - draws Estate, Copper, Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Perna: turn 1 ----------
+Perna - plays 3 Copper
+Perna - buys Ambassador
+Perna - gains Ambassador
+Perna - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Ambassador, Copper
+ 
+---------- Perna: turn 2 ----------
+Perna - plays 4 Copper
+Perna - buys Ambassador
+Perna - gains Ambassador
+Perna - shuffles deck
+Perna - draws Copper, Ambassador, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+Perna - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Copper, Estate, Lighthouse, Estate, Copper
+ 
+---------- Perna: turn 3 ----------
+Perna - plays Ambassador
+Perna - reveals Copper
+Perna - returns Copper to the Supply
+Perna - returns Copper to the Supply
+Titandrake - gains Copper
+Perna - plays 2 Copper
+Perna - buys Lighthouse
+Perna - gains Lighthouse
+Perna - draws Copper, Copper, Estate, Ambassador, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays 2 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Ambassador
+ 
+---------- Perna: turn 4 ----------
+Perna - plays Ambassador
+Perna - reveals Estate
+Perna - returns Estate to the Supply
+Perna - plays 3 Copper
+Perna - buys Silver
+Perna - gains Silver
+Perna - draws Estate, Estate
+Perna - shuffles deck
+Perna - draws Copper, Copper, Lighthouse
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+Perna - gains Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Ambassador, Copper, Copper, Lighthouse
+ 
+---------- Perna: turn 5 ----------
+Perna - plays Lighthouse
+Perna - plays 2 Copper
+Perna - buys Silver
+Perna - gains Silver
+Perna - draws Silver, Copper, Ambassador, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ambassador, Copper
+ 
+---------- Perna: turn 6 ----------
+Perna - duration Lighthouse
+Perna - plays Ambassador
+Perna - reveals Copper
+Perna - returns Copper to the Supply
+Perna - returns Copper to the Supply
+Perna - plays 1 Silver, 1 Copper
+Perna - buys Spy
+Perna - gains Spy
+Perna - draws Ambassador, Copper
+Perna - shuffles deck
+Perna - draws Estate, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Perna - gains Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Treasure Map
+Titandrake - gains Treasure Map
+Titandrake - draws Lighthouse, Silver, Ambassador, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Perna: turn 7 ----------
+Perna - plays Ambassador
+Perna - reveals Estate
+Perna - returns Estate to the Supply
+Perna - returns Estate to the Supply
+Titandrake - gains Estate
+Perna - plays 2 Copper
+Perna - buys Lighthouse
+Perna - gains Lighthouse
+Perna - draws Lighthouse, Ambassador, Copper, Silver, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Perna - gains Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Treasure Map
+Titandrake - gains Treasure Map
+Titandrake - draws Copper, Treasure Map, Copper, Ambassador, Lighthouse
+ 
+---------- Perna: turn 8 ----------
+Perna - plays Lighthouse
+Perna - plays Ambassador
+Perna - reveals Estate
+Perna - returns Estate to the Supply
+Perna - plays 1 Copper, 1 Silver
+Perna - buys Treasure Map
+Perna - gains Treasure Map
+Perna - draws Copper, Silver, Spy
+Perna - shuffles deck
+Perna - draws Lighthouse, Ambassador
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Ambassador, Lighthouse, Ambassador
+ 
+---------- Perna: turn 9 ----------
+Perna - duration Lighthouse
+Perna - plays Lighthouse
+Perna - plays Spy
+Perna - draws Ambassador
+Perna - discards Silver
+Perna - plays Ambassador
+Perna - reveals Copper
+Perna - returns Copper to the Supply
+Perna - plays 1 Silver
+Perna - buys Treasure Map
+Perna - gains Treasure Map
+Perna - draws Copper, Copper, Treasure Map, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - plays 1 Silver
+Titandrake - buys Spy
+Titandrake - gains Spy
+Titandrake - draws Treasure Map, Estate, Treasure Map
+Titandrake - shuffles deck
+Titandrake - draws Silver, Ambassador
+ 
+---------- Perna: turn 10 ----------
+Perna - duration Lighthouse
+Perna - plays 4 Copper
+Perna - buys Treasure Map
+Perna - gains Treasure Map
+Perna - draws Estate
+Perna - shuffles deck
+Perna - draws Copper, Lighthouse, Silver, Lighthouse
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Treasure Map
+Titandrake - trashes Treasure Map, Treasure Map
+Titandrake - gains Gold
+Titandrake - gains Gold
+Titandrake - gains Gold
+Titandrake - gains Gold
+Titandrake - plays 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, Gold, Gold, Gold, Lighthouse
+ 
+---------- Perna: turn 11 ----------
+Perna - plays Lighthouse
+Perna - plays Lighthouse
+Perna - plays 1 Copper, 1 Silver
+Perna - buys Treasure Map
+Perna - gains Treasure Map
+Perna - draws Copper, Treasure Map, Treasure Map, Spy, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays 4 Gold
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Spy, Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Lighthouse
+ 
+---------- Perna: turn 12 ----------
+Perna - duration Lighthouse
+Perna - duration Lighthouse
+Perna - plays Spy
+Perna - draws Ambassador
+Perna - discards Ambassador
+Perna - plays Treasure Map
+Perna - trashes Treasure Map, Treasure Map
+Perna - gains Gold
+Perna - gains Gold
+Perna - gains Gold
+Perna - gains Gold
+Perna - plays 2 Copper
+Perna - buys Spy
+Perna - gains Spy
+Perna - draws Gold, Gold, Gold, Gold, Treasure Map
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Spy
+Titandrake - draws Gold
+Titandrake - places Platinum on top of deck
+Perna - places Copper on top of deck
+Titandrake - plays Lighthouse
+Titandrake - plays 3 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Platinum, Ambassador, Silver, Gold, Silver
+ 
+---------- Perna: turn 13 ----------
+Perna - plays 4 Gold
+Perna - buys Colony
+Perna - gains Colony
+Perna - draws Copper, Silver
+Perna - shuffles deck
+Perna - draws Ambassador, Treasure Map, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays 2 Silver, 1 Platinum, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Colony, Spy, Gold, Lighthouse
+ 
+---------- Perna: turn 14 ----------
+Perna - plays Ambassador
+Perna - reveals Copper
+Perna - returns Copper to the Supply
+Titandrake - gains Copper
+Perna - plays 2 Silver
+Perna - buys Spy
+Perna - gains Spy
+Perna - draws Copper, Gold, Estate, Colony, Gold
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Spy
+Titandrake - draws Gold
+Titandrake - discards Gold
+Perna - discards Spy
+Titandrake - plays 2 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Colony, Gold, Platinum, Silver, Silver
+ 
+---------- Perna: turn 15 ----------
+Perna - plays 2 Gold, 1 Copper
+Perna - buys Gold
+Perna - gains Gold
+Perna - draws Gold, Treasure Map, Lighthouse, Gold, Spy
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays 2 Silver, 1 Gold, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Ambassador, Lighthouse, Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Gold, Estate
+ 
+---------- Perna: turn 16 ----------
+Perna - plays Spy
+Perna - draws Copper
+Perna - discards Lighthouse
+Titandrake - discards Gold
+Perna - plays Lighthouse
+Perna - plays 2 Gold, 1 Copper
+Perna - buys Province
+Perna - gains Province
+Perna - draws Ambassador, Copper
+Perna - shuffles deck
+Perna - draws Province, Gold, Treasure Map
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Gold
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Colony, Silver, Silver, Gold, Copper
+ 
+---------- Perna: turn 17 ----------
+Perna - duration Lighthouse
+Perna - plays Ambassador
+Perna - reveals Copper
+Perna - returns Copper to the Supply
+Perna - plays 1 Gold
+Perna - buys Treasure Map
+Perna - gains Treasure Map
+Perna - draws Treasure Map, Colony, Spy, Gold, Spy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Platinum
+Titandrake - gains Platinum
+Titandrake - draws Platinum, Colony, Lighthouse, Gold, Colony
+ 
+---------- Perna: turn 18 ----------
+Perna - plays Spy
+Perna - draws Copper
+Perna - discards Silver
+Titandrake - discards Gold
+Perna - plays Spy
+Perna - draws Ambassador
+Perna - discards Copper
+Titandrake - discards Spy
+Perna - plays Ambassador
+Perna - reveals Copper
+Perna - returns Copper to the Supply
+Titandrake - gains Copper
+Perna - plays 1 Gold
+Perna - buys Trade Route
+Perna - gains Trade Route
+Perna - draws Silver, Estate, Gold, Spy, Lighthouse
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays 1 Platinum, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Colony, Province, Ambassador, Silver, Platinum
+ 
+---------- Perna: turn 19 ----------
+Perna - plays Spy
+Perna - draws Gold
+Perna - places Gold on top of deck
+Perna - plays Lighthouse
+Perna - plays 2 Gold, 1 Silver
+Perna - buys Platinum
+Perna - gains Platinum
+Perna - draws Gold
+Perna - shuffles deck
+Perna - draws Trade Route, Spy, Gold, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays 1 Silver, 1 Platinum
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Colony, Gold, Gold, Gold, Silver
+ 
+---------- Perna: turn 20 ----------
+Perna - duration Lighthouse
+Perna - plays Spy
+Perna - draws Province
+Perna - discards Silver
+Titandrake - places Copper on top of deck
+Perna - plays Trade Route
+Perna - trashes Silver
+Perna - plays 2 Gold
+Perna - buys Platinum
+Perna - gains Platinum
+Perna - draws Ambassador, Treasure Map, Estate, Platinum, Spy
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 3 Gold, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Copper, Gold, Estate, Trade Route, Ambassador
+ 
+---------- Perna: turn 21 ----------
+Perna - plays Spy
+Perna - draws Treasure Map
+Perna - discards Copper
+Titandrake - discards Gold
+Perna - plays Treasure Map
+Perna - trashes Treasure Map, Treasure Map
+Perna - gains Gold
+Perna - gains Gold
+Perna - gains Gold
+Perna - gains Gold
+Perna - plays 1 Platinum
+Perna - buys Duchy
+Perna - gains Duchy
+Perna - draws Gold, Gold, Gold, Gold, Colony
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Copper, Platinum, Spy, Lighthouse, Colony
+ 
+---------- Perna: turn 22 ----------
+Perna - plays 4 Gold
+Perna - buys Colony
+Perna - gains Colony
+Perna - draws Gold, Treasure Map, Gold, Lighthouse, Spy
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Spy
+Titandrake - shuffles deck
+Titandrake - draws Ambassador
+Titandrake - places Gold on top of deck
+Perna - discards Gold
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Perna - gains Copper
+Titandrake - plays 1 Platinum
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Silver, Silver, Colony, Trade Route
+ 
+---------- Perna: turn 23 ----------
+Perna - plays Lighthouse
+Perna - plays Spy
+Perna - draws Ambassador
+Perna - shuffles deck
+Perna - discards Estate
+Perna - plays Ambassador
+Perna - reveals Treasure Map
+Perna - returns Treasure Map to the Supply
+Perna - plays 2 Gold
+Perna - buys Altar
+Perna - gains Altar
+Perna - draws Gold, Platinum, Copper, Platinum, Colony
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Trade Route
+Titandrake - trashes Colony
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Province, Lighthouse, Duchy, Gold, Lighthouse
+ 
+---------- Perna: turn 24 ----------
+Perna - duration Lighthouse
+Perna - plays Platinum
+Perna - plays Gold
+Perna - buys Province
+Perna - gains Province
+Perna - draws Copper, Lighthouse, Silver, Gold, Spy
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Ambassador, Province, Gold, Gold, Platinum
+ 
+---------- Perna: turn 25 ----------
+Perna - plays Spy
+Perna - draws Gold
+Perna - places Gold on top of deck
+Perna - plays Lighthouse
+Perna - plays 2 Gold, 1 Copper, 1 Silver
+Perna - buys Province
+Perna - gains Province
+Perna - draws Gold, Duchy, Gold, Colony, Ambassador
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays 2 Gold, 1 Platinum
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - draws Colony, Colony, Estate, Gold
+Titandrake - shuffles deck
+Titandrake - draws Colony
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Lighthouse, 2 Ambassador, 1 Spy, 1 Trade Route, 5 Gold, 2 Platinum, 2 Silver, 5 Colony, 3 Duchy, 2 Province, 1 Estate
+Titandrake - total victory points: 72
+Titandrake - turns: 26
+ 
+Perna - cards: 3 Spy, 2 Lighthouse, 2 Ambassador, 1 Trade Route, 1 Altar, 9 Gold, 2 Platinum, 2 Copper, 1 Silver, 3 Province, 2 Colony, 1 Estate, 1 Duchy
+Perna - total victory points: 42
+Perna - turns: 25
+ 
+1st place: Titandrake
+2nd place: Perna
+ 

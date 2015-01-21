@@ -1,0 +1,422 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Pawn, Village, Feodum, Sea Hag, Spy, Cartographer, Graverobber, Junk Dealer, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Emeric - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Emeric - shuffles deck
+Titandrake - shuffles deck
+Emeric - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Estate, Estate, Copper, Copper, Estate
+ 
+---------- Emeric: turn 1 ----------
+Emeric - plays 3 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Emeric: turn 2 ----------
+Emeric - plays 4 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - shuffles deck
+Emeric - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Junk Dealer
+ 
+---------- Emeric: turn 3 ----------
+Emeric - plays 4 Copper, 1 Silver
+Emeric - buys Hoard
+Emeric - gains Hoard
+Emeric - draws Copper, Copper, Estate, Estate, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Estate
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Emeric: turn 4 ----------
+Emeric - plays 2 Copper, 1 Silver
+Emeric - buys Sea Hag
+Emeric - gains Sea Hag
+Emeric - draws Copper, Estate
+Emeric - shuffles deck
+Emeric - draws Estate, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Copper, Junk Dealer, Copper, Feodum
+ 
+---------- Emeric: turn 5 ----------
+Emeric - plays 3 Copper
+Emeric - buys Village
+Emeric - gains Village
+Emeric - draws Copper, Copper, Sea Hag, Estate, Silver
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Junk Dealer, Copper, Feodum
+Titandrake - draws Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Copper, Copper, Copper, Sea Hag, Estate
+ 
+---------- Emeric: turn 6 ----------
+Emeric - plays Sea Hag
+Titandrake - discards Estate
+Titandrake - gains Curse
+Emeric - plays 2 Copper, 1 Silver
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Silver, Copper, Hoard, Copper
+Emeric - shuffles deck
+Emeric - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sea Hag
+Emeric - discards Silver
+Emeric - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Crossroads, Sea Hag, Junk Dealer
+ 
+---------- Emeric: turn 7 ----------
+Emeric - plays 3 Copper, 1 Silver
+Emeric - plays Hoard
+Emeric - buys Duchy
+Emeric - gains Gold
+Emeric - gains Duchy
+Emeric - draws Curse, Village, Sea Hag, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Estate
+Titandrake - trashes Curse
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Copper, Sea Hag, Estate
+Titandrake - draws Copper
+Titandrake - plays Sea Hag
+Emeric - discards Estate
+Emeric - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Silver, Estate, Silver
+ 
+---------- Emeric: turn 8 ----------
+Emeric - plays Village
+Emeric - draws Curse
+Emeric - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+Emeric - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Graverobber
+Titandrake - gains Graverobber
+Titandrake - draws Curse, Silver, Silver, Copper, Copper
+ 
+---------- Emeric: turn 9 ----------
+Emeric - plays 3 Copper, 1 Silver
+Emeric - buys Junk Dealer
+Emeric - gains Junk Dealer
+Emeric - shuffles deck
+Emeric - draws Silver, Curse, Copper, Sea Hag, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Junk Dealer
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Silver, Estate
+ 
+---------- Emeric: turn 10 ----------
+Emeric - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+Emeric - plays 2 Silver, 1 Copper
+Emeric - buys Junk Dealer
+Emeric - gains Junk Dealer
+Emeric - draws Duchy, Junk Dealer, Village, Copper, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Curse
+Titandrake - trashes Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Crossroads, Curse, Copper, Junk Dealer, Junk Dealer
+ 
+---------- Emeric: turn 11 ----------
+Emeric - plays Village
+Emeric - draws Estate
+Emeric - plays Junk Dealer
+Emeric - draws Gold
+Emeric - trashes Copper
+Emeric - plays 1 Copper, 1 Gold
+Emeric - buys Graverobber
+Emeric - gains Graverobber
+Emeric - draws Curse, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Graverobber
+Titandrake - trashes Curse
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Graverobber
+Titandrake - trashes Crossroads
+Titandrake - gains Feodum
+Titandrake - plays Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Copper, Copper, Silver, Estate, Copper
+ 
+---------- Emeric: turn 12 ----------
+Emeric - plays 3 Copper
+Emeric - buys Crossroads
+Emeric - gains Crossroads
+Emeric - draws Hoard, Silver, Estate, Copper
+Emeric - shuffles deck
+Emeric - draws Graverobber
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Silver, Copper, Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Silver, Feodum
+ 
+---------- Emeric: turn 13 ----------
+Emeric - plays Graverobber
+Emeric - gains Feodum
+Emeric - plays 1 Silver, 1 Copper
+Emeric - plays Hoard
+Emeric - buys Duchy
+Emeric - gains Gold
+Emeric - gains Duchy
+Emeric - draws Feodum, Copper, Village, Crossroads, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Sea Hag
+Emeric - discards Junk Dealer
+Emeric - gains Curse
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Graverobber, Junk Dealer, Copper, Silver, Copper
+ 
+---------- Emeric: turn 14 ----------
+Emeric - plays Village
+Emeric - draws Curse
+Emeric - plays Crossroads
+Emeric - reveals hand: Feodum, Copper, Copper, Curse
+Emeric - draws Gold
+Emeric - plays 2 Copper, 1 Gold
+Emeric - buys Junk Dealer
+Emeric - gains Junk Dealer
+Emeric - draws Estate, Estate, Junk Dealer, Copper, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Graverobber
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Estate, Junk Dealer, Feodum, Copper, Estate
+ 
+---------- Emeric: turn 15 ----------
+Emeric - plays Junk Dealer
+Emeric - draws Duchy
+Emeric - trashes Curse
+Emeric - plays 1 Copper
+Emeric - buys Crossroads
+Emeric - gains Crossroads
+Emeric - draws Copper, Curse, Silver, Silver, Sea Hag
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Junk Dealer, Feodum, Feodum
+ 
+---------- Emeric: turn 16 ----------
+Emeric - plays Sea Hag
+Titandrake - shuffles deck
+Titandrake - discards Silver
+Titandrake - gains Curse
+Emeric - plays 2 Silver, 1 Copper
+Emeric - buys Graverobber
+Emeric - gains Graverobber
+Emeric - draws Copper
+Emeric - shuffles deck
+Emeric - draws Curse, Copper, Gold, Village
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Curse
+Titandrake - trashes Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Feodum
+Titandrake - gains Feodum
+Titandrake - draws Sea Hag, Copper, Silver, Copper, Feodum
+ 
+---------- Emeric: turn 17 ----------
+Emeric - plays Village
+Emeric - draws Crossroads
+Emeric - plays 2 Copper, 1 Gold
+Emeric - buys Feodum
+Emeric - gains Feodum
+Emeric - draws Graverobber, Copper, Estate, Estate, Junk Dealer
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Sea Hag
+Emeric - discards Curse
+Emeric - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Silver, Copper, Junk Dealer
+ 
+---------- Emeric: turn 18 ----------
+Emeric - plays Junk Dealer
+Emeric - draws Curse
+Emeric - trashes Curse
+Emeric - plays Graverobber
+Emeric - gains Feodum
+Emeric - plays 1 Copper
+Emeric - buys Crossroads
+Emeric - gains Crossroads
+Emeric - draws Feodum, Copper, Copper, Silver, Junk Dealer
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Junk Dealer
+Titandrake - trashes Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Estate
+Titandrake - trashes Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Feodum, Silver, Junk Dealer, Estate, Silver
+ 
+---------- Emeric: turn 19 ----------
+Emeric - plays Junk Dealer
+Emeric - draws Crossroads
+Emeric - trashes Copper
+Emeric - plays Crossroads
+Emeric - reveals hand: Feodum, Copper, Silver
+Emeric - draws Estate
+Emeric - plays 1 Copper, 1 Silver
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Gold, Duchy, Duchy, Silver, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Graverobber
+Titandrake - trashes Feodum
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - gains Silver
+Titandrake - plays Graverobber
+Titandrake - gains Feodum
+Titandrake - plays 2 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Feodum, Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Feodum
+ 
+---------- Emeric: turn 20 ----------
+Emeric - plays 1 Gold, 1 Silver, 1 Copper
+Emeric - buys Hoard
+Emeric - gains Hoard
+Emeric - draws Graverobber, Sea Hag, Silver, Junk Dealer, Hoard
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Silver
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Silver, Sea Hag, Graverobber, Copper, Silver
+ 
+---------- Emeric: turn 21 ----------
+Emeric - plays Junk Dealer
+Emeric - draws Feodum
+Emeric - trashes Feodum
+Emeric - gains Silver
+Emeric - gains Silver
+Emeric - gains Silver
+Emeric - plays Graverobber
+Emeric - gains Feodum
+Emeric - plays 1 Silver
+Emeric - plays Hoard
+Emeric - buys Duchy
+Emeric - gains Gold
+Emeric - gains Duchy
+Emeric - draws Feodum
+Emeric - shuffles deck
+Emeric - draws Silver, Estate, Hoard, Estate
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Sea Hag
+Emeric - discards Gold
+Emeric - gains Curse
+Titandrake - buys Curse
+Titandrake - gains Curse
+Titandrake - draws Junk Dealer, Silver, Silver, Silver, Feodum
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Junk Dealer, 13 Silver, 1 Sea Hag, 1 Graverobber, 3 Copper, 5 Feodum, 2 Estate, 1 Curse
+Titandrake - total victory points: 21
+Titandrake - turns: 21
+ 
+Emeric - cards: 3 Crossroads, 3 Junk Dealer, 2 Graverobber, 1 Village, 1 Sea Hag, 7 Silver, 5 Copper, 3 Gold, 2 Hoard, 3 Feodum, 3 Estate, 3 Duchy, 3 Curse
+Emeric - total victory points: 15
+Emeric - turns: 21
+ 
+1st place: Titandrake
+2nd place: Emeric
+ 

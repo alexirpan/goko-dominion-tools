@@ -1,0 +1,378 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Trade Route, Ironworks, Thief, Tournament, Catacombs, Explorer, Minion, Royal Seal, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Perna - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Perna - shuffles deck
+Titandrake - shuffles deck
+Perna - draws Estate, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Perna: turn 1 ----------
+Perna - plays 3 Copper
+Perna - buys Silver
+Perna - gains Silver
+Perna - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Silver, Copper
+ 
+---------- Perna: turn 2 ----------
+Perna - plays 4 Copper
+Perna - buys Ironworks
+Perna - gains Ironworks
+Perna - shuffles deck
+Perna - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Catacombs
+Titandrake - gains Catacombs
+Titandrake - draws Estate, Copper, Copper, Tournament, Estate
+ 
+---------- Perna: turn 3 ----------
+Perna - plays 3 Copper
+Perna - buys Trade Route
+Perna - gains Trade Route
+Perna - draws Copper, Silver, Copper, Ironworks, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Estate
+ 
+---------- Perna: turn 4 ----------
+Perna - plays Ironworks
+Perna - gains Silver
+Perna - plays 2 Copper, 1 Silver
+Perna - buys Minion
+Perna - gains Minion
+Perna - draws Copper, Copper
+Perna - shuffles deck
+Perna - draws Ironworks, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Tournament
+Titandrake - gains Tournament
+Titandrake - draws Tournament, Silver, Copper, Estate, Estate
+ 
+---------- Perna: turn 5 ----------
+Perna - plays Ironworks
+Perna - gains Tournament
+Perna - plays 3 Copper, 1 Silver
+Perna - buys Minion
+Perna - gains Minion
+Perna - draws Minion, Estate, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper, Catacombs, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper
+ 
+---------- Perna: turn 6 ----------
+Perna - plays Minion
+Perna - takes 2 coins
+Perna - plays 1 Silver, 1 Copper
+Perna - buys Minion
+Perna - gains Minion
+Perna - draws Copper, Copper, Estate, Copper, Trade Route
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Tournament, Minion, Copper
+Titandrake - discards: Tournament, Minion, Copper
+Titandrake - draws Tournament, Copper, Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - draws Copper, Copper, Silver, Copper, Estate
+ 
+---------- Perna: turn 7 ----------
+Perna - plays Trade Route
+Perna - trashes Estate
+Perna - plays 3 Copper
+Perna - buys Silver
+Perna - gains Silver
+Perna - shuffles deck
+Perna - draws Tournament, Trade Route, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - shuffles deck
+Titandrake - draws Minion, Copper, Copper, Catacombs, Copper
+ 
+---------- Perna: turn 8 ----------
+Perna - plays Tournament
+Perna - draws Copper
+Perna - plays 4 Copper
+Perna - buys Minion
+Perna - gains Minion
+Perna - draws Silver, Ironworks, Silver, Copper, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Catacombs
+Titandrake - looks at Copper, Copper, Estate
+Titandrake - discards: Copper, Copper, Estate
+Titandrake - draws Silver, Minion, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Tournament, Minion, Estate
+ 
+---------- Perna: turn 9 ----------
+Perna - plays Ironworks
+Perna - gains Tournament
+Perna - plays 2 Silver, 1 Copper
+Perna - buys Minion
+Perna - gains Minion
+Perna - draws Minion, Estate, Minion, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Tournament
+Titandrake - draws Tournament
+Titandrake - plays Tournament
+Titandrake - draws Estate
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Minion
+Titandrake - gains Minion
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Tournament, Minion
+ 
+---------- Perna: turn 10 ----------
+Perna - plays Minion
+Perna - takes 2 coins
+Perna - plays Minion
+Perna - discards: Estate, Copper, Silver
+Perna - draws Minion, Copper
+Perna - shuffles deck
+Perna - draws Copper, Trade Route
+Titandrake - discards: Estate, Copper, Copper, Tournament, Minion
+Titandrake - draws Copper, Catacombs, Estate, Copper
+Perna - plays Minion
+Perna - takes 2 coins
+Perna - plays Trade Route
+Perna - trashes Copper
+Perna - plays 1 Copper
+Perna - buys Minion
+Perna - gains Minion
+Perna - draws Estate, Tournament, Estate, Ironworks, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Catacombs
+Titandrake - looks at Province, Estate, Minion
+Titandrake - discards: Province, Estate, Minion
+Titandrake - draws Minion, Tournament, Minion
+Titandrake - plays 2 Copper
+Titandrake - buys Cellar
+Titandrake - gains Cellar
+Titandrake - draws Silver, Copper, Silver, Copper, Copper
+ 
+---------- Perna: turn 11 ----------
+Perna - plays Tournament
+Perna - draws Tournament
+Perna - plays Tournament
+Perna - draws Silver
+Perna - plays Ironworks
+Perna - gains Tournament
+Perna - plays 2 Silver
+Perna - buys Gold
+Perna - gains Gold
+Perna - draws Copper, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Minion, Estate, Province
+ 
+---------- Perna: turn 12 ----------
+Perna - plays 4 Copper, 1 Silver
+Perna - buys Gold
+Perna - gains Gold
+Perna - draws Minion, Minion, Copper
+Perna - shuffles deck
+Perna - draws Minion, Trade Route
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Minion
+Titandrake - discards: Copper, Gold, Estate, Province
+Titandrake - draws Minion, Copper, Copper, Estate
+Perna - discards: Minion, Minion, Copper, Minion, Trade Route
+Perna - draws Silver, Silver, Copper, Copper
+Titandrake - plays Minion
+Titandrake - discards: Copper, Copper, Estate
+Titandrake - draws Copper, Copper, Tournament, Minion
+Titandrake - plays Tournament
+Titandrake - draws Catacombs
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Catacombs
+Titandrake - looks at Tournament, Copper, Estate
+Titandrake - discards: Tournament, Copper, Estate
+Titandrake - draws Minion, Silver, Silver
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Cellar, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Minion
+ 
+---------- Perna: turn 13 ----------
+Perna - plays 2 Silver, 2 Copper
+Perna - buys Harem
+Perna - gains Harem
+Perna - draws Copper, Copper, Estate, Ironworks, Tournament
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Province, Gold, Estate
+Titandrake - plays Minion
+Titandrake - discards: Province, Gold, Estate
+Titandrake - draws Estate, Tournament, Copper, Copper
+Perna - discards: Copper, Copper, Estate, Ironworks, Tournament
+Perna - draws Estate, Gold, Tournament, Gold
+Titandrake - plays Tournament
+Titandrake - draws Minion
+Titandrake - plays Minion
+Titandrake - discards: Estate, Copper, Copper
+Titandrake - draws Minion, Copper, Silver, Tournament
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Silver, Minion, Catacombs, Copper
+ 
+---------- Perna: turn 14 ----------
+Perna - plays Tournament
+Titandrake - reveals Province
+Perna - plays 2 Gold
+Perna - buys Gold
+Perna - gains Gold
+Perna - draws Minion, Minion, Minion, Tournament, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Minion
+Titandrake - discards: Silver, Catacombs, Copper, Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Gold, Tournament
+Perna - discards: Minion, Minion, Minion, Tournament, Silver
+Perna - draws Copper
+Perna - shuffles deck
+Perna - draws Silver, Harem, Silver
+Titandrake - plays Tournament
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Copper, Minion, Estate, Copper, Cellar
+ 
+---------- Perna: turn 15 ----------
+Perna - plays 2 Silver, 1 Harem, 1 Copper
+Perna - buys Gold
+Perna - gains Gold
+Perna - draws Copper, Minion, Gold, Minion, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Cellar
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Province, Silver, Copper
+Titandrake - plays Minion
+Titandrake - discards: Province, Silver, Copper
+Titandrake - draws Catacombs, Province, Tournament, Copper
+Perna - discards: Copper, Minion, Gold, Minion, Copper
+Perna - draws Copper, Gold, Copper, Gold
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Trusty Steed
+Titandrake - draws Trusty Steed
+Titandrake - plays Trusty Steed
+Titandrake - takes 2 actions
+Titandrake - draws Silver, Copper
+Titandrake - plays Catacombs
+Titandrake - looks at Estate, Minion, Province
+Titandrake - discards: Estate, Minion, Province
+Titandrake - draws Minion
+Titandrake - shuffles deck
+Titandrake - draws Estate, Province
+Titandrake - plays Minion
+Titandrake - discards: Copper, Silver, Copper, Estate, Province
+Titandrake - draws Copper, Copper, Copper, Gold
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Minion, Harem, Estate, Silver, Estate
+ 
+---------- Perna: turn 16 ----------
+Perna - plays 2 Copper, 2 Gold
+Perna - buys Province
+Perna - gains Province
+Perna - draws Ironworks, Minion, Copper, Minion, Tournament
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Minion
+Titandrake - discards: Harem, Estate, Silver, Estate
+Titandrake - draws Minion, Copper, Tournament, Province
+Perna - discards: Ironworks, Minion, Copper, Minion, Tournament
+Perna - draws Tournament, Silver, Minion, Trade Route
+Titandrake - plays Tournament
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Followers
+Titandrake - draws Followers
+Titandrake - plays Minion
+Titandrake - takes 2 coins
+Titandrake - plays Followers
+Titandrake - draws Province, Copper
+Titandrake - gains Estate
+Perna - gains Curse
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Minion, 1 Cellar, 1 Tournament, 1 Trusty Steed, 1 Catacombs, 7 Copper, 2 Harem, 2 Silver, 1 Gold, 4 Estate, 3 Province
+Titandrake - total victory points: 26
+Titandrake - turns: 16
+ 
+Perna - resigned
+Perna - cards: 6 Minion, 3 Tournament, 1 Trade Route, 1 Ironworks, 6 Copper, 4 Gold, 3 Silver, 1 Harem, 2 Estate, 1 Province, 1 Curse
+Perna - total victory points: 9
+Perna - turns: 16
+ 
+1st place: Titandrake
+2nd place: Perna
+ 

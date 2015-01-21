@@ -1,0 +1,310 @@
+------------ Game Setup ------------
+Supply cards: Vagrant, Menagerie, Armory, Marauder, Quarry, Thief, Band of Misfits, Embassy, Highway, Torturer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Ruins
+Rating system: pro
+zporiri - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+zporiri - shuffles deck
+Titandrake - shuffles deck
+zporiri - draws Copper, Copper, Copper, Copper, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- zporiri: turn 1 ----------
+zporiri - plays 4 Copper
+zporiri - buys Marauder
+zporiri - gains Marauder
+zporiri - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Marauder
+Titandrake - gains Marauder
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- zporiri: turn 2 ----------
+zporiri - plays 3 Copper
+zporiri - buys Silver
+zporiri - gains Silver
+zporiri - shuffles deck
+zporiri - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Marauder, Estate, Estate
+ 
+---------- zporiri: turn 3 ----------
+zporiri - plays 3 Copper, 1 Silver
+zporiri - buys Embassy
+zporiri - gains Embassy
+Titandrake - gains Silver
+zporiri - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+zporiri - gains Abandoned Mine
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- zporiri: turn 4 ----------
+zporiri - plays 4 Copper
+zporiri - buys Silver
+zporiri - gains Silver
+zporiri - draws Marauder, Estate
+zporiri - shuffles deck
+zporiri - draws Copper, Copper, Abandoned Mine
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Copper, Copper
+ 
+---------- zporiri: turn 5 ----------
+zporiri - plays Marauder
+zporiri - gains Spoils
+Titandrake - gains Ruined Library
+zporiri - draws Copper, Silver, Copper, Copper, Embassy
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Copper, Copper
+Titandrake - draws Silver
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Embassy
+Titandrake - gains Embassy
+zporiri - gains Silver
+Titandrake - draws Marauder, Estate, Silver, Estate, Copper
+ 
+---------- zporiri: turn 6 ----------
+zporiri - plays Embassy
+zporiri - draws Estate, Copper, Copper, Silver, Estate
+zporiri - discards Estate
+zporiri - discards Copper
+zporiri - discards Estate
+zporiri - plays 4 Copper, 2 Silver
+zporiri - buys Gold
+zporiri - gains Gold
+zporiri - shuffles deck
+zporiri - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+zporiri - gains Survivors
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Spoils, Silver
+ 
+---------- zporiri: turn 7 ----------
+zporiri - plays 4 Copper, 1 Silver
+zporiri - buys Gold
+zporiri - gains Gold
+zporiri - draws Marauder, Copper, Silver, Copper, Spoils
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Gold, Ruined Library, Estate
+ 
+---------- zporiri: turn 8 ----------
+zporiri - plays Marauder
+zporiri - gains Spoils
+Titandrake - gains Ruined Market
+zporiri - plays 2 Copper, 1 Silver
+zporiri - plays Spoils
+zporiri - buys Gold
+zporiri - gains Gold
+zporiri - draws Gold, Estate, Abandoned Mine, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Ruined Library
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Silver, Estate, Silver, Copper
+ 
+---------- zporiri: turn 9 ----------
+zporiri - plays Abandoned Mine
+zporiri - plays 1 Gold, 1 Silver, 1 Copper
+zporiri - buys Embassy
+zporiri - gains Embassy
+Titandrake - gains Silver
+zporiri - draws Estate, Embassy, Estate
+zporiri - shuffles deck
+zporiri - draws Embassy, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Embassy, Marauder, Copper, Copper, Menagerie
+ 
+---------- zporiri: turn 10 ----------
+zporiri - plays Embassy
+zporiri - draws Copper, Survivors, Gold, Spoils, Copper
+zporiri - discards Estate
+zporiri - discards Estate
+zporiri - discards Embassy
+zporiri - plays 2 Copper, 1 Silver, 1 Gold
+zporiri - plays Spoils
+zporiri - buys Province
+zporiri - gains Province
+zporiri - draws Copper, Marauder, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Embassy, Marauder, Copper, Copper
+Titandrake - draws Spoils
+Titandrake - plays Embassy
+Titandrake - draws Silver, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate
+Titandrake - discards Marauder
+Titandrake - discards Estate
+Titandrake - discards Spoils
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Silver, Silver, Copper, Copper
+ 
+---------- zporiri: turn 11 ----------
+zporiri - plays Marauder
+zporiri - gains Spoils
+Titandrake - gains Ruined Market
+zporiri - plays 2 Copper, 1 Silver
+zporiri - buys Silver
+zporiri - gains Silver
+zporiri - draws Gold, Gold, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Ruined Market, Estate, Gold, Silver, Estate
+ 
+---------- zporiri: turn 12 ----------
+zporiri - plays 3 Copper, 2 Gold
+zporiri - buys Province
+zporiri - gains Province
+zporiri - draws Abandoned Mine, Silver
+zporiri - shuffles deck
+zporiri - draws Survivors, Gold, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Gold, Ruined Library
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Menagerie
+ 
+---------- zporiri: turn 13 ----------
+zporiri - plays Abandoned Mine
+zporiri - plays 2 Silver, 1 Gold
+zporiri - buys Province
+zporiri - gains Province
+zporiri - draws Estate, Estate, Gold, Embassy, Embassy
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Gold, Ruined Library, Duchy
+Titandrake - draws Marauder, Silver, Silver
+Titandrake - plays Marauder
+Titandrake - gains Spoils
+zporiri - gains Ruined Village
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Embassy, Gold, Silver, Estate, Silver
+ 
+---------- zporiri: turn 14 ----------
+zporiri - plays Embassy
+zporiri - draws Copper, Gold, Silver, Copper, Silver
+zporiri - discards Estate
+zporiri - discards Estate
+zporiri - discards Embassy
+zporiri - plays 2 Gold, 2 Copper, 2 Silver
+zporiri - buys Duchy
+zporiri - gains Duchy
+zporiri - draws Copper, Copper, Estate, Province, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Embassy
+Titandrake - draws Ruined Market, Silver, Province, Copper, Copper
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - discards Ruined Market
+Titandrake - plays 3 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Ruined Market, Estate, Estate, Silver, Province
+ 
+---------- zporiri: turn 15 ----------
+zporiri - plays 3 Copper
+zporiri - buys Estate
+zporiri - gains Estate
+zporiri - draws Marauder, Copper, Spoils, Copper, Province
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Spoils, Copper, Copper, Copper
+ 
+---------- zporiri: turn 16 ----------
+zporiri - plays Marauder
+zporiri - gains Spoils
+Titandrake - gains Ruined Library
+zporiri - plays 2 Copper
+zporiri - plays Spoils
+zporiri - buys Duchy
+zporiri - gains Duchy
+zporiri - shuffles deck
+zporiri - draws Copper, Abandoned Mine, Estate, Silver, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays 4 Copper
+Titandrake - plays Spoils
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver, Ruined Market, Silver, Silver
+ 
+---------- zporiri: turn 17 ----------
+zporiri - plays Abandoned Mine
+zporiri - plays 2 Silver, 1 Copper
+zporiri - buys Duchy
+zporiri - gains Duchy
+zporiri - draws Estate, Province, Gold, Silver, Duchy
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Ruined Market
+Titandrake - plays 3 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Duchy, Copper, Copper, Copper, Embassy
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Ruined Market, 2 Ruined Library, 1 Embassy, 1 Menagerie, 1 Marauder, 7 Copper, 6 Silver, 2 Gold, 1 Spoils, 5 Province, 4 Estate, 2 Duchy
+Titandrake - total victory points: 40
+Titandrake - turns: 17
+ 
+zporiri - cards: 2 Embassy, 1 Abandoned Mine, 1 Ruined Village, 1 Survivors, 1 Marauder, 7 Copper, 4 Silver, 3 Gold, 1 Spoils, 4 Estate, 3 Province, 3 Duchy
+zporiri - total victory points: 31
+zporiri - turns: 17
+ 
+1st place: Titandrake
+2nd place: zporiri
+ 

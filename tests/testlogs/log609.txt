@@ -1,0 +1,463 @@
+------------ Game Setup ------------
+Supply cards: Squire, Fishing Village, Hermit, Shanty Town, Trade Route, Salvager, Taxman, Ill-Gotten Gains, Rebuild, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+moharimo - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+moharimo - shuffles deck
+Titandrake - shuffles deck
+moharimo - draws Copper, Copper, Overgrown Estate, Copper, Hovel
+Titandrake - draws Copper, Copper, Overgrown Estate, Necropolis, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- moharimo: turn 1 ----------
+moharimo - plays 3 Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - draws Copper, Necropolis, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Overgrown Estate, Fishing Village, Hovel
+ 
+---------- moharimo: turn 2 ----------
+moharimo - plays Necropolis
+moharimo - plays 4 Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - shuffles deck
+moharimo - draws Necropolis, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- moharimo: turn 3 ----------
+moharimo - plays Necropolis
+moharimo - plays 3 Copper, 1 Silver
+moharimo - buys Rebuild
+moharimo - gains Rebuild
+moharimo - draws Copper, Hovel, Overgrown Estate, Copper, Silver
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Copper, Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper
+ 
+---------- moharimo: turn 4 ----------
+moharimo - plays 2 Copper, 1 Silver
+moharimo - buys Estate
+moharimo - trashes Hovel
+moharimo - gains Estate
+moharimo - draws Copper, Copper
+moharimo - shuffles deck
+moharimo - draws Necropolis, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Trade Route, Rebuild, Copper
+ 
+---------- moharimo: turn 5 ----------
+moharimo - plays Necropolis
+moharimo - plays 3 Copper
+moharimo - buys Trade Route
+moharimo - gains Trade Route
+moharimo - draws Copper, Silver, Estate, Silver, Rebuild
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Overgrown Estate
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Hovel
+Titandrake - gains Estate
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Estate
+Titandrake - trashes Hovel
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Fishing Village
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Silver
+ 
+---------- moharimo: turn 6 ----------
+moharimo - plays Rebuild
+moharimo - names Province
+moharimo - shuffles deck
+moharimo - reveals Copper, Copper, Copper, Overgrown Estate
+moharimo - discards: Copper, Copper, Copper
+moharimo - trashes Overgrown Estate
+moharimo - draws Copper
+moharimo - gains Estate
+moharimo - plays 2 Copper, 2 Silver
+moharimo - buys Rebuild
+moharimo - gains Rebuild
+moharimo - draws Copper, Necropolis, Trade Route, Copper
+moharimo - shuffles deck
+moharimo - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Copper, Estate, Estate, Estate, Rebuild
+ 
+---------- moharimo: turn 7 ----------
+moharimo - plays Trade Route
+moharimo - trashes Necropolis
+moharimo - plays 3 Copper
+moharimo - buys Trade Route
+moharimo - gains Trade Route
+moharimo - draws Rebuild, Copper, Rebuild, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Necropolis, Copper, Trade Route, Copper, Copper, Rebuild, Silver, Silver, Copper, Copper
+Titandrake - discards: Necropolis, Copper, Trade Route, Copper, Copper, Rebuild, Silver, Silver, Copper, Copper
+Titandrake - plays Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Trade Route, Copper, Rebuild, Silver, Estate
+ 
+---------- moharimo: turn 8 ----------
+moharimo - plays Rebuild
+moharimo - names Province
+moharimo - reveals Copper, Estate
+moharimo - discards Copper
+moharimo - trashes Estate
+moharimo - gains Duchy
+moharimo - plays Rebuild
+moharimo - names Province
+moharimo - reveals Silver, Estate
+moharimo - discards Silver
+moharimo - trashes Estate
+moharimo - gains Duchy
+moharimo - plays 3 Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - draws Silver
+moharimo - shuffles deck
+moharimo - draws Copper, Silver, Trade Route, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Copper, Estate
+Titandrake - discards Copper
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Estate, Rebuild, Estate, Silver
+ 
+---------- moharimo: turn 9 ----------
+moharimo - plays Trade Route
+moharimo - trashes Copper
+moharimo - plays 2 Silver, 1 Copper
+moharimo - buys Duchy
+moharimo - gains Duchy
+moharimo - draws Copper, Copper, Duchy, Trade Route, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Fishing Village, Necropolis, Silver, Duchy, Copper, Duchy, Copper, Trade Route, Rebuild
+Titandrake - discards: Copper, Copper, Copper, Fishing Village, Necropolis, Silver, Duchy, Copper, Duchy, Copper, Trade Route, Rebuild
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Trade Route, Estate, Silver
+ 
+---------- moharimo: turn 10 ----------
+moharimo - plays Trade Route
+moharimo - trashes Copper
+moharimo - plays 2 Copper
+moharimo - buys Estate
+moharimo - gains Estate
+moharimo - draws Copper, Silver, Copper, Rebuild, Rebuild
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Fishing Village, Copper, Copper, Estate, Necropolis
+ 
+---------- moharimo: turn 11 ----------
+moharimo - plays Rebuild
+moharimo - names Province
+moharimo - reveals Duchy
+moharimo - trashes Duchy
+moharimo - gains Province
+moharimo - plays Rebuild
+moharimo - names Province
+moharimo - shuffles deck
+moharimo - reveals Copper, Duchy
+moharimo - discards Copper
+moharimo - trashes Duchy
+moharimo - gains Province
+moharimo - plays 2 Copper, 1 Silver
+moharimo - buys Trade Route
+moharimo - gains Trade Route
+moharimo - draws Estate, Trade Route, Duchy, Copper, Trade Route
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays 2 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper, Rebuild, Silver, Estate, Duchy
+ 
+---------- moharimo: turn 12 ----------
+moharimo - plays Trade Route
+moharimo - trashes Copper
+moharimo - buys Silver
+moharimo - gains Silver
+moharimo - draws Province, Silver, Copper, Silver
+moharimo - shuffles deck
+moharimo - draws Duchy
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Rebuild, Copper, Duchy
+Titandrake - discards: Rebuild, Copper
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Shanty Town
+Titandrake - gains Shanty Town
+Titandrake - shuffles deck
+Titandrake - draws Estate, Trade Route, Rebuild, Copper, Estate
+ 
+---------- moharimo: turn 13 ----------
+moharimo - plays 2 Silver, 1 Copper
+moharimo - buys Duchy
+moharimo - gains Duchy
+moharimo - draws Province, Silver, Trade Route, Silver, Rebuild
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Silver, Fishing Village, Trade Route, Silver, Copper, Shanty Town, Duchy
+Titandrake - discards: Silver, Fishing Village, Trade Route, Silver, Copper, Shanty Town
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Province, Necropolis, Copper, Copper
+ 
+---------- moharimo: turn 14 ----------
+moharimo - plays Rebuild
+moharimo - names Province
+moharimo - reveals Copper, Estate
+moharimo - discards Copper
+moharimo - trashes Estate
+moharimo - gains Duchy
+moharimo - plays Trade Route
+moharimo - trashes Silver
+moharimo - plays Silver
+moharimo - buys Ill-Gotten Gains
+moharimo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+moharimo - draws Trade Route, Trade Route, Rebuild, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - draws Duchy, Copper, Rebuild
+Titandrake - shuffles deck
+Titandrake - draws Necropolis, Copper
+ 
+---------- moharimo: turn 15 ----------
+moharimo - plays Rebuild
+moharimo - names Province
+moharimo - shuffles deck
+moharimo - reveals Duchy
+moharimo - trashes Duchy
+moharimo - gains Province
+moharimo - plays Trade Route
+moharimo - trashes Copper
+moharimo - plays Copper
+moharimo - buys Salvager
+moharimo - gains Salvager
+moharimo - draws Silver, Trade Route, Copper, Silver, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Copper, Fishing Village, Shanty Town, Province, Silver, Trade Route, Silver, Estate
+Titandrake - discards: Copper, Fishing Village, Shanty Town, Province, Silver, Trade Route, Silver
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Province, Silver, Estate, Rebuild, Trade Route
+ 
+---------- moharimo: turn 16 ----------
+moharimo - plays Trade Route
+moharimo - trashes Copper
+moharimo - plays 2 Silver
+moharimo - buys Ill-Gotten Gains
+moharimo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+moharimo - draws Duchy, Copper, Silver, Duchy, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - reveals Estate
+Titandrake - trashes Estate
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+moharimo - gains Curse
+Titandrake - draws Curse, Copper
+Titandrake - shuffles deck
+Titandrake - draws Trade Route, Copper, Copper
+ 
+---------- moharimo: turn 17 ----------
+moharimo - plays 1 Copper, 1 Silver
+moharimo - buys Hermit
+moharimo - gains Hermit
+moharimo - draws Rebuild, Ill-Gotten Gains
+moharimo - shuffles deck
+moharimo - draws Trade Route, Rebuild, Duchy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+moharimo - gains Curse
+Titandrake - draws Duchy, Silver, Shanty Town, Fishing Village, Curse
+ 
+---------- moharimo: turn 18 ----------
+moharimo - plays Rebuild
+moharimo - names Province
+moharimo - reveals Copper, Curse, Silver, Trade Route, Silver, Trade Route, Ill-Gotten Gains, Province, Province, Duchy
+moharimo - discards: Copper, Curse, Silver, Trade Route, Silver, Trade Route, Ill-Gotten Gains, Province, Province
+moharimo - trashes Duchy
+moharimo - gains Province
+moharimo - plays Rebuild
+moharimo - names Province
+moharimo - shuffles deck
+moharimo - reveals Salvager, Copper, Silver, Province, Hermit, Ill-Gotten Gains, Province, Copper, Curse, Silver, Curse, Province, Trade Route, Silver, Trade Route, Province
+moharimo - discards: Salvager, Copper, Silver, Province, Hermit, Ill-Gotten Gains, Province, Copper, Curse, Silver, Curse, Province, Trade Route, Silver, Trade Route, Province
+moharimo - plays Trade Route
+moharimo - trashes Ill-Gotten Gains
+moharimo - buys Hermit
+moharimo - gains Hermit
+moharimo - shuffles deck
+moharimo - draws Trade Route, Province, Province, Province, Trade Route
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Fishing Village
+Titandrake - plays Shanty Town
+Titandrake - reveals Duchy, Silver, Curse
+Titandrake - draws Silver, Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+moharimo - gains Curse
+Titandrake - draws Rebuild, Ill-Gotten Gains, Trade Route, Rebuild, Squire
+ 
+---------- moharimo: turn 19 ----------
+moharimo - draws Silver, Copper, Hermit, Curse, Trade Route
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Necropolis, Province, Province, Silver, Copper, Ill-Gotten Gains, Duchy
+Titandrake - discards: Necropolis, Province, Province, Silver, Copper, Ill-Gotten Gains
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Rebuild
+Titandrake - names Province
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Trade Route, Ill-Gotten Gains, Silver, Silver, Curse, Copper, Shanty Town, Copper, Necropolis, Copper, Province, Ill-Gotten Gains, Province, Province, Silver
+Titandrake - discards: Copper, Trade Route, Ill-Gotten Gains, Silver, Silver, Curse, Copper, Shanty Town, Copper, Necropolis, Copper, Province, Ill-Gotten Gains, Province, Province, Silver
+Titandrake - plays Trade Route
+Titandrake - trashes Squire
+Titandrake - gains Taxman
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+moharimo - gains Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Rebuild, Trade Route
+ 
+---------- moharimo: turn 20 ----------
+moharimo - plays Trade Route
+moharimo - trashes Curse
+moharimo - plays 1 Silver, 1 Copper
+moharimo - buys Ill-Gotten Gains
+moharimo - gains Ill-Gotten Gains
+Titandrake - gains Curse
+moharimo - draws Copper, Silver, Salvager, Ill-Gotten Gains, Duchy
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Rebuild
+Titandrake - plays 3 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+moharimo - gains Curse
+Titandrake - draws Province, Necropolis, Silver, Silver, Ill-Gotten Gains
+ 
+---------- moharimo: turn 21 ----------
+moharimo - plays Salvager
+moharimo - trashes Ill-Gotten Gains
+moharimo - plays 1 Copper, 1 Silver
+moharimo - buys Province
+moharimo - gains Province
+moharimo - draws Curse, Rebuild, Hermit, Province, Silver
+ 
+------------ Game Over ------------
+moharimo - cards: 3 Trade Route, 2 Rebuild, 2 Hermit, 1 Salvager, 3 Silver, 2 Copper, 1 Ill-Gotten Gains, 5 Province, 1 Duchy, 4 Curse
+moharimo - total victory points: 29
+moharimo - turns: 21
+ 
+Titandrake - cards: 2 Trade Route, 1 Necropolis, 1 Taxman, 1 Rebuild, 1 Fishing Village, 1 Shanty Town, 5 Ill-Gotten Gains, 4 Copper, 3 Silver, 3 Province, 2 Curse
+Titandrake - total victory points: 16
+Titandrake - turns: 21
+ 
+1st place: moharimo
+2nd place: Titandrake
+ 

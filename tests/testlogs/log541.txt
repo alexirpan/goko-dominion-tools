@@ -1,0 +1,327 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Duchess, Vagrant, Chancellor, Fortune Teller, Storeroom, Feast, Thief, Council Room, Farmland, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Emeric - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Emeric - shuffles deck
+Titandrake - shuffles deck
+Emeric - draws Copper, Copper, Necropolis, Overgrown Estate, Copper
+Titandrake - draws Copper, Copper, Hovel, Copper, Overgrown Estate
+ 
+---------- Emeric: turn 1 ----------
+Emeric - plays 3 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Necropolis, Copper, Copper, Copper, Copper
+ 
+---------- Emeric: turn 2 ----------
+Emeric - plays 4 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - shuffles deck
+Emeric - draws Hovel, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fortune Teller
+Titandrake - gains Fortune Teller
+Titandrake - shuffles deck
+Titandrake - draws Copper, Fortune Teller, Copper, Necropolis, Overgrown Estate
+ 
+---------- Emeric: turn 3 ----------
+Emeric - plays 3 Copper, 1 Silver
+Emeric - buys Council Room
+Emeric - gains Council Room
+Emeric - draws Copper, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Fortune Teller
+Emeric - reveals Necropolis, Overgrown Estate
+Emeric - discards Necropolis
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Hovel, Copper, Copper
+ 
+---------- Emeric: turn 4 ----------
+Emeric - plays 4 Copper, 1 Silver
+Emeric - buys Gold
+Emeric - gains Gold
+Emeric - draws Overgrown Estate
+Emeric - shuffles deck
+Emeric - draws Necropolis, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Hovel
+ 
+---------- Emeric: turn 5 ----------
+Emeric - plays 3 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Gold, Hovel, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Copper, Overgrown Estate, Copper, Fortune Teller, Silver
+ 
+---------- Emeric: turn 6 ----------
+Emeric - plays Gold
+Emeric - plays Silver
+Emeric - plays Copper
+Emeric - buys Farmland
+Emeric - trashes Hovel
+Emeric - gains Silver
+Emeric - gains Farmland
+Emeric - draws Council Room, Copper, Copper, Silver
+Emeric - shuffles deck
+Emeric - draws Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Fortune Teller
+Emeric - reveals Copper, Copper, Copper, Overgrown Estate
+Emeric - discards: Copper, Copper, Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Necropolis, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hovel
+ 
+---------- Emeric: turn 7 ----------
+Emeric - plays Council Room
+Emeric - draws Overgrown Estate, Copper, Silver, Silver
+Titandrake - draws Silver
+Emeric - plays 4 Silver, 3 Copper
+Emeric - buys Farmland
+Emeric - trashes Overgrown Estate
+Emeric - draws Copper
+Emeric - gains Silver
+Emeric - gains Farmland
+Emeric - buys Council Room
+Emeric - gains Council Room
+Emeric - draws Farmland, Necropolis, Gold
+Emeric - shuffles deck
+Emeric - draws Silver, Council Room
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Council Room, Silver, Overgrown Estate
+ 
+---------- Emeric: turn 8 ----------
+Emeric - plays Necropolis
+Emeric - plays Council Room
+Emeric - draws Silver, Silver, Copper, Farmland
+Titandrake - draws Copper
+Emeric - plays 3 Silver, 1 Gold, 1 Copper
+Emeric - buys Farmland
+Emeric - trashes Farmland
+Emeric - gains Province
+Emeric - gains Farmland
+Emeric - buys Vagrant
+Emeric - gains Vagrant
+Emeric - draws Copper, Silver, Copper, Council Room, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Council Room
+Titandrake - draws Fortune Teller, Copper, Gold, Copper
+Emeric - draws Copper
+Titandrake - plays 5 Copper, 1 Silver, 1 Gold
+Titandrake - buys Farmland
+Titandrake - trashes Fortune Teller
+Titandrake - gains Council Room
+Titandrake - gains Farmland
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Gold, Gold, Silver, Silver, Copper
+ 
+---------- Emeric: turn 9 ----------
+Emeric - plays Council Room
+Emeric - draws Silver, Copper, Copper
+Emeric - shuffles deck
+Emeric - draws Province
+Titandrake - draws Necropolis
+Emeric - plays 6 Copper, 2 Silver
+Emeric - buys Province
+Emeric - gains Province
+Emeric - buys Vagrant
+Emeric - gains Vagrant
+Emeric - draws Silver, Council Room, Vagrant, Farmland, Gold
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Gold
+Titandrake - plays Silver
+Titandrake - plays Copper
+Titandrake - buys Farmland
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - gains Farmland
+Titandrake - draws Copper, Copper, Overgrown Estate, Silver, Copper
+ 
+---------- Emeric: turn 10 ----------
+Emeric - plays Vagrant
+Emeric - draws Silver
+Emeric - reveals: Silver
+Emeric - places Silver on top of deck
+Emeric - plays Council Room
+Emeric - draws Silver, Farmland, Necropolis, Copper
+Titandrake - draws Copper
+Emeric - plays Copper
+Emeric - plays Silver
+Emeric - plays Silver
+Emeric - plays Silver
+Emeric - buys Farmland
+Emeric - trashes Gold
+Emeric - gains Province
+Emeric - gains Farmland
+Emeric - buys Copper
+Emeric - gains Copper
+Emeric - shuffles deck
+Emeric - draws Province, Farmland, Silver, Copper, Province
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Council Room, Silver, Council Room, Hovel
+ 
+---------- Emeric: turn 11 ----------
+Emeric - plays 1 Silver, 1 Copper
+Emeric - buys Vagrant
+Emeric - gains Vagrant
+Emeric - draws Silver, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Council Room
+Titandrake - draws Farmland, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper
+Emeric - draws Vagrant
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Farmland
+Titandrake - trashes Farmland
+Titandrake - gains Province
+Titandrake - trashes Hovel
+Titandrake - gains Farmland
+Titandrake - draws Silver, Copper, Silver, Necropolis, Province
+ 
+---------- Emeric: turn 12 ----------
+Emeric - plays Vagrant
+Emeric - draws Copper
+Emeric - reveals: Copper
+Emeric - places Copper on top of deck
+Emeric - plays 4 Copper, 2 Silver
+Emeric - buys Province
+Emeric - gains Province
+Emeric - draws Copper, Vagrant, Silver, Farmland, Farmland
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Duchy, Copper, Farmland, Overgrown Estate
+ 
+---------- Emeric: turn 13 ----------
+Emeric - plays Vagrant
+Emeric - draws Council Room
+Emeric - reveals: Copper
+Emeric - places Copper on top of deck
+Emeric - plays Council Room
+Emeric - draws Copper, Province, Copper, Silver
+Titandrake - draws Silver
+Emeric - plays 3 Copper, 2 Silver
+Emeric - buys Farmland
+Emeric - trashes Farmland
+Emeric - gains Province
+Emeric - gains Farmland
+Emeric - buys Copper
+Emeric - gains Copper
+Emeric - draws Necropolis, Council Room
+Emeric - shuffles deck
+Emeric - draws Silver, Copper, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province, Gold, Duchy
+ 
+---------- Emeric: turn 14 ----------
+Emeric - plays Necropolis
+Emeric - plays Council Room
+Emeric - draws Silver, Copper, Copper, Province
+Titandrake - draws Copper
+Emeric - plays 3 Copper, 2 Silver
+Emeric - buys Duchy
+Emeric - gains Duchy
+Emeric - buys Vagrant
+Emeric - gains Vagrant
+Emeric - draws Copper, Farmland, Copper, Farmland, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - gains Duchess
+Titandrake - draws Duchy, Silver, Duchy, Copper, Copper
+ 
+---------- Emeric: turn 15 ----------
+Emeric - plays 3 Copper
+Emeric - buys Silver
+Emeric - gains Silver
+Emeric - draws Vagrant, Silver, Vagrant, Council Room, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Council Room, Council Room, Farmland, Silver, Overgrown Estate
+ 
+---------- Emeric: turn 16 ----------
+Emeric - plays Vagrant
+Emeric - draws Silver
+Emeric - reveals: Copper
+Emeric - places Copper on top of deck
+Emeric - plays Vagrant
+Emeric - draws Copper
+Emeric - reveals: Copper
+Emeric - places Copper on top of deck
+Emeric - plays Council Room
+Emeric - draws Copper, Province, Copper, Farmland
+Titandrake - draws Copper
+Emeric - plays 3 Silver, 3 Copper
+Emeric - buys Province
+Emeric - gains Province
+Emeric - draws Province, Province, Vagrant
+Emeric - shuffles deck
+Emeric - draws Province, Province
+ 
+------------ Game Over ------------
+Emeric - cards: 4 Vagrant, 2 Council Room, 1 Necropolis, 9 Copper, 6 Silver, 6 Province, 3 Farmland, 1 Duchy
+Emeric - total victory points: 45
+Emeric - turns: 16
+ 
+Titandrake - cards: 2 Council Room, 1 Duchess, 1 Necropolis, 7 Copper, 4 Silver, 1 Gold, 4 Duchy, 2 Farmland, 2 Province, 1 Overgrown Estate, 1 Estate
+Titandrake - total victory points: 29
+Titandrake - turns: 15
+ 
+1st place: Emeric
+2nd place: Titandrake
+ 

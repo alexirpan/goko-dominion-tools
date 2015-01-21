@@ -1,0 +1,471 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Tunnel, Ironmonger, Remodel, Young Witch, Cache, City, Council Room, Goons, Expand, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Bane card: Stonemason
+Rating system: pro
+GoSharks - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+GoSharks - shuffles deck
+Titandrake - shuffles deck
+GoSharks - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- GoSharks: turn 1 ----------
+GoSharks - plays 4 Copper
+GoSharks - buys Young Witch
+GoSharks - gains Young Witch
+GoSharks - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- GoSharks: turn 2 ----------
+GoSharks - plays 3 Copper
+GoSharks - buys Silver
+GoSharks - gains Silver
+GoSharks - shuffles deck
+GoSharks - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Estate, Estate, Copper, Silver, Copper
+ 
+---------- GoSharks: turn 3 ----------
+GoSharks - plays 4 Copper, 1 Silver
+GoSharks - buys Gold
+GoSharks - gains Gold
+GoSharks - draws Copper, Copper, Estate, Young Witch, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ironmonger
+Titandrake - gains Ironmonger
+Titandrake - draws Estate, Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Ironmonger, Copper, Silver
+ 
+---------- GoSharks: turn 4 ----------
+GoSharks - plays Young Witch
+GoSharks - draws Estate, Copper
+GoSharks - discards Estate
+GoSharks - discards Estate
+Titandrake - gains Curse
+GoSharks - plays 3 Copper
+GoSharks - buys Silver
+GoSharks - gains Silver
+GoSharks - shuffles deck
+GoSharks - draws Silver, Copper, Gold, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Estate
+Titandrake - reveals: Copper
+Titandrake - discards Copper
+Titandrake - plays Young Witch
+Titandrake - draws Estate, Copper
+Titandrake - discards Estate
+Titandrake - discards Estate
+GoSharks - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Copper, Copper, City, Copper, Copper
+ 
+---------- GoSharks: turn 5 ----------
+GoSharks - plays 2 Copper, 1 Silver, 1 Gold
+GoSharks - buys Stonemason
+GoSharks - overpays for Stonemason with 5 coins
+GoSharks - gains City
+GoSharks - gains Council Room
+GoSharks - gains Stonemason
+GoSharks - draws Estate, Copper, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays City
+Titandrake - shuffles deck
+Titandrake - draws Council Room
+Titandrake - plays Council Room
+Titandrake - draws Estate, Estate, Silver, Copper
+GoSharks - draws Copper
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - draws Curse, Estate, Copper, Ironmonger, Young Witch
+ 
+---------- GoSharks: turn 6 ----------
+GoSharks - plays 3 Copper, 1 Silver
+GoSharks - buys City
+GoSharks - gains City
+GoSharks - draws Copper, Young Witch, Copper
+GoSharks - shuffles deck
+GoSharks - draws Estate, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - reveals: City
+Titandrake - places City on top of deck
+Titandrake - plays Young Witch
+Titandrake - draws City, Copper
+Titandrake - discards Estate
+Titandrake - discards Curse
+GoSharks - gains Curse
+Titandrake - plays City
+Titandrake - draws Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Council Room
+Titandrake - gains Council Room
+Titandrake - draws Copper, Copper, Estate, Goons, Copper
+ 
+---------- GoSharks: turn 7 ----------
+GoSharks - plays Young Witch
+GoSharks - draws Copper, Estate
+GoSharks - discards Estate
+GoSharks - discards Estate
+Titandrake - gains Curse
+GoSharks - plays 3 Copper, 1 Silver
+GoSharks - buys City
+GoSharks - gains City
+GoSharks - draws City, Estate, Copper, Curse, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Goons
+GoSharks - discards Estate
+GoSharks - discards Curse
+Titandrake - plays 3 Copper
+Titandrake - buys City
+Titandrake - receives 1 victory point chips
+Titandrake - gains City
+Titandrake - draws Council Room, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Curse, City
+ 
+---------- GoSharks: turn 8 ----------
+GoSharks - plays City
+GoSharks - draws Council Room
+GoSharks - plays Council Room
+GoSharks - draws Copper, Stonemason, Copper, Gold
+Titandrake - draws Silver
+GoSharks - plays Stonemason
+GoSharks - trashes Gold
+GoSharks - gains Council Room
+GoSharks - gains City
+GoSharks - plays 4 Copper
+GoSharks - buys Ironmonger
+GoSharks - gains Ironmonger
+GoSharks - draws Silver, City
+GoSharks - shuffles deck
+GoSharks - draws Curse, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays City
+Titandrake - draws Copper
+Titandrake - plays Council Room
+Titandrake - draws Copper, Young Witch, Council Room, Curse
+GoSharks - draws Council Room
+Titandrake - plays Council Room
+Titandrake - draws Copper, Estate, Copper, City
+GoSharks - draws Silver
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 5 coins
+Titandrake - gains City
+Titandrake - gains City
+Titandrake - gains Stonemason
+Titandrake - draws Estate, Copper, Goons, Ironmonger, Copper
+ 
+---------- GoSharks: turn 9 ----------
+GoSharks - plays City
+GoSharks - draws City
+GoSharks - plays City
+GoSharks - draws Council Room
+GoSharks - plays Council Room
+GoSharks - draws Copper, Copper, Curse, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver
+GoSharks - plays Council Room
+GoSharks - draws City, Young Witch, Copper, Ironmonger
+Titandrake - draws City
+GoSharks - plays Ironmonger
+GoSharks - draws Estate
+GoSharks - reveals: Stonemason
+GoSharks - places Stonemason on top of deck
+GoSharks - plays City
+GoSharks - draws Stonemason
+GoSharks - plays Young Witch
+GoSharks - draws Estate, City
+GoSharks - discards Estate
+GoSharks - discards Estate
+Titandrake - gains Curse
+GoSharks - plays City
+GoSharks - draws Copper
+GoSharks - plays Stonemason
+GoSharks - trashes Curse
+GoSharks - plays 6 Copper, 2 Silver
+GoSharks - buys Goons
+GoSharks - gains Goons
+GoSharks - buys Ironmonger
+GoSharks - gains Ironmonger
+GoSharks - draws Copper
+GoSharks - shuffles deck
+GoSharks - draws Estate, Goons, Curse, Ironmonger
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws City
+Titandrake - reveals: Young Witch
+Titandrake - places Young Witch on top of deck
+Titandrake - plays City
+Titandrake - draws Young Witch
+Titandrake - plays City
+Titandrake - draws Council Room
+Titandrake - plays Council Room
+Titandrake - draws Estate, City, Copper, Copper
+GoSharks - draws City
+Titandrake - plays City
+Titandrake - draws City
+Titandrake - plays City
+Titandrake - draws Copper
+Titandrake - plays Goons
+GoSharks - discards Estate
+GoSharks - discards Curse
+GoSharks - discards Copper
+Titandrake - plays Young Witch
+Titandrake - draws Curse, Curse
+Titandrake - discards Estate
+Titandrake - discards Estate
+GoSharks - gains Curse
+Titandrake - plays 5 Copper, 1 Silver
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 5 coins
+Titandrake - gains City
+Titandrake - gains Council Room
+Titandrake - receives 1 victory point chips
+Titandrake - gains Stonemason
+Titandrake - draws Council Room, Estate, Copper, Copper, Stonemason
+ 
+---------- GoSharks: turn 10 ----------
+GoSharks - plays Ironmonger
+GoSharks - draws Silver
+GoSharks - reveals: Council Room
+GoSharks - places Council Room on top of deck
+GoSharks - plays City
+GoSharks - draws Council Room
+GoSharks - plays Council Room
+GoSharks - draws Council Room, Young Witch, Estate, City
+Titandrake - shuffles deck
+Titandrake - draws Copper
+GoSharks - plays City
+GoSharks - draws Copper
+GoSharks - plays Council Room
+GoSharks - draws Copper, Estate, Copper, Copper
+Titandrake - draws Goons
+GoSharks - plays Young Witch
+GoSharks - draws Stonemason, Silver
+GoSharks - discards Estate
+GoSharks - discards Estate
+Titandrake - reveals bane Stonemason
+GoSharks - plays Goons
+Titandrake - discards Estate
+Titandrake - discards Stonemason
+Titandrake - discards Council Room
+Titandrake - discards Copper
+GoSharks - plays 4 Copper, 2 Silver
+GoSharks - buys Forge
+GoSharks - receives 1 victory point chips
+GoSharks - gains Forge
+GoSharks - buys Tunnel
+GoSharks - receives 1 victory point chips
+GoSharks - gains Tunnel
+GoSharks - draws Copper, City, City, Ironmonger, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Goons
+GoSharks - discards Copper
+GoSharks - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Ironmonger
+Titandrake - receives 1 victory point chips
+Titandrake - gains Ironmonger
+Titandrake - draws City, City, City, Estate, Curse
+ 
+---------- GoSharks: turn 11 ----------
+GoSharks - plays Ironmonger
+GoSharks - shuffles deck
+GoSharks - draws City
+GoSharks - reveals: Tunnel
+GoSharks - discards Tunnel
+GoSharks - reveals reaction Tunnel
+GoSharks - gains Gold
+GoSharks - draws Goons
+GoSharks - plays City
+GoSharks - draws Estate
+GoSharks - plays City
+GoSharks - draws Copper
+GoSharks - plays City
+GoSharks - draws Forge
+GoSharks - plays Goons
+Titandrake - discards Curse
+Titandrake - discards Estate
+GoSharks - plays Forge
+GoSharks - trashes Estate, Copper
+GoSharks - gains Stonemason
+GoSharks - draws Copper, Silver, Estate, Curse, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays City
+Titandrake - draws Council Room
+Titandrake - plays City
+Titandrake - draws Curse
+Titandrake - plays Council Room
+Titandrake - draws Copper, Copper, Curse, City
+GoSharks - draws City
+Titandrake - plays City
+Titandrake - draws Copper
+Titandrake - plays City
+Titandrake - draws Council Room
+Titandrake - plays Council Room
+Titandrake - draws Stonemason, Ironmonger, Estate, Young Witch
+GoSharks - draws Young Witch
+Titandrake - plays Ironmonger
+Titandrake - draws City
+Titandrake - reveals: Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Silver
+Titandrake - discards Estate
+Titandrake - discards Curse
+GoSharks - gains Curse
+Titandrake - plays Stonemason
+Titandrake - trashes Curse
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Goons
+Titandrake - gains Goons
+Titandrake - shuffles deck
+Titandrake - draws City, Ironmonger, City, Council Room, Goons
+ 
+---------- GoSharks: turn 12 ----------
+GoSharks - plays City
+GoSharks - draws Estate
+GoSharks - plays Young Witch
+GoSharks - draws Council Room, Copper
+GoSharks - discards Estate
+GoSharks - discards Estate
+Titandrake - gains Curse
+GoSharks - plays Council Room
+GoSharks - draws Copper, Copper, Stonemason, Ironmonger
+Titandrake - draws Copper
+GoSharks - plays 5 Copper, 1 Silver
+GoSharks - buys Stonemason
+GoSharks - overpays for Stonemason with 5 coins
+GoSharks - gains Council Room
+GoSharks - gains Council Room
+GoSharks - gains Stonemason
+GoSharks - draws Silver, Curse, Council Room, Copper
+GoSharks - shuffles deck
+GoSharks - draws City
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ironmonger
+Titandrake - draws Copper
+Titandrake - reveals: Stonemason
+Titandrake - places Stonemason on top of deck
+Titandrake - plays Council Room
+Titandrake - draws Stonemason, City, Copper, Ironmonger
+GoSharks - draws City
+Titandrake - plays Ironmonger
+Titandrake - draws City
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays City
+Titandrake - draws Silver
+Titandrake - plays Stonemason
+Titandrake - trashes Goons
+Titandrake - gains City
+Titandrake - gains Council Room
+Titandrake - plays City
+Titandrake - draws Goons, Estate
+Titandrake - plays City
+Titandrake - draws Curse, Copper
+Titandrake - plays City
+Titandrake - draws Estate, Council Room
+Titandrake - plays Council Room
+Titandrake - draws Curse, Estate, City, Copper
+GoSharks - draws Council Room
+Titandrake - plays City
+Titandrake - draws Council Room, Stonemason
+Titandrake - plays Council Room
+Titandrake - draws Young Witch, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws City
+GoSharks - draws Goons
+Titandrake - plays Young Witch
+Titandrake - draws Curse, Council Room
+Titandrake - discards Estate
+Titandrake - discards Estate
+GoSharks - gains Curse
+Titandrake - plays City
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate
+Titandrake - plays Council Room
+GoSharks - draws Copper
+Titandrake - plays Goons
+GoSharks - discards Copper
+GoSharks - discards Goons
+GoSharks - discards Council Room
+GoSharks - discards Copper
+GoSharks - discards Curse
+GoSharks - discards Silver
+Titandrake - plays Stonemason
+Titandrake - trashes Curse
+Titandrake - plays 7 Copper, 1 Silver
+Titandrake - buys Stonemason
+Titandrake - overpays for Stonemason with 5 coins
+Titandrake - gains Council Room
+Titandrake - gains Council Room
+Titandrake - receives 1 victory point chips
+Titandrake - gains Stonemason
+Titandrake - buys Curse
+Titandrake - receives 1 victory point chips
+Titandrake - gains Curse
+Titandrake - buys Estate
+Titandrake - receives 1 victory point chips
+Titandrake - gains Estate
+Titandrake - buys Tunnel
+Titandrake - receives 1 victory point chips
+Titandrake - gains Tunnel
+Titandrake - buys Copper
+Titandrake - receives 1 victory point chips
+Titandrake - gains Copper
+Titandrake - buys Copper
+Titandrake - receives 1 victory point chips
+Titandrake - gains Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Young Witch, Stonemason, City
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 City, 6 Council Room, 3 Stonemason, 2 Ironmonger, 1 Young Witch, 1 Goons, 9 Copper, 1 Silver, 4 Estate, 1 Tunnel, 3 Curse
+Titandrake - victory point chips: 9
+Titandrake - total victory points: 12
+Titandrake - turns: 13
+ 
+GoSharks - cards: 4 Council Room, 4 City, 3 Stonemason, 2 Ironmonger, 1 Goons, 1 Forge, 1 Young Witch, 6 Copper, 2 Silver, 1 Gold, 2 Estate, 1 Tunnel, 4 Curse
+GoSharks - victory point chips: 2
+GoSharks - total victory points: 2
+GoSharks - turns: 12
+ 
+1st place: Titandrake
+2nd place: GoSharks
+ 

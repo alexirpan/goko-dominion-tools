@@ -1,0 +1,273 @@
+------------ Game Setup ------------
+Supply cards: Chapel, Masquerade, Baron, Remake, Smithy, Taxman, Trading Post, Vault, Altar, Hoard, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+yed - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+yed - shuffles deck
+Titandrake - shuffles deck
+yed - draws Copper, Estate, Copper, Copper, Estate
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- yed: turn 1 ----------
+yed - plays 3 Copper
+yed - buys Chapel
+yed - gains Chapel
+yed - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Masquerade
+Titandrake - gains Masquerade
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- yed: turn 2 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - shuffles deck
+yed - draws Copper, Estate, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Remake
+Titandrake - gains Remake
+Titandrake - shuffles deck
+Titandrake - draws Masquerade, Copper, Copper, Estate, Copper
+ 
+---------- yed: turn 3 ----------
+yed - plays 2 Copper, 1 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Estate, Copper
+Titandrake - passes Estate
+yed - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Remake, Copper, Copper
+ 
+---------- yed: turn 4 ----------
+yed - plays 4 Copper
+yed - buys Silver
+yed - gains Silver
+yed - draws Copper, Chapel
+yed - shuffles deck
+yed - draws Estate, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Copper, Masquerade
+ 
+---------- yed: turn 5 ----------
+yed - plays Chapel
+yed - trashes Copper, Estate, Estate, Copper
+yed - draws Silver, Copper, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Copper, Estate
+Titandrake - passes Estate
+yed - passes Estate
+Titandrake - trashes Estate
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Remake, Silver, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- yed: turn 6 ----------
+yed - plays 2 Silver, 2 Copper
+yed - buys Hoard
+yed - gains Hoard
+yed - draws Copper, Copper, Silver, Copper
+yed - shuffles deck
+yed - draws Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Remake
+Titandrake - trashes Copper
+Titandrake - trashes Copper
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Vault
+Titandrake - gains Vault
+Titandrake - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- yed: turn 7 ----------
+yed - plays 4 Copper, 1 Silver
+yed - buys Vault
+yed - gains Vault
+yed - draws Chapel, Copper, Silver, Estate, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Hoard
+Titandrake - gains Hoard
+Titandrake - draws Masquerade
+Titandrake - shuffles deck
+Titandrake - draws Vault, Gold, Silver, Silver
+ 
+---------- yed: turn 8 ----------
+yed - plays Chapel
+yed - trashes Estate, Copper
+yed - plays 2 Silver
+yed - buys Silver
+yed - gains Silver
+yed - draws Hoard
+yed - shuffles deck
+yed - draws Silver, Silver, Silver, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Vault
+Titandrake - draws Copper, Copper
+Titandrake - plays 2 Silver, 2 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Hoard, Copper, Remake
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- yed: turn 9 ----------
+yed - plays 3 Silver, 1 Copper
+yed - plays Hoard
+yed - buys Province
+yed - gains Gold
+yed - gains Province
+yed - draws Silver, Copper, Copper, Copper, Vault
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Masquerade, Province, Silver, Vault, Copper
+ 
+---------- yed: turn 10 ----------
+yed - plays Vault
+yed - draws Chapel
+yed - shuffles deck
+yed - draws Gold
+yed - discards Chapel
+yed - discards Copper
+yed - plays 2 Copper, 1 Silver, 1 Gold
+yed - buys Province
+yed - gains Province
+yed - draws Silver, Silver, Copper, Silver, Hoard
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Vault
+Titandrake - draws Silver, Copper
+Titandrake - discards Province
+Titandrake - discards Masquerade
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Gold, Vault, Hoard, Copper, Gold
+ 
+---------- yed: turn 11 ----------
+yed - plays 3 Silver, 1 Copper
+yed - plays Hoard
+yed - buys Province
+yed - gains Gold
+yed - gains Province
+yed - draws Province
+yed - shuffles deck
+yed - draws Gold, Chapel, Copper, Province
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Vault
+Titandrake - draws Silver, Duchy
+Titandrake - discards Duchy
+yed - discards Province
+yed - discards Province
+Titandrake - plays 2 Gold, 1 Copper, 1 Silver
+Titandrake - plays Hoard
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - draws Remake, Province, Silver, Masquerade, Copper
+ 
+---------- yed: turn 12 ----------
+yed - plays 2 Copper, 1 Gold
+yed - buys Duchy
+yed - gains Duchy
+yed - draws Gold, Silver, Copper, Silver, Vault
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Masquerade
+Titandrake - draws Province, Copper
+Titandrake - passes Remake
+yed - passes Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Silver, Hoard, Province
+ 
+---------- yed: turn 13 ----------
+yed - plays Vault
+yed - draws Copper, Province
+Titandrake - discards Province
+Titandrake - discards Duchy
+yed - plays 2 Silver, 1 Gold, 1 Copper
+yed - buys Province
+yed - gains Province
+yed - draws Silver, Silver, Hoard
+yed - shuffles deck
+yed - draws Province, Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Hoard
+Titandrake - buys Duchy
+Titandrake - gains Gold
+Titandrake - gains Duchy
+Titandrake - draws Province, Copper, Copper, Copper, Silver
+ 
+---------- yed: turn 14 ----------
+yed - plays 2 Silver
+yed - plays Hoard
+yed - buys Duchy
+yed - gains Gold
+yed - gains Duchy
+yed - draws Remake, Copper, Vault, Gold, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Vault, Gold, Masquerade, Gold, Gold
+ 
+---------- yed: turn 15 ----------
+yed - plays Vault
+yed - draws Copper, Gold
+yed - discards Remake
+yed - plays 3 Copper, 2 Gold
+yed - buys Province
+yed - gains Province
+yed - draws Chapel, Silver, Province, Silver, Duchy
+ 
+------------ Game Over ------------
+yed - cards: 1 Chapel, 1 Remake, 1 Vault, 4 Silver, 3 Gold, 3 Copper, 1 Hoard, 5 Province, 2 Duchy
+yed - total victory points: 36
+yed - turns: 15
+ 
+Titandrake - cards: 1 Vault, 1 Masquerade, 5 Copper, 4 Gold, 2 Silver, 1 Hoard, 4 Duchy, 3 Province
+Titandrake - total victory points: 30
+Titandrake - turns: 14
+ 
+1st place: yed
+2nd place: Titandrake
+ 

@@ -1,0 +1,603 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Hamlet, Lookout, Scavenger, Taxman, Baker, Ghost Ship, Jester, Mountebank, Border Village, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+remarkiwa - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+remarkiwa - shuffles deck
+Titandrake - shuffles deck
+remarkiwa - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- remarkiwa: turn 1 ----------
+remarkiwa - plays 4 Copper
+remarkiwa - uses 1 coin token
+remarkiwa - buys Mountebank
+remarkiwa - gains Mountebank
+remarkiwa - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Mountebank
+Titandrake - gains Mountebank
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- remarkiwa: turn 2 ----------
+remarkiwa - plays 3 Copper
+remarkiwa - buys Silver
+remarkiwa - gains Silver
+remarkiwa - shuffles deck
+remarkiwa - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- remarkiwa: turn 3 ----------
+remarkiwa - plays 4 Copper
+remarkiwa - buys Taxman
+remarkiwa - gains Taxman
+remarkiwa - draws Silver, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Lookout, Copper
+ 
+---------- remarkiwa: turn 4 ----------
+remarkiwa - plays 3 Copper, 1 Silver
+remarkiwa - buys Baker
+remarkiwa - gains Baker
+remarkiwa - draws Estate, Mountebank
+remarkiwa - shuffles deck
+remarkiwa - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Mountebank on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Mountebank, Silver, Copper, Copper, Copper
+ 
+---------- remarkiwa: turn 5 ----------
+remarkiwa - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+remarkiwa - plays 3 Copper
+remarkiwa - buys Baker
+remarkiwa - gains Baker
+remarkiwa - draws Copper, Copper, Taxman, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Mountebank
+remarkiwa - gains Curse
+remarkiwa - gains Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Mountebank
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Mountebank, Lookout
+ 
+---------- remarkiwa: turn 6 ----------
+remarkiwa - plays Taxman
+remarkiwa - trashes Copper
+Titandrake - discards Copper
+remarkiwa - gains Silver
+remarkiwa - plays 2 Copper
+remarkiwa - buys Hamlet
+remarkiwa - gains Hamlet
+remarkiwa - draws Silver, Estate, Copper, Silver, Baker
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Mountebank
+remarkiwa - gains Curse
+remarkiwa - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Copper, Mountebank, Copper
+ 
+---------- remarkiwa: turn 7 ----------
+remarkiwa - plays Baker
+remarkiwa - receives 1 coin token
+remarkiwa - shuffles deck
+remarkiwa - draws Copper
+remarkiwa - plays 2 Silver, 2 Copper
+remarkiwa - buys Border Village
+remarkiwa - gains Border Village
+remarkiwa - gains Mountebank
+remarkiwa - draws Copper, Baker, Copper, Estate, Curse
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Mountebank
+remarkiwa - discards Curse
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Copper, Border Village, Estate
+ 
+---------- remarkiwa: turn 8 ----------
+remarkiwa - plays Baker
+remarkiwa - receives 1 coin token
+remarkiwa - draws Curse
+remarkiwa - plays 2 Copper
+remarkiwa - uses 1 coin token
+remarkiwa - buys Lookout
+remarkiwa - gains Lookout
+remarkiwa - draws Copper, Copper, Copper, Copper, Taxman
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Border Village
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Ghost Ship
+Titandrake - draws Copper, Copper, Copper, Copper, Lookout
+ 
+---------- remarkiwa: turn 9 ----------
+remarkiwa - plays Taxman
+remarkiwa - trashes Copper
+Titandrake - discards Copper
+remarkiwa - gains Silver
+remarkiwa - plays 3 Copper
+remarkiwa - buys Lookout
+remarkiwa - gains Lookout
+remarkiwa - draws Silver, Mountebank, Hamlet, Estate
+remarkiwa - shuffles deck
+remarkiwa - draws Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Gold
+Titandrake - places Mountebank on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Mountebank, Mountebank, Copper, Copper, Silver
+ 
+---------- remarkiwa: turn 10 ----------
+remarkiwa - plays Hamlet
+remarkiwa - draws Baker
+remarkiwa - discards Estate
+remarkiwa - receives one action
+remarkiwa - plays Baker
+remarkiwa - receives 1 coin token
+remarkiwa - draws Estate
+remarkiwa - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+remarkiwa - plays 1 Silver, 1 Copper
+remarkiwa - uses 1 coin token
+remarkiwa - buys Border Village
+remarkiwa - gains Border Village
+remarkiwa - gains Ghost Ship
+remarkiwa - draws Curse, Baker, Lookout, Copper, Border Village
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Mountebank
+remarkiwa - discards Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Border Village, Silver, Lookout, Gold, Copper
+ 
+---------- remarkiwa: turn 11 ----------
+remarkiwa - plays Lookout
+remarkiwa - trashes Copper
+remarkiwa - discards Copper
+remarkiwa - places Mountebank on top of deck
+remarkiwa - plays Baker
+remarkiwa - receives 1 coin token
+remarkiwa - draws Mountebank
+remarkiwa - plays Border Village
+remarkiwa - draws Estate
+remarkiwa - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+remarkiwa - plays 1 Copper
+remarkiwa - uses 2 coin tokens
+remarkiwa - buys Baker
+remarkiwa - gains Baker
+remarkiwa - draws Copper, Taxman, Curse, Silver, Lookout
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Estate
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Baker
+Titandrake - draws Silver, Mountebank, Ghost Ship, Border Village, Curse
+ 
+---------- remarkiwa: turn 12 ----------
+remarkiwa - plays Lookout
+remarkiwa - trashes Copper
+remarkiwa - discards Copper
+remarkiwa - places Silver on top of deck
+remarkiwa - plays Taxman
+remarkiwa - trashes Silver
+Titandrake - discards Silver
+remarkiwa - gains Gold
+remarkiwa - draws Gold, Silver
+remarkiwa - shuffles deck
+remarkiwa - draws Estate, Estate, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays Ghost Ship
+Titandrake - draws Border Village, Copper
+remarkiwa - places Estate on top of deck
+remarkiwa - places Estate on top of deck
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Mountebank
+remarkiwa - gains Curse
+remarkiwa - gains Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Silver, Copper, Copper, Ghost Ship
+ 
+---------- remarkiwa: turn 13 ----------
+remarkiwa - plays 1 Gold, 1 Silver, 1 Copper
+remarkiwa - buys Border Village
+remarkiwa - gains Border Village
+remarkiwa - gains Ghost Ship
+remarkiwa - draws Estate, Estate, Curse, Copper, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Mountebank, Copper
+remarkiwa - places Copper on top of deck
+remarkiwa - places Estate on top of deck
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Border Village, Ghost Ship, Mountebank
+ 
+---------- remarkiwa: turn 14 ----------
+remarkiwa - draws Estate, Copper, Mountebank, Ghost Ship, Lookout
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Ghost Ship
+Titandrake - draws Border Village, Copper
+remarkiwa - places Estate on top of deck
+remarkiwa - places Copper on top of deck
+Titandrake - plays Border Village
+Titandrake - draws Lookout
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Border Village on top of deck
+Titandrake - plays Mountebank
+remarkiwa - gains Curse
+remarkiwa - gains Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Border Village
+Titandrake - gains Border Village
+Titandrake - gains Ghost Ship
+Titandrake - draws Border Village, Silver, Mountebank, Curse, Copper
+ 
+---------- remarkiwa: turn 15 ----------
+remarkiwa - plays Lookout
+remarkiwa - trashes Curse
+remarkiwa - discards Estate
+remarkiwa - places Copper on top of deck
+remarkiwa - plays Mountebank
+Titandrake - discards Curse
+remarkiwa - buys Hamlet
+remarkiwa - gains Hamlet
+remarkiwa - draws Copper, Border Village, Silver, Mountebank, Hamlet
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Border Village
+Titandrake - draws Silver
+Titandrake - plays Mountebank
+remarkiwa - gains Curse
+remarkiwa - gains Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Ghost Ship, Copper, Silver
+ 
+---------- remarkiwa: turn 16 ----------
+remarkiwa - plays Border Village
+remarkiwa - draws Baker
+remarkiwa - plays Baker
+remarkiwa - receives 1 coin token
+remarkiwa - draws Copper
+remarkiwa - plays Hamlet
+remarkiwa - draws Border Village
+remarkiwa - plays Border Village
+remarkiwa - draws Taxman
+remarkiwa - plays Mountebank
+Titandrake - gains Curse
+Titandrake - gains Copper
+remarkiwa - plays Taxman
+remarkiwa - trashes Silver
+Titandrake - discards Silver
+remarkiwa - gains Gold
+remarkiwa - plays 2 Copper
+remarkiwa - buys Potion
+remarkiwa - gains Potion
+remarkiwa - draws Gold, Copper, Baker, Copper, Lookout
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Border Village, Baker
+remarkiwa - places Copper on top of deck
+remarkiwa - places Copper on top of deck
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, Copper, Gold, Copper, Border Village
+ 
+---------- remarkiwa: turn 17 ----------
+remarkiwa - plays Baker
+remarkiwa - receives 1 coin token
+remarkiwa - draws Copper
+remarkiwa - plays Lookout
+remarkiwa - shuffles deck
+remarkiwa - trashes Copper
+remarkiwa - discards Baker
+remarkiwa - places Baker on top of deck
+remarkiwa - plays 1 Gold, 1 Copper
+remarkiwa - uses 2 coin tokens
+remarkiwa - buys Border Village
+remarkiwa - gains Border Village
+remarkiwa - gains Baker
+remarkiwa - draws Baker, Potion, Estate, Taxman, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Border Village
+Titandrake - draws Ghost Ship
+Titandrake - plays Ghost Ship
+Titandrake - shuffles deck
+Titandrake - draws Gold, Border Village
+remarkiwa - places Baker on top of deck
+remarkiwa - places Estate on top of deck
+Titandrake - plays Border Village
+Titandrake - draws Baker
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Silver
+Titandrake - plays 3 Gold, 2 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Curse, Border Village, Mountebank
+ 
+---------- remarkiwa: turn 18 ----------
+remarkiwa - plays Taxman
+remarkiwa - trashes Copper
+Titandrake - discards Copper
+remarkiwa - gains Silver
+remarkiwa - plays 1 Potion
+remarkiwa - buys Vineyard
+remarkiwa - gains Vineyard
+remarkiwa - draws Silver, Estate, Baker, Ghost Ship, Border Village
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Border Village
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Mountebank
+remarkiwa - gains Curse
+remarkiwa - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Ghost Ship, Ghost Ship, Silver, Mountebank, Silver
+ 
+---------- remarkiwa: turn 19 ----------
+remarkiwa - plays Baker
+remarkiwa - receives 1 coin token
+remarkiwa - draws Copper
+remarkiwa - plays Border Village
+remarkiwa - draws Estate
+remarkiwa - plays Ghost Ship
+remarkiwa - draws Copper, Lookout
+Titandrake - places Mountebank on top of deck
+Titandrake - places Ghost Ship on top of deck
+remarkiwa - plays Lookout
+remarkiwa - trashes Estate
+remarkiwa - discards Copper
+remarkiwa - places Ghost Ship on top of deck
+remarkiwa - plays 2 Copper, 1 Silver
+remarkiwa - buys Potion
+remarkiwa - gains Potion
+remarkiwa - draws Ghost Ship, Mountebank, Border Village, Hamlet, Copper
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Ghost Ship
+Titandrake - draws Ghost Ship, Mountebank
+remarkiwa - places Copper on top of deck
+remarkiwa - places Mountebank on top of deck
+Titandrake - plays 2 Silver
+Titandrake - buys Scavenger
+Titandrake - gains Scavenger
+Titandrake - draws Border Village, Border Village, Copper, Copper, Ghost Ship
+ 
+---------- remarkiwa: turn 20 ----------
+remarkiwa - plays Border Village
+remarkiwa - draws Mountebank
+remarkiwa - plays Ghost Ship
+remarkiwa - draws Copper, Hamlet
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+remarkiwa - plays Hamlet
+remarkiwa - draws Gold
+remarkiwa - discards Copper
+remarkiwa - receives one buy
+remarkiwa - plays Hamlet
+remarkiwa - draws Curse
+remarkiwa - discards Curse
+remarkiwa - receives one buy
+remarkiwa - plays Mountebank
+Titandrake - gains Copper
+remarkiwa - plays 1 Gold
+remarkiwa - uses 1 coin token
+remarkiwa - buys Hamlet
+remarkiwa - gains Hamlet
+remarkiwa - buys Hamlet
+remarkiwa - gains Hamlet
+remarkiwa - buys Hamlet
+remarkiwa - gains Hamlet
+remarkiwa - draws Copper, Curse, Mountebank, Silver, Curse
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Curse
+remarkiwa - places Copper on top of deck
+remarkiwa - places Silver on top of deck
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Copper, Silver, Copper, Copper, Lookout
+ 
+---------- remarkiwa: turn 21 ----------
+remarkiwa - plays Mountebank
+Titandrake - gains Copper
+remarkiwa - buys Hamlet
+remarkiwa - gains Hamlet
+remarkiwa - draws Silver, Copper, Border Village, Curse
+remarkiwa - shuffles deck
+remarkiwa - draws Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Hamlet
+Titandrake - discards Silver
+Titandrake - places Gold on top of deck
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Mountebank, Baker, Mountebank, Silver
+ 
+---------- remarkiwa: turn 22 ----------
+remarkiwa - plays Border Village
+remarkiwa - draws Border Village
+remarkiwa - plays Border Village
+remarkiwa - draws Border Village
+remarkiwa - plays Border Village
+remarkiwa - draws Potion
+remarkiwa - plays 2 Copper, 1 Silver, 1 Potion
+remarkiwa - buys Vineyard
+remarkiwa - gains Vineyard
+remarkiwa - draws Silver, Taxman, Copper, Ghost Ship, Curse
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Baker
+Titandrake - receives 1 coin token
+Titandrake - draws Border Village
+Titandrake - plays Border Village
+Titandrake - draws Ghost Ship
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper, Copper
+remarkiwa - places Ghost Ship on top of deck
+remarkiwa - places Silver on top of deck
+Titandrake - plays Mountebank
+remarkiwa - discards Curse
+Titandrake - plays 2 Copper, 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Border Village, Copper, Gold, Border Village, Border Village
+ 
+---------- remarkiwa: turn 23 ----------
+remarkiwa - plays Taxman
+remarkiwa - trashes Copper
+Titandrake - discards Copper
+remarkiwa - gains Silver
+remarkiwa - draws Silver, Silver, Ghost Ship, Estate, Hamlet
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Border Village
+Titandrake - draws Ghost Ship
+Titandrake - plays Border Village
+Titandrake - draws Copper
+Titandrake - plays Ghost Ship
+Titandrake - draws Curse, Scavenger
+remarkiwa - places Estate on top of deck
+remarkiwa - places Silver on top of deck
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Gold on top of deck
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Scavenger, Copper, Ghost Ship, Province
+ 
+---------- remarkiwa: turn 24 ----------
+remarkiwa - plays Hamlet
+remarkiwa - draws Silver
+remarkiwa - discards Ghost Ship
+remarkiwa - receives one buy
+remarkiwa - plays 2 Silver
+remarkiwa - buys Hamlet
+remarkiwa - gains Hamlet
+remarkiwa - buys Hamlet
+remarkiwa - gains Hamlet
+remarkiwa - draws Estate, Copper, Gold, Curse, Estate
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Scavenger
+Titandrake - moves deck to discards
+Titandrake - places Gold on top of deck
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Province, Ghost Ship, Copper, Curse
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Border Village, 5 Ghost Ship, 2 Mountebank, 13 Copper, 1 Baker, 1 Hamlet, 1 Scavenger, 1 Lookout, 5 Silver, 3 Gold, 3 Province, 1 Duchy, 2 Curse
+Titandrake - total victory points: 19
+Titandrake - turns: 24
+ 
+remarkiwa - cards: 8 Hamlet, 4 Border Village, 4 Baker, 2 Ghost Ship, 2 Mountebank, 2 Lookout, 1 Taxman, 6 Copper, 3 Silver, 2 Gold, 2 Potion, 2 Estate, 2 Vineyard, 5 Curse
+remarkiwa - total victory points: 11
+remarkiwa - turns: 24
+ 
+1st place: Titandrake
+2nd place: remarkiwa
+ 

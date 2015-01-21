@@ -1,0 +1,665 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Storeroom, Workshop, Conspirator, Plaza, Apprentice, Count, Mint, Mystic, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+21echoes - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+21echoes - shuffles deck
+Titandrake - shuffles deck
+21echoes - draws Estate, Estate, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- 21echoes: turn 1 ----------
+21echoes - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- 21echoes: turn 2 ----------
+21echoes - plays 5 Copper
+21echoes - buys Witch
+21echoes - gains Witch
+21echoes - shuffles deck
+21echoes - draws Witch, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Storeroom
+Titandrake - gains Storeroom
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Copper, Storeroom, Copper
+ 
+---------- 21echoes: turn 3 ----------
+21echoes - plays Witch
+21echoes - draws Estate, Copper
+Titandrake - gains Curse
+21echoes - plays 5 Copper
+21echoes - buys Count
+21echoes - gains Count
+21echoes - draws Estate, Estate, Copper, Copper
+21echoes - shuffles deck
+21echoes - draws Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Storeroom
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - discards Copper
+Titandrake - draws Estate, Silver, Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - draws Copper, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Curse
+ 
+---------- 21echoes: turn 4 ----------
+21echoes - plays 3 Copper
+21echoes - buys Silver
+21echoes - gains Silver
+21echoes - draws Copper, Witch, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Silver, Witch, Estate, Copper, Storeroom
+ 
+---------- 21echoes: turn 5 ----------
+21echoes - plays Witch
+21echoes - draws Estate, Count
+Titandrake - gains Curse
+21echoes - plays 4 Copper
+21echoes - buys Plaza
+21echoes - gains Plaza
+21echoes - shuffles deck
+21echoes - draws Copper, Count, Estate, Estate, Witch
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Estate
+21echoes - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Curse, Copper, Copper
+ 
+---------- 21echoes: turn 6 ----------
+21echoes - plays Count
+21echoes - places Witch on top of deck
+21echoes - trashes Copper, Estate, Estate
+21echoes - draws Witch, Estate, Copper, Copper, Plaza
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Storeroom, Plaza, Plaza, Curse, Estate
+ 
+---------- 21echoes: turn 7 ----------
+21echoes - plays Plaza
+21echoes - draws Silver
+21echoes - discards Copper
+21echoes - receives 1 coin token
+21echoes - plays Witch
+21echoes - draws Copper, Copper
+Titandrake - gains Curse
+21echoes - plays 3 Copper, 1 Silver
+21echoes - buys Witch
+21echoes - gains Witch
+21echoes - draws Copper, Copper
+21echoes - shuffles deck
+21echoes - draws Witch, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Plaza
+Titandrake - draws Witch
+Titandrake - plays Witch
+Titandrake - draws Copper, Estate
+21echoes - gains Curse
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Storeroom
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - discards Estate
+Titandrake - draws Copper, Copper, Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Witch
+Titandrake - gains Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Curse, Copper
+ 
+---------- 21echoes: turn 8 ----------
+21echoes - plays Witch
+21echoes - draws Plaza, Copper
+Titandrake - gains Curse
+21echoes - plays 5 Copper
+21echoes - buys Mint
+21echoes - trashes Copper, Copper, Copper, Copper, Copper
+21echoes - gains Mint
+21echoes - draws Curse, Copper, Count, Witch, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Plaza, Plaza, Curse, Curse, Witch
+ 
+---------- 21echoes: turn 9 ----------
+21echoes - plays Count
+21echoes - places Witch on top of deck
+21echoes - trashes Curse, Copper, Estate
+21echoes - draws Witch, Silver
+21echoes - shuffles deck
+21echoes - draws Plaza, Count, Witch
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Plaza
+Titandrake - draws Storeroom
+Titandrake - plays Witch
+Titandrake - draws Estate, Copper
+21echoes - gains Curse
+Titandrake - plays Plaza
+Titandrake - draws Copper
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Storeroom
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - draws Silver, Estate, Silver, Copper
+Titandrake - discards Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Apprentice
+Titandrake - gains Apprentice
+Titandrake - draws Copper, Witch
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Copper
+ 
+---------- 21echoes: turn 10 ----------
+21echoes - plays Plaza
+21echoes - draws Curse
+21echoes - plays Witch
+21echoes - draws Mint
+21echoes - shuffles deck
+21echoes - draws Curse
+Titandrake - gains Curse
+21echoes - plays Count
+21echoes - places Witch on top of deck
+21echoes - takes 3 coins
+21echoes - plays 1 Silver
+21echoes - buys Silver
+21echoes - gains Silver
+21echoes - draws Witch
+21echoes - shuffles deck
+21echoes - draws Mint, Silver, Witch, Plaza
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Copper
+21echoes - gains Curse
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Mint
+Titandrake - trashes Copper, Copper, Copper, Copper, Copper
+Titandrake - gains Mint
+Titandrake - draws Curse, Estate, Curse, Copper, Curse
+ 
+---------- 21echoes: turn 11 ----------
+21echoes - plays Plaza
+21echoes - draws Silver
+21echoes - plays Witch
+21echoes - draws Curse, Count
+Titandrake - gains Curse
+21echoes - plays Witch
+21echoes - draws Curse
+21echoes - shuffles deck
+21echoes - draws Curse
+21echoes - plays 2 Silver
+21echoes - buys Silver
+21echoes - gains Silver
+21echoes - shuffles deck
+21echoes - draws Curse, Silver, Witch, Curse, Count
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - draws Plaza, Storeroom, Estate, Apprentice, Plaza
+ 
+---------- 21echoes: turn 12 ----------
+21echoes - plays Count
+21echoes - places Silver on top of deck
+21echoes - trashes Curse, Witch, Curse
+21echoes - draws Silver, Mint, Curse, Silver, Witch
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Curse, Silver
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Witch
+Titandrake - plays Witch
+Titandrake - draws Copper, Estate
+Titandrake - plays Storeroom
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - discards Plaza
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - buys Storeroom
+Titandrake - gains Storeroom
+Titandrake - shuffles deck
+Titandrake - draws Plaza, Curse, Curse, Storeroom, Mint
+ 
+---------- 21echoes: turn 13 ----------
+21echoes - plays Mint
+21echoes - reveals Silver
+21echoes - gains Silver
+21echoes - plays 2 Silver
+21echoes - buys Silver
+21echoes - gains Silver
+21echoes - draws Silver, Plaza
+21echoes - shuffles deck
+21echoes - draws Silver, Silver, Mint
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - plays Storeroom
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - discards Mint
+Titandrake - discards Curse
+Titandrake - draws Curse, Apprentice, Conspirator, Plaza
+Titandrake - plays Conspirator
+Titandrake - draws Silver
+Titandrake - plays Apprentice
+Titandrake - trashes Curse
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - plays Silver
+Titandrake - buys Plaza
+Titandrake - gains Plaza
+Titandrake - draws Estate, Estate, Copper, Witch, Witch
+ 
+---------- 21echoes: turn 14 ----------
+21echoes - plays Plaza
+21echoes - draws Curse
+21echoes - plays Mint
+21echoes - reveals Silver
+21echoes - gains Silver
+21echoes - plays 3 Silver
+21echoes - buys Gold
+21echoes - gains Gold
+21echoes - draws Count, Witch, Silver, Silver
+21echoes - shuffles deck
+21echoes - draws Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Witch
+Titandrake - draws Copper, Plaza
+Titandrake - draws Storeroom, Silver, Curse
+Titandrake - shuffles deck
+Titandrake - draws Plaza, Estate
+ 
+---------- 21echoes: turn 15 ----------
+21echoes - plays Count
+21echoes - places Silver on top of deck
+21echoes - takes 3 coins
+21echoes - plays 1 Silver, 1 Gold
+21echoes - buys Province
+21echoes - gains Province
+21echoes - draws Silver, Silver, Plaza, Silver, Curse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - plays Storeroom
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - discards Silver
+Titandrake - discards Curse
+Titandrake - draws Mint, Apprentice, Plaza, Silver
+Titandrake - plays Apprentice
+Titandrake - trashes Mint
+Titandrake - draws Copper, Copper, Curse, Curse, Estate
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Plaza, Storeroom, Witch, Conspirator, Witch
+ 
+---------- 21echoes: turn 16 ----------
+21echoes - plays Plaza
+21echoes - draws Silver
+21echoes - plays 4 Silver
+21echoes - buys Province
+21echoes - gains Province
+21echoes - draws Mint, Silver
+21echoes - shuffles deck
+21echoes - draws Count, Silver, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Plaza
+Titandrake - shuffles deck
+Titandrake - draws Conspirator
+Titandrake - plays Witch
+Titandrake - draws Plaza, Curse
+Titandrake - plays Conspirator
+Titandrake - draws Plaza
+Titandrake - plays Conspirator
+Titandrake - draws Estate
+Titandrake - plays Plaza
+Titandrake - draws Silver
+Titandrake - plays Witch
+Titandrake - draws Curse, Copper
+Titandrake - plays Plaza
+Titandrake - draws Storeroom
+Titandrake - plays Storeroom
+Titandrake - discards Copper
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - draws Curse, Curse, Apprentice
+Titandrake - plays Apprentice
+Titandrake - trashes Curse
+Titandrake - plays Storeroom
+Titandrake - discards Curse
+Titandrake - discards Curse
+Titandrake - draws Silver, Curse
+Titandrake - discards Curse
+Titandrake - plays 2 Silver
+Titandrake - buys Count
+Titandrake - gains Count
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Copper, Plaza, Estate
+Titandrake - shuffles deck
+Titandrake - draws Conspirator, Plaza
+ 
+---------- 21echoes: turn 17 ----------
+21echoes - plays Count
+21echoes - places Mint on top of deck
+21echoes - takes 3 coins
+21echoes - plays 2 Silver
+21echoes - uses 1 coin token
+21echoes - buys Province
+21echoes - gains Province
+21echoes - draws Mint, Curse, Witch, Plaza, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Plaza
+Titandrake - draws Witch
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Witch
+Titandrake - draws Storeroom, Silver
+Titandrake - plays Conspirator
+Titandrake - draws Silver
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - plays Storeroom
+Titandrake - discards Estate
+Titandrake - discards Silver
+Titandrake - discards Silver
+Titandrake - discards Curse
+Titandrake - draws Conspirator, Curse, Copper, Plaza
+Titandrake - discards Curse
+Titandrake - plays Plaza
+Titandrake - draws Count
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Estate
+Titandrake - plays Count
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - takes 3 coins
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Storeroom
+Titandrake - gains Storeroom
+Titandrake - draws Curse, Witch, Curse, Apprentice, Storeroom
+ 
+---------- 21echoes: turn 18 ----------
+21echoes - plays Plaza
+21echoes - draws Silver
+21echoes - plays Witch
+21echoes - draws Province, Silver
+21echoes - plays Mint
+21echoes - reveals Silver
+21echoes - gains Silver
+21echoes - plays 3 Silver
+21echoes - buys Gold
+21echoes - gains Gold
+21echoes - draws Silver, Gold
+21echoes - shuffles deck
+21echoes - draws Mint, Silver, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Witch
+Titandrake - draws Plaza
+Titandrake - shuffles deck
+Titandrake - draws Estate, Witch, Copper, Curse
+Titandrake - plays Plaza
+Titandrake - draws Conspirator
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Conspirator
+Titandrake - draws Silver
+Titandrake - plays Witch
+Titandrake - draws Conspirator, Plaza
+Titandrake - plays Conspirator
+Titandrake - draws Plaza
+Titandrake - plays Plaza
+Titandrake - draws Curse
+Titandrake - plays Plaza
+Titandrake - draws Storeroom
+Titandrake - plays Storeroom
+Titandrake - discards Silver
+Titandrake - discards Estate
+Titandrake - discards Curse
+Titandrake - draws Estate, Silver, Province
+Titandrake - plays Storeroom
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - discards Silver
+Titandrake - draws Copper, Conspirator, Plaza
+Titandrake - plays Plaza
+Titandrake - draws Storeroom
+Titandrake - plays Conspirator
+Titandrake - draws Count
+Titandrake - plays Count
+Titandrake - places Storeroom on top of deck
+Titandrake - trashes Curse, Curse, Curse, Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Storeroom
+Titandrake - shuffles deck
+Titandrake - draws Conspirator, Conspirator, Witch, Curse
+ 
+---------- 21echoes: turn 19 ----------
+21echoes - plays Mint
+21echoes - reveals Gold
+21echoes - gains Gold
+21echoes - plays 3 Silver, 1 Gold
+21echoes - buys Province
+21echoes - gains Province
+21echoes - draws Province, Silver, Count, Witch, Province
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Storeroom
+Titandrake - discards Conspirator
+Titandrake - discards Conspirator
+Titandrake - discards Witch
+Titandrake - discards Curse
+Titandrake - draws Silver, Count, Plaza, Plaza
+Titandrake - discards Count
+Titandrake - discards Plaza
+Titandrake - discards Plaza
+Titandrake - plays Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Storeroom, Estate, Apprentice, Estate, Copper
+ 
+---------- 21echoes: turn 20 ----------
+21echoes - plays Count
+21echoes - places Silver on top of deck
+21echoes - gains Duchy
+21echoes - draws Silver, Curse, Silver, Plaza, Gold
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Apprentice
+Titandrake - trashes Estate
+Titandrake - draws Gold, Plaza
+Titandrake - plays Plaza
+Titandrake - draws Province
+Titandrake - plays Storeroom
+Titandrake - discards Estate
+Titandrake - discards Copper
+Titandrake - discards Province
+Titandrake - draws Conspirator, Plaza, Silver
+Titandrake - plays Plaza
+Titandrake - draws Storeroom
+Titandrake - plays Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Storeroom
+Titandrake - plays Storeroom
+Titandrake - discards Storeroom
+Titandrake - draws Province
+Titandrake - discards Province
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Curse, Copper, Duchy, Plaza, Conspirator
+ 
+---------- 21echoes: turn 21 ----------
+21echoes - plays Plaza
+21echoes - draws Silver
+21echoes - plays 3 Silver, 1 Gold
+21echoes - buys Province
+21echoes - gains Province
+21echoes - draws Province, Silver
+21echoes - shuffles deck
+21echoes - draws Duchy, Silver, Gold
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Plaza
+Titandrake - draws Count
+Titandrake - discards Copper
+Titandrake - receives 1 coin token
+Titandrake - plays Conspirator
+Titandrake - plays Count
+Titandrake - discards Duchy
+Titandrake - discards Curse
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Plaza, Witch, Estate, Conspirator, Silver
+ 
+---------- 21echoes: turn 22 ----------
+21echoes - plays 2 Silver, 1 Gold
+21echoes - buys Duchy
+21echoes - gains Duchy
+21echoes - draws Mint, Province, Province, Witch, Silver
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Plaza
+Titandrake - shuffles deck
+Titandrake - draws Duchy
+Titandrake - plays Witch
+Titandrake - draws Conspirator, Count
+Titandrake - plays Conspirator
+Titandrake - draws Storeroom
+Titandrake - plays Conspirator
+Titandrake - draws Curse
+Titandrake - plays Count
+Titandrake - discards Curse
+Titandrake - discards Storeroom
+Titandrake - gains Duchy
+Titandrake - plays Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Plaza, Storeroom, Storeroom, Plaza, Gold
+ 
+---------- 21echoes: turn 23 ----------
+21echoes - plays Witch
+21echoes - draws Silver, Count
+21echoes - plays 2 Silver
+21echoes - buys Estate
+21echoes - gains Estate
+21echoes - draws Curse, Gold, Plaza, Silver, Silver
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Plaza
+Titandrake - draws Conspirator
+Titandrake - plays Plaza
+Titandrake - draws Plaza
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays Plaza
+Titandrake - draws Duchy
+Titandrake - plays Storeroom
+Titandrake - discards Duchy
+Titandrake - discards Province
+Titandrake - discards Storeroom
+Titandrake - draws Province, Apprentice, Estate
+Titandrake - discards Province
+Titandrake - discards Estate
+Titandrake - discards Apprentice
+Titandrake - plays Gold
+Titandrake - uses 2 coin tokens
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Duchy, Duchy
+ 
+---------- 21echoes: turn 24 ----------
+21echoes - plays Plaza
+21echoes - draws Silver
+21echoes - plays 3 Silver, 1 Gold
+21echoes - buys Province
+21echoes - gains Province
+21echoes - draws Province, Gold, Province
+21echoes - shuffles deck
+21echoes - draws Gold, Silver
+ 
+------------ Game Over ------------
+21echoes - cards: 1 Mint, 1 Count, 1 Plaza, 1 Witch, 7 Silver, 3 Gold, 6 Province, 2 Duchy, 1 Estate, 1 Curse
+21echoes - total victory points: 42
+21echoes - turns: 24
+ 
+Titandrake - cards: 4 Plaza, 3 Storeroom, 3 Conspirator, 1 Apprentice, 1 Count, 1 Witch, 2 Silver, 1 Copper, 1 Gold, 6 Duchy, 2 Estate, 2 Province, 1 Curse
+Titandrake - total victory points: 31
+Titandrake - turns: 23
+ 
+1st place: 21echoes
+2nd place: Titandrake
+ 

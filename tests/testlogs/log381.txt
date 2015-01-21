@@ -1,0 +1,570 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Duchess, Stonemason, Sage, Feast, Baker, Rogue, Trading Post, Upgrade, Forge, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Kirian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kirian - shuffles deck
+Titandrake - shuffles deck
+Kirian - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Kirian: turn 1 ----------
+Kirian - plays 4 Copper
+Kirian - uses 1 coin token
+Kirian - buys Trading Post
+Kirian - gains Trading Post
+Kirian - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Trading Post
+Titandrake - gains Trading Post
+Titandrake - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- Kirian: turn 2 ----------
+Kirian - plays 3 Copper
+Kirian - buys Sage
+Kirian - gains Sage
+Kirian - shuffles deck
+Kirian - draws Copper, Trading Post, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Sage
+ 
+---------- Kirian: turn 3 ----------
+Kirian - plays Trading Post
+Kirian - trashes Estate, Estate
+Kirian - gains Silver
+Kirian - plays 2 Copper, 1 Silver
+Kirian - buys Feast
+Kirian - gains Feast
+Kirian - draws Sage, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Trading Post
+Titandrake - places Trading Post in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Estate, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Kirian: turn 4 ----------
+Kirian - plays Sage
+Kirian - shuffles deck
+Kirian - reveals Copper, Copper, Trading Post
+Kirian - places Trading Post in hand
+Kirian - discards: Copper, Copper
+Kirian - plays Trading Post
+Kirian - trashes Estate, Copper
+Kirian - gains Silver
+Kirian - plays 2 Copper, 1 Silver
+Kirian - buys Sage
+Kirian - gains Sage
+Kirian - draws Silver, Copper, Feast, Copper
+Kirian - shuffles deck
+Kirian - draws Sage
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Copper, Copper, Silver, Trading Post
+ 
+---------- Kirian: turn 5 ----------
+Kirian - plays Sage
+Kirian - reveals Silver
+Kirian - places Silver in hand
+Kirian - plays Feast
+Kirian - trashes Feast
+Kirian - gains Baker
+Kirian - plays 2 Silver, 2 Copper
+Kirian - buys Gold
+Kirian - gains Gold
+Kirian - draws Trading Post, Copper, Sage, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Trading Post
+Titandrake - trashes Copper, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Sage, Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Copper
+ 
+---------- Kirian: turn 6 ----------
+Kirian - plays Trading Post
+Kirian - trashes Copper, Copper
+Kirian - gains Silver
+Kirian - plays 1 Copper, 1 Silver
+Kirian - buys Sage
+Kirian - gains Sage
+Kirian - draws Copper
+Kirian - shuffles deck
+Kirian - draws Copper, Gold, Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Sage
+Titandrake - reveals Silver
+Titandrake - places Silver in hand
+Titandrake - plays Sage
+Titandrake - reveals Trading Post
+Titandrake - places Trading Post in hand
+Titandrake - plays Trading Post
+Titandrake - trashes Estate, Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Silver, Upgrade, Sage, Copper, Copper
+ 
+---------- Kirian: turn 7 ----------
+Kirian - plays 3 Copper, 1 Gold, 1 Silver
+Kirian - buys Province
+Kirian - gains Province
+Kirian - draws Trading Post, Sage, Copper, Sage, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Estate
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Silver
+Titandrake - gains Feast
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Rogue
+Titandrake - gains Rogue
+Titandrake - draws Sage, Upgrade, Trading Post, Sage, Silver
+ 
+---------- Kirian: turn 8 ----------
+Kirian - plays Sage
+Kirian - reveals Sage
+Kirian - places Sage in hand
+Kirian - plays Sage
+Kirian - reveals Baker
+Kirian - places Baker in hand
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Silver
+Kirian - plays Sage
+Kirian - shuffles deck
+Kirian - reveals Copper, Copper, Copper, Gold
+Kirian - places Gold in hand
+Kirian - discards: Copper, Copper, Copper
+Kirian - plays 2 Silver, 1 Copper, 1 Gold
+Kirian - buys Province
+Kirian - gains Province
+Kirian - draws Silver, Province
+Kirian - shuffles deck
+Kirian - draws Sage, Baker, Province
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Trading Post
+Titandrake - gains Gold
+Titandrake - plays Sage
+Titandrake - reveals Rogue
+Titandrake - places Rogue in hand
+Titandrake - plays Sage
+Titandrake - reveals Copper, Copper, Copper, Upgrade
+Titandrake - places Upgrade in hand
+Titandrake - discards: Copper, Copper, Copper
+Titandrake - plays Upgrade
+Titandrake - draws Feast
+Titandrake - trashes Feast
+Titandrake - gains Upgrade
+Titandrake - plays Rogue
+Titandrake - gains Trading Post
+Titandrake - plays 2 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Gold, Sage, Silver, Copper
+ 
+---------- Kirian: turn 9 ----------
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Sage
+Kirian - plays Sage
+Kirian - reveals Copper, Silver
+Kirian - places Silver in hand
+Kirian - discards Copper
+Kirian - plays Sage
+Kirian - reveals Copper, Trading Post
+Kirian - places Trading Post in hand
+Kirian - discards Copper
+Kirian - plays 2 Silver
+Kirian - uses 1 coin token
+Kirian - buys Baker
+Kirian - gains Baker
+Kirian - draws Copper, Gold, Sage, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Upgrade
+Titandrake - places Upgrade in hand
+Titandrake - plays Upgrade
+Titandrake - draws Upgrade
+Titandrake - trashes Gold
+Titandrake - gains Forge
+Titandrake - plays Upgrade
+Titandrake - draws Trading Post
+Titandrake - trashes Trading Post
+Titandrake - gains Gold
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Sage, Rogue, Upgrade, Copper, Copper
+ 
+---------- Kirian: turn 10 ----------
+Kirian - plays Sage
+Kirian - shuffles deck
+Kirian - reveals Silver
+Kirian - places Silver in hand
+Kirian - plays 2 Copper, 2 Silver, 1 Gold
+Kirian - buys Province
+Kirian - gains Province
+Kirian - draws Baker, Silver, Copper, Province, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Sage
+Titandrake - reveals Upgrade
+Titandrake - places Upgrade in hand
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - trashes Estate
+Titandrake - gains Sage
+Titandrake - plays Rogue
+Titandrake - gains Gold
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Sage, Sage, Upgrade, Gold, Forge
+ 
+---------- Kirian: turn 11 ----------
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Baker
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Sage
+Kirian - plays Sage
+Kirian - reveals Province
+Kirian - places Province in hand
+Kirian - plays 2 Copper, 1 Silver
+Kirian - uses 3 coin tokens
+Kirian - buys Stonemason
+Kirian - overpays for Stonemason with 5 coins
+Kirian - gains Baker
+Kirian - gains Baker
+Kirian - gains Stonemason
+Kirian - draws Trading Post, Sage
+Kirian - shuffles deck
+Kirian - draws Copper, Province, Province
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Silver
+Titandrake - places Silver in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Upgrade
+Titandrake - places Upgrade in hand
+Titandrake - plays Upgrade
+Titandrake - draws Sage
+Titandrake - trashes Forge
+Titandrake - gains Province
+Titandrake - plays Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Upgrade
+Titandrake - trashes Gold
+Titandrake - gains Forge
+Titandrake - plays Sage
+Titandrake - reveals Rogue
+Titandrake - places Rogue in hand
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Silver
+Titandrake - gains Feast
+Titandrake - plays Rogue
+Titandrake - gains Gold
+Titandrake - plays Silver
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Province, Upgrade, Sage, Upgrade, Copper
+ 
+---------- Kirian: turn 12 ----------
+Kirian - plays Sage
+Kirian - reveals Copper, Sage
+Kirian - places Sage in hand
+Kirian - discards Copper
+Kirian - plays Sage
+Kirian - reveals Baker
+Kirian - places Baker in hand
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Silver
+Kirian - plays Trading Post
+Kirian - trashes Copper, Silver
+Kirian - gains Silver
+Kirian - plays 1 Silver
+Kirian - buys Cellar
+Kirian - gains Cellar
+Kirian - draws Copper, Copper, Sage, Silver, Stonemason
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Copper, Gold
+Titandrake - places Gold in hand
+Titandrake - discards Copper
+Titandrake - plays Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Sage
+Titandrake - trashes Gold
+Titandrake - gains Forge
+Titandrake - plays Sage
+Titandrake - reveals Upgrade
+Titandrake - places Upgrade in hand
+Titandrake - plays Upgrade
+Titandrake - draws Forge
+Titandrake - trashes Forge
+Titandrake - gains Province
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - draws Upgrade, Sage, Feast, Upgrade, Silver
+ 
+---------- Kirian: turn 13 ----------
+Kirian - plays Sage
+Kirian - reveals Baker
+Kirian - places Baker in hand
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Baker
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Province
+Kirian - plays Stonemason
+Kirian - trashes Copper
+Kirian - plays 1 Copper, 1 Silver
+Kirian - uses 3 coin tokens
+Kirian - buys Gold
+Kirian - gains Gold
+Kirian - draws Silver, Baker, Gold
+Kirian - shuffles deck
+Kirian - draws Silver, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Rogue
+Titandrake - places Rogue in hand
+Titandrake - plays Upgrade
+Titandrake - draws Sage
+Titandrake - trashes Feast
+Titandrake - gains Upgrade
+Titandrake - plays Sage
+Titandrake - reveals Gold
+Titandrake - places Gold in hand
+Titandrake - plays Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Upgrade
+Titandrake - trashes Gold
+Titandrake - gains Forge
+Titandrake - plays Upgrade
+Titandrake - draws Sage
+Titandrake - trashes Silver
+Titandrake - gains Feast
+Titandrake - plays Sage
+Titandrake - reveals Copper, Forge
+Titandrake - places Forge in hand
+Titandrake - discards Copper
+Titandrake - plays Rogue
+Titandrake - gains Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Upgrade, Province, Sage, Sage, Province
+ 
+---------- Kirian: turn 14 ----------
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Stonemason
+Kirian - plays Stonemason
+Kirian - trashes Gold
+Kirian - gains Duchy
+Kirian - gains Duchy
+Kirian - plays 2 Silver, 1 Copper
+Kirian - buys Duchy
+Kirian - gains Duchy
+Kirian - draws Sage, Sage, Province, Cellar, Province
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Upgrade
+Titandrake - places Upgrade in hand
+Titandrake - plays Sage
+Titandrake - reveals Upgrade
+Titandrake - places Upgrade in hand
+Titandrake - plays Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Upgrade
+Titandrake - trashes Upgrade
+Titandrake - gains Gold
+Titandrake - plays Upgrade
+Titandrake - draws Upgrade
+Titandrake - trashes Upgrade
+Titandrake - gains Gold
+Titandrake - plays Upgrade
+Titandrake - draws Sage
+Titandrake - trashes Sage
+Titandrake - gains Feast
+Titandrake - draws Sage, Rogue, Forge, Upgrade, Forge
+ 
+---------- Kirian: turn 15 ----------
+Kirian - plays Sage
+Kirian - reveals Baker
+Kirian - places Baker in hand
+Kirian - plays Sage
+Kirian - reveals Copper, Sage
+Kirian - places Sage in hand
+Kirian - discards Copper
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Province
+Kirian - plays Sage
+Kirian - reveals Baker
+Kirian - places Baker in hand
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Silver
+Kirian - plays Cellar
+Kirian - discards Province
+Kirian - discards Province
+Kirian - discards Province
+Kirian - draws Trading Post, Gold, Baker
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - shuffles deck
+Kirian - draws Duchy
+Kirian - plays 1 Silver, 1 Gold
+Kirian - uses 3 coin tokens
+Kirian - buys Province
+Kirian - gains Province
+Kirian - draws Province, Duchy, Silver, Province, Baker
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Estate
+Titandrake - trashes Forge
+Titandrake - gains Province
+Titandrake - plays Sage
+Titandrake - reveals Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Copper
+Titandrake - plays Forge
+Titandrake - trashes Estate, Sage
+Titandrake - gains Duchy
+Titandrake - draws Feast, Gold, Sage
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province
+ 
+---------- Kirian: turn 16 ----------
+Kirian - plays Baker
+Kirian - receives 1 coin token
+Kirian - draws Province
+Kirian - plays 1 Silver
+Kirian - buys Estate
+Kirian - gains Estate
+Kirian - draws Copper, Silver, Copper, Duchy, Stonemason
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Feast
+Titandrake - trashes Feast
+Titandrake - gains Duchy
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Upgrade, Gold, Upgrade, Upgrade, Forge
+ 
+---------- Kirian: turn 17 ----------
+Kirian - plays 2 Copper, 1 Silver
+Kirian - uses 1 coin token
+Kirian - buys Duchy
+Kirian - gains Duchy
+Kirian - shuffles deck
+Kirian - draws Province, Gold, Cellar, Sage, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Rogue
+Titandrake - trashes Upgrade
+Titandrake - gains Gold
+Titandrake - plays Forge
+Titandrake - trashes Upgrade
+Titandrake - gains Duchy
+Titandrake - plays Gold
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Sage, Sage, Duchy, Feast
+ 
+---------- Kirian: turn 18 ----------
+Kirian - plays Sage
+Kirian - reveals Silver
+Kirian - places Silver in hand
+Kirian - plays Cellar
+Kirian - discards Province
+Kirian - draws Copper
+Kirian - plays 2 Silver, 1 Gold, 1 Copper
+Kirian - buys Province
+Kirian - gains Province
+Kirian - draws Sage, Baker, Sage, Province, Copper
+ 
+------------ Game Over ------------
+Kirian - cards: 4 Baker, 3 Sage, 1 Cellar, 1 Trading Post, 1 Stonemason, 3 Silver, 2 Copper, 1 Gold, 5 Province, 4 Duchy, 1 Estate
+Kirian - total victory points: 43
+Kirian - turns: 18
+ 
+Titandrake - cards: 4 Sage, 2 Upgrade, 1 Feast, 1 Forge, 1 Rogue, 4 Gold, 1 Copper, 3 Province, 3 Duchy, 2 Estate
+Titandrake - total victory points: 29
+Titandrake - turns: 17
+ 
+1st place: Kirian
+2nd place: Titandrake
+ 

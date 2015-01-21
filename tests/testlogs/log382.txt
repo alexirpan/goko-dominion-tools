@@ -1,0 +1,394 @@
+------------ Game Setup ------------
+Supply cards: Squire, Scrying Pool, Fishing Village, Urchin, Baron, Bureaucrat, Feast, Monument, Smithy, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+Kirian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Kirian - shuffles deck
+Titandrake - shuffles deck
+Kirian - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- Kirian: turn 1 ----------
+Kirian - plays 5 Copper
+Kirian - buys Smithy
+Kirian - gains Smithy
+Kirian - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Kirian: turn 2 ----------
+Kirian - plays 2 Copper
+Kirian - buys Squire
+Kirian - gains Squire
+Kirian - shuffles deck
+Kirian - draws Copper, Squire, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - shuffles deck
+Titandrake - draws Estate, Urchin, Urchin, Copper, Copper
+ 
+---------- Kirian: turn 3 ----------
+Kirian - plays Squire
+Kirian - takes 2 buys
+Kirian - plays 4 Copper
+Kirian - buys Urchin
+Kirian - gains Urchin
+Kirian - buys Squire
+Kirian - gains Squire
+Kirian - draws Copper, Estate, Copper, Estate, Smithy
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Urchin
+Titandrake - draws Estate
+Kirian - discards Estate
+Titandrake - plays Urchin
+Titandrake - trashes Urchin
+Titandrake - gains Mercenary
+Titandrake - draws Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Kirian: turn 4 ----------
+Kirian - plays Smithy
+Kirian - draws Copper, Estate
+Kirian - shuffles deck
+Kirian - draws Urchin
+Kirian - plays 3 Copper
+Kirian - buys Urchin
+Kirian - gains Urchin
+Kirian - draws Squire, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Mercenary, Copper, Estate
+ 
+---------- Kirian: turn 5 ----------
+Kirian - plays Squire
+Kirian - gains Silver
+Kirian - plays 3 Copper
+Kirian - buys Potion
+Kirian - gains Potion
+Kirian - draws Squire, Copper
+Kirian - shuffles deck
+Kirian - draws Estate, Urchin, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Estate
+Titandrake - draws Copper, Potion
+Kirian - discards Estate
+Kirian - discards Copper
+Titandrake - plays 3 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Urchin, Copper, Copper, Estate, Copper
+ 
+---------- Kirian: turn 6 ----------
+Kirian - plays Urchin
+Kirian - draws Copper
+Titandrake - discards Estate
+Kirian - plays Squire
+Kirian - gains Silver
+Kirian - plays 2 Copper
+Kirian - buys Urchin
+Kirian - gains Urchin
+Kirian - draws Copper, Estate, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Urchin
+Titandrake - draws Squire
+Kirian - discards Estate
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 3 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Potion, Mercenary, Copper, Copper
+ 
+---------- Kirian: turn 7 ----------
+Kirian - plays 3 Copper, 1 Silver
+Kirian - buys Fishing Village
+Kirian - gains Fishing Village
+Kirian - draws Smithy, Squire, Urchin, Estate, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Estate, Copper
+Kirian - discards Copper
+Kirian - discards Estate
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - draws Scrying Pool, Copper, Copper, Squire, Squire
+ 
+---------- Kirian: turn 8 ----------
+Kirian - plays Urchin
+Kirian - draws Potion
+Titandrake - discards Copper
+Kirian - plays Squire
+Kirian - takes 2 actions
+Kirian - plays Smithy
+Kirian - shuffles deck
+Kirian - draws Copper, Estate, Estate
+Kirian - plays 1 Potion, 1 Copper
+Kirian - buys Scrying Pool
+Kirian - gains Scrying Pool
+Kirian - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Urchin on top of deck
+Kirian - discards Urchin
+Titandrake - reveals Urchin, Copper
+Titandrake - plays Urchin
+Titandrake - draws Squire
+Kirian - discards Estate
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper
+Titandrake - buys Monument
+Titandrake - gains Monument
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - shuffles deck
+Titandrake - draws Copper, Peddler, Peddler, Peddler, Monument
+ 
+---------- Kirian: turn 9 ----------
+Kirian - plays 3 Copper, 1 Silver
+Kirian - buys Monument
+Kirian - gains Monument
+Kirian - draws Copper, Urchin, Copper, Squire, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Peddler
+Titandrake - draws Mercenary
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Scrying Pool
+Titandrake - plays Scrying Pool
+Titandrake - places Squire on top of deck
+Kirian - discards Fishing Village
+Titandrake - reveals Squire, Squire, Copper
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Mercenary
+Titandrake - trashes Copper, Copper
+Titandrake - draws Copper, Estate
+Kirian - discards Copper
+Kirian - discards Copper
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper
+Titandrake - buys Fishing Village
+Titandrake - gains Fishing Village
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Scrying Pool, Squire, Urchin, Peddler, Copper
+ 
+---------- Kirian: turn 10 ----------
+Kirian - plays Urchin
+Kirian - draws Copper
+Titandrake - discards Copper
+Kirian - plays Squire
+Kirian - takes 2 buys
+Kirian - plays 1 Silver, 1 Copper
+Kirian - buys Urchin
+Kirian - gains Urchin
+Kirian - shuffles deck
+Kirian - draws Smithy, Urchin, Urchin, Squire, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Potion
+Kirian - places Silver on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Squire, Peddler, Peddler, Fishing Village, Peddler, Estate
+Titandrake - plays Peddler
+Titandrake - draws Potion
+Titandrake - plays Peddler
+Titandrake - draws Squire
+Titandrake - plays Peddler
+Titandrake - draws Scrying Pool
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Scrying Pool
+Titandrake - places Mercenary on top of deck
+Kirian - places Silver on top of deck
+Titandrake - reveals Mercenary, Copper
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Mercenary
+Titandrake - trashes Estate, Copper
+Titandrake - draws Copper, Copper
+Kirian - discards Copper
+Kirian - discards Squire
+Titandrake - plays Peddler
+Titandrake - draws Monument
+Titandrake - plays Fishing Village
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - buys Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - shuffles deck
+Titandrake - draws Potion, Copper, Monument, Scrying Pool, Peddler
+ 
+---------- Kirian: turn 11 ----------
+Kirian - plays Urchin
+Kirian - draws Silver
+Titandrake - discards Potion
+Kirian - plays Urchin
+Kirian - trashes Urchin
+Kirian - gains Mercenary
+Kirian - draws Potion
+Kirian - plays Smithy
+Kirian - draws Estate, Monument, Silver
+Kirian - plays 2 Silver, 1 Potion
+Kirian - buys Scrying Pool
+Kirian - gains Scrying Pool
+Kirian - draws Copper, Copper, Copper, Scrying Pool, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Fishing Village
+Titandrake - plays Scrying Pool
+Titandrake - places Squire on top of deck
+Kirian - places Estate on top of deck
+Titandrake - reveals Squire, Squire, Copper
+Titandrake - plays Peddler
+Titandrake - draws Colony
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 2 Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Peddler, Peddler, Scrying Pool, Mercenary, Peddler
+ 
+---------- Kirian: turn 12 ----------
+Kirian - plays Scrying Pool
+Kirian - discards Estate
+Titandrake - discards Peddler
+Kirian - reveals Fishing Village, Estate
+Kirian - plays Fishing Village
+Kirian - plays 4 Copper
+Kirian - buys Peddler
+Kirian - gains Peddler
+Kirian - draws Squire, Copper, Urchin, Copper, Urchin
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Squire on top of deck
+Kirian - shuffles deck
+Kirian - places Copper on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals Squire, Scrying Pool, Peddler, Urchin, Squire, Squire, Urchin, Peddler, Squire, Urchin, Fishing Village, Monument, Colony
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+Kirian - places Copper on top of deck
+Titandrake - reveals Squire, Peddler, Copper
+Titandrake - plays Peddler
+Titandrake - draws Potion
+Titandrake - plays Peddler
+Titandrake - draws Scrying Pool
+Titandrake - plays Fishing Village
+Titandrake - plays Monument
+Titandrake - receives 1 victory point chips
+Titandrake - plays Peddler
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - plays Peddler
+Titandrake - plays Peddler
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Mercenary
+Titandrake - trashes Squire, Copper
+Titandrake - gains Urchin
+Titandrake - shuffles deck
+Titandrake - draws Urchin
+Kirian - discards Copper
+Kirian - discards Copper
+Titandrake - buys Urchin
+Titandrake - gains Urchin
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - shuffles deck
+Titandrake - draws Urchin, Peddler, Peddler, Peddler, Potion
+ 
+---------- Kirian: turn 13 ----------
+Kirian - duration Fishing Village
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Peddler, 7 Squire, 5 Urchin, 3 Scrying Pool, 1 Monument, 1 Mercenary, 1 Fishing Village, 1 Potion, 1 Copper, 1 Colony
+Titandrake - victory point chips: 3
+Titandrake - total victory points: 13
+Titandrake - turns: 12
+ 
+Kirian - resigned
+Kirian - cards: 3 Urchin, 2 Squire, 2 Scrying Pool, 1 Smithy, 1 Mercenary, 1 Monument, 1 Peddler, 7 Copper, 2 Silver, 1 Potion, 3 Estate
+Kirian - victory point chips: 0
+Kirian - total victory points: 3
+Kirian - turns: 12
+ 
+1st place: Titandrake
+2nd place: Kirian
+ 

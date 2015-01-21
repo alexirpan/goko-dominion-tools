@@ -1,0 +1,423 @@
+------------ Game Setup ------------
+Supply cards: Masterpiece, Smugglers, Pirate Ship, Quarry, Catacombs, Festival, Haggler, Ill-Gotten Gains, Rebuild, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum
+Rating system: pro
+SM.SM - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Copper, Overgrown Estate
+Titandrake - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Quarry
+SM.SM - gains Quarry
+SM.SM - draws Copper, Necropolis, Copper, Copper, Hovel
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Quarry
+Titandrake - gains Quarry
+Titandrake - draws Copper, Copper, Necropolis, Overgrown Estate, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Smugglers
+SM.SM - gains Smugglers
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Smugglers
+Titandrake - gains Smugglers
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Copper, Quarry, Copper, Necropolis
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Quarry
+SM.SM - gains Quarry
+SM.SM - draws Hovel, Copper, Smugglers, Copper, Quarry
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Copper, Copper, Copper, Hovel, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Smugglers
+SM.SM - gains Rebuild
+SM.SM - plays 2 Copper
+SM.SM - plays Quarry
+SM.SM - buys Haggler
+SM.SM - gains Haggler
+SM.SM - draws Necropolis, Copper
+SM.SM - shuffles deck
+SM.SM - draws Haggler, Rebuild, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Estate
+Titandrake - trashes Hovel
+Titandrake - gains Estate
+Titandrake - draws Copper, Smugglers
+Titandrake - shuffles deck
+Titandrake - draws Copper, Overgrown Estate, Estate
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Rebuild
+SM.SM - names Colony
+SM.SM - reveals Overgrown Estate
+SM.SM - trashes Overgrown Estate
+SM.SM - draws Quarry
+SM.SM - gains Estate
+SM.SM - plays Haggler
+SM.SM - plays 2 Copper
+SM.SM - plays Quarry
+SM.SM - buys Rebuild
+SM.SM - gains Smugglers
+SM.SM - gains Rebuild
+SM.SM - draws Quarry, Smugglers, Copper, Copper, Hovel
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Smugglers
+Titandrake - gains Rebuild
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper, Necropolis, Copper, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Smugglers
+SM.SM - gains Rebuild
+SM.SM - plays 2 Copper
+SM.SM - buys Estate
+SM.SM - trashes Hovel
+SM.SM - gains Estate
+SM.SM - draws Copper, Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Smugglers, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Quarry, Rebuild
+Titandrake - shuffles deck
+Titandrake - draws Copper, Overgrown Estate
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays Smugglers
+SM.SM - gains Silver
+SM.SM - plays 3 Copper
+SM.SM - buys Smugglers
+SM.SM - gains Smugglers
+SM.SM - draws Copper, Quarry, Copper, Haggler, Rebuild
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Rebuild
+Titandrake - names Colony
+Titandrake - reveals Copper, Copper, Smugglers, Copper, Necropolis, Rebuild, Copper, Silver, Copper, Estate
+Titandrake - discards: Copper, Copper, Smugglers, Copper, Necropolis, Rebuild, Copper, Silver, Copper
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 2 Copper
+Titandrake - plays Quarry
+Titandrake - buys Rebuild
+Titandrake - gains Rebuild
+Titandrake - draws Estate
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Quarry, Copper, Silver
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Rebuild
+SM.SM - names Duchy
+SM.SM - reveals Smugglers, Quarry, Rebuild, Copper, Copper, Necropolis, Rebuild, Estate
+SM.SM - discards: Smugglers, Quarry, Rebuild, Copper, Copper, Necropolis, Rebuild
+SM.SM - trashes Estate
+SM.SM - gains Duchy
+SM.SM - plays Haggler
+SM.SM - plays 2 Copper
+SM.SM - plays Quarry
+SM.SM - buys Duchy
+SM.SM - gains Rebuild
+SM.SM - gains Duchy
+SM.SM - shuffles deck
+SM.SM - draws Copper, Duchy, Smugglers, Smugglers, Smugglers
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Quarry
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Copper, Copper, Rebuild, Rebuild, Overgrown Estate
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Smugglers
+SM.SM - gains Haggler
+SM.SM - draws Rebuild, Rebuild, Rebuild, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Rebuild
+Titandrake - names Colony
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Copper, Copper, Smugglers, Necropolis, Rebuild, Haggler, Duchy
+Titandrake - discards: Copper, Copper, Copper, Copper, Smugglers, Necropolis, Rebuild, Haggler
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Rebuild
+Titandrake - names Colony
+Titandrake - reveals Quarry, Silver, Estate
+Titandrake - discards: Quarry, Silver
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Rebuild, Duchy, Copper
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Rebuild
+SM.SM - names Province
+SM.SM - reveals Duchy
+SM.SM - trashes Duchy
+SM.SM - gains Province
+SM.SM - plays Rebuild
+SM.SM - names Province
+SM.SM - reveals Necropolis, Estate
+SM.SM - discards Necropolis
+SM.SM - trashes Estate
+SM.SM - gains Duchy
+SM.SM - plays Rebuild
+SM.SM - names Province
+SM.SM - shuffles deck
+SM.SM - reveals Rebuild, Silver, Copper, Copper, Copper, Haggler, Quarry, Quarry, Copper, Duchy
+SM.SM - discards: Rebuild, Silver, Copper, Copper, Copper, Haggler, Quarry, Quarry, Copper
+SM.SM - trashes Duchy
+SM.SM - gains Province
+SM.SM - plays 2 Copper
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Province, Duchy, Smugglers, Smugglers, Haggler
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Rebuild
+Titandrake - names Colony
+Titandrake - reveals Haggler, Silver, Copper, Rebuild, Copper, Necropolis, Quarry, Estate
+Titandrake - discards: Haggler, Silver, Copper, Rebuild, Copper, Necropolis, Quarry
+Titandrake - trashes Estate
+Titandrake - gains Duchy
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Overgrown Estate, Copper, Smugglers, Copper, Rebuild
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Smugglers
+SM.SM - gains Duchy
+SM.SM - draws Necropolis, Copper, Smugglers
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Rebuild
+Titandrake - names Estate
+Titandrake - reveals Province
+Titandrake - trashes Province
+Titandrake - gains Colony
+Titandrake - plays Smugglers
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Duchy, Duchy, Quarry, Rebuild, Copper
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Silver, Haggler, Copper, Duchy, Rebuild
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Rebuild
+Titandrake - names Colony
+Titandrake - reveals Rebuild, Silver, Copper, Smugglers, Copper, Silver, Copper, Necropolis, Colony, Duchy
+Titandrake - discards: Rebuild, Silver, Copper, Smugglers, Copper, Silver, Copper, Necropolis, Colony
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays 1 Copper
+Titandrake - plays Quarry
+Titandrake - buys Smugglers
+Titandrake - gains Smugglers
+Titandrake - draws Copper, Rebuild, Haggler, Overgrown Estate, Copper
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - plays Rebuild
+SM.SM - names Estate
+SM.SM - reveals Duchy
+SM.SM - trashes Duchy
+SM.SM - gains Province
+SM.SM - plays Haggler
+SM.SM - plays 1 Silver, 1 Copper
+SM.SM - buys Rebuild
+SM.SM - gains Silver
+SM.SM - gains Rebuild
+SM.SM - draws Copper, Smugglers, Copper, Estate, Smugglers
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Rebuild
+Titandrake - names Colony
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Silver, Rebuild, Copper, Necropolis, Copper, Duchy
+Titandrake - discards: Copper, Silver, Rebuild, Copper, Necropolis, Copper
+Titandrake - trashes Duchy
+Titandrake - gains Province
+Titandrake - plays Haggler
+Titandrake - buys Estate
+Titandrake - gains Copper
+Titandrake - gains Estate
+Titandrake - draws Copper, Smugglers, Quarry, Silver, Rebuild
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Smugglers
+SM.SM - gains Estate
+SM.SM - draws Copper, Quarry, Rebuild, Haggler, Quarry
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Rebuild
+Titandrake - names Estate
+Titandrake - reveals Copper, Colony
+Titandrake - discards Copper
+Titandrake - trashes Colony
+Titandrake - gains Colony
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - plays Quarry
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - draws Smugglers, Duchy, Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Rebuild
+SM.SM - names Estate
+SM.SM - reveals Province
+SM.SM - trashes Province
+SM.SM - gains Colony
+SM.SM - plays Haggler
+SM.SM - plays 1 Copper
+SM.SM - plays Quarry
+SM.SM - plays Quarry
+SM.SM - buys Ill-Gotten Gains
+SM.SM - gains Festival
+SM.SM - gains Ill-Gotten Gains
+Titandrake - gains Curse
+SM.SM - draws Rebuild, Rebuild, Province
+SM.SM - shuffles deck
+SM.SM - draws Province, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Smugglers
+Titandrake - gains Ill-Gotten Gains
+SM.SM - gains Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Necropolis, Quarry, Copper, Province, Colony
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Rebuild
+SM.SM - names Estate
+SM.SM - reveals Haggler, Duchy
+SM.SM - discards Haggler
+SM.SM - trashes Duchy
+SM.SM - gains Province
+SM.SM - plays Rebuild
+SM.SM - names Colony
+SM.SM - reveals Quarry, Smugglers, Haggler, Silver, Ill-Gotten Gains, Copper, Quarry, Silver, Rebuild, Estate
+SM.SM - discards: Quarry, Smugglers, Haggler, Silver, Ill-Gotten Gains, Copper, Quarry, Silver, Rebuild
+SM.SM - trashes Estate
+SM.SM - draws Rebuild, Copper, Copper, Smugglers, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Copper
+Titandrake - plays Quarry
+Titandrake - draws Copper, Copper, Copper, Copper, Smugglers
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Rebuild
+SM.SM - names Colony
+SM.SM - shuffles deck
+SM.SM - reveals Copper, Smugglers, Colony, Copper, Festival, Rebuild, Silver, Necropolis, Copper, Silver, Estate
+SM.SM - discards: Copper, Smugglers, Colony, Copper, Festival, Rebuild, Silver, Necropolis, Copper, Silver
+SM.SM - trashes Estate
+SM.SM - plays Smugglers
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Province, Quarry, Ill-Gotten Gains, Province, Quarry
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Smugglers
+Titandrake - gains Silver
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Silver, Haggler, Rebuild
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays Quarry
+SM.SM - plays Quarry
+SM.SM - plays Ill-Gotten Gains
+SM.SM - buys Catacombs
+SM.SM - gains Catacombs
+SM.SM - draws Rebuild, Curse, Copper, Haggler, Rebuild
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Rebuild
+Titandrake - names Duchy
+Titandrake - reveals Rebuild, Overgrown Estate
+Titandrake - discards Rebuild
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Haggler
+Titandrake - plays Haggler
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Silver
+Titandrake - gains Ill-Gotten Gains
+SM.SM - gains Curse
+Titandrake - draws Rebuild, Copper
+Titandrake - shuffles deck
+Titandrake - draws Ill-Gotten Gains, Silver, Duchy
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Rebuild
+SM.SM - names Colony
+SM.SM - reveals Haggler, Silver, Province
+SM.SM - discards: Haggler, Silver
+SM.SM - trashes Province
+SM.SM - gains Colony
+SM.SM - plays Rebuild
+SM.SM - names Colony
+SM.SM - shuffles deck
+SM.SM - reveals Smugglers, Rebuild, Colony, Festival, Copper, Copper, Copper, Haggler, Smugglers, Smugglers, Curse, Silver, Silver, Rebuild, Colony, Ill-Gotten Gains, Province
+SM.SM - discards: Smugglers, Rebuild, Colony, Festival, Copper, Copper, Copper, Haggler, Smugglers, Smugglers, Curse, Silver, Silver, Rebuild, Colony, Ill-Gotten Gains
+SM.SM - trashes Province
+SM.SM - gains Province
+SM.SM - draws Copper, Quarry, Necropolis, Catacombs, Province
+ 
+------------ Game Over ------------
+SM.SM - cards: 5 Rebuild, 3 Smugglers, 2 Haggler, 1 Necropolis, 1 Catacombs, 1 Festival, 7 Copper, 4 Silver, 2 Quarry, 1 Ill-Gotten Gains, 2 Province, 2 Colony, 2 Curse
+SM.SM - total victory points: 30
+SM.SM - turns: 19
+ 
+Titandrake - cards: 3 Rebuild, 2 Haggler, 2 Smugglers, 1 Necropolis, 8 Copper, 6 Silver, 2 Ill-Gotten Gains, 1 Quarry, 2 Province, 1 Duchy, 1 Estate, 1 Colony, 1 Curse
+Titandrake - total victory points: 25
+Titandrake - turns: 18
+ 
+1st place: SM.SM
+2nd place: Titandrake
+ 

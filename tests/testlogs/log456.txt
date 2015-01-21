@@ -1,0 +1,281 @@
+------------ Game Setup ------------
+Supply cards: Candlestick Maker, Familiar, Advisor, Caravan, Feodum, Militia, Mining Village, Rats, Ill-Gotten Gains, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+eliegel - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+eliegel - shuffles deck
+Titandrake - shuffles deck
+eliegel - draws Copper, Copper, Estate, Estate, Estate
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- eliegel: turn 1 ----------
+eliegel - plays 2 Copper
+eliegel - buys Candlestick Maker
+eliegel - gains Candlestick Maker
+eliegel - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Silver, Militia, Estate
+ 
+---------- eliegel: turn 2 ----------
+eliegel - plays 5 Copper
+eliegel - buys Ill-Gotten Gains
+eliegel - gains Ill-Gotten Gains
+Titandrake - gains Curse
+eliegel - shuffles deck
+eliegel - draws Copper, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Militia
+eliegel - discards Estate
+eliegel - discards Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+eliegel - gains Curse
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- eliegel: turn 3 ----------
+eliegel - plays 3 Copper
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - draws Copper, Candlestick Maker, Ill-Gotten Gains, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Curse, Copper
+ 
+---------- eliegel: turn 4 ----------
+eliegel - plays Candlestick Maker
+eliegel - receives 1 coin token
+eliegel - plays 3 Copper
+eliegel - plays Ill-Gotten Gains
+eliegel - gains Copper
+eliegel - plays Copper
+eliegel - buys Ill-Gotten Gains
+eliegel - gains Ill-Gotten Gains
+Titandrake - gains Curse
+eliegel - draws Copper, Estate
+eliegel - shuffles deck
+eliegel - draws Copper, Copper, Candlestick Maker
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Militia, Militia, Copper, Estate, Copper
+ 
+---------- eliegel: turn 5 ----------
+eliegel - plays Candlestick Maker
+eliegel - receives 1 coin token
+eliegel - plays 3 Copper
+eliegel - buys Silver
+eliegel - gains Silver
+eliegel - draws Copper, Curse, Copper, Silver, Ill-Gotten Gains
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Militia
+eliegel - discards Curse
+eliegel - discards Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Ill-Gotten Gains, Copper, Estate, Copper, Copper
+ 
+---------- eliegel: turn 6 ----------
+eliegel - plays 1 Copper, 1 Silver
+eliegel - plays Ill-Gotten Gains
+eliegel - gains Copper
+eliegel - plays Copper
+eliegel - buys Ill-Gotten Gains
+eliegel - gains Ill-Gotten Gains
+Titandrake - gains Curse
+eliegel - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+eliegel - gains Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Caravan, Copper, Copper
+ 
+---------- eliegel: turn 7 ----------
+eliegel - plays 3 Copper
+eliegel - uses 2 coin tokens
+eliegel - buys Ill-Gotten Gains
+eliegel - gains Ill-Gotten Gains
+Titandrake - gains Curse
+eliegel - draws Ill-Gotten Gains
+eliegel - shuffles deck
+eliegel - draws Candlestick Maker, Copper, Copper, Curse
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+eliegel - gains Curse
+Titandrake - draws Ill-Gotten Gains, Estate, Ill-Gotten Gains, Curse, Copper
+ 
+---------- eliegel: turn 8 ----------
+eliegel - plays Candlestick Maker
+eliegel - receives 1 coin token
+eliegel - plays 2 Copper
+eliegel - plays Ill-Gotten Gains
+eliegel - gains Copper
+eliegel - plays Copper
+eliegel - uses 1 coin token
+eliegel - buys Ill-Gotten Gains
+eliegel - gains Ill-Gotten Gains
+Titandrake - gains Curse
+eliegel - draws Copper, Estate, Curse, Silver, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - plays Ill-Gotten Gains
+Titandrake - gains Copper
+Titandrake - plays Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+eliegel - gains Curse
+Titandrake - draws Militia, Copper, Copper, Copper, Militia
+ 
+---------- eliegel: turn 9 ----------
+eliegel - plays 2 Copper, 1 Silver
+eliegel - buys Militia
+eliegel - gains Militia
+eliegel - draws Copper, Ill-Gotten Gains, Estate, Copper, Ill-Gotten Gains
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Militia
+eliegel - discards Estate
+eliegel - discards Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Ill-Gotten Gains
+Titandrake - gains Ill-Gotten Gains
+eliegel - gains Curse
+Titandrake - draws Silver, Curse, Estate, Curse
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- eliegel: turn 10 ----------
+eliegel - plays 1 Copper
+eliegel - plays Ill-Gotten Gains
+eliegel - gains Copper
+eliegel - plays Copper
+eliegel - plays Ill-Gotten Gains
+eliegel - gains Copper
+eliegel - plays Copper
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - draws Ill-Gotten Gains, Copper, Copper, Estate, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Copper, Copper, Copper, Ill-Gotten Gains, Ill-Gotten Gains
+ 
+---------- eliegel: turn 11 ----------
+eliegel - plays 2 Copper, 1 Silver
+eliegel - plays Ill-Gotten Gains
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - draws Copper
+eliegel - shuffles deck
+eliegel - draws Ill-Gotten Gains, Candlestick Maker, Silver, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 3 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Militia, Silver, Caravan, Copper, Curse
+ 
+---------- eliegel: turn 12 ----------
+eliegel - plays Candlestick Maker
+eliegel - receives 1 coin token
+eliegel - plays 2 Copper, 1 Silver
+eliegel - plays Ill-Gotten Gains
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - draws Silver, Curse, Curse, Copper, Militia
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Caravan
+Titandrake - draws Ill-Gotten Gains
+Titandrake - plays Militia
+eliegel - discards Curse
+eliegel - discards Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Militia, Copper, Ill-Gotten Gains, Estate, Estate
+ 
+---------- eliegel: turn 13 ----------
+eliegel - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Estate
+eliegel - plays 1 Silver, 1 Copper
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - draws Estate, Curse, Ill-Gotten Gains, Ill-Gotten Gains, Curse
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Militia
+eliegel - discards Curse
+eliegel - discards Curse
+Titandrake - plays 2 Copper
+Titandrake - plays Ill-Gotten Gains
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper, Copper, Curse, Ill-Gotten Gains, Curse
+ 
+---------- eliegel: turn 14 ----------
+eliegel - plays Ill-Gotten Gains
+eliegel - gains Copper
+eliegel - plays Ill-Gotten Gains
+eliegel - gains Copper
+eliegel - plays 2 Copper
+eliegel - uses 1 coin token
+eliegel - buys Duchy
+eliegel - gains Duchy
+eliegel - draws Duchy, Ill-Gotten Gains, Curse, Copper, Copper
+ 
+------------ Game Over ------------
+eliegel - cards: 14 Copper, 1 Candlestick Maker, 1 Militia, 5 Ill-Gotten Gains, 2 Silver, 5 Duchy, 3 Estate, 5 Curse
+eliegel - total victory points: 13
+eliegel - turns: 14
+ 
+Titandrake - cards: 2 Militia, 1 Caravan, 9 Copper, 5 Ill-Gotten Gains, 2 Silver, 4 Estate, 3 Duchy, 5 Curse
+Titandrake - total victory points: 8
+Titandrake - turns: 14
+ 
+1st place: eliegel
+2nd place: Titandrake
+ 

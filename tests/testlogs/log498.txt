@@ -1,0 +1,500 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Watchtower, Philosopher's Stone, Militia, Bandit Camp, Royal Seal, Wharf, Farmland, Hunting Grounds, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+elemenop - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+elemenop - shuffles deck
+Titandrake - shuffles deck
+elemenop - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Militia
+Titandrake - gains Militia
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- elemenop: turn 1 ----------
+elemenop - plays 3 Copper
+elemenop - buys Silver
+elemenop - gains Silver
+elemenop - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Militia, Copper, Copper, Copper, Copper
+ 
+---------- elemenop: turn 2 ----------
+elemenop - plays 4 Copper
+elemenop - buys Militia
+elemenop - gains Militia
+elemenop - shuffles deck
+elemenop - draws Silver, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Militia
+elemenop - discards Copper
+elemenop - discards Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Estate, Silver, Estate, Copper
+ 
+---------- elemenop: turn 3 ----------
+elemenop - plays 2 Copper, 1 Silver
+elemenop - buys Silver
+elemenop - gains Silver
+elemenop - draws Militia, Estate, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Wharf
+ 
+---------- elemenop: turn 4 ----------
+elemenop - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+elemenop - plays 1 Copper
+elemenop - buys Silver
+elemenop - gains Silver
+elemenop - draws Copper, Copper
+elemenop - shuffles deck
+elemenop - draws Copper, Silver, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Estate, Militia, Copper
+ 
+---------- elemenop: turn 5 ----------
+elemenop - plays 3 Copper, 1 Silver
+elemenop - buys Wharf
+elemenop - gains Wharf
+elemenop - draws Copper, Militia, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays Militia
+elemenop - discards Estate
+elemenop - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - shuffles deck
+Titandrake - draws Estate, Wharf, Silver, Copper, Estate
+ 
+---------- elemenop: turn 6 ----------
+elemenop - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Estate
+elemenop - plays 2 Copper
+elemenop - buys Silver
+elemenop - gains Silver
+elemenop - draws Silver, Estate, Silver, Copper
+elemenop - shuffles deck
+elemenop - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Embargo, Copper, Silver, Silver, Wharf
+ 
+---------- elemenop: turn 7 ----------
+elemenop - plays 2 Silver, 2 Copper
+elemenop - buys Nobles
+elemenop - gains Nobles
+elemenop - draws Wharf, Estate, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays Wharf
+Titandrake - draws Copper, Militia
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Embargo, Copper, Copper, Militia
+ 
+---------- elemenop: turn 8 ----------
+elemenop - plays Wharf
+elemenop - draws Copper, Estate
+elemenop - plays 3 Copper, 1 Silver
+elemenop - buys Bandit Camp
+elemenop - gains Bandit Camp
+elemenop - draws Silver, Copper, Militia, Copper
+elemenop - shuffles deck
+elemenop - draws Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Wharf
+Titandrake - draws Estate, Silver
+Titandrake - plays Militia
+elemenop - discards Estate
+elemenop - discards Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Copper, Estate, Copper, Nobles
+ 
+---------- elemenop: turn 9 ----------
+elemenop - duration Wharf
+elemenop - draws Silver, Silver
+elemenop - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+elemenop - plays 3 Silver, 1 Copper
+elemenop - buys Nobles
+elemenop - gains Nobles
+elemenop - buys Silver
+elemenop - gains Silver
+elemenop - draws Estate, Copper, Bandit Camp, Estate, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Nobles
+Titandrake - draws Bandit Camp, Wharf, Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp, Silver
+ 
+---------- elemenop: turn 10 ----------
+elemenop - plays Bandit Camp
+elemenop - draws Nobles
+elemenop - gains Spoils
+elemenop - plays Nobles
+elemenop - draws Copper, Copper, Silver
+elemenop - plays 4 Copper, 1 Silver
+elemenop - buys Nobles
+elemenop - gains Nobles
+elemenop - draws Copper
+elemenop - shuffles deck
+elemenop - draws Bandit Camp, Nobles, Nobles, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Wharf, Silver, Copper, Copper
+ 
+---------- elemenop: turn 11 ----------
+elemenop - plays Bandit Camp
+elemenop - draws Estate
+elemenop - gains Spoils
+elemenop - plays Nobles
+elemenop - draws Silver, Silver, Militia
+elemenop - plays Militia
+Titandrake - discards Copper
+Titandrake - discards Copper
+elemenop - plays 2 Copper, 2 Silver
+elemenop - buys Nobles
+elemenop - gains Nobles
+elemenop - draws Silver, Nobles, Estate, Silver, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Wharf, Nobles, Copper, Embargo
+ 
+---------- elemenop: turn 12 ----------
+elemenop - plays Nobles
+elemenop - draws Spoils, Copper, Copper
+elemenop - plays 3 Copper, 2 Silver
+elemenop - buys Nobles
+elemenop - gains Nobles
+elemenop - draws Copper, Estate, Copper, Silver, Wharf
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Estate
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Militia
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Copper, Silver, Copper, Silver, Bandit Camp
+ 
+---------- elemenop: turn 13 ----------
+elemenop - plays Wharf
+elemenop - shuffles deck
+elemenop - draws Nobles, Copper
+elemenop - plays 3 Copper, 1 Silver
+elemenop - buys Wharf
+elemenop - gains Wharf
+elemenop - draws Copper, Estate, Silver, Copper, Nobles
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Spoils
+Titandrake - duration Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays 4 Copper, 3 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Estate, Nobles
+Titandrake - shuffles deck
+Titandrake - draws Wharf, Spoils, Silver
+ 
+---------- elemenop: turn 14 ----------
+elemenop - duration Wharf
+elemenop - draws Spoils, Spoils
+elemenop - plays Nobles
+elemenop - draws Copper, Nobles, Estate
+elemenop - plays 3 Copper, 1 Silver
+elemenop - plays Spoils
+elemenop - plays Spoils
+elemenop - buys Nobles
+elemenop - gains Nobles
+elemenop - buys Wharf
+elemenop - gains Wharf
+elemenop - draws Nobles, Copper, Silver, Nobles, Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Copper, Bandit Camp
+Titandrake - plays Bandit Camp
+Titandrake - draws Wharf
+Titandrake - gains Spoils
+Titandrake - plays Wharf
+Titandrake - draws Copper, Wharf
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - plays Spoils
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Province, Silver, Militia, Wharf, Bandit Camp
+ 
+---------- elemenop: turn 15 ----------
+elemenop - plays Nobles
+elemenop - takes 2 actions
+elemenop - plays Nobles
+elemenop - draws Bandit Camp, Militia, Silver
+elemenop - plays Bandit Camp
+elemenop - shuffles deck
+elemenop - draws Nobles
+elemenop - gains Spoils
+elemenop - plays Nobles
+elemenop - draws Wharf, Wharf, Silver
+elemenop - plays Wharf
+elemenop - draws Copper, Silver
+elemenop - plays 5 Silver, 2 Copper
+elemenop - buys Province
+elemenop - gains Province
+elemenop - buys Militia
+elemenop - gains Militia
+elemenop - draws Nobles, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Copper
+Titandrake - duration Wharf
+Titandrake - draws Copper, Estate
+Titandrake - duration Wharf
+Titandrake - draws Embargo, Copper
+Titandrake - plays Bandit Camp
+Titandrake - draws Nobles
+Titandrake - gains Spoils
+Titandrake - plays Wharf
+Titandrake - draws Estate, Silver
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Militia
+elemenop - discards Estate
+elemenop - discards Copper
+Titandrake - plays Embargo
+Titandrake - embargoes Hunting Grounds
+Titandrake - trashes Embargo
+Titandrake - plays 3 Silver, 3 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper, Nobles, Silver, Copper
+ 
+---------- elemenop: turn 16 ----------
+elemenop - duration Wharf
+elemenop - draws Copper, Nobles
+elemenop - plays Nobles
+elemenop - takes 2 actions
+elemenop - plays Nobles
+elemenop - draws Wharf, Estate, Nobles
+elemenop - plays Nobles
+elemenop - takes 2 actions
+elemenop - plays Wharf
+elemenop - draws Estate, Copper
+elemenop - plays 4 Copper
+elemenop - buys Watchtower
+elemenop - gains Watchtower
+elemenop - shuffles deck
+elemenop - draws Copper, Province, Nobles, Copper, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Wharf
+Titandrake - draws Wharf, Wharf
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays Wharf
+Titandrake - draws Copper, Nobles
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Silver, Copper, Silver, Wharf
+ 
+---------- elemenop: turn 17 ----------
+elemenop - duration Wharf
+elemenop - draws Silver, Wharf
+elemenop - plays Nobles
+elemenop - takes 2 actions
+elemenop - plays Wharf
+elemenop - draws Estate, Nobles
+elemenop - plays Nobles
+elemenop - draws Wharf, Bandit Camp, Estate
+elemenop - plays 3 Copper, 1 Silver
+elemenop - buys Bandit Camp
+elemenop - gains Bandit Camp
+elemenop - draws Copper, Copper, Militia, Nobles, Nobles
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Wharf
+Titandrake - draws Militia, Gold
+Titandrake - duration Wharf
+Titandrake - draws Bandit Camp, Wharf
+Titandrake - plays Bandit Camp
+Titandrake - draws Estate
+Titandrake - gains Spoils
+Titandrake - plays Wharf
+Titandrake - draws Wharf, Province
+Titandrake - plays Wharf
+Titandrake - draws Estate, Bandit Camp
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper, Silver, Spoils, Spoils
+ 
+---------- elemenop: turn 18 ----------
+elemenop - duration Wharf
+elemenop - draws Silver, Copper
+elemenop - plays Nobles
+elemenop - takes 2 actions
+elemenop - plays Nobles
+elemenop - draws Nobles, Silver, Nobles
+elemenop - plays Nobles
+elemenop - takes 2 actions
+elemenop - plays Nobles
+elemenop - draws Estate, Militia, Silver
+elemenop - plays Militia
+Titandrake - discards Estate
+Titandrake - discards Copper
+elemenop - plays 3 Copper, 3 Silver
+elemenop - buys Province
+elemenop - gains Province
+elemenop - buys Estate
+elemenop - gains Estate
+elemenop - draws Spoils, Copper, Watchtower, Silver
+elemenop - shuffles deck
+elemenop - draws Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver
+Titandrake - shuffles deck
+Titandrake - draws Wharf
+Titandrake - duration Wharf
+Titandrake - draws Bandit Camp, Wharf
+Titandrake - plays Bandit Camp
+Titandrake - draws Copper
+Titandrake - gains Spoils
+Titandrake - plays Wharf
+Titandrake - draws Militia, Copper
+Titandrake - plays Wharf
+Titandrake - draws Spoils, Copper
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Wharf, Nobles, Gold, Silver, Province
+ 
+---------- elemenop: turn 19 ----------
+elemenop - plays Watchtower
+elemenop - draws Estate, Nobles
+elemenop - plays 1 Copper, 1 Silver
+elemenop - plays Spoils
+elemenop - buys Duchy
+elemenop - gains Duchy
+elemenop - draws Bandit Camp, Copper, Wharf, Nobles, Silver
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - duration Wharf
+Titandrake - draws Silver, Wharf
+Titandrake - duration Wharf
+Titandrake - draws Silver, Copper
+Titandrake - plays Nobles
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Estate, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Wharf, 2 Bandit Camp, 1 Nobles, 1 Militia, 7 Copper, 6 Silver, 1 Gold, 1 Spoils, 5 Province, 3 Estate
+Titandrake - total victory points: 35
+Titandrake - turns: 19
+ 
+elemenop - resigned
+elemenop - cards: 6 Nobles, 3 Wharf, 2 Bandit Camp, 2 Militia, 1 Watchtower, 7 Copper, 5 Silver, 4 Estate, 2 Province, 1 Duchy
+elemenop - total victory points: 31
+elemenop - turns: 19
+ 
+1st place: Titandrake
+2nd place: elemenop
+ 

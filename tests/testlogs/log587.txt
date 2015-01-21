@@ -1,0 +1,235 @@
+------------ Game Setup ------------
+Supply cards: Vineyard, Hermit, Tunnel, JackOfAllTrades, Pirate Ship, Haggler, Market, Rogue, Torturer, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+CopperCopper - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+CopperCopper - shuffles deck
+Titandrake - shuffles deck
+CopperCopper - draws Estate, Copper, Copper, Estate, Estate
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- CopperCopper: turn 1 ----------
+CopperCopper - plays 2 Copper
+CopperCopper - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys JackOfAllTrades
+Titandrake - gains JackOfAllTrades
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, JackOfAllTrades, Estate, Copper
+ 
+---------- CopperCopper: turn 2 ----------
+CopperCopper - plays 5 Copper
+CopperCopper - buys Haggler
+CopperCopper - gains Haggler
+CopperCopper - shuffles deck
+CopperCopper - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Silver, Copper
+ 
+---------- CopperCopper: turn 3 ----------
+CopperCopper - plays 4 Copper
+CopperCopper - buys JackOfAllTrades
+CopperCopper - gains JackOfAllTrades
+CopperCopper - draws Estate, Estate, Copper, Haggler, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate, Copper, Copper, Haggler
+ 
+---------- CopperCopper: turn 4 ----------
+CopperCopper - plays Haggler
+CopperCopper - plays 2 Copper
+CopperCopper - buys JackOfAllTrades
+CopperCopper - gains Hermit
+CopperCopper - gains JackOfAllTrades
+CopperCopper - draws Copper
+CopperCopper - shuffles deck
+CopperCopper - draws Copper, Haggler, Estate, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Silver
+Titandrake - gains Gold
+Titandrake - draws Copper, JackOfAllTrades, Copper, Silver, Estate
+ 
+---------- CopperCopper: turn 5 ----------
+CopperCopper - plays Haggler
+CopperCopper - plays 2 Copper
+CopperCopper - buys JackOfAllTrades
+CopperCopper - gains Silver
+CopperCopper - gains JackOfAllTrades
+CopperCopper - draws Copper, JackOfAllTrades, Copper, Copper, JackOfAllTrades
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - discards Copper
+Titandrake - trashes Estate
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Copper
+ 
+---------- CopperCopper: turn 6 ----------
+CopperCopper - plays JackOfAllTrades
+CopperCopper - gains Silver
+CopperCopper - places Estate on top of deck
+CopperCopper - trashes Estate
+CopperCopper - plays 3 Copper
+CopperCopper - buys Silver
+CopperCopper - gains Silver
+CopperCopper - draws Hermit, Copper, Copper
+CopperCopper - shuffles deck
+CopperCopper - draws Copper, JackOfAllTrades
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Copper, Silver, Estate, Haggler
+ 
+---------- CopperCopper: turn 7 ----------
+CopperCopper - plays JackOfAllTrades
+CopperCopper - gains Silver
+CopperCopper - discards Copper
+CopperCopper - trashes Estate
+CopperCopper - plays 3 Copper
+CopperCopper - buys Silver
+CopperCopper - gains Silver
+CopperCopper - draws Silver, Silver, Copper, Estate, JackOfAllTrades
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Haggler
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Market
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Silver, JackOfAllTrades, Gold
+ 
+---------- CopperCopper: turn 8 ----------
+CopperCopper - plays JackOfAllTrades
+CopperCopper - gains Silver
+CopperCopper - places Copper on top of deck
+CopperCopper - trashes Estate
+CopperCopper - plays 2 Silver, 2 Copper
+CopperCopper - buys Gold
+CopperCopper - gains Gold
+CopperCopper - draws Copper, JackOfAllTrades, Silver, Haggler
+CopperCopper - shuffles deck
+CopperCopper - draws Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Gold on top of deck
+Titandrake - plays 2 Copper, 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Market, Copper, Gold
+ 
+---------- CopperCopper: turn 9 ----------
+CopperCopper - plays Haggler
+CopperCopper - plays 2 Copper, 1 Silver
+CopperCopper - buys Haggler
+CopperCopper - gains Potion
+CopperCopper - gains Haggler
+CopperCopper - draws Silver, Copper, Gold, Silver, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Market
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Silver, Silver, Gold
+ 
+---------- CopperCopper: turn 10 ----------
+CopperCopper - plays 3 Silver, 1 Copper, 1 Gold
+CopperCopper - buys Province
+CopperCopper - gains Province
+CopperCopper - draws Copper, Copper, Copper, JackOfAllTrades, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays 3 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, JackOfAllTrades, Copper, Silver, Province
+ 
+---------- CopperCopper: turn 11 ----------
+CopperCopper - plays JackOfAllTrades
+CopperCopper - gains Silver
+CopperCopper - places Silver on top of deck
+CopperCopper - plays 3 Copper, 2 Silver
+CopperCopper - buys Duchy
+CopperCopper - gains Duchy
+CopperCopper - draws JackOfAllTrades, Copper, Hermit
+CopperCopper - shuffles deck
+CopperCopper - draws Potion, Haggler
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays JackOfAllTrades
+Titandrake - gains Silver
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Estate, Gold, Haggler, Gold, Copper
+ 
+---------- CopperCopper: turn 12 ----------
+CopperCopper - plays JackOfAllTrades
+CopperCopper - gains Silver
+CopperCopper - places Province on top of deck
+CopperCopper - plays 1 Copper, 1 Potion
+CopperCopper - buys Vineyard
+CopperCopper - gains Vineyard
+CopperCopper - draws Haggler, JackOfAllTrades, Silver, JackOfAllTrades, Gold
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Haggler
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Gold
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Copper, Gold, Copper, Silver, Gold
+ 
+---------- CopperCopper: turn 13 ----------
+ 
+------------ Game Over ------------
+Titandrake - cards: 1 Haggler, 1 JackOfAllTrades, 1 Market, 7 Copper, 7 Silver, 6 Gold, 4 Province, 1 Estate
+Titandrake - total victory points: 25
+Titandrake - turns: 13
+ 
+CopperCopper - resigned
+CopperCopper - cards: 3 JackOfAllTrades, 2 Haggler, 1 Hermit, 8 Silver, 7 Copper, 1 Gold, 1 Potion, 1 Vineyard, 1 Province, 1 Duchy
+CopperCopper - total victory points: 11
+CopperCopper - turns: 12
+ 
+1st place: Titandrake
+2nd place: CopperCopper
+ 

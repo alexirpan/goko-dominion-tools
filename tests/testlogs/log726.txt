@@ -1,0 +1,417 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Secret Chamber, Watchtower, Navigator, Remodel, Ghost Ship, Knights, Mandarin, Rabble, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Estate, Copper, Estate, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Watchtower
+Titandrake - gains Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Estate, Copper, Estate
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Remodel
+SM.SM - gains Remodel
+SM.SM - shuffles deck
+SM.SM - draws Silver, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Remodel
+Titandrake - gains Remodel
+Titandrake - draws Copper, Copper, Watchtower, Copper, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 3 Copper, 1 Silver
+SM.SM - buys Wharf
+SM.SM - gains Wharf
+SM.SM - draws Copper, Estate, Remodel, Estate, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Estate, Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - shuffles deck
+Titandrake - draws Silver, Remodel, Estate, Watchtower, Copper
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays Remodel
+SM.SM - trashes Estate
+SM.SM - gains Silver
+SM.SM - plays 2 Copper
+SM.SM - buys Lighthouse
+SM.SM - gains Lighthouse
+SM.SM - draws Copper, Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Remodel
+Titandrake - trashes Estate
+Titandrake - gains Lighthouse
+Titandrake - applied Watchtower to place Lighthouse on top of the deck
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - applied Watchtower to place Silver on top of the deck
+Titandrake - draws Silver, Lighthouse, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Remodel, Lighthouse, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Ghost Ship
+Titandrake - gains Ghost Ship
+Titandrake - draws Wharf, Copper, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Lighthouse
+SM.SM - plays Remodel
+SM.SM - trashes Estate
+SM.SM - gains Silver
+SM.SM - plays Copper
+SM.SM - buys Lighthouse
+SM.SM - gains Lighthouse
+SM.SM - draws Wharf, Silver, Silver, Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Wharf
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Watchtower, Estate, Ghost Ship, Silver, Remodel
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - duration Lighthouse
+SM.SM - plays Wharf
+SM.SM - draws Copper, Copper
+SM.SM - plays 4 Copper, 2 Silver
+SM.SM - buys Wharf
+SM.SM - gains Wharf
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Copper, Silver, Copper, Lighthouse, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays Ghost Ship
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+SM.SM - places Silver on top of deck
+SM.SM - places Copper on top of deck
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - applied Watchtower to place Lighthouse on top of the deck
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - applied Watchtower to place Wharf on top of the deck
+Titandrake - draws Wharf, Lighthouse, Copper, Copper, Lighthouse
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - duration Wharf
+SM.SM - draws Copper, Silver
+SM.SM - plays Lighthouse
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Wharf
+SM.SM - gains Wharf
+SM.SM - draws Copper, Silver, Remodel
+SM.SM - shuffles deck
+SM.SM - draws Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Wharf
+Titandrake - draws Copper, Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Copper, Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Ghost Ship, Copper
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - duration Lighthouse
+SM.SM - plays Remodel
+SM.SM - trashes Copper
+SM.SM - gains Lighthouse
+SM.SM - plays 2 Copper, 1 Silver
+SM.SM - buys Wharf
+SM.SM - gains Wharf
+SM.SM - draws Wharf, Silver, Wharf, Silver, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - duration Wharf
+Titandrake - draws Copper, Silver
+Titandrake - plays Ghost Ship
+Titandrake - draws Estate, Copper
+SM.SM - places Silver on top of deck
+SM.SM - places Estate on top of deck
+Titandrake - plays 4 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Silver, Watchtower, Copper, Copper
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Wharf
+SM.SM - draws Estate, Silver
+SM.SM - plays 2 Silver
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Silver, Lighthouse, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Watchtower
+Titandrake - draws Remodel, Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Wharf, Lighthouse
+Titandrake - shuffles deck
+Titandrake - draws Remodel, Copper, Copper
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - duration Wharf
+SM.SM - draws Copper, Wharf
+SM.SM - plays Lighthouse
+SM.SM - plays Wharf
+SM.SM - draws Copper
+SM.SM - shuffles deck
+SM.SM - draws Copper
+SM.SM - plays 5 Copper, 2 Silver
+SM.SM - buys Wharf
+SM.SM - gains Wharf
+SM.SM - buys Wharf
+SM.SM - gains Wharf
+SM.SM - draws Copper, Lighthouse, Wharf, Lighthouse, Silver
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Wharf
+Titandrake - draws Lighthouse, Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Copper, Silver, Province, Silver, Copper
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - duration Lighthouse
+SM.SM - duration Wharf
+SM.SM - draws Wharf, Silver
+SM.SM - plays Lighthouse
+SM.SM - plays Lighthouse
+SM.SM - plays Wharf
+SM.SM - draws Estate, Silver
+SM.SM - plays 3 Silver, 1 Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - buys Silver
+SM.SM - gains Silver
+SM.SM - draws Remodel, Silver
+SM.SM - shuffles deck
+SM.SM - draws Silver, Silver, Wharf
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Wharf
+Titandrake - draws Estate, Copper
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Wharf, Copper, Estate, Silver, Silver
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - duration Lighthouse
+SM.SM - duration Lighthouse
+SM.SM - duration Wharf
+SM.SM - draws Copper, Copper
+SM.SM - plays Wharf
+SM.SM - draws Silver, Copper
+SM.SM - plays 4 Silver, 3 Copper
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Estate, Silver, Copper, Gold, Silver
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Wharf
+Titandrake - draws Copper, Gold
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Lighthouse, Ghost Ship, Watchtower
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - duration Wharf
+SM.SM - draws Wharf, Wharf
+SM.SM - plays Wharf
+SM.SM - draws Wharf, Copper
+SM.SM - plays 2 Silver, 2 Copper, 1 Gold
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Silver, Lighthouse, Wharf, Copper
+SM.SM - shuffles deck
+SM.SM - draws Silver
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Wharf
+Titandrake - draws Lighthouse, Silver
+Titandrake - plays Lighthouse
+Titandrake - plays Lighthouse
+Titandrake - plays Ghost Ship
+Titandrake - draws Silver, Province
+SM.SM - places Copper on top of deck
+SM.SM - places Silver on top of deck
+Titandrake - plays 3 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Wharf, Copper, Remodel, Estate, Gold
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - duration Wharf
+SM.SM - draws Silver, Copper
+SM.SM - plays Lighthouse
+SM.SM - plays Wharf
+SM.SM - draws Copper, Copper
+SM.SM - plays 3 Copper, 2 Silver
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Wharf, Estate, Wharf, Silver, Wharf
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Lighthouse
+Titandrake - plays Remodel
+Titandrake - trashes Gold
+Titandrake - gains Province
+Titandrake - plays 1 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Copper, Silver, Province, Estate
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - duration Lighthouse
+SM.SM - duration Wharf
+SM.SM - draws Silver, Copper
+SM.SM - plays Wharf
+SM.SM - draws Lighthouse, Silver
+SM.SM - plays 3 Silver, 1 Copper
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Lighthouse, Silver, Remodel, Copper, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Lighthouse, Copper, Wharf, Copper, Province
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - duration Wharf
+SM.SM - draws Silver, Province
+SM.SM - plays Lighthouse
+SM.SM - plays Remodel
+SM.SM - trashes Silver
+SM.SM - gains Duchy
+SM.SM - plays 1 Copper, 1 Silver
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - buys Estate
+SM.SM - gains Estate
+SM.SM - draws Gold, Copper, Wharf, Duchy
+SM.SM - shuffles deck
+SM.SM - draws Duchy
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Copper, Province, Silver, Estate, Ghost Ship
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - duration Lighthouse
+SM.SM - plays Wharf
+SM.SM - draws Estate, Copper
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Wharf, Lighthouse, Copper, Wharf, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Lighthouse
+Titandrake - duration Wharf
+Titandrake - draws Remodel, Estate
+Titandrake - plays Remodel
+Titandrake - trashes Province
+Titandrake - gains Province
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Silver, Copper, Province, Silver, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Lighthouse, 3 Wharf, 1 Remodel, 1 Ghost Ship, 1 Watchtower, 7 Copper, 5 Silver, 5 Province, 5 Estate, 2 Duchy
+Titandrake - total victory points: 41
+Titandrake - turns: 19
+ 
+SM.SM - cards: 6 Wharf, 3 Lighthouse, 1 Remodel, 6 Copper, 6 Silver, 1 Gold, 5 Duchy, 5 Estate, 2 Province
+SM.SM - total victory points: 32
+SM.SM - turns: 18
+ 
+1st place: Titandrake
+2nd place: SM.SM
+ 

@@ -1,0 +1,500 @@
+------------ Game Setup ------------
+Supply cards: Haven, Scrying Pool, Fortune Teller, Trade Route, Nomad Camp, Jester, Merchant Ship, Treasury, Upgrade, Harem, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+incandenza - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+incandenza - shuffles deck
+Titandrake - shuffles deck
+incandenza - draws Estate, Copper, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- incandenza: turn 1 ----------
+incandenza - plays 4 Copper
+incandenza - buys Potion
+incandenza - gains Potion
+incandenza - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- incandenza: turn 2 ----------
+incandenza - plays 3 Copper
+incandenza - buys Silver
+incandenza - gains Silver
+incandenza - shuffles deck
+incandenza - draws Copper, Copper, Estate, Copper, Silver
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Trade Route
+Titandrake - gains Trade Route
+Titandrake - draws Copper, Silver, Silver, Copper, Copper
+ 
+---------- incandenza: turn 3 ----------
+incandenza - plays 3 Copper, 1 Silver
+incandenza - buys Upgrade
+incandenza - gains Upgrade
+incandenza - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 2 Silver
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Copper, Estate
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Copper
+ 
+---------- incandenza: turn 4 ----------
+incandenza - plays 3 Copper
+incandenza - buys Silver
+incandenza - gains Silver
+incandenza - draws Potion, Copper
+incandenza - shuffles deck
+incandenza - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Copper, Trade Route, Silver
+ 
+---------- incandenza: turn 5 ----------
+incandenza - plays 4 Copper, 1 Potion
+incandenza - buys Scrying Pool
+incandenza - gains Scrying Pool
+incandenza - draws Copper, Copper, Estate, Estate, Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Jester
+Titandrake - gains Jester
+Titandrake - draws Upgrade, Copper, Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- incandenza: turn 6 ----------
+incandenza - plays 2 Copper, 1 Silver
+incandenza - buys Haven
+incandenza - gains Haven
+incandenza - draws Copper, Estate, Silver, Upgrade
+incandenza - shuffles deck
+incandenza - draws Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Silver, Silver, Copper, Jester
+ 
+---------- incandenza: turn 7 ----------
+incandenza - plays Upgrade
+incandenza - draws Potion
+incandenza - trashes Estate
+incandenza - gains Silver
+incandenza - plays 2 Copper, 1 Silver, 1 Potion
+incandenza - buys Scrying Pool
+incandenza - gains Scrying Pool
+incandenza - draws Copper, Estate, Silver, Copper, Haven
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Jester
+incandenza - reveals Scrying Pool
+incandenza - discards Scrying Pool
+Titandrake - gains Scrying Pool
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Trade Route, Copper, Estate
+ 
+---------- incandenza: turn 8 ----------
+incandenza - plays Haven
+incandenza - draws Copper
+incandenza - sets aside Estate
+incandenza - plays 3 Copper, 1 Silver
+incandenza - buys Upgrade
+incandenza - gains Upgrade
+incandenza - draws Estate, Copper, Copper
+incandenza - shuffles deck
+incandenza - draws Copper, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - shuffles deck
+Titandrake - draws Copper, Scrying Pool, Copper, Estate, Silver
+ 
+---------- incandenza: turn 9 ----------
+incandenza - duration Haven
+incandenza - places set aside Estate in hand
+incandenza - plays 3 Copper, 1 Silver
+incandenza - buys Treasury
+incandenza - gains Treasury
+incandenza - draws Silver, Copper, Upgrade, Upgrade, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+incandenza - discards Potion
+Titandrake - reveals Silver
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Haven, Copper, Copper, Silver, Silver
+ 
+---------- incandenza: turn 10 ----------
+incandenza - plays Upgrade
+incandenza - draws Silver
+incandenza - trashes Copper
+incandenza - plays Upgrade
+incandenza - draws Scrying Pool
+incandenza - trashes Copper
+incandenza - plays Scrying Pool
+incandenza - places Scrying Pool on top of deck
+Titandrake - discards Jester
+incandenza - reveals Scrying Pool, Copper
+incandenza - plays Scrying Pool
+incandenza - discards Copper
+Titandrake - places Copper on top of deck
+incandenza - shuffles deck
+incandenza - reveals Potion
+incandenza - plays 2 Silver, 1 Copper, 1 Potion
+incandenza - buys Scrying Pool
+incandenza - gains Scrying Pool
+incandenza - draws Haven, Estate, Estate, Copper, Treasury
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Haven
+Titandrake - draws Copper
+Titandrake - sets aside Copper
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Haven, Upgrade, Copper, Province, Trade Route
+ 
+---------- incandenza: turn 11 ----------
+incandenza - plays Treasury
+incandenza - draws Silver
+incandenza - plays Haven
+incandenza - draws Copper
+incandenza - sets aside Silver
+incandenza - plays 2 Copper
+incandenza - buys Haven
+incandenza - gains Haven
+incandenza - places Treasury on top of deck
+incandenza - draws Treasury, Copper, Copper
+incandenza - shuffles deck
+incandenza - draws Copper, Scrying Pool
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Copper
+Titandrake - plays Haven
+Titandrake - shuffles deck
+Titandrake - draws Harem
+Titandrake - sets aside Province
+Titandrake - plays Trade Route
+Titandrake - trashes Copper
+Titandrake - plays 1 Harem, 1 Silver
+Titandrake - buys Harem
+Titandrake - gains Harem
+Titandrake - draws Scrying Pool, Estate, Jester, Copper, Copper
+ 
+---------- incandenza: turn 12 ----------
+incandenza - duration Haven
+incandenza - places set aside Silver in hand
+incandenza - plays Treasury
+incandenza - draws Upgrade
+incandenza - plays Upgrade
+incandenza - draws Estate
+incandenza - trashes Estate
+incandenza - gains Silver
+incandenza - plays Scrying Pool
+incandenza - places Scrying Pool on top of deck
+Titandrake - discards Silver
+incandenza - reveals Scrying Pool, Scrying Pool, Copper
+incandenza - plays Scrying Pool
+incandenza - discards Copper
+Titandrake - discards Gold
+incandenza - reveals Upgrade, Estate
+incandenza - plays Scrying Pool
+incandenza - discards Silver
+Titandrake - places Copper on top of deck
+incandenza - reveals Potion
+incandenza - plays Upgrade
+incandenza - draws Silver
+incandenza - trashes Estate
+incandenza - gains Silver
+incandenza - plays 4 Copper, 2 Silver, 1 Potion
+incandenza - buys Jester
+incandenza - gains Jester
+incandenza - places Treasury on top of deck
+incandenza - draws Treasury, Haven
+incandenza - shuffles deck
+incandenza - draws Silver, Silver, Silver
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Province in hand
+Titandrake - plays Scrying Pool
+Titandrake - discards Copper
+incandenza - discards Potion
+Titandrake - reveals Silver
+Titandrake - plays Jester
+incandenza - reveals Silver
+incandenza - discards Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Silver, Silver
+Titandrake - shuffles deck
+Titandrake - draws Gold
+ 
+---------- incandenza: turn 13 ----------
+incandenza - plays Treasury
+incandenza - draws Jester
+incandenza - plays Haven
+incandenza - draws Upgrade
+incandenza - sets aside Upgrade
+incandenza - plays Jester
+Titandrake - reveals Haven
+Titandrake - discards Haven
+incandenza - gains Haven
+incandenza - plays 3 Silver
+incandenza - buys Province
+incandenza - gains Province
+incandenza - draws Silver, Upgrade, Scrying Pool, Copper, Scrying Pool
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays 2 Copper, 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Silver, Gold, Copper, Silver
+ 
+---------- incandenza: turn 14 ----------
+incandenza - duration Haven
+incandenza - places set aside Upgrade in hand
+incandenza - plays Upgrade
+incandenza - draws Haven
+incandenza - trashes Copper
+incandenza - plays Upgrade
+incandenza - draws Copper
+incandenza - trashes Copper
+incandenza - plays Scrying Pool
+incandenza - discards Copper
+Titandrake - discards Trade Route
+incandenza - reveals Copper
+incandenza - plays Scrying Pool
+incandenza - places Scrying Pool on top of deck
+Titandrake - discards Copper
+incandenza - reveals Scrying Pool, Copper
+incandenza - plays Scrying Pool
+incandenza - shuffles deck
+incandenza - discards Province
+Titandrake - discards Haven
+incandenza - reveals Potion
+incandenza - plays Haven
+incandenza - draws Copper
+incandenza - sets aside Silver
+incandenza - plays 3 Copper, 1 Potion
+incandenza - buys Scrying Pool
+incandenza - gains Scrying Pool
+incandenza - draws Treasury, Silver, Silver, Jester, Haven
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays 2 Silver, 1 Gold, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Harem, Province, Silver, Upgrade, Scrying Pool
+ 
+---------- incandenza: turn 15 ----------
+incandenza - duration Haven
+incandenza - places set aside Silver in hand
+incandenza - plays Treasury
+incandenza - draws Silver
+incandenza - plays Haven
+incandenza - draws Silver
+incandenza - sets aside Silver
+incandenza - plays Jester
+Titandrake - reveals Silver
+Titandrake - discards Silver
+incandenza - gains Silver
+incandenza - plays 4 Silver
+incandenza - buys Province
+incandenza - gains Province
+incandenza - shuffles deck
+incandenza - draws Copper, Upgrade, Potion, Scrying Pool, Scrying Pool
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Jester on top of deck
+incandenza - discards Silver
+Titandrake - reveals Jester, Copper
+Titandrake - plays Upgrade
+Titandrake - draws Harem
+Titandrake - trashes Copper
+Titandrake - plays Jester
+incandenza - reveals Silver
+incandenza - discards Silver
+Titandrake - gains Silver
+Titandrake - plays 2 Harem, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Trade Route, Copper, Silver
+ 
+---------- incandenza: turn 16 ----------
+incandenza - duration Haven
+incandenza - places set aside Silver in hand
+incandenza - plays Scrying Pool
+incandenza - discards Copper
+Titandrake - discards Haven
+incandenza - reveals Province
+incandenza - plays Scrying Pool
+incandenza - discards Silver
+Titandrake - places Province on top of deck
+incandenza - reveals Copper
+incandenza - plays Upgrade
+incandenza - draws Haven
+incandenza - trashes Potion
+incandenza - gains Duchy
+incandenza - plays Haven
+incandenza - draws Province
+incandenza - sets aside Silver
+incandenza - plays 2 Copper
+incandenza - buys Haven
+incandenza - gains Haven
+incandenza - draws Scrying Pool, Haven, Jester, Scrying Pool, Treasury
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Trade Route
+Titandrake - trashes Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Province, Silver, Copper, Jester, Upgrade
+ 
+---------- incandenza: turn 17 ----------
+incandenza - duration Haven
+incandenza - places set aside Silver in hand
+incandenza - plays Scrying Pool
+incandenza - discards Silver
+Titandrake - discards Silver
+incandenza - reveals Silver
+incandenza - plays Scrying Pool
+incandenza - places Upgrade on top of deck
+Titandrake - places Province on top of deck
+incandenza - shuffles deck
+incandenza - reveals Upgrade, Scrying Pool, Copper
+incandenza - plays Scrying Pool
+incandenza - discards Province
+Titandrake - places Province on top of deck
+incandenza - reveals Haven, Silver
+incandenza - plays Haven
+incandenza - draws Haven
+incandenza - sets aside Copper
+incandenza - plays Haven
+incandenza - draws Upgrade
+incandenza - sets aside Silver
+incandenza - plays Treasury
+incandenza - draws Copper
+incandenza - plays Upgrade
+incandenza - draws Scrying Pool
+incandenza - trashes Upgrade
+incandenza - gains Harem
+incandenza - plays Scrying Pool
+incandenza - discards Silver
+Titandrake - places Province on top of deck
+incandenza - reveals Province
+incandenza - plays Haven
+incandenza - draws Copper
+incandenza - sets aside Copper
+incandenza - plays Jester
+Titandrake - reveals Province
+Titandrake - discards Province
+Titandrake - gains Curse
+incandenza - plays 2 Silver, 1 Copper
+incandenza - buys Duchy
+incandenza - gains Duchy
+incandenza - draws Silver, Silver, Duchy
+incandenza - shuffles deck
+incandenza - draws Scrying Pool, Silver
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Copper
+Titandrake - trashes Copper
+Titandrake - plays Jester
+incandenza - reveals Jester
+incandenza - discards Jester
+Titandrake - gains Jester
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Haven, Gold, Harem, Province, Scrying Pool
+ 
+---------- incandenza: turn 18 ----------
+incandenza - duration Haven
+incandenza - places set aside Copper in hand
+incandenza - duration Haven
+incandenza - places set aside Silver in hand
+incandenza - duration Haven
+incandenza - places set aside Copper in hand
+incandenza - plays Scrying Pool
+incandenza - discards Silver
+Titandrake - discards Silver
+incandenza - reveals Duchy
+incandenza - plays 4 Silver, 2 Copper
+incandenza - buys Duchy
+incandenza - gains Duchy
+incandenza - draws Treasury, Scrying Pool, Haven, Upgrade, Scrying Pool
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Scrying Pool
+Titandrake - places Harem on top of deck
+incandenza - discards Silver
+Titandrake - reveals Harem
+Titandrake - plays Haven
+Titandrake - draws Gold
+Titandrake - sets aside Province
+Titandrake - plays 2 Harem, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Province, Silver
+Titandrake - shuffles deck
+Titandrake - draws Scrying Pool
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Jester, 2 Haven, 1 Scrying Pool, 1 Upgrade, 1 Trade Route, 7 Silver, 3 Copper, 2 Harem, 2 Gold, 6 Province, 1 Duchy, 1 Curse
+Titandrake - total victory points: 42
+Titandrake - turns: 19
+ 
+incandenza - cards: 4 Scrying Pool, 4 Haven, 1 Treasury, 1 Upgrade, 1 Jester, 6 Silver, 3 Copper, 1 Harem, 3 Duchy, 2 Province
+incandenza - total victory points: 23
+incandenza - turns: 18
+ 
+1st place: Titandrake
+2nd place: incandenza
+ 

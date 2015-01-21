@@ -1,0 +1,591 @@
+------------ Game Setup ------------
+Supply cards: Great Hall, Oracle, Fortress, Treasure Map, Festival, Haggler, Highway, Merchant Guild, Tribute, Peddler, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Lotoreo - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lotoreo - shuffles deck
+Titandrake - shuffles deck
+Lotoreo - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Lotoreo: turn 1 ----------
+Lotoreo - plays 4 Copper
+Lotoreo - buys Fortress
+Lotoreo - gains Fortress
+Lotoreo - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Lotoreo: turn 2 ----------
+Lotoreo - plays 3 Copper
+Lotoreo - buys Oracle
+Lotoreo - gains Oracle
+Lotoreo - shuffles deck
+Lotoreo - draws Fortress, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - shuffles deck
+Titandrake - draws Fortress, Oracle, Copper, Estate, Estate
+ 
+---------- Lotoreo: turn 3 ----------
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays 4 Copper
+Lotoreo - buys Fortress
+Lotoreo - gains Fortress
+Lotoreo - draws Copper, Estate, Oracle, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Estate
+Titandrake - discards: Copper, Estate
+Lotoreo - reveals: Estate
+Lotoreo - shuffles deck
+Lotoreo - reveals: Copper
+Lotoreo - places Copper on top of deck
+Lotoreo - places Estate on top of deck
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Peddler
+Titandrake - gains Peddler
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate
+ 
+---------- Lotoreo: turn 4 ----------
+Lotoreo - plays Oracle
+Lotoreo - reveals: Estate, Copper
+Lotoreo - discards: Estate, Copper
+Titandrake - reveals: Peddler, Fortress
+Titandrake - discards: Peddler, Fortress
+Lotoreo - draws Estate, Fortress
+Lotoreo - plays 3 Copper
+Lotoreo - buys Oracle
+Lotoreo - gains Oracle
+Lotoreo - draws Fortress, Copper, Copper, Copper
+Lotoreo - shuffles deck
+Lotoreo - draws Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Fortress
+Titandrake - gains Fortress
+Titandrake - draws Copper, Estate, Copper, Oracle, Estate
+ 
+---------- Lotoreo: turn 5 ----------
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays 5 Copper
+Lotoreo - buys Haggler
+Lotoreo - gains Haggler
+Lotoreo - draws Estate, Oracle, Oracle, Estate, Fortress
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Estate
+Titandrake - discards: Copper, Estate
+Lotoreo - reveals: Estate, Copper
+Lotoreo - places Estate on top of deck
+Lotoreo - places Copper on top of deck
+Titandrake - draws Fortress, Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Great Hall
+Titandrake - gains Great Hall
+Titandrake - draws Peddler, Copper, Copper, Copper, Fortress
+ 
+---------- Lotoreo: turn 6 ----------
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays Oracle
+Lotoreo - reveals: Estate, Copper
+Lotoreo - discards: Estate, Copper
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Fortress
+Titandrake - discards: Copper, Fortress
+Lotoreo - shuffles deck
+Lotoreo - draws Fortress, Copper
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays Oracle
+Lotoreo - reveals: Copper, Estate
+Lotoreo - discards: Copper, Estate
+Titandrake - reveals: Copper, Copper
+Titandrake - discards: Copper, Copper
+Lotoreo - draws Copper, Copper
+Lotoreo - plays 5 Copper
+Lotoreo - buys Tribute
+Lotoreo - gains Tribute
+Lotoreo - draws Copper, Haggler
+Lotoreo - shuffles deck
+Lotoreo - draws Fortress, Fortress, Estate
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays 4 Copper
+Titandrake - buys Merchant Guild
+Titandrake - gains Merchant Guild
+Titandrake - draws Estate, Estate, Great Hall, Oracle
+Titandrake - shuffles deck
+Titandrake - draws Estate
+ 
+---------- Lotoreo: turn 7 ----------
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays Fortress
+Lotoreo - draws Oracle
+Lotoreo - plays Oracle
+Lotoreo - reveals: Oracle, Copper
+Lotoreo - places Copper on top of deck
+Lotoreo - places Oracle on top of deck
+Titandrake - reveals: Copper, Copper
+Titandrake - discards: Copper, Copper
+Lotoreo - draws Oracle, Copper
+Lotoreo - plays Oracle
+Lotoreo - reveals: Copper, Tribute
+Lotoreo - places Copper on top of deck
+Lotoreo - places Tribute on top of deck
+Titandrake - reveals: Fortress, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Fortress on top of deck
+Lotoreo - draws Tribute, Copper
+Lotoreo - plays Tribute
+Titandrake - reveals: Fortress, Copper
+Lotoreo - receives 2 coins
+Lotoreo - receives 2 actions
+Titandrake - discards: Fortress, Copper
+Lotoreo - plays Haggler
+Lotoreo - plays 4 Copper
+Lotoreo - buys Haggler
+Lotoreo - gains Peddler
+Lotoreo - gains Haggler
+Lotoreo - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Oracle
+Titandrake - reveals: Merchant Guild, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Merchant Guild on top of deck
+Lotoreo - shuffles deck
+Lotoreo - reveals: Copper, Haggler
+Lotoreo - discards: Copper, Haggler
+Titandrake - draws Merchant Guild, Copper
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper
+Titandrake - buys Fortress
+Titandrake - receives 1 coin token
+Titandrake - gains Fortress
+Titandrake - buys Peddler
+Titandrake - receives 1 coin token
+Titandrake - gains Peddler
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Peddler, Oracle
+ 
+---------- Lotoreo: turn 8 ----------
+Lotoreo - plays 3 Copper
+Lotoreo - buys Oracle
+Lotoreo - gains Oracle
+Lotoreo - draws Tribute, Copper, Oracle, Fortress, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Peddler
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Fortress
+Titandrake - discards: Copper, Fortress
+Lotoreo - reveals: Peddler, Fortress
+Lotoreo - discards: Peddler, Fortress
+Titandrake - draws Estate, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Festival
+Titandrake - gains Festival
+Titandrake - draws Merchant Guild, Fortress, Fortress, Copper, Copper
+ 
+---------- Lotoreo: turn 9 ----------
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays Oracle
+Lotoreo - reveals: Oracle, Copper
+Lotoreo - places Copper on top of deck
+Lotoreo - places Oracle on top of deck
+Titandrake - reveals: Great Hall, Estate
+Titandrake - places Estate on top of deck
+Titandrake - places Great Hall on top of deck
+Lotoreo - draws Oracle, Copper
+Lotoreo - plays Tribute
+Titandrake - reveals: Great Hall, Estate
+Lotoreo - receives 2 actions
+Lotoreo - draws Haggler
+Lotoreo - shuffles deck
+Lotoreo - draws Copper, Copper, Peddler
+Titandrake - discards: Great Hall, Estate
+Lotoreo - plays Peddler
+Lotoreo - draws Oracle
+Lotoreo - plays Oracle
+Lotoreo - reveals: Fortress, Estate
+Lotoreo - places Estate on top of deck
+Lotoreo - places Fortress on top of deck
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Oracle
+Titandrake - discards: Copper, Oracle
+Lotoreo - draws Fortress, Estate
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays Oracle
+Lotoreo - reveals: Estate, Haggler
+Lotoreo - discards: Estate, Haggler
+Titandrake - reveals: Great Hall, Copper
+Titandrake - discards: Great Hall, Copper
+Lotoreo - draws Copper
+Lotoreo - shuffles deck
+Lotoreo - draws Estate
+Lotoreo - plays Haggler
+Lotoreo - plays 7 Copper
+Lotoreo - buys Highway
+Lotoreo - gains Peddler
+Lotoreo - gains Highway
+Lotoreo - draws Haggler
+Lotoreo - shuffles deck
+Lotoreo - draws Tribute, Copper, Fortress, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays Fortress
+Titandrake - draws Peddler
+Titandrake - plays Peddler
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Highway
+Titandrake - receives 1 coin token
+Titandrake - gains Highway
+Titandrake - buys Peddler
+Titandrake - receives 1 coin token
+Titandrake - gains Peddler
+Titandrake - draws Estate, Copper, Copper, Festival, Copper
+ 
+---------- Lotoreo: turn 10 ----------
+Lotoreo - plays Fortress
+Lotoreo - draws Fortress
+Lotoreo - plays Fortress
+Lotoreo - draws Oracle
+Lotoreo - plays Oracle
+Lotoreo - reveals: Copper, Peddler
+Lotoreo - discards: Copper, Peddler
+Titandrake - reveals: Peddler
+Titandrake - shuffles deck
+Titandrake - reveals: Fortress
+Titandrake - discards: Peddler, Fortress
+Lotoreo - draws Copper, Peddler
+Lotoreo - plays Peddler
+Lotoreo - draws Copper
+Lotoreo - plays Tribute
+Titandrake - reveals: Estate, Fortress
+Lotoreo - receives 2 actions
+Lotoreo - draws Estate, Estate
+Titandrake - discards: Estate, Fortress
+Lotoreo - plays Haggler
+Lotoreo - plays 3 Copper
+Lotoreo - buys Merchant Guild
+Lotoreo - gains Peddler
+Lotoreo - gains Merchant Guild
+Lotoreo - draws Copper, Haggler, Oracle, Oracle, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Festival
+Titandrake - plays 3 Copper
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - draws Great Hall, Copper, Copper, Peddler, Peddler
+ 
+---------- Lotoreo: turn 11 ----------
+Lotoreo - plays Haggler
+Lotoreo - plays 2 Copper
+Lotoreo - buys Fortress
+Lotoreo - gains Oracle
+Lotoreo - gains Fortress
+Lotoreo - draws Copper, Highway
+Lotoreo - shuffles deck
+Lotoreo - draws Copper, Peddler, Tribute
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Estate
+Titandrake - plays Peddler
+Titandrake - draws Oracle
+Titandrake - plays Oracle
+Titandrake - reveals: Highway, Fortress
+Titandrake - discards: Highway, Fortress
+Lotoreo - reveals: Copper, Copper
+Lotoreo - places Copper on top of deck
+Lotoreo - places Copper on top of deck
+Titandrake - draws Merchant Guild, Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Haggler
+Titandrake - gains Haggler
+Titandrake - shuffles deck
+Titandrake - draws Peddler, Copper, Fortress, Festival, Fortress
+ 
+---------- Lotoreo: turn 12 ----------
+Lotoreo - plays Highway
+Lotoreo - draws Copper
+Lotoreo - plays Peddler
+Lotoreo - draws Copper
+Lotoreo - plays Tribute
+Titandrake - reveals: Highway, Copper
+Lotoreo - receives 2 coins
+Lotoreo - receives 2 actions
+Titandrake - discards: Highway, Copper
+Lotoreo - plays 4 Copper
+Lotoreo - buys Province
+Lotoreo - gains Province
+Lotoreo - draws Fortress, Oracle, Fortress, Fortress, Haggler
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Fortress
+Titandrake - draws Estate
+Titandrake - plays Peddler
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Oracle
+Titandrake - plays Oracle
+Titandrake - reveals: Merchant Guild, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Merchant Guild on top of deck
+Lotoreo - reveals: Estate, Estate
+Lotoreo - places Estate on top of deck
+Lotoreo - places Estate on top of deck
+Titandrake - draws Merchant Guild, Copper
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Merchant Guild
+Titandrake - plays Festival
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - receives 1 coin token
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - receives 1 coin token
+Titandrake - gains Peddler
+Titandrake - buys Peddler
+Titandrake - receives 1 coin token
+Titandrake - gains Peddler
+Titandrake - draws Copper, Copper, Estate, Haggler, Great Hall
+ 
+---------- Lotoreo: turn 13 ----------
+Lotoreo - plays Fortress
+Lotoreo - draws Estate
+Lotoreo - plays Fortress
+Lotoreo - draws Estate
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays Oracle
+Lotoreo - reveals: Copper, Oracle
+Lotoreo - places Copper on top of deck
+Lotoreo - places Oracle on top of deck
+Titandrake - reveals: Copper, Estate
+Titandrake - discards: Copper, Estate
+Lotoreo - draws Oracle, Copper
+Lotoreo - plays Oracle
+Lotoreo - reveals: Merchant Guild, Oracle
+Lotoreo - places Merchant Guild on top of deck
+Lotoreo - places Oracle on top of deck
+Titandrake - reveals: Peddler, Peddler
+Titandrake - discards: Peddler, Peddler
+Lotoreo - draws Oracle, Merchant Guild
+Lotoreo - plays Oracle
+Lotoreo - reveals: Haggler, Peddler
+Lotoreo - discards: Haggler, Peddler
+Titandrake - reveals: Oracle
+Titandrake - shuffles deck
+Titandrake - reveals: Peddler
+Titandrake - discards: Oracle, Peddler
+Lotoreo - draws Copper, Estate
+Lotoreo - plays Merchant Guild
+Lotoreo - plays 3 Copper
+Lotoreo - buys Fortress
+Lotoreo - receives 1 coin token
+Lotoreo - gains Fortress
+Lotoreo - buys Peddler
+Lotoreo - receives 1 coin token
+Lotoreo - gains Peddler
+Lotoreo - draws Peddler, Oracle
+Lotoreo - shuffles deck
+Lotoreo - draws Fortress, Oracle, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Great Hall
+Titandrake - draws Estate
+Titandrake - plays Haggler
+Titandrake - plays 2 Copper
+Titandrake - uses 4 coin tokens
+Titandrake - buys Province
+Titandrake - gains Highway
+Titandrake - gains Province
+Titandrake - draws Copper, Estate, Peddler, Fortress, Highway
+ 
+---------- Lotoreo: turn 14 ----------
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays Peddler
+Lotoreo - draws Estate
+Lotoreo - plays Oracle
+Lotoreo - reveals: Oracle, Haggler
+Lotoreo - discards: Oracle, Haggler
+Titandrake - reveals: Copper, Fortress
+Titandrake - discards: Copper, Fortress
+Lotoreo - draws Copper, Oracle
+Lotoreo - plays Oracle
+Lotoreo - reveals: Copper, Highway
+Lotoreo - places Highway on top of deck
+Lotoreo - places Copper on top of deck
+Titandrake - reveals: Oracle, Peddler
+Titandrake - discards: Oracle, Peddler
+Lotoreo - draws Copper, Highway
+Lotoreo - plays 4 Copper
+Lotoreo - buys Fortress
+Lotoreo - gains Fortress
+Lotoreo - draws Tribute, Merchant Guild, Peddler, Copper, Estate
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Peddler
+Titandrake - draws Festival
+Titandrake - plays Highway
+Titandrake - draws Merchant Guild
+Titandrake - plays Fortress
+Titandrake - draws Copper
+Titandrake - plays Festival
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - receives 1 coin token
+Titandrake - gains Province
+Titandrake - buys Peddler
+Titandrake - receives 1 coin token
+Titandrake - gains Peddler
+Titandrake - buys Copper
+Titandrake - receives 1 coin token
+Titandrake - gains Copper
+Titandrake - draws Province, Copper, Peddler, Copper, Peddler
+ 
+---------- Lotoreo: turn 15 ----------
+Lotoreo - plays Peddler
+Lotoreo - draws Fortress
+Lotoreo - plays Fortress
+Lotoreo - draws Fortress
+Lotoreo - plays Fortress
+Lotoreo - draws Copper
+Lotoreo - plays Tribute
+Titandrake - reveals: Fortress
+Titandrake - shuffles deck
+Titandrake - reveals: Province
+Lotoreo - receives 2 actions
+Lotoreo - draws Haggler, Province
+Titandrake - discards: Fortress, Province
+Lotoreo - plays Haggler
+Lotoreo - plays Merchant Guild
+Lotoreo - plays 2 Copper
+Lotoreo - uses 2 coin tokens
+Lotoreo - buys Province
+Lotoreo - gains Tribute
+Lotoreo - receives 1 coin token
+Lotoreo - gains Province
+Lotoreo - buys Copper
+Lotoreo - receives 1 coin token
+Lotoreo - gains Copper
+Lotoreo - draws Peddler, Fortress, Peddler, Estate, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Haggler
+Titandrake - plays Haggler
+Titandrake - plays 3 Copper
+Titandrake - uses 1 coin token
+Titandrake - buys Province
+Titandrake - gains Highway
+Titandrake - gains Province
+Titandrake - draws Peddler, Peddler, Estate, Peddler, Province
+ 
+---------- Lotoreo: turn 16 ----------
+Lotoreo - plays Peddler
+Lotoreo - shuffles deck
+Lotoreo - draws Estate
+Lotoreo - plays Peddler
+Lotoreo - draws Peddler
+Lotoreo - plays Fortress
+Lotoreo - draws Province
+Lotoreo - plays Peddler
+Lotoreo - draws Haggler
+Lotoreo - plays Haggler
+Lotoreo - plays 1 Copper
+Lotoreo - uses 2 coin tokens
+Lotoreo - buys Province
+Lotoreo - gains Tribute
+Lotoreo - gains Province
+Lotoreo - draws Oracle, Fortress, Tribute, Copper, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Peddler
+Titandrake - draws Fortress
+Titandrake - plays Peddler
+Titandrake - draws Copper
+Titandrake - plays Peddler
+Titandrake - draws Fortress
+Titandrake - plays Fortress
+Titandrake - draws Merchant Guild
+Titandrake - plays Fortress
+Titandrake - draws Great Hall
+Titandrake - plays Great Hall
+Titandrake - draws Copper
+Titandrake - plays Merchant Guild
+Titandrake - plays 2 Copper
+Titandrake - uses 2 coin tokens
+Titandrake - buys Province
+Titandrake - receives 1 coin token
+Titandrake - gains Province
+Titandrake - draws Copper, Oracle, Highway, Peddler, Highway
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Peddler, 3 Highway, 3 Fortress, 2 Oracle, 1 Great Hall, 1 Haggler, 1 Merchant Guild, 1 Festival, 8 Copper, 5 Province, 3 Estate
+Titandrake - total victory points: 34
+Titandrake - turns: 16
+ 
+Lotoreo - cards: 5 Fortress, 4 Oracle, 4 Peddler, 3 Tribute, 2 Haggler, 1 Merchant Guild, 1 Highway, 8 Copper, 3 Province, 3 Estate
+Lotoreo - total victory points: 21
+Lotoreo - turns: 16
+ 
+1st place: Titandrake
+2nd place: Lotoreo
+ 

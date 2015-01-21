@@ -1,0 +1,642 @@
+------------ Game Setup ------------
+Supply cards: Sage, Smugglers, Conspirator, Coppersmith, Catacombs, Contraband, Counting House, Junk Dealer, Outpost, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+autoaxon - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+autoaxon - shuffles deck
+Titandrake - shuffles deck
+autoaxon - draws Copper, Copper, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- autoaxon: turn 1 ----------
+autoaxon - plays 5 Copper
+autoaxon - buys Counting House
+autoaxon - gains Counting House
+autoaxon - draws Estate, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Sage, Copper, Copper
+ 
+---------- autoaxon: turn 2 ----------
+autoaxon - shuffles deck
+autoaxon - draws Copper, Estate, Counting House, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Estate, Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - discards: Copper, Estate
+Titandrake - plays Conspirator
+Titandrake - plays 3 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Copper, Estate, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- autoaxon: turn 3 ----------
+autoaxon - plays Counting House
+autoaxon - plays 2 Copper
+autoaxon - buys Copper
+autoaxon - gains Copper
+autoaxon - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Estate, Conspirator, Copper, Copper, Junk Dealer
+ 
+---------- autoaxon: turn 4 ----------
+autoaxon - plays 5 Copper
+autoaxon - buys Coppersmith
+autoaxon - gains Coppersmith
+autoaxon - draws Estate
+autoaxon - shuffles deck
+autoaxon - draws Copper, Copper, Coppersmith, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Sage
+Titandrake - trashes Estate
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Estate, Copper, Copper, Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - discards: Copper, Estate, Copper, Copper
+Titandrake - plays Conspirator
+Titandrake - draws Estate
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Junk Dealer
+Titandrake - gains Junk Dealer
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Conspirator, Estate, Junk Dealer
+ 
+---------- autoaxon: turn 5 ----------
+autoaxon - plays 3 Copper
+autoaxon - buys Sage
+autoaxon - gains Sage
+autoaxon - draws Counting House, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Copper
+Titandrake - trashes Estate
+Titandrake - plays Conspirator
+Titandrake - plays 3 Copper
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - draws Junk Dealer, Copper, Copper, Copper, Copper
+ 
+---------- autoaxon: turn 6 ----------
+autoaxon - plays 3 Copper
+autoaxon - buys Sage
+autoaxon - gains Sage
+autoaxon - draws Estate, Copper, Copper
+autoaxon - shuffles deck
+autoaxon - draws Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Conspirator
+Titandrake - trashes Copper
+Titandrake - plays Conspirator
+Titandrake - plays 3 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Sage, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Junk Dealer
+ 
+---------- autoaxon: turn 7 ----------
+autoaxon - plays 4 Copper
+autoaxon - buys Sage
+autoaxon - gains Sage
+autoaxon - draws Copper, Copper, Copper, Sage, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Conspirator
+Titandrake - trashes Estate
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Junk Dealer
+Titandrake - plays Junk Dealer
+Titandrake - draws Conspirator
+Titandrake - trashes Copper
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Sage, Copper
+Titandrake - shuffles deck
+Titandrake - draws Conspirator, Copper
+ 
+---------- autoaxon: turn 8 ----------
+autoaxon - plays Sage
+autoaxon - reveals Sage
+autoaxon - places Sage in hand
+autoaxon - plays Sage
+autoaxon - reveals Estate, Copper, Coppersmith
+autoaxon - places Coppersmith in hand
+autoaxon - discards: Estate, Copper
+autoaxon - plays Coppersmith
+autoaxon - plays 3 Copper
+autoaxon - buys Conspirator
+autoaxon - gains Conspirator
+autoaxon - draws Counting House
+autoaxon - shuffles deck
+autoaxon - draws Copper, Copper, Sage, Sage
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Conspirator
+Titandrake - plays 3 Copper
+Titandrake - buys Outpost
+Titandrake - gains Outpost
+Titandrake - draws Junk Dealer, Copper, Copper, Junk Dealer, Sage
+ 
+---------- autoaxon: turn 9 ----------
+autoaxon - plays Sage
+autoaxon - reveals Copper, Copper, Conspirator
+autoaxon - places Conspirator in hand
+autoaxon - discards: Copper, Copper
+autoaxon - plays Sage
+autoaxon - reveals Copper, Copper, Estate, Estate, Copper, Sage
+autoaxon - places Sage in hand
+autoaxon - discards: Copper, Copper, Estate, Estate, Copper
+autoaxon - plays Sage
+autoaxon - reveals Estate, Copper, Coppersmith
+autoaxon - places Coppersmith in hand
+autoaxon - discards: Estate, Copper
+autoaxon - plays Counting House
+autoaxon - places cards in hand:  Copper, Copper, Copper, Copper, Copper, Copper
+autoaxon - plays 8 Copper
+autoaxon - buys Province
+autoaxon - gains Province
+autoaxon - shuffles deck
+autoaxon - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Conspirator
+Titandrake - trashes Copper
+Titandrake - plays Junk Dealer
+Titandrake - draws Conspirator
+Titandrake - trashes Copper
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Copper, Outpost
+Titandrake - places Outpost in hand
+Titandrake - discards: Copper, Copper
+Titandrake - plays Conspirator
+Titandrake - draws Sage
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays Outpost
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - duration Outpost
+Titandrake - shuffles deck
+Titandrake - draws Conspirator, Conspirator, Sage
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - draws Junk Dealer, Copper, Province, Junk Dealer, Copper
+ 
+---------- autoaxon: turn 10 ----------
+autoaxon - plays 3 Copper
+autoaxon - buys Sage
+autoaxon - gains Sage
+autoaxon - draws Conspirator, Estate, Copper, Counting House, Sage
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Junk Dealer
+Titandrake - draws Province
+Titandrake - trashes Junk Dealer
+Titandrake - plays 2 Copper
+Titandrake - buys Sage
+Titandrake - gains Sage
+Titandrake - draws Copper, Sage
+Titandrake - shuffles deck
+Titandrake - draws Province, Sage, Conspirator
+ 
+---------- autoaxon: turn 11 ----------
+autoaxon - plays Sage
+autoaxon - reveals Sage
+autoaxon - places Sage in hand
+autoaxon - plays Sage
+autoaxon - reveals Copper, Sage
+autoaxon - places Sage in hand
+autoaxon - discards Copper
+autoaxon - plays Sage
+autoaxon - reveals Copper, Copper, Copper, Province
+autoaxon - places Province in hand
+autoaxon - discards: Copper, Copper, Copper
+autoaxon - plays Conspirator
+autoaxon - draws Coppersmith
+autoaxon - plays Counting House
+autoaxon - places cards in hand:  Copper, Copper, Copper, Copper, Copper, Copper, Copper
+autoaxon - plays 8 Copper
+autoaxon - buys Province
+autoaxon - gains Province
+autoaxon - shuffles deck
+autoaxon - draws Sage, Province, Copper, Copper, Sage
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Sage
+Titandrake - reveals Copper, Province
+Titandrake - places Province in hand
+Titandrake - discards Copper
+Titandrake - plays Conspirator
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Junk Dealer
+Titandrake - plays Junk Dealer
+Titandrake - draws Outpost
+Titandrake - trashes Copper
+Titandrake - plays Outpost
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - duration Outpost
+Titandrake - shuffles deck
+Titandrake - draws Province, Conspirator, Province
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Conspirator
+Titandrake - draws Junk Dealer, Sage, Copper, Conspirator, Sage
+ 
+---------- autoaxon: turn 12 ----------
+autoaxon - plays Sage
+autoaxon - reveals Coppersmith
+autoaxon - places Coppersmith in hand
+autoaxon - plays Sage
+autoaxon - reveals Copper, Estate, Conspirator
+autoaxon - places Conspirator in hand
+autoaxon - discards: Copper, Estate
+autoaxon - plays Conspirator
+autoaxon - draws Sage
+autoaxon - plays Sage
+autoaxon - reveals Estate, Counting House
+autoaxon - places Counting House in hand
+autoaxon - discards Estate
+autoaxon - plays Counting House
+autoaxon - places cards in hand:  Copper
+autoaxon - plays 3 Copper
+autoaxon - buys Sage
+autoaxon - gains Sage
+autoaxon - draws Copper, Sage, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Conspirator
+Titandrake - draws Copper
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays 2 Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Outpost, Province
+Titandrake - shuffles deck
+Titandrake - draws Sage, Conspirator, Province
+ 
+---------- autoaxon: turn 13 ----------
+autoaxon - plays Sage
+autoaxon - reveals Copper, Copper, Province
+autoaxon - places Province in hand
+autoaxon - discards: Copper, Copper
+autoaxon - plays 3 Copper
+autoaxon - buys Sage
+autoaxon - gains Sage
+autoaxon - shuffles deck
+autoaxon - draws Counting House, Sage, Copper, Conspirator, Sage
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - reveals Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays Outpost
+Titandrake - buys Conspirator
+Titandrake - gains Conspirator
+Titandrake - duration Outpost
+Titandrake - draws Sage, Junk Dealer, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Copper, Sage
+Titandrake - places Sage in hand
+Titandrake - discards Copper
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Junk Dealer
+Titandrake - draws Conspirator
+Titandrake - trashes Copper
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Conspirator, Province, Conspirator, Province
+Titandrake - shuffles deck
+Titandrake - draws Outpost
+ 
+---------- autoaxon: turn 14 ----------
+autoaxon - plays Sage
+autoaxon - reveals Copper, Province
+autoaxon - places Province in hand
+autoaxon - discards Copper
+autoaxon - plays Sage
+autoaxon - reveals Sage
+autoaxon - places Sage in hand
+autoaxon - plays Sage
+autoaxon - reveals Province
+autoaxon - places Province in hand
+autoaxon - plays Conspirator
+autoaxon - draws Estate
+autoaxon - plays Counting House
+autoaxon - places cards in hand:  Copper
+autoaxon - plays 2 Copper
+autoaxon - buys Conspirator
+autoaxon - gains Conspirator
+autoaxon - draws Sage, Copper, Estate, Sage, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Outpost
+Titandrake - duration Outpost
+Titandrake - draws Junk Dealer, Province, Sage
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - draws Copper, Sage, Conspirator, Sage, Duchy
+ 
+---------- autoaxon: turn 15 ----------
+autoaxon - plays Sage
+autoaxon - reveals Copper, Copper, Sage
+autoaxon - places Sage in hand
+autoaxon - discards: Copper, Copper
+autoaxon - plays Sage
+autoaxon - reveals Estate, Copper, Coppersmith
+autoaxon - places Coppersmith in hand
+autoaxon - discards: Estate, Copper
+autoaxon - plays Sage
+autoaxon - shuffles deck
+autoaxon - reveals Copper, Estate, Copper, Counting House
+autoaxon - places Counting House in hand
+autoaxon - discards: Copper, Estate, Copper
+autoaxon - plays Counting House
+autoaxon - places cards in hand:  Copper, Copper
+autoaxon - plays 4 Copper
+autoaxon - buys Conspirator
+autoaxon - gains Conspirator
+autoaxon - draws Province, Copper, Sage, Copper, Sage
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Junk Dealer
+Titandrake - places Junk Dealer in hand
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - plays Junk Dealer
+Titandrake - draws Conspirator
+Titandrake - trashes Copper
+Titandrake - plays Conspirator
+Titandrake - draws Sage
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Conspirator
+Titandrake - draws Province
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Conspirator, Outpost, Province
+Titandrake - shuffles deck
+Titandrake - draws Conspirator, Sage
+ 
+---------- autoaxon: turn 16 ----------
+autoaxon - plays Sage
+autoaxon - reveals Conspirator
+autoaxon - places Conspirator in hand
+autoaxon - plays Sage
+autoaxon - reveals Conspirator
+autoaxon - places Conspirator in hand
+autoaxon - plays Conspirator
+autoaxon - draws Copper
+autoaxon - plays Conspirator
+autoaxon - draws Province
+autoaxon - plays 3 Copper
+autoaxon - buys Duchy
+autoaxon - gains Duchy
+autoaxon - draws Sage, Estate, Copper
+autoaxon - shuffles deck
+autoaxon - draws Conspirator, Duchy
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Outpost
+Titandrake - duration Outpost
+Titandrake - draws Conspirator, Duchy, Conspirator
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - draws Province, Province, Sage, Gold, Sage
+ 
+---------- autoaxon: turn 17 ----------
+autoaxon - plays Sage
+autoaxon - reveals Coppersmith
+autoaxon - places Coppersmith in hand
+autoaxon - plays Conspirator
+autoaxon - plays 1 Copper
+autoaxon - buys Sage
+autoaxon - gains Sage
+autoaxon - draws Conspirator, Province, Estate, Sage, Sage
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Sage
+Titandrake - reveals Junk Dealer
+Titandrake - places Junk Dealer in hand
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Sage
+Titandrake - places Sage in hand
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Province, Outpost, Conspirator, Duchy, Conspirator
+ 
+---------- autoaxon: turn 18 ----------
+autoaxon - plays Sage
+autoaxon - reveals Sage
+autoaxon - places Sage in hand
+autoaxon - plays Sage
+autoaxon - reveals Copper, Counting House
+autoaxon - places Counting House in hand
+autoaxon - discards Copper
+autoaxon - plays Sage
+autoaxon - reveals Copper, Copper, Estate, Copper, Copper, Sage
+autoaxon - places Sage in hand
+autoaxon - discards: Copper, Copper, Estate, Copper, Copper
+autoaxon - plays Sage
+autoaxon - reveals Province
+autoaxon - places Province in hand
+autoaxon - plays Conspirator
+autoaxon - draws Copper
+autoaxon - plays Counting House
+autoaxon - places cards in hand:  Copper, Copper, Copper, Copper, Copper, Copper
+autoaxon - plays 7 Copper
+autoaxon - buys Province
+autoaxon - gains Province
+autoaxon - draws Conspirator, Copper, Sage
+autoaxon - shuffles deck
+autoaxon - draws Province, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Outpost
+Titandrake - duration Outpost
+Titandrake - draws Conspirator, Conspirator
+Titandrake - shuffles deck
+Titandrake - draws Sage
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Sage
+Titandrake - reveals Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - plays Conspirator
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Province, Province, Conspirator, Province, Sage
+ 
+---------- autoaxon: turn 19 ----------
+autoaxon - plays Sage
+autoaxon - reveals Estate, Province
+autoaxon - places Province in hand
+autoaxon - discards Estate
+autoaxon - plays Conspirator
+autoaxon - plays 1 Copper
+autoaxon - buys Estate
+autoaxon - gains Estate
+autoaxon - draws Sage, Copper, Duchy, Copper, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Sage
+Titandrake - reveals Province
+Titandrake - places Province in hand
+Titandrake - plays Conspirator
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Gold, Junk Dealer, Duchy, Silver, Sage
+ 
+---------- autoaxon: turn 20 ----------
+autoaxon - plays Sage
+autoaxon - reveals Counting House
+autoaxon - places Counting House in hand
+autoaxon - plays Counting House
+autoaxon - places cards in hand:  Copper
+autoaxon - plays 4 Copper
+autoaxon - buys Estate
+autoaxon - gains Estate
+autoaxon - draws Sage, Copper, Conspirator, Sage, Sage
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Sage
+Titandrake - shuffles deck
+Titandrake - reveals Estate, Conspirator
+Titandrake - places Conspirator in hand
+Titandrake - discards Estate
+Titandrake - plays Junk Dealer
+Titandrake - draws Sage
+Titandrake - trashes Sage
+Titandrake - plays Conspirator
+Titandrake - draws Conspirator
+Titandrake - plays Conspirator
+Titandrake - draws Sage
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Outpost, Province, Province, Conspirator, Province
+ 
+------------ Game Over ------------
+Titandrake - cards: 4 Conspirator, 2 Sage, 1 Outpost, 1 Junk Dealer, 1 Gold, 1 Silver, 5 Province, 2 Estate, 1 Duchy
+Titandrake - total victory points: 35
+Titandrake - turns: 21
+ 
+autoaxon - cards: 7 Sage, 3 Conspirator, 1 Counting House, 1 Coppersmith, 8 Copper, 5 Estate, 3 Province, 1 Duchy
+autoaxon - total victory points: 26
+autoaxon - turns: 20
+ 
+1st place: Titandrake
+2nd place: autoaxon
+ 

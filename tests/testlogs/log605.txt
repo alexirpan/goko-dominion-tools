@@ -1,0 +1,558 @@
+------------ Game Setup ------------
+Supply cards: Lighthouse, Squire, Caravan, Horse Traders, Spy, Thief, Contraband, Counterfeit, Pillage, Hunting Grounds, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Lucidity - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lucidity - shuffles deck
+Titandrake - shuffles deck
+Lucidity - draws Copper, Hovel, Copper, Copper, Copper
+Titandrake - draws Copper, Copper, Copper, Overgrown Estate, Copper
+ 
+---------- Lucidity: turn 1 ----------
+Lucidity - plays 4 Copper
+Lucidity - buys Horse Traders
+Lucidity - gains Horse Traders
+Lucidity - draws Copper, Copper, Copper, Overgrown Estate, Necropolis
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Horse Traders
+Titandrake - gains Horse Traders
+Titandrake - draws Hovel, Necropolis, Copper, Copper, Copper
+ 
+---------- Lucidity: turn 2 ----------
+Lucidity - plays 3 Copper
+Lucidity - buys Squire
+Lucidity - gains Squire
+Lucidity - shuffles deck
+Lucidity - draws Copper, Copper, Copper, Copper, Squire
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Copper, Necropolis, Copper
+ 
+---------- Lucidity: turn 3 ----------
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays 4 Copper
+Lucidity - buys Counterfeit
+Lucidity - gains Counterfeit
+Lucidity - draws Overgrown Estate, Hovel, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Hovel, Horse Traders, Copper, Copper, Overgrown Estate
+ 
+---------- Lucidity: turn 4 ----------
+Lucidity - plays 3 Copper
+Lucidity - buys Squire
+Lucidity - gains Squire
+Lucidity - draws Necropolis, Horse Traders
+Lucidity - shuffles deck
+Lucidity - draws Counterfeit, Silver, Squire
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Hovel
+Titandrake - discards Overgrown Estate
+Titandrake - plays 2 Copper
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Counterfeit, Copper, Silver
+ 
+---------- Lucidity: turn 5 ----------
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays Counterfeit
+Lucidity - plays Silver
+Lucidity - plays Silver
+Lucidity - trashes Silver
+Lucidity - buys Hunting Grounds
+Lucidity - gains Hunting Grounds
+Lucidity - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Copper, Overgrown Estate, Counterfeit, Copper, Necropolis
+ 
+---------- Lucidity: turn 6 ----------
+Lucidity - plays 5 Copper
+Lucidity - buys Counterfeit
+Lucidity - gains Counterfeit
+Lucidity - draws Copper, Hovel, Overgrown Estate, Squire, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Copper, Copper, Hovel, Horse Traders
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Lucidity: turn 7 ----------
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays 2 Copper
+Lucidity - buys Squire
+Lucidity - gains Squire
+Lucidity - shuffles deck
+Lucidity - draws Silver, Copper, Copper, Squire, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Horse Traders
+Titandrake - discards Copper
+Titandrake - discards Hovel
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Lighthouse, Counterfeit, Silver, Copper, Counterfeit
+ 
+---------- Lucidity: turn 8 ----------
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays 3 Copper, 1 Silver
+Lucidity - buys Hunting Grounds
+Lucidity - gains Hunting Grounds
+Lucidity - draws Overgrown Estate, Silver, Copper, Necropolis, Hunting Grounds
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - trashes Silver
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Squire, Necropolis, Overgrown Estate, Copper, Counterfeit
+ 
+---------- Lucidity: turn 9 ----------
+Lucidity - plays Necropolis
+Lucidity - plays Hunting Grounds
+Lucidity - draws Counterfeit, Counterfeit, Hovel, Squire
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays Counterfeit
+Lucidity - plays Copper
+Lucidity - plays Copper
+Lucidity - trashes Copper
+Lucidity - plays Counterfeit
+Lucidity - plays Silver
+Lucidity - plays Silver
+Lucidity - trashes Silver
+Lucidity - buys Hunting Grounds
+Lucidity - gains Hunting Grounds
+Lucidity - buys Silver
+Lucidity - gains Silver
+Lucidity - draws Copper, Copper, Copper, Horse Traders, Squire
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Squire
+Titandrake - shuffles deck
+Titandrake - draws Squire, Silver, Lighthouse, Counterfeit
+ 
+---------- Lucidity: turn 10 ----------
+Lucidity - plays Squire
+Lucidity - takes 2 actions
+Lucidity - plays Horse Traders
+Lucidity - discards Copper
+Lucidity - discards Copper
+Lucidity - plays 1 Copper
+Lucidity - buys Counterfeit
+Lucidity - gains Counterfeit
+Lucidity - shuffles deck
+Lucidity - draws Overgrown Estate, Counterfeit, Copper, Hunting Grounds, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Counterfeit
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - trashes Silver
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - buys Lighthouse
+Titandrake - gains Lighthouse
+Titandrake - draws Squire, Hunting Grounds, Copper, Squire, Squire
+ 
+---------- Lucidity: turn 11 ----------
+Lucidity - plays Hunting Grounds
+Lucidity - draws Copper, Counterfeit, Squire, Squire
+Lucidity - plays Counterfeit
+Lucidity - plays Copper
+Lucidity - plays Copper
+Lucidity - trashes Copper
+Lucidity - plays Counterfeit
+Lucidity - plays Copper
+Lucidity - plays Copper
+Lucidity - trashes Copper
+Lucidity - plays 1 Silver
+Lucidity - buys Caravan
+Lucidity - gains Caravan
+Lucidity - buys Caravan
+Lucidity - gains Caravan
+Lucidity - draws Copper, Silver, Hunting Grounds, Horse Traders, Necropolis
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Hunting Grounds
+Titandrake - draws Squire, Horse Traders, Hovel, Counterfeit
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Horse Traders
+Titandrake - discards Hovel
+Titandrake - discards Squire
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - buys Hunting Grounds
+Titandrake - gains Hunting Grounds
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Copper, Copper, Counterfeit, Overgrown Estate, Necropolis
+ 
+---------- Lucidity: turn 12 ----------
+Lucidity - plays Necropolis
+Lucidity - plays Hunting Grounds
+Lucidity - draws Hovel, Copper, Hunting Grounds, Squire
+Lucidity - plays Squire
+Lucidity - takes 2 actions
+Lucidity - plays Hunting Grounds
+Lucidity - draws Silver, Silver, Copper, Copper
+Lucidity - plays Horse Traders
+Lucidity - discards Copper
+Lucidity - discards Copper
+Lucidity - plays 3 Silver, 2 Copper
+Lucidity - buys Province
+Lucidity - trashes Hovel
+Lucidity - gains Province
+Lucidity - buys Caravan
+Lucidity - gains Caravan
+Lucidity - draws Counterfeit
+Lucidity - shuffles deck
+Lucidity - draws Copper, Horse Traders, Copper, Hunting Grounds
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Squire
+Titandrake - shuffles deck
+Titandrake - draws Squire, Lighthouse, Counterfeit, Caravan
+ 
+---------- Lucidity: turn 13 ----------
+Lucidity - plays Hunting Grounds
+Lucidity - draws Squire, Counterfeit, Silver, Overgrown Estate
+Lucidity - plays Counterfeit
+Lucidity - plays Copper
+Lucidity - plays Copper
+Lucidity - trashes Copper
+Lucidity - plays Counterfeit
+Lucidity - plays Copper
+Lucidity - plays Copper
+Lucidity - trashes Copper
+Lucidity - plays 1 Silver
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Squire, Hunting Grounds, Caravan, Necropolis, Copper
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Caravan
+Titandrake - draws Squire
+Titandrake - plays Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Counterfeit
+Titandrake - buys Pillage
+Titandrake - gains Pillage
+Titandrake - draws Silver, Squire, Hunting Grounds, Overgrown Estate, Hovel
+ 
+---------- Lucidity: turn 14 ----------
+Lucidity - plays Necropolis
+Lucidity - plays Hunting Grounds
+Lucidity - draws Province, Counterfeit, Silver, Caravan
+Lucidity - plays Caravan
+Lucidity - draws Silver
+Lucidity - plays Caravan
+Lucidity - draws Copper
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays Counterfeit
+Lucidity - plays Copper
+Lucidity - plays Copper
+Lucidity - trashes Copper
+Lucidity - plays 2 Silver, 1 Copper
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Hunting Grounds, Squire, Caravan, Silver
+Lucidity - shuffles deck
+Lucidity - draws Counterfeit
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Caravan
+Titandrake - draws Squire
+Titandrake - duration Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Hunting Grounds
+Titandrake - draws Necropolis, Copper, Horse Traders, Caravan
+Titandrake - plays Caravan
+Titandrake - draws Hunting Grounds
+Titandrake - plays Necropolis
+Titandrake - plays Hunting Grounds
+Titandrake - draws Counterfeit, Squire, Squire, Hunting Grounds
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Hunting Grounds
+Titandrake - draws Lighthouse, Counterfeit
+Titandrake - shuffles deck
+Titandrake - draws Squire, Pillage
+Titandrake - plays Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Pillage
+Titandrake - trashes Pillage
+Lucidity - reveals Hunting Grounds, Squire, Caravan, Silver, Counterfeit
+Lucidity - discards Hunting Grounds
+Titandrake - gains Spoils
+Titandrake - gains Spoils
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Horse Traders
+Titandrake - discards Overgrown Estate
+Titandrake - discards Hovel
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - trashes Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Squire, Counterfeit, Silver, Squire, Silver
+ 
+---------- Lucidity: turn 15 ----------
+Lucidity - duration Caravan
+Lucidity - draws Counterfeit
+Lucidity - duration Caravan
+Lucidity - draws Silver
+Lucidity - plays Caravan
+Lucidity - draws Squire
+Lucidity - plays Squire
+Lucidity - takes 2 actions
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays Counterfeit
+Lucidity - plays Silver
+Lucidity - plays Silver
+Lucidity - trashes Silver
+Lucidity - plays Counterfeit
+Lucidity - plays Silver
+Lucidity - plays Silver
+Lucidity - trashes Silver
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - buys Estate
+Lucidity - gains Estate
+Lucidity - buys Estate
+Lucidity - gains Estate
+Lucidity - draws Hunting Grounds, Squire, Province, Silver, Necropolis
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Squire
+Titandrake - duration Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Counterfeit
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - trashes Silver
+Titandrake - plays Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Spoils, Spoils, Province, Hunting Grounds
+ 
+---------- Lucidity: turn 16 ----------
+Lucidity - duration Caravan
+Lucidity - draws Province
+Lucidity - plays Necropolis
+Lucidity - plays Hunting Grounds
+Lucidity - draws Overgrown Estate, Province, Silver, Counterfeit
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays Counterfeit
+Lucidity - plays Silver
+Lucidity - plays Silver
+Lucidity - trashes Silver
+Lucidity - plays 1 Silver
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Copper, Horse Traders, Silver, Hunting Grounds
+Lucidity - shuffles deck
+Lucidity - draws Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Spoils
+Titandrake - plays Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Caravan, Estate, Province, Hovel, Squire
+ 
+---------- Lucidity: turn 17 ----------
+Lucidity - plays Hunting Grounds
+Lucidity - draws Counterfeit, Hunting Grounds, Caravan, Squire
+Lucidity - plays Counterfeit
+Lucidity - plays Copper
+Lucidity - plays Copper
+Lucidity - trashes Copper
+Lucidity - plays 1 Silver
+Lucidity - buys Duchy
+Lucidity - gains Duchy
+Lucidity - draws Squire, Necropolis, Province, Estate, Silver
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Caravan
+Titandrake - draws Hunting Grounds
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Hunting Grounds
+Titandrake - draws Horse Traders, Squire, Lighthouse, Squire
+Titandrake - plays Lighthouse
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Horse Traders
+Titandrake - discards Estate
+Titandrake - discards Province
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - buys Duchy
+Titandrake - trashes Hovel
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Squire, Necropolis, Counterfeit, Overgrown Estate, Hunting Grounds
+ 
+---------- Lucidity: turn 18 ----------
+Lucidity - plays Squire
+Lucidity - gains Silver
+Lucidity - plays 1 Silver
+Lucidity - buys Silver
+Lucidity - gains Silver
+Lucidity - draws Silver, Hunting Grounds, Province, Counterfeit, Caravan
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Caravan
+Titandrake - draws Counterfeit
+Titandrake - duration Lighthouse
+Titandrake - plays Necropolis
+Titandrake - plays Hunting Grounds
+Titandrake - shuffles deck
+Titandrake - draws Hunting Grounds, Estate, Spoils, Duchy
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Hunting Grounds
+Titandrake - draws Province, Counterfeit, Horse Traders, Province
+Titandrake - plays Horse Traders
+Titandrake - discards Province
+Titandrake - discards Province
+Titandrake - plays Counterfeit
+Titandrake - plays Counterfeit
+Titandrake - plays Counterfeit
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - plays Counterfeit
+Titandrake - trashes Counterfeit
+Titandrake - plays Counterfeit
+Titandrake - trashes Counterfeit
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Squire, Duchy, Squire, Squire, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 7 Squire, 3 Hunting Grounds, 2 Caravan, 2 Lighthouse, 1 Necropolis, 1 Horse Traders, 3 Silver, 1 Counterfeit, 5 Duchy, 3 Province, 3 Estate, 1 Overgrown Estate
+Titandrake - total victory points: 36
+Titandrake - turns: 18
+ 
+Lucidity - cards: 3 Hunting Grounds, 3 Caravan, 3 Squire, 1 Horse Traders, 1 Necropolis, 6 Silver, 3 Counterfeit, 5 Province, 2 Estate, 1 Duchy, 1 Overgrown Estate
+Lucidity - total victory points: 35
+Lucidity - turns: 18
+ 
+1st place: Titandrake
+2nd place: Lucidity
+ 

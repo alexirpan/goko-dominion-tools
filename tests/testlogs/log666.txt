@@ -1,0 +1,841 @@
+------------ Game Setup ------------
+Supply cards: Squire, Ambassador, Loan, Caravan, Scout, Bandit Camp, City, Counterfeit, Inn, Wharf, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+rrwoods - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+rrwoods - shuffles deck
+Titandrake - shuffles deck
+rrwoods - draws Copper, Copper, Estate, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Copper, Copper
+ 
+---------- rrwoods: turn 1 ----------
+rrwoods - plays 4 Copper
+rrwoods - buys Caravan
+rrwoods - gains Caravan
+rrwoods - draws Copper, Copper, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Estate, Estate, Copper, Copper, Copper
+ 
+---------- rrwoods: turn 2 ----------
+rrwoods - plays 3 Copper
+rrwoods - buys Silver
+rrwoods - gains Silver
+rrwoods - shuffles deck
+rrwoods - draws Estate, Caravan, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Copper, Ambassador, Caravan, Copper, Copper
+ 
+---------- rrwoods: turn 3 ----------
+rrwoods - plays Caravan
+rrwoods - draws Copper
+rrwoods - plays 3 Copper
+rrwoods - buys Ambassador
+rrwoods - gains Ambassador
+rrwoods - draws Copper, Silver, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+rrwoods - gains Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Estate, Estate, Copper, Estate, Copper
+ 
+---------- rrwoods: turn 4 ----------
+rrwoods - duration Caravan
+rrwoods - draws Estate
+rrwoods - plays 4 Copper, 1 Silver
+rrwoods - buys Inn
+rrwoods - gains Inn
+rrwoods - places Ambassador, Inn on top of deck
+rrwoods - shuffles deck
+rrwoods - draws Inn, Ambassador
+rrwoods - shuffles deck
+rrwoods - draws Copper, Copper, Estate
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Ambassador
+Titandrake - gains Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- rrwoods: turn 5 ----------
+rrwoods - plays Inn
+rrwoods - draws Estate, Silver
+rrwoods - discards Copper
+rrwoods - discards Copper
+rrwoods - plays Ambassador
+rrwoods - reveals Estate
+rrwoods - returns Estate to the Supply
+rrwoods - returns Estate to the Supply
+Titandrake - gains Estate
+rrwoods - plays 1 Silver
+rrwoods - buys Squire
+rrwoods - gains Squire
+rrwoods - draws Caravan, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Caravan, Estate, Ambassador, Estate, Ambassador
+ 
+---------- rrwoods: turn 6 ----------
+rrwoods - plays Caravan
+rrwoods - draws Estate
+rrwoods - plays 4 Copper
+rrwoods - buys Caravan
+rrwoods - gains Caravan
+rrwoods - draws Copper, Copper
+rrwoods - shuffles deck
+rrwoods - draws Copper, Copper, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+rrwoods - gains Estate
+Titandrake - draws Squire
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Estate, Copper, Estate
+ 
+---------- rrwoods: turn 7 ----------
+rrwoods - duration Caravan
+rrwoods - draws Squire
+rrwoods - plays Squire
+rrwoods - takes 2 actions
+rrwoods - plays 5 Copper
+rrwoods - buys Wharf
+rrwoods - gains Wharf
+rrwoods - draws Silver, Copper, Inn, Ambassador, Caravan
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Ambassador, Copper, Ambassador, Copper
+Titandrake - shuffles deck
+Titandrake - draws Caravan
+ 
+---------- rrwoods: turn 8 ----------
+rrwoods - plays Caravan
+rrwoods - draws Estate
+rrwoods - plays Inn
+rrwoods - draws Copper, Copper
+rrwoods - discards Estate
+rrwoods - discards Copper
+rrwoods - plays Ambassador
+rrwoods - reveals Copper
+rrwoods - returns Copper to the Supply
+rrwoods - returns Copper to the Supply
+Titandrake - gains Copper
+rrwoods - plays 1 Silver
+rrwoods - buys Squire
+rrwoods - gains Squire
+rrwoods - shuffles deck
+rrwoods - draws Copper, Squire, Inn, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+rrwoods - gains Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Caravan, Estate, Copper, Copper
+ 
+---------- rrwoods: turn 9 ----------
+rrwoods - duration Caravan
+rrwoods - draws Ambassador
+rrwoods - plays Inn
+rrwoods - draws Estate, Caravan
+rrwoods - discards Copper
+rrwoods - discards Copper
+rrwoods - plays Caravan
+rrwoods - draws Copper
+rrwoods - plays Squire
+rrwoods - takes 2 actions
+rrwoods - plays Ambassador
+rrwoods - reveals Estate
+rrwoods - returns Estate to the Supply
+Titandrake - gains Estate
+rrwoods - plays 2 Copper
+rrwoods - buys Loan
+rrwoods - gains Loan
+rrwoods - draws Copper, Estate, Squire, Silver, Wharf
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - duration Caravan
+Titandrake - draws Squire
+Titandrake - plays Caravan
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays 3 Copper
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - draws Ambassador, Silver, Ambassador, Caravan, Estate
+ 
+---------- rrwoods: turn 10 ----------
+rrwoods - duration Caravan
+rrwoods - draws Copper
+rrwoods - plays Squire
+rrwoods - takes 2 actions
+rrwoods - plays Wharf
+rrwoods - shuffles deck
+rrwoods - draws Copper, Squire
+rrwoods - plays Squire
+rrwoods - takes 2 actions
+rrwoods - plays 3 Copper, 1 Silver
+rrwoods - buys City
+rrwoods - gains City
+rrwoods - draws Copper, Copper, Inn, Copper, Loan
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+rrwoods - gains Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Silver, Copper, Ambassador, Copper
+ 
+---------- rrwoods: turn 11 ----------
+rrwoods - duration Wharf
+rrwoods - draws Ambassador, Caravan
+rrwoods - plays Caravan
+rrwoods - draws Copper
+rrwoods - plays Inn
+rrwoods - shuffles deck
+rrwoods - draws Estate, Caravan
+rrwoods - discards Copper
+rrwoods - discards Copper
+rrwoods - plays Caravan
+rrwoods - draws Squire
+rrwoods - plays Squire
+rrwoods - takes 2 buys
+rrwoods - plays Ambassador
+rrwoods - reveals Estate
+rrwoods - returns Estate to the Supply
+Titandrake - gains Estate
+rrwoods - plays Loan
+rrwoods - reveals Copper
+rrwoods - trashes Copper
+rrwoods - plays 2 Copper
+rrwoods - buys Caravan
+rrwoods - gains Caravan
+rrwoods - draws Copper, Estate, Squire, Copper, Silver
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+rrwoods - gains Estate
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Caravan, Estate, Silver, Squire, Caravan
+ 
+---------- rrwoods: turn 12 ----------
+rrwoods - duration Caravan
+rrwoods - draws City
+rrwoods - duration Caravan
+rrwoods - shuffles deck
+rrwoods - draws Caravan
+rrwoods - plays Squire
+rrwoods - takes 2 actions
+rrwoods - plays City
+rrwoods - draws Loan
+rrwoods - plays Caravan
+rrwoods - draws Ambassador
+rrwoods - plays Ambassador
+rrwoods - reveals Estate
+rrwoods - returns Estate to the Supply
+Titandrake - gains Estate
+rrwoods - plays Loan
+rrwoods - reveals Squire, Estate, Copper
+rrwoods - trashes Copper
+rrwoods - discards: Squire, Estate
+rrwoods - plays 2 Copper, 1 Silver
+rrwoods - buys City
+rrwoods - gains City
+rrwoods - draws Copper, Wharf, Inn, Copper, Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - duration Caravan
+Titandrake - draws Wharf
+Titandrake - plays Caravan
+Titandrake - draws Ambassador
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Copper, Copper
+Titandrake - plays Caravan
+Titandrake - shuffles deck
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Estate
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+rrwoods - gains Estate
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Bandit Camp
+Titandrake - gains Bandit Camp
+Titandrake - draws Copper, Estate, Wharf, Silver, Copper
+ 
+---------- rrwoods: turn 13 ----------
+rrwoods - duration Caravan
+rrwoods - shuffles deck
+rrwoods - draws City
+rrwoods - plays City
+rrwoods - draws Loan
+rrwoods - plays Inn
+rrwoods - draws Copper, Caravan
+rrwoods - discards Copper
+rrwoods - discards Copper
+rrwoods - plays Caravan
+rrwoods - draws Estate
+rrwoods - plays Wharf
+rrwoods - draws Ambassador, Squire
+rrwoods - plays Ambassador
+rrwoods - reveals Estate
+rrwoods - returns Estate to the Supply
+Titandrake - gains Estate
+rrwoods - plays Squire
+rrwoods - takes 2 actions
+rrwoods - plays 2 Copper
+rrwoods - plays Loan
+rrwoods - reveals Copper
+rrwoods - trashes Copper
+rrwoods - buys Caravan
+rrwoods - gains Caravan
+rrwoods - draws Estate, Squire, Silver, Caravan, City
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - duration Wharf
+Titandrake - draws Ambassador
+Titandrake - shuffles deck
+Titandrake - draws Squire
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - duration Caravan
+Titandrake - draws Ambassador
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Caravan, Estate
+Titandrake - plays Caravan
+Titandrake - draws Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Estate
+Titandrake - returns Estate to the Supply
+Titandrake - returns Estate to the Supply
+rrwoods - gains Estate
+Titandrake - plays 3 Copper, 3 Silver
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Copper, Bandit Camp
+Titandrake - shuffles deck
+Titandrake - draws Silver, Squire, Copper
+ 
+---------- rrwoods: turn 14 ----------
+rrwoods - duration Caravan
+rrwoods - shuffles deck
+rrwoods - draws Copper
+rrwoods - duration Wharf
+rrwoods - draws Caravan, Estate
+rrwoods - plays Caravan
+rrwoods - draws Loan
+rrwoods - plays City
+rrwoods - draws Squire
+rrwoods - plays Caravan
+rrwoods - draws Inn
+rrwoods - plays Inn
+rrwoods - draws Copper, Copper
+rrwoods - discards Estate
+rrwoods - discards Estate
+rrwoods - plays Squire
+rrwoods - takes 2 actions
+rrwoods - plays Squire
+rrwoods - takes 2 buys
+rrwoods - plays 3 Copper, 1 Silver
+rrwoods - plays Loan
+rrwoods - reveals Ambassador, City, Caravan, Copper
+rrwoods - trashes Copper
+rrwoods - discards: Ambassador, City, Caravan
+rrwoods - buys Squire
+rrwoods - gains Squire
+rrwoods - buys Inn
+rrwoods - gains Inn
+rrwoods - places Ambassador, City, Squire, Inn, Caravan on top of deck
+rrwoods - shuffles deck
+rrwoods - draws Inn, Ambassador, City, Caravan, Squire
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Wharf
+Titandrake - draws City, Silver
+Titandrake - duration Caravan
+Titandrake - draws Squire
+Titandrake - plays Bandit Camp
+Titandrake - draws Caravan
+Titandrake - gains Spoils
+Titandrake - plays Caravan
+Titandrake - draws Squire
+Titandrake - plays City
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Ambassador
+Titandrake - plays Squire
+Titandrake - gains Silver
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+Titandrake - returns Copper to the Supply
+rrwoods - gains Copper
+Titandrake - plays 2 Silver
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Caravan, Copper, Silver, Wharf, Ambassador
+ 
+---------- rrwoods: turn 15 ----------
+rrwoods - duration Caravan
+rrwoods - shuffles deck
+rrwoods - draws Estate
+rrwoods - duration Caravan
+rrwoods - draws Loan
+rrwoods - plays Caravan
+rrwoods - draws Wharf
+rrwoods - plays City
+rrwoods - draws City
+rrwoods - plays City
+rrwoods - draws Copper
+rrwoods - plays Squire
+rrwoods - takes 2 buys
+rrwoods - plays Inn
+rrwoods - draws Squire, Copper
+rrwoods - discards Estate
+rrwoods - discards Copper
+rrwoods - plays Wharf
+rrwoods - draws Squire, Silver
+rrwoods - plays Squire
+rrwoods - takes 2 buys
+rrwoods - plays Squire
+rrwoods - takes 2 buys
+rrwoods - plays 1 Copper, 1 Silver
+rrwoods - plays Loan
+rrwoods - reveals Inn, Copper
+rrwoods - trashes Copper
+rrwoods - discards Inn
+rrwoods - buys Squire
+rrwoods - gains Squire
+rrwoods - buys Inn
+rrwoods - gains Inn
+rrwoods - places Inn, Squire, Inn on top of deck
+rrwoods - shuffles deck
+rrwoods - draws Inn, Inn, Estate, Squire, Caravan
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - shuffles deck
+Titandrake - draws Bandit Camp
+Titandrake - plays Caravan
+Titandrake - draws Ambassador
+Titandrake - plays Bandit Camp
+Titandrake - draws Squire
+Titandrake - gains Spoils
+Titandrake - plays Wharf
+Titandrake - draws City, Caravan
+Titandrake - plays Caravan
+Titandrake - draws Squire
+Titandrake - plays City
+Titandrake - draws Silver
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+rrwoods - gains Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+rrwoods - gains Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys Squire
+Titandrake - gains Squire
+Titandrake - draws Squire, Wharf, Silver, Silver, Spoils
+ 
+---------- rrwoods: turn 16 ----------
+rrwoods - duration Caravan
+rrwoods - draws Copper
+rrwoods - duration Wharf
+rrwoods - shuffles deck
+rrwoods - draws Copper, Copper
+rrwoods - plays Caravan
+rrwoods - draws Estate
+rrwoods - plays Inn
+rrwoods - draws Copper, Loan
+rrwoods - discards Estate
+rrwoods - discards Estate
+rrwoods - plays Inn
+rrwoods - draws Copper, Inn
+rrwoods - discards Copper
+rrwoods - discards Copper
+rrwoods - plays Squire
+rrwoods - takes 2 buys
+rrwoods - plays Inn
+rrwoods - draws Caravan, Squire
+rrwoods - discards Copper
+rrwoods - discards Copper
+rrwoods - plays Caravan
+rrwoods - draws City
+rrwoods - plays City
+rrwoods - draws Caravan
+rrwoods - plays Caravan
+rrwoods - draws Squire
+rrwoods - plays Squire
+rrwoods - takes 2 buys
+rrwoods - plays Squire
+rrwoods - takes 2 buys
+rrwoods - plays Copper
+rrwoods - plays Loan
+rrwoods - reveals Silver
+rrwoods - discards Silver
+rrwoods - buys City
+rrwoods - gains City
+rrwoods - draws Ambassador, City, Squire
+rrwoods - shuffles deck
+rrwoods - draws Squire, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - duration Caravan
+Titandrake - draws Squire
+Titandrake - duration Wharf
+Titandrake - draws Wharf
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - draws Silver
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws City, Ambassador
+Titandrake - plays City
+Titandrake - draws Squire
+Titandrake - plays Wharf
+Titandrake - draws Bandit Camp, Silver
+Titandrake - plays Bandit Camp
+Titandrake - draws Squire
+Titandrake - gains Spoils
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+rrwoods - gains Copper
+Titandrake - plays 4 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Wharf
+Titandrake - gains Wharf
+Titandrake - draws Caravan, Ambassador, Spoils, City, Caravan
+ 
+---------- rrwoods: turn 17 ----------
+rrwoods - duration Caravan
+rrwoods - draws Caravan
+rrwoods - duration Caravan
+rrwoods - draws Inn
+rrwoods - duration Caravan
+rrwoods - draws Wharf
+rrwoods - plays City
+rrwoods - draws Silver
+rrwoods - plays Inn
+rrwoods - draws City, Copper
+rrwoods - discards Copper
+rrwoods - discards Silver
+rrwoods - plays City
+rrwoods - draws Squire
+rrwoods - plays Wharf
+rrwoods - draws Squire, Copper
+rrwoods - plays Caravan
+rrwoods - draws Copper
+rrwoods - plays Squire
+rrwoods - gains Silver
+rrwoods - plays Squire
+rrwoods - gains Silver
+rrwoods - plays Squire
+rrwoods - takes 2 actions
+rrwoods - plays Squire
+rrwoods - gains Silver
+rrwoods - plays Ambassador
+rrwoods - reveals Copper
+rrwoods - returns Copper to the Supply
+rrwoods - returns Copper to the Supply
+Titandrake - gains Copper
+rrwoods - plays 1 Copper
+rrwoods - buys City
+rrwoods - gains City
+rrwoods - draws Estate, Inn, Loan, Inn, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - duration Wharf
+Titandrake - draws Squire
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - duration Wharf
+Titandrake - draws Silver, Squire
+Titandrake - plays Caravan
+Titandrake - draws Caravan
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays Caravan
+Titandrake - draws Squire
+Titandrake - plays City
+Titandrake - draws Silver
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays 4 Silver
+Titandrake - plays Spoils
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Wharf, Bandit Camp, Ambassador, Squire, Caravan
+ 
+---------- rrwoods: turn 18 ----------
+rrwoods - duration Wharf
+rrwoods - draws Copper, City
+rrwoods - duration Caravan
+rrwoods - shuffles deck
+rrwoods - draws Squire
+rrwoods - plays City
+rrwoods - draws Inn
+rrwoods - plays Inn
+rrwoods - draws City, Squire
+rrwoods - discards Estate
+rrwoods - discards Estate
+rrwoods - plays City
+rrwoods - draws Caravan
+rrwoods - plays Caravan
+rrwoods - draws Squire
+rrwoods - plays Inn
+rrwoods - draws Silver, Caravan
+rrwoods - discards Copper
+rrwoods - discards Loan
+rrwoods - plays Caravan
+rrwoods - draws City
+rrwoods - plays City
+rrwoods - draws Copper
+rrwoods - plays Inn
+rrwoods - draws Ambassador, City
+rrwoods - discards Ambassador
+rrwoods - discards Copper
+rrwoods - plays City
+rrwoods - draws Copper
+rrwoods - plays Squire
+rrwoods - gains Silver
+rrwoods - plays Squire
+rrwoods - gains Silver
+rrwoods - plays Squire
+rrwoods - gains Silver
+rrwoods - plays 1 Silver, 1 Copper
+rrwoods - buys City
+rrwoods - gains City
+rrwoods - draws Silver, Squire, Silver, Silver, Copper
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - duration Caravan
+Titandrake - draws Copper
+Titandrake - duration Caravan
+Titandrake - draws Spoils
+Titandrake - duration Caravan
+Titandrake - draws Wharf
+Titandrake - plays Caravan
+Titandrake - draws Province
+Titandrake - plays Bandit Camp
+Titandrake - draws Squire
+Titandrake - gains Spoils
+Titandrake - plays Wharf
+Titandrake - draws City
+Titandrake - shuffles deck
+Titandrake - draws Silver
+Titandrake - plays City
+Titandrake - draws Silver
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Wharf
+Titandrake - draws Ambassador, Province
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+rrwoods - gains Copper
+Titandrake - plays Ambassador
+Titandrake - reveals Copper
+Titandrake - returns Copper to the Supply
+rrwoods - gains Copper
+Titandrake - plays 2 Silver
+Titandrake - plays Spoils
+Titandrake - buys Caravan
+Titandrake - gains Caravan
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Silver, Silver, Wharf, Wharf, City
+ 
+---------- rrwoods: turn 19 ----------
+rrwoods - duration Caravan
+rrwoods - draws Caravan
+rrwoods - duration Caravan
+rrwoods - shuffles deck
+rrwoods - draws Loan
+rrwoods - plays Caravan
+rrwoods - draws Copper
+rrwoods - plays Squire
+rrwoods - takes 2 buys
+rrwoods - plays 3 Silver, 2 Copper
+rrwoods - plays Loan
+rrwoods - reveals Copper
+rrwoods - trashes Copper
+rrwoods - buys Province
+rrwoods - gains Province
+rrwoods - buys Squire
+rrwoods - gains Squire
+rrwoods - draws Ambassador, City, City, Inn, Silver
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - duration Caravan
+Titandrake - draws Squire
+Titandrake - duration Wharf
+Titandrake - draws Squire, City
+Titandrake - duration Wharf
+Titandrake - draws Squire, Spoils
+Titandrake - plays City
+Titandrake - shuffles deck
+Titandrake - draws Caravan, Caravan
+Titandrake - plays Wharf
+Titandrake - draws Caravan, Bandit Camp
+Titandrake - plays Bandit Camp
+Titandrake - draws Province
+Titandrake - gains Spoils
+Titandrake - plays City
+Titandrake - draws Squire, Ambassador
+Titandrake - plays Wharf
+Titandrake - draws City, City
+Titandrake - plays City
+Titandrake - draws Caravan, Province
+Titandrake - plays City
+Titandrake - draws Squire, Silver
+Titandrake - plays Caravan
+Titandrake - draws Ambassador
+Titandrake - plays Caravan
+Titandrake - draws Silver
+Titandrake - plays Caravan
+Titandrake - shuffles deck
+Titandrake - draws Spoils
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 actions
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Squire
+Titandrake - takes 2 buys
+Titandrake - plays Ambassador
+Titandrake - reveals Caravan
+rrwoods - gains Caravan
+Titandrake - plays 4 Silver
+Titandrake - plays Spoils
+Titandrake - plays Spoils
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Silver, Province, Squire
+ 
+------------ Game Over ------------
+Titandrake - cards: 5 Squire, 5 City, 5 Caravan, 4 Wharf, 2 Ambassador, 1 Bandit Camp, 4 Silver, 3 Province, 1 Duchy
+Titandrake - total victory points: 21
+Titandrake - turns: 19
+ 
+rrwoods - cards: 5 Squire, 5 Caravan, 5 City, 3 Inn, 1 Ambassador, 1 Wharf, 7 Silver, 5 Copper, 1 Loan, 2 Estate, 1 Province
+rrwoods - total victory points: 8
+rrwoods - turns: 19
+ 
+1st place: Titandrake
+2nd place: rrwoods
+ 

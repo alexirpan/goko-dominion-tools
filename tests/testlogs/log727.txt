@@ -1,0 +1,392 @@
+------------ Game Setup ------------
+Supply cards: Hamlet, Secret Chamber, Chancellor, Hermit, Woodcutter, Smithy, Talisman, Mandarin, Mint, Upgrade, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+Lucidity - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Lucidity - shuffles deck
+Titandrake - shuffles deck
+Lucidity - draws Estate, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Smithy
+Titandrake - gains Smithy
+Titandrake - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- Lucidity: turn 1 ----------
+Lucidity - plays 3 Copper
+Lucidity - buys Hermit
+Lucidity - gains Hermit
+Lucidity - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Estate, Copper
+ 
+---------- Lucidity: turn 2 ----------
+Lucidity - plays 4 Copper
+Lucidity - buys Smithy
+Lucidity - gains Smithy
+Lucidity - shuffles deck
+Lucidity - draws Estate, Copper, Estate, Smithy, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - draws Smithy, Copper, Copper, Silver, Copper
+ 
+---------- Lucidity: turn 3 ----------
+Lucidity - plays Smithy
+Lucidity - draws Estate, Copper, Hermit
+Lucidity - plays 3 Copper
+Lucidity - buys Silver
+Lucidity - gains Silver
+Lucidity - draws Copper, Copper, Copper, Copper
+Lucidity - shuffles deck
+Lucidity - draws Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Smithy
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - buys Mint
+Titandrake - trashes Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - gains Mint
+Titandrake - draws Copper, Estate, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Mint
+ 
+---------- Lucidity: turn 4 ----------
+Lucidity - plays 5 Copper
+Lucidity - buys Mint
+Lucidity - trashes Copper, Copper, Copper, Copper, Copper
+Lucidity - gains Mint
+Lucidity - draws Estate, Copper, Hermit, Estate, Estate
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - draws Smithy, Silver
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Mint
+ 
+---------- Lucidity: turn 5 ----------
+Lucidity - plays Hermit
+Lucidity - trashes Estate
+Lucidity - gains Silver
+Lucidity - trashes Hermit
+Lucidity - gains Madman
+Lucidity - draws Smithy, Silver, Copper
+Lucidity - shuffles deck
+Lucidity - draws Silver, Mint
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Mint
+Titandrake - reveals Silver
+Titandrake - gains Silver
+Titandrake - plays 1 Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Hamlet, Silver
+ 
+---------- Lucidity: turn 6 ----------
+Lucidity - plays Smithy
+Lucidity - draws Estate, Madman, Estate
+Lucidity - plays 2 Silver, 1 Copper
+Lucidity - buys Upgrade
+Lucidity - gains Upgrade
+Lucidity - draws Copper
+Lucidity - shuffles deck
+Lucidity - draws Smithy, Estate, Madman, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Estate
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Smithy, Mint, Estate
+Titandrake - shuffles deck
+Titandrake - draws Silver, Estate
+ 
+---------- Lucidity: turn 7 ----------
+Lucidity - plays Madman
+Lucidity - draws Upgrade, Mint, Silver, Estate
+Lucidity - plays Upgrade
+Lucidity - draws Copper
+Lucidity - trashes Mint
+Lucidity - gains Gold
+Lucidity - plays 2 Copper, 2 Silver
+Lucidity - buys Mint
+Lucidity - trashes Copper, Silver, Silver, Copper
+Lucidity - gains Mint
+Lucidity - shuffles deck
+Lucidity - draws Upgrade, Mint, Gold, Estate, Smithy
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Smithy
+Titandrake - draws Estate, Silver, Copper
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Upgrade
+Titandrake - gains Upgrade
+Titandrake - draws Upgrade, Hamlet
+Titandrake - shuffles deck
+Titandrake - draws Mint, Estate, Copper
+ 
+---------- Lucidity: turn 8 ----------
+Lucidity - plays Upgrade
+Lucidity - draws Estate
+Lucidity - trashes Estate
+Lucidity - gains Hermit
+Lucidity - plays Mint
+Lucidity - reveals Gold
+Lucidity - gains Gold
+Lucidity - plays 1 Gold
+Lucidity - buys Hamlet
+Lucidity - gains Hamlet
+Lucidity - shuffles deck
+Lucidity - draws Mint, Hamlet, Gold, Hermit, Smithy
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Silver
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Hamlet
+Titandrake - draws Estate
+Titandrake - plays Mint
+Titandrake - reveals Silver
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Smithy, Estate, Silver, Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- Lucidity: turn 9 ----------
+Lucidity - plays Hamlet
+Lucidity - draws Gold
+Lucidity - discards Mint
+Lucidity - receives one action
+Lucidity - plays Smithy
+Lucidity - draws Upgrade, Estate
+Lucidity - shuffles deck
+Lucidity - draws Mint
+Lucidity - plays Upgrade
+Lucidity - trashes Estate
+Lucidity - gains Hermit
+Lucidity - plays Mint
+Lucidity - reveals Gold
+Lucidity - gains Gold
+Lucidity - plays 2 Gold
+Lucidity - buys Gold
+Lucidity - gains Gold
+Lucidity - shuffles deck
+Lucidity - draws Smithy, Hamlet, Gold, Hermit, Mint
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Mint
+Titandrake - trashes Smithy
+Titandrake - gains Mandarin
+Titandrake - plays Mint
+Titandrake - reveals Silver
+Titandrake - gains Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Hamlet
+Titandrake - gains Hamlet
+Titandrake - draws Hamlet, Hamlet, Silver, Estate, Silver
+ 
+---------- Lucidity: turn 10 ----------
+Lucidity - plays Hamlet
+Lucidity - draws Gold
+Lucidity - discards Hermit
+Lucidity - receives one action
+Lucidity - plays Smithy
+Lucidity - draws Gold, Hermit, Gold
+Lucidity - plays Mint
+Lucidity - reveals Gold
+Lucidity - gains Gold
+Lucidity - plays 4 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Upgrade
+Lucidity - shuffles deck
+Lucidity - draws Hermit, Gold, Gold, Mint
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays Hamlet
+Titandrake - draws Upgrade
+Titandrake - plays Upgrade
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays 3 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Upgrade, Silver, Mint, Silver, Hamlet
+ 
+---------- Lucidity: turn 11 ----------
+Lucidity - plays Upgrade
+Lucidity - draws Province
+Lucidity - trashes Hermit
+Lucidity - gains Smithy
+Lucidity - plays Mint
+Lucidity - reveals Gold
+Lucidity - gains Gold
+Lucidity - plays 2 Gold
+Lucidity - buys Gold
+Lucidity - gains Gold
+Lucidity - draws Gold, Gold, Smithy, Hamlet, Gold
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Mandarin
+Titandrake - trashes Silver
+Titandrake - gains Smithy
+Titandrake - plays Hamlet
+Titandrake - draws Copper
+Titandrake - plays Mandarin
+Titandrake - places Mint on top of deck
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Mint
+Titandrake - shuffles deck
+Titandrake - draws Estate, Silver, Gold, Upgrade
+ 
+---------- Lucidity: turn 12 ----------
+Lucidity - plays Hamlet
+Lucidity - draws Hermit
+Lucidity - discards Hermit
+Lucidity - receives one action
+Lucidity - discards Gold
+Lucidity - receives one buy
+Lucidity - plays Smithy
+Lucidity - shuffles deck
+Lucidity - draws Gold, Gold, Smithy
+Lucidity - plays Smithy
+Lucidity - draws Gold, Gold, Upgrade
+Lucidity - plays 6 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Gold, Province, Mint, Hermit
+Lucidity - shuffles deck
+Lucidity - draws Province
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Hamlet
+Titandrake - trashes Estate
+Titandrake - gains Silver
+Titandrake - plays Hamlet
+Titandrake - draws Silver
+Titandrake - plays Mint
+Titandrake - reveals Gold
+Titandrake - gains Gold
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Smithy, Copper, Gold, Silver, Hamlet
+ 
+---------- Lucidity: turn 13 ----------
+Lucidity - plays Mint
+Lucidity - reveals Gold
+Lucidity - gains Gold
+Lucidity - plays 1 Gold
+Lucidity - buys Hamlet
+Lucidity - gains Hamlet
+Lucidity - draws Smithy, Gold, Gold, Gold, Gold
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Hamlet
+Titandrake - draws Upgrade
+Titandrake - discards Copper
+Titandrake - receives one action
+Titandrake - plays Smithy
+Titandrake - draws Hamlet, Silver, Silver
+Titandrake - plays Hamlet
+Titandrake - draws Mandarin
+Titandrake - discards Upgrade
+Titandrake - receives one buy
+Titandrake - plays Mandarin
+Titandrake - places Gold on top of deck
+Titandrake - plays 3 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Province, Mint, Silver, Upgrade
+ 
+---------- Lucidity: turn 14 ----------
+Lucidity - plays 4 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Gold, Hamlet, Province, Gold, Smithy
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Gold
+Titandrake - trashes Mint
+Titandrake - gains Gold
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Mandarin, Silver, Upgrade, Silver, Smithy
+ 
+---------- Lucidity: turn 15 ----------
+Lucidity - plays Hamlet
+Lucidity - draws Upgrade
+Lucidity - discards Province
+Lucidity - receives one action
+Lucidity - plays Smithy
+Lucidity - shuffles deck
+Lucidity - draws Gold, Gold, Mint
+Lucidity - plays Upgrade
+Lucidity - draws Province
+Lucidity - trashes Mint
+Lucidity - gains Gold
+Lucidity - plays 4 Gold
+Lucidity - buys Province
+Lucidity - gains Province
+Lucidity - draws Gold, Gold, Hamlet, Province, Province
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Upgrade
+Titandrake - draws Gold
+Titandrake - trashes Smithy
+Titandrake - gains Duchy
+Titandrake - plays Mandarin
+Titandrake - places Silver on top of deck
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Hamlet, Silver, Silver, Hamlet
+ 
+------------ Game Over ------------
+Lucidity - cards: 2 Hamlet, 2 Smithy, 1 Upgrade, 1 Hermit, 9 Gold, 5 Province
+Lucidity - total victory points: 30
+Lucidity - turns: 15
+ 
+Titandrake - cards: 3 Hamlet, 2 Upgrade, 1 Mandarin, 6 Silver, 5 Gold, 1 Copper, 3 Province, 1 Duchy
+Titandrake - total victory points: 21
+Titandrake - turns: 16
+ 
+1st place: Lucidity
+2nd place: Titandrake
+ 

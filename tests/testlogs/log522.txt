@@ -1,0 +1,497 @@
+------------ Game Setup ------------
+Supply cards: Embargo, Apothecary, Lookout, Sage, Steward, Swindler, Feodum, Nomad Camp, Sea Hag, Venture, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Ian - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Ian - shuffles deck
+Titandrake - shuffles deck
+Ian - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Copper, Estate, Copper, Estate, Estate
+ 
+---------- Ian: turn 1 ----------
+Ian - plays 4 Copper
+Ian - buys Sea Hag
+Ian - gains Sea Hag
+Ian - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Ian: turn 2 ----------
+Ian - plays 3 Copper
+Ian - buys Steward
+Ian - gains Steward
+Ian - shuffles deck
+Ian - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Ian: turn 3 ----------
+Ian - plays 4 Copper
+Ian - buys Silver
+Ian - gains Silver
+Ian - draws Steward, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Lookout
+Titandrake - gains Lookout
+Titandrake - draws Embargo, Copper, Sea Hag, Copper, Copper
+ 
+---------- Ian: turn 4 ----------
+Ian - plays Steward
+Ian - trashes Estate, Copper
+Ian - plays 2 Copper
+Ian - buys Embargo
+Ian - gains Embargo
+Ian - draws Estate, Sea Hag
+Ian - shuffles deck
+Ian - draws Copper, Embargo, Steward
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Sea Hag
+Ian - discards Silver
+Ian - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Estate, Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Sea Hag, Lookout
+ 
+---------- Ian: turn 5 ----------
+Ian - plays Sea Hag
+Titandrake - discards Embargo
+Titandrake - gains Curse
+Ian - draws Curse, Estate, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Silver on top of deck
+Titandrake - plays Sea Hag
+Ian - discards Copper
+Ian - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Silver, Estate, Copper, Estate, Copper
+ 
+---------- Ian: turn 6 ----------
+Ian - plays 3 Copper
+Ian - buys Lookout
+Ian - gains Lookout
+Ian - draws Curse, Copper
+Ian - shuffles deck
+Ian - draws Curse, Copper, Steward
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Sea Hag, Estate, Copper
+ 
+---------- Ian: turn 7 ----------
+Ian - plays Steward
+Ian - trashes Curse, Curse
+Ian - plays 2 Copper
+Ian - buys Embargo
+Ian - gains Embargo
+Ian - draws Embargo, Estate, Copper, Lookout, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Sea Hag
+Ian - discards Copper
+Ian - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper, Estate, Silver, Embargo
+ 
+---------- Ian: turn 8 ----------
+Ian - plays Lookout
+Ian - trashes Curse
+Ian - discards Estate
+Ian - places Sea Hag on top of deck
+Ian - plays Embargo
+Ian - embargoes Silver
+Ian - trashes Embargo
+Ian - plays 2 Copper
+Ian - buys Potion
+Ian - gains Potion
+Ian - draws Sea Hag, Silver, Copper
+Ian - shuffles deck
+Ian - draws Steward, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Venture
+Titandrake - trashes Embargo
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Silver, Lookout, Copper, Estate, Copper
+ 
+---------- Ian: turn 9 ----------
+Ian - plays Sea Hag
+Titandrake - discards Embargo
+Titandrake - gains Curse
+Ian - plays 1 Silver, 1 Copper
+Ian - buys Swindler
+Ian - gains Swindler
+Ian - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Lookout
+Titandrake - shuffles deck
+Titandrake - trashes Curse
+Titandrake - discards Copper
+Titandrake - places Copper on top of deck
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Swindler
+Titandrake - gains Swindler
+Titandrake - draws Copper, Copper, Silver, Embargo, Silver
+ 
+---------- Ian: turn 10 ----------
+Ian - plays 5 Copper
+Ian - buys Nomad Camp
+Ian - gains Nomad Camp
+Ian - draws Nomad Camp, Potion, Lookout, Embargo, Estate
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Apothecary
+Titandrake - trashes Embargo
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Estate, Copper, Estate, Sea Hag, Copper
+ 
+---------- Ian: turn 11 ----------
+Ian - plays Lookout
+Ian - shuffles deck
+Ian - trashes Estate
+Ian - discards Copper
+Ian - places Steward on top of deck
+Ian - plays Embargo
+Ian - embargoes Lookout
+Ian - trashes Embargo
+Ian - plays 1 Potion
+Ian - buys Apothecary
+Ian - gains Curse
+Ian - gains Apothecary
+Ian - draws Steward, Copper, Silver, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Sea Hag
+Ian - discards Swindler
+Ian - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Estate, Swindler
+ 
+---------- Ian: turn 12 ----------
+Ian - plays Steward
+Ian - takes 2 coins
+Ian - plays 3 Copper, 1 Silver
+Ian - buys Gold
+Ian - gains Gold
+Ian - draws Curse, Sea Hag, Copper, Copper
+Ian - shuffles deck
+Ian - draws Copper
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Swindler
+Ian - reveals Estate
+Ian - trashes Estate
+Ian - gains Estate
+Titandrake - plays 1 Gold, 1 Copper, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- Ian: turn 13 ----------
+Ian - plays Sea Hag
+Titandrake - discards Silver
+Titandrake - gains Curse
+Ian - plays 3 Copper
+Ian - buys Swindler
+Ian - gains Swindler
+Ian - draws Copper, Nomad Camp, Gold, Curse, Lookout
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Nomad Camp
+Titandrake - gains Nomad Camp
+Titandrake - draws Nomad Camp, Curse, Silver, Estate, Sea Hag
+ 
+---------- Ian: turn 14 ----------
+Ian - plays Lookout
+Ian - trashes Copper
+Ian - discards Steward
+Ian - places Silver on top of deck
+Ian - plays Nomad Camp
+Ian - plays 1 Copper, 1 Gold
+Ian - buys Gold
+Ian - gains Gold
+Ian - draws Silver, Apothecary, Swindler, Potion, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Sea Hag
+Ian - shuffles deck
+Ian - discards Copper
+Ian - gains Curse
+Titandrake - plays Silver
+Titandrake - buys Embargo
+Titandrake - gains Embargo
+Titandrake - draws Copper, Province, Estate, Lookout, Embargo
+ 
+---------- Ian: turn 15 ----------
+Ian - plays Apothecary
+Ian - draws Curse
+Ian - reveals: Copper, Lookout, Copper, Estate
+Ian - places Estate on top of deck
+Ian - places Lookout on top of deck
+Ian - plays Swindler
+Titandrake - shuffles deck
+Titandrake - reveals Copper
+Titandrake - trashes Copper
+Titandrake - gains Curse
+Ian - plays 3 Copper, 1 Silver, 1 Potion
+Ian - buys Gold
+Ian - gains Gold
+Ian - draws Lookout, Estate, Steward, Nomad Camp, Sea Hag
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Sea Hag
+Titandrake - places Silver on top of deck
+Titandrake - plays Embargo
+Titandrake - embargoes Apothecary
+Titandrake - trashes Embargo
+Titandrake - plays Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Embargo, Copper, Estate, Silver
+ 
+---------- Ian: turn 16 ----------
+Ian - plays Lookout
+Ian - trashes Copper
+Ian - discards Swindler
+Ian - places Gold on top of deck
+Ian - plays Steward
+Ian - draws Gold, Gold
+Ian - plays 2 Gold
+Ian - buys Gold
+Ian - gains Gold
+Ian - draws Curse, Curse
+Ian - shuffles deck
+Ian - draws Gold, Silver, Apothecary
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Embargo
+Titandrake - embargoes Duchy
+Titandrake - trashes Embargo
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Silver, Estate, Swindler
+ 
+---------- Ian: turn 17 ----------
+Ian - plays Apothecary
+Ian - draws Steward
+Ian - reveals: Copper, Nomad Camp, Estate, Potion
+Ian - places Nomad Camp on top of deck
+Ian - places Estate on top of deck
+Ian - plays Steward
+Ian - trashes Curse, Curse
+Ian - plays 1 Gold, 1 Silver, 1 Copper, 1 Potion
+Ian - buys Gold
+Ian - gains Gold
+Ian - draws Estate, Nomad Camp, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Swindler
+Ian - reveals Gold
+Ian - trashes Gold
+Ian - gains Gold
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Province, Nomad Camp, Copper, Copper, Gold
+ 
+---------- Ian: turn 18 ----------
+Ian - plays Nomad Camp
+Ian - plays 3 Copper
+Ian - buys Venture
+Ian - gains Venture
+Ian - draws Lookout, Sea Hag, Swindler, Gold, Swindler
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Nomad Camp
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper, Silver, Silver, Gold
+ 
+---------- Ian: turn 19 ----------
+Ian - plays Lookout
+Ian - shuffles deck
+Ian - trashes Curse
+Ian - discards Potion
+Ian - places Gold on top of deck
+Ian - plays Swindler
+Titandrake - reveals Nomad Camp
+Titandrake - trashes Nomad Camp
+Titandrake - gains Sea Hag
+Ian - plays 1 Gold
+Ian - buys Venture
+Ian - gains Venture
+Ian - draws Gold, Venture, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 3 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Copper, Copper, Silver, Estate
+ 
+---------- Ian: turn 20 ----------
+Ian - plays 2 Copper, 1 Gold
+Ian - plays Venture
+Ian - reveals Steward, Nomad Camp, Gold
+Ian - discards: Steward, Nomad Camp
+Ian - plays Gold
+Ian - buys Province
+Ian - gains Province
+Ian - draws Apothecary, Gold, Silver, Copper, Gold
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Venture
+Titandrake - gains Venture
+Titandrake - draws Gold, Province, Estate, Gold, Sea Hag
+ 
+---------- Ian: turn 21 ----------
+Ian - plays Apothecary
+Ian - draws Copper
+Ian - shuffles deck
+Ian - reveals: Venture, Gold, Copper, Gold
+Ian - places Gold on top of deck
+Ian - places Gold on top of deck
+Ian - places Venture on top of deck
+Ian - plays 3 Copper, 2 Gold, 1 Silver
+Ian - buys Province
+Ian - gains Province
+Ian - draws Venture, Gold, Gold, Copper, Potion
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Sea Hag
+Ian - discards Province
+Titandrake - plays 2 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Swindler, Province, Lookout, Copper, Gold
+ 
+---------- Ian: turn 22 ----------
+Ian - plays 2 Gold, 1 Copper, 1 Potion
+Ian - plays Venture
+Ian - reveals Swindler, Steward, Gold
+Ian - discards: Swindler, Steward
+Ian - plays Gold
+Ian - buys Province
+Ian - gains Province
+Ian - draws Venture, Nomad Camp, Estate, Swindler, Lookout
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Lookout
+Titandrake - trashes Curse
+Titandrake - discards Estate
+Titandrake - places Copper on top of deck
+Titandrake - plays Swindler
+Ian - reveals Sea Hag
+Ian - trashes Sea Hag
+Ian - gains Sea Hag
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate, Copper, Province, Estate
+ 
+---------- Ian: turn 23 ----------
+Ian - plays Lookout
+Ian - shuffles deck
+Ian - trashes Silver
+Ian - discards Province
+Ian - places Gold on top of deck
+Ian - plays Swindler
+Titandrake - reveals Province
+Titandrake - trashes Province
+Titandrake - gains Province
+Ian - plays Venture
+Ian - reveals Gold
+Ian - plays Gold
+Ian - buys Duchy
+Ian - gains Duchy
+Ian - draws Apothecary, Province, Province, Swindler, Gold
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Estate, Gold, Copper, Venture, Province
+ 
+---------- Ian: turn 24 ----------
+Ian - plays Apothecary
+Ian - draws Sea Hag
+Ian - reveals: Copper, Gold, Gold, Potion
+Ian - places Gold on top of deck
+Ian - places Gold on top of deck
+Ian - plays Swindler
+Titandrake - reveals Sea Hag
+Titandrake - trashes Sea Hag
+Titandrake - gains Sea Hag
+Ian - plays 1 Gold, 1 Copper, 1 Potion
+Ian - buys Duchy
+Ian - gains Duchy
+Ian - draws Gold, Gold, Gold, Copper, Copper
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Gold
+Titandrake - plays Copper
+Titandrake - plays Venture
+Titandrake - reveals Duchy, Gold
+Titandrake - discards Duchy
+Titandrake - plays Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Lookout, Copper, Swindler, Silver, Duchy
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Sea Hag, 1 Lookout, 1 Swindler, 6 Copper, 4 Silver, 4 Gold, 1 Venture, 4 Province, 4 Estate, 2 Duchy
+Titandrake - total victory points: 34
+Titandrake - turns: 24
+ 
+Ian - cards: 2 Swindler, 1 Lookout, 1 Nomad Camp, 1 Apothecary, 1 Sea Hag, 1 Steward, 5 Gold, 4 Copper, 2 Venture, 1 Potion, 3 Province, 2 Duchy, 1 Estate
+Ian - total victory points: 25
+Ian - turns: 24
+ 
+1st place: Titandrake
+2nd place: Ian
+ 

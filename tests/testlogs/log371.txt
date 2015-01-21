@@ -1,0 +1,515 @@
+------------ Game Setup ------------
+Supply cards: Stonemason, Tunnel, Navigator, Scout, Spice Merchant, Taxman, Treasure Map, Young Witch, Merchant Guild, Royal Seal, Witch, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Bane card: Stonemason
+Rating system: pro
+SM.SM - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+SM.SM - shuffles deck
+Titandrake - shuffles deck
+SM.SM - draws Copper, Estate, Copper, Copper, Copper
+Titandrake - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Copper, Estate, Copper, Copper, Estate
+ 
+---------- SM.SM: turn 1 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Young Witch
+SM.SM - gains Young Witch
+SM.SM - draws Copper, Estate, Estate, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - shuffles deck
+Titandrake - draws Copper, Estate, Tunnel, Copper, Copper
+ 
+---------- SM.SM: turn 2 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Tunnel
+SM.SM - gains Tunnel
+SM.SM - shuffles deck
+SM.SM - draws Copper, Tunnel, Estate, Copper, Estate
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Copper, Young Witch, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 3 ----------
+SM.SM - plays 2 Copper
+SM.SM - buys Stonemason
+SM.SM - gains Stonemason
+SM.SM - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Estate
+Titandrake - discards Estate
+Titandrake - discards Estate
+SM.SM - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Estate, Estate, Copper, Copper, Tunnel
+ 
+---------- SM.SM: turn 4 ----------
+SM.SM - plays 4 Copper
+SM.SM - buys Spice Merchant
+SM.SM - gains Spice Merchant
+SM.SM - draws Young Witch, Copper
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper, Curse
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Stonemason
+Titandrake - gains Stonemason
+Titandrake - draws Copper, Young Witch, Copper, Estate, Copper
+ 
+---------- SM.SM: turn 5 ----------
+SM.SM - plays Young Witch
+SM.SM - draws Copper, Spice Merchant
+SM.SM - discards Estate
+SM.SM - discards Curse
+Titandrake - gains Curse
+SM.SM - plays 3 Copper
+SM.SM - buys Tunnel
+SM.SM - gains Tunnel
+SM.SM - draws Tunnel, Copper, Estate, Copper, Stonemason
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Young Witch
+Titandrake - discards Estate
+Titandrake - discards Young Witch
+SM.SM - reveals bane Stonemason
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Tunnel, Copper
+Titandrake - shuffles deck
+Titandrake - draws Young Witch, Young Witch, Copper
+ 
+---------- SM.SM: turn 6 ----------
+SM.SM - plays Stonemason
+SM.SM - trashes Copper
+SM.SM - draws Copper, Copper, Estate
+SM.SM - shuffles deck
+SM.SM - draws Copper, Tunnel
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Copper
+Titandrake - discards Tunnel
+Titandrake - discards Young Witch
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+SM.SM - gains Curse
+Titandrake - plays 4 Copper
+Titandrake - buys Spice Merchant
+Titandrake - gains Spice Merchant
+Titandrake - draws Estate, Copper, Copper, Stonemason, Estate
+ 
+---------- SM.SM: turn 7 ----------
+SM.SM - plays 3 Copper
+SM.SM - buys Tunnel
+SM.SM - gains Tunnel
+SM.SM - draws Curse, Copper, Spice Merchant, Young Witch, Tunnel
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Stonemason
+Titandrake - trashes Copper
+Titandrake - draws Curse, Tunnel, Silver, Copper, Estate
+ 
+---------- SM.SM: turn 8 ----------
+SM.SM - plays Spice Merchant
+SM.SM - trashes Copper
+SM.SM - chooses two cards and one action
+SM.SM - draws Copper, Copper
+SM.SM - plays Young Witch
+SM.SM - draws Estate, Stonemason
+SM.SM - discards Tunnel
+SM.SM - discards Estate
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+Titandrake - gains Curse
+SM.SM - plays 2 Copper
+SM.SM - buys Stonemason
+SM.SM - gains Stonemason
+SM.SM - draws Estate
+SM.SM - shuffles deck
+SM.SM - draws Estate, Copper, Young Witch, Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - shuffles deck
+Titandrake - draws Gold, Estate, Estate, Copper, Tunnel
+ 
+---------- SM.SM: turn 9 ----------
+SM.SM - plays Young Witch
+SM.SM - draws Gold, Copper
+SM.SM - discards Estate
+SM.SM - discards Estate
+Titandrake - gains Curse
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Tunnel
+SM.SM - gains Tunnel
+SM.SM - draws Spice Merchant, Curse, Copper, Stonemason, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 1 Gold, 1 Copper
+Titandrake - buys Tunnel
+Titandrake - gains Tunnel
+Titandrake - draws Young Witch, Spice Merchant, Tunnel, Curse, Estate
+ 
+---------- SM.SM: turn 10 ----------
+SM.SM - plays Spice Merchant
+SM.SM - trashes Copper
+SM.SM - chooses two cards and one action
+SM.SM - draws Curse, Tunnel
+SM.SM - plays Stonemason
+SM.SM - trashes Curse
+SM.SM - draws Tunnel, Stonemason, Copper, Tunnel
+SM.SM - shuffles deck
+SM.SM - draws Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Curse, Stonemason
+Titandrake - discards Tunnel
+Titandrake - discards Estate
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+SM.SM - reveals bane Stonemason
+Titandrake - draws Copper, Copper, Copper, Copper, Silver
+ 
+---------- SM.SM: turn 11 ----------
+SM.SM - plays Stonemason
+SM.SM - trashes Copper
+SM.SM - draws Curse, Stonemason, Spice Merchant, Tunnel, Estate
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Tunnel, Copper, Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Gold, Tunnel
+ 
+---------- SM.SM: turn 12 ----------
+SM.SM - plays Stonemason
+SM.SM - trashes Curse
+SM.SM - draws Copper, Copper, Estate, Tunnel, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Tunnel, Curse
+Titandrake - discards Tunnel
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+SM.SM - gains Curse
+Titandrake - plays 1 Copper, 1 Gold
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Gold, Stonemason, Copper, Curse
+ 
+---------- SM.SM: turn 13 ----------
+SM.SM - draws Young Witch, Gold
+SM.SM - shuffles deck
+SM.SM - draws Tunnel, Spice Merchant, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Stonemason
+Titandrake - trashes Curse
+Titandrake - plays 1 Silver, 1 Gold, 1 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Copper, Curse, Copper, Spice Merchant
+ 
+---------- SM.SM: turn 14 ----------
+SM.SM - plays Spice Merchant
+SM.SM - trashes Copper
+SM.SM - chooses two cards and one action
+SM.SM - draws Tunnel, Estate
+SM.SM - plays Young Witch
+SM.SM - draws Copper, Copper
+SM.SM - discards Tunnel
+SM.SM - discards Tunnel
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+Titandrake - gains Curse
+SM.SM - plays 2 Copper, 1 Gold
+SM.SM - buys Young Witch
+SM.SM - gains Young Witch
+SM.SM - draws Tunnel, Estate, Stonemason, Curse, Estate
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Copper, Estate
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Gold, Tunnel, Estate, Estate, Young Witch
+ 
+---------- SM.SM: turn 15 ----------
+SM.SM - plays Stonemason
+SM.SM - trashes Curse
+SM.SM - draws Stonemason, Tunnel
+SM.SM - shuffles deck
+SM.SM - draws Gold, Tunnel, Tunnel
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Young Witch
+Titandrake - shuffles deck
+Titandrake - draws Tunnel, Curse
+Titandrake - discards Tunnel
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+SM.SM - reveals bane Stonemason
+Titandrake - plays Gold
+Titandrake - buys Stonemason
+Titandrake - gains Stonemason
+Titandrake - draws Copper, Copper, Curse, Copper, Copper
+ 
+---------- SM.SM: turn 16 ----------
+SM.SM - plays Stonemason
+SM.SM - trashes Gold
+SM.SM - gains Young Witch
+SM.SM - gains Royal Seal
+SM.SM - draws Young Witch, Estate, Spice Merchant, Copper, Estate
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Silver, Young Witch, Gold, Estate, Silver
+ 
+---------- SM.SM: turn 17 ----------
+SM.SM - plays Spice Merchant
+SM.SM - trashes Copper
+SM.SM - chooses two cards and one action
+SM.SM - draws Young Witch, Gold
+SM.SM - plays Young Witch
+SM.SM - draws Tunnel, Copper
+SM.SM - discards Tunnel
+SM.SM - discards Estate
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+Titandrake - gains Curse
+SM.SM - plays 1 Gold, 1 Copper
+SM.SM - buys Young Witch
+SM.SM - gains Young Witch
+SM.SM - draws Gold, Stonemason, Estate
+SM.SM - shuffles deck
+SM.SM - draws Tunnel, Royal Seal
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Gold, Curse
+Titandrake - discards Estate
+Titandrake - discards Curse
+SM.SM - reveals bane Stonemason
+Titandrake - plays 2 Silver, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Tunnel, Tunnel, Gold, Gold, Gold
+ 
+---------- SM.SM: turn 18 ----------
+SM.SM - plays 1 Gold, 1 Royal Seal
+SM.SM - buys Royal Seal
+SM.SM - gains Royal Seal
+SM.SM - applied Royal Seal to place Royal Seal on top of the deck
+SM.SM - draws Royal Seal, Tunnel, Gold, Young Witch, Young Witch
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays 3 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Silver, Copper, Stonemason, Spice Merchant
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- SM.SM: turn 19 ----------
+SM.SM - plays Young Witch
+SM.SM - draws Gold, Young Witch
+SM.SM - discards Tunnel
+SM.SM - discards Young Witch
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+Titandrake - reveals bane Stonemason
+SM.SM - plays 2 Gold, 1 Royal Seal
+SM.SM - buys Province
+SM.SM - gains Province
+SM.SM - draws Estate, Young Witch, Estate, Stonemason, Copper
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Spice Merchant
+Titandrake - trashes Copper
+Titandrake - chooses two cards and one action
+Titandrake - draws Tunnel, Tunnel
+Titandrake - plays Stonemason
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - draws Tunnel, Curse, Curse, Silver, Gold
+ 
+---------- SM.SM: turn 20 ----------
+SM.SM - plays Young Witch
+SM.SM - draws Spice Merchant, Tunnel
+SM.SM - discards Tunnel
+SM.SM - discards Estate
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+Titandrake - gains Curse
+SM.SM - draws Tunnel
+SM.SM - shuffles deck
+SM.SM - draws Gold, Tunnel, Estate, Gold
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays 1 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Gold, Gold, Curse, Copper, Province
+ 
+---------- SM.SM: turn 21 ----------
+SM.SM - plays 2 Gold
+SM.SM - buys Stonemason
+SM.SM - overpays for Stonemason with 4 coins
+SM.SM - gains Scout
+SM.SM - gains Scout
+SM.SM - gains Stonemason
+SM.SM - draws Tunnel, Young Witch, Gold, Province, Young Witch
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Estate, Silver, Gold, Stonemason, Province
+ 
+---------- SM.SM: turn 22 ----------
+SM.SM - plays Young Witch
+SM.SM - draws Royal Seal, Copper
+SM.SM - discards Tunnel
+SM.SM - discards Province
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+Titandrake - reveals bane Stonemason
+SM.SM - plays 1 Gold, 1 Royal Seal, 1 Copper
+SM.SM - buys Gold
+SM.SM - gains Gold
+SM.SM - applied Royal Seal to place Gold on top of the deck
+SM.SM - draws Gold, Estate, Royal Seal, Spice Merchant, Tunnel
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Stonemason
+Titandrake - trashes Gold
+Titandrake - gains Duchy
+Titandrake - gains Duchy
+Titandrake - plays Silver
+Titandrake - buys Stonemason
+Titandrake - gains Stonemason
+Titandrake - draws Gold, Young Witch, Tunnel, Estate, Gold
+ 
+---------- SM.SM: turn 23 ----------
+SM.SM - plays 1 Gold, 1 Royal Seal
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Gold, Stonemason, Young Witch, Gold, Stonemason
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Estate, Silver
+Titandrake - discards Estate
+Titandrake - discards Tunnel
+Titandrake - reveals reaction Tunnel
+Titandrake - gains Gold
+SM.SM - reveals bane Stonemason
+Titandrake - plays 2 Gold, 1 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Copper, Gold, Curse, Gold, Young Witch
+ 
+---------- SM.SM: turn 24 ----------
+SM.SM - plays Young Witch
+SM.SM - draws Young Witch, Estate
+SM.SM - discards Stonemason
+SM.SM - discards Young Witch
+Titandrake - gains Curse
+SM.SM - plays 2 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - shuffles deck
+SM.SM - draws Royal Seal, Scout, Spice Merchant, Estate, Gold
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Estate
+Titandrake - discards Curse
+Titandrake - discards Estate
+Titandrake - plays 2 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Tunnel, Gold, Duchy, Silver, Duchy
+ 
+---------- SM.SM: turn 25 ----------
+SM.SM - plays Scout
+SM.SM - reveals: Young Witch, Tunnel, Young Witch, Gold
+SM.SM - places cards in hand:  Tunnel
+SM.SM - places Gold on top of deck
+SM.SM - places Young Witch on top of deck
+SM.SM - places Young Witch on top of deck
+SM.SM - plays Spice Merchant
+SM.SM - trashes Royal Seal
+SM.SM - chooses two cards and one action
+SM.SM - draws Young Witch, Young Witch
+SM.SM - plays Young Witch
+SM.SM - draws Gold, Young Witch
+SM.SM - discards Tunnel
+SM.SM - discards Young Witch
+SM.SM - reveals reaction Tunnel
+SM.SM - gains Gold
+SM.SM - plays 2 Gold
+SM.SM - buys Duchy
+SM.SM - gains Duchy
+SM.SM - draws Scout, Tunnel, Province, Tunnel, Estate
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Silver, Gold, Curse, Gold, Estate
+ 
+------------ Game Over ------------
+Titandrake - cards: 3 Stonemason, 2 Young Witch, 1 Spice Merchant, 8 Gold, 4 Silver, 3 Copper, 5 Duchy, 4 Estate, 4 Province, 4 Tunnel, 6 Curse
+Titandrake - total victory points: 45
+Titandrake - turns: 26
+ 
+SM.SM - cards: 4 Young Witch, 3 Stonemason, 2 Scout, 1 Spice Merchant, 8 Gold, 1 Copper, 1 Royal Seal, 4 Tunnel, 3 Estate, 3 Duchy, 1 Province
+SM.SM - total victory points: 26
+SM.SM - turns: 25
+ 
+1st place: Titandrake
+2nd place: SM.SM
+ 

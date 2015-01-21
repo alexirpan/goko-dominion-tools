@@ -1,0 +1,803 @@
+------------ Game Setup ------------
+Supply cards: Transmute, Oracle, Scheme, Bridge, Island, Navigator, Nomad Camp, Sea Hag, Counting House, Highway, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Colony, Platinum, Potion
+Rating system: pro
+migga - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+migga - shuffles deck
+Titandrake - shuffles deck
+migga - draws Copper, Copper, Copper, Estate, Copper
+Titandrake - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Sea Hag
+Titandrake - gains Sea Hag
+Titandrake - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- migga: turn 1 ----------
+migga - plays 4 Copper
+migga - buys Sea Hag
+migga - gains Sea Hag
+migga - draws Copper, Copper, Copper, Estate, Estate
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- migga: turn 2 ----------
+migga - plays 3 Copper
+migga - buys Silver
+migga - gains Silver
+migga - shuffles deck
+migga - draws Silver, Copper, Estate, Estate, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Estate, Copper, Copper, Sea Hag
+ 
+---------- migga: turn 3 ----------
+migga - plays 2 Copper, 1 Silver
+migga - buys Potion
+migga - gains Potion
+migga - draws Copper, Copper, Sea Hag, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Sea Hag
+migga - discards Estate
+migga - gains Curse
+Titandrake - plays 3 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - draws Scheme, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Silver, Scheme
+ 
+---------- migga: turn 4 ----------
+migga - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+migga - plays 4 Copper
+migga - buys Sea Hag
+migga - gains Sea Hag
+migga - draws Curse, Copper
+migga - shuffles deck
+migga - draws Sea Hag, Copper, Copper
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Estate, Copper, Copper
+ 
+---------- migga: turn 5 ----------
+migga - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+migga - plays 3 Copper
+migga - buys Scheme
+migga - gains Scheme
+migga - draws Copper, Estate, Sea Hag, Estate, Potion
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Estate, Sea Hag
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- migga: turn 6 ----------
+migga - plays Sea Hag
+Titandrake - discards Copper
+Titandrake - gains Curse
+migga - plays 1 Copper, 1 Potion
+migga - buys Transmute
+migga - gains Transmute
+migga - draws Copper, Estate, Copper, Copper, Silver
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Sea Hag
+migga - shuffles deck
+migga - discards Estate
+migga - gains Curse
+Titandrake - Scheme choice: Sea Hag
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Sea Hag, Copper, Copper, Estate
+ 
+---------- migga: turn 7 ----------
+migga - plays 3 Copper, 1 Silver
+migga - buys Highway
+migga - gains Highway
+migga - draws Curse, Sea Hag, Copper, Potion, Estate
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Sea Hag
+migga - discards Copper
+migga - gains Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - Scheme choice: Sea Hag
+Titandrake - draws Sea Hag, Silver, Curse, Curse, Copper
+ 
+---------- migga: turn 8 ----------
+migga - plays Sea Hag
+Titandrake - discards Silver
+Titandrake - gains Curse
+migga - plays 1 Copper, 1 Potion
+migga - buys Transmute
+migga - gains Transmute
+migga - draws Curse, Copper, Copper, Curse, Scheme
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Sea Hag
+migga - discards Transmute
+migga - gains Curse
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse, Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Silver, Copper
+ 
+---------- migga: turn 9 ----------
+migga - plays Scheme
+migga - draws Curse
+migga - Scheme choice: Scheme
+migga - draws Scheme, Sea Hag
+migga - shuffles deck
+migga - draws Copper, Copper, Silver
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Curse, Copper, Silver, Sea Hag, Estate
+ 
+---------- migga: turn 10 ----------
+migga - plays Scheme
+migga - draws Copper
+migga - plays Sea Hag
+Titandrake - discards Island
+Titandrake - gains Curse
+migga - plays 3 Copper, 1 Silver
+migga - buys Highway
+migga - gains Highway
+migga - Scheme choice: Sea Hag
+migga - draws Sea Hag, Curse, Highway, Estate, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Sea Hag
+migga - discards Transmute
+migga - gains Curse
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Oracle
+Titandrake - gains Oracle
+Titandrake - draws Curse, Estate, Estate, Curse, Curse
+ 
+---------- migga: turn 11 ----------
+migga - plays Highway
+migga - draws Curse
+migga - plays Sea Hag
+Titandrake - discards Copper
+migga - draws Sea Hag, Curse, Copper, Potion, Transmute
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - draws Copper, Scheme, Silver, Copper, Silver
+ 
+---------- migga: turn 12 ----------
+migga - plays Transmute
+migga - trashes Curse
+migga - plays 1 Copper, 1 Potion
+migga - draws Copper, Curse, Curse, Copper, Estate
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Scheme
+Titandrake - draws Scheme
+Titandrake - plays Scheme
+Titandrake - shuffles deck
+Titandrake - draws Curse
+Titandrake - plays 2 Copper, 2 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Island, Curse, Oracle
+ 
+---------- migga: turn 13 ----------
+migga - draws Estate
+migga - shuffles deck
+migga - draws Curse, Silver, Highway, Copper
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Curse
+Titandrake - discards: Copper, Curse
+migga - reveals: Highway, Transmute
+migga - discards: Highway, Transmute
+Titandrake - draws Sea Hag, Estate
+Titandrake - Scheme choice: Oracle
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Oracle, Silver, Curse, Estate
+ 
+---------- migga: turn 14 ----------
+migga - plays Highway
+migga - draws Copper
+migga - plays 2 Copper, 1 Silver
+migga - buys Island
+migga - gains Island
+migga - draws Copper, Potion, Transmute, Estate, Curse
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Oracle
+Titandrake - reveals: Curse, Copper
+Titandrake - discards: Curse, Copper
+migga - reveals: Curse, Copper
+migga - places Curse on top of deck
+migga - places Copper on top of deck
+Titandrake - draws Copper, Island
+Titandrake - plays 2 Silver, 1 Copper
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - Scheme choice: Oracle
+Titandrake - draws Oracle, Estate
+Titandrake - shuffles deck
+Titandrake - draws Gold, Curse, Copper
+ 
+---------- migga: turn 15 ----------
+migga - plays Transmute
+migga - trashes Estate
+migga - gains Gold
+migga - plays 1 Copper, 1 Potion
+migga - buys Transmute
+migga - gains Transmute
+migga - draws Copper, Curse, Curse, Sea Hag, Sea Hag
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Estate, Copper
+Titandrake - discards: Estate, Copper
+migga - reveals: Copper, Estate
+migga - places Estate on top of deck
+migga - places Copper on top of deck
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 1 Gold
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper, Scheme, Island, Estate, Island
+ 
+---------- migga: turn 16 ----------
+migga - draws Copper, Estate, Copper, Copper, Scheme
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Silver, Silver, Silver, Curse
+ 
+---------- migga: turn 17 ----------
+migga - plays Scheme
+migga - shuffles deck
+migga - draws Estate
+migga - plays 3 Copper
+migga - buys Silver
+migga - gains Silver
+migga - Scheme choice: Scheme
+migga - draws Scheme, Island, Gold, Highway, Transmute
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays 3 Silver
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Sea Hag, Island, Silver, Curse
+ 
+---------- migga: turn 18 ----------
+migga - plays Scheme
+migga - draws Highway
+migga - plays Highway
+migga - draws Curse
+migga - plays Highway
+migga - draws Silver
+migga - plays Transmute
+migga - trashes Curse
+migga - plays 1 Gold, 1 Silver
+migga - buys Gold
+migga - gains Gold
+migga - Scheme choice: Transmute
+migga - draws Transmute, Copper, Copper, Copper, Sea Hag
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays Island
+Titandrake - sets aside Sea Hag
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Copper, Scheme
+Titandrake - shuffles deck
+Titandrake - draws Gold, Silver
+ 
+---------- migga: turn 19 ----------
+migga - plays Transmute
+migga - trashes Sea Hag
+migga - gains Duchy
+migga - plays 3 Copper
+migga - buys Silver
+migga - gains Silver
+migga - draws Transmute, Copper, Curse, Potion, Sea Hag
+ 
+---------- Titandrake: turn 20 ----------
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays 2 Silver, 1 Copper, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Estate, Island, Copper
+ 
+---------- migga: turn 20 ----------
+migga - plays Transmute
+migga - trashes Curse
+migga - plays 1 Copper, 1 Potion
+migga - draws Curse, Transmute, Curse
+migga - shuffles deck
+migga - draws Highway, Copper
+ 
+---------- Titandrake: turn 21 ----------
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Island
+Titandrake - sets aside Estate
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Copper, Curse, Curse
+ 
+---------- migga: turn 21 ----------
+migga - plays Highway
+migga - draws Island
+migga - plays Transmute
+migga - trashes Curse
+migga - draws Highway, Transmute, Scheme, Estate, Silver
+ 
+---------- Titandrake: turn 22 ----------
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Estate
+Titandrake - gains Estate
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Copper, Gold, Curse
+ 
+---------- migga: turn 22 ----------
+migga - plays Scheme
+migga - draws Transmute
+migga - plays Highway
+migga - draws Copper
+migga - plays Transmute
+migga - trashes Estate
+migga - gains Gold
+migga - plays 1 Silver, 1 Copper
+migga - buys Silver
+migga - gains Silver
+migga - Scheme choice: Transmute
+migga - draws Transmute, Gold, Copper, Duchy, Copper
+ 
+---------- Titandrake: turn 23 ----------
+Titandrake - plays Scheme
+Titandrake - draws Oracle
+Titandrake - plays Scheme
+Titandrake - draws Gold
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+migga - reveals: Copper, Silver
+migga - discards: Copper, Silver
+Titandrake - draws Copper, Copper
+Titandrake - plays 3 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Oracle
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Oracle, Silver
+Titandrake - shuffles deck
+Titandrake - draws Province, Scheme
+ 
+---------- migga: turn 23 ----------
+migga - plays Transmute
+migga - trashes Duchy
+migga - gains Gold
+migga - plays 2 Copper, 1 Gold
+migga - buys Highway
+migga - gains Highway
+migga - draws Copper, Copper, Sea Hag, Gold, Silver
+ 
+---------- Titandrake: turn 24 ----------
+Titandrake - plays Scheme
+Titandrake - draws Gold
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays Oracle
+Titandrake - reveals: Gold, Gold
+Titandrake - places Gold on top of deck
+Titandrake - places Gold on top of deck
+migga - reveals: Potion, Estate
+migga - places Estate on top of deck
+migga - places Potion on top of deck
+Titandrake - draws Gold, Gold
+Titandrake - plays 3 Gold, 1 Silver
+Titandrake - buys Colony
+Titandrake - gains Colony
+Titandrake - Scheme choice: Oracle
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Oracle, Silver, Copper, Copper
+ 
+---------- migga: turn 24 ----------
+migga - plays Sea Hag
+Titandrake - discards Province
+migga - plays 2 Copper, 1 Gold, 1 Silver
+migga - buys Gold
+migga - gains Gold
+migga - draws Potion, Estate
+migga - shuffles deck
+migga - draws Gold, Transmute, Transmute
+ 
+---------- Titandrake: turn 25 ----------
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Copper
+Titandrake - places Copper on top of deck
+Titandrake - places Copper on top of deck
+migga - reveals: Copper, Sea Hag
+migga - places Sea Hag on top of deck
+migga - places Copper on top of deck
+Titandrake - draws Copper, Copper
+Titandrake - plays 4 Copper, 2 Silver
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - Scheme choice: Oracle
+Titandrake - draws Oracle, Curse, Copper, Silver, Curse
+ 
+---------- migga: turn 25 ----------
+migga - plays Transmute
+migga - trashes Estate
+migga - gains Gold
+migga - plays 1 Potion, 1 Gold
+migga - buys Scheme
+migga - gains Scheme
+migga - draws Copper, Sea Hag, Curse, Island, Silver
+ 
+---------- Titandrake: turn 26 ----------
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Curse
+Titandrake - discards: Copper, Curse
+migga - reveals: Gold, Scheme
+migga - discards: Gold, Scheme
+Titandrake - draws Copper, Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - draws Scheme, Estate, Estate
+Titandrake - shuffles deck
+Titandrake - draws Oracle, Scheme
+ 
+---------- migga: turn 26 ----------
+migga - plays Island
+migga - sets aside Sea Hag
+migga - plays 1 Copper, 1 Silver
+migga - buys Silver
+migga - gains Silver
+migga - draws Highway, Silver, Highway, Gold, Copper
+ 
+---------- Titandrake: turn 27 ----------
+Titandrake - plays Scheme
+Titandrake - draws Gold
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Oracle
+Titandrake - reveals: Gold, Colony
+Titandrake - places Colony on top of deck
+Titandrake - places Gold on top of deck
+migga - reveals: Highway, Silver
+migga - discards: Highway, Silver
+Titandrake - draws Gold, Colony
+Titandrake - plays 2 Gold, 1 Copper
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - Scheme choice: Oracle
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Oracle, Island, Silver, Gold
+ 
+---------- migga: turn 27 ----------
+migga - plays Highway
+migga - draws Gold
+migga - plays Highway
+migga - draws Copper
+migga - plays 2 Gold, 2 Copper, 1 Silver
+migga - buys Colony
+migga - gains Colony
+migga - draws Copper, Copper, Gold, Copper, Transmute
+ 
+---------- Titandrake: turn 28 ----------
+Titandrake - plays Scheme
+Titandrake - draws Scheme
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Oracle
+Titandrake - reveals: Province, Curse
+Titandrake - discards: Province, Curse
+migga - reveals: Silver, Copper
+migga - discards: Silver, Copper
+Titandrake - draws Curse, Copper
+Titandrake - plays 2 Copper, 1 Silver, 1 Gold
+Titandrake - buys Island
+Titandrake - gains Island
+Titandrake - Scheme choice: Oracle
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Oracle, Copper, Curse, Copper
+ 
+---------- migga: turn 28 ----------
+migga - plays Transmute
+migga - trashes Copper
+migga - gains Transmute
+migga - plays 2 Copper, 1 Gold
+migga - buys Island
+migga - gains Island
+migga - shuffles deck
+migga - draws Transmute, Scheme, Silver, Colony, Silver
+ 
+---------- Titandrake: turn 29 ----------
+Titandrake - plays Scheme
+Titandrake - draws Province
+Titandrake - plays Oracle
+Titandrake - reveals: Province, Silver
+Titandrake - discards: Province, Silver
+migga - reveals: Silver, Copper
+migga - discards: Silver, Copper
+Titandrake - draws Copper, Silver
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - Scheme choice: Oracle
+Titandrake - draws Oracle, Silver, Curse, Curse, Copper
+ 
+---------- migga: turn 29 ----------
+migga - plays Scheme
+migga - draws Copper
+migga - plays Transmute
+migga - trashes Copper
+migga - gains Transmute
+migga - plays 2 Silver
+migga - buys Bridge
+migga - gains Bridge
+migga - draws Curse, Transmute, Gold, Highway, Copper
+ 
+---------- Titandrake: turn 30 ----------
+Titandrake - plays Oracle
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Scheme
+Titandrake - discards: Copper, Scheme
+migga - reveals: Scheme, Gold
+migga - discards: Scheme, Gold
+Titandrake - draws Gold, Province
+Titandrake - plays 1 Silver, 1 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Curse, Duchy, Copper, Scheme, Copper
+ 
+---------- migga: turn 30 ----------
+migga - plays Highway
+migga - draws Gold
+migga - plays Transmute
+migga - trashes Curse
+migga - plays 2 Gold, 1 Copper
+migga - buys Province
+migga - gains Province
+migga - draws Copper, Silver, Silver, Highway, Copper
+ 
+---------- Titandrake: turn 31 ----------
+Titandrake - plays Scheme
+Titandrake - draws Island
+Titandrake - plays Island
+Titandrake - sets aside Duchy
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Gold, Copper, Island, Province
+ 
+---------- migga: turn 31 ----------
+migga - plays Highway
+migga - draws Gold
+migga - plays 2 Copper, 2 Silver, 1 Gold
+migga - buys Platinum
+migga - gains Platinum
+migga - draws Potion, Gold, Transmute, Copper, Island
+ 
+---------- Titandrake: turn 32 ----------
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Island
+Titandrake - sets aside Province
+Titandrake - plays 2 Copper, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Silver, Island, Curse
+ 
+---------- migga: turn 32 ----------
+migga - plays Island
+migga - sets aside Potion
+migga - plays 1 Gold, 1 Copper
+migga - buys Scheme
+migga - gains Scheme
+migga - draws Transmute, Gold, Highway
+migga - shuffles deck
+migga - draws Silver, Transmute
+ 
+---------- Titandrake: turn 33 ----------
+Titandrake - plays Scheme
+Titandrake - draws Colony
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Island
+Titandrake - sets aside Colony
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Gold, Silver, Silver
+ 
+---------- migga: turn 33 ----------
+migga - plays Highway
+migga - draws Copper
+migga - plays Transmute
+migga - trashes Transmute
+migga - gains Duchy
+migga - plays 1 Gold, 1 Silver, 1 Copper
+migga - buys Gold
+migga - gains Gold
+migga - draws Copper, Silver, Transmute, Gold, Bridge
+ 
+---------- Titandrake: turn 34 ----------
+Titandrake - plays Scheme
+Titandrake - draws Estate
+Titandrake - plays Scheme
+Titandrake - draws Curse
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Province, Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper
+ 
+---------- migga: turn 34 ----------
+migga - plays Bridge
+migga - plays 1 Copper, 1 Silver, 1 Gold
+migga - buys Province
+migga - gains Province
+migga - draws Copper, Silver, Colony, Gold, Transmute
+ 
+---------- Titandrake: turn 35 ----------
+Titandrake - plays Scheme
+Titandrake - draws Province
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Scheme, Curse, Curse, Oracle
+ 
+---------- migga: turn 35 ----------
+migga - plays Transmute
+migga - trashes Copper
+migga - gains Transmute
+migga - plays 1 Silver, 1 Gold
+migga - buys Duchy
+migga - gains Duchy
+migga - draws Silver, Silver, Highway, Gold, Scheme
+ 
+---------- Titandrake: turn 36 ----------
+Titandrake - plays Scheme
+Titandrake - draws Silver
+Titandrake - plays Scheme
+Titandrake - draws Copper
+Titandrake - plays Oracle
+Titandrake - reveals: Copper, Duchy
+Titandrake - discards: Copper, Duchy
+migga - reveals: Gold, Scheme
+migga - discards: Gold, Scheme
+Titandrake - draws Copper, Scheme
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Scheme
+Titandrake - gains Scheme
+Titandrake - Scheme choice: Oracle
+Titandrake - Scheme choice: Scheme
+Titandrake - draws Scheme, Oracle, Curse, Copper, Curse
+ 
+---------- migga: turn 36 ----------
+migga - plays Scheme
+migga - draws Copper
+migga - plays Highway
+migga - draws Province
+migga - plays 2 Silver, 1 Gold, 1 Copper
+migga - buys Platinum
+migga - gains Platinum
+migga - Scheme choice: Highway
+migga - draws Highway, Gold, Copper, Transmute, Platinum
+ 
+---------- Titandrake: turn 37 ----------
+Titandrake - plays Scheme
+Titandrake - draws Gold
+Titandrake - plays Oracle
+Titandrake - reveals: Silver, Scheme
+Titandrake - places Scheme on top of deck
+Titandrake - places Silver on top of deck
+migga - reveals: Highway, Scheme
+migga - discards: Highway, Scheme
+Titandrake - draws Silver, Scheme
+Titandrake - plays 1 Copper, 1 Gold, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - Scheme choice: Oracle
+Titandrake - draws Oracle, Gold, Duchy, Curse, Silver
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Island, 6 Scheme, 1 Oracle, 1 Sea Hag, 7 Copper, 4 Silver, 3 Gold, 5 Duchy, 4 Estate, 3 Province, 1 Colony, 5 Curse
+Titandrake - total victory points: 54
+Titandrake - turns: 37
+ 
+migga - cards: 5 Transmute, 3 Highway, 3 Scheme, 2 Island, 1 Bridge, 1 Sea Hag, 7 Gold, 5 Silver, 4 Copper, 2 Platinum, 1 Potion, 2 Duchy, 2 Province, 1 Colony
+migga - total victory points: 32
+migga - turns: 36
+ 
+1st place: Titandrake
+2nd place: migga
+ 

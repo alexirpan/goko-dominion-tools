@@ -1,0 +1,533 @@
+------------ Game Setup ------------
+Supply cards: Haven, University, Menagerie, Smugglers, Counterfeit, Counting House, Knights, Mine, Saboteur, Nobles, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+Troninho - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Troninho - shuffles deck
+Titandrake - shuffles deck
+Troninho - draws Copper, Necropolis, Copper, Copper, Copper
+Titandrake - draws Hovel, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- Troninho: turn 1 ----------
+Troninho - plays Necropolis
+Troninho - plays 4 Copper
+Troninho - buys Potion
+Troninho - gains Potion
+Troninho - draws Copper, Copper, Overgrown Estate, Hovel, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Copper, Necropolis, Copper, Copper, Copper
+ 
+---------- Troninho: turn 2 ----------
+Troninho - plays 3 Copper
+Troninho - buys Silver
+Troninho - gains Silver
+Troninho - shuffles deck
+Troninho - draws Overgrown Estate, Copper, Copper, Silver, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Potion
+Titandrake - gains Potion
+Titandrake - shuffles deck
+Titandrake - draws Potion, Copper, Overgrown Estate, Hovel, Copper
+ 
+---------- Troninho: turn 3 ----------
+Troninho - plays 3 Copper, 1 Silver
+Troninho - buys Dame Natalie
+Troninho - gains Dame Natalie
+Troninho - draws Potion, Hovel, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 2 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Copper, Menagerie, Necropolis, Copper, Copper
+ 
+---------- Troninho: turn 4 ----------
+Troninho - plays Necropolis
+Troninho - plays 2 Copper, 1 Potion
+Troninho - buys University
+Troninho - gains University
+Troninho - draws Copper, Copper
+Troninho - shuffles deck
+Troninho - draws Copper, Overgrown Estate, Potion
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Necropolis, Copper, Copper
+Titandrake - draws Copper
+Titandrake - plays 4 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Copper, Potion
+ 
+---------- Troninho: turn 5 ----------
+Troninho - plays 3 Copper, 1 Potion
+Troninho - buys University
+Troninho - gains University
+Troninho - draws Copper, Copper, Silver, University, Necropolis
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays 4 Copper, 1 Potion
+Titandrake - buys University
+Titandrake - gains University
+Titandrake - draws Overgrown Estate, Silver, Copper, Copper, Menagerie
+ 
+---------- Troninho: turn 6 ----------
+Troninho - plays University
+Troninho - gains Dame Josephine
+Troninho - plays Necropolis
+Troninho - plays 2 Copper, 1 Silver
+Troninho - buys Menagerie
+Troninho - gains Menagerie
+Troninho - draws Dame Natalie, Copper, Hovel, Copper
+Troninho - shuffles deck
+Troninho - draws Silver
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Overgrown Estate, Silver, Copper, Copper
+Titandrake - draws University
+Titandrake - plays University
+Titandrake - gains Sir Vander
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Sir Martin
+Titandrake - gains Sir Martin
+Titandrake - draws Copper, Hovel, Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Copper, University
+ 
+---------- Troninho: turn 7 ----------
+Troninho - plays Dame Natalie
+Troninho - gains Menagerie
+Titandrake - reveals: Potion, Copper
+Titandrake - trashes Potion
+Titandrake - discards Copper
+Troninho - plays 2 Copper, 1 Silver
+Troninho - buys Menagerie
+Troninho - gains Menagerie
+Troninho - draws Necropolis, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays University
+Titandrake - gains Sir Bailey
+Titandrake - plays 2 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Copper, University, Copper, Copper, Sir Martin
+ 
+---------- Troninho: turn 8 ----------
+Troninho - plays Necropolis
+Troninho - plays 3 Copper
+Troninho - buys Menagerie
+Troninho - gains Menagerie
+Troninho - draws Dame Josephine, Potion, University, Copper, Menagerie
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays University
+Titandrake - gains Sir Destry
+Titandrake - plays Sir Martin
+Troninho - reveals: Copper, University
+Titandrake - plays 3 Copper
+Titandrake - buys Menagerie
+Titandrake - gains Menagerie
+Titandrake - draws Copper, Overgrown Estate, Silver, Menagerie, Sir Vander
+ 
+---------- Troninho: turn 9 ----------
+Troninho - plays University
+Troninho - gains Dame Sylvia
+Troninho - plays Dame Josephine
+Titandrake - shuffles deck
+Titandrake - reveals: Copper, Necropolis
+Troninho - plays Menagerie
+Troninho - reveals hand: Potion, Copper
+Troninho - shuffles deck
+Troninho - draws University, Copper, Copper
+Troninho - plays University
+Troninho - gains Sir Michael
+Troninho - plays 3 Copper, 1 Potion
+Troninho - buys University
+Troninho - gains University
+Troninho - draws Silver, Copper, Dame Natalie, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Overgrown Estate, Silver, Sir Vander
+Titandrake - draws Copper, Sir Destry, Copper
+Titandrake - plays Sir Destry
+Titandrake - draws University, Copper
+Troninho - reveals: Necropolis, Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Dame Anna
+Titandrake - gains Dame Anna
+Titandrake - draws Haven, University, Menagerie, Sir Martin, Copper
+ 
+---------- Troninho: turn 10 ----------
+Troninho - plays Dame Natalie
+Troninho - gains Haven
+Titandrake - reveals: Sir Bailey, Copper
+Titandrake - trashes Sir Bailey
+Titandrake - discards Copper
+Troninho - trashes Dame Natalie
+Troninho - plays 2 Copper, 1 Silver
+Troninho - buys Smugglers
+Troninho - gains Smugglers
+Troninho - draws Copper, Menagerie, Menagerie, Dame Sylvia, Menagerie
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Haven, University, Sir Martin, Copper
+Titandrake - draws Hovel
+Titandrake - shuffles deck
+Titandrake - draws Copper, University
+Titandrake - plays University
+Titandrake - gains Dame Molly
+Titandrake - plays Haven
+Titandrake - draws Necropolis
+Titandrake - sets aside Necropolis
+Titandrake - plays University
+Titandrake - gains Mine
+Titandrake - plays Sir Martin
+Troninho - reveals: Hovel
+Troninho - shuffles deck
+Troninho - reveals: Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Haven
+Titandrake - gains Haven
+Titandrake - draws Menagerie, Sir Destry, Silver, Copper, Copper
+ 
+---------- Troninho: turn 11 ----------
+Troninho - plays Menagerie
+Troninho - reveals hand: Copper, Menagerie, Menagerie, Dame Sylvia
+Troninho - draws University
+Troninho - plays Menagerie
+Troninho - reveals hand: University, Copper, Menagerie, Dame Sylvia
+Troninho - draws Necropolis, Copper, Copper
+Troninho - plays University
+Troninho - gains Mine
+Troninho - plays Dame Sylvia
+Titandrake - reveals: Sir Vander, Dame Anna
+Titandrake - trashes Sir Vander
+Titandrake - gains Gold
+Titandrake - discards Dame Anna
+Troninho - trashes Dame Sylvia
+Troninho - plays Menagerie
+Troninho - reveals hand: Necropolis, Copper, Copper, Copper
+Troninho - draws Copper
+Troninho - plays Necropolis
+Troninho - plays 4 Copper
+Troninho - buys Nobles
+Troninho - gains Nobles
+Troninho - draws Copper, Dame Josephine, Copper, Potion, University
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Necropolis in hand
+Titandrake - plays Necropolis
+Titandrake - plays Sir Destry
+Titandrake - draws Copper, Overgrown Estate
+Troninho - reveals: Sir Michael, University
+Troninho - trashes Sir Michael
+Troninho - discards University
+Titandrake - trashes Sir Destry
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Silver, Copper, Copper, Copper, Overgrown Estate
+Titandrake - draws Copper
+Titandrake - plays 4 Copper, 1 Silver
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Haven, Copper, Dame Anna, Copper
+ 
+---------- Troninho: turn 12 ----------
+Troninho - plays University
+Troninho - gains Saboteur
+Troninho - plays Dame Josephine
+Titandrake - reveals: Dame Molly, Gold
+Titandrake - trashes Dame Molly
+Titandrake - discards Gold
+Troninho - trashes Dame Josephine
+Troninho - plays 2 Copper, 1 Potion
+Troninho - buys University
+Troninho - gains University
+Troninho - draws Smugglers, Silver, Overgrown Estate, Menagerie, Haven
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Haven
+Titandrake - draws Copper
+Titandrake - sets aside Copper
+Titandrake - plays Dame Anna
+Titandrake - trashes Copper, Copper
+Troninho - shuffles deck
+Troninho - reveals: University, Menagerie
+Troninho - trashes Menagerie
+Troninho - discards University
+Titandrake - draws Copper, Copper, Menagerie, Haven, Overgrown Estate
+ 
+---------- Troninho: turn 13 ----------
+Troninho - plays Menagerie
+Troninho - reveals hand: Smugglers, Silver, Overgrown Estate, Haven
+Troninho - draws University, Menagerie, Copper
+Troninho - plays Haven
+Troninho - draws Saboteur
+Troninho - sets aside Smugglers
+Troninho - plays Menagerie
+Troninho - reveals hand: University, Copper, Silver, Overgrown Estate, Saboteur
+Troninho - draws Copper, Necropolis, Copper
+Troninho - plays University
+Troninho - gains Saboteur
+Troninho - plays Necropolis
+Troninho - plays Saboteur
+Titandrake - reveals Sir Martin
+Titandrake - trashes Sir Martin
+Titandrake - gains Haven
+Troninho - plays 3 Copper, 1 Silver
+Troninho - buys Counterfeit
+Troninho - gains Counterfeit
+Troninho - draws Copper, Potion, Menagerie, Copper, Mine
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - plays Haven
+Titandrake - draws University
+Titandrake - sets aside Overgrown Estate
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Copper, University
+Titandrake - draws Nobles
+Titandrake - plays University
+Titandrake - gains Menagerie
+Titandrake - plays Nobles
+Titandrake - draws University, Necropolis, Menagerie
+Titandrake - plays University
+Titandrake - gains Saboteur
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Copper, Copper, Necropolis
+Titandrake - draws Hovel
+Titandrake - plays 3 Copper
+Titandrake - buys Estate
+Titandrake - trashes Hovel
+Titandrake - gains Estate
+Titandrake - draws Mine, Silver, Copper
+Titandrake - shuffles deck
+Titandrake - draws Menagerie, Dame Anna
+ 
+---------- Troninho: turn 14 ----------
+Troninho - duration Haven
+Troninho - places set aside Smugglers in hand
+Troninho - plays Menagerie
+Troninho - reveals hand: Copper, Potion, Copper, Mine, Smugglers
+Troninho - draws Copper
+Troninho - plays Mine
+Troninho - trashes Potion
+Troninho - gains Gold
+Troninho - plays 3 Copper, 1 Gold
+Troninho - buys Nobles
+Troninho - gains Nobles
+Troninho - draws University, Copper, Hovel, Nobles, University
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Overgrown Estate in hand
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Mine, Silver, Copper, Dame Anna, Overgrown Estate
+Titandrake - draws Haven, Saboteur, University
+Titandrake - plays University
+Titandrake - gains Menagerie
+Titandrake - plays Haven
+Titandrake - draws Menagerie
+Titandrake - sets aside Overgrown Estate
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Saboteur, Mine, Silver, Copper, Dame Anna
+Titandrake - draws Copper, Estate, Haven
+Titandrake - plays Haven
+Titandrake - draws Menagerie
+Titandrake - sets aside Copper
+Titandrake - plays Menagerie
+Titandrake - reveals hand: Copper, Estate, Saboteur, Mine, Silver, Dame Anna
+Titandrake - draws Copper, Gold, Copper
+Titandrake - plays Dame Anna
+Titandrake - trashes Copper
+Troninho - shuffles deck
+Troninho - reveals: Mine, Copper
+Troninho - trashes Mine
+Troninho - discards Copper
+Titandrake - plays Mine
+Titandrake - trashes Silver
+Titandrake - gains Gold
+Titandrake - plays 2 Copper, 2 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - draws Necropolis, University, Copper, Nobles
+Titandrake - shuffles deck
+Titandrake - draws Province
+ 
+---------- Troninho: turn 15 ----------
+Troninho - plays University
+Troninho - gains Saboteur
+Troninho - plays Nobles
+Troninho - draws University, Menagerie, Silver
+Troninho - plays University
+Troninho - gains Haven
+Troninho - plays Menagerie
+Troninho - reveals hand: University, Copper, Hovel, Silver
+Troninho - draws Nobles, University, Menagerie
+Troninho - plays University
+Troninho - gains Menagerie
+Troninho - plays Menagerie
+Troninho - reveals hand: Nobles, University, Copper, Hovel, Silver
+Troninho - draws Copper, Counterfeit, Gold
+Troninho - plays Nobles
+Troninho - draws Overgrown Estate, Necropolis, Saboteur
+Troninho - plays University
+Troninho - gains Saboteur
+Troninho - plays Saboteur
+Titandrake - reveals Haven, Estate, Menagerie
+Titandrake - trashes Menagerie
+Titandrake - discards: Haven, Estate
+Troninho - plays Necropolis
+Troninho - plays Counterfeit
+Troninho - plays Copper
+Troninho - plays Copper
+Troninho - trashes Copper
+Troninho - plays 1 Copper, 1 Gold, 1 Silver
+Troninho - buys Province
+Troninho - trashes Hovel
+Troninho - gains Province
+Troninho - draws Haven, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - duration Haven
+Titandrake - places set aside Overgrown Estate in hand
+Titandrake - duration Haven
+Titandrake - places set aside Copper in hand
+Titandrake - plays Necropolis
+Titandrake - plays Nobles
+Titandrake - draws Copper, Saboteur, Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: University, Copper, Province, Overgrown Estate, Copper, Copper, Saboteur
+Titandrake - draws Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: University, Copper, Province, Overgrown Estate, Copper, Copper, Saboteur
+Titandrake - draws Menagerie
+Titandrake - plays Menagerie
+Titandrake - reveals hand: University, Copper, Province, Overgrown Estate, Copper, Copper, Saboteur
+Titandrake - draws Mine
+Titandrake - plays University
+Titandrake - gains Saboteur
+Titandrake - plays Saboteur
+Troninho - reveals Menagerie
+Troninho - trashes Menagerie
+Titandrake - plays Mine
+Titandrake - trashes Copper
+Titandrake - gains Silver
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Smugglers
+Titandrake - gains Smugglers
+Titandrake - draws Gold, Dame Anna, Copper, Gold, University
+ 
+---------- Troninho: turn 16 ----------
+Troninho - plays Haven
+Troninho - draws Saboteur
+Troninho - sets aside Copper
+Troninho - plays Saboteur
+Titandrake - shuffles deck
+Titandrake - reveals Overgrown Estate, Province
+Titandrake - trashes Province
+Titandrake - gains Nobles
+Titandrake - discards Overgrown Estate
+Troninho - plays 3 Copper
+Troninho - buys Haven
+Troninho - gains Haven
+Troninho - draws Smugglers
+Troninho - shuffles deck
+Troninho - draws University, Copper, Haven, Copper
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Dame Anna
+Titandrake - trashes Copper
+Troninho - reveals: Menagerie, Copper
+Troninho - trashes Menagerie
+Troninho - discards Copper
+Titandrake - plays 2 Gold
+Titandrake - buys Nobles
+Titandrake - gains Nobles
+Titandrake - draws Copper, Saboteur, Haven, Smugglers, University
+ 
+---------- Troninho: turn 17 ----------
+Troninho - duration Haven
+Troninho - places set aside Copper in hand
+Troninho - plays Haven
+Troninho - draws Nobles
+Troninho - sets aside Copper
+Troninho - plays University
+Troninho - gains Menagerie
+Troninho - plays Nobles
+Troninho - draws Menagerie, Necropolis, Saboteur
+Troninho - plays Necropolis
+Troninho - plays Smugglers
+Troninho - gains Nobles
+Troninho - plays Menagerie
+Troninho - reveals hand: Copper, Copper, Saboteur
+Troninho - draws Overgrown Estate
+Troninho - plays Saboteur
+Titandrake - reveals Mine
+Titandrake - trashes Mine
+Titandrake - gains Estate
+Troninho - plays 2 Copper
+Troninho - buys Estate
+Troninho - gains Estate
+Troninho - draws Province, Silver, University, Menagerie, Haven
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Haven
+Titandrake - draws Estate
+Titandrake - sets aside Copper
+Titandrake - plays University
+Titandrake - plays Saboteur
+Troninho - reveals Copper, Copper, Counterfeit
+Troninho - trashes Counterfeit
+Troninho - gains Estate
+Troninho - discards: Copper, Copper
+Titandrake - plays Smugglers
+Titandrake - gains Nobles
+Titandrake - draws Saboteur, Necropolis, Nobles, Silver, Haven
+ 
+---------- Troninho: turn 18 ----------
+Troninho - duration Haven
+Troninho - places set aside Copper in hand
+Troninho - plays Menagerie
+Troninho - reveals hand: Province, Silver, University, Haven, Copper
+Troninho - draws University, Saboteur, University
+Troninho - plays University
+Troninho - gains Haven
+Troninho - plays University
+Troninho - gains Haven
+Troninho - plays University
+Troninho - gains Haven
+Troninho - plays 1 Silver, 1 Copper
+Troninho - buys Haven
+Troninho - gains Haven
+Troninho - draws Nobles, Gold, Saboteur, Saboteur
+Troninho - shuffles deck
+Troninho - draws Copper
+ 
+------------ Game Over ------------
+Troninho - cards: 7 Haven, 4 Saboteur, 4 University, 3 Nobles, 3 Menagerie, 1 Smugglers, 1 Necropolis, 6 Copper, 1 Gold, 1 Silver, 2 Estate, 1 Overgrown Estate, 1 Province
+Troninho - total victory points: 14
+Troninho - turns: 18
+ 
+Titandrake - cards: 4 Nobles, 3 Menagerie, 3 Haven, 2 University, 2 Saboteur, 1 Necropolis, 1 Smugglers, 1 Dame Anna, 2 Gold, 2 Copper, 1 Silver, 2 Estate, 1 Overgrown Estate
+Titandrake - total victory points: 10
+Titandrake - turns: 17
+ 
+1st place: Troninho
+2nd place: Titandrake
+ 

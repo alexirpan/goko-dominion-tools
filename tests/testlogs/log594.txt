@@ -1,0 +1,401 @@
+------------ Game Setup ------------
+Supply cards: Beggar, Lighthouse, Native Village, Pearl Diver, Hermit, Bishop, Silk Road, Catacombs, City, Bank, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: pro
+dirt - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+dirt - shuffles deck
+Titandrake - shuffles deck
+dirt - draws Overgrown Estate, Copper, Hovel, Copper, Copper
+Titandrake - draws Copper, Overgrown Estate, Necropolis, Hovel, Copper
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- dirt: turn 1 ----------
+dirt - plays 3 Copper
+dirt - buys Hermit
+dirt - gains Hermit
+dirt - draws Copper, Copper, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 5 Copper
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - shuffles deck
+Titandrake - draws Copper, Copper, Bishop, Copper, Copper
+ 
+---------- dirt: turn 2 ----------
+dirt - plays Necropolis
+dirt - plays 4 Copper
+dirt - buys Bishop
+dirt - gains Bishop
+dirt - shuffles deck
+dirt - draws Overgrown Estate, Copper, Hovel, Copper, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+dirt - trashes Overgrown Estate
+dirt - draws Necropolis
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Hovel, Copper, Necropolis, Overgrown Estate, Copper
+ 
+---------- dirt: turn 3 ----------
+dirt - plays Necropolis
+dirt - plays 3 Copper
+dirt - buys Native Village
+dirt - gains Native Village
+dirt - draws Copper, Copper, Bishop, Hermit, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 2 Copper
+Titandrake - buys Native Village
+Titandrake - gains Native Village
+Titandrake - draws Native Village, Copper
+Titandrake - shuffles deck
+Titandrake - draws Native Village, Copper, Copper
+ 
+---------- dirt: turn 4 ----------
+dirt - plays Hermit
+dirt - trashes Hovel
+dirt - gains Native Village
+dirt - plays 3 Copper
+dirt - buys Silver
+dirt - gains Silver
+dirt - draws Copper
+dirt - shuffles deck
+dirt - draws Copper, Copper, Copper, Native Village
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Bishop
+Titandrake - plays Native Village
+Titandrake - takes set aside cards: Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+dirt - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Hermit
+Titandrake - gains Hermit
+Titandrake - draws Overgrown Estate, Copper, Necropolis, Silver, Hovel
+ 
+---------- dirt: turn 5 ----------
+dirt - plays Native Village
+dirt - sets aside Bishop
+dirt - plays 3 Copper
+dirt - buys Native Village
+dirt - gains Native Village
+dirt - draws Hermit, Copper, Copper, Necropolis, Copper
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Copper
+Titandrake - shuffles deck
+Titandrake - draws Hermit, Hovel, Silver
+ 
+---------- dirt: turn 6 ----------
+dirt - plays Hermit
+dirt - gains Native Village
+dirt - trashes Hermit
+dirt - gains Madman
+dirt - draws Native Village, Silver
+dirt - shuffles deck
+dirt - draws Necropolis, Copper, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Hermit
+Titandrake - trashes Hovel
+Titandrake - gains Native Village
+Titandrake - trashes Hermit
+Titandrake - gains Madman
+Titandrake - draws Native Village, Silver, Necropolis, Bishop, Overgrown Estate
+ 
+---------- dirt: turn 7 ----------
+dirt - plays Native Village
+dirt - takes set aside cards: Bishop
+dirt - plays Bishop
+dirt - trashes Necropolis
+dirt - receives 0 victory point chips
+Titandrake - trashes Overgrown Estate
+Titandrake - draws Copper
+dirt - plays 2 Copper, 1 Silver
+dirt - buys Catacombs
+dirt - gains Catacombs
+dirt - draws Copper, Copper, Native Village, Native Village, Native Village
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Bishop
+Titandrake - trashes Necropolis
+Titandrake - receives 0 victory point chips
+dirt - trashes Copper
+Titandrake - plays 1 Silver, 1 Copper
+Titandrake - buys Bishop
+Titandrake - gains Bishop
+Titandrake - draws Native Village, Copper
+Titandrake - shuffles deck
+Titandrake - draws Native Village, Madman, Silver
+ 
+---------- dirt: turn 8 ----------
+dirt - plays Native Village
+dirt - sets aside Copper
+dirt - plays Native Village
+dirt - sets aside Madman
+dirt - plays Native Village
+dirt - sets aside Copper
+dirt - plays 1 Copper
+dirt - shuffles deck
+dirt - draws Native Village, Native Village, Copper, Bishop, Silver
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Madman
+Titandrake - draws Copper, Silver, Copper, Bishop
+Titandrake - plays Native Village
+Titandrake - sets aside Native Village
+Titandrake - plays Native Village
+Titandrake - sets aside Bishop
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - plays 2 Silver, 2 Copper
+Titandrake - buys Gold
+Titandrake - gains Gold
+Titandrake - draws Copper
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Native Village, Copper, Gold
+ 
+---------- dirt: turn 9 ----------
+dirt - plays Native Village
+dirt - takes set aside cards: Copper, Madman, Copper
+dirt - plays Madman
+dirt - draws Native Village, Copper, Catacombs, Copper, Native Village
+dirt - plays Bishop
+dirt - trashes Copper
+dirt - receives 0 victory point chips
+Titandrake - trashes Copper
+dirt - plays 4 Copper, 1 Silver
+dirt - buys Bank
+dirt - gains Bank
+dirt - shuffles deck
+dirt - draws Native Village, Copper, Silver, Bishop, Native Village
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Native Village
+Titandrake - sets aside Copper
+Titandrake - plays Bishop
+Titandrake - trashes Copper
+Titandrake - receives 0 victory point chips
+Titandrake - draws Silver, Silver, Native Village
+Titandrake - shuffles deck
+Titandrake - draws Native Village, Bishop
+ 
+---------- dirt: turn 10 ----------
+dirt - plays Native Village
+dirt - sets aside Copper
+dirt - plays Native Village
+dirt - sets aside Bank
+dirt - plays Bishop
+dirt - trashes Copper
+dirt - receives 0 victory point chips
+Titandrake - trashes Native Village
+dirt - plays 1 Silver
+dirt - buys Silver
+dirt - gains Silver
+dirt - draws Native Village, Catacombs, Native Village, Copper, Copper
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Native Village
+Titandrake - receives 1 victory point chips
+Titandrake - plays 2 Silver
+Titandrake - buys City
+Titandrake - gains City
+Titandrake - draws Gold
+Titandrake - shuffles deck
+Titandrake - draws City, Bishop, Silver, Silver
+ 
+---------- dirt: turn 11 ----------
+dirt - plays Native Village
+dirt - shuffles deck
+dirt - sets aside Native Village
+dirt - plays Native Village
+dirt - takes set aside cards: Copper, Bank, Native Village
+dirt - plays Catacombs
+dirt - looks at Native Village, Silver, Silver
+dirt - places cards in hand:  Native Village, Silver, Silver
+dirt - plays Native Village
+dirt - sets aside Bishop
+dirt - plays Native Village
+dirt - takes set aside cards: Bishop
+dirt - plays Bishop
+dirt - trashes Copper
+dirt - receives 0 victory point chips
+dirt - plays 2 Copper, 2 Silver
+dirt - plays Bank
+dirt - buys Province
+dirt - gains Province
+dirt - shuffles deck
+dirt - draws Silver, Copper, Native Village, Native Village, Bishop
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Bishop
+Titandrake - trashes City
+Titandrake - receives 2 victory point chips
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Province, Gold, Bishop, Silver
+ 
+---------- dirt: turn 12 ----------
+dirt - plays Native Village
+dirt - sets aside Native Village
+dirt - plays Native Village
+dirt - sets aside Catacombs
+dirt - plays Bishop
+dirt - trashes Copper
+dirt - receives 0 victory point chips
+dirt - plays 1 Silver
+dirt - buys Silver
+dirt - gains Silver
+dirt - draws Copper, Silver, Province, Native Village, Bank
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+dirt - trashes Copper
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Gold, Silver, Silver, Province
+ 
+---------- dirt: turn 13 ----------
+dirt - plays Native Village
+dirt - takes set aside cards: Native Village, Catacombs
+dirt - plays Catacombs
+dirt - shuffles deck
+dirt - looks at Silver, Native Village, Bishop
+dirt - discards: Silver, Native Village, Bishop
+dirt - draws Native Village, Silver
+dirt - shuffles deck
+dirt - draws Bishop
+dirt - plays Native Village
+dirt - sets aside Silver
+dirt - plays Bishop
+dirt - trashes Native Village
+dirt - receives 1 victory point chips
+dirt - plays 2 Silver
+dirt - plays Bank
+dirt - buys Province
+dirt - gains Province
+dirt - draws Native Village
+dirt - shuffles deck
+dirt - draws Province, Province, Silver, Bank
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Silver, Gold, Province, Bishop
+ 
+---------- dirt: turn 14 ----------
+dirt - plays Native Village
+dirt - takes set aside cards: Silver
+dirt - plays 2 Silver
+dirt - plays Bank
+dirt - buys Duchy
+dirt - gains Duchy
+dirt - draws Silver, Native Village, Native Village, Catacombs, Bishop
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Silver, Bishop, Gold, Province, Silver
+ 
+---------- dirt: turn 15 ----------
+dirt - plays Native Village
+dirt - shuffles deck
+dirt - sets aside Native Village
+dirt - plays Catacombs
+dirt - looks at Province, Bank, Silver
+dirt - places cards in hand:  Province, Bank, Silver
+dirt - plays Native Village
+dirt - takes set aside cards: Native Village
+dirt - plays Native Village
+dirt - sets aside Duchy
+dirt - plays Bishop
+dirt - trashes Bank
+dirt - receives 3 victory point chips
+dirt - plays 2 Silver
+dirt - buys Duchy
+dirt - gains Duchy
+dirt - draws Province, Silver
+dirt - shuffles deck
+dirt - draws Bishop, Native Village, Silver
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Province, Silver, Bishop, Silver, Gold
+ 
+---------- dirt: turn 16 ----------
+dirt - plays Native Village
+dirt - sets aside Native Village
+dirt - plays Bishop
+dirt - trashes Silver
+dirt - receives 1 victory point chips
+dirt - plays 1 Silver
+dirt - buys Estate
+dirt - gains Estate
+dirt - draws Duchy, Silver, Catacombs, Native Village, Province
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Bishop
+Titandrake - trashes Province
+Titandrake - receives 4 victory point chips
+Titandrake - plays 2 Silver, 1 Gold
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - shuffles deck
+Titandrake - draws Bishop, Silver, Province, Silver, Gold
+ 
+------------ Game Over ------------
+Titandrake - cards: 2 Bishop, 1 Native Village, 2 Silver, 2 Copper, 1 Gold, 1 Province
+Titandrake - victory point chips: 35
+Titandrake - total victory points: 41
+Titandrake - turns: 17
+ 
+dirt - cards: 3 Native Village, 1 Catacombs, 1 Bishop, 2 Silver, 2 Duchy, 2 Province, 1 Estate
+dirt - victory point chips: 13
+dirt - total victory points: 32
+dirt - turns: 16
+ 
+1st place: Titandrake
+2nd place: dirt
+ 

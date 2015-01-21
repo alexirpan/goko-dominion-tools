@@ -1,0 +1,674 @@
+------------ Game Setup ------------
+Supply cards: Crossroads, Vagrant, Village, Alchemist, Armory, Herald, Young Witch, Counterfeit, Highway, Soothsayer, Altar, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Bane card: Vagrant
+Rating system: pro
+frankdom - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+Titandrake - starting cards: Necropolis, Overgrown Estate, Hovel, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+frankdom - shuffles deck
+Titandrake - shuffles deck
+frankdom - draws Copper, Hovel, Necropolis, Copper, Copper
+Titandrake - draws Hovel, Copper, Copper, Copper, Copper
+ 
+---------- frankdom: turn 1 ----------
+frankdom - plays Necropolis
+frankdom - plays 3 Copper
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - draws Copper, Copper, Copper, Copper, Overgrown Estate
+ 
+---------- Titandrake: turn 1 ----------
+Titandrake - plays 4 Copper
+Titandrake - buys Young Witch
+Titandrake - gains Young Witch
+Titandrake - draws Overgrown Estate, Copper, Copper, Necropolis, Copper
+ 
+---------- frankdom: turn 2 ----------
+frankdom - plays 4 Copper
+frankdom - buys Young Witch
+frankdom - gains Young Witch
+frankdom - shuffles deck
+frankdom - draws Copper, Copper, Young Witch, Copper, Copper
+ 
+---------- Titandrake: turn 2 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - shuffles deck
+Titandrake - draws Hovel, Necropolis, Copper, Copper, Copper
+ 
+---------- frankdom: turn 3 ----------
+frankdom - plays Young Witch
+frankdom - draws Copper, Copper
+frankdom - discards Copper
+frankdom - discards Copper
+Titandrake - gains Curse
+frankdom - plays 4 Copper
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Silver, Hovel, Overgrown Estate, Necropolis, Copper
+ 
+---------- Titandrake: turn 3 ----------
+Titandrake - plays 3 Copper
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Silver, Copper, Overgrown Estate, Copper, Copper
+ 
+---------- frankdom: turn 4 ----------
+frankdom - plays Necropolis
+frankdom - plays 1 Silver, 1 Copper
+frankdom - buys Village
+frankdom - gains Village
+frankdom - shuffles deck
+frankdom - draws Herald, Copper, Copper, Copper, Copper
+ 
+---------- Titandrake: turn 4 ----------
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Counterfeit
+Titandrake - gains Counterfeit
+Titandrake - draws Young Witch, Copper
+Titandrake - shuffles deck
+Titandrake - draws Counterfeit, Copper, Copper
+ 
+---------- frankdom: turn 5 ----------
+frankdom - plays Herald
+frankdom - draws Young Witch
+frankdom - reveals: Overgrown Estate
+frankdom - places Overgrown Estate on top of deck
+frankdom - plays Young Witch
+frankdom - draws Overgrown Estate, Copper
+frankdom - discards Overgrown Estate
+frankdom - discards Copper
+Titandrake - gains Curse
+frankdom - plays 4 Copper
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Copper, Hovel, Village, Silver, Necropolis
+ 
+---------- Titandrake: turn 5 ----------
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Overgrown Estate
+Titandrake - discards Overgrown Estate
+Titandrake - discards Copper
+frankdom - gains Curse
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays 2 Copper
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Village, Silver, Copper, Hovel, Copper
+ 
+---------- frankdom: turn 6 ----------
+frankdom - plays Village
+frankdom - draws Copper
+frankdom - plays Necropolis
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - shuffles deck
+frankdom - draws Copper, Herald, Copper, Copper, Young Witch
+ 
+---------- Titandrake: turn 6 ----------
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays 3 Copper, 1 Silver
+Titandrake - buys Herald
+Titandrake - overpays for Herald with 1 coin
+Titandrake - places Young Witch on top of deck
+Titandrake - gains Herald
+Titandrake - draws Young Witch, Curse, Necropolis
+Titandrake - shuffles deck
+Titandrake - draws Curse, Silver
+ 
+---------- frankdom: turn 7 ----------
+frankdom - plays Herald
+frankdom - draws Silver
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - draws Curse
+frankdom - reveals: Overgrown Estate
+frankdom - places Overgrown Estate on top of deck
+frankdom - plays Young Witch
+frankdom - draws Overgrown Estate, Copper
+frankdom - discards Curse
+frankdom - discards Overgrown Estate
+Titandrake - gains Curse
+frankdom - plays 4 Copper, 1 Silver
+frankdom - buys Counterfeit
+frankdom - gains Counterfeit
+frankdom - draws Copper, Herald, Copper, Hovel, Copper
+ 
+---------- Titandrake: turn 7 ----------
+Titandrake - plays Necropolis
+Titandrake - plays Young Witch
+Titandrake - draws Copper, Counterfeit
+Titandrake - discards Curse
+Titandrake - discards Curse
+frankdom - gains Curse
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Copper, Copper, Village, Copper, Herald
+ 
+---------- frankdom: turn 8 ----------
+frankdom - plays Herald
+frankdom - draws Necropolis
+frankdom - reveals: Village
+frankdom - plays Village
+frankdom - shuffles deck
+frankdom - draws Copper
+frankdom - plays Necropolis
+frankdom - plays 4 Copper
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Curse, Counterfeit, Young Witch, Copper, Copper
+ 
+---------- Titandrake: turn 8 ----------
+Titandrake - plays Herald
+Titandrake - draws Copper
+Titandrake - reveals: Highway
+Titandrake - plays Highway
+Titandrake - draws Hovel
+Titandrake - plays Village
+Titandrake - draws Copper
+Titandrake - plays 5 Copper
+Titandrake - buys Altar
+Titandrake - gains Altar
+Titandrake - draws Overgrown Estate
+Titandrake - shuffles deck
+Titandrake - draws Copper, Highway, Necropolis, Highway
+ 
+---------- frankdom: turn 9 ----------
+frankdom - plays Young Witch
+frankdom - draws Curse, Herald
+frankdom - discards Curse
+frankdom - discards Curse
+Titandrake - gains Curse
+frankdom - plays Counterfeit
+frankdom - plays Copper
+frankdom - plays Copper
+frankdom - trashes Copper
+frankdom - plays Copper
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Herald, Overgrown Estate, Copper, Silver
+frankdom - shuffles deck
+frankdom - draws Curse
+ 
+---------- Titandrake: turn 9 ----------
+Titandrake - plays Highway
+Titandrake - draws Curse
+Titandrake - plays Highway
+Titandrake - draws Young Witch
+Titandrake - plays Young Witch
+Titandrake - draws Village, Copper
+Titandrake - discards Curse
+Titandrake - discards Overgrown Estate
+frankdom - gains Curse
+Titandrake - plays 2 Copper
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Copper, Counterfeit, Altar, Copper, Hovel
+ 
+---------- frankdom: turn 10 ----------
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Copper, Curse, Necropolis, Hovel, Copper
+ 
+---------- Titandrake: turn 10 ----------
+Titandrake - plays Altar
+Titandrake - trashes Hovel
+Titandrake - gains Highway
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Armory
+Titandrake - gains Armory
+Titandrake - draws Silver, Curse, Curse, Copper, Herald
+ 
+---------- frankdom: turn 11 ----------
+frankdom - plays Necropolis
+frankdom - plays 2 Copper
+frankdom - buys Vagrant
+frankdom - gains Vagrant
+frankdom - draws Herald, Herald, Village, Copper, Counterfeit
+ 
+---------- Titandrake: turn 11 ----------
+Titandrake - plays Herald
+Titandrake - shuffles deck
+Titandrake - draws Village
+Titandrake - reveals: Counterfeit
+Titandrake - places Counterfeit on top of deck
+Titandrake - plays Village
+Titandrake - draws Counterfeit
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Highway, Copper, Overgrown Estate, Copper, Necropolis
+ 
+---------- frankdom: turn 12 ----------
+frankdom - plays Herald
+frankdom - draws Young Witch
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - draws Herald
+frankdom - shuffles deck
+frankdom - reveals: Overgrown Estate
+frankdom - places Overgrown Estate on top of deck
+frankdom - plays Herald
+frankdom - draws Overgrown Estate
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Village
+frankdom - draws Copper
+frankdom - plays Young Witch
+frankdom - draws Herald, Curse
+frankdom - discards Overgrown Estate
+frankdom - discards Curse
+Titandrake - gains Curse
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Necropolis
+frankdom - plays Necropolis
+frankdom - plays Counterfeit
+frankdom - plays Copper
+frankdom - plays Copper
+frankdom - trashes Copper
+frankdom - plays 3 Copper
+frankdom - buys Altar
+frankdom - gains Altar
+frankdom - draws Curse, Copper, Copper, Vagrant, Curse
+ 
+---------- Titandrake: turn 12 ----------
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays 3 Copper
+Titandrake - buys Herald
+Titandrake - gains Herald
+Titandrake - draws Highway, Silver, Highway, Curse, Armory
+ 
+---------- frankdom: turn 13 ----------
+frankdom - plays Vagrant
+frankdom - draws Silver
+frankdom - reveals: Herald
+frankdom - places Herald on top of deck
+frankdom - plays 2 Copper, 1 Silver
+frankdom - buys Herald
+frankdom - gains Herald
+frankdom - draws Herald, Hovel
+frankdom - shuffles deck
+frankdom - draws Herald, Copper, Herald
+ 
+---------- Titandrake: turn 13 ----------
+Titandrake - plays Highway
+Titandrake - draws Altar
+Titandrake - plays Highway
+Titandrake - draws Young Witch
+Titandrake - plays Altar
+Titandrake - trashes Curse
+Titandrake - gains Altar
+Titandrake - plays Silver
+Titandrake - buys Silver
+Titandrake - gains Silver
+Titandrake - draws Curse
+Titandrake - shuffles deck
+Titandrake - draws Overgrown Estate, Necropolis, Silver, Village
+ 
+---------- frankdom: turn 14 ----------
+frankdom - plays Herald
+frankdom - draws Counterfeit
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - draws Village
+frankdom - reveals: Altar
+frankdom - plays Altar
+frankdom - trashes Hovel
+frankdom - gains Highway
+frankdom - plays Herald
+frankdom - draws Silver
+frankdom - reveals: Curse
+frankdom - places Curse on top of deck
+frankdom - plays Village
+frankdom - draws Curse
+frankdom - plays Counterfeit
+frankdom - plays Silver
+frankdom - plays Silver
+frankdom - trashes Silver
+frankdom - plays Copper
+frankdom - plays Copper
+frankdom - buys Highway
+frankdom - gains Highway
+frankdom - buys Vagrant
+frankdom - gains Vagrant
+frankdom - draws Herald, Copper, Copper, Young Witch, Herald
+ 
+---------- Titandrake: turn 14 ----------
+Titandrake - plays Village
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Curse
+Titandrake - plays Silver
+Titandrake - buys Village
+Titandrake - gains Village
+Titandrake - draws Copper, Herald, Curse, Copper, Silver
+ 
+---------- frankdom: turn 15 ----------
+frankdom - plays Herald
+frankdom - draws Overgrown Estate
+frankdom - reveals: Curse
+frankdom - places Curse on top of deck
+frankdom - plays Herald
+frankdom - draws Curse
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Young Witch
+frankdom - draws Copper, Necropolis
+frankdom - discards Overgrown Estate
+frankdom - discards Curse
+Titandrake - gains Curse
+frankdom - plays 3 Copper
+frankdom - buys Silver
+frankdom - gains Silver
+frankdom - draws Herald, Curse, Vagrant
+frankdom - shuffles deck
+frankdom - draws Copper, Village
+ 
+---------- Titandrake: turn 15 ----------
+Titandrake - plays Herald
+Titandrake - draws Highway
+Titandrake - reveals: Curse
+Titandrake - places Curse on top of deck
+Titandrake - plays Highway
+Titandrake - draws Curse
+Titandrake - plays 2 Copper, 1 Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Counterfeit, Highway, Copper, Altar, Highway
+ 
+---------- frankdom: turn 16 ----------
+frankdom - plays Vagrant
+frankdom - draws Copper
+frankdom - reveals: Herald
+frankdom - places Herald on top of deck
+frankdom - plays Herald
+frankdom - draws Herald
+frankdom - reveals: Highway
+frankdom - plays Highway
+frankdom - draws Curse
+frankdom - plays Herald
+frankdom - draws Vagrant
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - draws Herald
+frankdom - reveals: Silver
+frankdom - places Silver on top of deck
+frankdom - plays Herald
+frankdom - draws Silver
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Vagrant
+frankdom - draws Copper
+frankdom - reveals: Counterfeit
+frankdom - places Counterfeit on top of deck
+frankdom - plays Village
+frankdom - draws Counterfeit
+frankdom - plays Counterfeit
+frankdom - plays Silver
+frankdom - plays Silver
+frankdom - trashes Silver
+frankdom - plays 3 Copper
+frankdom - buys Highway
+frankdom - gains Highway
+frankdom - buys Highway
+frankdom - gains Highway
+frankdom - draws Copper, Altar, Herald, Necropolis, Herald
+ 
+---------- Titandrake: turn 16 ----------
+Titandrake - plays Highway
+Titandrake - draws Herald
+Titandrake - plays Herald
+Titandrake - draws Young Witch
+Titandrake - reveals: Silver
+Titandrake - places Silver on top of deck
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Young Witch
+Titandrake - draws Altar, Armory
+Titandrake - discards Altar
+Titandrake - discards Altar
+frankdom - gains Curse
+Titandrake - plays Counterfeit
+Titandrake - plays Silver
+Titandrake - plays Silver
+Titandrake - trashes Silver
+Titandrake - plays Copper
+Titandrake - buys Province
+Titandrake - gains Province
+Titandrake - buys Crossroads
+Titandrake - gains Crossroads
+Titandrake - shuffles deck
+Titandrake - draws Counterfeit, Herald, Curse, Province, Copper
+ 
+---------- frankdom: turn 17 ----------
+frankdom - plays Herald
+frankdom - draws Young Witch
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - draws Overgrown Estate
+frankdom - reveals: Curse
+frankdom - places Curse on top of deck
+frankdom - plays Herald
+frankdom - draws Curse
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Necropolis
+frankdom - plays Young Witch
+frankdom - draws Copper, Highway
+frankdom - discards Overgrown Estate
+frankdom - discards Curse
+frankdom - plays Highway
+frankdom - shuffles deck
+frankdom - draws Village
+frankdom - plays Village
+frankdom - draws Highway
+frankdom - plays Highway
+frankdom - draws Vagrant
+frankdom - plays Vagrant
+frankdom - draws Overgrown Estate
+frankdom - reveals: Herald
+frankdom - places Herald on top of deck
+frankdom - plays Altar
+frankdom - trashes Overgrown Estate
+frankdom - draws Herald
+frankdom - gains Duchy
+frankdom - plays Herald
+frankdom - draws Herald
+frankdom - reveals: Vagrant
+frankdom - plays Vagrant
+frankdom - draws Curse
+frankdom - reveals: Curse
+frankdom - places Curse in hand
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays 3 Copper
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - draws Copper, Counterfeit, Highway, Copper, Curse
+ 
+---------- Titandrake: turn 17 ----------
+Titandrake - plays Herald
+Titandrake - draws Highway
+Titandrake - reveals: Village
+Titandrake - plays Village
+Titandrake - draws Curse
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Counterfeit
+Titandrake - plays Copper
+Titandrake - plays Copper
+Titandrake - trashes Copper
+Titandrake - plays Copper
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Herald, Altar, Altar, Highway, Curse
+ 
+---------- frankdom: turn 18 ----------
+frankdom - plays Highway
+frankdom - draws Herald
+frankdom - plays Herald
+frankdom - draws Herald
+frankdom - reveals: Highway
+frankdom - plays Highway
+frankdom - draws Curse
+frankdom - plays Herald
+frankdom - shuffles deck
+frankdom - draws Curse
+frankdom - reveals: Altar
+frankdom - plays Altar
+frankdom - trashes Curse
+frankdom - gains Duchy
+frankdom - plays Counterfeit
+frankdom - plays Copper
+frankdom - plays Copper
+frankdom - trashes Copper
+frankdom - plays Copper
+frankdom - buys Duchy
+frankdom - gains Duchy
+frankdom - buys Estate
+frankdom - gains Estate
+frankdom - draws Necropolis, Vagrant, Herald, Highway, Herald
+ 
+---------- Titandrake: turn 18 ----------
+Titandrake - plays Herald
+Titandrake - draws Curse
+Titandrake - reveals: Highway
+Titandrake - plays Highway
+Titandrake - draws Copper
+Titandrake - plays Highway
+Titandrake - draws Village
+Titandrake - plays Village
+Titandrake - draws Silver
+Titandrake - plays Altar
+Titandrake - trashes Curse
+Titandrake - gains Duchy
+Titandrake - plays Altar
+Titandrake - trashes Curse
+Titandrake - gains Duchy
+Titandrake - plays 1 Copper, 1 Silver
+Titandrake - buys Duchy
+Titandrake - gains Duchy
+Titandrake - draws Highway, Crossroads, Necropolis, Overgrown Estate, Young Witch
+ 
+---------- frankdom: turn 19 ----------
+frankdom - plays Vagrant
+frankdom - draws Duchy
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - draws Copper
+frankdom - reveals: Curse
+frankdom - places Curse on top of deck
+frankdom - plays Herald
+frankdom - draws Curse
+frankdom - reveals: Vagrant
+frankdom - plays Vagrant
+frankdom - draws Herald
+frankdom - reveals: Highway
+frankdom - places Highway on top of deck
+frankdom - plays Herald
+frankdom - draws Highway
+frankdom - reveals: Copper
+frankdom - places Copper on top of deck
+frankdom - plays Highway
+frankdom - draws Copper
+frankdom - plays Highway
+frankdom - draws Young Witch
+frankdom - plays Necropolis
+frankdom - plays Young Witch
+frankdom - draws Herald, Duchy
+frankdom - discards Curse
+frankdom - discards Duchy
+frankdom - plays Herald
+frankdom - draws Village
+frankdom - shuffles deck
+frankdom - reveals: Herald
+frankdom - plays Herald
+frankdom - draws Duchy
+frankdom - reveals: Duchy
+frankdom - places Duchy on top of deck
+frankdom - plays Village
+frankdom - draws Duchy
+frankdom - plays 3 Copper
+frankdom - buys Counterfeit
+frankdom - gains Counterfeit
+frankdom - draws Highway, Altar, Highway, Curse, Counterfeit
+ 
+---------- Titandrake: turn 19 ----------
+Titandrake - plays Highway
+Titandrake - draws Highway
+Titandrake - plays Highway
+Titandrake - draws Silver
+Titandrake - plays Crossroads
+Titandrake - reveals hand: Necropolis, Overgrown Estate, Young Witch, Silver
+Titandrake - draws Curse
+Titandrake - plays Young Witch
+Titandrake - draws Armory
+Titandrake - shuffles deck
+Titandrake - draws Herald
+Titandrake - discards Curse
+Titandrake - discards Overgrown Estate
+Titandrake - plays Herald
+Titandrake - draws Highway
+Titandrake - reveals: Village
+Titandrake - plays Village
+Titandrake - draws Curse
+Titandrake - plays Highway
+Titandrake - draws Province
+Titandrake - plays Armory
+Titandrake - gains Herald
+Titandrake - plays Silver
+Titandrake - buys Highway
+Titandrake - gains Highway
+Titandrake - draws Herald, Village, Duchy, Curse, Altar
+ 
+------------ Game Over ------------
+Titandrake - cards: 6 Highway, 3 Herald, 2 Village, 2 Altar, 1 Crossroads, 1 Young Witch, 1 Armory, 1 Necropolis, 2 Silver, 2 Copper, 1 Counterfeit, 4 Duchy, 1 Overgrown Estate, 1 Province, 3 Curse
+Titandrake - total victory points: 15
+Titandrake - turns: 19
+ 
+frankdom - cards: 7 Herald, 4 Highway, 2 Vagrant, 1 Altar, 1 Necropolis, 1 Young Witch, 1 Village, 4 Copper, 2 Counterfeit, 4 Duchy, 1 Estate, 3 Curse
+frankdom - total victory points: 10
+frankdom - turns: 19
+ 
+1st place: Titandrake
+2nd place: frankdom
+ 
