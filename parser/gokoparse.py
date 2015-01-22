@@ -553,9 +553,6 @@ class GameState:
             if deck[GameState.WILD] > 0:
                 deck[GameState.WILD] -= 1
             elif self.debug:
-                print deck
-                print pname
-                print card
                 raise ValueError("Tried to remove card that wasn't there")
         else:
             deck[card] -= 1
@@ -691,9 +688,6 @@ def generate_game_states(logtext, debug=True):
     # TODO this is the same structure as the above code (continue at the end of every case)
     # Someone this design feels clunky but I can't think of anything better right now?
     for line, next_line in zip(log_lines, log_lines[1:]):
-        print line
-        for name in pnames:
-            print name, state.player_hands[playerInd[name]]
         game_states.append(copy.deepcopy(state))
 
         m = RE_TURNX.match(line)
