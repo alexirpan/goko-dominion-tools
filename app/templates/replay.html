@@ -137,6 +137,7 @@
                 'Remake':'action',
                 'Remodel':'action',
                 'Rogue':'action',
+                'Ruins':'action-ruins',
                 'Saboteur':'action',
                 'Sage':'action',
                 'Salvager':'action',
@@ -251,15 +252,256 @@
                 'Soothsayer':'action-attack',
             };
 
-            // TODO
+            // potion costs are fractional to give desired sort order
             var costs = {
-
+                'Border Village': 6,
+                'Farming Village': 4,
+                'Mining Village': 4,
+                'Native Village': 2,
+                'Walled Village': 4,
+                'Worker\'s Village': 4,
+                'Ruined Village': 0,
+                'Fishing Village': 3,
+                'Village': 3,
+                'Ruined Library': 0,
+                'Library': 5,
+                'Abandoned Mine': 0,
+                'Mine': 5,
+                'Bag of Gold': 0,
+                'Fool\'s Gold': 2,
+                'Gold': 6,
+                'Overgrown Estate': 1,
+                'Estate': 2,
+                'Counting House': 5,
+                'Count': 5,
+                'Coppersmith': 4,
+                'Copper': 0,
+                'Ruined Market':0,
+                'Grand Market':6,
+                'Black Market':3,
+                'Market Square':3,
+                'Market':5,
+                'Adventurer':6,
+                'Alchemist':3.1,
+                'Altar':6,
+                'Ambassador':3,
+                'Apothecary':2.1,
+                'Apprentice':5,
+                'Armory':4,
+                'Band of Misfits':5,
+                'Bandit Camp':5,
+                'Baron':4,
+                'Bazaar':5,
+                'Bishop':4,
+                'Bridge':4,
+                'Bureaucrat':4,
+                'Cartographer':5,
+                'Catacombs':5,
+                'Cellar':2,
+                'Chancellor':3,
+                'Chapel':2,
+                'City':5,
+                'Conspirator':4,
+                'Council Room':5,
+                'Courtyard':2,
+                'Crossroads':2,
+                'Cultist':5,
+                'Cutpurse':4,
+                'Dame Anna':5,
+                'Dame Molly':5,
+                'Dame Natalie':5,
+                'Dame Sylvia':5,
+                'Death Cart':4,
+                'Develop':3,
+                'Duchess':2,
+                'Embargo':2,
+                'Embassy':5,
+                'Envoy':4,
+                'Expand':7,
+                'Explorer':5,
+                'Familiar':3.1,
+                'Feast':4,
+                'Festival':5,
+                'Followers':0,
+                'Forager':3,
+                'Forge':7,
+                'Fortress':4,
+                'Fortune Teller':3,
+                'Ghost Ship':5,
+                'Golem':4.1,
+                'Goons':6,
+                'Governor':5,
+                'Graverobber':5,
+                'Haggler':5,
+                'Hamlet':2,
+                'Harvest':5,
+                'Herbalist':2,
+                'Hermit':3,
+                'Highway':5,
+                'Hunting Grounds':6,
+                'Hunting Party':5,
+                'Inn':5,
+                'Ironmonger':4,
+                'Ironworks':4,
+                'JackOfAllTrades':4,
+                'Jester':5,
+                'Junk Dealer':5,
+                'King\'s Court':7,
+                'Knights':5,
+                'Laboratory':5,
+                'Lookout':3,
+                'Madman':0,
+                'Mandarin':5,
+                'Marauder':4,
+                'Margrave':5,
+                'Masquerade':3,
+                'Menagerie':3,
+                'Mercenary':0,
+                'Militia':4,
+                'Minion':5,
+                'Mint':5,
+                'Moneylender':4,
+                'Monument':4,
+                'Mountebank':5,
+                'Mystic':5,
+                'Navigator':4,
+                'Noble Brigand':4,
+                'Nomad Camp':4,
+                'Oasis':3,
+                'Oracle':3,
+                'Pawn':2,
+                'Pearl Diver':2,
+                'Peddler':8,
+                'Pillage':5,
+                'Pirate Ship':4,
+                'Poor House':1,
+                'Possession':6.1,
+                'Prince':8,
+                'Princess':0,
+                'Procession':4,
+                'Rabble':5,
+                'Rats':4,
+                'Rebuild':5,
+                'Remake':4,
+                'Remodel':4,
+                'Rogue':5,
+                'Saboteur':5,
+                'Sage':3,
+                'Salvager':4,
+                'Scavenger':4,
+                'Scheme':3,
+                'Scout':4,
+                'Scrying Pool':2.1,
+                'Sea Hag':4,
+                'Shanty Town':3,
+                'Sir Bailey':5,
+                'Sir Destry':5,
+                'Sir Martin':4,
+                'Sir Michael':5,
+                'Sir Vander':5,
+                'Smithy':4,
+                'Smugglers':3,
+                'Spice Merchant':4,
+                'Spy':4,
+                'Squire':2,
+                'Stables':5,
+                'Steward':3,
+                'Storeroom':3,
+                'Swindler':3,
+                'Thief':4,
+                'Throne Room':4,
+                'Torturer':5,
+                'Tournament':4,
+                'Trade Route':3,
+                'Trading Post':5,
+                'Transmute':0.1,
+                'Treasure Map':4,
+                'Treasury':5,
+                'Tribute':5,
+                'Trusty Steed':0,
+                'University':2.1,
+                'Upgrade':5,
+                'Urchin':3,
+                'Vagrant':2,
+                'Vault':5,
+                'Wandering Minstrel':4,
+                'Warehouse':3,
+                'Wishing Well':3,
+                'Witch':5,
+                'Young Witch':4,
+                'Woodcutter':3,
+                'Workshop':3,
+                'Beggar':2,
+                'Watchtower':3,
+                'Horse Traders':4,
+                'Moat':2,
+                'Secret Chamber':2,
+                'Trader':4,
+                'Bank':7,
+                'Cache':5,
+                'Contraband':5,
+                'Counterfeit':5,
+                'Diadem':0,
+                'Hoard':6,
+                'Horn of Plenty':5,
+                'Ill-Gotten Gains':5,
+                'Loan':3,
+                'Philosopher\'s Stone':3.1,
+                'Platinum':9,
+                'Potion':4,
+                'Quarry':4,
+                'Royal Seal':5,
+                'Silver':3,
+                'Spoils':0,
+                'Stash':5,
+                'Talisman':4,
+                'Venture':5,
+                'Colony':11,
+                'Duchy':5,
+                'Duke':5,
+                'Fairgrounds':6,
+                'Farmland':6,
+                'Feodum':4,
+                'Gardens':4,
+                'Province':8,
+                'Silk Road':4,
+                'Vineyard':0.1,
+                'Caravan':4,
+                'Haven':2,
+                'Lighthouse':2,
+                'Merchant Ship':5,
+                'Outpost':5,
+                'Tactician':5,
+                'Wharf':5,
+                'Survivors':0,
+                'Dame Josephine':5,
+                'Great Hall':3,
+                'Nobles':6,
+                'Island':4,
+                'Harem':6,
+                'Hovel':1,
+                'Necropolis':1,
+                'Tunnel':3,
+                'victory point chips':0,
+                'Curse':0,
+                'Candlestick Maker':2,
+                'Stonemason':2,
+                'Doctor':3,
+                'Masterpiece':3,
+                'Advisor':4,
+                'Herald':4,
+                'Plaza':4,
+                'Taxman':4,
+                'Baker':5,
+                'Butcher':5,
+                'Journeyman':5,
+                'Merchant Guild':5,
+                'Soothsayer':5,
             };
 
-            // these lists need to be in order of cost!
-            var kingdomVictory = ['Estate', 'Duchy', 'Province', 'Colony'];
+            // these lists need to be sorted in order of display
+            var kingdomVictory = ['Estate', 'Duchy', 'Province', 'Colony', 'Curse', 'Ruins']
             var kingdomTreasure = ['Copper', 'Silver', 'Potion', 'Gold', 'Platinum'];
-            var kingdomJunk = ['Curse', 'Ruins'];
 
             var selected;
 
@@ -287,10 +529,13 @@
                 return sp;
             }
 
-            function createNumber(num) {
+            function createCount(num, cname) {
+                var p = document.createElement("p");
                 var sp = document.createElement("span");
                 sp.innerHTML = String(num);
-                return sp;
+                p.appendChild(sp);
+                p.appendChild(createCard(cname));
+                return p;
             }
 
             var supply;
@@ -328,8 +573,7 @@
                     var deck = state['decks'][pnames[i]];
                     for (var card in deck) {
                         if (deck.hasOwnProperty(card)) {
-                            node.appendChild(createNumber(deck[card]));
-                            node.appendChild(createCard(card));
+                            node.appendChild(createCount(deck[card], card));
                         }
                     }
                 }
@@ -343,11 +587,16 @@
                 sup.innerHTML = "Supply";
                 var supply = state['supply'];
                 node.appendChild(sup);
+                var cards = [];
                 for (var card in supply) {
                     if (supply.hasOwnProperty(card)) {
-                        node.appendChild(createNumber(supply[card]));
-                        node.appendChild(createCard(card));
+                        cards.push(card);
                     }
+                }
+                cards.sort(function(a,b) { return -(costs[a] - costs[b]); });
+                for (var j = 0; j < cards.length; j++) {
+                    var card = cards[j];
+                    node.appendChild(createCount(supply[card], card));
                 }
             }
 
