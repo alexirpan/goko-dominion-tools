@@ -499,9 +499,10 @@
                 'Soothsayer':5,
             };
 
-            // these lists need to be sorted in order of display
-            var kingdomVictory = ['Estate', 'Duchy', 'Province', 'Colony', 'Curse', 'Ruins']
-            var kingdomTreasure = ['Copper', 'Silver', 'Potion', 'Gold', 'Platinum'];
+            // these lists need in order of display
+            var kingdomVictory = ['Colony', 'Province', 'Duchy', 'Estate', 'Curse', 'Ruins'];
+            var kingdomTreasure = ['Platinum', 'Gold', 'Potion', 'Silver', 'Copper'];
+            var nonSupply = ['Spoils', 'Madman', 'Mercenary'];
 
             var selected;
 
@@ -532,13 +533,38 @@
             function createCount(num, cname) {
                 var p = document.createElement("p");
                 var sp = document.createElement("span");
-                sp.innerHTML = String(num);
+                sp.innerHTML = String(num) + " ";
                 p.appendChild(sp);
                 p.appendChild(createCard(cname));
                 return p;
             }
 
             var supply;
+
+            function createCostHeading(cost) {
+                if (typeof cost === 'number') {
+                    if (cost - Math.floor(cost) === 0.1) {
+                        return createCostHeading("$" + Math.floor(cost) + "P");
+                    }
+                    return createCostHeading("$" + cost);
+                }
+                var p = document.createElement("p");
+                p.innerHTML = "--" + cost + "--";
+                p.className = "costheading";
+                return p;
+            }
+
+            function createDeck(name, deck) {
+                var node = document.getElementById("decks");
+                var p = document.createElement("p");
+                p.innerHTML = name + "'s deck";
+                node.appendChild(p);
+                for (var card in deck) {
+                    if (deck.hasOwnProperty(card)) {
+                        node.appendChild(createCount(deck[card], card));
+                    }
+                }
+            }
 
             function createDisplayElements(state) {
                 // there are more log lines than game states
@@ -550,6 +576,11 @@
                 while (node.firstChild) {
                     node.removeChild(node.firstChild);
                 }
+                var deckEle = document.getElementById("decks");
+                while (deckEle.firstChild) {
+                    deckEle.removeChild(deckEle.firstChild);
+                }
+
                 var cardsInPlay = null;
                 var pnames = [];
                 for (var key in state['hands']) {
@@ -567,15 +598,7 @@
                         var card = createCard(hand[j]);
                         node.appendChild(card);
                     }
-                    var name2 = document.createElement("p");
-                    name2.innerHTML = pnames[i] + " deck";
-                    node.appendChild(name2);
-                    var deck = state['decks'][pnames[i]];
-                    for (var card in deck) {
-                        if (deck.hasOwnProperty(card)) {
-                            node.appendChild(createCount(deck[card], card));
-                        }
-                    }
+                    createDeck(pnames[i], state['decks'][pnames[i]]);
                 }
                 var play = document.createElement("p");
                 play.innerHTML = "Play";
@@ -583,20 +606,77 @@
                 for (var j = 0; j < state['play'].length; j++) {
                     node.appendChild(createCard(state['play'][j]));
                 }
-                var sup = document.createElement("p");
-                sup.innerHTML = "Supply";
-                var supply = state['supply'];
-                node.appendChild(sup);
+                createSupply(state['supply']);
+            }
+
+            function createSupply(supply) {
+                var node = document.getElementById("supplyContainer");
+                while (node.firstChild) {
+                    node.removeChild(node.firstChild);
+                }
+                /* basic cards */
+                // base victory
+                var baseRow = document.createElement("tr");
+                node.appendChild(baseRow);
+                var vptd = document.createElement("td");
+                vptd.className = "costblock";
+                vptd.appendChild(createCostHeading("Victory"));
+                for (var i = 0; i < kingdomVictory.length; i++) {
+                    var card = kingdomVictory[i];
+                    if (supply.hasOwnProperty(card)) {
+                        vptd.appendChild(createCount(supply[card], card));
+                    }
+                }
+                baseRow.appendChild(vptd);
+                // base treasure
+                var treasuretd = document.createElement("td");
+                treasuretd.className = "costblock";
+                treasuretd.appendChild(createCostHeading("Treasure"));
+                for (var i = 0; i < kingdomTreasure.length; i++) {
+                    var card = kingdomTreasure[i];
+                    if (supply.hasOwnProperty(card)) {
+                        treasuretd.appendChild(createCount(supply[card], card));
+                    }
+                }
+                baseRow.appendChild(treasuretd);
+
+                var done = Set(kingdomVictory.concat(kingdomTreasure));
                 var cards = [];
                 for (var card in supply) {
                     if (supply.hasOwnProperty(card)) {
-                        cards.push(card);
+                        if (!done.has(card)) {
+                            cards.push(card);
+                        }
                     }
                 }
+
+                /* the rest */
+                var col = 2;
+                var row = baseRow;
+                var cell = document.createElement("td");
+                cell.className = "costblock";
+                row.appendChild(cell);
                 cards.sort(function(a,b) { return -(costs[a] - costs[b]); });
-                for (var j = 0; j < cards.length; j++) {
-                    var card = cards[j];
-                    node.appendChild(createCount(supply[card], card));
+                var cost = costs[cards[0]];
+                cell.appendChild(createCostHeading(cost));
+
+                for (var i = 0; i < cards.length; i++) {
+                    var card = cards[i];
+                    if (costs[card] < cost) {
+                        cost = costs[card];
+                        // move to a new column
+                        col++;
+                        if (col == 3) {
+                            row = document.createElement("tr");
+                            node.appendChild(row);
+                            col = 0;
+                        }
+                        cell = document.createElement("td");
+                        cell.className = "costblock";
+                        row.appendChild(cell);
+                        cell.appendChild(createCostHeading(cost));
+                    }
+                    cell.appendChild(createCount(supply[card], card));
                 }
             }
 
@@ -616,9 +696,18 @@
         </script>
     </head>
     <body>
+        <form action="/replay" method="GET">
+            <input name='log_url' type="text" value="{{ logurl }}"/>
+            <input type="submit" value="Load Replay"/>
+        </form>
         <div id="gamedisplay" style="width:70%">
-            <table id="supply">
-            </table>
+        </div>
+        <br>
+        <div>Supply</div>
+        <table id="supplyContainer" style="supp">
+            <tr></tr>
+        </table>
+        <div id="decks" style="overflow:auto;position:fixed;top:0px;right:33%">
         </div>
         <div id="log" style="overflow:scroll;position:fixed;width:30%;left:70%;top:0px;bottom:0px;">
         </div>

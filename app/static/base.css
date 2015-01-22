@@ -1,9 +1,25 @@
+body {
+    font-family: Arial;
+}
+
 p.line {
     background-color: white;
 }
 
 p.selected {
     background-color: yellow;
+}
+
+p.costheading {
+    text-align: center;
+}
+
+table.supp {
+    padding: 5px;
+}
+
+td.costblock {
+    vertical-align: text-top;
 }
 
 /* Copy pasted from the log-prettifier code */

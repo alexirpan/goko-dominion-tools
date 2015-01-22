@@ -41,7 +41,7 @@ def parse_log():
     try:
         text, game_states = generate_game_states(log.text, debug=False)
         game_states = [state.to_dict() for state in game_states]
-        return render_template("replay.html", log=text, states=game_states)
+        return render_template("replay.html", log=text, states=game_states, logurl=logurl);
     except Exception as e:
         print e
         return "An exception was raised when attempting to construct game states"
