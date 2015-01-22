@@ -46,6 +46,8 @@ def parse_log():
         print e
         return "An exception was raised when attempting to construct game states"
 
-
+dev = False
+host = '127.0.0.1' if dev else '0.0.0.0'
+port = int(os.environ.get("PORT", 5000))
 if __name__ == '__main__':
-    app.run()
+    app.run(host=host, port=port)
