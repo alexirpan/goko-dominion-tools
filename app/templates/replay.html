@@ -543,7 +543,7 @@
 
             function createCostHeading(cost) {
                 if (typeof cost === 'number') {
-                    if (cost - Math.floor(cost) === 0.1) {
+                    if (cost - Math.floor(cost) > 0.05) {
                         return createCostHeading("$" + Math.floor(cost) + "P");
                     }
                     return createCostHeading("$" + cost);
