@@ -409,15 +409,82 @@ def find_cleanup_phase_hands(log_lines):
     return hands_for_each_turn
 
 
+"""
+Moves a card from one Counter object to another
+"""
+def _move(card, fro, to):
+    if card not in fro:
+        if GameState.WILD in fro:
+            # replace the wild with the desired card and rerun
+            fro[GameState.WILD] -= 1
+            if fro[GameState.WILD] == 0:
+                del fro[GameState.WILD]
+            fro[card] += 1
+            return _move(card, fro, to)
+        raise ValueError("Could not move card %s because it was not in fro" % card)
+    to[card] += 1
+    fro[card] -= 1
+    if fro[card] == 0:
+        del fro[card]
+
+
+class PlayerState:
+    # store data that is specific to a given player
+    def __init__(self):
+        self.hand = Counter()
+        self.draw = Counter()
+        self.discard = Counter()
+        self.revealed = Counter()
+        self.play = Counter()
+        self.setaside = Counter()
+
+    def draw_card(self, card):
+        _move(card, self.draw, self.hand)
+
+
+    def discard_from_hand(self, card):
+        _move(card, self.hand, self.discard)
+
+    def discard_hand(self):
+        self.discard += self.hand
+        self.hand = Counter()
+
+    def shuffle(self):
+        assert len(self.deck.keys()) == 0, "Tried to trigger shuffle while deck was not empty"
+        self.draw += self.discard
+        self.discard = Counter()
+
+    def reveal_card(self, card):
+        _move(card, self.draw, self.revealed)
+
+    def discard_revealed(self):
+        self.discard += self.revealed
+        self.revealed = Counter()
+
+    # called on standard gain
+    def add_card_to_discard(self, card):
+        self.discard[card] += 1
+
+    def add_card_to_deck(self, card):
+        self.draw[card] += 1
+
+    def add_card_to_hand(self, card):
+        self.hand[card] += 1
+
+    def play_card(self, card):
+        _move(card, self.hand, self.play)
+
+
 class GameState:
     # holds all the needed data and some extra methods
     WILD = "WILDCARD"
 
     def __init__(self, pCount, playerInd, debug):
         self.playerInd = playerInd
+        self.player_states = dict()
+        for pname in playerInd:
+            self.player_states[pname] = PlayerState()
         self.pCount = pCount
-        self.player_hands = [ [] for _ in range(self.pCount) ]
-        self.player_decks = [ Counter() for _ in range(self.pCount) ]
         self.last_card_played = None
         self.played_by = None
         self.last_card_bought = None
@@ -427,8 +494,9 @@ class GameState:
         self.last_card_gained = None
         self.debug = debug
         self.phase = 'action'
-        self.cards_in_play = []
         self.supply = None
+        self.trash = Counter()
+        self.cards_in_play = []
 
     def get_player_names_in_order(self):
         pairs = self.playerInd.items()
@@ -438,10 +506,18 @@ class GameState:
     def player_index(self, pname):
         return self.playerInd[pname]
 
+    def draw_card(self, pname, card):
+        self.player_states[pname].draw_card(card)
+
+    def draw_cards(self, pname, cards):
+        for card in cards:
+            self.draw_card(pname, card)
+
     def add_to_hand(self, pname, card):
-        self.player_hands[self.player_index(pname)].append(card)
+        self.player_states[pname].add_card_to_hand(card)
 
     def handle_treasure_case(self, pname, line):
+        ps = self.player_states[pname]
         line = line[line.rfind('-'):]
         # Remove "- plays "
         line = line[8:]
@@ -451,8 +527,7 @@ class GameState:
             self.set_last_card_played(pname, cardname)
             num = int(num)
             for _ in range(num):
-                self.add_card_to_play(cardname)
-                self.remove_from_hand(pname, cardname)
+                ps.play_card(cardname)
 
     def add_wild(self, pname):
         self.add_to_hand(pname, GameState.WILD)
@@ -461,7 +536,10 @@ class GameState:
         self.cards_in_play.append(card)
 
     def draw_cleanup_hand(self, pname, hand):
-        self.player_hands[self.player_index(pname)] = hand
+        ps = self.player_states[pname]
+        ps.discard_hand()
+        for card in hand:
+            ps.draw_card(card)
         self.cards_in_play = []
 
     def get_hand(self, pname):
