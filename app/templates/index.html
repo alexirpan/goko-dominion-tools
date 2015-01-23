@@ -3,6 +3,9 @@
     <head>
     </head>
     <body>
+        {% if msg %}
+        <p>{{ msg }}</p>
+        {% endif %}
         <p>Enter log url</p>
         <form action="/replay" method="GET">
             <input name='log_url' type="text"/>

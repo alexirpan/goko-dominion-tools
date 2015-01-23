@@ -35,9 +35,9 @@ def parse_log():
     try:
         log = requests.get(logurl, timeout=1.0)
     except requests.exceptions.Timeout:
-        return "TIMEOUT OH NOOO"
+        return render_template("index.html", msg="Request timed out - try again")
     except:
-        return "Are you sure you gave a valid url?"
+        return render_template("index.html", msg="Could not download log - are you sure the URL is correct?")
     try:
         text, game_states = generate_game_states(log.text, debug=False)
         game_states = [state.to_dict() for state in game_states]

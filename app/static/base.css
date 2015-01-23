@@ -22,6 +22,10 @@ td.costblock {
     vertical-align: text-top;
 }
 
+td.base {
+    vertical-align: text-top;
+}
+
 /* Copy pasted from the log-prettifier code */
 .action
 { background-color:rgb(240,240,240) ; border-radius: 6px; padding: 0px 4px; }
