@@ -700,16 +700,22 @@
             <input name='log_url' type="text" value="{{ logurl }}"/>
             <input type="submit" value="Load Replay"/>
         </form>
-        <div id="gamedisplay" style="width:70%">
-        </div>
-        <br>
-        <div>Supply</div>
-        <table id="supplyContainer" style="supp">
-            <tr></tr>
-        </table>
-        <div id="decks" style="overflow:auto;position:fixed;top:0px;right:33%">
-        </div>
-        <div id="log" style="overflow:scroll;position:fixed;width:30%;left:70%;top:0px;bottom:0px;">
+        <table width="70%">
+            <td width="55%" class="base">
+                <div id="gamedisplay">
+                </div>
+                <br>
+                <div>Supply</div>
+                <table id="supplyContainer" class="supp">
+                    <tr></tr>
+                </table>
+            </td>
+            <td width="15%" class="base">
+                <div id="decks" style="overflow:auto">
+                </div>
+            </td>
+        <table>
+        <div id="log" style="overflow:auto;position:fixed;width:30%;left:70%;top:0px;bottom:0px">
         </div>
     </body>
 </html>
