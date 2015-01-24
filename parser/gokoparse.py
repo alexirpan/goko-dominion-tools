@@ -351,7 +351,7 @@ def get_cards_trashed(line):
     line = line[line.rfind('- trashes ') + 10:]
     return [card.strip() for card in line.split(', ')]
 
-def find_cleanup_phase_hands(log_lines):
+def annotate_cleanup_hands(log_lines):
     # Okay so dealing with this is just so annoying
     # the only way to differentiate hands drawn during cleanup is by where they are
     # in the log, and there may be extraneous shuffle messages in the way too
@@ -362,8 +362,7 @@ def find_cleanup_phase_hands(log_lines):
 
     # a list of the hands the next player draws during cleanup
     # should handle Outpost, may not handle Possession
-    hands_for_each_turn = []
-    lines_to_remove = []
+    cleanup_start_indices = []
     turn_line_indices = [i for i, line in enumerate(log_lines) if RE_TURNX.match(line)]
     # skip the very first turn line (this is handled in the starting hands section
     for ind in turn_line_indices[1:]:
@@ -380,9 +379,9 @@ def find_cleanup_phase_hands(log_lines):
                     player = pname
                 elif player != pname:
                     break
-                cards.extend(get_cards_drawn(line))
-                if len(cards) == 5:
+                if len(cards) + len(get_cards_drawn(line)) > 5:
                     break
+                cards.extend(get_cards_drawn(line))
             elif RE_SHUFFLES.match(line):
                 pass
             elif RE_STASH.match(line):
@@ -393,25 +392,22 @@ def find_cleanup_phase_hands(log_lines):
         # if there are fewer than 5 cards in opening hand, it's off by one
         if not RE_DRAWS.match(log_lines[start]):
             start += 1
-        lines_to_remove.append( (start, ind) )
-        hands_for_each_turn.append( (pname, cards, log_lines[start:ind]) )
+        cleanup_start_indices.append( (player, start) )
     cleaned = []
     curr = 0
-    i = 0
-    for start, end in lines_to_remove:
+    for pname, start in cleanup_start_indices:
         cleaned.extend(log_lines[curr:start])
-        cleaned.append("DRAW NEW HAND: " + ",".join(hands_for_each_turn[i][2]))
-        i += 1
-        curr = end
+        cleaned.append("DISCARD FOR CLEANUP %s" % pname)
+        curr = start
+    # get remaining lines
     cleaned.extend(log_lines[curr:])
-    cleaned.append("DRAW NEW HAND: " + ",".join(hands_for_each_turn[-1][2]))
-    log_lines[:] = cleaned
-    return hands_for_each_turn
+    return cleaned
 
 
 """
 Moves a card from one Counter object to another
 """
+# TODO wild cards
 def _move(card, fro, to):
     if card not in fro:
         if GameState.WILD in fro:
@@ -432,47 +428,75 @@ class PlayerState:
     # store data that is specific to a given player
     def __init__(self):
         self.hand = Counter()
-        self.draw = Counter()
-        self.discard = Counter()
+        self.drawpile = Counter()
+        self.discarded = Counter()
         self.revealed = Counter()
-        self.play = Counter()
+        self.playarea = Counter()
         self.setaside = Counter()
 
-    def draw_card(self, card):
-        _move(card, self.draw, self.hand)
+    def draw(self, card):
+        _move(card, self.drawpile, self.hand)
 
 
-    def discard_from_hand(self, card):
-        _move(card, self.hand, self.discard)
+    def discard(self, card):
+        _move(card, self.hand, self.discarded)
+
+    def topdeck(self, card):
+        _move(card, self.hand, self.drawpile)
+
+    def topdeck_revealed(self, card):
+        _move(card, self.revealed, self.drawpile)
 
     def discard_hand(self):
-        self.discard += self.hand
+        self.discarded += self.hand
         self.hand = Counter()
 
+    # TODO Durations
+    def discard_play(self):
+        self.discarded += self.playarea
+        self.playarea = Counter()
+
     def shuffle(self):
-        assert len(self.deck.keys()) == 0, "Tried to trigger shuffle while deck was not empty"
-        self.draw += self.discard
-        self.discard = Counter()
+        assert sum(self.drawpile.values()) == 0, "Tried to trigger shuffle while deck was not empty"
+        self.drawpile += self.discarded
+        self.discarded = Counter()
 
     def reveal_card(self, card):
-        _move(card, self.draw, self.revealed)
+        _move(card, self.drawpile, self.revealed)
 
     def discard_revealed(self):
-        self.discard += self.revealed
+        self.discarded += self.revealed
         self.revealed = Counter()
 
     # called on standard gain
     def add_card_to_discard(self, card):
-        self.discard[card] += 1
+        self.discarded[card] += 1
 
     def add_card_to_deck(self, card):
-        self.draw[card] += 1
+        self.drawpile[card] += 1
 
     def add_card_to_hand(self, card):
         self.hand[card] += 1
 
-    def play_card(self, card):
-        _move(card, self.hand, self.play)
+    # TODO Wilds
+    def lose_card(self, card):
+        self.hand[card] -= 1
+
+    def trash(self, card):
+        self.lose_card(card)
+
+    def play(self, card):
+        _move(card, self.hand, self.playarea)
+
+    def to_dict(self):
+        d = dict()
+        d['hand'] = dict(self.hand)
+        d['draw'] = dict(self.drawpile)
+        d['discard'] = dict(self.discarded)
+        d['reveal'] = dict(self.revealed)
+        d['play'] = dict(self.playarea)
+        d['setaside'] = dict(self.setaside)
+        return d
 
 
 class GameState:
@@ -496,7 +520,6 @@ class GameState:
         self.phase = 'action'
         self.supply = None
         self.trash = Counter()
-        self.cards_in_play = []
 
     def get_player_names_in_order(self):
         pairs = self.playerInd.items()
@@ -527,38 +550,25 @@ class GameState:
             self.set_last_card_played(pname, cardname)
             num = int(num)
             for _ in range(num):
-                ps.play_card(cardname)
+                ps.play(cardname)
 
-    def add_wild(self, pname):
-        self.add_to_hand(pname, GameState.WILD)
+    def draw_wild(self, pname):
+        self.draw_card(pname, GameState.WILD)
 
-    def add_card_to_play(self, card):
-        self.cards_in_play.append(card)
+    def get_cards_in_play(self):
+        return [ps.play for ps in self.player_states.values()]
 
     def draw_cleanup_hand(self, pname, hand):
         ps = self.player_states[pname]
         ps.discard_hand()
         for card in hand:
-            ps.draw_card(card)
-        self.cards_in_play = []
+            ps.draw(card)
 
     def get_hand(self, pname):
-        return self.player_hands[self.player_index(pname)]
+        return self.player_states[pname].hand
 
-    def remove_from_hand(self, pname, card):
-        # disambiguating TR/KC chains isn't always possible
-        # may have to ignore some Tr/KC removals later on, but ValueErrors are good bug signals
-        lst = self.player_hands[self.player_index(pname)]
-        if GameState.WILD in lst:
-            try:
-                lst.remove(card)
-            except ValueError:
-                lst.remove(GameState.WILD)
-        elif self.debug:
-            lst.remove(card)
-        else:
-            if card in lst:
-                lst.remove(card)
+    def get_player(self, pname):
+        return self.player_states[pname]
 
     def set_last_card_played(self, pname, card):
         self.last_card_played = card
@@ -595,7 +605,7 @@ class GameState:
         info = dict()
         info['hands'] = dict()
         info['decks'] = dict()
-        # TODO remove this list copying if it's not needed
+        # TODO change for new interface
         for pname, index in self.playerInd.items():
             info['hands'][pname] = list(self.player_hands[index])
             info['decks'][pname] = dict(self.player_decks[index])
@@ -616,26 +626,15 @@ class GameState:
         self.gain_card_from_elsewhere(pname, card)
 
     def gain_card_from_elsewhere(self, pname, card):
-        self.player_decks[self.playerInd[pname]][card] += 1
+        self.get_player(pname).add_card_to_discard(card)
 
     def return_to_supply(self, pname, card):
         if card in RUINSES:
             self.supply['Ruins'] += 1
         elif card in self.supply:
             self.supply[card] += 1
-        self.lose_card(pname, card)
+        self.player_states[pname].lose_card(card)
 
-    def lose_card(self, pname, card):
-        deck = self.player_decks[self.playerInd[pname]]
-        if deck[card] == 0:
-            if deck[GameState.WILD] > 0:
-                deck[GameState.WILD] -= 1
-            elif self.debug:
-                raise ValueError("Tried to remove card that wasn't there")
-        else:
-            deck[card] -= 1
-        if deck[card] == 0:
-            del deck[card]
 
 def generate_game_states(logtext, debug=True):
     # until I'm sure this code works, placing all replay system code
@@ -736,7 +735,10 @@ def generate_game_states(logtext, debug=True):
             # pretend starting cards don't come from the supply
             # this handles shelters case better
             state.gain_card_from_elsewhere(pname, card)
-    # this should probably be in GameState instead?
+    # do a shuffle to make sure we can draw the cards
+    for ps in state.player_states.values():
+        ps.shuffle()
+
     possessed = False
     curr_player = None
 
@@ -755,7 +757,7 @@ def generate_game_states(logtext, debug=True):
     # TODO Right now I believe this removes shuffle message as well. Fix?
     # Best way to do this may be to add a line saying "discards hand for cleanup"
     # instead of doing this manual check
-    hands_for_next_turn = find_cleanup_phase_hands(log_lines)
+    log_lines = annotate_cleanup_hands(log_lines)
 
     # remove extra play lines for TR/KC
     log_lines = clean_play_lines(log_lines)
@@ -767,18 +769,25 @@ def generate_game_states(logtext, debug=True):
     # Someone this design feels clunky but I can't think of anything better right now?
     for line, next_line in zip(log_lines, log_lines[1:]):
         game_states.append(copy.deepcopy(state))
+        print "Processing", line
+        for pname in pnames:
+            print pname, state.get_player(pname).to_dict()
 
         m = RE_TURNX.match(line)
         if m:
             possessed = "[possessed]" in line
             curr_player = m.group(1)
             continue
+        m = RE_SHUFFLES.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).shuffle()
+            continue
         # in preprocessing, add a special marker for when to trigger cleanup
-        if line.startswith("DRAW NEW HAND"):
-            pname, next_hand, skipped_lines = hands_for_next_turn[0]
-            state.draw_cleanup_hand(pname, next_hand)
-            # remove first element of list
-            hands_for_next_turn[0:1] = []
+        if line.startswith("DISCARD FOR CLEANUP"):
+            pname = line[len("DISCARD FOR CLEANUP "):]
+            state.get_player(pname).discard_hand()
+            state.get_player(pname).discard_play()
             continue
         m = RE_TREASURE_PLAYS.match(line)
         if m:
@@ -792,10 +801,11 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             card = m.group(2)
             state.set_last_card_played(pname, card)
-            state.remove_from_hand(pname, card)
-            state.add_card_to_play(card)
+
             if card in RETURN_TO_SUPPLY_ON_PLAY:
                 state.return_to_supply(pname, card)
+            else:
+                state.get_player(pname).play(card)
             continue
         m = RE_ANNOTATED_PLAYS.match(line)
         if m:
@@ -817,7 +827,7 @@ def generate_game_states(logtext, debug=True):
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
-                state.remove_from_hand(pname, card)
+                state.get_player(pname).discard(card)
             continue
         m = RE_DISCARDS.match(line)
         if m and state.last_card_played == 'JackOfAllTrades':
@@ -850,7 +860,7 @@ def generate_game_states(logtext, debug=True):
         if m and state.last_card_played not in DISCARD_FROM_REVEAL and state.last_card_bought is None:
             pname = m.group(1)
             card = m.group(2)
-            state.remove_from_hand(pname, card)
+            state.get_player(pname).discard(card)
             continue
         m = RE_TOPDECKS.match(line)
         # current phase is not very robust so odds are bugs are here
@@ -866,24 +876,19 @@ def generate_game_states(logtext, debug=True):
         if m and state.last_card_played not in TOPDECKS_FROM_REVEAL and state.last_card_played not in TOPDECKS_FROM_PLAY and state.last_card_bought not in TOPDECKS_ON_BUY and state.phase == 'action' and state.last_card_gained not in TOPDECKS_ON_GAIN:
             pname = m.group(1)
             card = m.group(2)
-            state.remove_from_hand(pname, card)
+            state.get_player(pname).topdeck(card)
             continue
         m = RE_DRAWS.match(line)
         if m:
             pname = m.group(1)
             for card in get_cards_drawn(line):
-                state.add_to_hand(pname, card)
+                state.get_player(pname).draw(card)
             continue
         m = RE_TRASHES.match(line)
         if m:
             pname = m.group(1)
             cards = get_cards_trashed(line)
             trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_ON_BUY and state.revealed_reaction != 'Watchtower'
-            # General trashing bookkeeping
-            for card in cards:
-                if card == 'Fortress' or (possessed and pname == curr_player):
-                    continue
-                state.lose_card(pname, card)
 
             if trash_from_hand:
                 # the TM in play is always trashed, so remove one from the list
@@ -891,11 +896,12 @@ def generate_game_states(logtext, debug=True):
                     cards.remove('Treasure Map')
 
                 for card in cards:
-                    if card != 'Fortress':
-                        state.remove_from_hand(pname, card)
+                    if card != 'Fortress' and not (possessed and pname == curr_player):
+                        state.get_player(pname).trash(card)
             else:
                 # handle on-trash effects
                 for card in cards:
+                    # TODO don't duplicate the fortress
                     if card == 'Fortress':
                         # not trashed from the hand, so we need to put it back
                         state.add_to_hand(pname, 'Fortress')
@@ -916,19 +922,19 @@ def generate_game_states(logtext, debug=True):
             line = line.rsplit(":", 1)[-1]
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
-                state.add_to_hand(pname, card)
+                state.get_player(pname).draw(card)
             continue
         m = RE_PLACES_IN_HAND.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.add_to_hand(pname, card)
+            state.get_player(pname).draw(card)
             continue
         m = RE_MOVES_TO_HAND.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.add_to_hand(pname, card)
+            state.get_player(pname).draw(card)
             continue
         m = RE_GAINS.match(line)
         if m:
@@ -965,7 +971,6 @@ def generate_game_states(logtext, debug=True):
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.remove_from_hand(pname, card)
             state.return_to_supply(pname, card)
             continue
         m = RE_SETS_ASIDE.match(line)
