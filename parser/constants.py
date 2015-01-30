@@ -347,10 +347,16 @@ TRASHES_FROM_REVEAL = [
 
 # TODO handle Sir Michael
 DISCARD_FROM_REVEAL = [
-    'Library', 'Hunting Party', 'Spy', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Sea Hag', 'Noble Brigand', 'Scrying Pool', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Jester', 'Duchess', 'Oracle', 'JackOfAllTrades', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
+    'Library', 'Hunting Party', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Noble Brigand', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Oracle', 'Jester', 'JackOfAllTrades', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
     'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
     'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
     'Advisor', 'Journeyman', 'Envoy', 'Lookout',
+]
+
+# Sometimes the reveal line is not explicitly given, usually when only 1 card is revealed
+# (however, not always)
+DISCARD_FROM_DECK = [
+    'Spy', 'Scrying Pool', 'Sea Hag', 'Duchess',
 ]
 
 TOPDECKS_FROM_REVEAL = [

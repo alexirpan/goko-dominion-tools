@@ -465,6 +465,9 @@ class PlayerState:
     def discard(self, card):
         _move(card, self.hand, self.discarded)
 
+    def discard_from_deck(self, card):
+        _move(card, self.deck, self.discarded)
+
     def topdeck(self, card):
         _move(card, self.hand, self.drawpile)
 
@@ -930,6 +933,8 @@ def generate_game_states(logtext, debug=True):
                 state.get_player(pname).discard_revealed(card)
             elif state.last_card_bought in DISCARD_REVEALED_ON_BUY:
                 state.get_player(pname).discard_revealed(card)
+            elif state.last_card_played in DISCARD_FROM_DECK:
+                state.get_player(pname).discard_from_deck(card)
             else:
                 state.get_player(pname).discard(card)
 
