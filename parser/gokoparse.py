@@ -465,8 +465,8 @@ class PlayerState:
     def discard(self, card):
         _move(card, self.hand, self.discarded)
 
-    def discard_from_deck(self, card):
-        _move(card, self.deck, self.discarded)
+    def discard_from_draw(self, card):
+        _move(card, self.drawpile, self.discarded)
 
     def topdeck(self, card):
         _move(card, self.hand, self.drawpile)
@@ -937,8 +937,8 @@ def generate_game_states(logtext, debug=True):
                 state.get_player(pname).discard_revealed(card)
             elif state.last_card_bought in DISCARD_REVEALED_ON_BUY:
                 state.get_player(pname).discard_revealed(card)
-            elif state.last_card_played in DISCARD_FROM_DECK:
-                state.get_player(pname).discard_from_deck(card)
+            elif state.last_card_played in DISCARD_FROM_DRAW:
+                state.get_player(pname).discard_from_draw(card)
             else:
                 state.get_player(pname).discard(card)
 
@@ -954,9 +954,9 @@ def generate_game_states(logtext, debug=True):
                 for _ in range(5-hand_len):
                     state.add_wild(pname)
                 # don't continue, now check the actual topdeck case
-            if state.last_card_played == 'Pearl Diver':
-                # only logged if bottom card is topdecked
-                # ignore it
+            if state.last_card_played in TOPDECKS_FROM_DRAW:
+                # we don't track the order of cards in the draw pile
+                # do nothing
                 continue
 
             if state.last_card_played in TOPDECKS_FROM_REVEAL:

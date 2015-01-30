@@ -355,7 +355,7 @@ DISCARD_FROM_REVEAL = [
 
 # Sometimes the reveal line is not explicitly given, usually when only 1 card is revealed
 # (however, not always)
-DISCARD_FROM_DECK = [
+DISCARD_FROM_DRAW = [
     'Spy', 'Scrying Pool', 'Sea Hag', 'Duchess',
 ]
 
@@ -383,6 +383,13 @@ TOPDECKS_ON_BUY = ['Herald', 'Inn', 'Doctor']
 # Nomad Camp isn't actually needed here, the NC topdeck isn't logged
 # just here for completion
 TOPDECKS_ON_GAIN = ['Inn', 'Nomad Camp']
+
+# This is a very silly name, but it's helpful to have
+TOPDECKS_FROM_DRAW = [
+    'Pearl Diver', 'Duchess', 'Spy', 'Scrying Pool', 'Sea Hag',
+]
+
+
 TRASHES_REVEALED_ON_BUY = ['Doctor', 'Noble Brigand']
 DISCARD_REVEALED_ON_BUY = ['Doctor', 'Noble Brigand']
 TRASHES_PLAY_ON_BUY = ['Mint']
