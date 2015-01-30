@@ -360,7 +360,7 @@ DISCARD_FROM_DECK = [
 ]
 
 TOPDECKS_FROM_REVEAL = [
-    'Spy', 'Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger'
+    'Spy', 'Wishing Well', 'Scout', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger'
 ]
 
 # TODO all of these cards are triggered in cleanup
@@ -389,9 +389,14 @@ TRASHES_PLAY_ON_BUY = ['Mint']
 
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
 
+REVEALS_FROM_HAND = [
+    'Ambassador',
+]
+
 # These are cards that need special code to work because they log things in weird ways
 # I hate these so much
 # May or may not actually use this list
+# It's possible the edge cases will be all over the place
 SPECIAL_SNOWFLAKES = [
     'Library',
     'Hermit',
@@ -401,5 +406,6 @@ SPECIAL_SNOWFLAKES = [
     'Apothecary',
     'Scrying Pool',
     'Nomad Camp',
+    'Pearl Diver',
 ]
 

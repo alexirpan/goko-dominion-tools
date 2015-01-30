@@ -474,6 +474,9 @@ class PlayerState:
     def topdeck_revealed(self, card):
         _move(card, self.revealed, self.drawpile)
 
+    def topdeck_played(self, card):
+        _move(card, self.play, self.drawpile)
+
     def discard_hand(self):
         self.discarded += self.hand
         self.hand = Counter()
@@ -567,7 +570,9 @@ class GameState:
         for card in cards:
             self.draw_card(pname, card)
 
+    # make a note now, fix later
     def add_to_hand(self, pname, card):
+        print 'ADD TO HAND IS DEPRECATED.'
         self.player_states[pname].add_card_to_hand(card)
 
     def handle_treasure_case(self, pname, line):
@@ -644,8 +649,7 @@ class GameState:
         info['supply'] = dict(self.supply)
         return info
 
-    # below adapted from log prettifier
-    def gain_card(self, pname, card):
+    def _update_supply(self, card):
         if card in RUINSES:
             if self.supply['Ruins'] == 0 and self.debug:
                 raise ValueError("Could not gain Ruins")
@@ -654,19 +658,19 @@ class GameState:
             if self.supply[card] == 0 and self.debug:
                 raise ValueError("Could not gain %s" % card)
             self.supply[card] -= 1
+
+    # below adapted from log prettifier
+    def gain_card(self, pname, card):
+        self._update_supply(card)
         self.gain_card_from_elsewhere(pname, card)
 
     def gain_to_top(self, pname, card):
-        if card in RUINSES:
-            if self.supply['Ruins'] == 0 and self.debug:
-                raise ValueError("Could not gain Ruins")
-            self.supply['Ruins'] -= 1
-        elif card in self.supply:
-            if self.supply[card] == 0 and self.debug:
-                raise ValueError("Could not gain %s" % card)
-            self.supply[card] -= 1
+        self._update_supply(card)
         self.get_player(pname).add_card_to_draw(card)
 
+    def gain_to_hand(self, pname, card):
+        self._update_supply(card)
+        self.get_player(pname).add_card_to_hand(card)
 
     def gain_card_from_elsewhere(self, pname, card):
         self.get_player(pname).add_card_to_discard(card)
@@ -940,19 +944,29 @@ def generate_game_states(logtext, debug=True):
 
         m = RE_TOPDECKS.match(line)
         # current phase is not very robust so odds are bugs are here
-        if m and state.last_card_played == 'JackOfAllTrades':
-            # we need to redraw up to 5 before processing more
-            # (next line may be JoaT trash
-            pname = m.group(1)
-            hand_len = len(state.get_hand(pname))
-            for _ in range(5-hand_len):
-                state.add_wild(pname)
-            # don't continue, now check the actual topdeck case
-
-        if m and state.last_card_played not in TOPDECKS_FROM_REVEAL and state.last_card_played not in TOPDECKS_FROM_PLAY and state.last_card_bought not in TOPDECKS_ON_BUY and state.phase == 'action' and state.last_card_gained not in TOPDECKS_ON_GAIN:
+        if m:
             pname = m.group(1)
             card = m.group(2)
-            state.get_player(pname).topdeck(card)
+            if state.last_card_played == 'JackOfAllTrades':
+                # we need to redraw up to 5 before processing more
+                # (next line may be JoaT trash
+                hand_len = len(state.get_hand(pname))
+                for _ in range(5-hand_len):
+                    state.add_wild(pname)
+                # don't continue, now check the actual topdeck case
+            if state.last_card_played == 'Pearl Diver':
+                # only logged if bottom card is topdecked
+                # ignore it
+                continue
+
+            if state.last_card_played in TOPDECKS_FROM_REVEAL:
+                state.get_player(pname).topdeck_revealed(card)
+            elif state.last_card_played in TOPDECKS_FROM_PLAY:
+                state.get_player(pname).topdeck_played(card)
+            elif state.last_card_bought not in TOPDECKS_ON_BUY and state.phase == 'action' and state.last_card_gained not in TOPDECKS_ON_GAIN:
+                pname = m.group(1)
+                card = m.group(2)
+                state.get_player(pname).topdeck(card)
             continue
         m = RE_DRAWS.match(line)
         if m:
@@ -1022,13 +1036,10 @@ def generate_game_states(logtext, debug=True):
                 state.gain_to_top(pname, card)
             elif state.last_card_played in GAIN_FROM_ELSEWHERE or state.last_card_bought in GAIN_FROM_ELSEWHERE:
                 state.gain_card_from_elsewhere(pname, card)
+            elif state.last_card_played in GAIN_TO_HAND:
+                state.gain_to_hand(pname, card)
             else:
                 state.gain_card(pname, card)
-
-            if state.last_card_played in GAIN_TO_HAND:
-                pname = m.group(1)
-                card = m.group(2)
-                state.add_to_hand(pname, card)
             continue
         m = RE_PASSES.match(line)
         if m:
@@ -1067,8 +1078,8 @@ def generate_game_states(logtext, debug=True):
         m = RE_LOOKS_AT.match(line)
         if m:
             pname = m.group(1)
-            line = line.rsplit(":", 1)[1]
-            cards = [card.strip() for card in line.split(",")]
+            cards = m.group(2)
+            cards = [card.strip() for card in cards.split(",")]
             for card in cards:
                 state.get_player(pname).reveal(card)
             continue
@@ -1077,6 +1088,8 @@ def generate_game_states(logtext, debug=True):
             continue
         m = RE_REVEALS.match(line)
         if m:
+            if card in REVEALS_FROM_HAND:
+                continue
             pname = m.group(1)
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
@@ -1092,6 +1105,8 @@ def generate_game_states(logtext, debug=True):
 
         m = RE_REVEALS2.match(line)
         if m:
+            if card in REVEALS_FROM_HAND:
+                continue
             pname = m.group(1)
             line = line[line.index("- reveals")+9:]
             cards = [card.strip() for card in line.split(",")]
