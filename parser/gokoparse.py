@@ -35,6 +35,7 @@ RE_DISCARDS = re.compile('(.*) \- discards (.*)$')
 # revealed cards need to be discarded
 RE_DISCARDS_MULTIPLE = re.compile('(.*) \- discards: (.*)$')
 RE_SHUFFLES = re.compile('(.*) \- shuffles deck$')
+RE_SHUFFLES_REVEAL = re.compile('(.*) \- shuffles deck \(shuffle for reveal\)$')
 # need this to catch multiple Alchemist case
 RE_TOPDECKS = re.compile('(.*) - places ([^,]*) on top of deck$')
 RE_TRASHES = re.compile('(.*) \- trashes ([^\(]*)$')
@@ -42,9 +43,13 @@ RE_PASSES = re.compile('(.*) \- passes (.*)$')
 RE_RETURN_TO_SUPPLY = re.compile('(.*) \- returns (.*) to the Supply$')
 RE_SETS_ASIDE = re.compile('(.*) \- sets aside ([^\(]*)$')
 # Reveal for current player only, like Cartographer
+# These are messy. There's probably a better way to do this.
+# The reveals hand regex must be checked first
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)$')
 RE_REVEALS = re.compile('(.*) \- reveals: (.*)$')
 RE_REVEALS2 = re.compile('(.*) \- reveals (.*)$')
+RE_REVEALS_HAND = re.compile('(.*) \- reveals hand: (.*)$')
+
 # Haven edge case (must be checked before edge case below)
 RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand$')
 # wording for Hunting Party, Wishing Well, Farming Village, etc
@@ -403,6 +408,19 @@ def annotate_cleanup_hands(log_lines):
     cleaned.extend(log_lines[curr:])
     return cleaned
 
+def annotate_shuffles_for_reveal(log_lines):
+    # if a card needs to reshuffle before revealing cards, the shuffle line is
+    # places before the list of all revealed cards
+    cleaned = []
+    for line, next_line in zip(log_lines, log_lines[1:]):
+        m = RE_SHUFFLES.match(line)
+        m2 = RE_LOOKS_AT.match(next_line) or RE_REVEALS.match(next_line) or RE_REVEALS2.match(next_line)
+        if m and m2 and not RE_REVEALS_HAND.match(next_line):
+            cleaned.append(line + " (shuffle for reveal)")
+        else:
+            cleaned.append(line)
+    return cleaned
+
 
 """
 Moves a card from one Counter object to another
@@ -437,6 +455,12 @@ class PlayerState:
     def draw(self, card):
         _move(card, self.drawpile, self.hand)
 
+    def draw_revealed(self, card):
+        _move(card, self.revealed, self.hand)
+
+    def draw_all_revealed(self):
+        self.hand += self.revealed
+        self.revealed = Counter()
 
     def discard(self, card):
         _move(card, self.hand, self.discarded)
@@ -461,18 +485,22 @@ class PlayerState:
         self.drawpile += self.discarded
         self.discarded = Counter()
 
-    def reveal_card(self, card):
+    def shuffle_for_reveal(self):
+        # no check on draw pile's size
+        self.drawpile += self.discarded
+        self.discarded = Counter()
+
+    def reveal(self, card):
         _move(card, self.drawpile, self.revealed)
 
-    def discard_revealed(self):
-        self.discarded += self.revealed
-        self.revealed = Counter()
+    def discard_revealed(self, card):
+        _move(card, self.revealed, self.discarded)
 
     # called on standard gain
     def add_card_to_discard(self, card):
         self.discarded[card] += 1
 
-    def add_card_to_deck(self, card):
+    def add_card_to_draw(self, card):
         self.drawpile[card] += 1
 
     def add_card_to_hand(self, card):
@@ -625,6 +653,18 @@ class GameState:
             self.supply[card] -= 1
         self.gain_card_from_elsewhere(pname, card)
 
+    def gain_to_top(self, pname, card):
+        if card in RUINSES:
+            if self.supply['Ruins'] == 0 and self.debug:
+                raise ValueError("Could not gain Ruins")
+            self.supply['Ruins'] -= 1
+        elif card in self.supply:
+            if self.supply[card] == 0 and self.debug:
+                raise ValueError("Could not gain %s" % card)
+            self.supply[card] -= 1
+        self.get_player(pname).add_card_to_draw(card)
+
+
     def gain_card_from_elsewhere(self, pname, card):
         self.get_player(pname).add_card_to_discard(card)
 
@@ -634,6 +674,14 @@ class GameState:
         elif card in self.supply:
             self.supply[card] += 1
         self.player_states[pname].lose_card(card)
+
+
+def snowflakes(line):
+    if card == 'Library':
+        # if an action is skipped, it logs a discard when it is revealed, and
+        # a discard at the end. We need to treat the first as "revealed"
+        pass
+
 
 
 def generate_game_states(logtext, debug=True):
@@ -761,6 +809,9 @@ def generate_game_states(logtext, debug=True):
 
     # remove extra play lines for TR/KC
     log_lines = clean_play_lines(log_lines)
+
+    # do shuffles for reveals correctly
+    log_lines = annotate_shuffles_for_reveal(log_lines)
     # the returned game_states
     # maps index of log line to game state used
     game_states = []
@@ -769,9 +820,10 @@ def generate_game_states(logtext, debug=True):
     # Someone this design feels clunky but I can't think of anything better right now?
     for line, next_line in zip(log_lines, log_lines[1:]):
         game_states.append(copy.deepcopy(state))
-        print "Processing", line
+        print line
         for pname in pnames:
-            print pname, state.get_player(pname).to_dict()
+            print pname
+            print state.get_player(pname).to_dict()
 
         m = RE_TURNX.match(line)
         if m:
@@ -782,6 +834,11 @@ def generate_game_states(logtext, debug=True):
         if m:
             pname = m.group(1)
             state.get_player(pname).shuffle()
+            continue
+        m = RE_SHUFFLES_REVEAL.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).shuffle_for_reveal()
             continue
         # in preprocessing, add a special marker for when to trigger cleanup
         if line.startswith("DISCARD FOR CLEANUP"):
@@ -822,12 +879,20 @@ def generate_game_states(logtext, debug=True):
             state.phase = 'buy'
             continue
         m = RE_DISCARDS_MULTIPLE.match(line)
-        if m and state.last_card_played not in DISCARD_FROM_REVEAL and state.last_card_bought not in DISCARD_ON_BUY:
+        if m:
             pname = m.group(1)
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
-            for card in cards:
-                state.get_player(pname).discard(card)
+
+            if state.last_card_played in DISCARD_FROM_REVEAL:
+                for card in cards:
+                    state.get_player(pname).discard_revealed(card)
+            elif state.last_card_bought in DISCARD_REVEALED_ON_BUY:
+                for card in cards:
+                    state.get_player(pname).discard_revealed(card)
+            else:
+                for card in cards:
+                    state.get_player(pname).discard(card)
             continue
         m = RE_DISCARDS.match(line)
         if m and state.last_card_played == 'JackOfAllTrades':
@@ -857,11 +922,17 @@ def generate_game_states(logtext, debug=True):
         # no cards discard from the hand on buy or in cleanup
         # for now, assume that in buy phase no discards happen
         # TODO handle this differently for deck tracking implementation
-        if m and state.last_card_played not in DISCARD_FROM_REVEAL and state.last_card_bought is None:
+        if m:
             pname = m.group(1)
             card = m.group(2)
-            state.get_player(pname).discard(card)
-            continue
+
+            if state.last_card_played in DISCARD_FROM_REVEAL:
+                state.get_player(pname).discard_revealed(card)
+            elif state.last_card_bought in DISCARD_REVEALED_ON_BUY:
+                state.get_player(pname).discard_revealed(card)
+            else:
+                state.get_player(pname).discard(card)
+
         m = RE_TOPDECKS.match(line)
         # current phase is not very robust so odds are bugs are here
         if m and state.last_card_played == 'JackOfAllTrades':
@@ -888,7 +959,7 @@ def generate_game_states(logtext, debug=True):
         if m:
             pname = m.group(1)
             cards = get_cards_trashed(line)
-            trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_ON_BUY and state.revealed_reaction != 'Watchtower'
+            trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_REVEALED_ON_BUY and state.last_card_bought not in TRASHES_PLAY_ON_BUY and state.revealed_reaction != 'Watchtower'
 
             if trash_from_hand:
                 # the TM in play is always trashed, so remove one from the list
@@ -922,13 +993,13 @@ def generate_game_states(logtext, debug=True):
             line = line.rsplit(":", 1)[-1]
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
-                state.get_player(pname).draw(card)
+                state.get_player(pname).draw_revealed(card)
             continue
         m = RE_PLACES_IN_HAND.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.get_player(pname).draw(card)
+            state.get_player(pname).draw_revealed(card)
             continue
         m = RE_MOVES_TO_HAND.match(line)
         if m:
@@ -942,7 +1013,9 @@ def generate_game_states(logtext, debug=True):
             card = m.group(2)
             state.set_last_card_gained(pname, card)
             # only one of last_played or last_bought should be None
-            if state.last_card_played in GAIN_FROM_ELSEWHERE or state.last_card_bought in GAIN_FROM_ELSEWHERE:
+            if state.last_card_played in GAIN_TO_TOP:
+                state.gain_to_top(pname, card)
+            elif state.last_card_played in GAIN_FROM_ELSEWHERE or state.last_card_bought in GAIN_FROM_ELSEWHERE:
                 state.gain_card_from_elsewhere(pname, card)
             else:
                 state.gain_card(pname, card)
@@ -986,26 +1059,45 @@ def generate_game_states(logtext, debug=True):
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
                 state.add_to_hand(pname, card)
-        m = RE_REVEALS.match(line)
-        if m and state.last_card_played == 'Apothecary':
-            # Apothecary Copper pulling is not listed in the log
+        m = RE_LOOKS_AT.match(line)
+        if m:
             pname = m.group(1)
             line = line.rsplit(":", 1)[1]
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
-                if card == "Copper" or card == "Potion":
-                    state.add_to_hand(pname, card)
+                state.get_player(pname).reveal(card)
             continue
-        m = RE_REVEALS2.match(line)
-        if m and state.last_card_played == 'Scrying Pool':
-            # Neither is Scrying Pool
+        m = RE_REVEALS_HAND.match(line)
+        if m:
+            continue
+        m = RE_REVEALS.match(line)
+        if m:
             pname = m.group(1)
-            if pname != state.played_by:
-                continue
+            line = line.rsplit(":", 1)[1]
+            cards = [card.strip() for card in line.split(",")]
+            for card in cards:
+                state.get_player(pname).reveal(card)
+
+            if state.last_card_played == 'Apothecary':
+                # Apothecary Copper pulling is not listed in the log
+                for card in cards:
+                    if card == "Copper" or card == "Potion":
+                        state.get_player(pname).draw_revealed(card)
+            continue
+
+        m = RE_REVEALS2.match(line)
+        if m:
+            pname = m.group(1)
             line = line[line.index("- reveals")+9:]
             cards = [card.strip() for card in line.split(",")]
             for card in cards:
-                state.add_to_hand(pname, card)
+                state.get_player(pname).reveal(card)
+
+            if state.last_card_played == 'Scrying Pool':
+                # Neither is Scrying Pool
+                if pname != state.played_by:
+                    continue
+                state.get_player(pname).draw_all_revealed()
             continue
         m = RE_REACTION.match(line)
         if m:

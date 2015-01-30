@@ -307,6 +307,10 @@ GAIN_TO_HAND = [
     'Mine', 'Trading Post', 'Torturer', 'Explorer', 'Ill-Gotten Gains', 'Beggar',
 ]
 
+GAIN_TO_TOP = [
+    'Bureaucrat', 'Tournament',
+]
+
 # these are cards that gain from somewhere not in the supply (usually a trashing attack)
 # for these purposes we treat Spoils, Madman, as supply piles
 # TODO find out if Graverobber gain is from trash or from supply
@@ -373,7 +377,23 @@ TOPDECKS_ON_BUY = ['Herald', 'Inn', 'Doctor']
 # Nomad Camp isn't actually needed here, the NC topdeck isn't logged
 # just here for completion
 TOPDECKS_ON_GAIN = ['Inn', 'Nomad Camp']
-TRASHES_ON_BUY = ['Doctor', 'Mint', 'Noble Brigand']
-DISCARD_ON_BUY = ['Doctor', 'Noble Brigand']
+TRASHES_REVEALED_ON_BUY = ['Doctor', 'Noble Brigand']
+DISCARD_REVEALED_ON_BUY = ['Doctor', 'Noble Brigand']
+TRASHES_PLAY_ON_BUY = ['Mint']
 
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
+
+# These are cards that need special code to work because they log things in weird ways
+# I hate these so much
+# May or may not actually use this list
+SPECIAL_SNOWFLAKES = [
+    'Library',
+    'Hermit',
+    'Sir Michael',
+    'Beggar',
+    'Graverobber',
+    'Apothecary',
+    'Scrying Pool',
+    'Nomad Camp',
+]
+
