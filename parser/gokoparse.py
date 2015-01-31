@@ -401,6 +401,19 @@ def annotate_cleanup_hands(log_lines):
         if not RE_DRAWS.match(log_lines[start]):
             start += 1
         cleanup_start_indices.append( (player, start) )
+    # very very bad patch to fix an edge case
+    # basically, we want to make sure that players discard their hand if they trigger a reshuffle
+    # on the very last hand drawn before a game over...while making sure it only happens if
+    # the opponent didn't resign early
+    # this is a first-order apprxoimation of that
+    game_over_index = [i for i, line in enumerate(log_lines) if RE_GAMEOVER.match(line)][0]
+    # if prev 2 lines are shuffles, draw
+    m = RE_SHUFFLES.match(log_lines[game_over_index - 2])
+    if m:
+        # then add a discard line before the shuffles
+        cleanup_start_indices.append( (m.group(1), game_over_index - 2) )
+
+
     cleaned = []
     curr = 0
     for pname, start in cleanup_start_indices:
@@ -493,6 +506,7 @@ class PlayerState:
         self.discarded += self.playarea
         self.playarea = Counter()
 
+    # TODO fix deck tracking with wild cards
     def shuffle(self):
         assert sum(self.drawpile.values()) == 0, "Tried to trigger shuffle while deck was not empty"
         self.drawpile += self.discarded
@@ -500,6 +514,8 @@ class PlayerState:
 
     def shuffle_for_reveal(self):
         # no check on draw pile's size
+        # this also doesn't figure out what the wild cards were
+        # hopefully, a regular reshuffle happens to resolve it...
         self.drawpile += self.discarded
         self.discarded = Counter()
 
@@ -562,6 +578,12 @@ class PlayerState:
 
     def return_set_aside(self, card):
         _move(card, self.setaside, self.hand)
+
+    def draw_wild(self):
+        self.hand[GameState.WILD] += 1
+        # we need to make sure the number of cards in the deck is correct
+        self.drawpile[GameState.WILD] -= 1
+
 
 
 class GameState:
@@ -967,7 +989,7 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             hand_len = len(state.get_hand(pname))
             for _ in range(5-hand_len):
-                state.add_wild(pname)
+                state.get_player(pname).draw_wild()
             # don't continue, still need to check other cases
         if m and state.last_card_played == 'Vault':
             # check if an opponent is using Vault benefit
@@ -982,7 +1004,7 @@ def generate_game_states(logtext, debug=True):
                 # card discarded to opponent's Vault must be in hand and will get handled
                 # on the next run through the loop
                 if m2 and m2.group(1) == pname:
-                    state.add_wild(pname)
+                    state.get_player(pname).draw_wild()
             # also don't continue
 
         # no cards discard from the hand on buy or in cleanup
@@ -1013,7 +1035,7 @@ def generate_game_states(logtext, debug=True):
                 # (next line may be JoaT trash
                 hand_len = len(state.get_hand(pname))
                 for _ in range(5-hand_len):
-                    state.add_wild(pname)
+                    state.get_player(pname).draw_wild()
                 # don't continue, now check the actual topdeck case
             if state.last_card_played in TOPDECKS_FROM_DRAW:
                 # we don't track the order of cards in the draw pile
@@ -1056,7 +1078,7 @@ def generate_game_states(logtext, debug=True):
                     if card != 'Fortress' and not (possessed and pname == curr_player):
                         state.trash_from_play(pname, card)
             else:
-                trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_REVEALED_ON_BUY and state.last_card_bought not in TRASHES_PLAY_ON_BUY and state.revealed_reaction != 'Watchtower'
+                trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_REVEALED_ON_BUY and state.last_card_bought not in TRASHES_PLAY_ON_BUY
 
                 if trash_from_hand:
                     # the TM in play is always trashed, so remove one from the list
@@ -1075,7 +1097,7 @@ def generate_game_states(logtext, debug=True):
                             state.add_to_hand(pname, 'Fortress')
                         elif card == 'Overgrown Estate':
                             # doesn't log what card is drawn
-                            state.add_wild(pname)
+                            state.get_player(pname).draw_wild()
             continue
         m = RE_HAVEN_DURATION.match(line)
         if m:
