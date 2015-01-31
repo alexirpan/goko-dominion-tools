@@ -67,6 +67,7 @@ RE_DURATION = re.compile('(.*) \- duration (.*)$')
 RE_BUYS = re.compile('(.*) \- buys (.*)$')
 RE_WATCHTOWER = re.compile('(.*) \- applied Watchtower to (.*)$')
 RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
+RE_OVERPAYS = re.compile('(.*) \- overpays for (.*) with (.*) coins?$')
 
 RE_PLAYS_STR = '(.*) \- plays ([^\(]*)$'
 RE_PRINCE_STR = '(.*) \- duration Prince$'
@@ -477,6 +478,9 @@ class PlayerState:
     def topdeck_played(self, card):
         _move(card, self.play, self.drawpile)
 
+    def topdeck_discarded(self, card):
+        _move(card, self.discarded, self.drawpile)
+
     def discard_hand(self):
         self.discarded += self.hand
         self.hand = Counter()
@@ -561,6 +565,7 @@ class GameState:
         self.revealed_reaction = None
         self.revealed_by = None
         self.last_card_gained = None
+        self.last_overpay = None
         self.debug = debug
         self.phase = 'action'
         self.supply = None
@@ -625,6 +630,7 @@ class GameState:
         self.last_card_gained = None
         self.revealed_reaction = None
         self.revealed_by = None
+        self.last_overpay = None
         if 'treasure' in CARDNAME_TO_TYPE[card]:
             self.phase = 'buy'
         else:
@@ -638,6 +644,7 @@ class GameState:
         self.last_card_gained = None
         self.revealed_reaction = None
         self.revealed_by = None
+        self.last_overpay = None
 
     def set_last_card_gained(self, pname, card):
         # don't want to reset anything else
@@ -647,6 +654,9 @@ class GameState:
         # Don't want to set rest to anything else
         self.revealed_reaction = card
         self.revealed_by = pname
+
+    def set_last_overpay(self, card):
+        self.last_overpay = card
 
     def to_dict(self):
         info = dict()
@@ -846,15 +856,19 @@ def generate_game_states(logtext, debug=True):
     # Someone this design feels clunky but I can't think of anything better right now?
     for line, next_line in zip(log_lines, log_lines[1:]):
         game_states.append(copy.deepcopy(state))
-        print line
         for pname in pnames:
             print pname
             print state.get_player(pname).to_dict()
+        print line
 
         m = RE_TURNX.match(line)
         if m:
             possessed = "[possessed]" in line
             curr_player = m.group(1)
+            continue
+        m = RE_OVERPAYS.match(line)
+        if m:
+            state.set_last_overpay(m.group(2))
             continue
         m = RE_SHUFFLES.match(line)
         if m:
@@ -956,7 +970,9 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             card = m.group(2)
 
-            if state.last_card_played in DISCARD_FROM_REVEAL:
+            if state.last_overpay == 'Doctor':
+                state.get_player(pname).discard_from_draw(card)
+            elif state.last_card_played in DISCARD_FROM_REVEAL:
                 state.get_player(pname).discard_revealed(card)
             elif state.last_card_bought in DISCARD_REVEALED_ON_BUY:
                 state.get_player(pname).discard_revealed(card)
@@ -982,7 +998,13 @@ def generate_game_states(logtext, debug=True):
                 # do nothing
                 continue
 
-            if state.last_card_played in TOPDECKS_FROM_REVEAL:
+            if state.last_overpay == 'Doctor':
+                # topdecks from draw deck
+                continue
+            elif state.last_overpay == 'Herald':
+                # topdecks from discard
+                state.get_player(pname).topdeck_discarded(card)
+            elif state.last_card_played in TOPDECKS_FROM_REVEAL:
                 state.get_player(pname).topdeck_revealed(card)
             elif state.last_card_played in TOPDECKS_FROM_PLAY:
                 state.get_player(pname).topdeck_played(card)
@@ -1007,27 +1029,31 @@ def generate_game_states(logtext, debug=True):
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
                         state.trash_from_play(pname, card)
-
-            trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_REVEALED_ON_BUY and state.last_card_bought not in TRASHES_PLAY_ON_BUY and state.revealed_reaction != 'Watchtower'
-
-            if trash_from_hand:
-                # the TM in play is always trashed, so remove one from the list
-                if state.last_card_played == 'Treasure Map':
-                    cards.remove('Treasure Map')
-
+            elif state.last_card_played in TRASHES_FROM_PLAY:
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
-                        state.trash(pname, card)
+                        state.trash_from_play(pname, card)
             else:
-                # handle on-trash effects
-                for card in cards:
-                    # TODO don't duplicate the fortress
-                    if card == 'Fortress':
-                        # not trashed from the hand, so we need to put it back
-                        state.add_to_hand(pname, 'Fortress')
-                    elif card == 'Overgrown Estate':
-                        # doesn't log what card is drawn
-                        state.add_wild(pname)
+                trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_REVEALED_ON_BUY and state.last_card_bought not in TRASHES_PLAY_ON_BUY and state.revealed_reaction != 'Watchtower'
+
+                if trash_from_hand:
+                    # the TM in play is always trashed, so remove one from the list
+                    if state.last_card_played == 'Treasure Map':
+                        cards.remove('Treasure Map')
+
+                    for card in cards:
+                        if card != 'Fortress' and not (possessed and pname == curr_player):
+                            state.trash(pname, card)
+                else:
+                    # handle on-trash effects
+                    for card in cards:
+                        # TODO don't duplicate the fortress
+                        if card == 'Fortress':
+                            # not trashed from the hand, so we need to put it back
+                            state.add_to_hand(pname, 'Fortress')
+                        elif card == 'Overgrown Estate':
+                            # doesn't log what card is drawn
+                            state.add_wild(pname)
             continue
         m = RE_HAVEN_DURATION.match(line)
         if m:

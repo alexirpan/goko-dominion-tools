@@ -360,7 +360,7 @@ DISCARD_FROM_DRAW = [
 ]
 
 TOPDECKS_FROM_REVEAL = [
-    'Spy', 'Wishing Well', 'Scout', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger'
+    'Spy', 'Wishing Well', 'Scout', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger', 'Survivors',
 ]
 
 # TODO all of these cards are triggered in cleanup
@@ -379,7 +379,8 @@ SETS_ASIDE_FROM_DECK = ['Native Village']
 # TODO implement Band of Misfits (oh my god please no)
 # TODO implement Black Market
 
-TOPDECKS_ON_BUY = ['Herald', 'Inn', 'Doctor']
+TOPDECKS_ON_BUY = ['Inn']
+
 # Nomad Camp isn't actually needed here, the NC topdeck isn't logged
 # just here for completion
 TOPDECKS_ON_GAIN = ['Inn', 'Nomad Camp']
@@ -414,5 +415,8 @@ SPECIAL_SNOWFLAKES = [
     'Scrying Pool',
     'Nomad Camp',
     'Pearl Diver',
+    'Death Card',
+    'Herald',
+    'Doctor',
 ]
 
