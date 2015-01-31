@@ -621,8 +621,12 @@ class PlayerState:
     def set_aside(self, card):
         _move(card, self.hand, self.setaside)
 
+    def set_aside_from_draw(self, card):
+        _move(card, self.drawpile, self.setaside)
+
     def return_set_aside(self, card):
         _move(card, self.setaside, self.hand)
+
 
     def draw_wild(self):
         self.hand[GameState.WILD] += 1
@@ -1257,10 +1261,13 @@ def generate_game_states(logtext, debug=True):
             state.return_to_supply(pname, card)
             continue
         m = RE_SETS_ASIDE.match(line)
-        if m and state.last_card_played not in SETS_ASIDE_FROM_DECK:
+        if m:
             pname = m.group(1)
             card = m.group(2)
-            state.get_player(pname).set_aside(card)
+            if state.last_card_played in SETS_ASIDE_FROM_DECK:
+                state.get_player(pname).set_aside_from_draw(card)
+            else:
+                state.get_player(pname).set_aside(card)
             continue
         m = RE_NATIVE_VILLAGE_PULL.match(line)
         if m:
@@ -1325,7 +1332,7 @@ def generate_game_states(logtext, debug=True):
                 if pname != state.played_by:
                     continue
                 state.get_player(pname).draw_all_revealed()
-            elif state.last_card_played == 'Wishing Well':
+            elif state.last_card_played in ('Wishing Well', 'Mystic'):
                 # need to manually put it back if next_line is not a match
                 if not RE_PLACES_IN_HAND.match(next_line):
                     for card in cards:

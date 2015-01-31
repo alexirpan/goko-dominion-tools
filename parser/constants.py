@@ -308,7 +308,7 @@ GAIN_TO_HAND = [
 ]
 
 GAINS_CARD_TO_TOP = [
-    'Bureaucrat', 'Tournament', 'Taxman', 'Sea Hag', 'Bag of Gold', 'Armory',
+    'Bureaucrat', 'Tournament', 'Taxman', 'Sea Hag', 'Bag of Gold', 'Armory', 'Develop',
 ]
 
 # these are cards that gain from somewhere not in the supply (usually a trashing attack)
@@ -384,11 +384,6 @@ TOPDECKS_FROM_DISCARD = [
 ]
 
 
-
-# Note - Horse Traders reaction works by luck
-# since for every Attack in the game, it is not in the list below,
-# so the HT revealed is correctly set aside
-# TODO make this robust and explicit
 SETS_ASIDE_FROM_DECK = ['Native Village']
 
 # TODO implement Watchtower, Mint on gain, Royal Seal topdeck, Walled Village, reactions...
