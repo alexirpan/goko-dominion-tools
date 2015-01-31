@@ -65,9 +65,11 @@ RE_NATIVE_VILLAGE_PULL = re.compile('(.*) \- takes set aside cards: (.*)$')
 RE_REACTION = re.compile('(.*) \- reveals reaction (.*)$')
 RE_DURATION = re.compile('(.*) \- duration (.*)$')
 RE_BUYS = re.compile('(.*) \- buys (.*)$')
-RE_WATCHTOWER = re.compile('(.*) \- applied Watchtower to (.*)$')
+RE_WATCHTOWER_TRASH = re.compile('(.*) \- applied Watchtower to trash (.*)$')
+RE_WATCHTOWER_TOPDECK = re.compile('(.*) \- applied Watchtower to place (.*) on top of the deck$')
 RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
 RE_OVERPAYS = re.compile('(.*) \- overpays for (.*) with (.*) coins?$')
+RE_ROYAL_SEAL = re.compile('(.*) \- applied Royal Seal to place (.*) on top of the deck$')
 
 RE_PLAYS_STR = '(.*) \- plays ([^\(]*)$'
 RE_PRINCE_STR = '(.*) \- duration Prince$'
@@ -452,6 +454,7 @@ class PlayerState:
         self.revealed = Counter()
         self.playarea = Counter()
         self.setaside = Counter()
+        self.durationarea = Counter()
 
     def draw(self, card):
         _move(card, self.drawpile, self.hand)
@@ -531,6 +534,13 @@ class PlayerState:
         if self.playarea[card] == 0:
             del self.playarea[card]
 
+    def lose_card_from_discard(self, card):
+        if self.discarded[card] == 0:
+            raise ValueError("%s not in discard" % card)
+        self.discarded[card] -= 1
+        if self.discarded[card] == 0:
+            del self.discarded[card]
+
     def play(self, card):
         _move(card, self.hand, self.playarea)
 
@@ -546,6 +556,12 @@ class PlayerState:
         d['play'] = dict(self.playarea)
         d['setaside'] = dict(self.setaside)
         return d
+
+    def set_aside(self, card):
+        _move(card, self.hand, self.setaside)
+
+    def return_set_aside(self, card):
+        _move(card, self.setaside, self.hand)
 
 
 class GameState:
@@ -710,6 +726,10 @@ class GameState:
     def trash_from_play(self, pname, card):
         self.trashpile[card] += 1
         self.player_states[pname].lose_card_from_play(card)
+
+    def trash_from_discard(self, pname, card):
+        self.trashpile[card] += 1
+        self.player_state[pname].lose_card_from_discard(card)
 
 
 def snowflakes(line):
@@ -901,6 +921,8 @@ def generate_game_states(logtext, debug=True):
 
             if state.last_card_played in RETURN_TO_SUPPLY_ON_PLAY:
                 state.return_to_supply(pname, card)
+            elif state.last_card_played == 'Island':
+                state.get_player(pname).set_aside(card)
             else:
                 state.get_player(pname).play(card)
             continue
@@ -1101,15 +1123,13 @@ def generate_game_states(logtext, debug=True):
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.remove_from_hand(pname, card)
-            state.lose_card(pname, card)
+            state.get_player(pname).lose_card(card)
             # clean me up later
             next_player_ind = (playerInd[pname] + 1) % pCount
             for p in playerInd:
                 if playerInd[p] == next_player_ind:
                     next_player = p
-                    state.add_to_hand(next_player, card)
-                    state.gain_card_from_elsewhere(next_player, card)
+                    state.get_player(next_player).add_card_to_hand(card)
                     break
             continue
         m = RE_RETURN_TO_SUPPLY.match(line)
@@ -1122,7 +1142,7 @@ def generate_game_states(logtext, debug=True):
         if m and state.last_card_played not in SETS_ASIDE_FROM_DECK:
             pname = m.group(1)
             card = m.group(2)
-            state.remove_from_hand(pname, card)
+            state.get_player(pname).set_aside(card)
             continue
         m = RE_NATIVE_VILLAGE_PULL.match(line)
         if m:
@@ -1181,21 +1201,36 @@ def generate_game_states(logtext, debug=True):
             card = m.group(2)
             state.set_revealed_reaction(pname, card)
             if card == 'Horse Traders':
-                state.remove_from_hand(pname, card)
+                state.get_player(pname).set_aside(card)
             continue
         m = RE_DURATION.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
             if card == 'Horse Traders':
-                state.add_to_hand(pname, card)
+                state.get_player(pname).return_set_aside(card)
             continue
-        # Watchtower topdeck is not handled for now
-        # TODO implement it
-        m = RE_WATCHTOWER.match(line)
+        m = RE_WATCHTOWER_TRASH.match(line)
         if m:
             pname = m.group(1)
+            card = m.group(2)
             state.set_revealed_reaction(pname, 'Watchtower')
+            state.trash_from_discard(pname, card)
+            continue
+        # by this point the card has been gained so we only need to move it
+        # This may break if the card is normally gained to another location
+        m = RE_WATCHTOWER_TOPDECK.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            state.set_revealed_reaction(pname, 'Watchtower')
+            state.get_player(pname).topdeck_discarded(card)
+            continue
+        m = RE_ROYAL_SEAL.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            state.get_player(pname).topdeck_discarded(card)
             continue
     # states are out of sync for some reason
     # quick fix

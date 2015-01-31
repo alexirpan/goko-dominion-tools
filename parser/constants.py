@@ -418,5 +418,6 @@ SPECIAL_SNOWFLAKES = [
     'Death Card',
     'Herald',
     'Doctor',
+    'Island',
 ]
 
