@@ -640,11 +640,18 @@
                 }
                 baseRow.appendChild(treasuretd);
 
-                var done = Set(kingdomVictory.concat(kingdomTreasure));
+                var done = kingdomVictory.concat(kingdomTreasure);
                 var cards = [];
                 for (var card in supply) {
                     if (supply.hasOwnProperty(card)) {
-                        if (!done.has(card)) {
+                        var has = false;
+                        for (var i = 0; i < done.length; i++) {
+                            if (card === done[i]) {
+                                has = true;
+                                break;
+                            }
+                        }
+                        if (!has) {
                             cards.push(card);
                         }
                     }
