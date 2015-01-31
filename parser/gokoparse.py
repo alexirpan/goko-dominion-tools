@@ -38,7 +38,9 @@ RE_SHUFFLES = re.compile('(.*) \- shuffles deck$')
 RE_SHUFFLES_REVEAL = re.compile('(.*) \- shuffles deck \(shuffle for reveal\)$')
 # need this to catch multiple Alchemist case
 RE_TOPDECKS = re.compile('(.*) - places ([^,]*) on top of deck$')
+RE_TOPDECKS_MULTIPLE = re.compile('(.*) \- places (.*,.*) on top of deck$')
 RE_TRASHES = re.compile('(.*) \- trashes ([^\(]*)$')
+RE_ANNOTATED_TRASH = re.compile('(.*) \- trashes ([^\{]*) \(.*\)$')
 RE_PASSES = re.compile('(.*) \- passes (.*)$')
 RE_RETURN_TO_SUPPLY = re.compile('(.*) \- returns (.*) to the Supply$')
 RE_SETS_ASIDE = re.compile('(.*) \- sets aside ([^\(]*)$')
@@ -66,6 +68,7 @@ RE_NATIVE_VILLAGE_PULL = re.compile('(.*) \- takes set aside cards: (.*)$')
 RE_REACTION = re.compile('(.*) \- reveals reaction (.*)$')
 RE_DURATION = re.compile('(.*) \- duration (.*)$')
 RE_BUYS = re.compile('(.*) \- buys (.*)$')
+RE_DISCARDS_DECK = re.compile('(.*) \- moves deck to discards$')
 RE_WATCHTOWER_TRASH = re.compile('(.*) \- applied Watchtower to trash (.*)$')
 RE_WATCHTOWER_TOPDECK = re.compile('(.*) \- applied Watchtower to place (.*) on top of the deck$')
 RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
@@ -159,7 +162,6 @@ def read_until_resolved(lines):
         if next_play:
             next_play[0] += PRINCE_ANN
         return parsed + next_play
-    # for both of these cases, this only makes the trash ignored. Does not explicitly remove from play
     elif RE_HERMIT_TRASH.match(parsed[-1]):
         if lines and RE_MADMAN_GAIN.match(lines[0]):
             parsed[-1] += HERMIT_ANN
@@ -516,6 +518,10 @@ class PlayerState:
     def discard_play(self):
         self.discarded += self.playarea
         self.playarea = Counter()
+
+    def discard_draw(self):
+        self.discarded += self.drawpile
+        self.drawpile = Counter()
 
     def update_durations(self):
         self.playarea += self.durationarea
@@ -1011,6 +1017,11 @@ def generate_game_states(logtext, debug=True):
             state.set_last_card_bought(pname, card)
             state.phase = 'buy'
             continue
+        m = RE_DISCARDS_DECK.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).discard_draw()
+            continue
         m = RE_DISCARDS_MULTIPLE.match(line)
         if m:
             pname = m.group(1)
@@ -1090,17 +1101,28 @@ def generate_game_states(logtext, debug=True):
             if state.last_overpay == 'Doctor':
                 # topdecks from draw deck
                 continue
-            elif state.last_overpay == 'Herald':
+            elif state.last_overpay == 'Herald' or state.last_card_played in TOPDECKS_FROM_DISCARD:
                 # topdecks from discard
                 state.get_player(pname).topdeck_discarded(card)
             elif state.last_card_played in TOPDECKS_FROM_REVEAL:
                 state.get_player(pname).topdeck_revealed(card)
             elif state.last_card_played in TOPDECKS_FROM_PLAY:
                 state.get_player(pname).topdeck_played(card)
+            elif state.phase == 'buy' and card in TOPDECKS_FROM_PLAY:
+                state.get_player(pname).topdeck_played(card)
             elif state.phase == 'action' and state.last_card_gained not in TOPDECKS_ON_GAIN:
                 pname = m.group(1)
                 card = m.group(2)
                 state.get_player(pname).topdeck(card)
+            continue
+        m = RE_TOPDECKS_MULTIPLE.match(line)
+        if m:
+            # every card for this case topdecks from play
+            pname = m.group(1)
+            cards = m.group(2)
+            cards = [card.strip() for card in cards.split(",")]
+            for card in cards:
+                state.get_player(pname).topdeck_played(card)
             continue
         m = RE_DRAWS.match(line)
         if m:
@@ -1108,6 +1130,13 @@ def generate_game_states(logtext, debug=True):
             for card in get_cards_drawn(line):
                 state.get_player(pname).draw(card)
             continue
+        m = RE_ANNOTATED_TRASH.match(line)
+        if m:
+            if HERMIT_ANN or URCHIN_ANN in line:
+                pname = m.group(1)
+                card = m.group(2)
+                state.trash_from_play(pname, card)
+
         m = RE_TRASHES.match(line)
         # TODO handle trash edge cases in GameState/PlayerState instead of here
         # That way will probably make it easier to figure out which zone it came from

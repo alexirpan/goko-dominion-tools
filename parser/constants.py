@@ -372,6 +372,21 @@ TOPDECKS_FROM_REVEAL = [
 # need to handle this properly
 TOPDECKS_FROM_PLAY = ['Treasury', 'Herbalist', 'Alchemist']
 
+# Nomad Camp isn't actually needed here, the NC topdeck isn't logged
+# just here for completion
+TOPDECKS_ON_GAIN = ['Nomad Camp', 'Inn']
+
+# This is a very silly name, but it's helpful to have
+TOPDECKS_FROM_DRAW = [
+    'Pearl Diver', 'Duchess', 'Spy', 'Scrying Pool', 'Sea Hag', 'Lookout',
+]
+
+TOPDECKS_FROM_DISCARD = [
+    'Scavenger',
+]
+
+
+
 # Note - Horse Traders reaction works by luck
 # since for every Attack in the game, it is not in the list below,
 # so the HT revealed is correctly set aside
@@ -382,15 +397,6 @@ SETS_ASIDE_FROM_DECK = ['Native Village']
 # In general, do effects that occur when the card is NOT being played
 # TODO implement Band of Misfits (oh my god please no)
 # TODO implement Black Market
-
-# Nomad Camp isn't actually needed here, the NC topdeck isn't logged
-# just here for completion
-TOPDECKS_ON_GAIN = ['Nomad Camp', 'Inn']
-
-# This is a very silly name, but it's helpful to have
-TOPDECKS_FROM_DRAW = [
-    'Pearl Diver', 'Duchess', 'Spy', 'Scrying Pool', 'Sea Hag', 'Lookout',
-]
 
 
 # Doctor triggers on overpay and is handled separately
