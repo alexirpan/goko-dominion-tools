@@ -370,9 +370,9 @@ TOPDECKS_FROM_REVEAL = [
 # Herbalist does not topdeck itself, so it's not in this list. Handled elsewhere
 TOPDECKS_FROM_PLAY = ['Treasury', 'Alchemist']
 
-# Nomad Camp isn't actually needed here, the NC topdeck isn't logged
-# just here for completion
 TOPDECKS_ON_GAIN = ['Nomad Camp']
+
+TOPDECKS_PLAY_ON_BUY = ['Mandarin']
 
 # This is a very silly name, but it's helpful to have
 TOPDECKS_FROM_DRAW = [
@@ -401,7 +401,7 @@ TRASHES_PLAY_ON_BUY = ['Mint']
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
 
 REVEALS_FROM_HAND = [
-    'Ambassador', 'Mint', 'Pillage', 'Shanty Town', 'Tournament', 'Bureaucrat',
+    'Ambassador', 'Mint', 'Pillage', 'Shanty Town', 'Tournament', 'Bureaucrat', 'Cutpurse',
 ]
 
 # These are cards that need special code to work because they log things in weird ways
@@ -430,5 +430,6 @@ SPECIAL_SNOWFLAKES = [
     'Herbalist',
     # Envoy logs 2 discards while Advisor logs it once for some reason
     'Envoy',
+    'Fortune Teller',
 ]
 

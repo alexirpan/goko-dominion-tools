@@ -1095,7 +1095,7 @@ def generate_game_states(logtext, debug=True):
                 state.get_player(pname).topdeck_discarded(card)
             elif state.last_card_played in TOPDECKS_FROM_REVEAL:
                 state.get_player(pname).topdeck_revealed(card)
-            elif state.last_card_played in TOPDECKS_FROM_PLAY:
+            elif state.last_card_played in TOPDECKS_FROM_PLAY or state.last_card_bought in TOPDECKS_PLAY_ON_BUY:
                 state.get_player(pname).topdeck_played(card)
             elif state.phase == 'buy' and 'Herbalist' in state.get_player(pname).playarea and 'treasure' in CARDNAME_TO_TYPE[card]:
                 state.get_player(pname).topdeck_played(card)
@@ -1323,6 +1323,10 @@ def generate_game_states(logtext, debug=True):
                 if not RE_PLACES_IN_HAND.match(next_line):
                     for card in cards:
                         state.get_player(pname).topdeck_revealed(card)
+            elif state.last_card_played == 'Fortune Teller':
+                last_card = cards[-1]
+                if 'victory' in CARDNAME_TO_TYPE[last_card]:
+                    state.get_player(pname).topdeck_revealed(last_card)
             continue
         m = RE_DURATION.match(line)
         if m:
