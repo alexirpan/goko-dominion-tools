@@ -511,10 +511,13 @@ class PlayerState:
         self.discarded += self.hand
         self.hand = Counter()
 
-    # TODO Durations
     def discard_play(self):
         self.discarded += self.playarea
         self.playarea = Counter()
+
+    def update_durations(self):
+        self.playarea += self.durationarea
+        self.durationarea = Counter()
 
     # TODO fix deck tracking with wild cards
     def shuffle(self):
@@ -582,10 +585,16 @@ class PlayerState:
             del self.revealed[card]
 
     def play(self, card):
-        _move(card, self.hand, self.playarea)
+        if 'duration' in CARDNAME_TO_TYPE[card]:
+            _move(card, self.hand, self.durationarea)
+        else:
+            _move(card, self.hand, self.playarea)
 
     def play_from_revealed(self, card):
-        _move(card, self.revealed, self.playarea)
+        if 'duration' in CARDNAME_TO_TYPE[card]:
+            _move(card, self.revealed, self.durationarea)
+        else:
+            _move(card, self.revealed, self.playarea)
 
     def to_dict(self):
         d = dict()
@@ -959,6 +968,7 @@ def generate_game_states(logtext, debug=True):
             pname = line[len("DISCARD FOR CLEANUP "):]
             state.get_player(pname).discard_hand()
             state.get_player(pname).discard_play()
+            state.get_player(pname).update_durations()
             continue
         m = RE_TREASURE_PLAYS.match(line)
         if m:
