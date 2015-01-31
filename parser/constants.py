@@ -308,7 +308,7 @@ GAIN_TO_HAND = [
 ]
 
 GAINS_CARD_TO_TOP = [
-    'Bureaucrat', 'Tournament',
+    'Bureaucrat', 'Tournament', 'Taxman',
 ]
 
 # these are cards that gain from somewhere not in the supply (usually a trashing attack)
@@ -351,7 +351,7 @@ TRASHES_FROM_DRAW = [
 
 # TODO handle Sir Michael
 DISCARD_FROM_REVEAL = [
-    'Library', 'Hunting Party', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Noble Brigand', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Oracle', 'Jester', 'JackOfAllTrades', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
+    'Library', 'Hunting Party', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Noble Brigand', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Oracle', 'Jester', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
     'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
     'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
     'Advisor', 'Journeyman', 'Envoy',
@@ -360,7 +360,7 @@ DISCARD_FROM_REVEAL = [
 # Sometimes the reveal line is not explicitly given, usually when only 1 card is revealed
 # (however, not always)
 DISCARD_FROM_DRAW = [
-    'Spy', 'Scrying Pool', 'Sea Hag', 'Duchess', 'Lookout',
+    'Spy', 'Scrying Pool', 'Sea Hag', 'Duchess', 'Lookout', 'JackOfAllTrades',
 ]
 
 TOPDECKS_FROM_REVEAL = [
@@ -374,11 +374,11 @@ TOPDECKS_FROM_PLAY = ['Treasury', 'Herbalist', 'Alchemist']
 
 # Nomad Camp isn't actually needed here, the NC topdeck isn't logged
 # just here for completion
-TOPDECKS_ON_GAIN = ['Nomad Camp', 'Inn']
+TOPDECKS_ON_GAIN = ['Nomad Camp']
 
 # This is a very silly name, but it's helpful to have
 TOPDECKS_FROM_DRAW = [
-    'Pearl Diver', 'Duchess', 'Spy', 'Scrying Pool', 'Sea Hag', 'Lookout',
+    'Pearl Diver', 'Duchess', 'Spy', 'Scrying Pool', 'Sea Hag', 'Lookout', 'JackOfAllTrades',
 ]
 
 TOPDECKS_FROM_DISCARD = [
@@ -432,5 +432,6 @@ SPECIAL_SNOWFLAKES = [
     'Lookout',
     # TODO FG reaction
     "Fool's Gold",
+    'Inn',
 ]
 

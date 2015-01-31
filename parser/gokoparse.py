@@ -530,6 +530,9 @@ class PlayerState:
     # TODO fix deck tracking with wild cards
     def shuffle(self):
         assert sum(self.drawpile.values()) == 0, "Tried to trigger shuffle while deck was not empty"
+        # TODO FIX THIS
+        if GameState.WILD in self.drawpile:
+            self.drawpile = Counter()
         self.drawpile += self.discarded
         self.discarded = Counter()
 
@@ -695,9 +698,6 @@ class GameState:
         ps.discard_hand()
         for card in hand:
             ps.draw(card)
-
-    def get_hand(self, pname):
-        return self.player_states[pname].hand
 
     def get_player(self, pname):
         return self.player_states[pname]
@@ -1043,7 +1043,7 @@ def generate_game_states(logtext, debug=True):
             # we need to redraw up to 5 before processing more
             # (next line may be JoaT trash
             pname = m.group(1)
-            hand_len = len(state.get_hand(pname))
+            hand_len = sum(state.get_player(pname).hand.values())
             for _ in range(5-hand_len):
                 state.get_player(pname).draw_wild()
             # don't continue, still need to check other cases
@@ -1089,7 +1089,7 @@ def generate_game_states(logtext, debug=True):
             if state.last_card_played == 'JackOfAllTrades':
                 # we need to redraw up to 5 before processing more
                 # (next line may be JoaT trash
-                hand_len = len(state.get_hand(pname))
+                hand_len = sum(state.get_player(pname).hand.values())
                 for _ in range(5-hand_len):
                     state.get_player(pname).draw_wild()
                 # don't continue, now check the actual topdeck case
@@ -1117,12 +1117,16 @@ def generate_game_states(logtext, debug=True):
             continue
         m = RE_TOPDECKS_MULTIPLE.match(line)
         if m:
-            # every card for this case topdecks from play
             pname = m.group(1)
             cards = m.group(2)
             cards = [card.strip() for card in cards.split(",")]
-            for card in cards:
-                state.get_player(pname).topdeck_played(card)
+
+            if state.last_card_gained == 'Inn':
+                for card in cards:
+                    state.get_player(pname).topdeck_discarded(card)
+            else:
+                for card in cards:
+                    state.get_player(pname).topdeck_played(card)
             continue
         m = RE_DRAWS.match(line)
         if m:
