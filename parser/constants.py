@@ -308,7 +308,7 @@ GAIN_TO_HAND = [
 ]
 
 GAINS_CARD_TO_TOP = [
-    'Bureaucrat', 'Tournament', 'Taxman', 'Sea Hag', 'Bag of Gold',
+    'Bureaucrat', 'Tournament', 'Taxman', 'Sea Hag', 'Bag of Gold', 'Armory',
 ]
 
 # these are cards that gain from somewhere not in the supply (usually a trashing attack)

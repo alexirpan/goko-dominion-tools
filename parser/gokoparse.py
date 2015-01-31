@@ -1099,8 +1099,7 @@ def generate_game_states(logtext, debug=True):
                 continue
 
             if state.last_overpay == 'Doctor':
-                # topdecks from draw deck
-                continue
+                state.get_player(pname).topdeck_revealed(card)
             elif state.last_overpay == 'Herald' or state.last_card_played in TOPDECKS_FROM_DISCARD:
                 # topdecks from discard
                 state.get_player(pname).topdeck_discarded(card)
@@ -1156,14 +1155,14 @@ def generate_game_states(logtext, debug=True):
                     if card == 'Fortress':
                         p = state.get_player(pname)
                         _move('Fortress', p.playarea, p.hand)
-            elif state.last_card_played in TRASHES_FROM_DRAW or state.last_overpay == 'Doctor':
+            elif state.last_card_played in TRASHES_FROM_DRAW:
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
                         state.trash_from_draw(pname, card)
                     if card == 'Fortress':
                         p = state.get_player(pname)
                         _move('Fortress', p.drawpile, p.hand)
-            elif state.last_card_played in TRASHES_FROM_REVEAL:
+            elif state.last_card_played in TRASHES_FROM_REVEAL or state.last_overpay == 'Doctor':
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
                         state.trash_from_revealed(pname, card)
@@ -1226,6 +1225,7 @@ def generate_game_states(logtext, debug=True):
             card = m.group(2)
             state.set_last_card_gained(pname, card)
             # only one of last_played or last_bought should be None
+            # TODO Tunnel from Sea Hag
             if state.last_card_played in GAINS_CARD_TO_TOP:
                 state.gain_to_top(pname, card)
             elif state.last_card_played in GAIN_FROM_ELSEWHERE or state.last_card_bought in GAIN_FROM_ELSEWHERE:
