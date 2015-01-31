@@ -26,7 +26,7 @@ VP_CARDS = ['Estate', 'Duchy', 'Province', 'Colony', 'Gardens', 'Silk Road',
             'Vineyard', 'Fairgrounds', 'Duke', 'Feodum', 'Great Hall',
             'Nobles', 'Tunnel', 'Island']
 
-RUINSES = ['Ruined Library', 'Ruined Village', 'Survivors', 'Ruined Mine',
+RUINSES = ['Ruined Library', 'Ruined Village', 'Survivors', 'Abandoned Mine',
            'Ruined Market']
 
 KNIGHTS = ['Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie',
