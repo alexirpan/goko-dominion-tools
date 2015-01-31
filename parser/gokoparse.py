@@ -261,7 +261,7 @@ def read_until_resolved(lines):
         pass
     elif card == "Herald":
         # the next line can sometimes not be a Herald reveal, if there are no cards left in the deck
-        if lines and RE_REVEALS.match(lines[0]) and 'action' in CARDNAME_TO_TYPE[RE_REVEALS.match(lines[0]).group(2)]:
+        if lines and RE_REVEALS.match(lines[0]) and 'action' in CARDNAME_TO_TYPE[RE_REVEALS.match(lines[0]).group(2)].split("-"):
             read_until_next_matches(lines, parsed, RE_PLAYS)
             next_play = read_until_resolved(lines)
             if next_play:
@@ -514,13 +514,24 @@ class PlayerState:
 
     # TODO Wilds
     def lose_card(self, card):
+        if self.hand[card] == 0:
+            raise ValueError("%s not in hand" % card)
         self.hand[card] -= 1
+        if self.hand[card] == 0:
+            del self.hand[card]
 
-    def trash(self, card):
-        self.lose_card(card)
+    def lose_card_from_play(self, card):
+        if self.playarea[card] == 0:
+            raise ValueError("%s not in play" % card)
+        self.playarea[card] -= 1
+        if self.playarea[card] == 0:
+            del self.playarea[card]
 
     def play(self, card):
         _move(card, self.hand, self.playarea)
+
+    def play_from_revealed(self, card):
+        _move(card, self.revealed, self.playarea)
 
     def to_dict(self):
         d = dict()
@@ -553,7 +564,7 @@ class GameState:
         self.debug = debug
         self.phase = 'action'
         self.supply = None
-        self.trash = Counter()
+        self.trashpile = Counter()
 
     def get_player_names_in_order(self):
         pairs = self.playerInd.items()
@@ -681,6 +692,14 @@ class GameState:
         elif card in self.supply:
             self.supply[card] += 1
         self.player_states[pname].lose_card(card)
+
+    def trash(self, pname, card):
+        self.trashpile[card] += 1
+        self.player_states[pname].lose_card(card)
+
+    def trash_from_play(self, pname, card):
+        self.trashpile[card] += 1
+        self.player_states[pname].lose_card_from_play(card)
 
 
 def snowflakes(line):
@@ -866,17 +885,21 @@ def generate_game_states(logtext, debug=True):
             card = m.group(2)
             state.set_last_card_played(pname, card)
 
-            if card in RETURN_TO_SUPPLY_ON_PLAY:
+            if state.last_card_played in RETURN_TO_SUPPLY_ON_PLAY:
                 state.return_to_supply(pname, card)
             else:
                 state.get_player(pname).play(card)
             continue
         m = RE_ANNOTATED_PLAYS.match(line)
         if m:
-            # update the state but don't try to move the card
+            # update the state
             pname = m.group(1)
             card = m.group(2)
             state.set_last_card_played(pname, card)
+            # some casework
+            if HERALD_ANN in line:
+                # play the card from revealed area
+                state.get_player(pname).play_from_revealed(card)
             continue
         m = RE_BUYS.match(line)
         if m:
@@ -975,9 +998,16 @@ def generate_game_states(logtext, debug=True):
                 state.get_player(pname).draw(card)
             continue
         m = RE_TRASHES.match(line)
+        # TODO handle Fortress in GameState/PlayerState instead of here
+        # That way will probably make it easier to figure out which zone it came from
         if m:
             pname = m.group(1)
             cards = get_cards_trashed(line)
+            if state.last_card_bought in TRASHES_PLAY_ON_BUY:
+                for card in cards:
+                    if card != 'Fortress' and not (possessed and pname == curr_player):
+                        state.trash_from_play(pname, card)
+
             trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_REVEALED_ON_BUY and state.last_card_bought not in TRASHES_PLAY_ON_BUY and state.revealed_reaction != 'Watchtower'
 
             if trash_from_hand:
@@ -987,7 +1017,7 @@ def generate_game_states(logtext, debug=True):
 
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
-                        state.get_player(pname).trash(card)
+                        state.trash(pname, card)
             else:
                 # handle on-trash effects
                 for card in cards:
@@ -1088,7 +1118,7 @@ def generate_game_states(logtext, debug=True):
             continue
         m = RE_REVEALS.match(line)
         if m:
-            if card in REVEALS_FROM_HAND:
+            if state.last_card_played in REVEALS_FROM_HAND:
                 continue
             pname = m.group(1)
             line = line.rsplit(":", 1)[1]
@@ -1105,7 +1135,7 @@ def generate_game_states(logtext, debug=True):
 
         m = RE_REVEALS2.match(line)
         if m:
-            if card in REVEALS_FROM_HAND:
+            if state.last_card_played in REVEALS_FROM_HAND:
                 continue
             pname = m.group(1)
             line = line[line.index("- reveals")+9:]

@@ -397,7 +397,7 @@ TRASHES_PLAY_ON_BUY = ['Mint']
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
 
 REVEALS_FROM_HAND = [
-    'Ambassador',
+    'Ambassador', 'Mint',
 ]
 
 # These are cards that need special code to work because they log things in weird ways
