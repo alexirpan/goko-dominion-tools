@@ -400,6 +400,7 @@ def annotate_cleanup_hands(log_lines):
             else:
                 break
             start -= 1
+        start += 1
         cleanup_start_indices.append( (player, start) )
     # very very bad patch to fix an edge case
     # basically, we want to make sure that players discard their hand if they trigger a reshuffle
@@ -417,9 +418,9 @@ def annotate_cleanup_hands(log_lines):
     cleaned = []
     curr = 0
     for pname, start in cleanup_start_indices:
-        cleaned.extend(log_lines[curr:start+1])
+        cleaned.extend(log_lines[curr:start])
         cleaned.append("DISCARD FOR CLEANUP %s" % pname)
-        curr = start + 1
+        curr = start
     # get remaining lines
     cleaned.extend(log_lines[curr:])
     return cleaned
@@ -603,6 +604,7 @@ class PlayerState:
         d['reveal'] = dict(self.revealed)
         d['play'] = dict(self.playarea)
         d['setaside'] = dict(self.setaside)
+        d['duration'] = dict(self.durationarea)
         return d
 
     def set_aside(self, card):
