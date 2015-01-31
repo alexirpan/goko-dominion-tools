@@ -482,6 +482,7 @@ class PlayerState:
         self.playarea = Counter()
         self.setaside = Counter()
         self.durationarea = Counter()
+        self.trashed = Counter()
 
     def draw(self, card):
         _move(card, self.drawpile, self.hand)
@@ -559,41 +560,22 @@ class PlayerState:
     def add_card_to_hand(self, card):
         self.hand[card] += 1
 
-    # TODO Wilds
+    # all lose_card methods bring cards to the trashed zone
+    # we never refer to this zone or return it
     def lose_card(self, card):
-        if self.hand[card] == 0:
-            raise ValueError("%s not in hand" % card)
-        self.hand[card] -= 1
-        if self.hand[card] == 0:
-            del self.hand[card]
+        _move(card, self.hand, self.trashed)
 
     def lose_card_from_play(self, card):
-        if self.playarea[card] == 0:
-            raise ValueError("%s not in play" % card)
-        self.playarea[card] -= 1
-        if self.playarea[card] == 0:
-            del self.playarea[card]
+        _move(card, self.playarea, self.trashed)
 
     def lose_card_from_discard(self, card):
-        if self.discarded[card] == 0:
-            raise ValueError("%s not in discard" % card)
-        self.discarded[card] -= 1
-        if self.discarded[card] == 0:
-            del self.discarded[card]
+        _move(card, self.discarded, self.trashed)
 
     def lose_card_from_draw(self, card):
-        if self.drawpile[card] == 0:
-            raise ValueError("%s not in play" % card)
-        self.drawpile[card] -= 1
-        if self.drawpile[card] == 0:
-            del self.drawpile[card]
+        _move(card, self.drawpile, self.trashed)
 
     def lose_card_from_revealed(self, card):
-        if self.revealed[card] == 0:
-            raise ValueError("%s not in play" % card)
-        self.revealed[card] -= 1
-        if self.revealed[card] == 0:
-            del self.revealed[card]
+        _move(card, self.revealed, self.trashed)
 
     def play(self, card):
         if 'duration' in CARDNAME_TO_TYPE[card]:
@@ -1010,7 +992,7 @@ def generate_game_states(logtext, debug=True):
             card = m.group(2)
             state.set_last_card_played(pname, card)
             # some casework
-            if HERALD_ANN in line:
+            if HERALD_ANN or GOLEM_ANN in line:
                 # play the card from revealed area
                 state.get_player(pname).play_from_revealed(card)
             continue
