@@ -574,6 +574,13 @@ class PlayerState:
         if self.drawpile[card] == 0:
             del self.drawpile[card]
 
+    def lose_card_from_revealed(self, card):
+        if self.revealed[card] == 0:
+            raise ValueError("%s not in play" % card)
+        self.revealed[card] -= 1
+        if self.revealed[card] == 0:
+            del self.revealed[card]
+
     def play(self, card):
         _move(card, self.hand, self.playarea)
 
@@ -773,6 +780,10 @@ class GameState:
     def trash_from_draw(self, pname, card):
         self.trashpile[card] += 1
         self.player_states[pname].lose_card_from_draw(card)
+
+    def trash_from_revealed(self, pname, card):
+        self.trashpile[card] += 1
+        self.player_states[pname].lose_card_from_revealed(card)
 
 
 def snowflakes(line):
@@ -1085,25 +1096,34 @@ def generate_game_states(logtext, debug=True):
                 state.get_player(pname).draw(card)
             continue
         m = RE_TRASHES.match(line)
-        # TODO handle Fortress in GameState/PlayerState instead of here
+        # TODO handle trash edge cases in GameState/PlayerState instead of here
         # That way will probably make it easier to figure out which zone it came from
         if m:
             pname = m.group(1)
             cards = get_cards_trashed(line)
-            if state.last_card_bought in TRASHES_PLAY_ON_BUY:
+            if state.last_card_bought in TRASHES_PLAY_ON_BUY or state.last_card_played in TRASHES_FROM_PLAY:
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
                         state.trash_from_play(pname, card)
-            elif state.last_card_played in TRASHES_FROM_PLAY:
-                for card in cards:
-                    if card != 'Fortress' and not (possessed and pname == curr_player):
-                        state.trash_from_play(pname, card)
-            elif state.last_card_played in TRASHES_FROM_DRAW:
+                    if card == 'Fortress':
+                        p = state.get_player(pname)
+                        _move('Fortress', p.playarea, p.hand)
+            elif state.last_card_played in TRASHES_FROM_DRAW or state.last_overpay == 'Doctor':
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
                         state.trash_from_draw(pname, card)
+                    if card == 'Fortress':
+                        p = state.get_player(pname)
+                        _move('Fortress', p.drawpile, p.hand)
+            elif state.last_card_played in TRASHES_FROM_REVEAL:
+                for card in cards:
+                    if card != 'Fortress' and not (possessed and pname == curr_player):
+                        state.trash_from_revealed(pname, card)
+                    if card == 'Fortress':
+                        p = state.get_player(pname)
+                        _move('Fortress', p.revealed, p.hand)
             else:
-                trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_REVEALED_ON_BUY and state.last_card_bought not in TRASHES_PLAY_ON_BUY
+                trash_from_hand = state.last_card_bought not in TRASHES_REVEALED_ON_BUY
 
                 if trash_from_hand:
                     # the TM in play is always trashed, so remove one from the list
@@ -1116,9 +1136,10 @@ def generate_game_states(logtext, debug=True):
                 else:
                     # handle on-trash effects
                     for card in cards:
-                        # TODO don't duplicate the fortress
+                        # This should only get triggered by Noble Brigand, so below should never run
                         if card == 'Fortress':
                             # not trashed from the hand, so we need to put it back
+                            print 'THIS SHOULD NEVER BE PRINTED'
                             state.add_to_hand(pname, 'Fortress')
                         elif card == 'Overgrown Estate':
                             # doesn't log what card is drawn

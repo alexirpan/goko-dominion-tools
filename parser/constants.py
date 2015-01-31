@@ -395,8 +395,9 @@ TOPDECKS_FROM_DRAW = [
 ]
 
 
-TRASHES_REVEALED_ON_BUY = ['Doctor', 'Noble Brigand']
-DISCARD_REVEALED_ON_BUY = ['Doctor', 'Noble Brigand']
+# Doctor triggers on overpay and is handled separately
+TRASHES_REVEALED_ON_BUY = ['Noble Brigand']
+DISCARD_REVEALED_ON_BUY = ['Noble Brigand']
 TRASHES_PLAY_ON_BUY = ['Mint']
 
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
