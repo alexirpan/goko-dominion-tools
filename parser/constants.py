@@ -339,10 +339,14 @@ TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urc
 ]
 
 TRASHES_FROM_REVEAL = [
-    'Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Lookout', 'Pirate Ship', 'Loan', 'Rebuild', 'Rogue',
+    'Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Pirate Ship', 'Loan', 'Rebuild', 'Rogue',
     'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
     'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
     'Doctor',
+]
+
+TRASHES_FROM_DRAW = [
+    'Lookout',
 ]
 
 # TODO handle Sir Michael
@@ -350,17 +354,17 @@ DISCARD_FROM_REVEAL = [
     'Library', 'Hunting Party', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Noble Brigand', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Oracle', 'Jester', 'JackOfAllTrades', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
     'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
     'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
-    'Advisor', 'Journeyman', 'Envoy', 'Lookout',
+    'Advisor', 'Journeyman', 'Envoy',
 ]
 
 # Sometimes the reveal line is not explicitly given, usually when only 1 card is revealed
 # (however, not always)
 DISCARD_FROM_DRAW = [
-    'Spy', 'Scrying Pool', 'Sea Hag', 'Duchess',
+    'Spy', 'Scrying Pool', 'Sea Hag', 'Duchess', 'Lookout',
 ]
 
 TOPDECKS_FROM_REVEAL = [
-    'Spy', 'Wishing Well', 'Scout', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger', 'Survivors',
+    'Spy', 'Wishing Well', 'Scout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger', 'Survivors',
 ]
 
 # TODO all of these cards are triggered in cleanup
@@ -387,7 +391,7 @@ TOPDECKS_ON_GAIN = ['Inn', 'Nomad Camp']
 
 # This is a very silly name, but it's helpful to have
 TOPDECKS_FROM_DRAW = [
-    'Pearl Diver', 'Duchess', 'Spy', 'Scrying Pool', 'Sea Hag',
+    'Pearl Diver', 'Duchess', 'Spy', 'Scrying Pool', 'Sea Hag', 'Lookout',
 ]
 
 
@@ -419,5 +423,6 @@ SPECIAL_SNOWFLAKES = [
     'Herald',
     'Doctor',
     'Island',
+    'Lookout',
 ]
 

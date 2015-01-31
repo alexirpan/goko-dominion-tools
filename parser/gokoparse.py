@@ -70,6 +70,7 @@ RE_WATCHTOWER_TOPDECK = re.compile('(.*) \- applied Watchtower to place (.*) on 
 RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
 RE_OVERPAYS = re.compile('(.*) \- overpays for (.*) with (.*) coins?$')
 RE_ROYAL_SEAL = re.compile('(.*) \- applied Royal Seal to place (.*) on top of the deck$')
+RE_SCHEME = re.compile('(.*) \- Scheme choice: (.*)$')
 
 RE_PLAYS_STR = '(.*) \- plays ([^\(]*)$'
 RE_PRINCE_STR = '(.*) \- duration Prince$'
@@ -428,13 +429,22 @@ def annotate_shuffles_for_reveal(log_lines):
     # if a card needs to reshuffle before revealing cards, the shuffle line is
     # places before the list of all revealed cards
     cleaned = []
+    lookout = False
     for line, next_line in zip(log_lines, log_lines[1:]):
+        if lookout:
+            lookout = False
+            cleaned.append(line + " (shuffle for reveal)")
+            continue
         m = RE_SHUFFLES.match(line)
         m2 = RE_LOOKS_AT.match(next_line) or RE_REVEALS.match(next_line) or RE_REVEALS2.match(next_line)
         if m and m2 and not RE_REVEALS_HAND.match(next_line):
             cleaned.append(line + " (shuffle for reveal)")
         else:
+            # Yes, let's make Lookout not log the reveal. I'm sure it'll be fine -_-
             cleaned.append(line)
+            m = re.search('.* - plays Lookout$', line)
+            if m and RE_SHUFFLES.match(next_line):
+                lookout = True
     return cleaned
 
 
@@ -492,7 +502,7 @@ class PlayerState:
         _move(card, self.revealed, self.drawpile)
 
     def topdeck_played(self, card):
-        _move(card, self.play, self.drawpile)
+        _move(card, self.playarea, self.drawpile)
 
     def topdeck_discarded(self, card):
         _move(card, self.discarded, self.drawpile)
@@ -556,6 +566,13 @@ class PlayerState:
         self.discarded[card] -= 1
         if self.discarded[card] == 0:
             del self.discarded[card]
+
+    def lose_card_from_draw(self, card):
+        if self.drawpile[card] == 0:
+            raise ValueError("%s not in play" % card)
+        self.drawpile[card] -= 1
+        if self.drawpile[card] == 0:
+            del self.drawpile[card]
 
     def play(self, card):
         _move(card, self.hand, self.playarea)
@@ -751,7 +768,11 @@ class GameState:
 
     def trash_from_discard(self, pname, card):
         self.trashpile[card] += 1
-        self.player_state[pname].lose_card_from_discard(card)
+        self.player_states[pname].lose_card_from_discard(card)
+
+    def trash_from_draw(self, pname, card):
+        self.trashpile[card] += 1
+        self.player_states[pname].lose_card_from_draw(card)
 
 
 def snowflakes(line):
@@ -1077,6 +1098,10 @@ def generate_game_states(logtext, debug=True):
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
                         state.trash_from_play(pname, card)
+            elif state.last_card_played in TRASHES_FROM_DRAW:
+                for card in cards:
+                    if card != 'Fortress' and not (possessed and pname == curr_player):
+                        state.trash_from_draw(pname, card)
             else:
                 trash_from_hand = state.last_card_played not in TRASHES_FROM_PLAY and state.last_card_played not in TRASHES_FROM_REVEAL and state.last_card_bought not in TRASHES_REVEALED_ON_BUY and state.last_card_bought not in TRASHES_PLAY_ON_BUY
 
@@ -1254,6 +1279,13 @@ def generate_game_states(logtext, debug=True):
             card = m.group(2)
             state.get_player(pname).topdeck_discarded(card)
             continue
+        m = RE_SCHEME.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            state.get_player(pname).topdeck_played(card)
+            continue
+
     # states are out of sync for some reason
     # quick fix
     return log_lines, game_states[1:]
