@@ -49,6 +49,7 @@ RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)$')
 RE_REVEALS = re.compile('(.*) \- reveals: (.*)$')
 RE_REVEALS2 = re.compile('(.*) \- reveals (.*)$')
 RE_REVEALS_HAND = re.compile('(.*) \- reveals hand: (.*)$')
+RE_BANE = re.compile('(.*) \- reveals bane (.*)$')
 
 # Haven edge case (must be checked before edge case below)
 RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand$')
@@ -425,7 +426,7 @@ def annotate_cleanup_hands(log_lines):
     cleaned.extend(log_lines[curr:])
     return cleaned
 
-def annotate_shuffles_for_reveal(log_lines):
+def annotate_reveals(log_lines):
     # if a card needs to reshuffle before revealing cards, the shuffle line is
     # places before the list of all revealed cards
     cleaned = []
@@ -440,11 +441,12 @@ def annotate_shuffles_for_reveal(log_lines):
         if m and m2 and not RE_REVEALS_HAND.match(next_line):
             cleaned.append(line + " (shuffle for reveal)")
         else:
-            # Yes, let's make Lookout not log the reveal. I'm sure it'll be fine -_-
             cleaned.append(line)
-            m = re.search('.* - plays Lookout$', line)
-            if m and RE_SHUFFLES.match(next_line):
-                lookout = True
+
+        # Yes, let's make Lookout not log the reveal. I'm sure it'll be fine -_-
+        m = re.search('.* - plays Lookout$', line)
+        if m and RE_SHUFFLES.match(next_line):
+            lookout = True
     return cleaned
 
 
@@ -931,7 +933,7 @@ def generate_game_states(logtext, debug=True):
     log_lines = clean_play_lines(log_lines)
 
     # do shuffles for reveals correctly
-    log_lines = annotate_shuffles_for_reveal(log_lines)
+    log_lines = annotate_reveals(log_lines)
     # the returned game_states
     # maps index of log line to game state used
     game_states = []
@@ -1095,7 +1097,7 @@ def generate_game_states(logtext, debug=True):
                 state.get_player(pname).topdeck_revealed(card)
             elif state.last_card_played in TOPDECKS_FROM_PLAY:
                 state.get_player(pname).topdeck_played(card)
-            elif state.last_card_bought not in TOPDECKS_ON_BUY and state.phase == 'action' and state.last_card_gained not in TOPDECKS_ON_GAIN:
+            elif state.phase == 'action' and state.last_card_gained not in TOPDECKS_ON_GAIN:
                 pname = m.group(1)
                 card = m.group(2)
                 state.get_player(pname).topdeck(card)
@@ -1189,12 +1191,14 @@ def generate_game_states(logtext, debug=True):
             card = m.group(2)
             state.set_last_card_gained(pname, card)
             # only one of last_played or last_bought should be None
-            if state.last_card_played in GAIN_TO_TOP:
+            if state.last_card_played in GAINS_CARD_TO_TOP:
                 state.gain_to_top(pname, card)
             elif state.last_card_played in GAIN_FROM_ELSEWHERE or state.last_card_bought in GAIN_FROM_ELSEWHERE:
                 state.gain_card_from_elsewhere(pname, card)
             elif state.last_card_played in GAIN_TO_HAND:
                 state.gain_to_hand(pname, card)
+            elif state.last_card_gained in TOPDECKS_ON_GAIN:
+                state.gain_to_top(pname, card)
             else:
                 state.gain_card(pname, card)
             continue
@@ -1250,6 +1254,10 @@ def generate_game_states(logtext, debug=True):
         m = RE_REVEALS_HAND.match(line)
         if m:
             continue
+        # also must be checked before the rest of reveal code`
+        m = RE_BANE.match(line)
+        if m:
+            continue
         m = RE_REVEALS.match(line)
         if m:
             if state.last_card_played in REVEALS_FROM_HAND:
@@ -1282,6 +1290,11 @@ def generate_game_states(logtext, debug=True):
                 if pname != state.played_by:
                     continue
                 state.get_player(pname).draw_all_revealed()
+            elif state.last_card_played == 'Wishing Well':
+                # need to manually put it back if next_line is not a match
+                if not RE_PLACES_IN_HAND.match(next_line):
+                    for card in cards:
+                        state.get_player(pname).topdeck_revealed(card)
             continue
         m = RE_DURATION.match(line)
         if m:

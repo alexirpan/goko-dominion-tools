@@ -307,7 +307,7 @@ GAIN_TO_HAND = [
     'Mine', 'Trading Post', 'Torturer', 'Explorer', 'Ill-Gotten Gains', 'Beggar',
 ]
 
-GAIN_TO_TOP = [
+GAINS_CARD_TO_TOP = [
     'Bureaucrat', 'Tournament',
 ]
 
@@ -383,11 +383,9 @@ SETS_ASIDE_FROM_DECK = ['Native Village']
 # TODO implement Band of Misfits (oh my god please no)
 # TODO implement Black Market
 
-TOPDECKS_ON_BUY = ['Inn']
-
 # Nomad Camp isn't actually needed here, the NC topdeck isn't logged
 # just here for completion
-TOPDECKS_ON_GAIN = ['Inn', 'Nomad Camp']
+TOPDECKS_ON_GAIN = ['Nomad Camp', 'Inn']
 
 # This is a very silly name, but it's helpful to have
 TOPDECKS_FROM_DRAW = [
@@ -426,5 +424,7 @@ SPECIAL_SNOWFLAKES = [
     'Doctor',
     'Island',
     'Lookout',
+    # TODO FG reaction
+    "Fool's Gold",
 ]
 
