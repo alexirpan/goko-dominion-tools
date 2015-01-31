@@ -396,6 +396,7 @@ TOPDECKS_FROM_DRAW = [
 
 
 # Doctor triggers on overpay and is handled separately
+# For now TRASHES_REVEALED_ON_BUY does nothing because it's only triggered by NO
 TRASHES_REVEALED_ON_BUY = ['Noble Brigand']
 DISCARD_REVEALED_ON_BUY = ['Noble Brigand']
 TRASHES_PLAY_ON_BUY = ['Mint']
@@ -403,7 +404,7 @@ TRASHES_PLAY_ON_BUY = ['Mint']
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
 
 REVEALS_FROM_HAND = [
-    'Ambassador', 'Mint',
+    'Ambassador', 'Mint', 'Pillage', 'Shanty Town',
 ]
 
 # These are cards that need special code to work because they log things in weird ways

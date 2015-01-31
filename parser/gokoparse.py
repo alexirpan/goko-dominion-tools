@@ -360,6 +360,8 @@ def get_cards_trashed(line):
     line = line[line.rfind('- trashes ') + 10:]
     return [card.strip() for card in line.split(', ')]
 
+# TODO
+# if there are fewer than 5 cards in opening hand, it's off by one
 def annotate_cleanup_hands(log_lines):
     # Okay so dealing with this is just so annoying
     # the only way to differentiate hands drawn during cleanup is by where they are
@@ -398,9 +400,6 @@ def annotate_cleanup_hands(log_lines):
             else:
                 break
             start -= 1
-        # if there are fewer than 5 cards in opening hand, it's off by one
-        if not RE_DRAWS.match(log_lines[start]):
-            start += 1
         cleanup_start_indices.append( (player, start) )
     # very very bad patch to fix an edge case
     # basically, we want to make sure that players discard their hand if they trigger a reshuffle
@@ -418,9 +417,9 @@ def annotate_cleanup_hands(log_lines):
     cleaned = []
     curr = 0
     for pname, start in cleanup_start_indices:
-        cleaned.extend(log_lines[curr:start])
+        cleaned.extend(log_lines[curr:start+1])
         cleaned.append("DISCARD FOR CLEANUP %s" % pname)
-        curr = start
+        curr = start + 1
     # get remaining lines
     cleaned.extend(log_lines[curr:])
     return cleaned
@@ -1237,6 +1236,15 @@ def generate_game_states(logtext, debug=True):
             for card in cards:
                 state.get_player(pname).reveal(card)
             continue
+        # This must be checked before any other reveal parsing code
+        m = RE_REACTION.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            state.set_revealed_reaction(pname, card)
+            if card == 'Horse Traders':
+                state.get_player(pname).set_aside(card)
+            continue
         m = RE_REVEALS_HAND.match(line)
         if m:
             continue
@@ -1272,14 +1280,6 @@ def generate_game_states(logtext, debug=True):
                 if pname != state.played_by:
                     continue
                 state.get_player(pname).draw_all_revealed()
-            continue
-        m = RE_REACTION.match(line)
-        if m:
-            pname = m.group(1)
-            card = m.group(2)
-            state.set_revealed_reaction(pname, card)
-            if card == 'Horse Traders':
-                state.get_player(pname).set_aside(card)
             continue
         m = RE_DURATION.match(line)
         if m:
