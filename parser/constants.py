@@ -308,7 +308,7 @@ GAIN_TO_HAND = [
 ]
 
 GAINS_CARD_TO_TOP = [
-    'Bureaucrat', 'Tournament', 'Taxman',
+    'Bureaucrat', 'Tournament', 'Taxman', 'Sea Hag', 'Bag of Gold',
 ]
 
 # these are cards that gain from somewhere not in the supply (usually a trashing attack)
@@ -367,10 +367,8 @@ TOPDECKS_FROM_REVEAL = [
     'Spy', 'Wishing Well', 'Scout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger', 'Survivors',
 ]
 
-# TODO all of these cards are triggered in cleanup
-# So, they may not be the resolving action anymore
-# need to handle this properly
-TOPDECKS_FROM_PLAY = ['Treasury', 'Herbalist', 'Alchemist']
+# Herbalist does not topdeck itself, so it's not in this list. Handled elsewhere
+TOPDECKS_FROM_PLAY = ['Treasury', 'Alchemist']
 
 # Nomad Camp isn't actually needed here, the NC topdeck isn't logged
 # just here for completion
@@ -408,7 +406,7 @@ TRASHES_PLAY_ON_BUY = ['Mint']
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
 
 REVEALS_FROM_HAND = [
-    'Ambassador', 'Mint', 'Pillage', 'Shanty Town',
+    'Ambassador', 'Mint', 'Pillage', 'Shanty Town', 'Tournament',
 ]
 
 # These are cards that need special code to work because they log things in weird ways
@@ -433,5 +431,7 @@ SPECIAL_SNOWFLAKES = [
     # TODO FG reaction
     "Fool's Gold",
     'Inn',
+    'Black Market',
+    'Herbalist',
 ]
 

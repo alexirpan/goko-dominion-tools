@@ -54,7 +54,7 @@ RE_REVEALS_HAND = re.compile('(.*) \- reveals hand: (.*)$')
 RE_BANE = re.compile('(.*) \- reveals bane (.*)$')
 
 # Haven edge case (must be checked before edge case below)
-RE_HAVEN_DURATION = re.compile('(.*) \- places set aside (.*) in hand$')
+RE_RETURN_SET_ASIDE = re.compile('(.*) \- places set aside (.*) in hand$')
 # wording for Hunting Party, Wishing Well, Farming Village, etc
 RE_PLACES_IN_HAND = re.compile('(.*) \- places (.*) in hand$')
 # Library edge case (urrrgh)
@@ -1108,8 +1108,10 @@ def generate_game_states(logtext, debug=True):
                 state.get_player(pname).topdeck_revealed(card)
             elif state.last_card_played in TOPDECKS_FROM_PLAY:
                 state.get_player(pname).topdeck_played(card)
-            elif state.phase == 'buy' and card in TOPDECKS_FROM_PLAY:
+            elif state.phase == 'buy' and 'Herbalist' in state.get_player(pname).playarea and 'treasure' in CARDNAME_TO_TYPE[card]:
                 state.get_player(pname).topdeck_played(card)
+            elif state.phase == 'buy' and card in TOPDECKS_FROM_PLAY:
+                state.get_player(pname).topdeck_played(Card)
             elif state.phase == 'action' and state.last_card_gained not in TOPDECKS_ON_GAIN:
                 pname = m.group(1)
                 card = m.group(2)
@@ -1191,11 +1193,11 @@ def generate_game_states(logtext, debug=True):
                             # doesn't log what card is drawn
                             state.get_player(pname).draw_wild()
             continue
-        m = RE_HAVEN_DURATION.match(line)
+        m = RE_RETURN_SET_ASIDE.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.add_to_hand(pname, card)
+            state.get_player(pname).return_set_aside(card)
             continue
         m = RE_PLACE_MULTIPLE_IN_HAND.match(line)
         if m:
