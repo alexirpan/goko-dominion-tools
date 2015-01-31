@@ -401,7 +401,7 @@ TRASHES_PLAY_ON_BUY = ['Mint']
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
 
 REVEALS_FROM_HAND = [
-    'Ambassador', 'Mint', 'Pillage', 'Shanty Town', 'Tournament',
+    'Ambassador', 'Mint', 'Pillage', 'Shanty Town', 'Tournament', 'Bureaucrat',
 ]
 
 # These are cards that need special code to work because they log things in weird ways
@@ -428,5 +428,7 @@ SPECIAL_SNOWFLAKES = [
     'Inn',
     'Black Market',
     'Herbalist',
+    # Envoy logs 2 discards while Advisor logs it once for some reason
+    'Envoy',
 ]
 

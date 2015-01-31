@@ -1077,7 +1077,11 @@ def generate_game_states(logtext, debug=True):
             if state.last_overpay == 'Doctor':
                 state.get_player(pname).discard_from_draw(card)
             elif state.last_card_played in DISCARD_FROM_REVEAL:
-                state.get_player(pname).discard_revealed(card)
+                # Advisor uses opponent's name
+                if state.last_card_played in ('Advisor',):
+                    state.get_player(state.played_by).discard_revealed(card)
+                else:
+                    state.get_player(pname).discard_revealed(card)
             elif state.last_card_bought in DISCARD_REVEALED_ON_BUY:
                 state.get_player(pname).discard_revealed(card)
             elif state.last_card_played in DISCARD_FROM_DRAW:
@@ -1114,7 +1118,7 @@ def generate_game_states(logtext, debug=True):
             elif state.phase == 'buy' and 'Herbalist' in state.get_player(pname).playarea and 'treasure' in CARDNAME_TO_TYPE[card]:
                 state.get_player(pname).topdeck_played(card)
             elif state.phase == 'buy' and card in TOPDECKS_FROM_PLAY:
-                state.get_player(pname).topdeck_played(Card)
+                state.get_player(pname).topdeck_played(card)
             elif state.phase == 'action' and state.last_card_gained not in TOPDECKS_ON_GAIN:
                 pname = m.group(1)
                 card = m.group(2)
