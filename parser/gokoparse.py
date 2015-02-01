@@ -50,7 +50,7 @@ RE_SETS_ASIDE = re.compile('(.*) \- sets aside ([^\(]*)$')
 RE_LOOKS_AT = re.compile('(.*) \- looks at (.*)$')
 RE_REVEALS = re.compile('(.*) \- reveals: (.*)$')
 RE_REVEALS2 = re.compile('(.*) \- reveals (.*)$')
-RE_REVEALS_HAND = re.compile('(.*) \- reveals hand: (.*)$')
+RE_REVEALS_HAND = re.compile('(.*) \- reveals hand:(.*)$')
 RE_BANE = re.compile('(.*) \- reveals bane (.*)$')
 
 # Haven edge case (must be checked before edge case below)
@@ -74,6 +74,7 @@ RE_WATCHTOWER_TOPDECK = re.compile('(.*) \- applied Watchtower to place (.*) on 
 RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
 RE_OVERPAYS = re.compile('(.*) \- overpays for (.*) with (.*) coins?$')
 RE_ROYAL_SEAL = re.compile('(.*) \- applied Royal Seal to place (.*) on top of the deck$')
+RE_ROGUE = re.compile('(.*) \- plays Rogue$')
 RE_SCHEME = re.compile('(.*) \- Scheme choice: (.*)$')
 
 RE_PLAYS_STR = '(.*) \- plays ([^\(]*)$'
@@ -451,6 +452,40 @@ def annotate_reveals(log_lines):
             lookout = True
     return cleaned
 
+def annotate_rogue(log_lines):
+    cleaned = log_lines[:2]
+    for line, line2, line3 in zip(log_lines, log_lines[1:], log_lines[2:]):
+        if RE_ROGUE.match(line):
+            m2 = RE_REVEALS.match(line2)
+            m3 = RE_TRASHES.match(line3)
+            if m2 and not m3:
+                # add a discard line
+                cleaned.append("%s - discards: %s" % (m2.group(1), m2.group(2)) )
+        cleaned.append(line3)
+    return cleaned
+
+def annotate_envoy(log_lines):
+    # we need to remove the second discard line after Envoy is played
+    # (the card to discard is logged twice for some reason)
+    cleaned = []
+    discards = 0
+    envoy = False
+    for line in log_lines:
+        m = RE_PLAYS.match(line)
+        if m and m.group(2) == 'Envoy':
+            envoy = True
+            discards = 2
+        elif m:
+            envoy = False
+            discards = 0
+
+        if RE_DISCARDS.match(line) and envoy:
+            if discards == 1:
+                discards == 0
+                continue
+            discards = max(0, discards - 1)
+        cleaned.append(line)
+    return cleaned
 
 """
 Moves a card from one Counter object to another
@@ -494,11 +529,17 @@ class PlayerState:
         self.hand += self.revealed
         self.revealed = Counter()
 
+    def draw_discarded(self, card):
+        _move(card, self.discarded, self.hand)
+
     def discard(self, card):
         _move(card, self.hand, self.discarded)
 
     def discard_from_draw(self, card):
         _move(card, self.drawpile, self.discarded)
+
+    def discard_from_play(self, card):
+        _move(card, self.playarea, self.discarded)
 
     def topdeck(self, card):
         _move(card, self.hand, self.drawpile)
@@ -920,6 +961,9 @@ def generate_game_states(logtext, debug=True):
     # Best way to do this may be to add a line saying "discards hand for cleanup"
     # instead of doing this manual check
     log_lines = annotate_cleanup_hands(log_lines)
+    # doing Rogue
+    log_lines = annotate_rogue(log_lines)
+    log_lines = annotate_envoy(log_lines)
 
     # remove extra play lines for TR/KC
     log_lines = clean_play_lines(log_lines)
@@ -991,8 +1035,8 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             card = m.group(2)
             state.set_last_card_played(pname, card)
-            # some casework
-            if HERALD_ANN or GOLEM_ANN in line:
+            # sEme casework
+            if HERALD_ANN in line or GOLEM_ANN in line or VENTURE_ANN in line:
                 # play the card from revealed area
                 state.get_player(pname).play_from_revealed(card)
             continue
@@ -1058,9 +1102,12 @@ def generate_game_states(logtext, debug=True):
 
             if state.last_overpay == 'Doctor':
                 state.get_player(pname).discard_from_draw(card)
+            elif state.phase == 'buy' and card in ('Treasury', 'Alchemist'):
+                state.get_player(pname).discard_from_play(card)
             elif state.last_card_played in DISCARD_FROM_REVEAL:
                 # Advisor uses opponent's name
-                if state.last_card_played in ('Advisor',):
+                # TODO Envoy logs 2 discards
+                if state.last_card_played in ('Advisor','Envoy'):
                     state.get_player(state.played_by).discard_revealed(card)
                 else:
                     state.get_player(pname).discard_revealed(card)
@@ -1138,7 +1185,14 @@ def generate_game_states(logtext, debug=True):
         if m:
             pname = m.group(1)
             cards = get_cards_trashed(line)
-            if state.last_card_bought in TRASHES_PLAY_ON_BUY or state.last_card_played in TRASHES_FROM_PLAY:
+            if state.revealed_reaction == 'Watchtower' and pname == state.revealed_by:
+                for card in cards:
+                    if card != 'Fortress' and not (possessed and pname == curr_player):
+                        state.trash_from_discard(pname, card)
+                    if card == 'Fortress':
+                        p = state.get_player(pname)
+                        _move('Fortress', p.discarded, p.hand)
+            elif state.last_card_bought in TRASHES_PLAY_ON_BUY or state.last_card_played in TRASHES_FROM_PLAY:
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
                         state.trash_from_play(pname, card)
@@ -1163,13 +1217,15 @@ def generate_game_states(logtext, debug=True):
                 trash_from_hand = state.last_card_bought not in TRASHES_REVEALED_ON_BUY
 
                 if trash_from_hand:
-                    # the TM in play is always trashed, so remove one from the list
+                    # do this case specially
                     if state.last_card_played == 'Treasure Map':
-                        cards.remove('Treasure Map')
-
-                    for card in cards:
-                        if card != 'Fortress' and not (possessed and pname == curr_player):
-                            state.trash(pname, card)
+                        if cards == ['Treasure Map', 'Treasure Map']:
+                            state.trash(pname, 'Treasure Map')
+                            state.trash_from_play(pname, 'Treasure Map')
+                    else:
+                        for card in cards:
+                            if card != 'Fortress' and not (possessed and pname == curr_player):
+                                state.trash(pname, card)
                 else:
                     # handle on-trash effects
                     for card in cards:
@@ -1194,14 +1250,21 @@ def generate_game_states(logtext, debug=True):
             # get cards to put in hand
             line = line.rsplit(":", 1)[-1]
             cards = [card.strip() for card in line.split(",")]
-            for card in cards:
-                state.get_player(pname).draw_revealed(card)
+            if state.last_card_played == 'Counting House':
+                for card in cards:
+                    state.get_player(pname).draw_discarded(card)
+            else:
+                for card in cards:
+                    state.get_player(pname).draw_revealed(card)
             continue
         m = RE_PLACES_IN_HAND.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.get_player(pname).draw_revealed(card)
+            if state.last_card_played == 'Counting House':
+                state.get_player(pname).draw_discarded(card)
+            else:
+                state.get_player(pname).draw_revealed(card)
             continue
         m = RE_MOVES_TO_HAND.match(line)
         if m:
@@ -1340,7 +1403,6 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             card = m.group(2)
             state.set_revealed_reaction(pname, 'Watchtower')
-            state.trash_from_discard(pname, card)
             continue
         # by this point the card has been gained so we only need to move it
         # This may break if the card is normally gained to another location

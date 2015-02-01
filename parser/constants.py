@@ -308,7 +308,7 @@ GAIN_TO_HAND = [
 ]
 
 GAINS_CARD_TO_TOP = [
-    'Bureaucrat', 'Tournament', 'Taxman', 'Sea Hag', 'Bag of Gold', 'Armory', 'Develop',
+    'Bureaucrat', 'Tournament', 'Taxman', 'Sea Hag', 'Bag of Gold', 'Armory', 'Develop', 'Treasure Map',
 ]
 
 # these are cards that gain from somewhere not in the supply (usually a trashing attack)
@@ -401,7 +401,7 @@ TRASHES_PLAY_ON_BUY = ['Mint']
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
 
 REVEALS_FROM_HAND = [
-    'Ambassador', 'Mint', 'Pillage', 'Shanty Town', 'Tournament', 'Bureaucrat', 'Cutpurse',
+    'Ambassador', 'Mint', 'Pillage', 'Shanty Town', 'Tournament', 'Bureaucrat', 'Cutpurse', 'Menagerie', 'Taxman',
 ]
 
 # These are cards that need special code to work because they log things in weird ways
@@ -431,5 +431,7 @@ SPECIAL_SNOWFLAKES = [
     # Envoy logs 2 discards while Advisor logs it once for some reason
     'Envoy',
     'Fortune Teller',
+    'Death Cart',
+    'Counting House',
 ]
 
