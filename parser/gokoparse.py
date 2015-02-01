@@ -15,7 +15,7 @@ RE_SUPPLY = re.compile('[sS]upply cards: (.*)')
 RE_COMMA = re.compile(', ')
 RE_STARTC = re.compile('(.*) - starting cards: (.*)')
 RE_TURNX = re.compile('--* (.*): turn ([0-9]*) (\[possessed\] )?--*')
-RE_GAINS = re.compile('(.*) \- gains (.*)')
+RE_GAINS = re.compile('(.*) \- gains (.*)$')
 RE_RETS = re.compile('(.*) \- returns (.*) to')
 RE_VPS = re.compile('(.*) - total victory points: (-?\d*)')
 RE_NTURNS = re.compile('(.*) - turns: (\d*)')
@@ -27,6 +27,7 @@ RE_GAMEOVER = re.compile('--* Game Over --*')
 
 # Regex added for replay system
 
+RE_GAINS_TO_TOP = re.compile('(.*) \- gains (.*) to top of deck$')
 RE_DRAWS = re.compile('(.*) \- draws (.*)$')
 RE_ANNOTATED_PLAYS = re.compile('(.*) \- plays ([^\(]*) \(.*\)$')
 RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9]+ .*$')
@@ -75,7 +76,9 @@ RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
 RE_OVERPAYS = re.compile('(.*) \- overpays for (.*) with (.*) coins?$')
 RE_ROYAL_SEAL = re.compile('(.*) \- applied Royal Seal to place (.*) on top of the deck$')
 RE_ROGUE = re.compile('(.*) \- plays Rogue$')
+RE_INN = re.compile('(.*) \- gains Inn$')
 RE_SCHEME = re.compile('(.*) \- Scheme choice: (.*)$')
+RE_FG = re.compile("(.*) \- trashes Fool's Gold$")
 
 RE_PLAYS_STR = '(.*) \- plays ([^\(]*)$'
 RE_PRINCE_STR = '(.*) \- duration Prince$'
@@ -110,7 +113,8 @@ PRINCE_ANN = " (Prince)"
 BOM_ANN = " (Band of Misfits)"
 HERMIT_ANN = " (trashing for Madman)"
 URCHIN_ANN = " (trashing for Mercenary)"
-ANNOTATIONS = [TR_ANN, KC_ANN, HERALD_ANN, PROCESSION_ANN, COUNTERFEIT_ANN, GOLEM_ANN, VENTURE_ANN, PRINCE_ANN, BOM_ANN, HERMIT_ANN, URCHIN_ANN]
+INN_ANN = " (shuffling for Inn)"
+ANNOTATIONS = [TR_ANN, KC_ANN, HERALD_ANN, PROCESSION_ANN, COUNTERFEIT_ANN, GOLEM_ANN, VENTURE_ANN, PRINCE_ANN, BOM_ANN, HERMIT_ANN, URCHIN_ANN, INN_ANN]
 
 
 # helper functions for clean_play_lines, DO NOT CALL ELSEWHERE
@@ -486,6 +490,28 @@ def annotate_envoy(log_lines):
             discards = max(0, discards - 1)
         cleaned.append(line)
     return cleaned
+
+def annotate_inn(log_lines):
+    cleaned = log_lines[:2]
+    for line, line2, line3 in zip(log_lines, log_lines[1:], log_lines[2:]):
+        if RE_INN.match(line):
+            if RE_TOPDECKS.match(line2) or RE_TOPDECKS_MULTIPLE.match(line2):
+                if RE_SHUFFLES.match(line3):
+                    line3 += INN_ANN
+        cleaned.append(line3)
+    return cleaned
+
+def annotate_fg_reaction(log_lines):
+    cleaned = log_lines[:1]
+    for line, line2 in zip(log_lines, log_lines[1:]):
+        m = RE_FG.match(line)
+        m2 = RE_GAINS.match(line2)
+        if m and m2 and m.group(1) == m2.group(1) and m2.group(2) == 'Gold':
+            line2 += " to top of deck"
+        cleaned.append(line2)
+    return cleaned
+
+
 
 """
 Moves a card from one Counter object to another
@@ -956,14 +982,14 @@ def generate_game_states(logtext, debug=True):
             if start_hands_processed == pCount:
                 log_lines = log_lines[i+1:]
                 break
-    # finds starting hands for every other turn, removing the extra lines from the log
-    # TODO Right now I believe this removes shuffle message as well. Fix?
-    # Best way to do this may be to add a line saying "discards hand for cleanup"
-    # instead of doing this manual check
-    log_lines = annotate_cleanup_hands(log_lines)
-    # doing Rogue
+    # annotations
+    # these are preprocessors that make the rest of the parsing easier
+    # some of these have to be run in this order to work
     log_lines = annotate_rogue(log_lines)
     log_lines = annotate_envoy(log_lines)
+    log_lines = annotate_inn(log_lines)
+    log_lines = annotate_fg_reaction(log_lines)
+    log_lines = annotate_cleanup_hands(log_lines)
 
     # remove extra play lines for TR/KC
     log_lines = clean_play_lines(log_lines)
@@ -1101,7 +1127,7 @@ def generate_game_states(logtext, debug=True):
             card = m.group(2)
 
             if state.last_overpay == 'Doctor':
-                state.get_player(pname).discard_from_draw(card)
+                state.get_player(pname).discard_revealed(card)
             elif state.phase == 'buy' and card in ('Treasury', 'Alchemist'):
                 state.get_player(pname).discard_from_play(card)
             elif state.last_card_played in DISCARD_FROM_REVEAL:
@@ -1271,6 +1297,14 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             card = m.group(2)
             state.get_player(pname).draw(card)
+            continue
+        # check before other gains
+        m = RE_GAINS_TO_TOP.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            state.set_last_card_gained(pname, card)
+            state.gain_to_top(pname, card)
             continue
         m = RE_GAINS.match(line)
         if m:
