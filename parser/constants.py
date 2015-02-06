@@ -333,9 +333,7 @@ GAIN_FROM_ELSEWHERE = [
 # TODO handle Knights
 # (both trash from play if Knight revealed, or from revealed cards, or for Dame Anna from hand)
 # for now ignore it all
-TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urchin', 'Death Cart', 'Procession', 'Counterfeit', 'Pillage', 'Embargo',
-    'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
-    'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
+TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urchin', 'Procession', 'Counterfeit', 'Pillage', 'Embargo',
 ]
 
 TRASHES_FROM_REVEAL = [
@@ -351,7 +349,7 @@ TRASHES_FROM_DRAW = [
 
 # TODO handle Sir Michael
 DISCARD_FROM_REVEAL = [
-    'Library', 'Hunting Party', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Noble Brigand', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Oracle', 'Jester', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
+    'Hunting Party', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Noble Brigand', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Oracle', 'Jester', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
     'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
     'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
     'Advisor', 'Journeyman', 'Envoy',
@@ -359,8 +357,15 @@ DISCARD_FROM_REVEAL = [
 
 # Sometimes the reveal line is not explicitly given, usually when only 1 card is revealed
 # (however, not always)
+# Library is a special case: the way that it's handled, the discarded Actions are never moved to the revealed
+# zone. So, although it should technically discard from revealed cards, it discards from deck for now
+# TODO change this handling behavior to better match card
 DISCARD_FROM_DRAW = [
     'Spy', 'Scrying Pool', 'Sea Hag', 'Duchess', 'Lookout', 'JackOfAllTrades',
+]
+
+DISCARD_FROM_SET_ASIDE = [
+    'Library',
 ]
 
 TOPDECKS_FROM_REVEAL = [
@@ -384,7 +389,7 @@ TOPDECKS_FROM_DISCARD = [
 ]
 
 
-SETS_ASIDE_FROM_DECK = ['Native Village']
+SETS_ASIDE_FROM_DECK = ['Native Village', 'Library']
 
 # TODO implement Watchtower, Mint on gain, Royal Seal topdeck, Walled Village, reactions...
 # In general, do effects that occur when the card is NOT being played
@@ -418,7 +423,6 @@ SPECIAL_SNOWFLAKES = [
     'Scrying Pool',
     'Nomad Camp',
     'Pearl Diver',
-    'Death Card',
     'Herald',
     'Doctor',
     'Island',

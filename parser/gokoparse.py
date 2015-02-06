@@ -28,6 +28,9 @@ RE_GAMEOVER = re.compile('--* Game Over --*')
 # Regex added for replay system
 
 RE_GAINS_TO_TOP = re.compile('(.*) \- gains (.*) to top of deck$')
+RE_DISCARDS_FROM_HAND = re.compile('(.*) \- discards (.*) from hand$')
+RE_TRASHES_FROM_HAND = re.compile('(.*) \- trashes (.*) from hand$')
+RE_TRASHES_FROM_PLAY = re.compile('(.*) \- trashes (.*) from play$')
 RE_DRAWS = re.compile('(.*) \- draws (.*)$')
 RE_ANNOTATED_PLAYS = re.compile('(.*) \- plays ([^\(]*) \(.*\)$')
 RE_TREASURE_PLAYS = re.compile('(.*) \- plays [0-9]+ .*$')
@@ -70,15 +73,17 @@ RE_REACTION = re.compile('(.*) \- reveals reaction (.*)$')
 RE_DURATION = re.compile('(.*) \- duration (.*)$')
 RE_BUYS = re.compile('(.*) \- buys (.*)$')
 RE_DISCARDS_DECK = re.compile('(.*) \- moves deck to discards$')
+RE_OVERPAYS = re.compile('(.*) \- overpays for (.*) with (.*) coins?$')
+# Some single card cases
 RE_WATCHTOWER_TRASH = re.compile('(.*) \- applied Watchtower to trash (.*)$')
 RE_WATCHTOWER_TOPDECK = re.compile('(.*) \- applied Watchtower to place (.*) on top of the deck$')
 RE_STASH = re.compile('(.*) \- places Stashes at locations: (.*)$')
-RE_OVERPAYS = re.compile('(.*) \- overpays for (.*) with (.*) coins?$')
 RE_ROYAL_SEAL = re.compile('(.*) \- applied Royal Seal to place (.*) on top of the deck$')
 RE_ROGUE = re.compile('(.*) \- plays Rogue$')
 RE_INN = re.compile('(.*) \- gains Inn$')
 RE_SCHEME = re.compile('(.*) \- Scheme choice: (.*)$')
 RE_FG = re.compile("(.*) \- trashes Fool's Gold$")
+RE_BEGGAR = re.compile('(.*) \- reveals reaction Beggar$')
 
 RE_PLAYS_STR = '(.*) \- plays ([^\(]*)$'
 RE_PRINCE_STR = '(.*) \- duration Prince$'
@@ -457,15 +462,20 @@ def annotate_reveals(log_lines):
     return cleaned
 
 def annotate_rogue(log_lines):
-    cleaned = log_lines[:2]
-    for line, line2, line3 in zip(log_lines, log_lines[1:], log_lines[2:]):
+    cleaned = log_lines[:3]
+    for line, line2, line3, line4 in zip(log_lines, log_lines[1:], log_lines[2:], log_lines[3:]):
         if RE_ROGUE.match(line):
             m2 = RE_REVEALS.match(line2)
             m3 = RE_TRASHES.match(line3)
             if m2 and not m3:
                 # add a discard line
                 cleaned.append("%s - discards: %s" % (m2.group(1), m2.group(2)) )
-        cleaned.append(line3)
+            m2 = RE_SHUFFLES.match(line2)
+            m3 = RE_REVEALS.match(line3)
+            m4 = RE_TRASHES.match(line4)
+            if m2 and m3 and not m4:
+                cleaned.append("%s - discards: %s" % (m3.group(1), m3.group(2)) )
+        cleaned.append(line4)
     return cleaned
 
 def annotate_envoy(log_lines):
@@ -510,6 +520,87 @@ def annotate_fg_reaction(log_lines):
             line2 += " to top of deck"
         cleaned.append(line2)
     return cleaned
+
+# need to disambiguate one of the gains
+def annotate_beggar_reaction(log_lines):
+    cleaned = []
+    beggar = False
+    for line in log_lines:
+        if RE_BEGGAR.match(line):
+            beggar = True
+        elif beggar and re.search('.* - gains Silver$', line):
+            line += " to top of deck"
+            beggar = False
+        cleaned.append(line)
+    return cleaned
+
+def annotate_graverobber(log_lines):
+    cleaned = log_lines[:1]
+    for line, line2 in zip(log_lines, log_lines[1:]):
+        if re.search('.* - plays Graverobber', line):
+            if RE_GAINS.match(line2):
+                line2 += " to top of deck"
+        cleaned.append(line2)
+    return cleaned
+
+def annotate_library(log_lines):
+    cleaned = []
+    library = False
+    library_lines = []
+    for line in log_lines:
+        if re.search('.* - plays Library', line):
+            library = True
+            cleaned.append(line)
+        elif RE_PLAYS.match(line) or RE_GAINS.match(line) or RE_BUYS.match(line):
+            library = False
+            # the discards lines logged are
+            # 1. Single line for each card set aside
+            # 2. An aggregate line for all discards
+            # We need to change the discard logging to a set aside logging
+            if library_lines:
+                for li_line in library_lines[:-1]:
+                    if RE_DISCARDS.match(li_line):
+                        li_line = li_line.replace("discards", "sets aside")
+                    cleaned.append(li_line)
+                # don't transform the last line (if there's only one card it's in
+                # the single discard formtat)
+                cleaned.append(library_lines[-1])
+
+            cleaned.append(line)
+            library_lines = []
+        elif library:
+            library_lines.append(line)
+        else:
+            cleaned.append(line)
+    return cleaned
+
+def annotate_knights(log_lines):
+    cleaned = []
+    resolving_card = None
+    played_by = None
+    has_revealed = False
+    for line in log_lines:
+        m = RE_PLAYS.match(line)
+        if m:
+            card = m.group(2)
+            if card in KNIGHTS:
+                played_by = m.group(1)
+                resolving_card = card
+                has_revealed = False
+            else:
+                resolving_card = None
+        if RE_REVEALS.match(line):
+            has_revealed = True
+        if resolving_card is not None and not has_revealed:
+            if RE_DISCARDS.match(line) or RE_TRASHES.match(line):
+                line += " from hand"
+        m = RE_TRASHES.match(line)
+        if resolving_card is not None and has_revealed and m:
+            if m.group(1) == played_by and m.group(2) == resolving_card:
+                line += "from play"
+        cleaned.append(line)
+    return cleaned
+
 
 
 
@@ -566,6 +657,9 @@ class PlayerState:
 
     def discard_from_play(self, card):
         _move(card, self.playarea, self.discarded)
+
+    def discard_from_set_aside(self, card):
+        _move(card, self.setaside, self.discarded)
 
     def topdeck(self, card):
         _move(card, self.hand, self.drawpile)
@@ -646,7 +740,11 @@ class PlayerState:
 
     def play(self, card):
         if 'duration' in CARDNAME_TO_TYPE[card]:
-            _move(card, self.hand, self.durationarea)
+            # Goes to play area if tact is only card in hand
+            if card == 'Tactician' and sum(self.hand.values()) == 1:
+                _move(card, self.hand, self.playarea)
+            else:
+                _move(card, self.hand, self.durationarea)
         else:
             _move(card, self.hand, self.playarea)
 
@@ -984,14 +1082,19 @@ def generate_game_states(logtext, debug=True):
                 break
     # annotations
     # these are preprocessors that make the rest of the parsing easier
-    # some of these have to be run in this order to work
+    # first do individual cards
     log_lines = annotate_rogue(log_lines)
     log_lines = annotate_envoy(log_lines)
     log_lines = annotate_inn(log_lines)
+    log_lines = annotate_library(log_lines)
     log_lines = annotate_fg_reaction(log_lines)
+    log_lines = annotate_beggar_reaction(log_lines)
+    log_lines = annotate_knights(log_lines)
+
+    # now do cleanup phase
     log_lines = annotate_cleanup_hands(log_lines)
 
-    # remove extra play lines for TR/KC
+    # clarify cards that don't play from the hand, like Venture or Herald
     log_lines = clean_play_lines(log_lines)
 
     # do shuffles for reveals correctly
@@ -1073,6 +1176,12 @@ def generate_game_states(logtext, debug=True):
             state.set_last_card_bought(pname, card)
             state.phase = 'buy'
             continue
+        m = RE_DISCARDS_FROM_HAND.match(line)
+        if m:
+            pname = m.group(1)
+            card = m.group(2)
+            state.get_player(pname).discard(card)
+            continue
         m = RE_DISCARDS_DECK.match(line)
         if m:
             pname = m.group(1)
@@ -1090,6 +1199,12 @@ def generate_game_states(logtext, debug=True):
             elif state.last_card_bought in DISCARD_REVEALED_ON_BUY:
                 for card in cards:
                     state.get_player(pname).discard_revealed(card)
+            elif state.last_card_played in DISCARD_FROM_DRAW:
+                for card in cards:
+                    state.get_player(pname).discard_from_draw(card)
+            elif state.last_card_played in DISCARD_FROM_SET_ASIDE:
+                for card in cards:
+                    state.get_player(pname).discard_from_set_aside(card)
             else:
                 for card in cards:
                     state.get_player(pname).discard(card)
@@ -1141,6 +1256,8 @@ def generate_game_states(logtext, debug=True):
                 state.get_player(pname).discard_revealed(card)
             elif state.last_card_played in DISCARD_FROM_DRAW:
                 state.get_player(pname).discard_from_draw(card)
+            elif state.last_card_played in DISCARD_FROM_SET_ASIDE:
+                state.get_player(pname).discard_from_set_aside(card)
             else:
                 state.get_player(pname).discard(card)
 
@@ -1163,6 +1280,8 @@ def generate_game_states(logtext, debug=True):
 
             if state.last_overpay == 'Doctor':
                 state.get_player(pname).topdeck_revealed(card)
+            elif state.last_card_gained == 'Inn':
+                state.get_player(pname).topdeck_discarded(card)
             elif state.last_overpay == 'Herald' or state.last_card_played in TOPDECKS_FROM_DISCARD:
                 # topdecks from discard
                 state.get_player(pname).topdeck_discarded(card)
@@ -1204,7 +1323,27 @@ def generate_game_states(logtext, debug=True):
                 pname = m.group(1)
                 card = m.group(2)
                 state.trash_from_play(pname, card)
-
+        m = RE_TRASHES_FROM_HAND.match(line)
+        if m:
+            pname = m.group(1)
+            cards = m.group(2)
+            cards = [card.strip() for card in cards.split(",")]
+            for card in cards:
+                if card != 'Fortress' and not (possessed and pname == curr_player):
+                    state.trash(pname, card)
+            continue
+        m = RE_TRASHES_FROM_PLAY.match(line)
+        if m:
+            pname = m.group(1)
+            cards = m.group(2)
+            cards = [card.strip() for card in cards.split(",")]
+            for card in cards:
+                if card != 'Fortress' and not (possessed and pname == curr_player):
+                    state.trash_from_play(pname, card)
+                if card == 'Fortress':
+                    p = state.get_player(pname)
+                    _move('Fortress', p.playarea, p.hand)
+            continue
         m = RE_TRASHES.match(line)
         # TODO handle trash edge cases in GameState/PlayerState instead of here
         # That way will probably make it easier to figure out which zone it came from
@@ -1218,6 +1357,28 @@ def generate_game_states(logtext, debug=True):
                     if card == 'Fortress':
                         p = state.get_player(pname)
                         _move('Fortress', p.discarded, p.hand)
+                # resolved, clear it
+                state.revealed_reaction = None
+            elif state.last_card_played == 'Hermit':
+                # it's impossible to tell whether we trash from the hand or from the discard
+                # so, we assume a discard pile trash if we have the choice
+                p = state.get_player(pname)
+                if not (possessed and pname == curr_player):
+                    for card in cards:
+                        if card in p.discarded and card == 'Fortress':
+                            _move('Fortress', p.discarded, p.hand)
+                        elif card in p.discarded and card != 'Fortress':
+                            _move(card, p.discarded, p.trashed)
+                        elif card != 'Fortress':
+                            _move(card, p.hand, p.trashed)
+            elif state.last_card_played == 'Death Cart':
+                # Assume trash from play if the card trashed is Death Cart
+                # There are some edge cases for this but we'll ignore those
+                for card in cards:
+                    if card == 'Death Cart':
+                        state.trash_from_play(pname, card)
+                    elif card != 'Fortress':
+                        state.trash(pname, card)
             elif state.last_card_bought in TRASHES_PLAY_ON_BUY or state.last_card_played in TRASHES_FROM_PLAY:
                 for card in cards:
                     if card != 'Fortress' and not (possessed and pname == curr_player):
@@ -1404,6 +1565,8 @@ def generate_game_states(logtext, debug=True):
         if m:
             if state.last_card_played in REVEALS_FROM_HAND:
                 continue
+            if state.last_card_played == 'Black Market':
+                continue
             pname = m.group(1)
             line = line[line.index("- reveals")+9:]
             cards = [card.strip() for card in line.split(",")]
@@ -1444,7 +1607,8 @@ def generate_game_states(logtext, debug=True):
         if m:
             pname = m.group(1)
             card = m.group(2)
-            state.set_revealed_reaction(pname, 'Watchtower')
+            # we don't set revealed reaction because we don't need it for further processing
+            # if we have it there are some occasional false positives
             state.get_player(pname).topdeck_discarded(card)
             continue
         m = RE_ROYAL_SEAL.match(line)
