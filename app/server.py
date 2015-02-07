@@ -53,9 +53,12 @@ def parse_log():
             return render_template("replay.html", log=text, states=game_states, logurl=logurl)
         except Exception as e:
             # hand tracking with loose checks
-            text, game_states = parser.gokoparse.generate_game_states(log.text, debug=False)
-            game_states = [state.to_dict() for state in game_states]
-            return render_template("replay.html", log=text, states=game_states, logurl=logurl)
+            try:
+                text, game_states = parser.gokoparse.generate_game_states(log.text, debug=False)
+                game_states = [state.to_dict() for state in game_states]
+                return render_template("replay.html", log=text, states=game_states, logurl=logurl)
+            except Exception as e:
+                return render_template("index.html", msg="Unfortunately, the parser was unable to process your log")
 
 dev = False
 host = '127.0.0.1' if dev else '0.0.0.0'
