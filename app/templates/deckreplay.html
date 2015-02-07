@@ -754,6 +754,9 @@
                 while (node.firstChild) {
                     node.removeChild(node.firstChild);
                 }
+                var title = document.createElement("p");
+                title.innerHTML = "Trash";
+                node.appendChild(title);
                 for (var card in trash) {
                     if (trash.hasOwnProperty(card)) {
                         node.appendChild(createCount(trash[card], card, false));
