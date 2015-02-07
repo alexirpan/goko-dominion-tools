@@ -589,25 +589,43 @@
 
             function createDraw(name, deck) {
                 var node = document.getElementById("decks");
-                var p = document.createElement("p");
-                p.innerHTML = name + "'s cards in draw";
-                node.appendChild(p);
+                var count = 0;
+                var cards = [];
                 for (var card in deck) {
                     if (deck.hasOwnProperty(card)) {
-                        node.appendChild(createCount(deck[card], card, true));
+                        count += deck[card];
+                        cards.push(card);
                     }
+                }
+                cards.sort(sortByType);
+
+                var p = document.createElement("p");
+                p.innerHTML = name + "'s cards in draw (" + count + ")";
+                node.appendChild(p);
+                for (var i = 0; i < cards.length; i++) {
+                    var card = cards[i];
+                    node.appendChild(createCount(deck[card], card, true));
                 }
             }
 
             function createDiscard(name, deck) {
                 var node = document.getElementById("decks");
-                var p = document.createElement("p");
-                p.innerHTML = name + "'s cards in discard";
-                node.appendChild(p);
+                var count = 0;
+                var cards = [];
                 for (var card in deck) {
                     if (deck.hasOwnProperty(card)) {
-                        node.appendChild(createCount(deck[card], card, true));
+                        count += deck[card];
+                        cards.push(card);
                     }
+                }
+                cards.sort(sortByType);
+
+                var p = document.createElement("p");
+                p.innerHTML = name + "'s cards in discard (" + count + ")";
+                node.appendChild(p);
+                for (var i = 0; i < cards.length; i++) {
+                    var card = cards[i];
+                    node.appendChild(createCount(deck[card], card, true));
                 }
             }
 
