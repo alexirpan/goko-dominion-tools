@@ -212,8 +212,6 @@ def read_until_resolved(lines):
             lines[:0] = [remove_annotation(line) for line in first_play + second_play + third_play]
             return parsed
     elif card == "Procession":
-        pass
-        """
         read_until_next_matches(parsed, RE_PLAYS)
         first_play = read_until_resolved(lines)
         second_play = read_until_resolved(lines)
@@ -251,9 +249,44 @@ def read_until_resolved(lines):
             m2 = RE_PLAYS.match(second_play[0])
             p2, c2 = m.group(1), m.group(2)
         return parsed + first_play + second_play + trashed
-        """
     elif card == "Counterfeit":
-        pass
+        read_until_next_matches(parsed, RE_PLAYS)
+        first_play = read_until_resolved(lines)
+        second_play = read_until_resolved(lines)
+        if not firstplay or not second_play:
+            copied = False
+        else:
+            m = RE_PLAYS.match(first_play[0])
+            p1, c1 = m.group(1), m.group(2)
+            m2 = RE_PLAYS.match(second_play[0])
+            p2, c2 = m.group(1), m.group(2)
+            copied = (c1 == c2) and (player == p1 == p2) and ('treasure' in CARDNAME_TO_TYPE[c1])
+        if not copied:
+            lines[:0] = first_play + second_play
+            return parse
+        # we still need to check that the card is trashed before fully commiting
+        treasure_card = RE_PLAYS.match(first_play[0]).group(2)
+        trash_lines = []
+        while lines:
+            trash_lines.append(lines[0])
+            lines[:1] = []
+            if RE_REVEALS.match(trash_lines[-1]):
+                continue
+            if RE_DEFAULT.match(trash_lines[-1]):
+                # must abort
+                # TODO how do we know to not process the trash lines in second play call?
+                continue
+            if RE_TRASHES.match(trash_lines[-1]).group(2) == treasure_card:
+                break
+
+        if not firstplay or not second_play:
+            copied = False
+        else:
+            m = RE_PLAYS.match(first_play[0])
+            p1, c1 = m.group(1), m.group(2)
+            m2 = RE_PLAYS.match(second_play[0])
+            p2, c2 = m.group(1), m.group(2)
+        return parsed + first_play + second_play + trashed
     elif card == "Herald":
         # the next line can sometimes not be a Herald reveal, if there are no cards left in the deck
         if lines and RE_REVEALS.match(lines[0]) and 'action' in CARDNAME_TO_TYPE[RE_REVEALS.match(lines[0]).group(2)]:
