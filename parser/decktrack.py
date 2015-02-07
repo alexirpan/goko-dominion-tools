@@ -6,7 +6,7 @@ import copy
 from collections import Counter
 
 # Project modules
-from parser.constants import *
+from parser.dtconstants import *
 
 
 # Regular expressions used to parse goko logs.  Precompiled for speed.
@@ -891,14 +891,10 @@ class GameState:
 
     def to_dict(self):
         info = dict()
-        info['hands'] = dict()
-        info['decks'] = dict()
-        # TODO change for new interface
-        for pname, index in self.playerInd.items():
-            info['hands'][pname] = list(self.player_hands[index])
-            info['decks'][pname] = dict(self.player_decks[index])
-        info['play'] = list(self.cards_in_play)
+        for pname in self.player_states:
+            info[pname] = self.get_player(pname).to_dict()
         info['supply'] = dict(self.supply)
+        info['trash'] = dict(self.trashpile)
         return info
 
     def _update_supply(self, card):
@@ -1107,10 +1103,12 @@ def generate_game_states(logtext, debug=True):
     # Someone this design feels clunky but I can't think of anything better right now?
     for line, next_line in zip(log_lines, log_lines[1:]):
         game_states.append(copy.deepcopy(state))
+        """
         for pname in pnames:
             print pname
             print state.get_player(pname).to_dict()
         print line
+        """
 
         m = RE_TURNX.match(line)
         if m:

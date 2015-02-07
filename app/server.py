@@ -8,7 +8,8 @@ sys.path.insert(1, basedir)
 
 from flask import Flask, Response, request, render_template
 import requests
-from parser.gokoparse import generate_game_states
+import parser.gokoparse
+import parser.decktrack
 
 basedir = os.path.join(os.path.abspath(os.path.dirname(__file__)), '../')
 sys.path.append(basedir)
@@ -38,13 +39,23 @@ def parse_log():
         return render_template("index.html", msg="Request timed out - try again")
     except:
         return render_template("index.html", msg="Could not download log - are you sure the URL is correct?")
+    # log obtained
     try:
-        text, game_states = generate_game_states(log.text, debug=False)
+        # full deck tracking
+        text, game_states = parser.decktrack.generate_game_states(log.text, debug=True)
         game_states = [state.to_dict() for state in game_states]
-        return render_template("replay.html", log=text, states=game_states, logurl=logurl);
+        return render_template("deckreplay.html", log=text, states=game_states, logurl=logurl)
     except Exception as e:
-        print e
-        return "An exception was raised when attempting to construct game states"
+        try:
+            # hand tracking with strict card checks
+            text, game_states = parser.gokoparse.generate_game_states(log.text, debug=True)
+            game_states = [state.to_dict() for state in game_states]
+            return render_template("replay.html", log=text, states=game_states, logurl=logurl)
+        except Exception as e:
+            # hand tracking with loose checks
+            text, game_states = parser.gokoparse.generate_game_states(log.text, debug=False)
+            game_states = [state.to_dict() for state in game_states]
+            return render_template("replay.html", log=text, states=game_states, logurl=logurl)
 
 dev = False
 host = '127.0.0.1' if dev else '0.0.0.0'

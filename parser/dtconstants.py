@@ -307,6 +307,10 @@ GAIN_TO_HAND = [
     'Mine', 'Trading Post', 'Torturer', 'Explorer', 'Ill-Gotten Gains', 'Beggar',
 ]
 
+GAINS_CARD_TO_TOP = [
+    'Bureaucrat', 'Tournament', 'Taxman', 'Sea Hag', 'Bag of Gold', 'Armory', 'Develop', 'Treasure Map',
+]
+
 # these are cards that gain from somewhere not in the supply (usually a trashing attack)
 # for these purposes we treat Spoils, Madman, as supply piles
 # TODO find out if Graverobber gain is from trash or from supply
@@ -329,51 +333,109 @@ GAIN_FROM_ELSEWHERE = [
 # TODO handle Knights
 # (both trash from play if Knight revealed, or from revealed cards, or for Dame Anna from hand)
 # for now ignore it all
-TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urchin', 'Death Cart', 'Procession', 'Counterfeit', 'Pillage', 'Embargo',
-    'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
-    'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
+TRASHES_FROM_PLAY = ['Feast', 'Mining Village', 'Horn of Plenty', 'Hermit', 'Urchin', 'Procession', 'Counterfeit', 'Pillage', 'Embargo',
 ]
 
 TRASHES_FROM_REVEAL = [
-    'Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Lookout', 'Pirate Ship', 'Loan', 'Rebuild', 'Rogue',
+    'Thief', 'Swindler', 'Saboteur', 'Noble Brigand', 'Pirate Ship', 'Loan', 'Rebuild', 'Rogue',
     'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
     'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
     'Doctor',
 ]
 
+TRASHES_FROM_DRAW = [
+    'Lookout',
+]
+
 # TODO handle Sir Michael
 DISCARD_FROM_REVEAL = [
-    'Library', 'Hunting Party', 'Spy', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Sea Hag', 'Noble Brigand', 'Scrying Pool', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Jester', 'Duchess', 'Oracle', 'JackOfAllTrades', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
+    'Hunting Party', 'Thief', 'Adventurer', 'Saboteur', 'Tribute', 'Navigator', 'Pirate Ship', 'Noble Brigand', 'Golem', 'Loan', 'Rabble', 'Venture', 'Fortune Teller', 'Farming Village', 'Harvest', 'Oracle', 'Jester', 'Cartographer', 'Sage', 'Ironmonger', 'Wandering Minstrel', 'Catacombs', 'Rebuild', 'Rogue', 'Survivors',
     'Dame Anna', 'Dame Josephine', 'Dame Molly', 'Dame Natalie', 'Dame Sylvia',
     'Sir Bailey', 'Sir Destry', 'Sir Martin', 'Sir Michael', 'Sir Vander',
-    'Advisor', 'Journeyman', 'Envoy', 'Lookout',
+    'Advisor', 'Journeyman', 'Envoy',
+]
+
+# Sometimes the reveal line is not explicitly given, usually when only 1 card is revealed
+# (however, not always)
+# Library is a special case: the way that it's handled, the discarded Actions are never moved to the revealed
+# zone. So, although it should technically discard from revealed cards, it discards from deck for now
+# TODO change this handling behavior to better match card
+DISCARD_FROM_DRAW = [
+    'Spy', 'Scrying Pool', 'Sea Hag', 'Duchess', 'Lookout', 'JackOfAllTrades',
+]
+
+DISCARD_FROM_SET_ASIDE = [
+    'Library',
 ]
 
 TOPDECKS_FROM_REVEAL = [
-    'Spy', 'Wishing Well', 'Scout', 'Pearl Diver', 'Lookout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger'
+    'Spy', 'Wishing Well', 'Scout', 'Navigator', 'Apothecary', 'Scrying Pool', 'Rabble', 'Fortune Teller', 'Duchess', 'Oracle', 'Cartographer', 'Scavenger', 'Wandering Minstrel', 'Survivors', 'Doctor', 'Herald', 'Vagrant', 'JackOfAllTrades','Ironmonger', 'Survivors',
 ]
 
-# TODO all of these cards are triggered in cleanup
-# So, they may not be the resolving action anymore
-# need to handle this properly
-TOPDECKS_FROM_PLAY = ['Treasury', 'Herbalist', 'Alchemist']
+# Herbalist does not topdeck itself, so it's not in this list. Handled elsewhere
+TOPDECKS_FROM_PLAY = ['Treasury', 'Alchemist']
 
-# Note - Horse Traders reaction works by luck
-# since for every Attack in the game, it is not in the list below,
-# so the HT revealed is correctly set aside
-# TODO make this robust and explicit
-SETS_ASIDE_FROM_DECK = ['Native Village']
+TOPDECKS_ON_GAIN = ['Nomad Camp']
+
+TOPDECKS_PLAY_ON_BUY = ['Mandarin']
+
+# This is a very silly name, but it's helpful to have
+TOPDECKS_FROM_DRAW = [
+    'Pearl Diver', 'Duchess', 'Spy', 'Scrying Pool', 'Sea Hag', 'Lookout', 'JackOfAllTrades',
+]
+
+TOPDECKS_FROM_DISCARD = [
+    'Scavenger',
+]
+
+
+SETS_ASIDE_FROM_DECK = ['Native Village', 'Library']
 
 # TODO implement Watchtower, Mint on gain, Royal Seal topdeck, Walled Village, reactions...
 # In general, do effects that occur when the card is NOT being played
 # TODO implement Band of Misfits (oh my god please no)
 # TODO implement Black Market
 
-TOPDECKS_ON_BUY = ['Herald', 'Inn', 'Doctor']
-# Nomad Camp isn't actually needed here, the NC topdeck isn't logged
-# just here for completion
-TOPDECKS_ON_GAIN = ['Inn', 'Nomad Camp']
-TRASHES_ON_BUY = ['Doctor', 'Mint', 'Noble Brigand']
-DISCARD_ON_BUY = ['Doctor', 'Noble Brigand']
+
+# Doctor triggers on overpay and is handled separately
+# For now TRASHES_REVEALED_ON_BUY does nothing because it's only triggered by NO
+TRASHES_REVEALED_ON_BUY = ['Noble Brigand']
+DISCARD_REVEALED_ON_BUY = ['Noble Brigand']
+TRASHES_PLAY_ON_BUY = ['Mint']
 
 RETURN_TO_SUPPLY_ON_PLAY = ['Spoils', 'Madman']
+
+REVEALS_FROM_HAND = [
+    'Ambassador', 'Mint', 'Pillage', 'Shanty Town', 'Tournament', 'Bureaucrat', 'Cutpurse', 'Menagerie', 'Taxman',
+]
+
+# These are cards that need special code to work because they log things in weird ways
+# I hate these so much
+# May or may not actually use this list
+# It's possible the edge cases will be all over the place
+SPECIAL_SNOWFLAKES = [
+    'Library',
+    'Hermit',
+    'Sir Michael',
+    'Beggar',
+    'Graverobber',
+    'Apothecary',
+    'Scrying Pool',
+    'Nomad Camp',
+    'Pearl Diver',
+    'Herald',
+    'Doctor',
+    'Island',
+    'Lookout',
+    # TODO FG reaction
+    "Fool's Gold",
+    'Inn',
+    'Black Market',
+    'Herbalist',
+    # Envoy logs 2 discards while Advisor logs it once for some reason
+    'Envoy',
+    'Fortune Teller',
+    'Death Cart',
+    'Counting House',
+]
+

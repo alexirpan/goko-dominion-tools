@@ -1,0 +1,882 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <!-- change for actual deployment -->
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='base.css') }}" />
+        <script type="text/javascript">
+            // from log prettifier
+            var types = {
+                'Border Village':'action',
+                'Farming Village':'action',
+                'Mining Village':'action',
+                'Native Village':'action',
+                'Walled Village':'action',
+                'Worker\'s Village':'action',
+                'Ruined Village':'action-ruins',
+                'Fishing Village':'action-duration',
+                'Village':'action',
+                'Ruined Library':'action-ruins',
+                'Library':'action',
+                'Abandoned Mine':'action-ruins',
+                'Mine':'action',
+                'Bag of Gold':'action',
+                'Fool\'s Gold':'treasure-reaction',
+                'Gold':'treasure',
+                'Overgrown Estate':'shelter-victory',
+                'Estate':'victory',
+                'Counting House':'action',
+                'Count':'action',
+                'Coppersmith':'action',
+                'Copper':'treasure',
+                'Ruined Market':'action-ruins',
+                'Grand Market':'action',
+                'Black Market':'action',
+                'Market Square':'action-reaction',
+                'Market':'action',
+                'Adventurer':'action',
+                'Alchemist':'action',
+                'Altar':'action',
+                'Ambassador':'action',
+                'Apothecary':'action',
+                'Apprentice':'action',
+                'Armory':'action',
+                'Band of Misfits':'action',
+                'Bandit Camp':'action',
+                'Baron':'action',
+                'Bazaar':'action',
+                'Bishop':'action',
+                'Bridge':'action',
+                'Bureaucrat':'action',
+                'Cartographer':'action',
+                'Catacombs':'action',
+                'Cellar':'action',
+                'Chancellor':'action',
+                'Chapel':'action',
+                'City':'action',
+                'Conspirator':'action',
+                'Council Room':'action',
+                'Courtyard':'action',
+                'Crossroads':'action',
+                'Cultist':'action',
+                'Cutpurse':'action',
+                'Dame Anna':'action',
+                'Dame Molly':'action',
+                'Dame Natalie':'action',
+                'Dame Sylvia':'action',
+                'Death Cart':'action',
+                'Develop':'action',
+                'Duchess':'action',
+                'Embargo':'action',
+                'Embassy':'action',
+                'Envoy':'action',
+                'Expand':'action',
+                'Explorer':'action',
+                'Familiar':'action',
+                'Feast':'action',
+                'Festival':'action',
+                'Followers':'action',
+                'Forager':'action',
+                'Forge':'action',
+                'Fortress':'action',
+                'Fortune Teller':'action',
+                'Ghost Ship':'action',
+                'Golem':'action',
+                'Goons':'action',
+                'Governor':'action',
+                'Graverobber':'action',
+                'Haggler':'action',
+                'Hamlet':'action',
+                'Harvest':'action',
+                'Herbalist':'action',
+                'Hermit':'action',
+                'Highway':'action',
+                'Hunting Grounds':'action',
+                'Hunting Party':'action',
+                'Inn':'action',
+                'Ironmonger':'action',
+                'Ironworks':'action',
+                'JackOfAllTrades':'action',
+                'Jester':'action',
+                'Junk Dealer':'action',
+                'King\'s Court':'action',
+                'Knights':'action',
+                'Laboratory':'action',
+                'Lookout':'action',
+                'Madman':'action',
+                'Mandarin':'action',
+                'Marauder':'action',
+                'Margrave':'action',
+                'Masquerade':'action',
+                'Menagerie':'action',
+                'Mercenary':'action',
+                'Militia':'action',
+                'Minion':'action',
+                'Mint':'action',
+                'Moneylender':'action',
+                'Monument':'action',
+                'Mountebank':'action',
+                'Mystic':'action',
+                'Navigator':'action',
+                'Noble Brigand':'action',
+                'Nomad Camp':'action',
+                'Oasis':'action',
+                'Oracle':'action',
+                'Pawn':'action',
+                'Pearl Diver':'action',
+                'Peddler':'action',
+                'Pillage':'action',
+                'Pirate Ship':'action',
+                'Poor House':'action',
+                'Possession':'action',
+                'Prince':'action',
+                'Princess':'action',
+                'Procession':'action',
+                'Rabble':'action',
+                'Rats':'action',
+                'Rebuild':'action',
+                'Remake':'action',
+                'Remodel':'action',
+                'Rogue':'action',
+                'Ruins':'action-ruins',
+                'Saboteur':'action',
+                'Sage':'action',
+                'Salvager':'action',
+                'Scavenger':'action',
+                'Scheme':'action',
+                'Scout':'action',
+                'Scrying Pool':'action',
+                'Sea Hag':'action',
+                'Shanty Town':'action',
+                'Sir Bailey':'action',
+                'Sir Destry':'action',
+                'Sir Martin':'action',
+                'Sir Michael':'action',
+                'Sir Vander':'action',
+                'Smithy':'action',
+                'Smugglers':'action',
+                'Spice Merchant':'action',
+                'Spy':'action',
+                'Squire':'action',
+                'Stables':'action',
+                'Steward':'action',
+                'Storeroom':'action',
+                'Swindler':'action',
+                'Thief':'action',
+                'Throne Room':'action',
+                'Torturer':'action',
+                'Tournament':'action',
+                'Trade Route':'action',
+                'Trading Post':'action',
+                'Transmute':'action',
+                'Treasure Map':'action',
+                'Treasury':'action',
+                'Tribute':'action',
+                'Trusty Steed':'action',
+                'University':'action',
+                'Upgrade':'action',
+                'Urchin':'action',
+                'Vagrant':'action',
+                'Vault':'action',
+                'Wandering Minstrel':'action',
+                'Warehouse':'action',
+                'Wishing Well':'action',
+                'Witch':'action',
+                'Young Witch':'action',
+                'Woodcutter':'action',
+                'Workshop':'action',
+                'Beggar':'action-reaction',
+                'Watchtower':'action-reaction',
+                'Horse Traders':'action-reaction',
+                'Moat':'action-reaction',
+                'Secret Chamber':'action-reaction',
+                'Trader':'action-reaction',
+                'Bank':'treasure',
+                'Cache':'treasure',
+                'Contraband':'treasure',
+                'Counterfeit':'treasure',
+                'Diadem':'treasure',
+                'Hoard':'treasure',
+                'Horn of Plenty':'treasure',
+                'Ill-Gotten Gains':'treasure',
+                'Loan':'treasure',
+                'Philosopher\'s Stone':'treasure',
+                'Platinum':'treasure',
+                'Potion':'treasure',
+                'Quarry':'treasure',
+                'Royal Seal':'treasure',
+                'Silver':'treasure',
+                'Spoils':'treasure',
+                'Stash':'treasure',
+                'Talisman':'treasure',
+                'Venture':'treasure',
+                'Colony':'victory',
+                'Duchy':'victory',
+                'Duke':'victory',
+                'Fairgrounds':'victory',
+                'Farmland':'victory',
+                'Feodum':'victory',
+                'Gardens':'victory',
+                'Province':'victory',
+                'Silk Road':'victory',
+                'Vineyard':'victory',
+                'Caravan':'action-duration',
+                'Haven':'action-duration',
+                'Lighthouse':'action-duration',
+                'Merchant Ship':'action-duration',
+                'Outpost':'action-duration',
+                'Tactician':'action-duration',
+                'Wharf':'action-duration',
+                'Survivors':'action-ruins',
+                'Dame Josephine':'action-victory',
+                'Great Hall':'action-victory',
+                'Nobles':'action-victory',
+                'Island':'action-victory',
+                'Harem':'treasure-victory',
+                'Hovel':'shelter-reaction',
+                'Necropolis':'action-shelter',
+                'Tunnel':'victory-reaction',
+                'victory point chips':'vp-chip',
+                'Curse':'curse',
+                'Candlestick Maker':'action',
+                'Stonemason':'action',
+                'Doctor':'action',
+                'Masterpiece':'treasure',
+                'Advisor':'action',
+                'Herald':'action',
+                'Plaza':'action',
+                'Taxman':'action-attack',
+                'Baker':'action',
+                'Butcher':'action',
+                'Journeyman':'action',
+                'Merchant Guild':'action',
+                'Soothsayer':'action-attack',
+            };
+
+            // potion costs are fractional to give desired sort order
+            var costs = {
+                'Border Village': 6,
+                'Farming Village': 4,
+                'Mining Village': 4,
+                'Native Village': 2,
+                'Walled Village': 4,
+                'Worker\'s Village': 4,
+                'Ruined Village': 0,
+                'Fishing Village': 3,
+                'Village': 3,
+                'Ruined Library': 0,
+                'Library': 5,
+                'Abandoned Mine': 0,
+                'Mine': 5,
+                'Bag of Gold': 0,
+                'Fool\'s Gold': 2,
+                'Gold': 6,
+                'Overgrown Estate': 1,
+                'Estate': 2,
+                'Counting House': 5,
+                'Count': 5,
+                'Coppersmith': 4,
+                'Copper': 0,
+                'Ruined Market':0,
+                'Grand Market':6,
+                'Black Market':3,
+                'Market Square':3,
+                'Market':5,
+                'Adventurer':6,
+                'Alchemist':3.1,
+                'Altar':6,
+                'Ambassador':3,
+                'Apothecary':2.1,
+                'Apprentice':5,
+                'Armory':4,
+                'Band of Misfits':5,
+                'Bandit Camp':5,
+                'Baron':4,
+                'Bazaar':5,
+                'Bishop':4,
+                'Bridge':4,
+                'Bureaucrat':4,
+                'Cartographer':5,
+                'Catacombs':5,
+                'Cellar':2,
+                'Chancellor':3,
+                'Chapel':2,
+                'City':5,
+                'Conspirator':4,
+                'Council Room':5,
+                'Courtyard':2,
+                'Crossroads':2,
+                'Cultist':5,
+                'Cutpurse':4,
+                'Dame Anna':5,
+                'Dame Molly':5,
+                'Dame Natalie':5,
+                'Dame Sylvia':5,
+                'Death Cart':4,
+                'Develop':3,
+                'Duchess':2,
+                'Embargo':2,
+                'Embassy':5,
+                'Envoy':4,
+                'Expand':7,
+                'Explorer':5,
+                'Familiar':3.1,
+                'Feast':4,
+                'Festival':5,
+                'Followers':0,
+                'Forager':3,
+                'Forge':7,
+                'Fortress':4,
+                'Fortune Teller':3,
+                'Ghost Ship':5,
+                'Golem':4.1,
+                'Goons':6,
+                'Governor':5,
+                'Graverobber':5,
+                'Haggler':5,
+                'Hamlet':2,
+                'Harvest':5,
+                'Herbalist':2,
+                'Hermit':3,
+                'Highway':5,
+                'Hunting Grounds':6,
+                'Hunting Party':5,
+                'Inn':5,
+                'Ironmonger':4,
+                'Ironworks':4,
+                'JackOfAllTrades':4,
+                'Jester':5,
+                'Junk Dealer':5,
+                'King\'s Court':7,
+                'Knights':5,
+                'Laboratory':5,
+                'Lookout':3,
+                'Madman':0,
+                'Mandarin':5,
+                'Marauder':4,
+                'Margrave':5,
+                'Masquerade':3,
+                'Menagerie':3,
+                'Mercenary':0,
+                'Militia':4,
+                'Minion':5,
+                'Mint':5,
+                'Moneylender':4,
+                'Monument':4,
+                'Mountebank':5,
+                'Mystic':5,
+                'Navigator':4,
+                'Noble Brigand':4,
+                'Nomad Camp':4,
+                'Oasis':3,
+                'Oracle':3,
+                'Pawn':2,
+                'Pearl Diver':2,
+                'Peddler':8,
+                'Pillage':5,
+                'Pirate Ship':4,
+                'Poor House':1,
+                'Possession':6.1,
+                'Prince':8,
+                'Princess':0,
+                'Procession':4,
+                'Rabble':5,
+                'Rats':4,
+                'Rebuild':5,
+                'Remake':4,
+                'Remodel':4,
+                'Rogue':5,
+                'Saboteur':5,
+                'Sage':3,
+                'Salvager':4,
+                'Scavenger':4,
+                'Scheme':3,
+                'Scout':4,
+                'Scrying Pool':2.1,
+                'Sea Hag':4,
+                'Shanty Town':3,
+                'Sir Bailey':5,
+                'Sir Destry':5,
+                'Sir Martin':4,
+                'Sir Michael':5,
+                'Sir Vander':5,
+                'Smithy':4,
+                'Smugglers':3,
+                'Spice Merchant':4,
+                'Spy':4,
+                'Squire':2,
+                'Stables':5,
+                'Steward':3,
+                'Storeroom':3,
+                'Swindler':3,
+                'Thief':4,
+                'Throne Room':4,
+                'Torturer':5,
+                'Tournament':4,
+                'Trade Route':3,
+                'Trading Post':5,
+                'Transmute':0.1,
+                'Treasure Map':4,
+                'Treasury':5,
+                'Tribute':5,
+                'Trusty Steed':0,
+                'University':2.1,
+                'Upgrade':5,
+                'Urchin':3,
+                'Vagrant':2,
+                'Vault':5,
+                'Wandering Minstrel':4,
+                'Warehouse':3,
+                'Wishing Well':3,
+                'Witch':5,
+                'Young Witch':4,
+                'Woodcutter':3,
+                'Workshop':3,
+                'Beggar':2,
+                'Watchtower':3,
+                'Horse Traders':4,
+                'Moat':2,
+                'Secret Chamber':2,
+                'Trader':4,
+                'Bank':7,
+                'Cache':5,
+                'Contraband':5,
+                'Counterfeit':5,
+                'Diadem':0,
+                'Hoard':6,
+                'Horn of Plenty':5,
+                'Ill-Gotten Gains':5,
+                'Loan':3,
+                'Philosopher\'s Stone':3.1,
+                'Platinum':9,
+                'Potion':4,
+                'Quarry':4,
+                'Royal Seal':5,
+                'Silver':3,
+                'Spoils':0,
+                'Stash':5,
+                'Talisman':4,
+                'Venture':5,
+                'Colony':11,
+                'Duchy':5,
+                'Duke':5,
+                'Fairgrounds':6,
+                'Farmland':6,
+                'Feodum':4,
+                'Gardens':4,
+                'Province':8,
+                'Silk Road':4,
+                'Vineyard':0.1,
+                'Caravan':4,
+                'Haven':2,
+                'Lighthouse':2,
+                'Merchant Ship':5,
+                'Outpost':5,
+                'Tactician':5,
+                'Wharf':5,
+                'Survivors':0,
+                'Dame Josephine':5,
+                'Great Hall':3,
+                'Nobles':6,
+                'Island':4,
+                'Harem':6,
+                'Hovel':1,
+                'Necropolis':1,
+                'Tunnel':3,
+                'victory point chips':0,
+                'Curse':0,
+                'Candlestick Maker':2,
+                'Stonemason':2,
+                'Doctor':3,
+                'Masterpiece':3,
+                'Advisor':4,
+                'Herald':4,
+                'Plaza':4,
+                'Taxman':4,
+                'Baker':5,
+                'Butcher':5,
+                'Journeyman':5,
+                'Merchant Guild':5,
+                'Soothsayer':5,
+            };
+
+            function typeKey(card) {
+                var type = types[card];
+                if (type.indexOf("ruins") > -1) {
+                    return 3;
+                }
+                // do this to avoid mis-sorting reactions
+                if (type.substr(0,6) === "action") {
+                    return 0;
+                }
+                if (type.indexOf("treasure") > -1) {
+                    return 1;
+                }
+                if (type.indexOf("victory") > -1) {
+                    return 2;
+                }
+                // Curse
+                return 4;
+            }
+
+            // sorts cards by type, then by cost largest to smallest
+            function sortByType(card1, card2) {
+                var k1 = typeKey(card1);
+                var k2 = typeKey(card2);
+                if (k1 != k2) {
+                    return k1 - k2;
+                }
+
+                return -(costs[card1] - costs[card2]);
+            }
+
+            // these lists need in order of display
+            var kingdomVictory = ['Colony', 'Province', 'Duchy', 'Estate', 'Curse', 'Ruins'];
+            var kingdomTreasure = ['Platinum', 'Gold', 'Potion', 'Silver', 'Copper'];
+            var nonSupply = ['Spoils', 'Madman', 'Mercenary'];
+
+            var selected;
+
+            function createLogLine(text, index) {
+                var p = document.createElement("p");
+                p.className = "line";
+                p.id = String(index);
+                p.innerHTML = text;
+                p.onclick = function(e) {
+                    document.getElementById(e.target.id).className = "selected";
+                    var index = parseInt(e.target.id, 10);
+                    document.getElementById(String(selected)).className = "line";
+                    selected = index;
+                    createDisplayElements(states[index]);
+                }
+                return p;
+            }
+
+            function createCard(cardname) {
+                var sp = document.createElement("span");
+                if (types.hasOwnProperty(cardname)) {
+                    sp.className = types[cardname];
+                }
+                sp.innerHTML = cardname;
+                return sp;
+            }
+
+            function createCount(num, cname, new_line) {
+                var div = document.createElement("div");
+                if (!new_line) {
+                    div.className = "inline";
+                }
+                var sp = document.createElement("span");
+                sp.innerHTML = String(num) + " ";
+                div.appendChild(sp);
+                div.appendChild(createCard(cname));
+                return div;
+            }
+
+            var supply;
+
+            function createCostHeading(cost) {
+                if (typeof cost === 'number') {
+                    if (cost - Math.floor(cost) > 0.05) {
+                        return createCostHeading("$" + Math.floor(cost) + "P");
+                    }
+                    return createCostHeading("$" + cost);
+                }
+                var p = document.createElement("p");
+                p.innerHTML = "--" + cost + "--";
+                p.className = "costheading";
+                return p;
+            }
+
+            function createDraw(name, deck) {
+                var node = document.getElementById("decks");
+                var p = document.createElement("p");
+                p.innerHTML = name + "'s cards in draw";
+                node.appendChild(p);
+                for (var card in deck) {
+                    if (deck.hasOwnProperty(card)) {
+                        node.appendChild(createCount(deck[card], card, true));
+                    }
+                }
+            }
+
+            function createDiscard(name, deck) {
+                var node = document.getElementById("decks");
+                var p = document.createElement("p");
+                p.innerHTML = name + "'s cards in discard";
+                node.appendChild(p);
+                for (var card in deck) {
+                    if (deck.hasOwnProperty(card)) {
+                        node.appendChild(createCount(deck[card], card, true));
+                    }
+                }
+            }
+
+            function displayCardsInLine(node, cards) {
+                for (var card in cards) {
+                    if (cards.hasOwnProperty(card)) {
+                        node.appendChild(createCount(cards[card], card, false));
+                    }
+                }
+            }
+
+            function displayCardsNewLine(node, cards) {
+                for (var card in cards) {
+                    if (cards.hasOwnProperty(card)) {
+                        node.appendChild(createCount(cards[card], card, true));
+                    }
+                }
+            }
+
+            function hasCards(cards) {
+                for (var key in cards) {
+                    if (cards.hasOwnProperty(key)) {
+                        return true;
+                    }
+                }
+                return false;
+            }
+
+            function displayOtherZones(name, player) {
+                // these zones may or may not exist
+                var node = document.getElementById("decks");
+                var p;
+
+                if (hasCards(player['reveal'])) {
+                    p = document.createElement("p");
+                    p.innerHTML = name + "'s revealed cards";
+                    node.appendChild(p);
+                    displayCardsNewLine(node, player['reveal']);
+                }
+                if (hasCards(player['setaside'])) {
+                    p = document.createElement("p");
+                    p.innerHTML = name + "'s set aside cards";
+                    node.appendChild(p);
+                    displayCardsNewLine(node, player['setaside']);
+                }
+
+                // add the closing line
+                var hr = document.createElement("hr");
+                hr.align = "left";
+                hr.width = "90%";
+                node.appendChild(hr);
+            }
+
+
+            function createPlayerElements(player, name) {
+                var node = document.getElementById("gamedisplay");
+                var domname = document.createElement("p");
+                domname.className = "pname";
+                domname.innerHTML = name + "'s hand";
+                node.appendChild(domname);
+
+                var hand = player['hand'];
+                var cards_in_hand = [];
+                for (var card in hand) {
+                    if (hand.hasOwnProperty(card)) {
+                        cards_in_hand.push(card);
+                    }
+                }
+                cards_in_hand.sort(sortByType);
+                for (var i = 0; i < cards_in_hand.length; i++) {
+                    var card = cards_in_hand[i];
+                    node.appendChild(createCount(hand[card], card, false));
+                }
+                node.appendChild(document.createElement("br"));
+
+                var play = document.createElement("p");
+                play.innerHTML = name + "'s play";
+                node.appendChild(play);
+                for (var card in player['play']) {
+                    if (player['play'].hasOwnProperty(card)) {
+                        node.appendChild(createCount(player['play'][card], card, false));
+                    }
+                }
+                node.appendChild(document.createElement("br"));
+
+                var durationcards = player['duration'];
+                var count = 0;
+                for (var card in durationcards) {
+                    if (durationcards.hasOwnProperty(card)) {
+                        count += durationcards[card];
+                        if (count > 0) { break; }
+                    }
+                }
+                if (count > 0) {
+                    var dur = document.createElement("p");
+                    dur.innerHTML = name + "'s duration cards";
+                    node.appendChild(dur);
+                    for (var card in durationcards) {
+                        if (durationcards.hasOwnProperty(card)) {
+                            node.appendChild(createCount(durationcards[card], card, false));
+                        }
+                    }
+                    node.appendChild(document.createElement("br"));
+                }
+                createDraw(name, player['draw']);
+                createDiscard(name, player['discard']);
+                displayOtherZones(name, player);
+            }
+
+            function createDisplayElements(state) {
+                // there are more log lines than game states
+                // too lazy to sync the two up properly
+                if (state === undefined) {
+                    return;
+                }
+                var node = document.getElementById("gamedisplay");
+                while (node.firstChild) {
+                    node.removeChild(node.firstChild);
+                }
+                var deckEle = document.getElementById("decks");
+                while (deckEle.firstChild) {
+                    deckEle.removeChild(deckEle.firstChild);
+                }
+
+                var cardsInPlay = null;
+                var pnames = [];
+                for (var key in state) {
+                    if (state.hasOwnProperty(key) && key !== 'supply' && key !== 'trash') {
+                        pnames.push(key);
+                    }
+                }
+                createSupply(state['supply']);
+                for (var i = 0; i < pnames.length; i++) {
+                    createPlayerElements(state[pnames[i]], pnames[i]);
+                }
+                // there will be an extra horizontal line, remove it
+                var decks = document.getElementById("decks");
+                decks.removeChild(decks.lastChild);
+                createTrash(state['trash']);
+            }
+
+            function createTrash(trash) {
+                var node = document.getElementById("trashContainer");
+                while (node.firstChild) {
+                    node.removeChild(node.firstChild);
+                }
+                for (var card in trash) {
+                    if (trash.hasOwnProperty(card)) {
+                        node.appendChild(createCount(trash[card], card, false));
+                    }
+                }
+            }
+
+            function createSupply(supply) {
+                var node = document.getElementById("supplyContainer");
+                while (node.firstChild) {
+                    node.removeChild(node.firstChild);
+                }
+                /* basic cards */
+                // base victory
+                var baseRow = document.createElement("tr");
+                node.appendChild(baseRow);
+                var vptd = document.createElement("td");
+                vptd.className = "costblock";
+                vptd.appendChild(createCostHeading("Victory"));
+                for (var i = 0; i < kingdomVictory.length; i++) {
+                    var card = kingdomVictory[i];
+                    if (supply.hasOwnProperty(card)) {
+                        vptd.appendChild(createCount(supply[card], card, true));
+                    }
+                }
+                baseRow.appendChild(vptd);
+                // base treasure
+                var treasuretd = document.createElement("td");
+                treasuretd.className = "costblock";
+                treasuretd.appendChild(createCostHeading("Treasure"));
+                for (var i = 0; i < kingdomTreasure.length; i++) {
+                    var card = kingdomTreasure[i];
+                    if (supply.hasOwnProperty(card)) {
+                        treasuretd.appendChild(createCount(supply[card], card, true));
+                    }
+                }
+                baseRow.appendChild(treasuretd);
+
+                var done = kingdomVictory.concat(kingdomTreasure);
+                var cards = [];
+                for (var card in supply) {
+                    if (supply.hasOwnProperty(card)) {
+                        var has = false;
+                        for (var i = 0; i < done.length; i++) {
+                            if (card === done[i]) {
+                                has = true;
+                                break;
+                            }
+                        }
+                        if (!has) {
+                            cards.push(card);
+                        }
+                    }
+                }
+
+                /* the rest */
+                var col = 2;
+                var row = baseRow;
+                var cell = document.createElement("td");
+                cell.className = "costblock";
+                row.appendChild(cell);
+                cards.sort(function(a,b) { return -(costs[a] - costs[b]); });
+                var cost = costs[cards[0]];
+                cell.appendChild(createCostHeading(cost));
+
+                for (var i = 0; i < cards.length; i++) {
+                    var card = cards[i];
+                    if (costs[card] < cost) {
+                        cost = costs[card];
+                        // move to a new column
+                        col++;
+                        if (col == 3) {
+                            row = document.createElement("tr");
+                            node.appendChild(row);
+                            col = 0;
+                        }
+                        cell = document.createElement("td");
+                        cell.className = "costblock";
+                        row.appendChild(cell);
+                        cell.appendChild(createCostHeading(cost));
+                    }
+                    cell.appendChild(createCount(supply[card], card, true));
+                }
+            }
+
+            var states = null;
+
+            window.onload = function() {
+                var log = {{ log|tojson }};
+                states = {{ states|tojson }};
+                selected = 0;
+                for (var i = 0; i < log.length; i++) {
+                    var line = log[i];
+                    document.getElementById("log").appendChild(createLogLine(line, i));
+                }
+                createDisplayElements(states[0]);
+                document.getElementById("0").className = "selected";
+            }
+        </script>
+    </head>
+    <body>
+        <form action="/replay" method="GET">
+            <input name='log_url' type="text" value="{{ logurl }}"/>
+            <input type="submit" value="Load Replay"/>
+        </form>
+        <table width="70%">
+            <td width="55%" class="base">
+                <div id="gamedisplay">
+                </div>
+                <br>
+                <div>Supply</div>
+                <table id="supplyContainer" class="supp">
+                    <tr></tr>
+                </table>
+                <div id="trashContainer" class="trash">
+                </div>
+            </td>
+            <td width="15%" class="base">
+                <div id="decks" style="overflow:auto">
+                </div>
+            </td>
+        <table>
+        <div id="log" style="overflow:auto;position:fixed;width:30%;left:70%;top:0px;bottom:0px">
+        </div>
+    </body>
+</html>

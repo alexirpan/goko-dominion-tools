@@ -2,6 +2,10 @@ body {
     font-family: Arial;
 }
 
+div.inline {
+    float: left;
+}
+
 p.line {
     background-color: white;
 }
