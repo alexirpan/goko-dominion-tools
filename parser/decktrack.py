@@ -1144,7 +1144,6 @@ def generate_game_states(logtext, debug=True):
         if m:
             possessed = "[possessed]" in line
             curr_player = m.group(1)
-            state.get_player(curr_player).reset_fields_for_new_turn()
             continue
         m = RE_OVERPAYS.match(line)
         if m:
@@ -1166,6 +1165,7 @@ def generate_game_states(logtext, debug=True):
             state.get_player(pname).discard_hand()
             state.get_player(pname).discard_play()
             state.get_player(pname).update_durations()
+            state.get_player(pname).reset_fields_for_new_turn()
             continue
         m = RE_TREASURE_PLAYS.match(line)
         if m:

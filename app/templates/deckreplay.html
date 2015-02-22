@@ -716,7 +716,9 @@
                 for (var card in durationcards) {
                     if (durationcards.hasOwnProperty(card)) {
                         count += durationcards[card];
-                        if (count > 0) { break; }
+                        if (count > 0) {
+                            break;
+                        }
                     }
                 }
                 if (count > 0) {
@@ -730,9 +732,27 @@
                     }
                     node.appendChild(document.createElement("br"));
                 }
+
+                // actions, buys, coins
+                var act = player['actions'];
+                var buy = player['buys'];
+                var coins = player['coins'];
+                var info = document.createElement("p");
+                info.innerHTML = "Actions: " + act + ", Buys: " + buy, "Money: $" + coins;
+                node.appendChild(info);
+
+                if (player['coin_tokens'] > 0) {
+                    var ct = document.createElement("p");
+                    ct.innerHTML = player['coin_tokens'];
+                    node.appendChild(ct);
+                }
+
                 createDraw(name, player['draw']);
                 createDiscard(name, player['discard']);
                 displayOtherZones(name, player);
+
+                // add spacing between players
+                node.appendChild(document.createElement("br"));
             }
 
             function createDisplayElements(state) {
