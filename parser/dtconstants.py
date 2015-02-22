@@ -196,15 +196,10 @@ CARDNAME_TO_ACTIONS_BUYS_COINS = {
     'Merchant Guild': (0,1,1),
 }
 
-CARDNAME_TO_COIN_TOKENS = {
-    'Candlestick Maker': 1,
-    'Baker': 1,
-    'Butcher': 2,
-}
 
 CARDNAME_TO_VP_TOKENS = {
+    # Bishop's VP is not logged, but Monument's is
     'Bishop': 1,
-    'Monument': 1,
 }
 
 # A giant card type dictionary

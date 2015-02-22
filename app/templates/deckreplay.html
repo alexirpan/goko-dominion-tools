@@ -250,6 +250,9 @@
                 'Journeyman':'action',
                 'Merchant Guild':'action',
                 'Soothsayer':'action-attack',
+                // these are not cards but it makes things display nicely
+                'VP chips': 'vp-chip',
+                'coin tokens': 'vp-chip',
             };
 
             // potion costs are fractional to give desired sort order
@@ -672,6 +675,15 @@
                     displayCardsNewLine(node, player['setaside']);
                 }
 
+                if (player['vp_tokens']) > 0 {
+                    // use the card adding code (this is pretty hacky)
+                    var cards = { 'VP chips': player['vp_tokens'] };
+                    displayCardsNewLine(node, cards);
+                }
+                if (player['coin_tokens']) > 0 {
+                    var cards = { 'coin tokens': player['coin_tokens'] };
+                    displayCardsNewLine(node, cards);
+                }
                 // add the closing line
                 var hr = document.createElement("hr");
                 hr.align = "left";
@@ -741,11 +753,6 @@
                 info.innerHTML = "Actions: " + act + ", Buys: " + buy + ", Money: $" + coins;
                 node.appendChild(info);
 
-                if (player['coin_tokens'] > 0) {
-                    var ct = document.createElement("p");
-                    ct.innerHTML = player['coin_tokens'];
-                    node.appendChild(ct);
-                }
 
                 createDraw(name, player['draw']);
                 createDiscard(name, player['discard']);

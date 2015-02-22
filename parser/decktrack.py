@@ -60,6 +60,9 @@ RE_BANE = re.compile('(.*) \- reveals bane (.*)$')
 RE_TAKES_ACTIONS = re.compile('(.*) \- takes ([0-9]) action(s?)')
 RE_TAKES_BUYS = re.compile('(.*) \- takes ([0-9]) buy(s?)')
 RE_TAKES_COINS = re.compile('(.*) \- takes ([0-9]) coin(s?)')
+RE_GETS_COIN_TOKENS = re.compile('(.*) \- receives ([0-9]) coin token(s?)')
+RE_USES_COIN_TOKENS = re.compile('(.*) \- uses ([0-9]+) coin token(s?)')
+RE_GETS_VP = re.compile('(.*) \- receives ([0-9]+) victory point chip(s?)')
 
 # Haven edge case (must be checked before edge case below)
 RE_RETURN_SET_ASIDE = re.compile('(.*) \- places set aside (.*) in hand$')
@@ -968,8 +971,6 @@ def handle_on_play(player, card):
         player.actions += a
         player.buys += b
         player.coins += c
-    if card in CARDNAME_TO_COIN_TOKENS:
-        player.coin_tokens += CARDNAME_TO_COIN_TOKENS[card]
     if card in CARDNAME_TO_VP_TOKENS:
         player.vp_tokens += CARDNAME_TO_VP_TOKENS[card]
 
@@ -1693,7 +1694,22 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             state.get_player(pname).coins += 2
             state.get_player(pname).buys += 1
-        continue
+        m = RE_GETS_COIN_TOKENS.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).coin_tokens += int(m.group(2))
+            continue
+        m = RE_USES_COIN_TOKENS.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).coin_tokens -= int(m.group(2))
+            continue
+        m = RE_GETS_VP.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).vp_tokens += int(m.group(2))
+            continue
+
 
     # states are out of sync for some reason
     # quick fix
