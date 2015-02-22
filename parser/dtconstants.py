@@ -144,6 +144,7 @@ CARDNAME_TO_ACTIONS_BUYS_COINS = {
     'Sir Martin': (0,2,0),
      # TODO spice merchant
     'Spy': (1,0,0),
+    'Squire': (0,0,1),
     'Stables': (1,0,0),
     'Swindler': (0,0,2),
     'Tournament': (1,0,0),
