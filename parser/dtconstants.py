@@ -49,6 +49,163 @@ for bot in BOT_NAMES:
         bot_copies.append('%s %s' % (bot, nth))
 BOT_NAMES += bot_copies
 
+# Since Goko does not log the number of actions earned on
+# playing a card, do so here.
+# TODO Fool's Gold
+CARDNAME_TO_ACTIONS_BUYS_COINS = {
+    'Border Village': (2,0,0),
+    'Farming Village': (2,0,0),
+    'Mining Village': (2,0,0),
+    'Native Village': (2,0,0),
+    'Walled Village': (2,0,0),
+    'Worker\'s Village': (2,1,0),
+    'Ruined Village': (1,0,0),
+    'Fishing Village': (2,0,1),
+    'Village': (2,0,0),
+    'Abandoned Mine': (0,0,1),
+    'Bag of Gold': (1,0,0),
+    'Gold': (0,0,3),
+    'Copper': (0,0,1),
+    'Ruined Market': (0,1,0),
+    'Grand Market': (1,1,2),
+    'Black Market': (0,0,2),
+    'Market Square': (1,1,0),
+    'Market': (1,1,1),
+    'Alchemist': (1,0,0),
+    'Apothecary': (1,0,0),
+    'Apprentice': (1,0,0),
+    'Bandit Camp': (2,0,0),
+    'Baron': (0,1,0), # TODO Baron
+    'Bazaar': (2,0,1),
+    'Bishop': (0,0,1),
+    'Bridge': (0,1,1), # TODO Bridge/highway cost reduction
+    'Cartographer': (1,0,0),
+    'Cellar': (1,0,0),
+    'Chancellor': (0,0,2),
+    'City': (2,0,0), # TODO activated Cities
+    'Conspirator': (0,0,2),
+    'Council Room': (0,1,0),
+    # TODO Cultist played by Cultist
+    'Cutpurse': (0,0,2),
+    'Dame Molly': (2,0,0),
+    'Dame Sylvia': (0,0,2),
+    'Death Cart': (0,0,5),
+    'Duchess': (0,0,2),
+    'Embargo': (0,0,2),
+    'Familiar': (1,0,0),
+    'Festival': (2,1,2),
+    'Forager': (1,1,0),
+    'Fortress': (2,0,0),
+    'Fortune Teller': (0,0,2),
+    'Goons': (0,1,2),
+    'Governor': (1,0,0),
+    'Haggler': (0,0,2),
+    'Hamlet': (1,0,0),
+    # TODO money from Harvest
+    'Herbalist': (0,1,1),
+    'Highway': (1,0,0),
+    'Hunting Party': (1,0,0),
+    'Inn': (2,0,0),
+    'Ironmonger': (1,0,0),
+    # TODO Ironworks/Ironmonger revelas (may already be logged)
+    'Jester': (0,0,2),
+    'Junk Dealer': (1,0,1),
+    'Laboratory': (1,0,0),
+    'Lookout': (1,0,0),
+    'Madman': (2,0,0),
+    'Mandarin': (0,0,3),
+    'Margrave': (0,1,0),
+    'Menagerie': (1,0,0),
+    #TODO MErc money on trash
+    'Militia': (0,0,2),
+    # TODO moneylender on trash
+    'Monument': (0,0,2),
+    'Mountebank': (0,0,2),
+    'Mystic': (1,0,2),
+    'Navigator': (0,0,2),
+    'Noble Brigand': (0,0,1),
+    'Nomad Camp': (0,1,2),
+    'Oasis': (1,0,1),
+    'Pearl Diver': (1,0,0),
+    'Peddler': (1,0,1),
+     # TODO poor house
+    'Princess': (0,1,0),
+    'Rats': (1,0,0),
+    'Rebuild': (1,0,0),
+    'Rogue': (0,0,2),
+    'Sage': (1,0,0),
+    'Salvager': (0,1,0),
+    'Scavenger': (0,0,2),
+    'Scheme': (1,0,0),
+    'Scout': (1,0,0),
+    'Scrying Pool': (1,0,0),
+    'Shanty Town': (2,0,0),
+    'Sir Bailey': (1,0,0),
+    'Sir Martin': (0,2,0),
+     # TODO spice merchant
+    'Spy': (1,0,0),
+    'Stables': (1,0,0),
+    'Swindler': (0,0,2),
+    'Tournament': (1,0,0),
+     # TODO TR money
+    'Trade Route': (0,1,0),
+    'Treasury': (1,0,1),
+     # TODO tribute?
+    'University': (2,0,0),
+    'Upgrade': (1,0,0),
+    'Urchin': (1,0,0),
+    'Vagrant': (1,0,0),
+    'Wandering Minstrel': (2,0,0),
+    'Warehouse': (1,0,0),
+    'Wishing Well': (1,0,0),
+    'Woodcutter': (0,1,2),
+    'Horse Traders': (0,1,3),
+    # TODO Bank
+    'Cache': (0,0,3),
+    'Contraband': (0,1,3),
+    'Counterfeit': (0,1,1),
+     #TODO Diadem
+    'Diadem': (0,0,2),
+    'Hoard': (0,0,2),
+    'Ill-Gotten Gains': (0,0,1),
+    'Loan': (0,0,1),
+    'Platinum': (0,0,5),
+    # TODO potion
+    'Quarry': (0,0,1),
+    'Royal Seal': (0,0,2),
+    'Silver': (0,0,2),
+    'Spoils': (0,0,3),
+    'Stash': (0,0,2),
+    'Talisman': (0,0,1),
+    'Venture': (0,0,1),
+    'Caravan': (1,0,0),
+    'Haven': (1,0,0),
+    'Lighthouse': (1,0,1),
+    'Merchant Ship': (0,0,2),
+    'Wharf': (0,1,0),
+    'Great Hall': (1,0,0),
+    'Harem': (0,0,2),
+    'Necropolis': (2,0,0),
+    'Candlestick Maker': (0,1,0),
+    'Masterpiece': (0,0,1),
+    'Advisor': (1,0,0),
+    'Herald': (1,0,0),
+    'Plaza': (2,0,0),
+    'Baker': (1,0,0),
+    'Merchant Guild': (0,1,1),
+}
+
+CARDNAME_TO_COIN_TOKENS = {
+    'Candlestick Maker': 1,
+    'Baker': 1,
+    'Butcher': 2,
+}
+
+CARDNAME_TO_VP_TOKENS = {
+    'Bishop': 1,
+    'Monument': 1,
+}
+
 # A giant card type dictionary
 # Wheeeeeee
 # (This is copy pasted from the Javascript for the log prettifier,

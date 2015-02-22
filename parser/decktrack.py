@@ -57,6 +57,10 @@ RE_REVEALS2 = re.compile('(.*) \- reveals (.*)$')
 RE_REVEALS_HAND = re.compile('(.*) \- reveals hand:(.*)$')
 RE_BANE = re.compile('(.*) \- reveals bane (.*)$')
 
+RE_TAKES_ACTIONS = re.compile('(.*) \- takes ([0-9]) action(s?)')
+RE_TAKES_BUYS = re.compile('(.*) \- takes ([0-9]) buy(s?)')
+RE_TAKES_COINS = re.compile('(.*) \- takes ([0-9]) coin(s?)')
+
 # Haven edge case (must be checked before edge case below)
 RE_RETURN_SET_ASIDE = re.compile('(.*) \- places set aside (.*) in hand$')
 # wording for Hunting Party, Wishing Well, Farming Village, etc
@@ -84,6 +88,8 @@ RE_INN = re.compile('(.*) \- gains Inn$')
 RE_SCHEME = re.compile('(.*) \- Scheme choice: (.*)$')
 RE_FG = re.compile("(.*) \- trashes Fool's Gold$")
 RE_BEGGAR = re.compile('(.*) \- reveals reaction Beggar$')
+RE_SM_ACTIONS = re.compile('(.*) \- chooses two cards and one action$')
+RE_SM_BUY = re.compile('(.*) \- chooses two coins and one buy$')
 
 RE_PLAYS_STR = '(.*) \- plays ([^\(]*)$'
 RE_PRINCE_STR = '(.*) \- duration Prince$'
@@ -635,6 +641,12 @@ class PlayerState:
         self.setaside = Counter()
         self.durationarea = Counter()
         self.trashed = Counter()
+        self.actions = 0
+        self.actions_played_this_turn = 0
+        self.buys = 0
+        self.coins = 0
+        self.vp_tokens = 0
+        self.coin_tokens = 0
 
     def draw(self, card):
         _move(card, self.drawpile, self.hand)
@@ -763,6 +775,11 @@ class PlayerState:
         d['play'] = dict(self.playarea)
         d['setaside'] = dict(self.setaside)
         d['duration'] = dict(self.durationarea)
+        d['actions'] = self.actions
+        d['buys'] = self.buys
+        d['coins'] = self.coins
+        d['coin_tokens'] = self.coin_tokens
+        d['vp_tokens'] = self.vp_tokens
         return d
 
     def set_aside(self, card):
@@ -774,11 +791,16 @@ class PlayerState:
     def return_set_aside(self, card):
         _move(card, self.setaside, self.hand)
 
-
     def draw_wild(self):
         self.hand[GameState.WILD] += 1
         # we need to make sure the number of cards in the deck is correct
         self.drawpile[GameState.WILD] -= 1
+
+    def reset_fields_for_new_turn(self):
+        self.actions = 1
+        self.buys = 1
+        self.coins = 0
+        self.actions_played_this_turn = 0
 
 
 
@@ -824,19 +846,6 @@ class GameState:
     def add_to_hand(self, pname, card):
         print 'ADD TO HAND IS DEPRECATED.'
         self.player_states[pname].add_card_to_hand(card)
-
-    def handle_treasure_case(self, pname, line):
-        ps = self.player_states[pname]
-        line = line[line.rfind('-'):]
-        # Remove "- plays "
-        line = line[8:]
-        treasure_names_and_num = line.split(', ')
-        for token in treasure_names_and_num:
-            num, cardname = token.split(' ', 1)
-            self.set_last_card_played(pname, cardname)
-            num = int(num)
-            for _ in range(num):
-                ps.play(cardname)
 
     def draw_wild(self, pname):
         self.draw_card(pname, GameState.WILD)
@@ -949,6 +958,27 @@ class GameState:
     def trash_from_revealed(self, pname, card):
         self.trashpile[card] += 1
         self.player_states[pname].lose_card_from_revealed(card)
+
+
+def handle_on_play(player, card):
+    if 'action' in CARDNAME_TO_TYPE[card].split('-'):
+        player.actions_played_this_turn += 1
+    if card in CARDNAME_TO_ACTIONS_BUYS_COINS:
+        a, b, c = CARDNAME_TO_ACTIONS_BUYS_COINS[card]
+        player.actions += a
+        player.buys += b
+        player.coins += c
+    if card in CARDNAME_TO_COIN_TOKENS:
+        player.coin_tokens += CARDNAME_TO_COIN_TOKENS[card]
+    if card in CARDNAME_TO_VP_TOKENS:
+        player.vp_tokens += CARDNAME_TO_VP_TOKENS[card]
+
+    if card == 'Crossroads' and 'Crossroads' not in player.playarea:
+        player.actions += 3
+    if card == 'Copper':
+        player.coins += player.playarea['Coppersmith']
+    if card == 'Conspirator' and player.actions_played_this_turn >= 3:
+        player.actions += 1
 
 
 def snowflakes(line):
@@ -1114,6 +1144,7 @@ def generate_game_states(logtext, debug=True):
         if m:
             possessed = "[possessed]" in line
             curr_player = m.group(1)
+            state.get_player(curr_player).reset_fields_for_new_turn()
             continue
         m = RE_OVERPAYS.match(line)
         if m:
@@ -1138,16 +1169,31 @@ def generate_game_states(logtext, debug=True):
             continue
         m = RE_TREASURE_PLAYS.match(line)
         if m:
-            # This doesn't need to update state.last_card_played since
-            # the play treasures buttons only plays treasures with no side effects
             pname = m.group(1)
-            state.handle_treasure_case(pname, line)
+            ps = state.get_player(pname)
+            line = line[line.rfind('-'):]
+            # Remove "- plays "
+            line = line[8:]
+            treasure_names_and_num = line.split(', ')
+            for token in treasure_names_and_num:
+                num, cardname = token.split(' ', 1)
+                state.set_last_card_played(pname, cardname)
+                num = int(num)
+                for _ in xrange(num):
+                    handle_on_play(ps, cardname)
+                    ps.play(cardname)
+                # This doesn't need to update state.last_card_played since
+                # the play treasures buttons only plays treasures with no side effects
             continue
         m = RE_PLAYS.match(line)
         if m:
             pname = m.group(1)
             card = m.group(2)
             state.set_last_card_played(pname, card)
+            # Spend an action if its an action card
+            if 'action' in CARDNAME_TO_TYPE[card].split('-'):
+                state.get_player(pname).actions -= 1
+            handle_on_play(state.get_player(pname), card)
 
             if state.last_card_played in RETURN_TO_SUPPLY_ON_PLAY:
                 state.return_to_supply(pname, card)
@@ -1162,6 +1208,7 @@ def generate_game_states(logtext, debug=True):
             pname = m.group(1)
             card = m.group(2)
             state.set_last_card_played(pname, card)
+            handle_on_play(state.get_player(pname), card)
             # sEme casework
             if HERALD_ANN in line or GOLEM_ANN in line or VENTURE_ANN in line:
                 # play the card from revealed area
@@ -1621,6 +1668,32 @@ def generate_game_states(logtext, debug=True):
             card = m.group(2)
             state.get_player(pname).topdeck_played(card)
             continue
+        m = RE_TAKES_ACTIONS.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).actions += int(m.group(2))
+            continue
+        m = RE_TAKES_BUYS.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).buys += int(m.group(2))
+            continue
+        m = RE_TAKES_COINS.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).coins += int(m.group(2))
+            continue
+        m = RE_SM_ACTIONS.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).actions += 1
+            continue
+        m = RE_SM_BUY.match(line)
+        if m:
+            pname = m.group(1)
+            state.get_player(pname).coins += 2
+            state.get_player(pname).buys += 1
+        continue
 
     # states are out of sync for some reason
     # quick fix
