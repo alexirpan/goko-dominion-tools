@@ -675,12 +675,12 @@
                     displayCardsNewLine(node, player['setaside']);
                 }
 
-                if (player['vp_tokens']) > 0 {
+                if (player['vp_tokens'] > 0) {
                     // use the card adding code (this is pretty hacky)
                     var cards = { 'VP chips': player['vp_tokens'] };
                     displayCardsNewLine(node, cards);
                 }
-                if (player['coin_tokens']) > 0 {
+                if (player['coin_tokens'] > 0) {
                     var cards = { 'coin tokens': player['coin_tokens'] };
                     displayCardsNewLine(node, cards);
                 }
