@@ -675,6 +675,11 @@
                     displayCardsNewLine(node, player['setaside']);
                 }
 
+                if (player['vp_tokens'] > 0 || player['coin_tokens'] > 0) {
+                    p = document.createElement("p");
+                    p.innerHTML = "Other";
+                    node.appendChild(p);
+                }
                 if (player['vp_tokens'] > 0) {
                     // use the card adding code (this is pretty hacky)
                     var cards = { 'VP chips': player['vp_tokens'] };

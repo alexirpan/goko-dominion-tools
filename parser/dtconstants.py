@@ -187,7 +187,7 @@ CARDNAME_TO_ACTIONS_BUYS_COINS = {
     'Great Hall': (1,0,0),
     'Harem': (0,0,2),
     'Necropolis': (2,0,0),
-    'Candlestick Maker': (0,1,0),
+    'Candlestick Maker': (1,1,0),
     'Masterpiece': (0,0,1),
     'Advisor': (1,0,0),
     'Herald': (1,0,0),
